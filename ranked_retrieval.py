@@ -1,5 +1,6 @@
 import re
 import json
+import math
 
 # TODO: Take IndexFolderName
 document_id_file = json.load(open("Index/DocumentIDFile.txt", "r"))
@@ -35,6 +36,10 @@ def doc_id_to_doc_name(id):
     return docId_docName_dict[str(id)]
 
 
+def term_to_doc_frequency(term):
+    return termId_frequency_dict[str(term_to_term_id(term))]
+
+
 def read_queries(filename):
     with open(filename) as f:
         content = f.readlines()
@@ -54,6 +59,27 @@ def transform_data(content):
         queries.append(tokens)
 
 
+# ltc weighting
+def calculate_tf_idf_for_term_in_query(term, query):
+    tf_raw = query.count(term)
+    tf_weighted = 1 + math.log10(tf_raw)
+    df = term_to_doc_frequency(term)
+    idf = math.log10(N/df)
+    wt = tf_weighted * idf
+    return wt
+
+
+# lnc weighting
+def calculate_tf_idf_for_doc(term, docId):
+    termId = term_to_term_id(term)
+    postings = term_id_to_ilist(str(termId))
+    tf_raw = [posting for posting in postings if posting[0] == docId][0][1]
+    return 1 + math.log10(tf_raw)
+
+
+
 transform_data(read_queries('Queries.txt'))
 print(queries)
 print(N)
+print(calculate_tf_idf_for_term_in_query('Baidu', queries[0]))
+calculate_tf_idf_for_doc('Baidu', 120)
