@@ -46,18 +46,15 @@ def read_queries(filename):
     return content
 
 
-def transform_data(content):
+def transform_query(content):
     queries = []
     for data in content:
         data = data.replace('.', '')   # Remove periods
-        data = re.sub(r'<(head).*?</\1>(?s)', '', data)  # Remove head section from html
-        data = re.sub(r'<(script).*?</\1>(?s)', '', data)  # Remove script section from html
-        data = re.sub(r'<(style).*?</\1>(?s)', '', data)  # Remove style section from html
-        data = re.sub(r'<[^>]*?>', ' ', data)  # Remove html tags
         text = re.sub(r'[^\w\s]', ' ', data)  # Remove all punctuations
         tokens = text.split()
         queries.append(tokens)
     return queries
+
 
 # ltc weighting
 def calculate_normalized_tf_idf_for_query(query):
@@ -110,6 +107,7 @@ def calculate_cosine_scores(query, docId):
 
 def top_k_results(query, k):
     scores = {}
+    contributions = {}
     docs = set()
     for term in query:
         docs.update(term_to_doc_id(term))
@@ -117,11 +115,12 @@ def top_k_results(query, k):
     for docId in docs:
         score, contribution = calculate_cosine_scores(query, docId)
         scores[docId] = score
+        contributions[docId] = contribution
 
-    return sorted(scores.items(), key=itemgetter(1), reverse=True)[:k], contribution
+    return sorted(scores.items(), key=itemgetter(1), reverse=True)[:k], contributions
 
 
-def write_output(raw_query, token_query, results, contribution):
+def write_output(raw_query, token_query, results, contributions):
     with open('Output.txt', 'a') as file:
         output = ''
         output += 'Raw query: ' + raw_query + 'Tokenized query: ' + ', '.join(token_query) + '\n\n'
@@ -131,30 +130,27 @@ def write_output(raw_query, token_query, results, contribution):
             score = result[1]
 
             output += str(docId) + '\t' + docName + '\n'
-            output += 'Snippet Placeholder' + '\n'
+            output += 'Snippet: \n'
+            output += get_doc_snippet(docName, 'crawled_pages') + '\n'
             output += 'Cosine Similarity Score: ' + str(score) + '\n'
-            for key, value in contribution.items():
+            for key, value in contributions[docId].items():
                 output += key + ': ' + str(value) + '; '
             output += '\n\n'
         output += '\n\n'
         file.write(output)
 
 
+def get_doc_snippet(docName, folder):
+    with open(folder + '/' + docName + '.txt', 'r') as file:
+        return file.read(200)
+
+
 def main():
     raw_queries = read_queries('Queries.txt')
-    token_queries = transform_data(raw_queries)
+    token_queries = transform_query(raw_queries)
     for i in range(0, len(token_queries)):
-        results, contribution = top_k_results(token_queries[i], 3)
-        write_output(raw_queries[i], token_queries[i], results, contribution)
+        results, contributions = top_k_results(token_queries[i], 3)
+        write_output(raw_queries[i], token_queries[i], results, contributions)
 
 main()
 
-
-#
-# transform_data(read_queries('Queries.txt'))
-# print(queries)
-# print(term_to_doc_id('Baidu'))
-# print(calculate_normalized_tf_idf_for_query(queries[0]))
-# print(calculate_normalized_tf_idf_for_doc(queries[0],23))
-# print(calculate_cosine_scores(queries[0],97))
-# print(top_k_results(queries[1],5))
