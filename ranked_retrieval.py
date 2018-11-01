@@ -1,6 +1,7 @@
 import re
 import json
 import math
+from operator import itemgetter
 
 # TODO: Take IndexFolderName
 document_id_file = json.load(open("Index/DocumentIDFile.txt", "r"))
@@ -105,6 +106,19 @@ def calculate_cosine_scores(query, docId):
     return score
 
 
+def top_k_results(query, k):
+    scores = {}
+    docs = set()
+    for term in query:
+        docs.update(term_to_doc_id(term))
+
+    for docId in docs:
+        score = calculate_cosine_scores(query, docId)
+        scores[docId] = score
+
+    return sorted(scores.items(), key=itemgetter(1), reverse=True)[:k]
+
+
 
 
 
@@ -116,3 +130,4 @@ print(term_to_doc_id('Baidu'))
 print(calculate_normalized_tf_idf_for_query(queries[0]))
 print(calculate_normalized_tf_idf_for_doc(queries[0],23))
 print(calculate_cosine_scores(queries[0],97))
+top_k_results(['Dubuque'],10)
