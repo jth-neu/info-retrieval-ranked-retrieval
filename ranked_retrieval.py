@@ -83,7 +83,7 @@ def calculate_normalized_tf_idf_for_doc(query, docId):
     for term in query:
         termId = term_to_term_id(term)
         postings = term_id_to_ilist(str(termId))
-        occured_docs = [posting for posting in postings if str(posting[0]) == docId]
+        occured_docs = [posting for posting in postings if posting[0] == docId]
         if len(occured_docs) == 0:
             wt = 0
         else:
@@ -96,6 +96,15 @@ def calculate_normalized_tf_idf_for_doc(query, docId):
     return normalized_vector
 
 
+def calculate_cosine_scores(query, docId):
+    score = 0
+    query_vector = calculate_normalized_tf_idf_for_query(query)
+    doc_vector = calculate_normalized_tf_idf_for_doc(query,docId)
+    for i in range(0, len(query)):
+        score += query_vector[i] * doc_vector[i]
+    return score
+
+
 
 
 
@@ -105,4 +114,5 @@ transform_data(read_queries('Queries.txt'))
 print(queries)
 print(term_to_doc_id('Baidu'))
 print(calculate_normalized_tf_idf_for_query(queries[0]))
-print(calculate_normalized_tf_idf_for_doc(queries[0],'23'))
+print(calculate_normalized_tf_idf_for_doc(queries[0],23))
+print(calculate_cosine_scores(queries[0],97))
