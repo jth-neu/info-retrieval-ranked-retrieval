@@ -13,7 +13,6 @@ docId_docLength_dict = document_id_file[1]
 term_termId_dict = term_id_file[0]
 termId_frequency_dict = term_id_file[1]
 
-queries = []
 # Total number of docs
 N = len(docId_docName_dict)
 
@@ -48,7 +47,7 @@ def read_queries(filename):
 
 
 def transform_data(content):
-    global queries
+    queries = []
     for data in content:
         data = data.replace('.', '')   # Remove periods
         data = re.sub(r'<(head).*?</\1>(?s)', '', data)  # Remove head section from html
@@ -58,7 +57,7 @@ def transform_data(content):
         text = re.sub(r'[^\w\s]', ' ', data)  # Remove all punctuations
         tokens = text.split()
         queries.append(tokens)
-
+    return queries
 
 # ltc weighting
 def calculate_normalized_tf_idf_for_query(query):
@@ -99,11 +98,14 @@ def calculate_normalized_tf_idf_for_doc(query, docId):
 
 def calculate_cosine_scores(query, docId):
     score = 0
+    contribution = {}
     query_vector = calculate_normalized_tf_idf_for_query(query)
     doc_vector = calculate_normalized_tf_idf_for_doc(query,docId)
     for i in range(0, len(query)):
-        score += query_vector[i] * doc_vector[i]
-    return score
+        product = query_vector[i] * doc_vector[i]
+        score += product
+        contribution[query[i]] = product
+    return score, contribution
 
 
 def top_k_results(query, k):
@@ -113,21 +115,46 @@ def top_k_results(query, k):
         docs.update(term_to_doc_id(term))
 
     for docId in docs:
-        score = calculate_cosine_scores(query, docId)
+        score, contribution = calculate_cosine_scores(query, docId)
         scores[docId] = score
 
-    return sorted(scores.items(), key=itemgetter(1), reverse=True)[:k]
+    return sorted(scores.items(), key=itemgetter(1), reverse=True)[:k], contribution
 
 
+def write_output(raw_query, token_query, results, contribution):
+    with open('Output.txt', 'a') as file:
+        output = ''
+        output += 'Raw query: ' + raw_query + 'Tokenized query: ' + ', '.join(token_query) + '\n\n'
+        for result in results:
+            docId = result[0]
+            docName = doc_id_to_doc_name(docId)
+            score = result[1]
+
+            output += str(docId) + '\t' + docName + '\n'
+            output += 'Snippet Placeholder' + '\n'
+            output += 'Cosine Similarity Score: ' + str(score) + '\n'
+            for key, value in contribution.items():
+                output += key + ': ' + str(value) + '; '
+            output += '\n\n'
+        output += '\n\n'
+        file.write(output)
 
 
+def main():
+    raw_queries = read_queries('Queries.txt')
+    token_queries = transform_data(raw_queries)
+    for i in range(0, len(token_queries)):
+        results, contribution = top_k_results(token_queries[i], 3)
+        write_output(raw_queries[i], token_queries[i], results, contribution)
+
+main()
 
 
-
-transform_data(read_queries('Queries.txt'))
-print(queries)
-print(term_to_doc_id('Baidu'))
-print(calculate_normalized_tf_idf_for_query(queries[0]))
-print(calculate_normalized_tf_idf_for_doc(queries[0],23))
-print(calculate_cosine_scores(queries[0],97))
-top_k_results(['Dubuque'],10)
+#
+# transform_data(read_queries('Queries.txt'))
+# print(queries)
+# print(term_to_doc_id('Baidu'))
+# print(calculate_normalized_tf_idf_for_query(queries[0]))
+# print(calculate_normalized_tf_idf_for_doc(queries[0],23))
+# print(calculate_cosine_scores(queries[0],97))
+# print(top_k_results(queries[1],5))
