@@ -60,26 +60,49 @@ def transform_data(content):
 
 
 # ltc weighting
-def calculate_tf_idf_for_term_in_query(term, query):
-    tf_raw = query.count(term)
-    tf_weighted = 1 + math.log10(tf_raw)
-    df = term_to_doc_frequency(term)
-    idf = math.log10(N/df)
-    wt = tf_weighted * idf
-    return wt
+def calculate_normalized_tf_idf_for_query(query):
+    vector = []
+    length = 0
+    for term in query:
+        tf_raw = query.count(term)
+        tf_weighted = 1 + math.log10(tf_raw)
+        df = term_to_doc_frequency(term)
+        idf = math.log10(N/df)
+        wt = tf_weighted * idf
+        vector.append(wt)
+        length += wt ** 2
+    length = math.sqrt(length)
+    normalized_vector = [wt / length for wt in vector]
+    return normalized_vector
 
 
 # lnc weighting
-def calculate_tf_idf_for_doc(term, docId):
-    termId = term_to_term_id(term)
-    postings = term_id_to_ilist(str(termId))
-    tf_raw = [posting for posting in postings if posting[0] == docId][0][1]
-    return 1 + math.log10(tf_raw)
+def calculate_normalized_tf_idf_for_doc(query, docId):
+    vector = []
+    length = 0
+    for term in query:
+        termId = term_to_term_id(term)
+        postings = term_id_to_ilist(str(termId))
+        occured_docs = [posting for posting in postings if str(posting[0]) == docId]
+        if len(occured_docs) == 0:
+            wt = 0
+        else:
+            tf_raw = occured_docs[0][1]
+            wt = 1 + math.log10(tf_raw)
+        vector.append(wt)
+        length += wt ** 2
+    length = math.sqrt(length)
+    normalized_vector = [(wt / length if length != 0 else 0) for wt in vector]
+    return normalized_vector
+
+
+
+
 
 
 
 transform_data(read_queries('Queries.txt'))
 print(queries)
-print(N)
-print(calculate_tf_idf_for_term_in_query('Baidu', queries[0]))
-calculate_tf_idf_for_doc('Baidu', 120)
+print(term_to_doc_id('Baidu'))
+print(calculate_normalized_tf_idf_for_query(queries[0]))
+print(calculate_normalized_tf_idf_for_doc(queries[0],'23'))
