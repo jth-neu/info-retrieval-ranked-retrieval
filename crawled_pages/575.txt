@@ -1,0 +1,901 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>West Midlands conurbation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"West_Midlands_conurbation","wgTitle":"West Midlands conurbation","wgCurRevisionId":822547629,"wgRevisionId":822547629,"wgArticleId":351097,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","CS1 errors: dates","Coordinates on Wikidata","Urban areas of England","Urban areas of the United Kingdom","Geography of the West Midlands (county)","West Midlands (region)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"West_Midlands_conurbation","wgRelevantArticleId":351097,"wgRequestId":"W6-ZngrAADYAAGJKKRUAAACW","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"West_Midlands_Urban_Area","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgInternalRedirectTargetUrl":"/wiki/West_Midlands_conurbation","wgCoordinates":{"lat":52.511794,"lon":-1.975307},"wgWikibaseItemId":"Q1292186","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/8/8b/West_Midlands_BUA_2011_with_TTWA_overlay.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/West_Midlands_conurbation"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=West_Midlands_conurbation&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=West_Midlands_conurbation&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/West_Midlands_conurbation"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-West_Midlands_conurbation rootpage-West_Midlands_conurbation skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">West Midlands conurbation</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=West_Midlands_Urban_Area&amp;redirect=no" class="mw-redirect" title="West Midlands Urban Area">West Midlands Urban Area</a>)</span></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/West_Midlands_(county)" title="West Midlands (county)">West Midlands (county)</a> or <a href="/wiki/West_Midlands_(region)" title="West Midlands (region)">West Midlands (region)</a>.</div>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Conurbation in England, United Kingdom</div>
+<table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org">West Midlands</span></th></tr><tr><td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;">
+<span class="category"><a href="/wiki/Conurbation" title="Conurbation">Conurbation</a></span></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center">
+<a href="/wiki/File:West_Midlands_BUA_2011_with_TTWA_overlay.png" class="image" title="Map of the West Midlands conurbation in 2011, with Travel to Work Areas overlaid. The Birmingham and Wolverhampton sub-divisions are highlighted in orange, the Dudley, Walsall and Solihull sub-divisions are highlighted in green."><img alt="Map of the West Midlands conurbation in 2011, with Travel to Work Areas overlaid. The Birmingham and Wolverhampton sub-divisions are highlighted in orange, the Dudley, Walsall and Solihull sub-divisions are highlighted in green." src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/West_Midlands_BUA_2011_with_TTWA_overlay.png/300px-West_Midlands_BUA_2011_with_TTWA_overlay.png" width="300" height="259" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/West_Midlands_BUA_2011_with_TTWA_overlay.png/450px-West_Midlands_BUA_2011_with_TTWA_overlay.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/West_Midlands_BUA_2011_with_TTWA_overlay.png/600px-West_Midlands_BUA_2011_with_TTWA_overlay.png 2x" data-file-width="800" data-file-height="690" /></a><br /><small>Map of the West Midlands conurbation in 2011, with Travel to Work Areas overlaid. The <a href="/wiki/Birmingham" title="Birmingham">Birmingham</a> and <a href="/wiki/Wolverhampton" title="Wolverhampton">Wolverhampton</a> sub-divisions are highlighted in orange, the <a href="/wiki/Dudley" title="Dudley">Dudley</a>, <a href="/wiki/Walsall" title="Walsall">Walsall</a> and <a href="/wiki/Solihull" title="Solihull">Solihull</a> sub-divisions are highlighted in green.</small></td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign state</a></th><td>
+<a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Countries_of_the_United_Kingdom" title="Countries of the United Kingdom">Constituent country</a></th><td>
+<a href="/wiki/England" title="England">England</a></td></tr><tr class="mergedtoprow"><th scope="row">Largest settlements</th><td>
+<div class="NavFrame" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left;">(Pop. 100,000+)</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: left; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><a href="/wiki/Birmingham" title="Birmingham">Birmingham</a></li><li style="line-height: inherit; margin: 0"><a href="/wiki/Wolverhampton" title="Wolverhampton">Wolverhampton</a></li><li style="line-height: inherit; margin: 0"><a href="/wiki/Solihull" title="Solihull">Solihull</a></li></ul>
+</div></td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(<a href="/wiki/United_Kingdom_Census_2011" class="mw-redirect" title="United Kingdom Census 2011">2011 census</a>)</span></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Total</th><td>
+2,440,986</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Rank</th><td>
+<a href="/wiki/List_of_urban_areas_in_the_United_Kingdom" title="List of urban areas in the United Kingdom">3rd</a></td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th><td>
+<a href="/wiki/UTC%2B0" class="mw-redirect" title="UTC+0">UTC+0</a> (<a href="/wiki/Greenwich_Mean_Time" title="Greenwich Mean Time">GMT</a>)</td></tr><tr class="mergedrow"><th scope="row"><span style="white-space:nowrap">&#160;•&#160;Summer (<a href="/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</span></th><td>
+<a href="/wiki/UTC%2B1" class="mw-redirect" title="UTC+1">UTC+1</a> (<a href="/wiki/British_Summer_Time" title="British Summer Time">BST</a>)</td></tr><tr class="mergedtoprow"><th scope="row">Postcode</th><td class="adr">
+<span class="postal-code"><a href="/wiki/B_postcode_area" title="B postcode area">B</a>, <a href="/wiki/DY_postcode_area" title="DY postcode area">DY</a>, <a href="/wiki/WS_postcode_area" title="WS postcode area">WS</a>, <a href="/wiki/WV_postcode_area" title="WV postcode area">WV</a></span></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Telephone_numbering_plan" title="Telephone numbering plan">Area code(s)</a></th><td>
+0121, 01543, 01562, 01384, 01902, 01922</td></tr></tbody></table>
+<p>The <b>West Midlands conurbation</b> is the large <a href="/wiki/Conurbation" title="Conurbation">conurbation</a> that includes the cities of <a href="/wiki/Birmingham" title="Birmingham">Birmingham</a> and <a href="/wiki/Wolverhampton" title="Wolverhampton">Wolverhampton</a> and the large towns of <a href="/wiki/Sutton_Coldfield" title="Sutton Coldfield">Sutton Coldfield</a>, <a href="/wiki/Dudley" title="Dudley">Dudley</a>, <a href="/wiki/Walsall" title="Walsall">Walsall</a>, <a href="/wiki/West_Bromwich" title="West Bromwich">West Bromwich</a>, <a href="/wiki/Solihull" title="Solihull">Solihull</a>, <a href="/wiki/Stourbridge" title="Stourbridge">Stourbridge</a> and <a href="/wiki/Halesowen" title="Halesowen">Halesowen</a> in the <a href="/wiki/England" title="England">English</a> <a href="/wiki/West_Midlands_(region)" title="West Midlands (region)">West Midlands</a>.
+</p><p>Not to be confused with the <a href="/wiki/West_Midlands_(region)" title="West Midlands (region)">region</a> or <a href="/wiki/West_Midlands_(county)" title="West Midlands (county)">metropolitan county</a> of the same name, the conurbation does not include parts of the metropolitan county such as <a href="/wiki/Coventry" title="Coventry">Coventry</a>, but does include parts of the surrounding counties of <a href="/wiki/Staffordshire" title="Staffordshire">Staffordshire</a> (e.g. <a href="/wiki/Little_Aston" title="Little Aston">Little Aston</a>, <a href="/wiki/Perton" title="Perton">Perton</a> and <a href="/wiki/Essington" title="Essington">Essington</a>) and <a href="/wiki/Worcestershire" title="Worcestershire">Worcestershire</a> (such as <a href="/wiki/Hagley" title="Hagley">Hagley</a> and <a href="/wiki/Hollywood,_Worcestershire" title="Hollywood, Worcestershire">Hollywood</a>).
+</p><p>According to the <a href="/wiki/United_Kingdom_Census_2011" class="mw-redirect" title="United Kingdom Census 2011">2011 Census</a> the area had a population of 2,440,986,<sup id="cite_ref-BUA2011_1-0" class="reference"><a href="#cite_note-BUA2011-1">&#91;1&#93;</a></sup> making it the <a href="/wiki/List_of_conurbations_in_the_United_Kingdom" class="mw-redirect" title="List of conurbations in the United Kingdom">third most populated in the United Kingdom</a> behind the <a href="/wiki/Greater_London_Urban_Area" class="mw-redirect" title="Greater London Urban Area">Greater London</a> and <a href="/wiki/Greater_Manchester_Urban_Area" class="mw-redirect" title="Greater Manchester Urban Area">Greater Manchester</a> Built Up Areas.  However it should be stated that the Conurbation sits within the UK's (and therefore England's) largest Metropolitan Area<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> outside London (known as the Birmingham Metropolitan Area).
+</p><p>The conurbation has several other unofficial names, such as the controversial <b>Greater Birmingham</b> (though highly regarded by Businesses of the area), the <b>Birmingham conurbation</b>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> the <b>Birmingham-Wolverhampton conurbation</b><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>, the <b>Birmingham-Black Country conurbation</b><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> and the <b>Greater Birmingham-Black Country Conurbation</b>.
+</p><p>The conurbation is polycentric - Birmingham and Wolverhampton have separate <a href="/wiki/Eurostat" title="Eurostat">Eurostat</a> <a href="/wiki/Larger_Urban_Zones" class="mw-redirect" title="Larger Urban Zones">Larger Urban Zones</a>, and there are separate <a href="/wiki/Travel_to_work_area" title="Travel to work area">Travel to Work areas</a> defined for Birmingham, Wolverhampton, <a href="/wiki/Dudley" title="Dudley">Dudley</a> &amp; <a href="/wiki/Sandwell" title="Sandwell">Sandwell</a> and <a href="/wiki/Walsall" title="Walsall">Walsall</a> &amp; <a href="/wiki/Cannock" title="Cannock">Cannock</a>; whilst the extreme south-west corner of the conurbation at <a href="/wiki/Hagley" title="Hagley">Hagley</a> is within the <a href="/wiki/Kidderminster" title="Kidderminster">Kidderminster</a> Travel to Work Area, and the extreme south-east corner is within the <a href="/wiki/Warwick" title="Warwick">Warwick</a> &amp; <a href="/wiki/Stratford_upon_Avon" class="mw-redirect" title="Stratford upon Avon">Stratford upon Avon</a> TTWA.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Constituent_parts"><span class="tocnumber">1</span> <span class="toctext">Constituent parts</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Administration"><span class="tocnumber">2</span> <span class="toctext">Administration</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Settlements"><span class="tocnumber">3</span> <span class="toctext">Settlements</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#2011_Census"><span class="tocnumber">3.1</span> <span class="toctext">2011 Census</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Prior_censuses"><span class="tocnumber">3.2</span> <span class="toctext">Prior censuses</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Constituent_parts">Constituent parts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=West_Midlands_conurbation&amp;action=edit&amp;section=1" title="Edit section: Constituent parts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:WestMidlandsUrbanArea.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/WestMidlandsUrbanArea.svg/220px-WestMidlandsUrbanArea.svg.png" width="220" height="176" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/WestMidlandsUrbanArea.svg/330px-WestMidlandsUrbanArea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/WestMidlandsUrbanArea.svg/440px-WestMidlandsUrbanArea.svg.png 2x" data-file-width="1282" data-file-height="1024" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:WestMidlandsUrbanArea.svg" class="internal" title="Enlarge"></a></div>The West Midlands Urban Area as at the 2001 Census</div></div></div>
+<p>Although the exact boundaries of any conurbation are open to debate, dependent on what criteria are used to determine where an urban area ceases, the <a href="/wiki/Office_for_National_Statistics" title="Office for National Statistics">Office for National Statistics</a> defines the <b>West Midlands Built Up Area</b> as including the urban areas of Birmingham, Wolverhampton, <a href="/wiki/Solihull" title="Solihull">Solihull</a>, <a href="/wiki/West_Bromwich" title="West Bromwich">West Bromwich</a>, <a href="/wiki/Dudley" title="Dudley">Dudley</a>, and <a href="/wiki/Walsall" title="Walsall">Walsall</a> amongst others. These settlements are not coterminous with the Metropolitan Boroughs of the same name.
+</p><p>The area of conurbation between Birmingham and Wolverhampton is known as the <a href="/wiki/Black_Country" title="Black Country">Black Country</a>. The Black Country has no single centre, having grown up from a number of historic market towns and industrial villages that coalesced during the 20th century. It remains essentially polycentric with many of the towns and villages remaining recognisable communities.
+</p><p><a href="/wiki/Coventry" title="Coventry">Coventry</a> is separated from the West Midlands conurbation by the <a href="/wiki/Meriden_Gap" title="Meriden Gap">Meriden Gap</a>, and other urban areas, such as <a href="/wiki/Cannock" title="Cannock">Cannock</a> and <a href="/wiki/Codsall" title="Codsall">Codsall</a> are also only narrowly avoided.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Birmingham-Skyline-from-Edgbaston-crop.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Birmingham-Skyline-from-Edgbaston-crop.jpg/220px-Birmingham-Skyline-from-Edgbaston-crop.jpg" width="220" height="73" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Birmingham-Skyline-from-Edgbaston-crop.jpg/330px-Birmingham-Skyline-from-Edgbaston-crop.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Birmingham-Skyline-from-Edgbaston-crop.jpg/440px-Birmingham-Skyline-from-Edgbaston-crop.jpg 2x" data-file-width="3128" data-file-height="1043" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Birmingham-Skyline-from-Edgbaston-crop.jpg" class="internal" title="Enlarge"></a></div>Skyline of <a href="/wiki/Birmingham" title="Birmingham">Birmingham</a>.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:St_Peter%27s_Church,_Wolverhampton.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/St_Peter%27s_Church%2C_Wolverhampton.jpg/220px-St_Peter%27s_Church%2C_Wolverhampton.jpg" width="220" height="175" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/St_Peter%27s_Church%2C_Wolverhampton.jpg/330px-St_Peter%27s_Church%2C_Wolverhampton.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/St_Peter%27s_Church%2C_Wolverhampton.jpg/440px-St_Peter%27s_Church%2C_Wolverhampton.jpg 2x" data-file-width="1000" data-file-height="796" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:St_Peter%27s_Church,_Wolverhampton.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/St_Peter%27s_Collegiate_Church" title="St Peter&#39;s Collegiate Church">St Peter's Collegiate Church</a> in <a href="/wiki/Wolverhampton" title="Wolverhampton">Wolverhampton</a>.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Solihull_High_Street.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Solihull_High_Street.jpg/220px-Solihull_High_Street.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Solihull_High_Street.jpg/330px-Solihull_High_Street.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Solihull_High_Street.jpg/440px-Solihull_High_Street.jpg 2x" data-file-width="1296" data-file-height="972" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Solihull_High_Street.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Solihull" title="Solihull">Solihull</a> High Street.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Sutton_Coldfield_Town_Hall.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sutton_Coldfield_Town_Hall.jpg/220px-Sutton_Coldfield_Town_Hall.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sutton_Coldfield_Town_Hall.jpg/330px-Sutton_Coldfield_Town_Hall.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sutton_Coldfield_Town_Hall.jpg/440px-Sutton_Coldfield_Town_Hall.jpg 2x" data-file-width="640" data-file-height="480" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Sutton_Coldfield_Town_Hall.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Sutton_Coldfield" title="Sutton Coldfield">Sutton Coldfield</a> Town Hall.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Dudley_Town_Centre_-_geograph.org.uk_-_1101887.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Dudley_Town_Centre_-_geograph.org.uk_-_1101887.jpg/220px-Dudley_Town_Centre_-_geograph.org.uk_-_1101887.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Dudley_Town_Centre_-_geograph.org.uk_-_1101887.jpg/330px-Dudley_Town_Centre_-_geograph.org.uk_-_1101887.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Dudley_Town_Centre_-_geograph.org.uk_-_1101887.jpg/440px-Dudley_Town_Centre_-_geograph.org.uk_-_1101887.jpg 2x" data-file-width="640" data-file-height="428" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Dudley_Town_Centre_-_geograph.org.uk_-_1101887.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Dudley" title="Dudley">Dudley</a> Town Centre.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:ISS_Birmingham_at_night.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/ISS_Birmingham_at_night.jpg/220px-ISS_Birmingham_at_night.jpg" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/ISS_Birmingham_at_night.jpg/330px-ISS_Birmingham_at_night.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/ISS_Birmingham_at_night.jpg/440px-ISS_Birmingham_at_night.jpg 2x" data-file-width="1024" data-file-height="679" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:ISS_Birmingham_at_night.jpg" class="internal" title="Enlarge"></a></div>West Midlands conurbation at night from the <a href="/wiki/ISS" class="mw-redirect" title="ISS">ISS</a>.</div></div></div>
+<h2><span class="mw-headline" id="Administration">Administration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=West_Midlands_conurbation&amp;action=edit&amp;section=2" title="Edit section: Administration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Occasionally the conurbation is seen as being coterminous with the <a href="/wiki/West_Midlands_(county)" title="West Midlands (county)">West Midlands Metropolitan county</a>; however, this includes <a href="/wiki/Coventry" title="Coventry">Coventry</a>, which is separate from the main urban area, and excludes the parts of the surrounding counties of <a href="/wiki/Staffordshire" title="Staffordshire">Staffordshire</a>, <a href="/wiki/Warwickshire" title="Warwickshire">Warwickshire</a> and <a href="/wiki/Worcestershire" title="Worcestershire">Worcestershire</a> that fall within the conurbation.
+</p><p>For administrative purposes, the vast majority of the conurbation falls within the six <a href="/wiki/Metropolitan_Borough" class="mw-redirect" title="Metropolitan Borough">Metropolitan Boroughs</a> of Birmingham, <a href="/wiki/Metropolitan_Borough_of_Dudley" title="Metropolitan Borough of Dudley">Dudley</a>, <a href="/wiki/Sandwell" title="Sandwell">Sandwell</a>, <a href="/wiki/Metropolitan_Borough_of_Solihull" title="Metropolitan Borough of Solihull">Solihull</a>, <a href="/wiki/Metropolitan_Borough_of_Walsall" title="Metropolitan Borough of Walsall">Walsall</a> and Wolverhampton.
+</p><p>Two <a href="/wiki/Local_enterprise_partnership" title="Local enterprise partnership">Local enterprise partnerships (LEPs)</a> cover the majority of the conurbation area:  Black Country LEP comprises the local authorities of Dudley, Sandwell, Walsall and Wolverhampton while the <a href="/wiki/Greater_Birmingham_%26_Solihull_Local_Enterprise_Partnership" class="mw-redirect" title="Greater Birmingham &amp; Solihull Local Enterprise Partnership">Greater Birmingham &amp; Solihull LEP</a> includes those two authorities and a number of satellite boroughs, many remote from the conurbation and not traditionally associated with it (Bromsgrove, Cannock Chase, East Staffordshire, Lichfield, Redditch, Tamworth and Wyre Forest).
+</p>
+<h2><span class="mw-headline" id="Settlements">Settlements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=West_Midlands_conurbation&amp;action=edit&amp;section=3" title="Edit section: Settlements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="2011_Census">2011 Census</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=West_Midlands_conurbation&amp;action=edit&amp;section=4" title="Edit section: 2011 Census">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <b>West Midlands Built Up Area</b> consists of the below settlements.  Due to the change in methodology between the 2001 and 2011 Census, and the amount of change between 2011 Census and previous census data, it is impossible to compare the data directly between 2011 and earlier Censuses. 
+</p>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Rank
+</th>
+<th>Settlement
+</th>
+<th>Population (2011)<sup id="cite_ref-BUA2011_1-1" class="reference"><a href="#cite_note-BUA2011-1">&#91;1&#93;</a></sup>
+</th>
+<td><b>Notes on significant changes since 2001</b>
+</td></tr>
+<tr>
+<td>1
+</td>
+<td><a href="/wiki/Birmingham" title="Birmingham">Birmingham</a>
+</td>
+<td>1,085,810
+</td>
+<td>Gained <a href="/wiki/Quinton,_Birmingham" title="Quinton, Birmingham">Quinton</a> from <a href="/wiki/Oldbury,_West_Midlands" title="Oldbury, West Midlands">Oldbury</a>-<a href="/wiki/Smethwick" title="Smethwick">Smethwick</a> USD.  Gained <a href="/wiki/Minworth" title="Minworth">Minworth</a> from <a href="/wiki/Sutton_Coldfield" title="Sutton Coldfield">Sutton Coldfield</a> USD.
+</td></tr>
+<tr>
+<td>2
+</td>
+<td><a href="/wiki/Wolverhampton" title="Wolverhampton">Wolverhampton</a>
+</td>
+<td>210,319
+</td>
+<td><a href="/wiki/Bilston" title="Bilston">Bilston</a> and <a href="/wiki/Wednesfield" title="Wednesfield">Wednesfield</a> removed from 2001. The three BUASDs combined total 265,178.  <a href="/wiki/Essington" title="Essington">Essington</a> removed and placed within <a href="/wiki/Willenhall" title="Willenhall">Willenhall</a> BUASD.
+</td></tr>
+<tr>
+<td>3
+</td>
+<td><a href="/wiki/Solihull" title="Solihull">Solihull</a>
+</td>
+<td>123,187
+</td>
+<td>Gained <a href="/wiki/Shelly_Green" title="Shelly Green">Shelly Green</a> and <a href="/wiki/Knowle,_West_Midlands" title="Knowle, West Midlands">Knowle</a>-<a href="/wiki/Bentley_Heath" title="Bentley Heath">Bentley Heath</a> from 2001.
+</td></tr>
+<tr>
+<td>4
+</td>
+<td><a href="/wiki/Sutton_Coldfield" title="Sutton Coldfield">Sutton Coldfield</a>
+</td>
+<td>95,107
+</td>
+<td>
+</td></tr>
+<tr>
+<td>5
+</td>
+<td><a href="/wiki/Dudley" title="Dudley">Dudley</a>
+</td>
+<td>79,379
+</td>
+<td><a href="/wiki/Coseley" title="Coseley">Coseley</a>, <a href="/wiki/Kingswinford" title="Kingswinford">Kingswinford</a>, <a href="/wiki/Brierley_Hill" title="Brierley Hill">Brierley Hill</a> and <a href="/wiki/Sedgley" title="Sedgley">Sedgley</a> removed from 2011.  The five BUASDs combined total 215,693.  Gained <a href="/wiki/Cradley_Heath" title="Cradley Heath">Cradley Heath</a> and <a href="/wiki/Quarry_Bank" title="Quarry Bank">Quarry Bank</a> from <a href="/wiki/Oldbury,_West_Midlands" title="Oldbury, West Midlands">Oldbury</a>-<a href="/wiki/Smethwick" title="Smethwick">Smethwick</a> USD.
+</td></tr>
+<tr>
+<td>6
+</td>
+<td><a href="/wiki/West_Bromwich" title="West Bromwich">West Bromwich</a>
+</td>
+<td>72,945
+</td>
+<td><a href="/wiki/Wednesbury" title="Wednesbury">Wednesbury</a> and <a href="/wiki/Tipton" title="Tipton">Tipton</a> removed from 2001.  Town split in two by <a href="/wiki/Sandwell_Valley" title="Sandwell Valley">Sandwell Valley</a> and the two parts are now considered separately.  The four BUASDs combined total 153,366.  Gained <a href="/wiki/Yew_Tree,_West_Bromwich" title="Yew Tree, West Bromwich">Yew Tree</a> from 2001.
+</td></tr>
+<tr>
+<td>7
+</td>
+<td><a href="/wiki/Walsall" title="Walsall">Walsall</a>
+</td>
+<td>67,594
+</td>
+<td><a href="/wiki/Willenhall" title="Willenhall">Willenhall</a>, <a href="/wiki/Darlaston" title="Darlaston">Darlaston</a> and <a href="/wiki/Bloxwich" title="Bloxwich">Bloxwich</a> removed from 2001.  The four BUASDs combined total 185,114.
+</td></tr>
+<tr>
+<td>8
+</td>
+<td><a href="/wiki/Stourbridge" title="Stourbridge">Stourbridge</a>
+</td>
+<td>63,298
+</td>
+<td>Gained <a href="/wiki/Hagley" title="Hagley">Hagley</a> from 2001.
+</td></tr>
+<tr>
+<td>9
+</td>
+<td><a href="/wiki/Halesowen" title="Halesowen">Halesowen</a>
+</td>
+<td>58,135
+</td>
+<td>
+</td></tr>
+<tr>
+<td>10
+</td>
+<td><a href="/wiki/Willenhall" title="Willenhall">Willenhall</a>
+</td>
+<td>51,429
+</td>
+<td>New in 2011.  Previously part of <a href="/wiki/Walsall" title="Walsall">Walsall</a> USD, but also gained <a href="/wiki/Essington" title="Essington">Essington</a> from <a href="/wiki/Wolverhampton" title="Wolverhampton">Wolverhampton</a> USD.
+</td></tr>
+<tr>
+<td>11
+</td>
+<td><a href="/wiki/Kingswinford" title="Kingswinford">Kingswinford</a>
+</td>
+<td>50,801
+</td>
+<td>New in 2011.  Previously part of <a href="/wiki/Dudley" title="Dudley">Dudley</a> USD.
+</td></tr>
+<tr>
+<td>12
+</td>
+<td><a href="/wiki/Smethwick" title="Smethwick">Smethwick</a>
+</td>
+<td>48,765
+</td>
+<td>New in 2011.  Previously part of <a href="/wiki/Oldbury,_West_Midlands" title="Oldbury, West Midlands">Oldbury</a>-Smethwick USD.
+</td></tr>
+<tr>
+<td>13
+</td>
+<td><a href="/wiki/Bloxwich" title="Bloxwich">Bloxwich</a>
+</td>
+<td>47,288
+</td>
+<td>New in 2011.  Previously part of <a href="/wiki/Walsall" title="Walsall">Walsall</a> USD.
+</td></tr>
+<tr>
+<td>13
+</td>
+<td><a href="/wiki/Tipton" title="Tipton">Tipton</a>
+</td>
+<td>42,407
+</td>
+<td>New in 2011.  Previously part of <a href="/wiki/West_Bromwich" title="West Bromwich">West Bromwich</a> USD.
+</td></tr>
+<tr>
+<td>14
+</td>
+<td><a href="/wiki/Aldridge" title="Aldridge">Aldridge</a>
+</td>
+<td>39,463
+</td>
+<td>Gained <a href="/wiki/Rushall,_West_Midlands" title="Rushall, West Midlands">Rushall</a>, <a href="/wiki/Shelfield" title="Shelfield">Shelfield</a> and <a href="/wiki/Pelsall" title="Pelsall">Pelsall</a> from 2001.
+</td></tr>
+<tr>
+<td>15
+</td>
+<td><a href="/wiki/Rowley_Regis" title="Rowley Regis">Rowley Regis</a>
+</td>
+<td>34,260
+</td>
+<td>New in 2011.  Previously part of <a href="/wiki/Oldbury,_West_Midlands" title="Oldbury, West Midlands">Oldbury</a>-<a href="/wiki/Smethwick" title="Smethwick">Smethwick</a> USD.
+</td></tr>
+<tr>
+<td>16
+</td>
+<td><a href="/wiki/Brierley_Hill" title="Brierley Hill">Brierley Hill</a>
+</td>
+<td>31,430
+</td>
+<td>New in 2011.  Previously part of <a href="/wiki/Dudley" title="Dudley">Dudley</a> USD.
+</td></tr>
+<tr>
+<td>17
+</td>
+<td><a href="/wiki/Sedgley" title="Sedgley">Sedgley</a>
+</td>
+<td>30,979
+</td>
+<td>New in 2011.  Previously part of <a href="/wiki/Dudley" title="Dudley">Dudley</a> USD.
+</td></tr>
+<tr>
+<td>18
+</td>
+<td><a href="/wiki/Bilston" title="Bilston">Bilston</a>
+</td>
+<td>29,556
+</td>
+<td>New in 2011.  Previously part of <a href="/wiki/Wolverhampton" title="Wolverhampton">Wolverhampton</a> USD.
+</td></tr>
+<tr>
+<td>19
+</td>
+<td><a href="/wiki/Wednesfield" title="Wednesfield">Wednesfield</a>
+</td>
+<td>25,303
+</td>
+<td>New in 2011.  Previously part of <a href="/wiki/Wolverhampton" title="Wolverhampton">Wolverhampton</a> USD
+</td></tr>
+<tr>
+<td>20
+</td>
+<td><a href="/wiki/Oldbury,_West_Midlands" title="Oldbury, West Midlands">Oldbury</a>
+</td>
+<td>23,964
+</td>
+<td>New in 2011.  Previously part of <a href="/wiki/Oldbury,_West_Midlands" title="Oldbury, West Midlands">Oldbury</a>-<a href="/wiki/Smethwick" title="Smethwick">Smethwick</a> USD.
+</td></tr>
+<tr>
+<td>21
+</td>
+<td><a href="/wiki/Coseley" title="Coseley">Coseley</a>
+</td>
+<td>23,104
+</td>
+<td>New in 2011.  Previously part of <a href="/wiki/Dudley" title="Dudley">Dudley</a> USD.
+</td></tr>
+<tr>
+<td>22
+</td>
+<td><a href="/wiki/Brownhills" title="Brownhills">Brownhills</a>
+</td>
+<td>20,373
+</td>
+<td>
+</td></tr>
+<tr>
+<td>23
+</td>
+<td><a href="/wiki/Wednesbury" title="Wednesbury">Wednesbury</a>
+</td>
+<td>19,029
+</td>
+<td>New in 2011.  Previously part of <a href="/wiki/West_Bromwich" title="West Bromwich">West Bromwich</a> USD.
+</td></tr>
+<tr>
+<td>24
+</td>
+<td><a href="/wiki/West_Bromwich" title="West Bromwich">West Bromwich</a> East
+</td>
+<td>18,985
+</td>
+<td>New in 2011.  Previously part of <a href="/wiki/West_Bromwich" title="West Bromwich">West Bromwich</a> USD.
+</td></tr>
+<tr>
+<td>25
+</td>
+<td><a href="/wiki/Darlaston" title="Darlaston">Darlaston</a>
+</td>
+<td>18,803
+</td>
+<td>New in 2011.  Previously part of <a href="/wiki/Walsall" title="Walsall">Walsall</a> USD.
+</td></tr>
+<tr>
+<td>26
+</td>
+<td><a href="/wiki/Blackheath,_West_Midlands" title="Blackheath, West Midlands">Blackheath</a>
+</td>
+<td>6,518
+</td>
+<td>New in 2011.  Previously part of <a href="/wiki/Oldbury,_West_Midlands" title="Oldbury, West Midlands">Oldbury</a>-<a href="/wiki/Smethwick" title="Smethwick">Smethwick</a> USD.
+</td></tr>
+<tr>
+<td>27
+</td>
+<td><a href="/wiki/Cheswick_Green" title="Cheswick Green">Cheswick Green</a>
+</td>
+<td>2,197
+</td>
+<td>
+</td></tr>
+<tr>
+<td>28
+</td>
+<td><a href="/wiki/Wythall" title="Wythall">Wythall</a>
+</td>
+<td>1,912
+</td>
+<td>New in 2011.
+</td></tr>
+<tr>
+<td>29
+</td>
+<td><a href="/wiki/Hampton_in_Arden" class="mw-redirect" title="Hampton in Arden">Hampton in Arden</a>
+</td>
+<td>1,678
+</td>
+<td>New in 2011.
+</td></tr>
+<tr>
+<td>30
+</td>
+<td><a href="/wiki/Stonnall" title="Stonnall">Stonnall</a>
+</td>
+<td>1,338
+</td>
+<td>New in 2011.
+</td></tr>
+<tr>
+<td>31
+</td>
+<td><a href="/w/index.php?title=Major%27s_Green&amp;action=edit&amp;redlink=1" class="new" title="Major&#39;s Green (page does not exist)">Major's Green</a>
+</td>
+<td>1,002
+</td>
+<td>New in 2011.
+</td></tr>
+<tr>
+<td>32
+</td>
+<td><a href="/wiki/Tidbury_Green" title="Tidbury Green">Tidbury Green</a>
+</td>
+<td>720
+</td>
+<td>New in 2011.
+</td></tr>
+</tbody></table>
+<p>In the 2011 Census, <a href="/wiki/Coleshill,_Warwickshire" title="Coleshill, Warwickshire">Coleshill</a> and <a href="/wiki/Water_Orton" title="Water Orton">Water Orton</a> are two separate built-up areas with populations of 6,341 and 3,444 respectively.  Prior to 2011, they were considered part of the West Midlands Urban Area.
+</p>
+<h3><span class="mw-headline" id="Prior_censuses">Prior censuses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=West_Midlands_conurbation&amp;action=edit&amp;section=5" title="Edit section: Prior censuses">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Prior to the 2011 census, the conurbation was known by the ONS as the <b>West Midlands Urban Area</b>, which contained the following Urban Sub-Divisions:
+</p>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Rank
+<p>(2001)
+</p>
+</th>
+<th>Settlement
+</th>
+<th>Population
+<p>(2001)<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+</th>
+<th>Population
+<p>(1991)<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+</th>
+<th>Population
+<p>(1981)<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+</th></tr>
+<tr>
+<td>1
+</td>
+<td><a href="/wiki/Birmingham" title="Birmingham">Birmingham</a>
+</td>
+<td>970,892
+</td>
+<td>965,928
+</td>
+<td>1,024,118
+</td></tr>
+<tr>
+<td>2
+</td>
+<td><a href="/wiki/Wolverhampton" title="Wolverhampton">Wolverhampton</a>
+</td>
+<td>251,462
+</td>
+<td>257,943
+</td>
+<td>265,631
+</td></tr>
+<tr>
+<td>3
+</td>
+<td><a href="/wiki/Dudley" title="Dudley">Dudley</a>
+</td>
+<td>194,919
+</td>
+<td>192,171
+</td>
+<td>187,367
+</td></tr>
+<tr>
+<td>4
+</td>
+<td><a href="/wiki/Walsall" title="Walsall">Walsall</a>
+</td>
+<td>170,994
+</td>
+<td>174,739
+</td>
+<td>178,852
+</td></tr>
+<tr>
+<td>5
+</td>
+<td><a href="/wiki/Oldbury,_West_Midlands" title="Oldbury, West Midlands">Oldbury</a> / <a href="/wiki/Smethwick" title="Smethwick">Smethwick</a>
+</td>
+<td>139,855
+</td>
+<td>145,542
+</td>
+<td>153,461
+</td></tr>
+<tr>
+<td>6
+</td>
+<td><a href="/wiki/West_Bromwich" title="West Bromwich">West Bromwich</a>
+</td>
+<td>136,940
+</td>
+<td>146,386
+</td>
+<td>154,531
+</td></tr>
+<tr>
+<td>7
+</td>
+<td><a href="/wiki/Sutton_Coldfield" title="Sutton Coldfield">Sutton Coldfield</a>
+</td>
+<td>105,452
+</td>
+<td>106,001
+</td>
+<td>103,097
+</td></tr>
+<tr>
+<td>8
+</td>
+<td><a href="/wiki/Solihull" title="Solihull">Solihull</a>
+</td>
+<td>94,753
+</td>
+<td>94,531
+</td>
+<td>94,613
+</td></tr>
+<tr>
+<td>9
+</td>
+<td><a href="/wiki/Stourbridge" title="Stourbridge">Stourbridge</a>
+</td>
+<td>55,480
+</td>
+<td>55,624
+</td>
+<td>55,499
+</td></tr>
+<tr>
+<td>10
+</td>
+<td><a href="/wiki/Halesowen" title="Halesowen">Halesowen</a>
+</td>
+<td>55,273
+</td>
+<td>57,918
+</td>
+<td>57,532
+</td></tr>
+<tr>
+<td>11
+</td>
+<td><a href="/wiki/Brownhills" title="Brownhills">Brownhills</a>
+</td>
+<td>19,866
+</td>
+<td>18,159
+</td>
+<td>18,200
+</td></tr>
+<tr>
+<td>12
+</td>
+<td><a href="/wiki/Knowle,_West_Midlands" title="Knowle, West Midlands">Knowle</a> / <a href="/wiki/Bentley_Heath" title="Bentley Heath">Bentley Heath</a>
+</td>
+<td>18,452
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>13
+</td>
+<td><a href="/wiki/Aldridge" title="Aldridge">Aldridge</a>
+</td>
+<td>15,659
+</td>
+<td>16,832
+</td>
+<td>17,589
+</td></tr>
+<tr>
+<td>14
+</td>
+<td><a href="/wiki/Pelsall" title="Pelsall">Pelsall</a>
+</td>
+<td>10,524
+</td>
+<td>10,007
+</td>
+<td>10,328
+</td></tr>
+<tr>
+<td>15
+</td>
+<td><a href="/wiki/Shelfield" title="Shelfield">Shelfield</a>
+</td>
+<td>6,807
+</td>
+<td>7,079
+</td>
+<td>6,029
+</td></tr>
+<tr>
+<td>16
+</td>
+<td><a href="/wiki/Coleshill,_Warwickshire" title="Coleshill, Warwickshire">Coleshill</a>
+</td>
+<td>6,235
+</td>
+<td>6,324
+</td>
+<td>
+</td></tr>
+<tr>
+<td>17
+</td>
+<td><a href="/wiki/Yew_Tree,_West_Bromwich" title="Yew Tree, West Bromwich">Yew Tree</a>
+</td>
+<td>6,109
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>18
+</td>
+<td><a href="/wiki/Rushall,_West_Midlands" title="Rushall, West Midlands">Rushall</a>
+</td>
+<td>5,864
+</td>
+<td>5,871
+</td>
+<td>6,137
+</td></tr>
+<tr>
+<td>19
+</td>
+<td><a href="/wiki/Hagley" title="Hagley">Hagley</a>
+</td>
+<td>5,723
+</td>
+<td>5,417
+</td>
+<td>5,754
+</td></tr>
+<tr>
+<td>20
+</td>
+<td><a href="/wiki/Shelly_Green" title="Shelly Green">Shelly Green</a>
+</td>
+<td>5,702
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>21
+</td>
+<td><a href="/wiki/Water_Orton" title="Water Orton">Water Orton</a>
+</td>
+<td>3,573
+</td>
+<td>3,555
+</td>
+<td>
+</td></tr>
+<tr>
+<td>22
+</td>
+<td><a href="/wiki/Cheswick_Green" title="Cheswick Green">Cheswick Green</a>
+</td>
+<td>2,261
+</td>
+<td>2,511
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Knowle,_West_Midlands" title="Knowle, West Midlands">Knowle</a>
+</td>
+<td>
+</td>
+<td>17,588
+</td>
+<td>16,872
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/wiki/Bentley_Heath" title="Bentley Heath">Bentley Heath</a>
+</td>
+<td>
+</td>
+<td>5,984
+</td>
+<td>
+</td></tr></tbody></table>
+<p><b>Notes</b>: <small>
+</small></p><small></small><ul><small><li>Knowle and Bentley Heath are considered as one settlement in 2001, but are considered separately in 1991 and 1981.  Bentley Heath was not considered to be a settlement within the West Midlands Urban Area in 1981.</li>
+<li>Coleshill and Water Orton were not considered to be part of the West Midlands Urban Area in 1981, but a separate Coleshill/Water Orton Urban Area with a total population of 9,554; made up of Coleshill (6,113) and Water Orton (3,441).</li>
+<li>Yew Tree is only considered part of the West Midlands Urban Area in the 2001 census.</li>
+<li>Cheswick Green was not considered to be a settlement within the West Midlands Urban Area in 1981.</li>
+</small><li><small>Shelly Green was not considered to be a settlement within the West Midlands Urban Area in 1981 or 1991.</small></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=West_Midlands_conurbation&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Constituent_areas_of_Birmingham,_England" class="mw-redirect" title="Constituent areas of Birmingham, England">Constituent areas of Birmingham, England</a></li>
+<li><a href="/wiki/List_of_areas_in_Dudley" title="List of areas in Dudley">List of areas in Dudley</a></li>
+<li><a href="/wiki/List_of_areas_in_Sandwell" title="List of areas in Sandwell">list of areas in Sandwell</a></li>
+<li><a href="/wiki/List_of_areas_in_Walsall" title="List of areas in Walsall">List of areas in Walsall</a></li>
+<li><a href="/wiki/List_of_areas_in_Wolverhampton" title="List of areas in Wolverhampton">List of areas in Wolverhampton</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=West_Midlands_conurbation&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-BUA2011-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-BUA2011_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BUA2011_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nomisweb.co.uk/articles/747.aspx">"2011 Census - Built-up areas"</a>. <a href="/wiki/Office_for_National_Statistics" title="Office for National Statistics">ONS</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2011+Census+-+Built-up+areas&amp;rft.pub=ONS&amp;rft_id=http%3A%2F%2Fwww.nomisweb.co.uk%2Farticles%2F747.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWest+Midlands+conurbation" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=List_of_metropolitan_areas_in_the_United_Kingdom&amp;oldid=816274341">"List of metropolitan areas in the United Kingdom"</a>. <i>Wikipedia</i>. 2017-12-20.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Wikipedia&amp;rft.atitle=List+of+metropolitan+areas+in+the+United+Kingdom&amp;rft.date=2017-12-20&amp;rft_id=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DList_of_metropolitan_areas_in_the_United_Kingdom%26oldid%3D816274341&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWest+Midlands+conurbation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite id="CITEREFFothergillGudgin1985" class="citation">Fothergill, Stephen; Gudgin, Graham (1985), <a rel="nofollow" class="external text" href="https://books.google.com/books?id=UIveI7340EkC&amp;pg=PA89">"Ideology and methods in industrial location research"</a>,  in Massey, Doreen; Meegan, Richard, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=UIveI7340EkC"><i>Politics and Method: Contrasting Studies in Industrial Geography</i></a>, London: Taylor &amp; Francis, p.&#160;89, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0203974557" title="Special:BookSources/0203974557">0203974557</a><span class="reference-accessdate">, retrieved <span class="nowrap">2013-10-06</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Ideology+and+methods+in+industrial+location+research&amp;rft.btitle=Politics+and+Method%3A+Contrasting+Studies+in+Industrial+Geography&amp;rft.place=London&amp;rft.pages=89&amp;rft.pub=Taylor+%26+Francis&amp;rft.date=1985&amp;rft.isbn=0203974557&amp;rft.aulast=Fothergill&amp;rft.aufirst=Stephen&amp;rft.au=Gudgin%2C+Graham&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DUIveI7340EkC%26pg%3DPA89&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWest+Midlands+conurbation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://www.army.mod.uk/structure/28222.aspx"><i>143 (West Midlands) Brigade</i></a>, British Army, 2013<span class="reference-accessdate">, retrieved <span class="nowrap">2013-10-06</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=143+%28West+Midlands%29+Brigade&amp;rft.pub=British+Army&amp;rft.date=2013&amp;rft_id=http%3A%2F%2Fwww.army.mod.uk%2Fstructure%2F28222.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWest+Midlands+conurbation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite id="CITEREFGoode2010" class="citation">Goode, David (2010), <a rel="nofollow" class="external text" href="https://books.google.com/books?id=B2R2OpuvzgEC&amp;pg=PA86">"Planning for Nature in Towns and Cities"</a>,  in Douglas, Ian; Goode, David; Houck, Mike; Wang, Rusong, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=B2R2OpuvzgEC"><i>The Routledge Handbook of Urban Ecology</i></a>, London: Routledge, p.&#160;86, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0203839269" title="Special:BookSources/0203839269">0203839269</a><span class="reference-accessdate">, retrieved <span class="nowrap">2013-10-06</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Planning+for+Nature+in+Towns+and+Cities&amp;rft.btitle=The+Routledge+Handbook+of+Urban+Ecology&amp;rft.place=London&amp;rft.pages=86&amp;rft.pub=Routledge&amp;rft.date=2010&amp;rft.isbn=0203839269&amp;rft.aulast=Goode&amp;rft.aufirst=David&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DB2R2OpuvzgEC%26pg%3DPA86&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWest+Midlands+conurbation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite id="CITEREFWells1982" class="citation">Wells, John C. (1982), <a rel="nofollow" class="external text" href="https://books.google.com/books?id=a3-ElL71fikC&amp;pg=PA350&amp;lpg=PA350#v=onepage&amp;q&amp;f=false">"Accents of English 2: The British Isles"</a>, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=a3-ElL71fikC"><i>Accents of English 2: The British Isles</i></a>, Cambridge: Cambridge University Press, p.&#160;350, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0521285402" title="Special:BookSources/0521285402">0521285402</a><span class="reference-accessdate">, retrieved <span class="nowrap">2013-10-09</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Accents+of+English+2%3A+The+British+Isles&amp;rft.btitle=Accents+of+English+2%3A+The+British+Isles&amp;rft.place=Cambridge&amp;rft.pages=350&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1982&amp;rft.isbn=0521285402&amp;rft.aulast=Wells&amp;rft.aufirst=John+C.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Da3-ElL71fikC%26pg%3DPA350%26lpg%3DPA350%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWest+Midlands+conurbation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite id="CITEREFWay1976" class="citation">Way, J.M. (1976), <a rel="nofollow" class="external text" href="http://nora.nerc.ac.uk/5318/1/Paper03.pdf"><i>Grassed and Planted Areas by Motorways</i></a> <span class="cs1-format">(PDF)</span>, Huntingdon: The Institute of Terrestrial Ecology, p.&#160;8, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0521285402" title="Special:BookSources/0521285402">0521285402</a><span class="reference-accessdate">, retrieved <span class="nowrap">2013-10-09</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Grassed+and+Planted+Areas+by+Motorways&amp;rft.place=Huntingdon&amp;rft.pages=8&amp;rft.pub=The+Institute+of+Terrestrial+Ecology&amp;rft.date=1976&amp;rft.isbn=0521285402&amp;rft.aulast=Way&amp;rft.aufirst=J.M.&amp;rft_id=http%3A%2F%2Fnora.nerc.ac.uk%2F5318%2F1%2FPaper03.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWest+Midlands+conurbation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite id="CITEREFWise1972" class="citation">Wise, M.J. (1972), <a rel="nofollow" class="external text" href="https://www.jstor.org/stable/40568059">"The Birmingham-Black Country Conurbation in its Regional Setting"</a>, <i>Geography Vol 57, number 2</i>, Geographical Association, p.&#160;1<span class="reference-accessdate">, retrieved <span class="nowrap">2013-10-09</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The+Birmingham-Black+Country+Conurbation+in+its+Regional+Setting&amp;rft.btitle=Geography+Vol+57%2C+number+2&amp;rft.pages=1&amp;rft.pub=Geographical+Association&amp;rft.date=1972&amp;rft.aulast=Wise&amp;rft.aufirst=M.J.&amp;rft_id=https%3A%2F%2Fwww.jstor.org%2Fstable%2F40568059&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWest+Midlands+conurbation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite id="CITEREFWhitehead2007" class="citation">Whitehead, Mark (2007), <a rel="nofollow" class="external text" href="https://books.google.com/books?id=z5on8xoWy00C"><i>Spaces of Sustainability: Geographical Perspectives on the Sustainable Society</i></a>, Routledge, p.&#160;155, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0203004094" title="Special:BookSources/0203004094">0203004094</a><span class="reference-accessdate">, retrieved <span class="nowrap">2013-10-06</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Spaces+of+Sustainability%3A+Geographical+Perspectives+on+the+Sustainable+Society&amp;rft.pages=155&amp;rft.pub=Routledge&amp;rft.date=2007&amp;rft.isbn=0203004094&amp;rft.aulast=Whitehead&amp;rft.aufirst=Mark&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dz5on8xoWy00C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWest+Midlands+conurbation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ons.gov.uk/ons/rel/census/census-2001-key-statistics/urban-areas-in-england-and-wales/urban-areas-in-england-and-wales-ks01-usual-resident-population.xls">"2001 census: Key Statistics for Urban Areas"</a>. ONS<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2001+census%3A+Key+Statistics+for+Urban+Areas&amp;rft.pub=ONS&amp;rft_id=http%3A%2F%2Fwww.ons.gov.uk%2Fons%2Frel%2Fcensus%2Fcensus-2001-key-statistics%2Furban-areas-in-england-and-wales%2Furban-areas-in-england-and-wales-ks01-usual-resident-population.xls&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWest+Midlands+conurbation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ons.gov.uk/ons/rel/census/census-2001-key-statistics/urban-areas-in-england-and-wales/urban-areas-in-england-and-wales-ks01-usual-resident-population.xls">"1991 Census: West Midlands Urban Area"</a>. ONS<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=1991+Census%3A+West+Midlands+Urban+Area&amp;rft.pub=ONS&amp;rft_id=http%3A%2F%2Fwww.ons.gov.uk%2Fons%2Frel%2Fcensus%2Fcensus-2001-key-statistics%2Furban-areas-in-england-and-wales%2Furban-areas-in-england-and-wales-ks01-usual-resident-population.xls&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWest+Midlands+conurbation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">"1981 Key Statistics for Urban Areas: The Midlands Table 1". Office for National Statistics. 1981.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=1981+Key+Statistics+for+Urban+Areas%3A+The+Midlands+Table+1&amp;rft.date=1981&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWest+Midlands+conurbation" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=West_Midlands_conurbation&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite id="CITEREFOffice_for_National_Statistics2004" class="citation">Office for National Statistics (2004), <a rel="nofollow" class="external text" href="http://www.ons.gov.uk/ons/rel/census/census-2001-key-statistics/urban-areas-in-the-midlands/urban-areas-in-the-midlands-part-1.pdf"><i>Key Statistics for urban areas in the Midlands</i></a> <span class="cs1-format">(PDF)</span>, London: TSO Laid before Parliament pursuant to Section 4(1) Census Act 1920 Census 2001<span class="reference-accessdate">, retrieved April 2013</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Key+Statistics+for+urban+areas+in+the+Midlands&amp;rft.place=London&amp;rft.pub=TSO+Laid+before+Parliament+pursuant+to+Section+4%281%29+Census+Act+1920+Census+2001&amp;rft.date=2004&amp;rft.au=Office+for+National+Statistics&amp;rft_id=http%3A%2F%2Fwww.ons.gov.uk%2Fons%2Frel%2Fcensus%2Fcensus-2001-key-statistics%2Furban-areas-in-the-midlands%2Furban-areas-in-the-midlands-part-1.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWest+Midlands+conurbation" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">Check date values in: <code class="cs1-code">&#124;accessdate=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li></ul>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=West_Midlands_conurbation&amp;params=52.511794_N_1.975307_W_region:GB_type:city"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°30′42″N</span> <span class="longitude">1°58′31″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.511794°N 1.975307°W</span><span style="display:none">&#xfeff; / <span class="geo">52.511794; -1.975307</span></span></span></a></span></span></span>
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw2277
+Cached time: 20180929134425
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.368 seconds
+Real time usage: 0.438 seconds
+Preprocessor visited node count: 3437/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 49220/2097152 bytes
+Template argument size: 3284/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 34424/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.150/10.000 seconds
+Lua memory usage: 4.28 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  346.587      1 -total
+ 45.03%  156.056      1 Template:Infobox_settlement
+ 35.90%  124.418      1 Template:Reflist
+ 17.35%   60.130      1 Template:Infobox
+ 17.07%   59.174      3 Template:Cite_web
+ 11.96%   41.437      8 Template:Citation
+  8.70%   30.150      1 Template:Coord
+  8.64%   29.928      1 Template:Short_description
+  7.07%   24.515      1 Template:Distinguish
+  4.73%   16.410      1 Template:Pagetype
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:351097-0!canonical and timestamp 20180929134424 and revision id 822547629
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=West_Midlands_conurbation&amp;oldid=822547629">https://en.wikipedia.org/w/index.php?title=West_Midlands_conurbation&amp;oldid=822547629</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Urban_areas_of_England" title="Category:Urban areas of England">Urban areas of England</a></li><li><a href="/wiki/Category:Urban_areas_of_the_United_Kingdom" title="Category:Urban areas of the United Kingdom">Urban areas of the United Kingdom</a></li><li><a href="/wiki/Category:Geography_of_the_West_Midlands_(county)" title="Category:Geography of the West Midlands (county)">Geography of the West Midlands (county)</a></li><li><a href="/wiki/Category:West_Midlands_(region)" title="Category:West Midlands (region)">West Midlands (region)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=West+Midlands+conurbation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=West+Midlands+conurbation" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/West_Midlands_conurbation" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:West_Midlands_conurbation" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/West_Midlands_conurbation">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=West_Midlands_conurbation&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=West_Midlands_conurbation&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/West_Midlands_conurbation" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/West_Midlands_conurbation" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=West_Midlands_conurbation&amp;oldid=822547629" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=West_Midlands_conurbation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1292186" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=West_Midlands_conurbation&amp;id=822547629" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=West+Midlands+conurbation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=West+Midlands+conurbation&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=West_Midlands_conurbation&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%D8%B3%D8%AA_%D9%85%DB%8C%D8%AF%D9%84%D9%86%D8%AF%D8%B2_%DA%A9%D8%A7%D9%86%D8%A7%D8%A8%DB%8C%D8%B4%D9%86" title="وست میدلندز کانابیشن – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Vakar%C5%B3_Midlandso_konurbacija" title="Vakarų Midlandso konurbacija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Conurba%C3%A7%C3%A3o_de_Midlands_Ocidentais" title="Conurbação de Midlands Ocidentais – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A3%D1%8D%D1%81%D1%82-%D0%9C%D0%B8%D0%B4%D0%BB%D0%B5%D0%BD%D0%B4%D1%81_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D0%B3%D0%BB%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F)" title="Уэст-Мидлендс (городская агломерация) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Wast_Midlands_conurbation" title="Wast Midlands conurbation – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Midlandton" title="Midlandton – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/West_Midlands_(t%C3%A4tort)" title="West Midlands (tätort) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ch%C3%B9m_%C4%91%C3%B4_th%E1%BB%8B_West_Midlands" title="Chùm đô thị West Midlands – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%A5%BF%E7%B1%B3%E5%BE%B7%E8%98%AD%E5%9F%8E%E5%B8%82%E5%8D%80" title="西米德蘭城市區 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1292186#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 27 January 2018, at 00:41<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=West_Midlands_conurbation&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.368","walltime":"0.438","ppvisitednodes":{"value":3437,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":49220,"limit":2097152},"templateargumentsize":{"value":3284,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":34424,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  346.587      1 -total"," 45.03%  156.056      1 Template:Infobox_settlement"," 35.90%  124.418      1 Template:Reflist"," 17.35%   60.130      1 Template:Infobox"," 17.07%   59.174      3 Template:Cite_web"," 11.96%   41.437      8 Template:Citation","  8.70%   30.150      1 Template:Coord","  8.64%   29.928      1 Template:Short_description","  7.07%   24.515      1 Template:Distinguish","  4.73%   16.410      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.150","limit":"10.000"},"limitreport-memusage":{"value":4483273,"limit":52428800}},"cachereport":{"origin":"mw2277","timestamp":"20180929134425","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw2229"});});</script>
+	</body>
+</html>

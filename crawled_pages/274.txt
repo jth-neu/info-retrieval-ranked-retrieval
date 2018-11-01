@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Yahoo! Search - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Yahoo!_Search","wgTitle":"Yahoo! Search","wgCurRevisionId":852872122,"wgRevisionId":852872122,"wgArticleId":1620022,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: BOT: original-url status unknown","Webarchive template wayback links","Articles containing potentially dated statements from February 2015","All articles containing potentially dated statements","Yahoo!","American websites","Multilingual websites","Internet search engines","Yahoo! Search","IOS software","Android (operating system) software","Internet properties established in 1995"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Yahoo!_Search","wgRelevantArticleId":1620022,"wgRequestId":"W6@UuArAIDoAAC1yeVQAAABS","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q2308171","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Yahoo!_Search"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Yahoo!_Search&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Yahoo!_Search&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Yahoo!_Search"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Yahoo_Search rootpage-Yahoo_Search skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Yahoo! Search</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the Yahoo search engine. For the corporation, see <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a></div>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">Yahoo! Search</caption><tbody><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Yahoo!_logo.svg" class="image"><img alt="Yahoo! logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Yahoo%21_logo.svg/250px-Yahoo%21_logo.svg.png" width="250" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Yahoo%21_logo.svg/375px-Yahoo%21_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Yahoo%21_logo.svg/500px-Yahoo%21_logo.svg.png 2x" data-file-width="512" data-file-height="121" /></a></td></tr><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Yahoo_Search_page.jpg" class="image"><img alt="Yahoo Search page.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Yahoo_Search_page.jpg/300px-Yahoo_Search_page.jpg" width="300" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Yahoo_Search_page.jpg/450px-Yahoo_Search_page.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Yahoo_Search_page.jpg/600px-Yahoo_Search_page.jpg 2x" data-file-width="1000" data-file-height="251" /></a><div>Yahoo! Search page</div></td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Type of site</div></th><td>
+<a href="/wiki/Web_search_engine" title="Web search engine">Web search engine</a></td></tr><tr><th scope="row">Available&#160;in</th><td>
+<a href="#International_presence">Multilingual</a> (40)</td></tr><tr><th scope="row">Owner</th><td>
+<a href="/wiki/Yahoo" class="mw-redirect" title="Yahoo">Yahoo</a></td></tr><tr><th scope="row">Website</th><td class="url">
+<span class="url"><a rel="nofollow" class="external text" href="https://search.yahoo.com">search<wbr />.yahoo<wbr />.com</a></span></td></tr><tr><th scope="row">Commercial</th><td>
+Yes</td></tr><tr><th scope="row">Registration</th><td>
+Optional</td></tr><tr><th scope="row">Launched</th><td>
+March&#160;2, 1995<span class="noprint">&#59;&#32;23 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1995-03-02</span>)</span></td></tr><tr><th scope="row">Current&#160;status</th><td class="category">
+Active</td></tr><tr><th scope="row">Written&#160;in</th><td>
+<a href="/wiki/PHP" title="PHP">PHP</a><sup id="cite_ref-roadchap_1-0" class="reference"><a href="#cite_note-roadchap-1">&#91;1&#93;</a></sup></td></tr></tbody></table>
+<p><b>Yahoo! Search</b> is a <a href="/wiki/Web_search_engine" title="Web search engine">web search engine</a> owned by <a href="/wiki/Yahoo" class="mw-redirect" title="Yahoo">Yahoo</a>, headquartered in <a href="/wiki/Sunnyvale,_California" title="Sunnyvale, California">Sunnyvale, California</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>. As of February 2015<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Yahoo!_Search&amp;action=edit">&#91;update&#93;</a></sup> it is the third largest search engine in the US by the query volume at 12.8%, after its competitors <a href="/wiki/Google_search" class="mw-redirect" title="Google search">Google</a> at 64.5% and <a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a> at 19.8%.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>Originally, "Yahoo Search" referred to a Yahoo-provided interface that sent queries to a searchable index of pages supplemented with its directory of websites. The results were presented to the user under the Yahoo! brand. Originally, none of the actual web crawling and data housing was done by Yahoo! itself. In 2001, the searchable index was powered by <a href="/wiki/Inktomi_(company)" class="mw-redirect" title="Inktomi (company)">Inktomi</a> and later was powered by <a href="/wiki/Google" title="Google">Google</a> until 2004, when Yahoo! Search became independent. On July 29, 2009, Microsoft and Yahoo! announced a deal in which Bing would henceforth power Yahoo! Search.<sup id="cite_ref-Microsoft_and_Yahoo_seal_web_deal_4-0" class="reference"><a href="#cite_note-Microsoft_and_Yahoo_seal_web_deal-4">&#91;4&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Search_technology_acquisition"><span class="tocnumber">1</span> <span class="toctext">Search technology acquisition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Yahoo_Search_blog_and_announcements"><span class="tocnumber">2</span> <span class="toctext">Yahoo Search blog and announcements</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#International_presence"><span class="tocnumber">3</span> <span class="toctext">International presence</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Languages"><span class="tocnumber">3.1</span> <span class="toctext">Languages</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Search_results"><span class="tocnumber">4</span> <span class="toctext">Search results</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Selection-based_search"><span class="tocnumber">5</span> <span class="toctext">Selection-based search</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#SearchScan"><span class="tocnumber">6</span> <span class="toctext">SearchScan</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Search_verticals"><span class="tocnumber">7</span> <span class="toctext">Search verticals</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Search_technology_acquisition">Search technology acquisition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Search&amp;action=edit&amp;section=1" title="Edit section: Search technology acquisition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Seeking to provide its own search engine results, Yahoo! acquired their own search technology. In 2002, they bought <a href="/wiki/Inktomi_(company)" class="mw-redirect" title="Inktomi (company)">Inktomi</a>, a "behind the scenes" or OEM search engine provider, whose results are shown on other companies' websites and powered Yahoo! in its earlier days.
+</p><p>In 2003, they purchased <a href="/wiki/Yahoo_Search_Marketing" class="mw-redirect" title="Yahoo Search Marketing">Overture Services, Inc.</a>, which owned the <a href="/wiki/AlltheWeb" title="AlltheWeb">AlltheWeb</a> and <a href="/wiki/AltaVista" title="AltaVista">AltaVista</a> search engines. Initially, even though Yahoo! owned multiple search engines, they didn't use them on the main yahoo.com website, but kept using <a href="/wiki/Google_Search" title="Google Search">Google's search engine</a> for its results.
+</p><p>Starting on April 7, 2003, Yahoo! Search became its own <a href="/wiki/Web_crawler" title="Web crawler">web crawler</a>-based search engine.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> They combined the capabilities of search engine companies they had acquired and their prior research into a reinvented crawler called <i>Yahoo Slurp</i>. The new search engine results were included in all of Yahoo's websites that had a web search function. Yahoo! also started to sell the search engine results to other companies, to show on their own websites. Their relationship with Google was terminated at that time, with the former partners becoming each other's main competitors.
+</p><p>In October 2007, Yahoo! Search was updated with a more modern appearance in line with the redesigned Yahoo! home page. In addition, <i>Search Assist</i> was added; which provides real-time query suggestions and related concepts as they are typed.
+</p><p>In July 2008, Yahoo! Search announced the introduction of a new service called  <a href="/wiki/Yahoo!_Search_BOSS" title="Yahoo! Search BOSS">Yahoo! Search BOSS</a> ("Build your Own Search Engine"). This service opens the doors for developers to use Yahoo!'s system for indexing information and images and create their own custom search engine.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>In January 2010, Microsoft announced a deal in which it would take over the functional operation of Yahoo! Search, and set up a joint venture to sell advertising on both Yahoo! Search and <a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a> known as the Microsoft Search Alliance. A complete transition of all Yahoo! sponsored ad clients to Microsoft adCenter (now <a href="/wiki/Bing_Ads" title="Bing Ads">Bing Ads</a>) occurred in October 2010.<sup id="cite_ref-Microsoft_and_Yahoo_seal_web_deal_4-1" class="reference"><a href="#cite_note-Microsoft_and_Yahoo_seal_web_deal-4">&#91;4&#93;</a></sup>
+</p><p>On March 12, 2014, Yahoo announced a partnership with <a href="/wiki/Yelp" title="Yelp">Yelp</a> to integrate its reviews and user-contributed photos into Yahoo! Search (as Bing had previously done).<sup id="cite_ref-tc-yelppartnership_7-0" class="reference"><a href="#cite_note-tc-yelppartnership-7">&#91;7&#93;</a></sup>
+</p><p>In November 2014, Mozilla signed a five-year partnership with Yahoo, making Yahoo Search the default search engine for <a href="/wiki/Firefox" title="Firefox">Firefox</a> browsers in the US.<sup id="cite_ref-blog.mozilla_8-0" class="reference"><a href="#cite_note-blog.mozilla-8">&#91;8&#93;</a></sup>
+</p><p>In April 2015, the Microsoft partnership was modified, now only requiring Bing results on the "majority" of desktop traffic, opening the ability for Yahoo to enter into non-exclusive deals for search services on mobile platforms and the remainder of desktop traffic. The amendment also gives either company the ability to terminate the contract with four months' notice.  In October 2015, Yahoo subsequently reached an agreement with <a href="/wiki/Google" title="Google">Google</a> to provide services to Yahoo Search through the end of 2018, including advertising, search, and image search services.<sup id="cite_ref-verge-googleyahoo_9-0" class="reference"><a href="#cite_note-verge-googleyahoo-9">&#91;9&#93;</a></sup><sup id="cite_ref-ars-april2015deal_10-0" class="reference"><a href="#cite_note-ars-april2015deal-10">&#91;10&#93;</a></sup><sup id="cite_ref-tc-changes_11-0" class="reference"><a href="#cite_note-tc-changes-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Yahoo_Search_blog_and_announcements">Yahoo Search blog and announcements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Search&amp;action=edit&amp;section=2" title="Edit section: Yahoo Search blog and announcements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The team at Yahoo Search frequently blogged about search announcements, features, updates and enhancements. The Yahoo Search Blog, as stated provided <i>A look inside the world of search from the people at Yahoo.</i><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> This included index updates named <i>Weather Updates</i> and their <i>Yahoo Search Assist</i> feature.
+</p>
+<h2><span class="mw-headline" id="International_presence">International presence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Search&amp;action=edit&amp;section=3" title="Edit section: International presence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Yahoo Search also provided their search interface in at least 38 international markets and a variety of available languages.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> Yahoo! has a presence in Europe, Asia and across the Emerging Markets.
+</p>
+<h3><span class="mw-headline" id="Languages">Languages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Search&amp;action=edit&amp;section=4" title="Edit section: Languages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="div-col columns column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em;">
+<ul><li><a href="/wiki/Arabic" title="Arabic">Arabic</a></li>
+<li><a href="/wiki/Bulgarian_language" title="Bulgarian language">Bulgarian</a></li>
+<li><a href="/wiki/Catalan_language" title="Catalan language">Catalan</a></li>
+<li><a href="/wiki/Chinese_(Simplified)" class="mw-redirect" title="Chinese (Simplified)">Chinese (Simplified)</a></li>
+<li><a href="/wiki/Chinese_(Traditional)" class="mw-redirect" title="Chinese (Traditional)">Chinese (Traditional)</a></li>
+<li><a href="/wiki/Croatian_language" title="Croatian language">Croatian</a></li>
+<li><a href="/wiki/Czech_language" title="Czech language">Czech</a></li>
+<li><a href="/wiki/Danish_language" title="Danish language">Danish</a></li>
+<li><a href="/wiki/Dutch_language" title="Dutch language">Dutch</a></li>
+<li><a href="/wiki/English_language" title="English language">English</a></li>
+<li><a href="/wiki/Estonian_language" title="Estonian language">Estonian</a></li>
+<li><a href="/wiki/Finnish_language" title="Finnish language">Finnish</a></li>
+<li><a href="/wiki/French_language" title="French language">French</a></li>
+<li><a href="/wiki/German_language" title="German language">German</a></li>
+<li><a href="/wiki/Greek_language" title="Greek language">Greek</a></li>
+<li><a href="/wiki/Hebrew" class="mw-redirect" title="Hebrew">Hebrew</a></li>
+<li><a href="/wiki/Hungarian_language" title="Hungarian language">Hungarian</a></li>
+<li><a href="/wiki/Icelandic_language" title="Icelandic language">Icelandic</a></li>
+<li><a href="/wiki/Indonesian_language" title="Indonesian language">Indonesian</a></li>
+<li><a href="/wiki/Italian_language" title="Italian language">Italian</a></li>
+<li><a href="/wiki/Japanese_language" title="Japanese language">Japanese</a></li>
+<li><a href="/wiki/Korean_language" title="Korean language">Korean</a></li>
+<li><a href="/wiki/Latvian_language" title="Latvian language">Latvian</a></li>
+<li><a href="/wiki/Lithuanian_language" title="Lithuanian language">Lithuanian</a></li>
+<li><a href="/wiki/Malay_language" title="Malay language">Malay</a></li>
+<li><a href="/wiki/Norwegian_language" title="Norwegian language">Norwegian</a></li>
+<li><a href="/wiki/Persian_language" title="Persian language">Persian</a></li>
+<li><a href="/wiki/Polish_language" title="Polish language">Polish</a></li>
+<li><a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a></li>
+<li><a href="/wiki/Romanian_language" title="Romanian language">Romanian</a></li>
+<li><a href="/wiki/Russian_language" title="Russian language">Russian</a></li>
+<li><a href="/wiki/Serbian_language" title="Serbian language">Serbian</a></li>
+<li><a href="/wiki/Slovak_language" title="Slovak language">Slovak</a></li>
+<li><a href="/wiki/Slovenian_language" class="mw-redirect" title="Slovenian language">Slovenian</a></li>
+<li><a href="/wiki/Spanish_language" title="Spanish language">Spanish</a></li>
+<li><a href="/wiki/Swedish_language" title="Swedish language">Swedish</a></li>
+<li><a href="/wiki/Tagalog_language" title="Tagalog language">Tagalog</a></li>
+<li><a href="/wiki/Thai_language" title="Thai language">Thai</a></li>
+<li><a href="/wiki/Turkish_language" title="Turkish language">Turkish</a></li>
+<li><a href="/wiki/Vietnamese_language" title="Vietnamese language">Vietnamese</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="Search_results">Search results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Search&amp;action=edit&amp;section=5" title="Edit section: Search results">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Yahoo Search indexed and cached the common HTML page formats, as well as several of the more popular file-types, such as <a href="/wiki/Portable_Document_Format" class="mw-redirect" title="Portable Document Format">PDF</a>, <a href="/wiki/Excel_spreadsheet" class="mw-redirect" title="Excel spreadsheet">Excel spreadsheets</a>, <a href="/wiki/PowerPoint" class="mw-redirect" title="PowerPoint">PowerPoint</a>, <a href="/wiki/Word_document" class="mw-redirect" title="Word document">Word documents</a>, RSS/XML and plain text files. For some of these supported file-types, Yahoo Search provided cached links on their search results allowing for viewing of these file-types in standard HTML. Using the Advanced Search interface or Preferences settings, Yahoo Search allowed the customization of search results and enabling of certain settings such as: SafeSearch, Language Selection, Number of results, Domain restrictions, etc.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> For a Basic and starter guide to Yahoo Search, they also provided a <i>Search Basics</i> tutorial.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> In 2005, Yahoo began to provide links to previous versions of pages archived on the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> In the first week of May 2008, Yahoo launched a new search mash up called <i>Yahoo Glue</i>, which is in beta testing.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Selection-based_search">Selection-based search</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Search&amp;action=edit&amp;section=6" title="Edit section: Selection-based search">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On June 20, 2007, Yahoo introduced a <a href="/wiki/Selection-based_search" title="Selection-based search">selection-based search</a> feature called Yahoo Shortcuts. When activated this selection-based search feature enabled users to invoke search using only their mouse and receive search suggestions in floating windows while remaining on Yahoo properties such as Yahoo Mail.  This feature was only active on Yahoo web pages or pages within the <a href="/wiki/Yahoo_Publisher_Network" class="mw-redirect" title="Yahoo Publisher Network">Yahoo Publisher Network</a>.  Yahoo Shortcuts required the content-owner to modify the underlying HTML of his or her webpage to call out the specific keywords to be enhanced.  The technology for context-aware selection-based search on Yahoo pages was first developed by Reiner Kraft.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="SearchScan">SearchScan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Search&amp;action=edit&amp;section=7" title="Edit section: SearchScan">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:SearchScan.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/2/24/SearchScan.png/300px-SearchScan.png" width="300" height="127" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/24/SearchScan.png/450px-SearchScan.png 1.5x, //upload.wikimedia.org/wikipedia/en/2/24/SearchScan.png 2x" data-file-width="485" data-file-height="205" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:SearchScan.png" class="internal" title="Enlarge"></a></div>SearchScan in action</div></div></div>
+<p>On May 11, 2008, Yahoo introduced SearchScan. If enabled this add-on/feature enhanced Yahoo Search by automatically alerting users of <a href="/wiki/Computer_virus" title="Computer virus">viruses</a>, <a href="/wiki/Spyware" title="Spyware">spyware</a> and <a href="/wiki/Spam_(electronic)" class="mw-redirect" title="Spam (electronic)">spam</a> websites.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Search_verticals">Search verticals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Search&amp;action=edit&amp;section=8" title="Edit section: Search verticals">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Yahoo Search provided the ability to search across numerous vertical properties outside just the Web at large. These included Images, Videos, Local, Shopping, <a href="/wiki/Yahoo!_Answers" title="Yahoo! Answers">Yahoo! Answers</a>, Audio, Directory, Jobs, News, Mobile, Travel and various other services as listed on their <i>About Yahoo Search</i> page.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Search&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Comparison_of_web_search_engines" title="Comparison of web search engines">Comparison of web search engines</a></li>
+<li><a href="/wiki/List_of_search_engines" title="List of search engines">List of search engines</a></li>
+<li><a href="/wiki/Yahoo_Directory" class="mw-redirect" title="Yahoo Directory">Yahoo Directory</a></li>
+<li><a href="/wiki/Yahoo_Next" class="mw-redirect" title="Yahoo Next">Yahoo Next</a></li>
+<li><a href="/wiki/Yahoo_Search_BOSS" class="mw-redirect" title="Yahoo Search BOSS">Yahoo Search BOSS</a></li>
+<li><a href="/wiki/Yahoo!_SearchMonkey" title="Yahoo! SearchMonkey">Yahoo! SearchMonkey</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Search&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-roadchap-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-roadchap_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Roger Chapman. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110927184557/http://rogchap.com/2011/09/06/top-40-website-programming-languages/">"Top 40 Website Programming Languages"</a>. <i>roadchap.com</i>. Archived from <a rel="nofollow" class="external text" href="http://rogchap.com/2011/09/06/top-40-website-programming-languages/">the original</a> on September 27, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">September 6,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=roadchap.com&amp;rft.atitle=Top+40+Website+Programming+Languages&amp;rft.au=Roger+Chapman&amp;rft_id=http%3A%2F%2Frogchap.com%2F2011%2F09%2F06%2Ftop-40-website-programming-languages%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Search" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">EL. <a rel="nofollow" class="external text" href="https://search.yahoo.com/yhs/search?p=yahoo+headquarters&amp;ei=UTF-8&amp;hspart=mozilla&amp;hsimp=yhs-002">"Yahoo search"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">12 August</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Yahoo+search&amp;rft.au=EL&amp;rft_id=https%3A%2F%2Fsearch.yahoo.com%2Fyhs%2Fsearch%3Fp%3Dyahoo%2Bheadquarters%26ei%3DUTF-8%26hspart%3Dmozilla%26hsimp%3Dyhs-002&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Search" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Lella, Adam (2015-03-17). <a rel="nofollow" class="external text" href="http://www.comscore.com/Insights/Market-Rankings/comScore-Releases-February-2015-US-Desktop-Search-Engine-Rankings">"comScore Releases February 2015 U.S. Desktop Search Engine Rankings"</a>. <i>ComScore.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-03-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ComScore.com&amp;rft.atitle=comScore+Releases+February+2015+U.S.+Desktop+Search+Engine+Rankings&amp;rft.date=2015-03-17&amp;rft.aulast=Lella&amp;rft.aufirst=Adam&amp;rft_id=http%3A%2F%2Fwww.comscore.com%2FInsights%2FMarket-Rankings%2FcomScore-Releases-February-2015-US-Desktop-Search-Engine-Rankings&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Search" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Microsoft_and_Yahoo_seal_web_deal-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Microsoft_and_Yahoo_seal_web_deal_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Microsoft_and_Yahoo_seal_web_deal_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/business/8174763.stm">"Microsoft and Yahoo seal web deal"</a>. BBC News. 2009-07-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-11-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Microsoft+and+Yahoo+seal+web+deal&amp;rft.pub=BBC+News&amp;rft.date=2009-07-29&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fbusiness%2F8174763.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Search" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080713214826/http://yhoo.client.shareholder.com/press/timeline.cfm">"Yahoo! Inc. - Company Timeline"</a>. <i><a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></i>. 2008-07-13. Archived from the original on 2008-07-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-07-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Wayback+Machine&amp;rft.atitle=Yahoo%21+Inc.+-+Company+Timeline&amp;rft.date=2008-07-13&amp;rft_id=http%3A%2F%2Fyhoo.client.shareholder.com%2Fpress%2Ftimeline.cfm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Search" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: BOT: original-url status unknown (<a href="/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown">link</a>) </span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://yhoo.client.shareholder.com/press/releasedetail.cfm?ReleaseID=320623">"Yahoo Opens Up Search Technology Infrastructure for Innovative, New Search Experiences, Providing Third Parties with Unprecedented Access, Re-Ranking and Presentation Control of Web Search Results"</a>. Yahoo. July 10, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-07-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Yahoo+Opens+Up+Search+Technology+Infrastructure+for+Innovative%2C+New+Search+Experiences%2C+Providing+Third+Parties+with+Unprecedented+Access%2C+Re-Ranking+and+Presentation+Control+of+Web+Search+Results&amp;rft.pub=Yahoo&amp;rft.date=2008-07-10&amp;rft_id=http%3A%2F%2Fyhoo.client.shareholder.com%2Fpress%2Freleasedetail.cfm%3FReleaseID%3D320623&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Search" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-tc-yelppartnership-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-tc-yelppartnership_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://techcrunch.com/2014/03/12/yahoo-partners-with-yelp-to-bring-local-data-to-its-search-tools/">"Yahoo Partners With Yelp To Bring Local Data To Its Search Tools"</a>. <i>TechCrunch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=TechCrunch&amp;rft.atitle=Yahoo+Partners+With+Yelp+To+Bring+Local+Data+To+Its+Search+Tools&amp;rft_id=https%3A%2F%2Ftechcrunch.com%2F2014%2F03%2F12%2Fyahoo-partners-with-yelp-to-bring-local-data-to-its-search-tools%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Search" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-blog.mozilla-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-blog.mozilla_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://blog.mozilla.org/blog/2014/11/19/promoting-choice-and-innovation-on-the-web/">"New Search Strategy for Firefox: Promoting Choice &amp; Innovation"</a>. <i>The Mozilla Blog</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Mozilla+Blog&amp;rft.atitle=New+Search+Strategy+for+Firefox%3A+Promoting+Choice+%26+Innovation&amp;rft_id=https%3A%2F%2Fblog.mozilla.org%2Fblog%2F2014%2F11%2F19%2Fpromoting-choice-and-innovation-on-the-web%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Search" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-verge-googleyahoo-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-verge-googleyahoo_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.theverge.com/2015/10/20/9577519/yahoo-google-search-deal">"Yahoo enters deal to display Google search results"</a>. <i>The Verge</i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Verge&amp;rft.atitle=Yahoo+enters+deal+to+display+Google+search+results&amp;rft_id=https%3A%2F%2Fwww.theverge.com%2F2015%2F10%2F20%2F9577519%2Fyahoo-google-search-deal&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Search" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-ars-april2015deal-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-ars-april2015deal_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://arstechnica.com/information-technology/2015/04/microsoft-loses-exclusivity-in-shaken-up-yahoo-search-deal/">"Microsoft loses exclusivity in shaken up Yahoo search deal"</a>. <i>Ars Technica</i><span class="reference-accessdate">. Retrieved <span class="nowrap">30 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ars+Technica&amp;rft.atitle=Microsoft+loses+exclusivity+in+shaken+up+Yahoo+search+deal&amp;rft_id=https%3A%2F%2Farstechnica.com%2Finformation-technology%2F2015%2F04%2Fmicrosoft-loses-exclusivity-in-shaken-up-yahoo-search-deal%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Search" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-tc-changes-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-tc-changes_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://techcrunch.com/2015/04/16/microsoft-and-yahoo-renew-search-allian/">"Ad Tech And Mobile In Focus In Microsoft And Yahoo's Renewed Search Deal"</a>. <i>TechCrunch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">30 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=TechCrunch&amp;rft.atitle=Ad+Tech+And+Mobile+In+Focus+In+Microsoft+And+Yahoo%E2%80%99s+Renewed+Search+Deal&amp;rft_id=https%3A%2F%2Ftechcrunch.com%2F2015%2F04%2F16%2Fmicrosoft-and-yahoo-renew-search-allian%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Search" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121206142514/http://www.ysearchblog.com/">"Yahoo Search Blog"</a>. Ysearchblog.com. Archived from <a rel="nofollow" class="external text" href="http://www.ysearchblog.com/">the original</a> on 2012-12-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-11-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Yahoo+Search+Blog&amp;rft.pub=Ysearchblog.com&amp;rft_id=http%3A%2F%2Fwww.ysearchblog.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Search" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://world.yahoo.com/">"Yahoo international presence"</a>. World.yahoo.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-11-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Yahoo+international+presence&amp;rft.pub=World.yahoo.com&amp;rft_id=http%3A%2F%2Fworld.yahoo.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Search" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://search.yahoo.com/web/advanced?ei=UTF-8">"Yahoo Advanced Web Search"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Yahoo+Advanced+Web+Search&amp;rft_id=http%3A%2F%2Fsearch.yahoo.com%2Fweb%2Fadvanced%3Fei%3DUTF-8&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Search" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://help.yahoo.com/l/us/yahoo/search/basics/">Search Basics tutorial</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071002171751/http://help.yahoo.com/l/us/yahoo/search/basics/">Archived</a> October 2, 2007, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://blog.searchenginewatch.com/050918-143500">Yahoo Cache Now Offers Direct Links to Wayback Machine</a> Search Engine Watch, September 18, 2005</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web">Hopkins, Mark (2008-11-13). <a rel="nofollow" class="external text" href="http://mashable.com/category/yahoo-glue/">"Yahoo! Glue Launches in America"</a>. <i>Mashable.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-02-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Mashable.com&amp;rft.atitle=Yahoo%21+Glue+Launches+in+America&amp;rft.date=2008-11-13&amp;rft.aulast=Hopkins&amp;rft.aufirst=Mark&amp;rft_id=http%3A%2F%2Fmashable.com%2Fcategory%2Fyahoo-glue%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Search" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.digital-fraction.com/yahoo-shortcuts/">"Yahoo shortcuts"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Yahoo+shortcuts&amp;rft_id=http%3A%2F%2Fwww.digital-fraction.com%2Fyahoo-shortcuts%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Search" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121019090729/http://tools.search.yahoo.com/newsearch/searchscan">"Yahoo SearchScan information page"</a>. Tools.search.yahoo.com. Archived from <a rel="nofollow" class="external text" href="http://tools.search.yahoo.com/newsearch/searchscan">the original</a> on 2012-10-19<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-11-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Yahoo+SearchScan+information+page&amp;rft.pub=Tools.search.yahoo.com&amp;rft_id=http%3A%2F%2Ftools.search.yahoo.com%2Fnewsearch%2Fsearchscan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Search" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Search&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://search.yahoo.com">Official website</a></span></span> <a href="https://www.wikidata.org/wiki/Q2308171#P856" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></li>
+<li><a rel="nofollow" class="external text" href="http://www.johnsankey.ca/searchbots.html">Search Engines: costs vs. benefits</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Web_search_engines" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Web_search_engines" title="Template:Web search engines"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Web_search_engines" title="Template talk:Web search engines"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_search_engines&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Web_search_engines" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_search_engine" title="Web search engine">Web search engines</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Active</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AOL" title="AOL">AOL</a></li>
+<li><a href="/wiki/Ahmia" title="Ahmia">Ahmia</a></li>
+<li><a href="/wiki/Ask.com" title="Ask.com">Ask.com</a></li>
+<li><a href="/wiki/Baidu" title="Baidu">Baidu</a></li>
+<li><a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a></li>
+<li><a href="/wiki/Blackle" title="Blackle">Blackle</a></li>
+<li><a href="/wiki/Dogpile" title="Dogpile">Dogpile</a></li>
+<li><a href="/wiki/DuckDuckGo" title="DuckDuckGo">DuckDuckGo</a></li>
+<li><a href="/wiki/Ecosia" title="Ecosia">Ecosia</a></li>
+<li><a href="/wiki/Exalead" title="Exalead">Exalead</a></li>
+<li><a href="/wiki/Excite" title="Excite">Excite</a></li>
+<li><a href="/wiki/GenieKnows" title="GenieKnows">GenieKnows</a></li>
+<li><a href="/wiki/Gigablast" title="Gigablast">Gigablast</a></li>
+<li><a href="/wiki/Google_Search" title="Google Search">Google</a></li>
+<li><a href="/wiki/Info.com" title="Info.com">Info.com</a></li>
+<li><a href="/wiki/Ixquick" title="Ixquick">Ixquick</a></li>
+<li><a href="/wiki/Lycos" title="Lycos">Lycos</a></li>
+<li><a href="/wiki/Naver" title="Naver">Naver</a></li>
+<li><a href="/wiki/Qwant" title="Qwant">Qwant</a></li>
+<li><a href="/wiki/Parsijoo" title="Parsijoo">Parsijoo</a></li>
+<li><a href="/wiki/Picollator" title="Picollator">Picollator</a></li>
+<li><a href="/wiki/SAPO_(company)" title="SAPO (company)">SAPO</a></li>
+<li><a href="/wiki/Scout_(travel_website)" title="Scout (travel website)">Scout</a></li>
+<li><a href="/wiki/Searx" title="Searx">Searx</a></li>
+<li><a href="/wiki/Seznam.cz" title="Seznam.cz">Seznam.cz</a></li>
+<li><a href="/wiki/Sogou" title="Sogou">Sogou</a></li>
+<li><a href="/wiki/Sputnik_(search_engine)" title="Sputnik (search engine)">Sputnik</a></li>
+<li><a href="/wiki/Ixquick#Startpage.com" title="Ixquick">Startpage</a></li>
+<li><a href="/wiki/WebCrawler" title="WebCrawler">WebCrawler</a></li>
+<li><a href="/wiki/YaCy" title="YaCy">YaCy</a></li>
+<li><a class="mw-selflink selflink">Yahoo!</a></li>
+<li><a href="/wiki/Yandex_Search" title="Yandex Search">Yandex</a></li>
+<li><a href="/wiki/Yooz" title="Yooz">Yooz</a></li>
+<li><a href="/wiki/Youdao" title="Youdao">Youdao</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Inactive</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/123people" title="123people">123people</a></li>
+<li><a href="/wiki/A9.com" title="A9.com">A9.com</a></li>
+<li><a href="/wiki/Aliweb" title="Aliweb">Aliweb</a></li>
+<li><a href="/wiki/AlltheWeb" title="AlltheWeb">AlltheWeb</a></li>
+<li><a href="/wiki/AltaVista" title="AltaVista">AltaVista</a></li>
+<li><a href="/wiki/Blekko" title="Blekko">Blekko</a></li>
+<li><a href="/wiki/Boogami" title="Boogami">Boogami</a></li>
+<li><a href="/wiki/Cuil" title="Cuil">Cuil</a></li>
+<li><a href="/wiki/Empas" title="Empas">Empas</a></li>
+<li><a href="/wiki/Forestle" title="Forestle">Forestle</a></li>
+<li><a href="/wiki/Go.com" title="Go.com">Go.com</a></li>
+<li><a href="/wiki/Infoseek" title="Infoseek">Infoseek</a></li>
+<li><a href="/wiki/Inktomi" title="Inktomi">Inktomi</a></li>
+<li><a href="/wiki/JumpStation" title="JumpStation">JumpStation</a></li>
+<li><a href="/wiki/LeapFish" title="LeapFish">LeapFish</a></li>
+<li><a href="/wiki/Mugurdy" title="Mugurdy">Mugurdy</a></li>
+<li><a href="/wiki/Northern_Light_Group" title="Northern Light Group">Northern Light</a></li>
+<li><a href="/wiki/Powerset_(company)" title="Powerset (company)">Powerset</a></li>
+<li><a href="/wiki/Scroogle" class="mw-redirect" title="Scroogle">Scroogle</a></li>
+<li><a href="/wiki/SearchMe" title="SearchMe">SearchMe</a></li>
+<li><a href="/wiki/Soso.com" class="mw-redirect" title="Soso.com">Soso.com</a></li>
+<li><a href="/wiki/Teoma" title="Teoma">Teoma</a></li>
+<li><a href="/wiki/Viewzi" title="Viewzi">Viewzi</a></li>
+<li><a href="/wiki/Vivisimo" title="Vivisimo">Vivisimo</a></li>
+<li><a href="/wiki/Volunia" title="Volunia">Volunia</a></li>
+<li><a href="/wiki/W3Catalog" title="W3Catalog">W3Catalog</a></li>
+<li><a href="/wiki/Wikiseek" title="Wikiseek">Wikiseek</a></li>
+<li><a href="/wiki/Yebol" title="Yebol">Yebol</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/List_of_search_engines" title="List of search engines">Complete list</a></li>
+<li><a href="/wiki/Comparison_of_web_search_engines" title="Comparison of web search engines">Comparison</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Yahoo!" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Yahoo!_Inc." title="Template:Yahoo! Inc."><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Yahoo!_Inc." title="Template talk:Yahoo! Inc."><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Yahoo!_Inc.&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Yahoo!" style="font-size:114%;margin:0 4em"><a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Websites</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Yahoo.com" class="mw-redirect" title="Yahoo.com">Yahoo.com</a>
+<ul><li><a href="/wiki/Yahoo!_Entertainment" class="mw-redirect" title="Yahoo! Entertainment">Entertainment</a></li>
+<li><a href="/wiki/Yahoo!_Finance" title="Yahoo! Finance">Finance</a></li>
+<li><a href="/wiki/Yahoo!_News" title="Yahoo! News">News</a></li>
+<li><a class="mw-selflink selflink">Search</a></li>
+<li><a href="/wiki/Yahoo!_Shopping" class="mw-redirect" title="Yahoo! Shopping">Shopping</a></li>
+<li><a href="/wiki/Yahoo!_Small_Business" class="mw-redirect" title="Yahoo! Small Business">Small Business</a></li>
+<li><a href="/wiki/Yahoo!_Sports" class="mw-redirect" title="Yahoo! Sports">Sports</a></li>
+<li><a href="/wiki/Yahoo!_Lifestyle" class="mw-redirect" title="Yahoo! Lifestyle">Lifestyle</a></li>
+<li><a href="/wiki/Yahoo!_View" title="Yahoo! View">View</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Communication</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Yahoo!_Answers" title="Yahoo! Answers">Answers</a></li>
+<li><a href="/wiki/Yahoo!_Groups" title="Yahoo! Groups">Groups</a></li>
+<li><a href="/wiki/Yahoo!_Mail" title="Yahoo! Mail">Mail</a></li>
+<li><a href="/wiki/Tumblr" title="Tumblr">Tumblr</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Software</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Yahoo!_Smart_TV" title="Yahoo! Smart TV">Smart TV</a></li>
+<li><a href="/wiki/Yahoo_Squirrel" title="Yahoo Squirrel">Squirrel</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Development</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Yahoo!_Developer_Network" class="mw-redirect" title="Yahoo! Developer Network">Developer Network</a>
+<ul><li><a href="/wiki/Yahoo!_Query_Language" title="Yahoo! Query Language">Query Language</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Corporate</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Verizon_Communications" title="Verizon Communications">Verizon</a>
+<ul><li><a href="/wiki/Oath_Inc." title="Oath Inc.">Oath</a></li></ul></li>
+<li><a href="/wiki/Criticism_of_Yahoo!" title="Criticism of Yahoo!">Criticism</a></li>
+<li><a href="/wiki/History_of_Yahoo!" title="History of Yahoo!">History</a></li>
+<li><a href="/wiki/List_of_Yahoo!-owned_sites_and_services" title="List of Yahoo!-owned sites and services">Products</a></li>
+<li><a href="/wiki/Timeline_of_Yahoo!" title="Timeline of Yahoo!">Timeline</a></li>
+<li><a href="/wiki/List_of_mergers_and_acquisitions_by_Yahoo!" title="List of mergers and acquisitions by Yahoo!">Acquisitions</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related People</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/David_Filo" title="David Filo">David Filo</a></li>
+<li><a href="/wiki/Marissa_Mayer" title="Marissa Mayer">Marissa Mayer</a></li>
+<li><a href="/wiki/Jerry_Yang" title="Jerry Yang">Jerry Yang</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AOL" title="AOL">AOL</a></li>
+<li><a href="/wiki/Altaba" title="Altaba">Altaba</a>
+<ul><li><a href="/wiki/Yahoo!_China" class="mw-redirect" title="Yahoo! China">Yahoo! China</a></li></ul></li>
+<li><a href="/wiki/Koprol" title="Koprol">Koprol</a></li>
+<li><a href="/wiki/Maktoob" title="Maktoob">Maktoob</a>
+<ul><li><a href="/wiki/Sport4ever" title="Sport4ever">Sport4ever</a></li></ul></li>
+<li><a href="/wiki/Yahoo7" title="Yahoo7">Yahoo7</a></li>
+<li><a href="/wiki/Yahoo!_Japan" title="Yahoo! Japan">Yahoo! Japan</a></li>
+<li><a href="/wiki/Yahoo!_Korea" title="Yahoo! Korea">Yahoo! Korea</a></li>
+<li><a href="/wiki/Yahoo!Xtra" title="Yahoo!Xtra">Yahoo!Xtra</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Oath_Inc." style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Oath_Inc." title="Template:Oath Inc."><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Oath_Inc." title="Template talk:Oath Inc."><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Oath_Inc.&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Oath_Inc." style="font-size:114%;margin:0 4em"><a href="/wiki/Oath_Inc." title="Oath Inc.">Oath Inc.</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="A_subsidiary_of_Verizon_Communications">A subsidiary of <a href="/wiki/Verizon_Communications" title="Verizon Communications">Verizon Communications</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Brands</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AOL" title="AOL">AOL</a>
+<ul><li><a href="/wiki/AOL_Mail" title="AOL Mail">Mail</a></li></ul></li>
+<li><a href="/wiki/Weblogs,_Inc." title="Weblogs, Inc.">Autoblog</a></li>
+<li><a href="/wiki/Engadget" title="Engadget">Engadget</a></li>
+<li><a href="/wiki/Flurry_(company)" title="Flurry (company)">Flurry</a></li>
+<li><a href="/wiki/HuffPost" title="HuffPost">HuffPost</a></li>
+<li><a href="/wiki/MapQuest" title="MapQuest">MapQuest</a></li>
+<li><a href="/wiki/Rivals.com" title="Rivals.com">Rivals.com</a></li>
+<li><a href="/wiki/RYOT" title="RYOT">RYOT</a></li>
+<li><a href="/wiki/TechCrunch" title="TechCrunch">TechCrunch</a></li>
+<li><a href="/wiki/Tumblr" title="Tumblr">Tumblr</a></li>
+<li><a href="/wiki/Verizon_Digital_Media_Services" title="Verizon Digital Media Services">Verizon Digital Media Services</a></li>
+<li><a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Former</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Flickr" title="Flickr">Flickr</a></li>
+<li><a href="/wiki/Moviefone" title="Moviefone">Moviefone</a></li>
+<li><a href="/wiki/Polyvore" title="Polyvore">Polyvore</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2242
+Cached time: 20180929134350
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.388 seconds
+Real time usage: 0.500 seconds
+Preprocessor visited node count: 2147/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 58757/2097152 bytes
+Template argument size: 1376/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 45103/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.170/10.000 seconds
+Lua memory usage: 5.28 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  406.127      1 -total
+ 37.31%  151.520      1 Template:Reflist
+ 27.62%  112.181      1 Template:Infobox_website
+ 26.39%  107.168     17 Template:Cite_web
+ 20.53%   83.372      1 Template:Infobox
+ 10.19%   41.379      1 Template:About
+  7.54%   30.639      1 Template:Official_website
+  4.98%   20.209      1 Template:Start_date_and_age
+  4.47%   18.148      1 Template:As_of
+  4.39%   17.833      3 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1620022-0!canonical and timestamp 20180929134349 and revision id 852872122
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Yahoo!_Search&amp;oldid=852872122">https://en.wikipedia.org/w/index.php?title=Yahoo!_Search&amp;oldid=852872122</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Yahoo!" title="Category:Yahoo!">Yahoo!</a></li><li><a href="/wiki/Category:American_websites" title="Category:American websites">American websites</a></li><li><a href="/wiki/Category:Multilingual_websites" title="Category:Multilingual websites">Multilingual websites</a></li><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li><li><a href="/wiki/Category:Yahoo!_Search" title="Category:Yahoo! Search">Yahoo! Search</a></li><li><a href="/wiki/Category:IOS_software" title="Category:IOS software">IOS software</a></li><li><a href="/wiki/Category:Android_(operating_system)_software" title="Category:Android (operating system) software">Android (operating system) software</a></li><li><a href="/wiki/Category:Internet_properties_established_in_1995" title="Category:Internet properties established in 1995">Internet properties established in 1995</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown">CS1 maint: BOT: original-url status unknown</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_February_2015" title="Category:Articles containing potentially dated statements from February 2015">Articles containing potentially dated statements from February 2015</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Yahoo%21+Search" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Yahoo%21+Search" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Yahoo!_Search" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Yahoo!_Search" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Yahoo!_Search">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Yahoo!_Search&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Yahoo!_Search&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Yahoo!_Search" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Yahoo!_Search" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Yahoo!_Search&amp;oldid=852872122" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Yahoo!_Search&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2308171" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Yahoo%21_Search&amp;id=852872122" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Yahoo%21+Search">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Yahoo%21+Search&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Yahoo!_Search&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D8%B1%D9%83_%D8%A8%D8%AD%D8%AB_%D9%8A%D8%A7%D9%87%D9%88!" title="محرك بحث ياهو! – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Yahoo!_Search" title="Yahoo! Search – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DB%8C%D8%A7%D9%87%D9%88!_%D8%AC%D8%B3%D8%AA%D8%AC%D9%88" title="یاهو! جستجو – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%B9%E0%A5%82!_%E0%A4%96%E0%A5%8B%E0%A4%9C" title="याहू! खोज – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Yahoo!_Search" title="Yahoo! Search – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Yahoo!_Search" title="Yahoo! Search – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Yahoo!_Search" title="Yahoo! Search – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%B9%E0%A5%81!_%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%9A" title="याहु! सर्च – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Yahoo!_Search" title="Yahoo! Search – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Yahoo!_Search" title="Yahoo! Search – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Yahoo!_Search" title="Yahoo! Search – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AF%E0%AE%BE%E0%AE%95%E0%AF%82!_%E0%AE%A4%E0%AF%87%E0%AE%9F%E0%AE%B2%E0%AF%8D" title="யாகூ! தேடல் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Yahoo!_Search" title="Yahoo! Search – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Yahoo!_Search" title="Yahoo! Search – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2308171#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 31 July 2018, at 23:15<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Yahoo!_Search&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.388","walltime":"0.500","ppvisitednodes":{"value":2147,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":58757,"limit":2097152},"templateargumentsize":{"value":1376,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":45103,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  406.127      1 -total"," 37.31%  151.520      1 Template:Reflist"," 27.62%  112.181      1 Template:Infobox_website"," 26.39%  107.168     17 Template:Cite_web"," 20.53%   83.372      1 Template:Infobox"," 10.19%   41.379      1 Template:About","  7.54%   30.639      1 Template:Official_website","  4.98%   20.209      1 Template:Start_date_and_age","  4.47%   18.148      1 Template:As_of","  4.39%   17.833      3 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.170","limit":"10.000"},"limitreport-memusage":{"value":5537162,"limit":52428800}},"cachereport":{"origin":"mw2242","timestamp":"20180929134350","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw2170"});});</script>
+	</body>
+</html>

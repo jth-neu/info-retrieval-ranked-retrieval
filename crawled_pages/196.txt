@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Contextual advertising - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Contextual_advertising","wgTitle":"Contextual advertising","wgCurRevisionId":846446211,"wgRevisionId":846446211,"wgArticleId":2963328,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing factual verification from May 2011","All articles with unsourced statements","Articles with unsourced statements from November 2010","Articles with unsourced statements from October 2017","Advertising","Contextual advertising","Internet advertising methods","Advertising by type"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Contextual_advertising","wgRelevantArticleId":2963328,"wgRequestId":"W6@epArAAEAAAIVJ654AAABE","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1815904","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Contextual_advertising"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Contextual_advertising&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Contextual_advertising&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Contextual_advertising"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Contextual_advertising rootpage-Contextual_advertising skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Contextual advertising</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of a series on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Online_advertising" title="Online advertising">Internet marketing</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Search_engine_optimization" title="Search engine optimization">Search engine optimization</a></li>
+<li><a href="/wiki/Local_search_engine_optimisation" title="Local search engine optimisation">Local search engine optimisation</a></li>
+<li><a href="/wiki/Social_media_marketing" title="Social media marketing">Social media marketing</a></li>
+<li><a href="/wiki/Email_marketing" title="Email marketing">Email marketing</a></li>
+<li><a href="/wiki/Referral_marketing" title="Referral marketing">Referral marketing</a></li>
+<li><a href="/wiki/Content_marketing" title="Content marketing">Content marketing</a></li>
+<li><a href="/wiki/Native_advertising" title="Native advertising">Native advertising</a></li></ul></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+<a href="/wiki/Search_engine_marketing" title="Search engine marketing">Search engine marketing</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Pay-per-click" title="Pay-per-click">Pay-per-click</a></li>
+<li><a href="/wiki/Cost_per_impression" title="Cost per impression">Cost per impression</a></li>
+<li><a href="/wiki/Search_analytics" title="Search analytics">Search analytics</a></li>
+<li><a href="/wiki/Web_analytics" title="Web analytics">Web analytics</a></li></ul></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+<a href="/wiki/Display_advertising" title="Display advertising">Display advertising</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Ad_blocking" title="Ad blocking">Ad blocking</a></li>
+<li><a class="mw-selflink selflink">Contextual advertising</a></li>
+<li><a href="/wiki/Behavioral_targeting" class="mw-redirect" title="Behavioral targeting">Behavioral targeting</a></li></ul></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+<a href="/wiki/Affiliate_marketing" title="Affiliate marketing">Affiliate marketing</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Cost_per_action" title="Cost per action">Cost per action</a></li>
+<li><a href="/wiki/Revenue_sharing" title="Revenue sharing">Revenue sharing</a></li></ul></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+<a href="/wiki/Mobile_advertising" title="Mobile advertising">Mobile advertising</a></th></tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Internet_marketing" title="Template:Internet marketing"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Internet_marketing" title="Template talk:Internet marketing"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Internet_marketing&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Contextual advertising</b> is a form of <a href="/wiki/Targeted_advertising" title="Targeted advertising">targeted advertising</a> for <a href="/wiki/Advertisement" class="mw-redirect" title="Advertisement">advertisements</a> appearing on <a href="/wiki/Websites" class="mw-redirect" title="Websites">websites</a> or other media, such as content displayed in <a href="/wiki/Mobile_browser" title="Mobile browser">mobile browsers</a>. The advertisements themselves are selected and served by automated systems based on the identity of the user and the content displayed.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#How_it_works"><span class="tocnumber">1</span> <span class="toctext">How it works</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Service_providers"><span class="tocnumber">2</span> <span class="toctext">Service providers</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Impact"><span class="tocnumber">3</span> <span class="toctext">Impact</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Agency_roles"><span class="tocnumber">4</span> <span class="toctext">Agency roles</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Further_references"><span class="tocnumber">7</span> <span class="toctext">Further references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="How_it_works">How it works</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Contextual_advertising&amp;action=edit&amp;section=1" title="Edit section: How it works">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A contextual advertising system scans the text of a website for <a href="/wiki/Index_term" title="Index term">keywords</a> and returns advertisements to the webpage based on those keywords.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> The advertisements may be displayed on the webpage or as <a href="/wiki/Pop-up_ads" class="mw-redirect" title="Pop-up ads">pop-up ads</a>. For example, if the user is viewing a website pertaining to sports and that website uses contextual advertising, the user may see advertisements for sports-related companies, such as memorabilia dealers or ticket sellers. Contextual advertising is also used by <a href="/wiki/Search_engines" class="mw-redirect" title="Search engines">search engines</a> to display advertisements on their search results pages based on the keywords in the user's query.
+</p><p>Contextual advertising is a form of targeted advertising in which the content of an ad is in direct correlation to the content of the web page the user is viewing. An example of contextual advertising is an ad offering a special price on a flight to Italy appearing on a website concerning travelling in Europe. Contextual advertising is also called "In-Text" advertising or "In-Context" technology.
+</p><p>Apart from that when a visitor doesn't click on the ad in a go through time (a minimum time a user must click on the ad) the ad is automatically changed to next relevant ad showing the option below of going back to the previous ad.
+</p><p>Contextual ads and its dot effect are less irritable than traditional advertising. That is why it influences user more effectively. It shows user area of interest thus increasing the chance of receiving a response.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Service_providers">Service providers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Contextual_advertising&amp;action=edit&amp;section=2" title="Edit section: Service providers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/AdSense" title="AdSense">Google AdSense</a> was the first major contextual <a href="/wiki/Advertising_network" title="Advertising network">advertising network</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2010)">citation needed</span></a></i>&#93;</sup> It works by providing webmasters with <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a> code that, when inserted into webpages, displays relevant advertisements from the Google inventory of advertisers. The relevance is calculated by a separate Google <a href="/wiki/Internet_bot" title="Internet bot">bot</a>, <a href="/wiki/Mediabot" title="Mediabot">Mediabot</a>, that indexes the content of a webpage. Recent technology/service providers have emerged with more sophisticated systems that use language-independent proximity pattern matching algorithm to increase matching accuracy.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p><a href="/wiki/Media.net" title="Media.net">Media.net</a> is the other major contextual ad network competing with Google Adsense.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Impact">Impact</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Contextual_advertising&amp;action=edit&amp;section=3" title="Edit section: Impact">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Contextual advertising has made a major impact on earnings of many websites<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2017)">citation needed</span></a></i>&#93;</sup>. Because the advertisements are more targeted, they are more likely to be clicked, thus generating revenue for the owner of the website (and the server of the advertisement). A large part of Google's earnings is from its share of the contextual advertisements served on the millions of webpages running the AdSense program.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2017)">citation needed</span></a></i>&#93;</sup>
+</p><p>Contextual advertising has attracted some controversy through the use of techniques such as third-party <a href="/wiki/Hyperlinking" class="mw-redirect" title="Hyperlinking">hyperlinking</a>, where a third-party installs software onto a user's computer that interacts with the <a href="/wiki/Web_browser" title="Web browser">web browser</a>.<sup id="cite_ref-customersnow_6-0" class="reference"><a href="#cite_note-customersnow-6">&#91;6&#93;</a></sup> Keywords on a webpage are displayed as hyperlinks that lead to advertisers.
+</p>
+<h2><span class="mw-headline" id="Agency_roles">Agency roles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Contextual_advertising&amp;action=edit&amp;section=4" title="Edit section: Agency roles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are several <a href="/wiki/Advertising_agencies" class="mw-redirect" title="Advertising agencies">advertising agencies</a> that help brands understand how contextual advertising options affect their advertising plans. There are three main components to online advertising:<sup id="cite_ref-customersnow_6-1" class="reference"><a href="#cite_note-customersnow-6">&#91;6&#93;</a></sup>
+</p>
+<ol><li>creation—what the advertisement looks like</li>
+<li>media planning—where the advertisements are to be run; also known as "placements"</li>
+<li>media buying—how the advertisements are paid for</li></ol>
+<p>Contextual advertising replaces the media planning component. Instead of humans choosing placement options, that function is replaced with computers facilitating the placement across thousands of websites.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Contextual_advertising&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Advertising_network" title="Advertising network">Advertising network</a></li>
+<li><a href="/wiki/Browser_security" title="Browser security">Browser security</a></li>
+<li><a href="/wiki/Editorial_Related_Advertising" class="mw-redirect" title="Editorial Related Advertising">Editorial-related advertising</a></li>
+<li><a href="/wiki/In-image_advertising" title="In-image advertising">In-image advertising</a></li>
+<li><a href="/wiki/In-text_advertising" title="In-text advertising">In-text advertising</a></li>
+<li><a href="/wiki/Native_advertising" title="Native advertising">Native advertising</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Contextual_advertising&amp;action=edit&amp;section=6" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.pcmag.com/encyclopedia_term/0,2542,t=contextual+marketing&amp;i=56351,00.asp">"Contextual Marketing Definition"</a>. <i>PC Magazine</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-07-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PC+Magazine&amp;rft.atitle=Contextual+Marketing+Definition&amp;rft_id=https%3A%2F%2Fwww.pcmag.com%2Fencyclopedia_term%2F0%2C2542%2Ct%3Dcontextual%2Bmarketing%26i%3D56351%2C00.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AContextual+advertising" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://applead.net/en/context">"Advantages of Contextual Advertising for Apps"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-10-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Advantages+of+Contextual+Advertising+for+Apps&amp;rft_id=https%3A%2F%2Fapplead.net%2Fen%2Fcontext&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AContextual+advertising" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://techcrunch.com/2008/01/15/proximic-signs-deals-with-yahoo-and-ebay-to-turn-product-listings-into-contextual-ads-taking-on-adsense/">"Proximic Signs Deals With Yahoo and eBay To Turn Product Listings Into Contextual Ads; Taking on AdSense"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-01-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Proximic+Signs+Deals+With+Yahoo+and+eBay+To+Turn+Product+Listings+Into+Contextual+Ads%3B+Taking+on+AdSense&amp;rft_id=https%3A%2F%2Ftechcrunch.com%2F2008%2F01%2F15%2Fproximic-signs-deals-with-yahoo-and-ebay-to-turn-product-listings-into-contextual-ads-taking-on-adsense%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AContextual+advertising" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Wauters, Robin (2012-05-07). <a rel="nofollow" class="external text" href="https://thenextweb.com/insider/2012/05/07/media-net-is-building-an-army-to-challenge-googles-contextual-advertising-dominance/#gref">"Media.net Will Soon Employ 500 People To Challenge Google"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Media.net+Will+Soon+Employ+500+People+To+Challenge+Google&amp;rft.date=2012-05-07&amp;rft.aulast=Wauters&amp;rft.aufirst=Robin&amp;rft_id=https%3A%2F%2Fthenextweb.com%2Finsider%2F2012%2F05%2F07%2Fmedia-net-is-building-an-army-to-challenge-googles-contextual-advertising-dominance%2F%23gref&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AContextual+advertising" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Wauters, Robin. <a rel="nofollow" class="external text" href="https://techcrunch.com/2010/11/01/divyank-turakhia-directi-tctv/">"From Bootstrapping To $300M In Value: Meet The Founder Of Directi (TCTV)"</a>. <i>TechCrunch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=TechCrunch&amp;rft.atitle=From+Bootstrapping+To+%24300M+In+Value%3A+Meet+The+Founder+Of+Directi+%28TCTV%29&amp;rft.aulast=Wauters&amp;rft.aufirst=Robin&amp;rft_id=https%3A%2F%2Ftechcrunch.com%2F2010%2F11%2F01%2Fdivyank-turakhia-directi-tctv%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AContextual+advertising" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-customersnow-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-customersnow_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-customersnow_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">"Customers Now", David Szetela, 2009<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The citation is not specific enough to facilitate source verification (May 2011)">not specific enough to verify</span></a></i>&#93;</sup></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_references">Further references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Contextual_advertising&amp;action=edit&amp;section=7" title="Edit section: Further references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation web">Ferguson, Renee Boucher. <a rel="nofollow" class="external text" href="http://www.eweek.com/c/a/Enterprise-Applications/A-Battle-Is-Brewing-Over-Online-Behavioral-Advertising-Market/">"A Battle Is Brewing Over Online Behavioral Advertising"</a>. www.eweek.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-10-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Battle+Is+Brewing+Over+Online+Behavioral+Advertising&amp;rft.pub=www.eweek.com&amp;rft.aulast=Ferguson&amp;rft.aufirst=Renee+Boucher&amp;rft_id=http%3A%2F%2Fwww.eweek.com%2Fc%2Fa%2FEnterprise-Applications%2FA-Battle-Is-Brewing-Over-Online-Behavioral-Advertising-Market%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AContextual+advertising" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite class="citation web">Ostrow, Adam. <a rel="nofollow" class="external text" href="http://mashable.com/2008/06/19/contextual-advertising/">"When Contextual Advertising Goes Horribly Wrong - Mashable"</a>. mashable.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-10-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=When+Contextual+Advertising+Goes+Horribly+Wrong+-+Mashable&amp;rft.pub=mashable.com&amp;rft.aulast=Ostrow&amp;rft.aufirst=Adam&amp;rft_id=http%3A%2F%2Fmashable.com%2F2008%2F06%2F19%2Fcontextual-advertising%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AContextual+advertising" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ftc.gov/opa/2007/12/principles.shtm">"FTC Staff Proposes Online Behavioral Advertising Privacy Principles"</a>. www.ftc.gov<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-10-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=FTC+Staff+Proposes+Online+Behavioral+Advertising+Privacy+Principles&amp;rft.pub=www.ftc.gov&amp;rft_id=http%3A%2F%2Fwww.ftc.gov%2Fopa%2F2007%2F12%2Fprinciples.shtm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AContextual+advertising" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite class="citation journal">Kenny, D.; Marshall, J. (November–December 2000). <a rel="nofollow" class="external text" href="https://www.webcitation.org/6T4JPfwp9?url=http://hbswk.hbs.edu/archive/2124.html">"Contextual Marketing: The Real Business of the Internet"</a>. <i>Harvard Business Review</i>. Archived from <a rel="nofollow" class="external text" href="http://hbswk.hbs.edu/archive/2124.html">the original</a> on 2014-10-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Harvard+Business+Review&amp;rft.atitle=Contextual+Marketing%3A+The+Real+Business+of+the+Internet&amp;rft.date=2000-11%2F2000-12&amp;rft.au=Kenny%2C+D.&amp;rft.au=Marshall%2C+J.&amp;rft_id=http%3A%2F%2Fhbswk.hbs.edu%2Farchive%2F2124.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AContextual+advertising" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite class="citation news">Revesencio, Jonha (2015-04-09). <a rel="nofollow" class="external text" href="http://www.huffingtonpost.com/jonha-revesencio/crm-retargeting-how-it-wo_b_7034194.html">"CRM Retargeting: How It Works and Everything You Need to Know Before Using It - Huffington Post"</a>. huffingtonpost.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-04-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=CRM+Retargeting%3A+How+It+Works+and+Everything+You+Need+to+Know+Before+Using+It+-+Huffington+Post&amp;rft.date=2015-04-09&amp;rft.aulast=Revesencio&amp;rft.aufirst=Jonha&amp;rft_id=http%3A%2F%2Fwww.huffingtonpost.com%2Fjonha-revesencio%2Fcrm-retargeting-how-it-wo_b_7034194.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AContextual+advertising" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li></ul>
+
+<!-- 
+NewPP limit report
+Parsed by mw2232
+Cached time: 20180929141940
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.212 seconds
+Real time usage: 0.272 seconds
+Preprocessor visited node count: 960/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 28750/2097152 bytes
+Template argument size: 1990/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 21377/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.124/10.000 seconds
+Lua memory usage: 3.46 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  244.173      1 -total
+ 40.75%   99.505      1 Template:Reflist
+ 28.64%   69.923      4 Template:Fix
+ 24.96%   60.938      3 Template:Cite_news
+ 19.98%   48.786      1 Template:Citation_needed
+ 17.57%   42.913      1 Template:Internet_Marketing
+ 16.33%   39.865      1 Template:Sidebar
+ 16.27%   39.730      8 Template:Category_handler
+ 10.05%   24.533      4 Template:Delink
+ 10.01%   24.437      6 Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2963328-0!canonical and timestamp 20180929141940 and revision id 846446211
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Contextual_advertising&amp;oldid=846446211">https://en.wikipedia.org/w/index.php?title=Contextual_advertising&amp;oldid=846446211</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Advertising" title="Category:Advertising">Advertising</a></li><li><a href="/wiki/Category:Contextual_advertising" title="Category:Contextual advertising">Contextual advertising</a></li><li><a href="/wiki/Category:Internet_advertising_methods" title="Category:Internet advertising methods">Internet advertising methods</a></li><li><a href="/wiki/Category:Advertising_by_type" title="Category:Advertising by type">Advertising by type</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_needing_factual_verification_from_May_2011" title="Category:Wikipedia articles needing factual verification from May 2011">Wikipedia articles needing factual verification from May 2011</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2010" title="Category:Articles with unsourced statements from November 2010">Articles with unsourced statements from November 2010</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2017" title="Category:Articles with unsourced statements from October 2017">Articles with unsourced statements from October 2017</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Contextual+advertising" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Contextual+advertising" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Contextual_advertising" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Contextual_advertising" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Contextual_advertising">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Contextual_advertising&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Contextual_advertising&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Contextual_advertising" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Contextual_advertising" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Contextual_advertising&amp;oldid=846446211" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Contextual_advertising&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1815904" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Contextual_advertising&amp;id=846446211" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Contextual+advertising">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Contextual+advertising&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Contextual_advertising&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D9%82%D9%8A%D8%A9" title="الإعلانات السياقية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D1%83%D0%B0%D0%BB%D0%BD%D0%B0_%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0" title="Контекстуална реклама – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Kontextov%C3%A1_reklama" title="Kontextová reklama – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Semantisches_Targeting" title="Semantisches Targeting – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E9%80%A3%E5%8B%95%E5%9E%8B%E5%BA%83%E5%91%8A" title="コンテンツ連動型広告 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Reklama_kontekstowa" title="Reklama kontekstowa – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D0%B0%D1%8F_%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0" title="Контекстная реклама – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82_%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0" title="Контекст реклама – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D0%B0_%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0" title="Контекстна реклама – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%80%8B%E4%BA%BA%E5%8C%96%E7%B6%B2%E8%B7%AF%E5%BB%A3%E5%91%8A" title="個人化網路廣告 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1815904#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 18 June 2018, at 20:54<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Contextual_advertising&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.212","walltime":"0.272","ppvisitednodes":{"value":960,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":28750,"limit":2097152},"templateargumentsize":{"value":1990,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":21377,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  244.173      1 -total"," 40.75%   99.505      1 Template:Reflist"," 28.64%   69.923      4 Template:Fix"," 24.96%   60.938      3 Template:Cite_news"," 19.98%   48.786      1 Template:Citation_needed"," 17.57%   42.913      1 Template:Internet_Marketing"," 16.33%   39.865      1 Template:Sidebar"," 16.27%   39.730      8 Template:Category_handler"," 10.05%   24.533      4 Template:Delink"," 10.01%   24.437      6 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.124","limit":"10.000"},"limitreport-memusage":{"value":3624419,"limit":52428800}},"cachereport":{"origin":"mw2232","timestamp":"20180929141940","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw2238"});});</script>
+	</body>
+</html>

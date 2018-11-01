@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>msnbot - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Msnbot","wgTitle":"Msnbot","wgCurRevisionId":755821238,"wgRevisionId":755821238,"wgArticleId":2501309,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All stub articles","World Wide Web stubs","Bots","Web crawlers","Microsoft"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Msnbot","wgRelevantArticleId":2501309,"wgRequestId":"W6uT9grAIDYAAJauZi4AAAAK","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q16979709","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.22"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Msnbot"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Msnbot&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Msnbot&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Msnbot"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Msnbot rootpage-Msnbot skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">msnbot</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><span></span>
+<b>msnbot</b> was a web-crawling robot (type of <a href="/wiki/Internet_bot" title="Internet bot">internet bot</a>), deployed by <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> to collect documents from the web to build a searchable index for the <a href="/wiki/MSN_Search" class="mw-redirect" title="MSN Search">MSN Search engine</a>. It went into beta in 2004, and had full public release in 2005. The month of October 2010 saw the official retirement of <b>msnbot</b> from most active web crawling duties and its replacement by <a href="/wiki/Bingbot" title="Bingbot">bingbot</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>As of September 2015 <b>msnbot</b> was still active from the <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> and the <a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a> webmaster help &amp; howto documentation still indicated that msnbot was active (but that it would retire soon).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> The verification tool for bingbot<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> previously did not recognise <b>msnbot</b> IP addresses. A test executed on 2016-02-22 resulted in a yes: "Verdict for IP address 157.55.39.150: Yes - this IP address is a verified Bingbot IP address. Name: msnbot-157-55-39-150.search.msn.com."
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Msnbot&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Steve Tullis, <a rel="nofollow" class="external text" href="http://www.bing.com/community/site_blogs/b/webmaster/archive/2010/09/29/bingbot-the-sequel.aspx">Bingbot, the Sequel</a> Webmaster Center blog, Bing Community, September 29, 2010</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bing.com/webmaster/help/which-crawlers-does-bing-use-8c184ec0">"bing - Meet our crawlers"</a>, Microsoft, 21/Mar/2014</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bing.com/toolbox/verify-bingbot">"Verify Bingbot"</a>, Microsoft, 21/Mar/2014</span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Microsoft" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Microsoft" title="Template:Microsoft"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Microsoft" title="Template talk:Microsoft"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Microsoft&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Microsoft" style="font-size:114%;margin:0 4em"><a href="/wiki/Microsoft" title="Microsoft">Microsoft</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_History&amp;#10;*_Outline">
+<ul><li><a href="/wiki/History_of_Microsoft" title="History of Microsoft">History</a></li>
+<li><a href="/wiki/Outline_of_Microsoft" title="Outline of Microsoft">Outline</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Founders</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bill_Gates" title="Bill Gates">Bill Gates</a></li>
+<li><a href="/wiki/Paul_Allen" title="Paul Allen">Paul Allen</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Board of directors</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/John_W._Thompson" title="John W. Thompson">John W. Thompson</a> (Chairman)</li>
+<li><a href="/wiki/Satya_Nadella" title="Satya Nadella">Satya Nadella</a> (CEO)</li>
+<li><a href="/wiki/Bill_Gates" title="Bill Gates">Bill Gates</a></li>
+<li><a href="/wiki/Charles_Noski" title="Charles Noski">Charles Noski</a></li>
+<li><a href="/wiki/Helmut_Panke" title="Helmut Panke">Helmut Panke</a></li>
+<li><a href="/wiki/John_W._Stanton" title="John W. Stanton">John W. Stanton</a></li>
+<li><a href="/wiki/Reid_Hoffman" title="Reid Hoffman">Reid Hoffman</a></li>
+<li><a href="/wiki/Sandi_Peterson" title="Sandi Peterson">Sandi Peterson</a></li>
+<li><a href="/wiki/Penny_Pritzker" title="Penny Pritzker">Penny Pritzker</a></li>
+<li><a href="/wiki/Charles_Scharf" title="Charles Scharf">Charles Scharf</a></li>
+<li><a href="/wiki/Arne_Sorenson" title="Arne Sorenson">Arne Sorenson</a></li>
+<li><a href="/wiki/Padmasree_Warrior" title="Padmasree Warrior">Padmasree Warrior</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Senior leadership team</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Satya_Nadella" title="Satya Nadella">Satya Nadella</a> (CEO)</li>
+<li><a href="/wiki/Scott_Guthrie" title="Scott Guthrie">Scott Guthrie</a></li>
+<li><a href="/wiki/Amy_Hood" title="Amy Hood">Amy Hood</a> (CFO)</li>
+<li><a href="/wiki/Terry_Myerson" title="Terry Myerson">Terry Myerson</a></li>
+<li><a href="/wiki/Harry_Shum" title="Harry Shum">Harry Shum</a></li>
+<li><a href="/wiki/Phil_Spencer_(business_executive)" title="Phil Spencer (business executive)">Phil Spencer</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Corporate VPs</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gabe_Aul" title="Gabe Aul">Gabe Aul</a> (VP)</li>
+<li><a href="/wiki/Joe_Belfiore" title="Joe Belfiore">Joe Belfiore</a></li>
+<li><a href="/wiki/Richard_Rashid" title="Richard Rashid">Richard Rashid</a> (SVP)</li>
+<li><a href="/wiki/S._Somasegar" title="S. Somasegar">S. Somasegar</a> (SVP)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Divisions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Microsoft_engineering_groups" title="Microsoft engineering groups">Engineering groups</a>
+<ul><li><a href="/wiki/Microsoft_Mobile" title="Microsoft Mobile">Mobile</a></li>
+<li><a href="/wiki/Skype_Technologies" title="Skype Technologies">Skype unit</a></li></ul></li>
+<li><a href="/wiki/Microsoft_Digital_Crimes_Unit" title="Microsoft Digital Crimes Unit">Digital Crimes Unit</a></li>
+<li><a href="/wiki/Microsoft_Garage" title="Microsoft Garage">Garage</a></li>
+<li><a href="/wiki/Microsoft_Press" title="Microsoft Press">Press</a></li>
+<li><a href="/wiki/Microsoft_Research" title="Microsoft Research">Research</a></li>
+<li><a href="/wiki/Microsoft_Studios" title="Microsoft Studios">Studios</a></li>
+<li><a href="/wiki/.NET_Foundation" title=".NET Foundation">.NET Foundation</a></li>
+<li><a href="/wiki/Outercurve_Foundation" title="Outercurve Foundation">Outercurve Foundation</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Estates</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Microsoft_Redmond_campus" title="Microsoft Redmond campus">Microsoft Redmond campus</a></li>
+<li><a href="/wiki/Tieto_Keilalahti_Campus" title="Tieto Keilalahti Campus">Microsoft Talo</a></li>
+<li><a href="/wiki/Microsoft_Algeria" title="Microsoft Algeria">Microsoft Algeria</a></li>
+<li><a href="/wiki/Microsoft_Egypt" title="Microsoft Egypt">Microsoft Egypt</a></li>
+<li><a href="/wiki/Microsoft_India" title="Microsoft India">Microsoft India</a></li>
+<li><a href="/wiki/Microsoft_Japan" title="Microsoft Japan">Microsoft Japan</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Product families</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Microsoft_operating_systems" title="List of Microsoft operating systems">Operating systems</a>
+<ul><li><a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a></li></ul></li>
+<li><a href="/wiki/List_of_Microsoft_software" title="List of Microsoft software">Software</a>
+<ul><li><a href="/wiki/Microsoft_Office" title="Microsoft Office">Office</a></li>
+<li><a href="/wiki/Microsoft_Servers" title="Microsoft Servers">Servers</a></li>
+<li><a href="/wiki/Microsoft_Visual_Studio" title="Microsoft Visual Studio">Visual Studio</a></li></ul></li>
+<li><a href="/wiki/Microsoft_hardware" title="Microsoft hardware">Hardware</a>
+<ul><li><a href="/wiki/Microsoft_HoloLens" title="Microsoft HoloLens">HoloLens</a></li>
+<li><a href="/wiki/Microsoft_Surface" title="Microsoft Surface">Surface</a></li>
+<li><a href="/wiki/Xbox" title="Xbox">Xbox</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Web properties</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Microsoft_Azure" title="Microsoft Azure">Azure</a></li>
+<li><a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a></li>
+<li><a href="/wiki/Channel_9_(Microsoft)" title="Channel 9 (Microsoft)">Channel 9</a></li>
+<li><a href="/wiki/CodePlex" title="CodePlex">CodePlex</a></li>
+<li><a href="/wiki/Microsoft_Developer_Network" title="Microsoft Developer Network">Developer Network</a></li>
+<li><a href="/wiki/MSN" title="MSN">MSN</a></li>
+<li><a href="/wiki/Mixer_(website)" title="Mixer (website)">Mixer</a></li>
+<li><a href="/wiki/Microsoft_Office" title="Microsoft Office">Office.com</a></li>
+<li><a href="/wiki/OneDrive" title="OneDrive">OneDrive</a></li>
+<li><a href="/wiki/Outlook.com" title="Outlook.com">Outlook.com</a></li>
+<li><a href="/wiki/Microsoft_Store_(digital)" title="Microsoft Store (digital)">Store</a></li>
+<li><a href="/wiki/Microsoft_TechNet" title="Microsoft TechNet">TechNet</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Conferences</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Build_(developer_conference)" title="Build (developer conference)">Build</a></li>
+<li><a href="/wiki/Microsoft_Inspire" title="Microsoft Inspire">Inspire</a></li>
+<li><a href="/wiki/MIX_(Microsoft)" title="MIX (Microsoft)">MIX</a></li>
+<li><a href="/wiki/Professional_Developers_Conference" title="Professional Developers Conference">PDC</a></li>
+<li><a href="/wiki/Microsoft_Ignite" title="Microsoft Ignite">TechEd</a></li>
+<li><a href="/wiki/Windows_Hardware_Engineering_Conference" title="Windows Hardware Engineering Conference">WinHEC</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Campaigns</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Where_do_you_want_to_go_today%3F" title="Where do you want to go today?">Where do you want to go today?</a></i> (1994)</li>
+<li><a href="/wiki/Champagne_(advertisement)" title="Champagne (advertisement)"><i>Champagne</i></a> (2002)</li>
+<li><i><a href="/wiki/Mojave_Experiment" title="Mojave Experiment">Mojave Experiment</a></i> (2006)</li>
+<li><i><a href="/wiki/I%27m_a_PC" title="I&#39;m a PC">I'm a PC</a></i> (2008)</li>
+<li><i><a href="/wiki/Scroogled" title="Scroogled">Scroogled</a></i> (2012)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Criticism_of_Microsoft" title="Criticism of Microsoft">Criticism</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bundling_of_Microsoft_Windows" title="Bundling of Microsoft Windows">Bundling of Microsoft Windows</a></li>
+<li><a href="/wiki/Office_Assistant" title="Office Assistant">Clippy</a></li>
+<li><a href="/wiki/ILoo#Reaction" title="ILoo">iLoo</a></li>
+<li><a href="/wiki/Internet_Explorer#Security_vulnerabilities" title="Internet Explorer">Internet Explorer</a></li>
+<li><a href="/wiki/Microsoft_Bob" title="Microsoft Bob">Microsoft Bob</a></li>
+<li><a href="/wiki/NSAKEY" title="NSAKEY">_NSAKEY</a></li>
+<li><a href="/wiki/Criticism_of_Microsoft_Windows" title="Criticism of Microsoft Windows">Windows</a>
+<ul><li><a href="/wiki/Criticism_of_Windows_XP" title="Criticism of Windows XP">XP</a></li>
+<li><a href="/wiki/Criticism_of_Windows_Vista" title="Criticism of Windows Vista">Vista</a></li>
+<li><a href="/wiki/Criticism_of_Windows_10" title="Criticism of Windows 10">10</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Microsoft_litigation" title="Microsoft litigation">Litigation</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Alcatel-Lucent_v._Microsoft_Corp." title="Alcatel-Lucent v. Microsoft Corp.">Alcatel-Lucent v. Microsoft</a></i></li>
+<li><i><a href="/wiki/Apple_Computer,_Inc._v._Microsoft_Corp." title="Apple Computer, Inc. v. Microsoft Corp."><i>Apple v. Microsoft</i></a></i></li>
+<li><a href="/wiki/Microsoft_Corp._v._Commission" title="Microsoft Corp. v. Commission">European Union Microsoft competition case</a></li>
+<li><i><a href="/wiki/Microsoft_Corp._v._Lindows.com,_Inc." title="Microsoft Corp. v. Lindows.com, Inc.">Microsoft v. Lindows</a></i></li>
+<li><i><a href="/wiki/Microsoft_v._MikeRoweSoft" title="Microsoft v. MikeRoweSoft">Microsoft v. MikeRoweSoft</a></i></li>
+<li><i><a href="/wiki/Microsoft_Corp._v._Shah" title="Microsoft Corp. v. Shah">Microsoft v. Shah</a></i></li>
+<li><i><a href="/wiki/United_States_v._Microsoft_Corp." title="United States v. Microsoft Corp.">United States v. Microsoft</a></i> (2001 antitrust case)</li>
+<li><a href="/wiki/Microsoft_Corp._v._United_States" title="Microsoft Corp. v. United States"><i>Microsoft Ireland</i> case</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_mergers_and_acquisitions_by_Microsoft" title="List of mergers and acquisitions by Microsoft">Acquisitions</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wunderlist" title="Wunderlist">6Wunderkinder</a></li>
+<li><a href="/wiki/Altamira_Software" title="Altamira Software">Altamira Software</a></li>
+<li><a href="/wiki/AltspaceVR" title="AltspaceVR">AltspaceVR</a></li>
+<li><a href="/wiki/AQuantive" title="AQuantive">aQuantive</a></li>
+<li><a href="/wiki/Microsoft_Amalga" title="Microsoft Amalga">Azyxxi</a></li>
+<li><a href="/wiki/The_Blue_Ribbon_SoundWorks" title="The Blue Ribbon SoundWorks">The Blue Ribbon SoundWorks</a></li>
+<li><a href="/wiki/Mixer_(website)" title="Mixer (website)">Beam</a></li>
+<li><a href="/wiki/Bungie" title="Bungie">Bungie</a></li>
+<li><a href="/wiki/Calista_Technologies" title="Calista Technologies">Calista Technologies</a></li>
+<li><a href="/wiki/Colloquis" title="Colloquis">Colloquis</a></li>
+<li><a href="/wiki/Connectix" title="Connectix">Connectix</a></li>
+<li><a href="/wiki/Consumers_Software" title="Consumers Software">Consumers Software</a></li>
+<li><a href="/wiki/Danger_Inc." title="Danger Inc.">Danger</a></li>
+<li><a href="/wiki/MSN_Travel" title="MSN Travel">Farecast</a></li>
+<li><a href="/wiki/FASA_Studio" title="FASA Studio">FASA Studio</a></li>
+<li><a href="/wiki/Microsoft_Development_Center_Norway" title="Microsoft Development Center Norway">Fast Search &amp; Transfer</a></li>
+<li><a href="/wiki/Firefly_(website)" title="Firefly (website)">Firefly</a></li>
+<li><a href="/wiki/Forethought,_Inc." title="Forethought, Inc.">Forethought</a></li>
+<li><a href="/wiki/Windows_Defender" title="Windows Defender">GIANT Company Software</a></li>
+<li><a href="/wiki/GreenButton" title="GreenButton">GreenButton</a></li>
+<li><a href="/wiki/Groove_Networks" title="Groove Networks">Groove Networks</a></li>
+<li><a href="/wiki/High_Heat_Major_League_Baseball" title="High Heat Major League Baseball">High Heat Major League Baseball</a></li>
+<li><a href="/wiki/Outlook.com" title="Outlook.com">Hotmail</a></li>
+<li><a href="/wiki/Jellyfish.com" title="Jellyfish.com">Jellyfish.com</a></li>
+<li><a href="/wiki/LinkedIn" title="LinkedIn">LinkedIn</a></li>
+<li><a href="/wiki/LinkExchange" title="LinkExchange">LinkExchange</a></li>
+<li><a href="/wiki/Lionhead_Studios" title="Lionhead Studios">Lionhead Studios</a></li>
+<li><a href="/wiki/Maluuba" title="Maluuba">Maluuba</a></li>
+<li><a href="/wiki/Massive_Incorporated" title="Massive Incorporated">Massive Incorporated</a></li>
+<li><a href="/wiki/MileIQ" title="MileIQ">Mobile Data Labs</a></li>
+<li><a href="/wiki/Mojang" title="Mojang">Mojang</a></li>
+<li><a href="/wiki/Microsoft_Mobile" title="Microsoft Mobile">Nokia Devices and Services</a></li>
+<li><a href="/wiki/Windows_Live_Toolbar#Onfolio" title="Windows Live Toolbar">Onfolio</a></li>
+<li><a href="/wiki/Pando_Networks" title="Pando Networks">Pando Networks</a></li>
+<li><a href="/wiki/Perceptive_Pixel" title="Perceptive Pixel">Perceptive Pixel</a></li>
+<li><a href="/wiki/PlaceWare" title="PlaceWare">PlaceWare</a></li>
+<li><a href="/wiki/Powerset_(company)" title="Powerset (company)">Powerset</a></li>
+<li><a href="/wiki/ProClarity" title="ProClarity">ProClarity</a></li>
+<li><a href="/wiki/Rare_(company)" title="Rare (company)">Rare</a></li>
+<li><a href="/wiki/Revolution_Analytics" title="Revolution Analytics">Revolution Analytics</a></li>
+<li><a href="/wiki/ScreenTonic" title="ScreenTonic">ScreenTonic</a></li>
+<li><a href="/wiki/Secure_Islands" title="Secure Islands">Secure Islands</a></li>
+<li><a href="/wiki/Simplygon" title="Simplygon">Simplygon</a></li>
+<li><a href="/wiki/Skype_Technologies" title="Skype Technologies">Skype</a></li>
+<li><a href="/wiki/Sunrise_Calendar" title="Sunrise Calendar">Sunrise Atelier</a></li>
+<li><a href="/wiki/SwiftKey" title="SwiftKey">SwiftKey</a></li>
+<li><a href="/wiki/Sysinternals" title="Sysinternals">Winternals Software</a></li>
+<li><a href="/wiki/Teleo" title="Teleo">Teleo</a></li>
+<li><a href="/wiki/Havok_(company)" title="Havok (company)">Telekinesys Research</a></li>
+<li><a href="/wiki/Tellme_Networks" title="Tellme Networks">Tellme Networks</a></li>
+<li><a href="/wiki/Twisted_Pixel_Games" title="Twisted Pixel Games">Twisted Pixel Games</a></li>
+<li><a href="/wiki/Vermeer_Technologies" title="Vermeer Technologies">Vermeer Technologies</a></li>
+<li><a href="/wiki/Visio_Corporation" title="Visio Corporation">Visio Corporation</a></li>
+<li><a href="/wiki/Flux_(software)" title="Flux (software)">Vivaty</a></li>
+<li><a href="/wiki/VoloMetrix" title="VoloMetrix">VoloMetrix</a></li>
+<li><a href="/wiki/NetShow" title="NetShow">VXtreme</a></li>
+<li><a href="/wiki/MSN_TV" title="MSN TV">WebTV Networks</a></li>
+<li><a href="/wiki/Xamarin" title="Xamarin">Xamarin</a></li>
+<li><a href="/wiki/Yammer" title="Yammer">Yammer</a></li>
+<li><a href="/wiki/Yupi" title="Yupi">Yupi</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Microsoft" title="Category:Microsoft">Category</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Microsoft" title="Portal:Microsoft">Portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Web_crawlers" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Web_crawlers" title="Template:Web crawlers"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Web_crawlers" title="Template talk:Web crawlers"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_crawlers&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Web_crawlers" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_crawler" title="Web crawler">Web crawlers</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="Internet_bots_designed_for_Web_crawling_and_Web_indexing"><a href="/wiki/Internet_bot" title="Internet bot">Internet bots</a> designed for <a href="/wiki/Web_crawling" class="mw-redirect" title="Web crawling">Web crawling</a> and <a href="/wiki/Web_indexing" title="Web indexing">Web indexing</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Active</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/80legs" title="80legs">80legs</a></li>
+<li><a href="/wiki/Bingbot" title="Bingbot">bingbot</a></li>
+<li><a href="/wiki/Fetcher" class="mw-redirect" title="Fetcher">Fetcher</a></li>
+<li><a href="/wiki/Googlebot" title="Googlebot">Googlebot</a></li>
+<li><a href="/wiki/Heritrix" title="Heritrix">Heritrix</a></li>
+<li><a href="/wiki/HTTrack" title="HTTrack">HTTrack</a></li>
+<li><a href="/w/index.php?title=Pandemonium_(Webcrawler)&amp;action=edit&amp;redlink=1" class="new" title="Pandemonium (Webcrawler) (page does not exist)">Pandemonium_(Webcrawler)</a></li>
+<li><a href="/wiki/PHP-Crawler" title="PHP-Crawler">PHP-Crawler</a></li>
+<li><a href="/wiki/PowerMapper" title="PowerMapper">PowerMapper</a></li>
+<li><a href="/wiki/Wget" title="Wget">Wget</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Discontinued</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/FAST_Crawler" class="mw-redirect" title="FAST Crawler">FAST Crawler</a></li>
+<li><a class="mw-selflink selflink">msnbot</a></li>
+<li><a href="/wiki/RBSE" class="mw-redirect" title="RBSE">RBSE</a></li>
+<li><a href="/wiki/TkWWW_robot" class="mw-redirect" title="TkWWW robot">TkWWW robot</a></li>
+<li><a href="/wiki/Twiceler" class="mw-redirect" title="Twiceler">Twiceler</a></li>
+<li><a href="/w/index.php?title=Yahoo!_Slurp&amp;action=edit&amp;redlink=1" class="new" title="Yahoo! Slurp (page does not exist)">Yahoo! Slurp</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Types</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Distributed_web_crawler" class="mw-redirect" title="Distributed web crawler">Distributed web crawler</a></li>
+<li><a href="/wiki/Focused_crawler" title="Focused crawler">Focused crawler</a></li>
+<li><a href="/w/index.php?title=ICDL_crawler&amp;action=edit&amp;redlink=1" class="new" title="ICDL crawler (page does not exist)">ICDL crawler</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Crystal_Clear_app_browser.png" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Crystal_Clear_app_browser.png/30px-Crystal_Clear_app_browser.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Crystal_Clear_app_browser.png/45px-Crystal_Clear_app_browser.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Crystal_Clear_app_browser.png/60px-Crystal_Clear_app_browser.png 2x" data-file-width="128" data-file-height="128" /></a></td><td><i>This <a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Msnbot&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Web-stub" title="Template:Web-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Web-stub" title="Template talk:Web-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Parsed by mw2166
+Cached time: 20180918020058
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.112 seconds
+Real time usage: 0.157 seconds
+Preprocessor visited node count: 333/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 43252/2097152 bytes
+Template argument size: 70/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1273/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.024/10.000 seconds
+Lua memory usage: 1.38 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   78.748      1 -total
+ 42.98%   33.849      3 Template:Navbox
+ 41.35%   32.560      1 Template:Microsoft
+ 28.46%   22.415      1 Template:Reflist
+ 16.62%   13.091      1 Template:Web-stub
+ 14.59%   11.492      1 Template:Asbox
+ 11.44%    9.005      2 Template:Icon
+  6.06%    4.773      1 Template:Web_crawlers
+  4.18%    3.292      1 Template:Lowercase
+  3.62%    2.847      1 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2501309-0!canonical and timestamp 20180918020057 and revision id 755821238
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Msnbot&amp;oldid=755821238">https://en.wikipedia.org/w/index.php?title=Msnbot&amp;oldid=755821238</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Bots" title="Category:Bots">Bots</a></li><li><a href="/wiki/Category:Web_crawlers" title="Category:Web crawlers">Web crawlers</a></li><li><a href="/wiki/Category:Microsoft" title="Category:Microsoft">Microsoft</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li><li><a href="/wiki/Category:World_Wide_Web_stubs" title="Category:World Wide Web stubs">World Wide Web stubs</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Msnbot" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Msnbot" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Msnbot" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Msnbot" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Msnbot">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Msnbot&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Msnbot&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Msnbot" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Msnbot" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Msnbot&amp;oldid=755821238" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Msnbot&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q16979709" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Msnbot&amp;id=755821238" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Msnbot">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Msnbot&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Msnbot&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q16979709#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 20 December 2016, at 11:23<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Msnbot&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.112","walltime":"0.157","ppvisitednodes":{"value":333,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":43252,"limit":2097152},"templateargumentsize":{"value":70,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1273,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   78.748      1 -total"," 42.98%   33.849      3 Template:Navbox"," 41.35%   32.560      1 Template:Microsoft"," 28.46%   22.415      1 Template:Reflist"," 16.62%   13.091      1 Template:Web-stub"," 14.59%   11.492      1 Template:Asbox"," 11.44%    9.005      2 Template:Icon","  6.06%    4.773      1 Template:Web_crawlers","  4.18%    3.292      1 Template:Lowercase","  3.62%    2.847      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.024","limit":"10.000"},"limitreport-memusage":{"value":1448672,"limit":52428800}},"cachereport":{"origin":"mw2166","timestamp":"20180918020058","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw2166"});});</script>
+	</body>
+</html>

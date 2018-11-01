@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Image retrieval - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Image_retrieval","wgTitle":"Image retrieval","wgCurRevisionId":841240353,"wgRevisionId":841240353,"wgArticleId":346470,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Applications of computer vision","Image search"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Image_retrieval","wgRelevantArticleId":346470,"wgRequestId":"W6@2AgrAAEQAAA5qCiAAAABL","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q10927554","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Image_retrieval"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Image_retrieval&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Image_retrieval&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Image_retrieval"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Image_retrieval rootpage-Image_retrieval skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Image retrieval</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>An <b>image retrieval</b> system is a computer system for browsing, searching and retrieving images from a large <a href="/wiki/Database" title="Database">database</a> of <a href="/wiki/Digital_image" title="Digital image">digital images</a>. Most traditional and common methods of image retrieval utilize some method of adding <a href="/wiki/Metadata" title="Metadata">metadata</a> such as <a href="/wiki/Photo_caption" title="Photo caption">captioning</a>, <a href="/wiki/Keyword_(internet_search)" class="mw-redirect" title="Keyword (internet search)">keywords</a>, or descriptions to the images so that retrieval can be performed over the annotation words. Manual image annotation is time-consuming, laborious and expensive; to address this, there has been a large amount of research done on <a href="/wiki/Automatic_image_annotation" title="Automatic image annotation">automatic image annotation</a>. Additionally, the increase in social <a href="/wiki/Web_application" title="Web application">web applications</a> and the <a href="/wiki/Semantic_web" class="mw-redirect" title="Semantic web">semantic web</a> have inspired the development of several web-based image annotation tools. 
+</p><p>The first microcomputer-based image database retrieval system was developed at <a href="/wiki/MIT" class="mw-redirect" title="MIT">MIT</a>, in the 1990s, by Banireddy Prasaad, <a href="/wiki/Amar_Gupta" title="Amar Gupta">Amar Gupta</a>, Hoo-min Toong, and <a href="/wiki/Stuart_Madnick" title="Stuart Madnick">Stuart Madnick</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>A 2008 survey article documented progresses after 2007.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Search_methods"><span class="tocnumber">1</span> <span class="toctext">Search methods</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Data_Scope"><span class="tocnumber">2</span> <span class="toctext">Data Scope</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Evaluations"><span class="tocnumber">3</span> <span class="toctext">Evaluations</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Search_methods">Search methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_retrieval&amp;action=edit&amp;section=1" title="Edit section: Search methods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Image search</b> is a specialized data search used to find images. To search for images, a user may provide query terms such as keyword, image file/link, or click on some image, and the system will return images "similar" to the query. The similarity used for search criteria could be meta tags, color distribution in images, region/shape attributes, etc.
+</p>
+<ul><li><a href="/wiki/Image_meta_search" title="Image meta search">Image meta search</a> - search of images based on associated metadata such as keywords, text, etc.</li>
+<li><a href="/wiki/Content-based_image_retrieval" title="Content-based image retrieval">Content-based image retrieval</a> (CBIR)&#160;– the application of <a href="/wiki/Computer_vision" title="Computer vision">computer vision</a> to the image retrieval.  CBIR aims at avoiding the use of textual descriptions and instead retrieves images based on similarities in their contents (textures, colors, shapes etc.) to a user-supplied query image or user-specified image features.
+<ul><li><a href="/wiki/List_of_CBIR_Engines" class="mw-redirect" title="List of CBIR Engines">List of CBIR Engines</a> - list of engines which search for images based image visual content such as color, texture, shape/object, etc.</li></ul></li></ul>
+<dl><dd><div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Visual_search_engine" title="Visual search engine">Visual search engine</a> and <a href="/wiki/Reverse_image_search" title="Reverse image search">Reverse image search</a></div></dd></dl>
+<ul><li><a href="/wiki/Image_collection_exploration" title="Image collection exploration">Image collection exploration</a> - search of images based on the use of novel exploration paradigms.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Data_Scope">Data Scope</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_retrieval&amp;action=edit&amp;section=2" title="Edit section: Data Scope">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It is crucial to understand the scope and nature of image data in order to determine the complexity of image search system design. The design is also largely influenced by factors such as the diversity of user-base and expected user traffic for a search system. Along this dimension, search data can be classified into the following categories:
+</p>
+<ul><li><i>Archives</i> - usually contain large volumes of structured or semi-structured homogeneous data pertaining to specific topics.</li>
+<li><i>Domain-Specific Collection</i> - this is a homogeneous collection providing access to controlled users with very specific objectives. Examples of such a collection are biomedical and satellite image databases.</li>
+<li><i>Enterprise Collection</i> - a heterogeneous collection of images that is accessible to users within an organization’s intranet. Pictures may be stored in many different locations.</li>
+<li><i>Personal Collection</i> - usually consists of a largely homogeneous collection and is generally small in size, accessible primarily to its owner, and usually stored on a local storage media.</li>
+<li><i>Web</i> - World Wide Web images are accessible to everyone with an Internet connection. These image collections are semi-structured, non-homogeneous and massive in volume, and are usually stored in large disk arrays.</li></ul>
+<h2><span class="mw-headline" id="Evaluations">Evaluations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_retrieval&amp;action=edit&amp;section=3" title="Edit section: Evaluations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are evaluation workshops for image retrieval systems aiming to investigate and improve the performance of such systems.
+</p>
+<ul><li>ImageCLEF - a continuing track of the Cross Language Evaluation Forum that evaluates systems using both textual and pure-image retrieval methods.</li>
+<li>Content-based Access of Image and Video Libraries - a series of <a href="/wiki/IEEE" class="mw-redirect" title="IEEE">IEEE</a> workshops from 1998 to 2001.</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_retrieval&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Booru" class="mw-redirect" title="Booru">Booru</a></li>
+<li><a href="/wiki/Computer_vision" title="Computer vision">Computer vision</a></li>
+<li><a href="/wiki/Concept-based_image_indexing" title="Concept-based image indexing">Concept-based image indexing</a></li>
+<li><a href="/wiki/Content-based_image_retrieval" title="Content-based image retrieval">Content-based image retrieval</a> (CBIR)</li>
+<li><a href="/wiki/Digital_asset_management" title="Digital asset management">Digital asset management</a></li>
+<li><a href="/wiki/Digital_image_editing" class="mw-redirect" title="Digital image editing">Digital image editing</a></li>
+<li><a href="/wiki/Image_organizer" title="Image organizer">Image organizer</a></li>
+<li><a href="/wiki/Image_processing" class="mw-redirect" title="Image processing">Image processing</a></li>
+<li><a href="/wiki/Information_retrieval" title="Information retrieval">Information retrieval</a></li>
+<li><a href="/wiki/Multimedia_information_retrieval" title="Multimedia information retrieval">Multimedia information retrieval</a></li>
+<li><a href="/wiki/VisualRank" title="VisualRank">VisualRank</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_retrieval&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">B E Prasad; A Gupta; H-M Toong; S.E. Madnick (February 1987). "A microcomputer-based image database management system". <i>IEEE Transactions on Industrial Electronics</i>. IE-34 (1): 83–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1109%2FTIE.1987.350929">10.1109/TIE.1987.350929</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Transactions+on+Industrial+Electronics&amp;rft.atitle=A+microcomputer-based+image+database+management+system&amp;rft.volume=IE-34&amp;rft.issue=1&amp;rft.pages=83-8&amp;rft.date=1987-02&amp;rft_id=info%3Adoi%2F10.1109%2FTIE.1987.350929&amp;rft.au=B+E+Prasad&amp;rft.au=A+Gupta&amp;rft.au=H-M+Toong&amp;rft.au=S.E.+Madnick&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImage+retrieval" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Datta, Ritendra; Dhiraj Joshi; Jia Li; James Z. Wang (April 2008). <a rel="nofollow" class="external text" href="http://infolab.stanford.edu/~wangz/project/imsearch/review/JOUR/">"Image Retrieval: Ideas, Influences, and Trends of the New Age"</a>. <i>ACM Computing Surveys</i>. <b>40</b> (2): 1–60. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F1348246.1348248">10.1145/1348246.1348248</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ACM+Computing+Surveys&amp;rft.atitle=Image+Retrieval%3A+Ideas%2C+Influences%2C+and+Trends+of+the+New+Age&amp;rft.volume=40&amp;rft.issue=2&amp;rft.pages=1-60&amp;rft.date=2008-04&amp;rft_id=info%3Adoi%2F10.1145%2F1348246.1348248&amp;rft.aulast=Datta&amp;rft.aufirst=Ritendra&amp;rft.au=Dhiraj+Joshi&amp;rft.au=Jia+Li&amp;rft.au=James+Z.+Wang&amp;rft_id=http%3A%2F%2Finfolab.stanford.edu%2F~wangz%2Fproject%2Fimsearch%2Freview%2FJOUR%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImage+retrieval" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Camargo, Jorge E.; Caicedo, Juan C.; Gonzalez, Fabio A. "A kernel-based framework for image collection exploration". <i>Journal of Visual Languages &amp; Computing</i>. <b>24</b> (1): 53–57. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.jvlc.2012.10.008">10.1016/j.jvlc.2012.10.008</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Visual+Languages+%26+Computing&amp;rft.atitle=A+kernel-based+framework+for+image+collection+exploration&amp;rft.volume=24&amp;rft.issue=1&amp;rft.pages=53-57&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jvlc.2012.10.008&amp;rft.aulast=Camargo&amp;rft.aufirst=Jorge+E.&amp;rft.au=Caicedo%2C+Juan+C.&amp;rft.au=Gonzalez%2C+Fabio+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImage+retrieval" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_retrieval&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.image-net.org">Image-Net.org</a></li></ul>
+
+<!-- 
+NewPP limit report
+Parsed by mw2185
+Cached time: 20180929133621
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.152 seconds
+Real time usage: 0.188 seconds
+Preprocessor visited node count: 269/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 6087/2097152 bytes
+Template argument size: 95/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 8401/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.102/10.000 seconds
+Lua memory usage: 2.35 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  162.087      1 -total
+ 72.65%  117.762      3 Template:Cite_journal
+ 14.81%   24.009      1 Template:Further
+  9.89%   16.031      1 Template:Div_col
+  3.94%    6.386      1 Template:Main_other
+  2.01%    3.264      1 Template:Column-width
+  0.81%    1.313      1 Template:Div_col_end
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:346470-0!canonical and timestamp 20180929133621 and revision id 841240353
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Image_retrieval&amp;oldid=841240353">https://en.wikipedia.org/w/index.php?title=Image_retrieval&amp;oldid=841240353</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Applications_of_computer_vision" title="Category:Applications of computer vision">Applications of computer vision</a></li><li><a href="/wiki/Category:Image_search" title="Category:Image search">Image search</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Image+retrieval" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Image+retrieval" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Image_retrieval" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Image_retrieval" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Image_retrieval">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Image_retrieval&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Image_retrieval&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Image_retrieval" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Image_retrieval" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Image_retrieval&amp;oldid=841240353" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Image_retrieval&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q10927554" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Image_retrieval&amp;id=841240353" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Image+retrieval">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Image+retrieval&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Image_retrieval&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%9C%96%E5%83%8F%E6%AA%A2%E7%B4%A2" title="圖像檢索 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q10927554#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 14 May 2018, at 18:45<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Image_retrieval&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.152","walltime":"0.188","ppvisitednodes":{"value":269,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":6087,"limit":2097152},"templateargumentsize":{"value":95,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":8401,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  162.087      1 -total"," 72.65%  117.762      3 Template:Cite_journal"," 14.81%   24.009      1 Template:Further","  9.89%   16.031      1 Template:Div_col","  3.94%    6.386      1 Template:Main_other","  2.01%    3.264      1 Template:Column-width","  0.81%    1.313      1 Template:Div_col_end"]},"scribunto":{"limitreport-timeusage":{"value":"0.102","limit":"10.000"},"limitreport-memusage":{"value":2469229,"limit":52428800}},"cachereport":{"origin":"mw2185","timestamp":"20180929133621","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":64,"wgHostname":"mw2242"});});</script>
+	</body>
+</html>

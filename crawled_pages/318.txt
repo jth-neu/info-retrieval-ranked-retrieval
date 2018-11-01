@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Sogou - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sogou","wgTitle":"Sogou","wgCurRevisionId":859751348,"wgRevisionId":859751348,"wgArticleId":5367330,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using deprecated image syntax","Articles containing Chinese-language text","Articles containing potentially dated statements from July 2016","All articles containing potentially dated statements","Articles with Chinese-language external links","Use dmy dates from November 2010","Tencent","Sohu","Internet search engines","Chinese websites","Online companies","Internet properties established in 2004","Companies listed on the New York Stock Exchange","Internet companies of China","Chinese brands","Companies established in 2010","2010 establishments in China","Companies based in Beijing","2017 initial public offerings"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sogou","wgRelevantArticleId":5367330,"wgRequestId":"W6@IrgrAADoAACcQb60AAAAC","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7554565","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sogou"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Sogou&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Sogou&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Sogou"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sogou rootpage-Sogou skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Sogou</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For the Japanese department store, see <a href="/wiki/Sogo" title="Sogo">Sogo</a>.</div>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">Sogou, Inc.<br />搜狗公司</caption><tbody><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Sogou_logo.png" class="image"><img alt="Sogou logo.png" src="//upload.wikimedia.org/wikipedia/en/thumb/3/38/Sogou_logo.png/220px-Sogou_logo.png" width="220" height="65" srcset="//upload.wikimedia.org/wikipedia/en/3/38/Sogou_logo.png 1.5x" data-file-width="272" data-file-height="80" /></a></td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Type of site</div></th><td>
+<a href="/wiki/Public" title="Public">Public</a></td></tr><tr><th scope="row"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded&#160;as</a></th><td>
+<a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>:&#160;<a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:SOGO">SOGO</a></td></tr><tr><th scope="row">Founded</th><td>
+9&#160;August 2010<span class="noprint">&#59;&#32;8 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2010-08-09</span>)</span></td></tr><tr><th scope="row">Headquarters</th><td class="label">
+<a href="/wiki/Beijing" title="Beijing">Beijing</a>, China</td></tr><tr><th scope="row">Owner</th><td>
+<a href="/wiki/Tencent" title="Tencent">Tencent</a> (42%), <a href="/wiki/Sohu" title="Sohu">Sohu</a> (36%)</td></tr><tr><th scope="row">Created&#160;by</th><td>
+<a href="/wiki/Wang_Xiaochuan" title="Wang Xiaochuan">Wang Xiaochuan</a> (CEO)</td></tr><tr><th scope="row">Industry</th><td class="category">
+Internet</td></tr><tr><th scope="row"><a href="/wiki/Revenue" title="Revenue">Revenue</a></th><td>
+<a href="/wiki/USD" class="mw-redirect" title="USD">$</a>907 million (2017)</td></tr><tr><th scope="row">Employees</th><td>
+2,315</td></tr><tr><th scope="row">Website</th><td class="url">
+<span class="url"><a rel="nofollow" class="external text" href="http://www.sogou.com">sogou.com</a></span>, <span class="url"><a rel="nofollow" class="external text" href="http://ir.sogou.com">ir.sogou.com</a></span>,</td></tr></tbody></table>
+<p><b>Sogou, Inc.</b> is a public company<a href="/wiki/Sohu" title="Sohu">,</a> founded on 9 August 2010 by <a href="/wiki/Wang_Xiaochuan" title="Wang Xiaochuan">Wang Xiaochuan</a>. It is the owner and developer of <b>Sogou</b> (<a href="/wiki/Chinese_language" title="Chinese language">Chinese</a>&#58; <span lang="zh">搜狗</span>; <a href="/wiki/Pinyin" title="Pinyin">pinyin</a>&#58; <i><span lang="zh-Latn-pinyin">Sōugǒu</span></i>; literally&#58; "searching dog") <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engine</a>, <a href="/wiki/Sogou_Input" class="mw-redirect" title="Sogou Input">Sogou Input</a> and Sogou browser. According to iResearch statistics, Sogou accounted for 16.7% of the mobile search market share in China.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>  It is headquartered in <a href="/wiki/Beijing" title="Beijing">Beijing</a>, <a href="/wiki/China" title="China">China</a>.  The offices of Sogou are located on the southeast corner of Tsinghua University.
+</p><p>Sogou listed on the <a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">New York Stock Exchange</a> on November 9, 2017, under the ticker “SOGO”.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> The night before the IPO, <a href="/wiki/Tencent" title="Tencent">Tencent</a> owned <a rel="nofollow" class="external text" href="https://www.bloomberg.com/news/articles/2017-10-27/tencent-backed-sogou-aims-for-up-to-585-million-in-u-s-ipo">44%</a> of the Sogou while Sohu owned 38%. In the quarter prior to the IPO, Sogou reported 55% year over year revenue growth of 55% and 22% quarter over quarter growth.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Products"><span class="tocnumber">1</span> <span class="toctext">Products</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Search_engine_and_web_applications"><span class="tocnumber">1.1</span> <span class="toctext">Search engine and web applications</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Sogou_Input_Method"><span class="tocnumber">1.2</span> <span class="toctext">Sogou Input Method</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Sogou_Browser"><span class="tocnumber">1.3</span> <span class="toctext">Sogou Browser</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Sogou_Voice_Recognition_Technology"><span class="tocnumber">1.4</span> <span class="toctext">Sogou Voice Recognition Technology</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Sogou_Lip_Recognition_Technology"><span class="tocnumber">1.5</span> <span class="toctext">Sogou Lip Recognition Technology</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Partnership_with_Microsoft_Bing"><span class="tocnumber">1.6</span> <span class="toctext">Partnership with Microsoft Bing</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Other_Investments"><span class="tocnumber">1.7</span> <span class="toctext">Other Investments</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Debut_on_NYSE"><span class="tocnumber">2</span> <span class="toctext">Debut on NYSE</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Products">Products</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sogou&amp;action=edit&amp;section=1" title="Edit section: Products">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">Sogou<br />搜狗</caption><tbody><tr><th scope="row">Available&#160;in</th><td>
+<a href="/wiki/Chinese_language" title="Chinese language">Chinese</a></td></tr><tr><th scope="row">Owner</th><td>
+Public Company</td></tr><tr><th scope="row">Website</th><td class="url">
+<span class="url"><a rel="nofollow" class="external text" href="http://sogou.com">sogou<wbr />.com</a></span></td></tr><tr><th scope="row"><a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa</a> rank</th><td>
+<img alt="Negative increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/11px-Increase_Negative.svg.png" title="Negative increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/17px-Increase_Negative.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/22px-Increase_Negative.svg.png 2x" data-file-width="300" data-file-height="300" /> 123 (July 2016<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Sogou&amp;action=edit">&#91;update&#93;</a></sup>)<sup id="cite_ref-alexa_3-0" class="reference"><a href="#cite_note-alexa-3">&#91;3&#93;</a></sup></td></tr><tr><th scope="row">Commercial</th><td>
+yes</td></tr><tr><th scope="row"><a href="/wiki/Registered_user" title="Registered user">Users</a></th><td>
+560 million</td></tr><tr><th scope="row">Launched</th><td>
+3&#160;August 2004<span class="noprint">&#59;&#32;14 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2004-08-03</span>)</span></td></tr><tr><th scope="row">Current&#160;status</th><td class="category">
+Active</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Search_engine_and_web_applications">Search engine and web applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sogou&amp;action=edit&amp;section=2" title="Edit section: Search engine and web applications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sogou search engine (Sogou.com) was launched on 3 August 2004. Sogou's web application products are designed to classify online information, such as music, picture, video clip, news, map and vertical information. As of 2017, it has an index of 10 billion pages.
+</p><p>As of 2017, over 90% of the company's revenues are from search advertising.
+</p><p>In October 2017, Sogou began <a rel="nofollow" class="external text" href="https://www.chinainternetwatch.com/22736/sogou-q3-2017/">testing</a> a general search engine within <a href="/wiki/WeChat" title="WeChat">WeChat</a>, which would allow all 902 million daily active users to access the internet within the app. Since 2013, Sogou has only been able to search and index contents of WeChat official accounts. On the first quarter conference call, 2018, Sogou provided an update indicating so far results in WeChat have been positive, resulting in a 30% improvement in click through rate. 
+</p>
+<h3><span class="mw-headline" id="Sogou_Input_Method">Sogou Input Method</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sogou&amp;action=edit&amp;section=3" title="Edit section: Sogou Input Method">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Sogou_Pinyin" title="Sogou Pinyin">Sogou Pinyin</a></div>
+<p>Initially released in 2006, <a href="/wiki/Sogou_Pinyin" title="Sogou Pinyin">Sogou Pinyin</a> is the most popular Chinese input software in China. It makes use of its search engine techniques which are the analysis and categorization of the most popular words or phrases on the Internet. In 2007, Sogou won a patent infringement case against Google for copying their <a rel="nofollow" class="external text" href="http://technode.com/2017/09/15/sogou-vs-baidu-ip/">IME</a>.  Baidu is second with a 25.7% market share. IME data gives companies large amounts of keystroke history to improve search result accuracy. As of early 2018, the Sogou Input Method app is the third most downloaded app and commands a <a rel="nofollow" class="external text" href="https://www.xuehua.us/2018/06/30/sogou-doubles-down-on-ai-with-launch-of-real-time-devices/">70% marketshare</a>. 
+</p>
+<h3><span class="mw-headline" id="Sogou_Browser">Sogou Browser</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sogou&amp;action=edit&amp;section=4" title="Edit section: Sogou Browser">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Launched in December 2008, <a href="/w/index.php?title=Sogou_browser&amp;action=edit&amp;redlink=1" class="new" title="Sogou browser (page does not exist)">Sogou browser</a> adopts a "dual-core" (<a href="/wiki/Google_Chrome" title="Google Chrome">Google Chrome</a>'s <a href="/wiki/WebKit" title="WebKit">WebKit</a> and <a href="/wiki/Internet_Explorer" title="Internet Explorer">Internet Explorer</a>'s <a href="/wiki/Trident_(layout_engine)" class="mw-redirect" title="Trident (layout engine)">Trident</a> <a href="/wiki/Browser_engine" title="Browser engine">layout engines</a>) techniques and it connects to the cloud to recognize malicious websites and software.
+Several websites describe Sogou Explorer as malicious adware and recommend users not to install it, since user settings are changed and URLs are sent to servers in China, without user consent, violating user privacy. The software is reported as difficult to remove.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Sogou_Voice_Recognition_Technology">Sogou Voice Recognition Technology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sogou&amp;action=edit&amp;section=5" title="Edit section: Sogou Voice Recognition Technology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sogou has been developing voice recognition technology since 2011. At the World Internet Conference in November 2016, CEO Wang Xiaochuan demonstrated a voice translation with both Chinese and English translation with up to 95% <a rel="nofollow" class="external text" href="http://www.chinadaily.com.cn/business/3rdWuzhenWorldInternetConference/2016-11/19/content_27428750.htm">accuracy</a>.  There has been a rush to partner with manufacturers in connecting devices to the internet between competitors like Baidu. <a href="/wiki/Google" title="Google">Google</a>-backed AI startup <a rel="nofollow" class="external text" href="https://www.techinasia.com/mobvoi-xiaomi-smart-tv-contract-claims">Mobvoi</a> had a deal fall through with <a href="/wiki/Xiaomi" title="Xiaomi">Xiaomi's</a> for their MiTV launch in March 2017. Xiaomi company representatives pointed to Sogou getting the business using their <a rel="nofollow" class="external text" href="https://gadgets.ndtv.com/tv/news/xiaomis-mi-tv-4a-series-launched-with-ai-based-speech-recognition-1672577">ASR</a> solution with accuracy up to 97%. Sogou is currently China's <a rel="nofollow" class="external text" href="https://www.xuehua.us/2018/06/30/sogou-doubles-down-on-ai-with-launch-of-real-time-devices/">largest search engine</a> by voice, as the country moves from desktop to mobile search. 
+</p><p><b>Hardware Products</b>
+</p><p>In 2017, Sogou through their Internet of Things subsidiary, sold over 1 million smartwatches in China. The GPS positioning smartwatch focuses on the child market.  
+</p><p>On March 22, 2018, Sogou launched the Travel Translator and Travel Pen, which <a rel="nofollow" class="external text" href="http://thefirstworldhangzhou.com/News_743636.htm">sold out on the first day</a>. The company estimates it will exceed sales of their smartwatches. 
+</p>
+<h3><span class="mw-headline" id="Sogou_Lip_Recognition_Technology">Sogou Lip Recognition Technology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sogou&amp;action=edit&amp;section=6" title="Edit section: Sogou Lip Recognition Technology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On 15 December 2017, Sogou debuted a lip <a rel="nofollow" class="external text" href="https://www.yicaiglobal.com/news/sogou-unveils-90-accurate-ai-lip-reading-system-aid-deaf-police">reading</a> program that can operate at up to 90% accuracy, beating out a similar program by Google.
+</p>
+<h3><span class="mw-headline" id="Partnership_with_Microsoft_Bing">Partnership with Microsoft Bing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sogou&amp;action=edit&amp;section=7" title="Edit section: Partnership with Microsoft Bing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In May 2016, Sogou partnered with <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> to use Bing to search for English results, then get the result translated back into <a rel="nofollow" class="external text" href="https://technode.com/2016/05/23/sogou-bing/">Chinese</a>.
+</p>
+<h3><span class="mw-headline" id="Other_Investments">Other Investments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sogou&amp;action=edit&amp;section=8" title="Edit section: Other Investments">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2018, Sogou has expanded global presence of their other keyboard app, <a rel="nofollow" class="external text" href="http://typany.com/about">Typany</a>, of which they own 100% of the company. To date, the app works with over 100 languages. The app goes with their strategy of dominating the voice recognition and language recognition market. 
+</p><p>Along with Tencent, Sogou participated in round C and D in <a href="/wiki/Zhihu" title="Zhihu">Zhihu</a>.com. According to Sogou's IPO prospectus, their investment in Round C in 2015 was 4.8% of Zhihu. In 2014, Sogou launched Zhihu <a rel="nofollow" class="external text" href="https://technode.com/2016/05/23/sogou-bing/">search</a> and is also the default search engine on Zhihu. 
+</p><p>In 2016, Sogou donated $30 million to <a href="/wiki/Tsinghua_University" title="Tsinghua University">Tsinghua University</a> in a joint partnership to build an Artificial Intelligence <a rel="nofollow" class="external text" href="http://www.cs.tsinghua.edu.cn/publish/csen/4894/2017/20170414165140339237933/20170414165140339237933_.html">Institute</a>. It currently supports the Sogou Search Engine Technology Joint Laboratory at Tsinghua University. Located on the edge of the campus of Tsinghua University, Sogou strategically recruits and partners to train students from the most talented minds in China. Since 2015, Tsinghua has been <a href="/wiki/Tsinghua_University" title="Tsinghua University">ranked</a> as the best <a href="/wiki/Engineering" title="Engineering">engineering</a> and <a href="/wiki/Computer_science" title="Computer science">computer science</a> school in the world based on factors including total research output and performance. 
+</p><p>According to the prospectus, Sogou owns 100% of Chengdu Easypay, a financial techology company specializing in micro loans. As of April 2018, Sogou is still awaiting Government approval to operate in the country. According to the company address, it is located on the 13th floor of Tencent's building in Chengdu in the High-tech zone. 
+</p>
+<h2><span class="mw-headline" id="Debut_on_NYSE">Debut on NYSE</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sogou&amp;action=edit&amp;section=9" title="Edit section: Debut on NYSE">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On November 9, 2017, Sogou debuted on the <a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">New York Stock Exchange</a>,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> and subsequently raised $585 million offering in a bid to accelerate the use of <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial intelligence</a> in its business.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> According to the company, proceeds from the IPO will be used for research and development, sales and marketing efforts, and general corporate purposes.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sogou&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.fonow.com/news/194506.html">http://www.fonow.com/news/194506.html</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="https://techcrunch.com/2017/11/09/chinese-search-engine-sogou-up-4-following-ipo/">"Chinese search engine Sogou up 4% following IPO"</a>, <i>TechCrunch</i>, 9 November 2017</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=TechCrunch&amp;rft.atitle=Chinese+search+engine+Sogou+up+4%25+following+IPO&amp;rft.date=2017-11-09&amp;rft_id=https%3A%2F%2Ftechcrunch.com%2F2017%2F11%2F09%2Fchinese-search-engine-sogou-up-4-following-ipo%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASogou" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-alexa-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-alexa_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.alexa.com/siteinfo/Sogou.com">"Sogou.com Site Info"</a>. <a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa Internet</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-07-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sogou.com+Site+Info&amp;rft.pub=Alexa+Internet&amp;rft_id=http%3A%2F%2Fwww.alexa.com%2Fsiteinfo%2FSogou.com&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASogou" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.theregister.co.uk/2014/09/16/sniffing_the_digital_exhaust_1_in_400_net_users_have_stalkers/">"Chinese 'Sogou Explorer' browser sends URLs to parts unknown"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">18 June</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Chinese+%27Sogou+Explorer%27+browser+sends+URLs+to+parts+unknown&amp;rft_id=https%3A%2F%2Fwww.theregister.co.uk%2F2014%2F09%2F16%2Fsniffing_the_digital_exhaust_1_in_400_net_users_have_stalkers%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASogou" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="https://www.ft.com/content/9abb3c7a-c53f-11e7-a1d2-6786f39ef675">"IPO of Tencent-backed Sogou part of China tech's offshore M&amp;A push"</a>, <i>Financial Times</i>, 9 November 2017</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Financial+Times&amp;rft.atitle=IPO+of+Tencent-backed+Sogou+part+of+China+tech%E2%80%99s+offshore+M%26A+push&amp;rft.date=2017-11-09&amp;rft_id=https%3A%2F%2Fwww.ft.com%2Fcontent%2F9abb3c7a-c53f-11e7-a1d2-6786f39ef675&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASogou" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://www.chinadaily.com.cn/bizchina/tech/2017-11/10/content_34353852.htm">"With eye on AI, Sougou debuts on New York Stock Exchange"</a>, <i>China Daily</i>, 10 November 2017</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=China+Daily&amp;rft.atitle=With+eye+on+AI%2C+Sougou+debuts+on+New+York+Stock+Exchange&amp;rft.date=2017-11-10&amp;rft_id=http%3A%2F%2Fwww.chinadaily.com.cn%2Fbizchina%2Ftech%2F2017-11%2F10%2Fcontent_34353852.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASogou" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://news.xinhuanet.com/english/2017-11/10/c_136741040.htm">"Tencent- and Sohu-backed Chinese search-engine Sogou debuts on NYSE"</a>, <i>Xinhuanet News</i>, 10 November 2017</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Xinhuanet+News&amp;rft.atitle=Tencent-+and+Sohu-backed+Chinese+search-engine+Sogou+debuts+on+NYSE&amp;rft.date=2017-11-10&amp;rft_id=http%3A%2F%2Fnews.xinhuanet.com%2Fenglish%2F2017-11%2F10%2Fc_136741040.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASogou" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sogou&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.sogou.com">Sogou</a></span></span> – Official website <span class="languageicon">(in Chinese)</span></li></ul>
+<p class="mw-empty-elt">
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw2175
+Cached time: 20180929135449
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.376 seconds
+Real time usage: 0.512 seconds
+Preprocessor visited node count: 2591/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 24199/2097152 bytes
+Template argument size: 2448/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 15241/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.187/10.000 seconds
+Lua memory usage: 3.46 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  464.404      1 -total
+ 40.54%  188.255      2 Template:Infobox
+ 33.30%  154.639      1 Template:Infobox_dot-com_company
+ 24.90%  115.635      1 Template:Reflist
+ 18.48%   85.806      4 Template:Citation
+ 17.82%   82.766      1 Template:Infobox_website
+  7.07%   32.850      2 Template:Start_date_and_age
+  6.50%   30.168      1 Template:Zh_icon
+  6.20%   28.774      1 Template:Official_website
+  6.05%   28.115      1 Template:Link_language
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5367330-0!canonical and timestamp 20180929135448 and revision id 859751348
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sogou&amp;oldid=859751348">https://en.wikipedia.org/w/index.php?title=Sogou&amp;oldid=859751348</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Tencent" title="Category:Tencent">Tencent</a></li><li><a href="/wiki/Category:Sohu" title="Category:Sohu">Sohu</a></li><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li><li><a href="/wiki/Category:Chinese_websites" title="Category:Chinese websites">Chinese websites</a></li><li><a href="/wiki/Category:Online_companies" title="Category:Online companies">Online companies</a></li><li><a href="/wiki/Category:Internet_properties_established_in_2004" title="Category:Internet properties established in 2004">Internet properties established in 2004</a></li><li><a href="/wiki/Category:Companies_listed_on_the_New_York_Stock_Exchange" title="Category:Companies listed on the New York Stock Exchange">Companies listed on the New York Stock Exchange</a></li><li><a href="/wiki/Category:Internet_companies_of_China" title="Category:Internet companies of China">Internet companies of China</a></li><li><a href="/wiki/Category:Chinese_brands" title="Category:Chinese brands">Chinese brands</a></li><li><a href="/wiki/Category:Companies_established_in_2010" title="Category:Companies established in 2010">Companies established in 2010</a></li><li><a href="/wiki/Category:2010_establishments_in_China" title="Category:2010 establishments in China">2010 establishments in China</a></li><li><a href="/wiki/Category:Companies_based_in_Beijing" title="Category:Companies based in Beijing">Companies based in Beijing</a></li><li><a href="/wiki/Category:2017_initial_public_offerings" title="Category:2017 initial public offerings">2017 initial public offerings</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_containing_Chinese-language_text" title="Category:Articles containing Chinese-language text">Articles containing Chinese-language text</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_July_2016" title="Category:Articles containing potentially dated statements from July 2016">Articles containing potentially dated statements from July 2016</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Articles_with_Chinese-language_external_links" title="Category:Articles with Chinese-language external links">Articles with Chinese-language external links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_November_2010" title="Category:Use dmy dates from November 2010">Use dmy dates from November 2010</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sogou" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sogou" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Sogou" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Sogou" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Sogou">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Sogou&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Sogou&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Sogou" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Sogou" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sogou&amp;oldid=859751348" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sogou&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7554565" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sogou&amp;id=859751348" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sogou">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Sogou&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Sogou&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Sogou" title="Sogou – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E6%90%9C%E7%8B%97" title="搜狗 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%90%9C%E7%8B%97" title="搜狗 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7554565#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 16 September 2018, at 02:31<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Sogou&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.376","walltime":"0.512","ppvisitednodes":{"value":2591,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":24199,"limit":2097152},"templateargumentsize":{"value":2448,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15241,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  464.404      1 -total"," 40.54%  188.255      2 Template:Infobox"," 33.30%  154.639      1 Template:Infobox_dot-com_company"," 24.90%  115.635      1 Template:Reflist"," 18.48%   85.806      4 Template:Citation"," 17.82%   82.766      1 Template:Infobox_website","  7.07%   32.850      2 Template:Start_date_and_age","  6.50%   30.168      1 Template:Zh_icon","  6.20%   28.774      1 Template:Official_website","  6.05%   28.115      1 Template:Link_language"]},"scribunto":{"limitreport-timeusage":{"value":"0.187","limit":"10.000"},"limitreport-memusage":{"value":3629070,"limit":52428800}},"cachereport":{"origin":"mw2175","timestamp":"20180929135449","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":81,"wgHostname":"mw2232"});});</script>
+	</body>
+</html>

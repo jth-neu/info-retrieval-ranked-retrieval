@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Health in the United Kingdom - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Health_in_the_United_Kingdom","wgTitle":"Health in the United Kingdom","wgCurRevisionId":861172000,"wgRevisionId":861172000,"wgArticleId":15985800,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia introduction cleanup from March 2018","All pages needing cleanup","Articles covered by WikiProject Wikify from March 2018","All articles covered by WikiProject Wikify","Health in the United Kingdom"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Health_in_the_United_Kingdom","wgRelevantArticleId":15985800,"wgRequestId":"W6@NfQrAADMAABuOwcUAAACE","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q39086047","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Health_in_the_United_Kingdom"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Health_in_the_United_Kingdom&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Health_in_the_United_Kingdom&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Health_in_the_United_Kingdom"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Health_in_the_United_Kingdom rootpage-Health_in_the_United_Kingdom skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Health in the United Kingdom</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-lead_too_short" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Wiki_letter_w.svg" class="image"><img alt="Wiki letter w.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/60px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/80px-Wiki_letter_w.svg.png 2x" data-file-width="44" data-file-height="44" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article's <b><a href="/wiki/Wikipedia:Manual_of_Style/Lead_section" title="Wikipedia:Manual of Style/Lead section">lead section</a> does not adequately <a href="/wiki/Wikipedia:Summary_style" title="Wikipedia:Summary style">summarize</a> key points of its contents</b>.<span class="hide-when-compact"> Please consider expanding the lead to <a href="/wiki/Wikipedia:Manual_of_Style/Lead_section#Provide_an_accessible_overview" title="Wikipedia:Manual of Style/Lead section">provide an accessible overview</a> of all important aspects of the article. Please discuss this issue on the article's <a href="/wiki/Talk:Health_in_the_United_Kingdom" title="Talk:Health in the United Kingdom">talk page</a>.</span>  <small><i>(March 2018)</i></small></div></td></tr></tbody></table>
+<p><b>Health in the United Kingdom</b> refers to the overall health of the population of the United Kingdom. <a href="/wiki/Smoking_in_the_United_Kingdom" title="Smoking in the United Kingdom">Smoking</a>, alcohol consumption and <a href="/wiki/Obesity_in_the_United_Kingdom" title="Obesity in the United Kingdom">obesity</a> in the United Kingdom are all above the <a href="/wiki/OECD" title="OECD">OECD</a> average.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Health_status"><span class="tocnumber">1</span> <span class="toctext">Health status</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Life_expectancy"><span class="tocnumber">1.1</span> <span class="toctext">Life expectancy</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Infant_mortality"><span class="tocnumber">1.2</span> <span class="toctext">Infant mortality</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Obesity"><span class="tocnumber">1.3</span> <span class="toctext">Obesity</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Smoking_rates"><span class="tocnumber">1.4</span> <span class="toctext">Smoking rates</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Cancer"><span class="tocnumber">1.5</span> <span class="toctext">Cancer</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Mental_health"><span class="tocnumber">1.6</span> <span class="toctext">Mental health</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Suicide"><span class="tocnumber">1.6.1</span> <span class="toctext">Suicide</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Drug-related_deaths"><span class="tocnumber">1.6.2</span> <span class="toctext">Drug-related deaths</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#HIV/AIDS"><span class="tocnumber">1.7</span> <span class="toctext">HIV/AIDS</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Disability"><span class="tocnumber">1.8</span> <span class="toctext">Disability</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Vaccination"><span class="tocnumber">2</span> <span class="toctext">Vaccination</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Health_dynamics"><span class="tocnumber">3</span> <span class="toctext">Health dynamics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Socioeconomics"><span class="tocnumber">3.1</span> <span class="toctext">Socioeconomics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Health_status">Health status</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Health_in_the_United_Kingdom&amp;action=edit&amp;section=1" title="Edit section: Health status">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Life_expectancy">Life expectancy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Health_in_the_United_Kingdom&amp;action=edit&amp;section=2" title="Edit section: Life expectancy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Life_expectancy_at_birth,_England_and_Wales,_1841_to_2011.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Life_expectancy_at_birth%2C_England_and_Wales%2C_1841_to_2011.jpg/300px-Life_expectancy_at_birth%2C_England_and_Wales%2C_1841_to_2011.jpg" width="300" height="222" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Life_expectancy_at_birth%2C_England_and_Wales%2C_1841_to_2011.jpg/450px-Life_expectancy_at_birth%2C_England_and_Wales%2C_1841_to_2011.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Life_expectancy_at_birth%2C_England_and_Wales%2C_1841_to_2011.jpg/600px-Life_expectancy_at_birth%2C_England_and_Wales%2C_1841_to_2011.jpg 2x" data-file-width="810" data-file-height="599" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Life_expectancy_at_birth,_England_and_Wales,_1841_to_2011.jpg" class="internal" title="Enlarge"></a></div>Life expectancy at birth, England and Wales, 1841 to 2011.</div></div></div>
+<p>In 2013 Life expectancy at birth for women was 83 years and for men 79 years.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>  Life expectancy in the UK is rising more slowly than in other comparable nations.  <a href="/wiki/United_Kingdom_government_austerity_programme#Health_and_social_care" title="United Kingdom government austerity programme">Austerity</a> may be a cause.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Underfunding of the <a href="/wiki/National_Health_Service" title="National Health Service">NHS</a> and <a href="/wiki/Social_care_in_England" title="Social care in England">Social care</a> are blamed.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>  In 2018 life expectancy in the UK stopped increasing for the first time since 1982 when recording started.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Infant_mortality">Infant mortality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Health_in_the_United_Kingdom&amp;action=edit&amp;section=3" title="Edit section: Infant mortality">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:First-World-Infant-Mortality-Trends.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/First-World-Infant-Mortality-Trends.jpg/300px-First-World-Infant-Mortality-Trends.jpg" width="300" height="156" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/First-World-Infant-Mortality-Trends.jpg/450px-First-World-Infant-Mortality-Trends.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/First-World-Infant-Mortality-Trends.jpg/600px-First-World-Infant-Mortality-Trends.jpg 2x" data-file-width="825" data-file-height="429" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:First-World-Infant-Mortality-Trends.jpg" class="internal" title="Enlarge"></a></div>The reduction in <a href="/wiki/Infant_mortality" title="Infant mortality">infant mortality</a> between 1960 and 2008 for the United Kingdom in comparison with France, Ireland, Sweden, Switzerland, and the United States. The overall trend has meant a large improvement in health inside the United Kingdom.</div></div></div>
+<p>Infant mortality rates have been decreasing since the early 1900s, partially due to general improvements in healthcare and more recently because of improvements in midwifery and neonatal intensive care.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Obesity">Obesity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Health_in_the_United_Kingdom&amp;action=edit&amp;section=4" title="Edit section: Obesity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Obesity_in_the_United_Kingdom" title="Obesity in the United Kingdom">Obesity in the United Kingdom</a></div>
+<p>The rising rates of <a href="/wiki/Childhood_obesity" title="Childhood obesity">childhood obesity</a> were described as a "national emergency" by Health Secretary <a href="/wiki/Jeremy_Hunt" title="Jeremy Hunt">Jeremy Hunt</a> in February 2016.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>   28.1% of adults in the United Kingdom were recognised as clinically obese with a <a href="/wiki/Body_mass_index" title="Body mass index">Body Mass Index (BMI)</a> greater than 30 in 2014.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Smoking_rates">Smoking rates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Health_in_the_United_Kingdom&amp;action=edit&amp;section=5" title="Edit section: Smoking rates">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Smoking_in_the_United_Kingdom" title="Smoking in the United Kingdom">Smoking in the United Kingdom</a></div>
+<p>In 1974, 45% of the British population smoked. The smoking rate was down to 30% by the early-1990s, 21% by 2010, and 19.3% by 2013, the lowest level for eighty years.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> In 2015, smoking rates in England had fallen to 16.9%.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Cancer">Cancer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Health_in_the_United_Kingdom&amp;action=edit&amp;section=6" title="Edit section: Cancer">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Cancer_in_the_United_Kingdom" title="Cancer in the United Kingdom">Cancer in the United Kingdom</a></div>
+<p>There were 361,216 cancer diagnoses in 2014 in the United Kingdom.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> Three quarters of cancers were related to smoking and drinking.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Mental_health">Mental health</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Health_in_the_United_Kingdom&amp;action=edit&amp;section=7" title="Edit section: Mental health">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Mental_health_in_the_United_Kingdom" title="Mental health in the United Kingdom">Mental health in the United Kingdom</a></div>
+<p>In 2014, the Adult Psychiatric Morbidity Survey reported that 17% of those surveyed in England met the criteria for a common mental disorder. About 37% of those were accessing mental health treatment. Those more severely affected were more likely to be accessing services.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> In 2017 a survey found that 65% of Britons have experienced a mental health problem, with 26% having had a panic attack and 42% said they had suffered from depression.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p><p>Benefit cuts and sanctions "are having a toxic impact on mental health" according to the <a href="/wiki/UK_Council_for_Psychotherapy" class="mw-redirect" title="UK Council for Psychotherapy">UK Council for Psychotherapy</a>. Rates of severe anxiety and depression among unemployed people increased from 10.1% in June 2013 to 15.2% in March 2017.  In the general population the increase was from 3.4% to 4.1%.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Suicide">Suicide</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Health_in_the_United_Kingdom&amp;action=edit&amp;section=8" title="Edit section: Suicide">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Suicide_in_the_United_Kingdom" title="Suicide in the United Kingdom">Suicide in the United Kingdom</a></div>
+<p>6,045; 5,608 and 5,675 people aged 15 and over died by suicide in from 2009-2011 respectively.<sup id="cite_ref-UK_suicide_rate_rises_&#39;significantly&#39;_in_2011_16-0" class="reference"><a href="#cite_note-UK_suicide_rate_rises_&#39;significantly&#39;_in_2011-16">&#91;16&#93;</a></sup><sup id="cite_ref-ONS_2006-2010_17-0" class="reference"><a href="#cite_note-ONS_2006-2010-17">&#91;17&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Drug-related_deaths">Drug-related deaths</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Health_in_the_United_Kingdom&amp;action=edit&amp;section=9" title="Edit section: Drug-related deaths">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Drug-related_deaths_in_the_United_Kingdom" title="Drug-related deaths in the United Kingdom">Drug-related deaths in the United Kingdom</a></div>
+<h3><span id="HIV.2FAIDS"></span><span class="mw-headline" id="HIV/AIDS">HIV/AIDS</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Health_in_the_United_Kingdom&amp;action=edit&amp;section=10" title="Edit section: HIV/AIDS">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/HIV/AIDS_in_the_United_Kingdom" title="HIV/AIDS in the United Kingdom">HIV/AIDS in the United Kingdom</a></div>
+<p>In 2015, the prevalence of <a href="/wiki/HIV/AIDS" title="HIV/AIDS">HIV</a> in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> was estimated at 101,200 (0.16% of the population), 13% of whom are unaware of their infection.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup><sup id="cite_ref-:0_19-0" class="reference"><a href="#cite_note-:0-19">&#91;19&#93;</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> Prevalence is highest amongst gay/bisexual men in <a href="/wiki/London" title="London">London</a> with an estimated 1 in 7 living with HIV.<sup id="cite_ref-:0_19-1" class="reference"><a href="#cite_note-:0-19">&#91;19&#93;</a></sup>
+</p><p>An estimated 101,200 people are living with HIV in the UK. Of those, 69% are men and 31% were women.<sup id="cite_ref-:0_19-2" class="reference"><a href="#cite_note-:0-19">&#91;19&#93;</a></sup> Just under half of those living with HIV are gay or bisexual men.<sup id="cite_ref-:0_19-3" class="reference"><a href="#cite_note-:0-19">&#91;19&#93;</a></sup> 1 in 7 gay or bisexual men in London are living with HIV, compared to 1 in 25 in the rest of the UK and less than 1 in 500 for the general population.<sup id="cite_ref-:0_19-4" class="reference"><a href="#cite_note-:0-19">&#91;19&#93;</a></sup>
+</p><p>6,095 people were newly diagnosed during 2015, a trend which has remained relatively constant since 2010.<sup id="cite_ref-:1_22-0" class="reference"><a href="#cite_note-:1-22">&#91;22&#93;</a></sup> An estimated 39% of diagnoses were late (likely to have been living with the virus for over three years).<sup id="cite_ref-:0_19-5" class="reference"><a href="#cite_note-:0-19">&#91;19&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Disability">Disability</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Health_in_the_United_Kingdom&amp;action=edit&amp;section=11" title="Edit section: Disability">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Disability_in_the_United_Kingdom" title="Disability in the United Kingdom">Disability in the United Kingdom</a></div>
+<p>In 2014 more than 11 million British people (excluding Northern Ireland) were reported to have a long term impairment or disability. The incidence rises with age. About 6% of children, 16% of working age adults and 45% of pensioners are reported as having a disability.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Vaccination">Vaccination</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Health_in_the_United_Kingdom&amp;action=edit&amp;section=12" title="Edit section: Vaccination">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the United Kingdom, the purchase and distribution of vaccines is managed centrally, and recommended vaccines are provided for free by the NHS.<sup id="cite_ref-Freed2005_24-0" class="reference"><a href="#cite_note-Freed2005-24">&#91;24&#93;</a></sup> In the UK, no laws require vaccination of schoolchildren.<sup id="cite_ref-Freed2005_24-1" class="reference"><a href="#cite_note-Freed2005-24">&#91;24&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Health_dynamics">Health dynamics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Health_in_the_United_Kingdom&amp;action=edit&amp;section=13" title="Edit section: Health dynamics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Socioeconomics">Socioeconomics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Health_in_the_United_Kingdom&amp;action=edit&amp;section=14" title="Edit section: Socioeconomics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Black_Report" title="Black Report">Black Report</a>, published reluctantly by the Thatcher government in 1980, highlighted the relationship between <a href="/wiki/Socioeconomic_status" title="Socioeconomic status">socioeconomic status</a> and health outcomes. It demonstrated greater inequality of mortality between occupational classes I and V both in 1970-72 and 1959-63 than in 1949-53.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Health_in_the_United_Kingdom&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Healthcare_in_the_United_Kingdom" class="mw-redirect" title="Healthcare in the United Kingdom">Healthcare in the United Kingdom</a></li>
+<li><a href="/wiki/Category:Health_disasters_in_the_United_Kingdom" title="Category:Health disasters in the United Kingdom">Category:Health disasters in the United Kingdom</a></li>
+<li><a href="/wiki/Category:Diseases_and_disorders_in_the_United_Kingdom" title="Category:Diseases and disorders in the United Kingdom">Category:Diseases and disorders in the United Kingdom</a></li>
+<li><a href="/wiki/Category:Drugs_in_the_United_Kingdom" title="Category:Drugs in the United Kingdom">Category:Drugs in the United Kingdom</a></li>
+<li><a href="/wiki/Category:Public_health_in_the_United_Kingdom" title="Category:Public health in the United Kingdom">Category:Public health in the United Kingdom</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Health_in_the_United_Kingdom&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.oecd.org/unitedkingdom/Health-at-a-Glance-2015-Key-Findings-UK.pdf">"Health at a Glance 2015 How does the United Kingdom compare?"</a> <span class="cs1-format">(PDF)</span>. OECD. 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">24 August</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Health+at+a+Glance+2015+How+does+the+United+Kingdom+compare%3F&amp;rft.date=2015&amp;rft_id=https%3A%2F%2Fwww.oecd.org%2Funitedkingdom%2FHealth-at-a-Glance-2015-Key-Findings-UK.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHealth+in+the+United+Kingdom" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.euro.who.int/en/countries/united-kingdom-of-great-britain-and-northern-ireland/data-and-statistics">"United Kingdom of Great Britain and Northern Ireland"</a>. <i>World Health Organisation</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 August</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=World+Health+Organisation&amp;rft.atitle=United+Kingdom+of+Great+Britain+and+Northern+Ireland&amp;rft_id=http%3A%2F%2Fwww.euro.who.int%2Fen%2Fcountries%2Funited-kingdom-of-great-britain-and-northern-ireland%2Fdata-and-statistics&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHealth+in+the+United+Kingdom" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/health-45096074">UK among worst for life expectancy rises</a> <i><a href="/wiki/BBC" title="BBC">BBC</a></i></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.theguardian.com/society/2018/aug/07/increase-in-uk-life-spans-stalling-at-one-of-fastest-rates-among-20-leading-economies">UK life expectancy growth falls faster than other leading nations</a> <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/health-45638646">Life expectancy progress in UK 'stops for first time'</a> <i><a href="/wiki/BBC" title="BBC">BBC</a></i></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/childhoodinfantandperinatalmortalityinenglandandwales/2015">"Childhood mortality in England and Wales: 2015"</a>. Office for National Statistics. 20 April 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">24 August</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Childhood+mortality+in+England+and+Wales%3A+2015&amp;rft.date=2017-04-20&amp;rft_id=https%3A%2F%2Fwww.ons.gov.uk%2Fpeoplepopulationandcommunity%2Fbirthsdeathsandmarriages%2Fdeaths%2Fbulletins%2Fchildhoodinfantandperinatalmortalityinenglandandwales%2F2015&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHealth+in+the+United+Kingdom" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news">Sparrow, Andrew (7 February 2016). <a rel="nofollow" class="external text" href="https://www.theguardian.com/society/2016/feb/07/childhood-obesity-national-emergency-jeremy-hunt-health-sugar-tax-jamie-oliver">"Childhood obesity is a national emergency, says Jeremy Hunt"</a>. The Guardian<span class="reference-accessdate">. Retrieved <span class="nowrap">20 February</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Childhood+obesity+is+a+national+emergency%2C+says+Jeremy+Hunt&amp;rft.date=2016-02-07&amp;rft.aulast=Sparrow&amp;rft.aufirst=Andrew&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fsociety%2F2016%2Ffeb%2F07%2Fchildhood-obesity-national-emergency-jeremy-hunt-health-sugar-tax-jamie-oliver&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHealth+in+the+United+Kingdom" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://gamapserver.who.int/gho/interactive_charts/ncd/risk_factors/obesity/atlas.html">"Prevalence of obesity, ages 18+, 2010-2014"</a>. World Health Organisation<span class="reference-accessdate">. Retrieved <span class="nowrap">25 February</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Prevalence+of+obesity%2C+ages+18%2B%2C+2010-2014&amp;rft.pub=World+Health+Organisation&amp;rft_id=http%3A%2F%2Fgamapserver.who.int%2Fgho%2Finteractive_charts%2Fncd%2Frisk_factors%2Fobesity%2Fatlas.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHealth+in+the+United+Kingdom" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/uk/8490490.stm">"Ministers aim to halve number of people smoking by 2020"</a>. <a href="/wiki/BBC_News" title="BBC News">BBC News</a>. 1 February 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">4 April</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Ministers+aim+to+halve+number+of+people+smoking+by+2020&amp;rft.date=2010-02-01&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fuk%2F8490490.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHealth+in+the+United+Kingdom" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/health-37406105">"Smoking rates in England fall to lowest on record"</a>. 20 September 2016  &#8211; via www.bbc.co.uk.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Smoking+rates+in+England+fall+to+lowest+on+record&amp;rft.date=2016-09-20&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fhealth-37406105&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHealth+in+the+United+Kingdom" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.ibtimes.com/cancer-more-common-marriage-or-having-first-baby-uk-2563566">"Cancer Is More Common Than Marriage Or Having A First Baby In The UK"</a>. International Business Times. 10 July 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">10 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Cancer+Is+More+Common+Than+Marriage+Or+Having+A+First+Baby+In+The+UK&amp;rft.date=2017-07-10&amp;rft_id=http%3A%2F%2Fwww.ibtimes.com%2Fcancer-more-common-marriage-or-having-first-baby-uk-2563566&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHealth+in+the+United+Kingdom" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.telegraph.co.uk/news/uknews/3320727/Revealed-for-the-first-time-the-cancer-map-of-Britain.html">"Revealed for the first time: the cancer map of Britain"</a>. Daily Telegraph. 11 July 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">10 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Revealed+for+the+first+time%3A+the+cancer+map+of+Britain&amp;rft.date=2005-07-11&amp;rft_id=https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2Fuknews%2F3320727%2FRevealed-for-the-first-time-the-cancer-map-of-Britain.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHealth+in+the+United+Kingdom" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://content.digital.nhs.uk/catalogue/PUB21748">"Adult Psychiatric Morbidity Survey: Survey of Mental Health and Wellbeing, England, 2014"</a>. NHS Digital. 29 September 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">17 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Adult+Psychiatric+Morbidity+Survey%3A+Survey+of+Mental+Health+and+Wellbeing%2C+England%2C+2014&amp;rft.date=2016-09-29&amp;rft_id=http%3A%2F%2Fcontent.digital.nhs.uk%2Fcatalogue%2FPUB21748&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHealth+in+the+United+Kingdom" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.independent.co.uk/news/uk/home-news/mental-health-problems-anxiety-depression-men-women-adults-two-thirds-experience-foundation-a7720266.html">Two thirds of adults experience mental health problems such as anxiety or depression, survey finds</a>. The Independent. Published 8 May 2017. Retrieved 26 January 2018.</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.independent.co.uk/news/health/cuts-mental-health-unemployed-rise-government-welfare-reforms-blamed-a7841941.html">"Government welfare cuts blamed for 50% surge in mental health issues among unemployed"</a>. Independent. 17 July 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">17 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Government+welfare+cuts+blamed+for+50%25+surge+in+mental+health+issues+among+unemployed&amp;rft.date=2017-07-17&amp;rft_id=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fhealth%2Fcuts-mental-health-unemployed-rise-government-welfare-reforms-blamed-a7841941.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHealth+in+the+United+Kingdom" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-UK_suicide_rate_rises_&#39;significantly&#39;_in_2011-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-UK_suicide_rate_rises_&#39;significantly&#39;_in_2011_16-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/uk-21141815">"UK suicide rate rises 'significantly' in 2011"</a>. <i>BBC News</i>. 22 January 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft.atitle=UK+suicide+rate+rises+%27significantly%27+in+2011&amp;rft.date=2013-01-22&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fuk-21141815&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHealth+in+the+United+Kingdom" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-ONS_2006-2010-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-ONS_2006-2010_17-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ons.gov.uk/ons/dcp171778_254113.pdf">"Suicide rates in the United Kingdom, 2006 to 2010"</a> <span class="cs1-format">(PDF)</span>. Office for National Statistics<span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Suicide+rates+in+the+United+Kingdom%2C+2006+to+2010&amp;rft.pub=Office+for+National+Statistics&amp;rft_id=http%3A%2F%2Fwww.ons.gov.uk%2Fons%2Fdcp171778_254113.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHealth+in+the+United+Kingdom" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.avert.org/professionals/hiv-around-world/western-central-europe-north-america/uk">"HIV and AIDS in the United Kingdom (UK)"</a>. <i>AVERT</i>. 2015-07-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=AVERT&amp;rft.atitle=HIV+and+AIDS+in+the+United+Kingdom+%28UK%29&amp;rft.date=2015-07-21&amp;rft_id=https%3A%2F%2Fwww.avert.org%2Fprofessionals%2Fhiv-around-world%2Fwestern-central-europe-north-america%2Fuk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHealth+in+the+United+Kingdom" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-:0-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_19-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_19-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:0_19-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:0_19-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-:0_19-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/602942/HIV_in_the_UK_report.pdf">"HIV in the UK"</a> <span class="cs1-format">(PDF)</span>. <i>UK Government</i>. Public Health England. 2016-12-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=UK+Government&amp;rft.atitle=HIV+in+the+UK&amp;rft.date=2016-12-01&amp;rft_id=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fuploads%2Fsystem%2Fuploads%2Fattachment_data%2Ffile%2F602942%2FHIV_in_the_UK_report.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHealth+in+the+United+Kingdom" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web">Trust, Terrence Higgins. <a rel="nofollow" class="external text" href="http://www.tht.org.uk/our-charity/Facts-and-statistics-about-HIV/HIV-in-the-UK">"HIV in the UK | Terrence Higgins Trust"</a>. <i>www.tht.org.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.tht.org.uk&amp;rft.atitle=HIV+in+the+UK+%7C+Terrence+Higgins+Trust&amp;rft.aulast=Trust&amp;rft.aufirst=Terrence+Higgins&amp;rft_id=http%3A%2F%2Fwww.tht.org.uk%2Four-charity%2FFacts-and-statistics-about-HIV%2FHIV-in-the-UK&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHealth+in+the+United+Kingdom" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nat.org.uk/we-inform/HIV-statistics/UK-statistics">"UK HIV Statistics | National AIDS Trust - NAT"</a>. <i>www.nat.org.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.nat.org.uk&amp;rft.atitle=UK+HIV+Statistics+%7C+National+AIDS+Trust+-+NAT&amp;rft_id=http%3A%2F%2Fwww.nat.org.uk%2Fwe-inform%2FHIV-statistics%2FUK-statistics&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHealth+in+the+United+Kingdom" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-:1-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-:1_22-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/602945/HIV_diagnoses_late_diagnoses_and_numbers_accessing_treatment_and_care.pdf">"HIV diagnoses, late diagnoses and numbers accessing treatment and care"</a> <span class="cs1-format">(PDF)</span>. <i>UK Government</i>. Public Health England. October 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=UK+Government&amp;rft.atitle=HIV+diagnoses%2C+late+diagnoses+and+numbers+accessing+treatment+and+care&amp;rft.date=2016-10&amp;rft_id=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fuploads%2Fsystem%2Fuploads%2Fattachment_data%2Ffile%2F602945%2FHIV_diagnoses_late_diagnoses_and_numbers_accessing_treatment_and_care.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHealth+in+the+United+Kingdom" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.gov.uk/government/publications/disability-facts-and-figures/disability-facts-and-figures">"Disability facts and figures"</a>. Department for Work and Pensions - Office for Disability Issues. 2014-01-16<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Disability+facts+and+figures&amp;rft.pub=Department+for+Work+and+Pensions+-+Office+for+Disability+Issues&amp;rft.date=2014-01-16&amp;rft_id=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fpublications%2Fdisability-facts-and-figures%2Fdisability-facts-and-figures&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHealth+in+the+United+Kingdom" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Freed2005-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-Freed2005_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Freed2005_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Freed GL (2005). "Vaccine policies across the pond: looking at the U.K. and U.S. systems". <i>Health Affairs</i>. <b>24</b> (3): 755–7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1377%2Fhlthaff.24.3.755">10.1377/hlthaff.24.3.755</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15886170">15886170</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Health+Affairs&amp;rft.atitle=Vaccine+policies+across+the+pond%3A+looking+at+the+U.K.+and+U.S.+systems&amp;rft.volume=24&amp;rft.issue=3&amp;rft.pages=755-7&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1377%2Fhlthaff.24.3.755&amp;rft_id=info%3Apmid%2F15886170&amp;rft.aulast=Freed&amp;rft.aufirst=GL&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHealth+in+the+United+Kingdom" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://www.sochealth.co.uk/national-health-service/public-health-and-wellbeing/poverty-and-inequality/the-black-report-1980/the-black-report-3-trends-in-inequality-of-health/"><i>Black Report</i></a>. London: HMSO. 1980<span class="reference-accessdate">. Retrieved <span class="nowrap">24 August</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Black+Report&amp;rft.place=London&amp;rft.pub=HMSO&amp;rft.date=1980&amp;rft_id=https%3A%2F%2Fwww.sochealth.co.uk%2Fnational-health-service%2Fpublic-health-and-wellbeing%2Fpoverty-and-inequality%2Fthe-black-report-1980%2Fthe-black-report-3-trends-in-inequality-of-health%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHealth+in+the+United+Kingdom" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="United_Kingdom_articles" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:United_Kingdom_topics" title="Template:United Kingdom topics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:United_Kingdom_topics" title="Template talk:United Kingdom topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:United_Kingdom_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="United_Kingdom_articles" style="font-size:114%;margin:0 4em"><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>&#160;articles</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_the_United_Kingdom" title="History of the United Kingdom">History</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:6.5em;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Timeline_of_British_history" title="Timeline of British history">Chronology</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_the_formation_of_the_United_Kingdom" title="History of the formation of the United Kingdom">Formation</a></li>
+<li><a href="/wiki/Georgian_era" title="Georgian era">Georgian era</a></li>
+<li><a href="/wiki/Victorian_era" title="Victorian era">Victorian era</a></li>
+<li><a href="/wiki/Edwardian_era" title="Edwardian era">Edwardian era</a></li>
+<li><a href="/wiki/History_of_the_United_Kingdom_during_the_First_World_War" title="History of the United Kingdom during the First World War">First World War</a></li>
+<li><a href="/wiki/History_of_the_United_Kingdom#Interwar_era" title="History of the United Kingdom">Interwar</a></li>
+<li><a href="/wiki/History_of_the_United_Kingdom#World_War_II" title="History of the United Kingdom">Second World War</a></li>
+<li><a href="/wiki/Political_history_of_the_United_Kingdom_(1945%E2%80%93present)" title="Political history of the United Kingdom (1945–present)">UK since 1945</a> (<a href="/wiki/Social_history_of_the_United_Kingdom_(1945%E2%80%93present)" title="Social history of the United Kingdom (1945–present)">social history</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:6.5em;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">By topic</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Economic_history_of_the_United_Kingdom" title="Economic history of the United Kingdom">Economic</a></li>
+<li><a href="/wiki/British_Empire" title="British Empire">Empire</a></li>
+<li><a href="/wiki/Maritime_history_of_the_United_Kingdom" title="Maritime history of the United Kingdom">Maritime</a></li>
+<li><a href="/wiki/Military_history_of_the_United_Kingdom" title="Military history of the United Kingdom">Military</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_the_United_Kingdom" title="Geography of the United Kingdom">Geography</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:6.5em;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Administrative_geography_of_the_United_Kingdom" title="Administrative geography of the United Kingdom">Administrative</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Countries_of_the_United_Kingdom" title="Countries of the United Kingdom">Countries of the United Kingdom</a></li>
+<li><a href="/wiki/Crown_dependencies" title="Crown dependencies">Crown dependencies</a></li>
+<li><a href="/wiki/British_Overseas_Territories" title="British Overseas Territories">Overseas territories</a></li>
+<li><a href="/wiki/City_status_in_the_United_Kingdom" title="City status in the United Kingdom">City status</a></li>
+<li><a href="/wiki/List_of_towns_in_the_United_Kingdom" title="List of towns in the United Kingdom">Towns</a></li>
+<li><a href="/wiki/List_of_countries_that_have_gained_independence_from_the_United_Kingdom" title="List of countries that have gained independence from the United Kingdom">Former colonies</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:6.5em;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Geography_of_the_United_Kingdom" title="Geography of the United Kingdom">Physical</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/British_Isles" title="British Isles">British Isles</a>
+<ul><li><a href="/wiki/Terminology_of_the_British_Isles" title="Terminology of the British Isles">terminology</a></li>
+<li><a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a></li></ul></li>
+<li><a href="/wiki/Coastline_of_the_United_Kingdom" title="Coastline of the United Kingdom">Coastline</a></li>
+<li><a href="/wiki/Geology_of_Great_Britain" title="Geology of Great Britain">Geology</a></li>
+<li><a href="/wiki/List_of_lakes_and_lochs_of_the_United_Kingdom" title="List of lakes and lochs of the United Kingdom">Lakes and lochs</a></li>
+<li><a href="/wiki/List_of_mountains_and_hills_of_the_United_Kingdom" title="List of mountains and hills of the United Kingdom">Mountains</a></li>
+<li><a href="/wiki/List_of_rivers_of_the_United_Kingdom" title="List of rivers of the United Kingdom">Rivers</a></li>
+<li><a href="/wiki/List_of_volcanoes_in_the_United_Kingdom" title="List of volcanoes in the United Kingdom">Volcanoes</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:6.5em;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/List_of_renewable_resources_produced_and_traded_by_the_United_Kingdom" title="List of renewable resources produced and traded by the United Kingdom">Resources</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agriculture_in_the_United_Kingdom" title="Agriculture in the United Kingdom">Agriculture</a></li>
+<li><a href="/wiki/Energy_in_the_United_Kingdom" title="Energy in the United Kingdom">Energy</a>/<a href="/wiki/Renewable_energy_in_the_United_Kingdom" title="Renewable energy in the United Kingdom">Renewable energy</a>
+<ul><li><a href="/wiki/Biodiesel_in_the_United_Kingdom" title="Biodiesel in the United Kingdom">Biodiesel</a></li>
+<li><a href="/wiki/Coal_mining_in_the_United_Kingdom" title="Coal mining in the United Kingdom">Coal</a></li>
+<li><a href="/wiki/Geothermal_power_in_the_United_Kingdom" title="Geothermal power in the United Kingdom">Geothermal</a></li>
+<li><a href="/wiki/Hydraulic_fracturing_in_the_United_Kingdom" title="Hydraulic fracturing in the United Kingdom">Hydraulic frac.</a></li>
+<li><a href="/wiki/Hydroelectricity_in_the_United_Kingdom" title="Hydroelectricity in the United Kingdom">Hydroelectricity</a></li>
+<li><a href="/wiki/Renewable_energy_in_the_United_Kingdom#Ocean_power" title="Renewable energy in the United Kingdom">Marine</a></li>
+<li><a href="/wiki/North_Sea_oil" title="North Sea oil">North Sea oil</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_Kingdom" title="Solar power in the United Kingdom">Solar</a></li>
+<li><a href="/wiki/Wind_power_in_the_United_Kingdom" title="Wind power in the United Kingdom">Wind</a></li></ul></li>
+<li><a href="/wiki/Fishing_industry_in_Scotland" title="Fishing industry in Scotland">Fishing</a>
+<ul><li><a href="/wiki/Fishing_industry_in_England" title="Fishing industry in England">English</a></li>
+<li><a href="/wiki/Fishing_industry_in_Scotland" title="Fishing industry in Scotland">Scottish</a></li></ul></li>
+<li><a href="/wiki/Hunting_and_shooting_in_the_United_Kingdom" title="Hunting and shooting in the United Kingdom">Hunting</a></li>
+<li>Materials
+<ul><li><a href="/wiki/List_of_the_vascular_plants_of_Britain_and_Ireland" title="List of the vascular plants of Britain and Ireland">Flora</a></li>
+<li><a href="/wiki/Forestry_in_the_United_Kingdom" title="Forestry in the United Kingdom">Forestry</a></li>
+<li><a href="/wiki/Mining_in_the_United_Kingdom" title="Mining in the United Kingdom">Mining</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_the_United_Kingdom" title="Politics of the United Kingdom">Politics</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-even" style="padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Constitution_of_the_United_Kingdom" title="Constitution of the United Kingdom">Constitution</a></li>
+<li><a href="/wiki/Courts_of_the_United_Kingdom" title="Courts of the United Kingdom">Courts</a></li>
+<li><a href="/wiki/Devolution_in_the_United_Kingdom" title="Devolution in the United Kingdom">Devolution</a></li>
+<li><a href="/wiki/Elections_in_the_United_Kingdom" title="Elections in the United Kingdom">Elections</a></li>
+<li><a href="/wiki/Foreign_relations_of_the_United_Kingdom" title="Foreign relations of the United Kingdom">Foreign relations</a></li>
+<li><a href="/wiki/Human_rights_in_the_United_Kingdom" title="Human rights in the United Kingdom">Human rights</a></li>
+<li><a href="/wiki/Judiciaries_of_the_United_Kingdom" title="Judiciaries of the United Kingdom">Judiciary</a></li>
+<li><a href="/wiki/Law_of_the_United_Kingdom" title="Law of the United Kingdom">Law</a></li>
+<li><a href="/wiki/Law_enforcement_in_the_United_Kingdom" title="Law enforcement in the United Kingdom">Law enforcement</a></li>
+<li><a href="/wiki/United_Kingdom_legislation" class="mw-redirect" title="United Kingdom legislation">Legislation</a></li>
+<li><a href="/wiki/Monarchy_of_the_United_Kingdom" title="Monarchy of the United Kingdom">Monarchy</a>
+<ul><li><a href="/wiki/List_of_British_monarchs" title="List of British monarchs">monarchs</a></li></ul></li>
+<li><a href="/wiki/British_nationality_law" title="British nationality law">Nationality</a></li>
+<li><a href="/wiki/Parliament_of_the_United_Kingdom" title="Parliament of the United Kingdom">Parliament</a>
+<ul><li><a href="/wiki/House_of_Commons_of_the_United_Kingdom" title="House of Commons of the United Kingdom">House of Commons</a></li>
+<li><a href="/wiki/House_of_Lords" title="House of Lords">House of Lords</a></li></ul></li>
+<li><a href="/wiki/List_of_political_parties_in_the_United_Kingdom" title="List of political parties in the United Kingdom">Political parties</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:6.5em;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Government_of_the_United_Kingdom" title="Government of the United Kingdom">Government</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cabinet_of_the_United_Kingdom" title="Cabinet of the United Kingdom">Cabinet</a>
+<ul><li><a href="/wiki/List_of_British_governments" title="List of British governments">list</a></li></ul></li>
+<li><a href="/wiki/Civil_Service_(United_Kingdom)" title="Civil Service (United Kingdom)">Civil service</a></li>
+<li><a href="/wiki/British_government_departments" title="British government departments">Departments</a></li>
+<li><a href="/wiki/Prime_Minister_of_the_United_Kingdom" title="Prime Minister of the United Kingdom">Prime Minister</a>
+<ul><li><a href="/wiki/List_of_Prime_Ministers_of_the_United_Kingdom" title="List of Prime Ministers of the United Kingdom">list</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:6.5em;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/British_Armed_Forces" title="British Armed Forces">Military</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Royal_Navy" title="Royal Navy">Royal Navy</a></li>
+<li><a href="/wiki/British_Army" title="British Army">Army</a></li>
+<li><a href="/wiki/Royal_Air_Force" title="Royal Air Force">Royal Air Force</a></li>
+<li><a href="/wiki/United_Kingdom_and_weapons_of_mass_destruction" title="United Kingdom and weapons of mass destruction">Weapons of mass destruction</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_the_United_Kingdom" title="Economy of the United Kingdom">Economy</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_banks_in_the_United_Kingdom" title="List of banks in the United Kingdom">Banks</a>
+<ul><li><a href="/wiki/Bank_of_England" title="Bank of England">Bank of England</a></li></ul></li>
+<li><a href="/wiki/Budget_of_the_United_Kingdom" title="Budget of the United Kingdom">Budget</a></li>
+<li><a href="/wiki/Economic_geography_of_the_United_Kingdom" title="Economic geography of the United Kingdom">Economic geography</a></li>
+<li><a href="/wiki/Manufacturing_in_the_United_Kingdom" title="Manufacturing in the United Kingdom">Manufacturing</a></li>
+<li><a href="/wiki/Pound_sterling" title="Pound sterling">Pound <span style="font-size:85%;">(currency)</span></a></li>
+<li><a href="/wiki/List_of_stock_exchanges_in_the_United_Kingdom,_the_British_Crown_Dependencies_and_United_Kingdom_Overseas_Territories" title="List of stock exchanges in the United Kingdom, the British Crown Dependencies and United Kingdom Overseas Territories">Stock Exchanges</a> (<a href="/wiki/London_Stock_Exchange" title="London Stock Exchange">London Exchange</a>)</li>
+<li><a href="/wiki/Taxation_in_the_United_Kingdom" title="Taxation in the United Kingdom">Taxation</a></li>
+<li><a href="/wiki/Telecommunications_in_the_United_Kingdom" title="Telecommunications in the United Kingdom">Telecommunications</a></li>
+<li><a href="/wiki/Tourism_in_the_United_Kingdom" title="Tourism in the United Kingdom">Tourism</a></li>
+<li><a href="/wiki/Transport_in_the_United_Kingdom" title="Transport in the United Kingdom">Transport</a></li>
+<li><a href="/wiki/British_Rail" title="British Rail">British Rail</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:British_society" title="Category:British society">Society</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Affordability_of_housing_in_the_United_Kingdom" title="Affordability of housing in the United Kingdom">Affordability of housing</a></li>
+<li><a href="/wiki/Crime_in_the_United_Kingdom" title="Crime in the United Kingdom">Crime</a></li>
+<li><a href="/wiki/Demography_of_the_United_Kingdom" title="Demography of the United Kingdom">Demography</a></li>
+<li><a href="/wiki/Drug_policy_of_the_United_Kingdom" title="Drug policy of the United Kingdom">Drug policy</a></li>
+<li><a href="/wiki/Education_in_the_United_Kingdom" title="Education in the United Kingdom">Education</a></li>
+<li><a href="/wiki/Ethnic_groups_in_the_United_Kingdom" title="Ethnic groups in the United Kingdom">Ethnic groups</a></li>
+<li><a class="mw-selflink selflink">Health</a></li>
+<li><a href="/wiki/Modern_immigration_to_the_United_Kingdom" title="Modern immigration to the United Kingdom">Immigration</a></li>
+<li><a href="/wiki/List_of_British_innovations_and_discoveries" title="List of British innovations and discoveries">Innovation</a></li>
+<li><a href="/wiki/Languages_of_the_United_Kingdom" title="Languages of the United Kingdom">Languages</a></li>
+<li><a href="/wiki/Poverty_in_the_United_Kingdom" title="Poverty in the United Kingdom">Poverty</a></li>
+<li><a href="/wiki/Prostitution_in_the_United_Kingdom" title="Prostitution in the United Kingdom">Prostitution</a></li>
+<li><a href="/wiki/Public_holidays_in_the_United_Kingdom" title="Public holidays in the United Kingdom">Public holidays</a></li>
+<li><a href="/wiki/Social_care_in_the_United_Kingdom" title="Social care in the United Kingdom">Social care</a></li>
+<li><a href="/wiki/Social_class_in_the_United_Kingdom" title="Social class in the United Kingdom">Social structure</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_the_United_Kingdom" title="Culture of the United Kingdom">Culture</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Art_of_the_United_Kingdom" title="Art of the United Kingdom">Art</a></li>
+<li><a href="/wiki/Cinema_of_the_United_Kingdom" title="Cinema of the United Kingdom">Cinema</a></li>
+<li><a href="/wiki/British_cuisine" title="British cuisine">Cuisine</a></li>
+<li><a href="/wiki/List_of_cultural_icons_of_the_United_Kingdom" title="List of cultural icons of the United Kingdom">Cultural icons</a></li>
+<li><a href="/wiki/Britishness" title="Britishness">Identity</a></li>
+<li><a href="/wiki/British_literature" title="British literature">Literature</a></li>
+<li><a href="/wiki/Media_of_the_United_Kingdom" title="Media of the United Kingdom">Media</a></li>
+<li><a href="/wiki/Music_of_the_United_Kingdom" title="Music of the United Kingdom">Music</a></li>
+<li><a href="/wiki/Religion_in_the_United_Kingdom" title="Religion in the United Kingdom">Religion</a></li>
+<li><a href="/wiki/Sport_in_the_United_Kingdom" title="Sport in the United Kingdom">Sport</a></li>
+<li><a href="/wiki/List_of_national_symbols_of_the_United_Kingdom,_the_Channel_Islands_and_the_Isle_of_Man" title="List of national symbols of the United Kingdom, the Channel Islands and the Isle of Man">Symbols</a></li>
+<li><a href="/wiki/Theatre_of_the_United_Kingdom" title="Theatre of the United Kingdom">Theatre</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Countries_of_the_United_Kingdom" style="font-size:114%;margin:0 4em"><a href="/wiki/Countries_of_the_United_Kingdom" title="Countries of the United Kingdom">Countries of the United Kingdom</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/England" title="England">England</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_England" title="History of England">History</a>
+<ul><li><a href="/wiki/English_society" title="English society">social</a></li>
+<li><a href="/wiki/Timeline_of_English_history" title="Timeline of English history">timeline</a></li></ul></li>
+<li><a href="/wiki/Geography_of_England" title="Geography of England">Geography</a></li>
+<li><a href="/wiki/Politics_of_England" title="Politics of England">Politics</a></li>
+<li><a href="/wiki/English_law" title="English law">Law</a></li>
+<li><a href="/wiki/Economy_of_England" title="Economy of England">Economy</a>
+<ul><li><a href="/wiki/Tourism_in_England" title="Tourism in England">tourism</a></li></ul></li>
+<li><a href="/wiki/Education_in_England" title="Education in England">Education</a></li>
+<li><a href="/wiki/Healthcare_in_England" title="Healthcare in England">Health care</a></li>
+<li><a href="/wiki/Culture_of_England" title="Culture of England">Culture</a></li>
+<li><a href="/wiki/Religion_in_England" title="Religion in England">Religion</a></li>
+<li><a href="/wiki/National_symbols_of_England" title="National symbols of England">Symbols</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_Northern_Ireland" title="History of Northern Ireland">History</a></li>
+<li><a href="/wiki/Northern_Ireland#Geography_and_climate" title="Northern Ireland">Geography</a></li>
+<li><a href="/wiki/Politics_of_Northern_Ireland" title="Politics of Northern Ireland">Politics</a>
+<ul><li><a href="/wiki/Northern_Ireland_Assembly" title="Northern Ireland Assembly">Assembly</a></li>
+<li><a href="/wiki/Northern_Ireland_Executive" title="Northern Ireland Executive">Executive</a></li>
+<li><a href="/wiki/First_Minister_and_deputy_First_Minister" class="mw-redirect" title="First Minister and deputy First Minister">First Minister and deputy</a></li></ul></li>
+<li><a href="/wiki/Northern_Ireland_law" title="Northern Ireland law">Law</a></li>
+<li><a href="/wiki/Economy_of_Northern_Ireland" title="Economy of Northern Ireland">Economy</a>
+<ul><li><a href="/wiki/List_of_tourist_attractions_in_Ireland" title="List of tourist attractions in Ireland">tourism</a></li></ul></li>
+<li><a href="/wiki/Education_in_Northern_Ireland" title="Education in Northern Ireland">Education</a></li>
+<li><a href="/wiki/Health_and_Social_Care_in_Northern_Ireland" title="Health and Social Care in Northern Ireland">Health care</a></li>
+<li><a href="/wiki/Culture_of_Northern_Ireland" title="Culture of Northern Ireland">Culture</a></li>
+<li><a href="/wiki/Religion_in_Northern_Ireland" title="Religion in Northern Ireland">Religion</a></li>
+<li><a href="/wiki/Northern_Ireland#Symbols" title="Northern Ireland">Symbols</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Scotland" title="Scotland">Scotland</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_Scotland" title="History of Scotland">History</a>
+<ul><li><a href="/wiki/Timeline_of_Scottish_history" title="Timeline of Scottish history">timeline</a></li></ul></li>
+<li><a href="/wiki/Geography_of_Scotland" title="Geography of Scotland">Geography</a></li>
+<li><a href="/wiki/Politics_of_Scotland" title="Politics of Scotland">Politics</a>
+<ul><li><a href="/wiki/Scottish_Parliament" title="Scottish Parliament">Parliament</a></li>
+<li><a href="/wiki/Scottish_Government" title="Scottish Government">Government</a></li>
+<li><a href="/wiki/First_Minister_of_Scotland" title="First Minister of Scotland">First Minister</a></li></ul></li>
+<li><a href="/wiki/Scots_law" title="Scots law">Law</a></li>
+<li><a href="/wiki/Economy_of_Scotland" title="Economy of Scotland">Economy</a>
+<ul><li><a href="/wiki/Tourism_in_Scotland" title="Tourism in Scotland">tourism</a></li></ul></li>
+<li><a href="/wiki/Education_in_Scotland" title="Education in Scotland">Education</a></li>
+<li><a href="/wiki/Healthcare_in_Scotland" title="Healthcare in Scotland">Health care</a></li>
+<li><a href="/wiki/Culture_of_Scotland" title="Culture of Scotland">Culture</a></li>
+<li><a href="/wiki/Religion_in_Scotland" title="Religion in Scotland">Religion</a></li>
+<li><a href="/wiki/National_symbols_of_Scotland" title="National symbols of Scotland">Symbols</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Wales" title="Wales">Wales</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_Wales" title="History of Wales">History</a></li>
+<li><a href="/wiki/Geography_of_Wales" title="Geography of Wales">Geography</a></li>
+<li><a href="/wiki/Welsh_Government" title="Welsh Government">Welsh Government</a></li>
+<li><a href="/wiki/Politics_of_Wales" title="Politics of Wales">Politics</a>
+<ul><li><a href="/wiki/National_Assembly_for_Wales" title="National Assembly for Wales">Assembly</a></li>
+<li><a href="/wiki/First_Minister_of_Wales" title="First Minister of Wales">First Minister</a></li></ul></li>
+<li><a href="/wiki/Welsh_law" title="Welsh law">Law</a></li>
+<li><a href="/wiki/Economy_of_Wales" title="Economy of Wales">Economy</a>
+<ul><li><a href="/wiki/Tourism_in_Wales" title="Tourism in Wales">tourism</a></li></ul></li>
+<li><a href="/wiki/Education_in_Wales" title="Education in Wales">Education</a></li>
+<li><a href="/wiki/Healthcare_in_Wales" title="Healthcare in Wales">Health care</a></li>
+<li><a href="/wiki/Culture_of_Wales" title="Culture of Wales">Culture</a></li>
+<li><a href="/wiki/Religion_in_Wales" title="Religion in Wales">Religion</a></li>
+<li><a href="/wiki/National_symbols_of_Wales" title="National symbols of Wales">Symbols</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="font-weight:bold;"><div><div style="margin-bottom:-0.4em;"><ul><li><span style="font-weight:normal;"><a href="/wiki/Outline_of_the_United_Kingdom" title="Outline of the United Kingdom">Outline</a></span></li><li><span style="font-weight:normal;"><a href="/wiki/Index_of_United_Kingdom-related_articles" title="Index of United Kingdom-related articles">Index</a></span></li></ul></div>
+<ul><li><a href="/wiki/Book:United_Kingdom" title="Book:United Kingdom">Book</a></li>
+<li><a href="/wiki/Category:United_Kingdom" title="Category:United Kingdom">Category</a></li>
+<li><a href="/wiki/Portal:United_Kingdom" title="Portal:United Kingdom">Portal</a></li></ul></div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2269
+Cached time: 20180929141116
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.388 seconds
+Real time usage: 0.459 seconds
+Preprocessor visited node count: 2094/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 169287/2097152 bytes
+Template argument size: 26262/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 25/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 58307/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.187/10.000 seconds
+Lua memory usage: 4.25 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  366.567      1 -total
+ 52.12%  191.071      1 Template:Reflist
+ 25.13%   92.134      9 Template:Navbox
+ 24.93%   91.382     10 Template:Cite_news
+ 23.55%   86.313      1 Template:United_Kingdom_topics
+ 22.74%   83.369      1 Template:Country_topics
+ 14.54%   53.293      1 Template:Lead_too_short
+  9.92%   36.372      9 Template:Cite_web
+  9.35%   34.263      1 Template:Ambox
+  6.72%   24.631      1 Template:Cite_journal
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15985800-0!canonical and timestamp 20180929141115 and revision id 861172000
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Health_in_the_United_Kingdom&amp;oldid=861172000">https://en.wikipedia.org/w/index.php?title=Health_in_the_United_Kingdom&amp;oldid=861172000</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Health_in_the_United_Kingdom" title="Category:Health in the United Kingdom">Health in the United Kingdom</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_introduction_cleanup_from_March_2018" title="Category:Wikipedia introduction cleanup from March 2018">Wikipedia introduction cleanup from March 2018</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_March_2018" title="Category:Articles covered by WikiProject Wikify from March 2018">Articles covered by WikiProject Wikify from March 2018</a></li><li><a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">All articles covered by WikiProject Wikify</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Health+in+the+United+Kingdom" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Health+in+the+United+Kingdom" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Health_in_the_United_Kingdom" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Health_in_the_United_Kingdom" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Health_in_the_United_Kingdom">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Health_in_the_United_Kingdom&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Health_in_the_United_Kingdom&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Health_in_the_United_Kingdom" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Health_in_the_United_Kingdom" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Health_in_the_United_Kingdom&amp;oldid=861172000" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Health_in_the_United_Kingdom&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q39086047" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Health_in_the_United_Kingdom&amp;id=861172000" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Health+in+the+United+Kingdom">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Health+in+the+United+Kingdom&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Health_in_the_United_Kingdom&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q39086047#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 September 2018, at 16:10<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Health_in_the_United_Kingdom&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.388","walltime":"0.459","ppvisitednodes":{"value":2094,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":169287,"limit":2097152},"templateargumentsize":{"value":26262,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":25,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":58307,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  366.567      1 -total"," 52.12%  191.071      1 Template:Reflist"," 25.13%   92.134      9 Template:Navbox"," 24.93%   91.382     10 Template:Cite_news"," 23.55%   86.313      1 Template:United_Kingdom_topics"," 22.74%   83.369      1 Template:Country_topics"," 14.54%   53.293      1 Template:Lead_too_short","  9.92%   36.372      9 Template:Cite_web","  9.35%   34.263      1 Template:Ambox","  6.72%   24.631      1 Template:Cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.187","limit":"10.000"},"limitreport-memusage":{"value":4454973,"limit":52428800}},"cachereport":{"origin":"mw2269","timestamp":"20180929141116","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw2226"});});</script>
+	</body>
+</html>

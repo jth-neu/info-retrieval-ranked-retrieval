@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ixquick - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ixquick","wgTitle":"Ixquick","wgCurRevisionId":859050789,"wgRevisionId":859050789,"wgArticleId":1445931,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles containing potentially dated statements from October 2017","All articles containing potentially dated statements","Internet search engines","Internet properties established in 1998"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ixquick","wgRelevantArticleId":1445931,"wgRequestId":"W6@A9ArAIDgAAJc0qo0AAAAR","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1628841","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/7/7f/Ixquick.gif"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ixquick"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ixquick&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ixquick&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ixquick"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ixquick rootpage-Ixquick skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Ixquick</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><caption class="fn org">Ixquick</caption><tbody><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Ixquick.gif" class="image"><img alt="Ixquick.gif" src="//upload.wikimedia.org/wikipedia/en/thumb/7/7f/Ixquick.gif/250px-Ixquick.gif" width="250" height="94" srcset="//upload.wikimedia.org/wikipedia/en/7/7f/Ixquick.gif 1.5x" data-file-width="255" data-file-height="96" /></a></td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Type of site</div></th><td>
+<a href="/wiki/Web_search_engine" title="Web search engine">Search engine</a><br /><a href="/wiki/Proxy_server" title="Proxy server">Proxy service</a></td></tr><tr><th scope="row">Owner</th><td>
+Surfboard Holdings B.V.</td></tr><tr><th scope="row">Website</th><td class="url">
+<span class="url"><a rel="nofollow" class="external text" href="https://startpage.com">startpage<wbr />.com</a></span><br /><span class="url"><a rel="nofollow" class="external text" href="https://ixquick.eu">ixquick<wbr />.eu</a></span></td></tr><tr><th scope="row"><a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa</a> rank</th><td>
+Ixquick:<img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 4,827 <small>(25 October 2017<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Ixquick&amp;action=edit">&#91;update&#93;</a></sup>)</small><sup id="cite_ref-alexa_1-0" class="reference"><a href="#cite_note-alexa-1">&#91;1&#93;</a></sup><br />Startpage:<img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 1,270 <small>(25 October 2017<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Ixquick&amp;action=edit">&#91;update&#93;</a></sup>)</small><sup id="cite_ref-alexaSP_2-0" class="reference"><a href="#cite_note-alexaSP-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row">Launched</th><td>
+1998<span class="noprint">&#59;&#32;20&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1998</span>)</span></td></tr></tbody></table>
+<p><b>Ixquick</b> (styled "<b>ixquick</b>") was a <a href="/wiki/Metasearch_engine" title="Metasearch engine">metasearch engine</a> based in <a href="/wiki/Zeist" title="Zeist">Zeist</a> and <a href="/wiki/New_York_City" title="New York City">New York</a>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> which highlights privacy as its distinguishing feature.<sup id="cite_ref-pr_2015_07_20_ixquick_eu_4-0" class="reference"><a href="#cite_note-pr_2015_07_20_ixquick_eu-4">&#91;4&#93;</a></sup><sup id="cite_ref-startpage_2016_03_notice_5-0" class="reference"><a href="#cite_note-startpage_2016_03_notice-5">&#91;5&#93;</a></sup><sup id="cite_ref-pr_2015_03_30_ixquick_eu_6-0" class="reference"><a href="#cite_note-pr_2015_03_30_ixquick_eu-6">&#91;6&#93;</a></sup><sup id="cite_ref-pr_2008_07_14_ixquick_7-0" class="reference"><a href="#cite_note-pr_2008_07_14_ixquick-7">&#91;7&#93;</a></sup><sup id="cite_ref-1st_euro_privacy_seal_2008_07_14_europrise_8-0" class="reference"><a href="#cite_note-1st_euro_privacy_seal_2008_07_14_europrise-8">&#91;8&#93;</a></sup><sup id="cite_ref-1st_eu_privacy_seal_2008_07_14_privacy_org_9-0" class="reference"><a href="#cite_note-1st_eu_privacy_seal_2008_07_14_privacy_org-9">&#91;9&#93;</a></sup><sup id="cite_ref-expressvpn_review2016&#95;_10-0" class="reference"><a href="#cite_note-expressvpn_review2016_-10">&#91;10&#93;</a></sup>
+</p><p>Ixquick now redirects users to <a href="/wiki/Startpage.com" class="mw-redirect" title="Startpage.com">startpage.com</a>.
+</p><p>Founded by David Bodnick in 1998, Ixquick is owned by Surfboard Holding BV of the Netherlands, which acquired the internet company in 2000.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> Ixquick and its sibling project Startpage.com reached their latest record (28-day average) daily direct queries of 5.7 million on 2 February 2015.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p><p>The company also provides the stand-alone proxy service, Ixquick Proxy, which has also been incorporated into both its Ixquick and Startpage search engines, allowing users the option to open all search results via proxy. The company  developed a privacy protecting <a href="/wiki/Email" title="Email">email</a> service, called <i>StartMail</i>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> This service was released to the public in 2014.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Search_mechanism_and_interface"><span class="tocnumber">2</span> <span class="toctext">Search mechanism and interface</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Startpage.com"><span class="tocnumber">3</span> <span class="toctext">Startpage.com</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ixquick&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ixquick was re-launched on 23 March 2005, with  new features including a redesigned metasearch algorithm, an international phone, and lowest-price directory.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p><p>On 27 June 2006, following <a href="/wiki/Criticism_of_Google#Google_Shopping_rankings" title="Criticism of Google">criticism of Google Shopping</a>, Ixquick.com began to delete private details of its users.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> IP addresses and other personal information were deleted within 48 hours of a search.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> Ixquick has stated that it does not share its users' personal information with other search engines or with the provider of its sponsored results.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p><p>Ixquick was awarded the first European Privacy Seal (EuroPriSe) for its privacy practices on 14 July 2008.<sup id="cite_ref-1st_euro_privacy_seal_2008_07_14_europrise_8-1" class="reference"><a href="#cite_note-1st_euro_privacy_seal_2008_07_14_europrise-8">&#91;8&#93;</a></sup><sup id="cite_ref-1st_eu_privacy_seal_2008_07_14_privacy_org_9-1" class="reference"><a href="#cite_note-1st_eu_privacy_seal_2008_07_14_privacy_org-9">&#91;9&#93;</a></sup><sup id="cite_ref-pr_2008_07_14_ixquick_7-1" class="reference"><a href="#cite_note-pr_2008_07_14_ixquick-7">&#91;7&#93;</a></sup> This European Union-sponsored initiative guarantees compliance with EU laws and regulations on data security and privacy, through a series of design and technical audits.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> It was re-certified together with Startpage in 2009, 2011, 2013<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> and 2015.<sup id="cite_ref-pr_2015_07_20_ixquick_eu_4-1" class="reference"><a href="#cite_note-pr_2015_07_20_ixquick_eu-4">&#91;4&#93;</a></sup>
+</p><p>On 28 January 2009, Ixquick completely ended the recording of user IP addresses.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p><p>On 29 March 2016, Ixquick.com was  officially "merged" with the same company's Startpage search engine<sup id="cite_ref-startpage_2016_03_notice_5-1" class="reference"><a href="#cite_note-startpage_2016_03_notice-5">&#91;5&#93;</a></sup> (a search engine with the privacy features of Ixquick, but using only <a href="/wiki/Google_search" class="mw-redirect" title="Google search">Google search</a> results<sup id="cite_ref-pr_2015_03_30_ixquick_eu_6-1" class="reference"><a href="#cite_note-pr_2015_03_30_ixquick_eu-6">&#91;6&#93;</a></sup>). Users entering ixquick.com are now automatically re-routed to startpage.com. However, at the end of Ixquick's merger notice, the company reports: "We think you're going to love StartPage, but if you prefer original Ixquick search results, don't worry. They are still available at ixquick.eu." Ixquick had long declared on its sites, that it operated in compliance with European Union privacy standards, and it retains its original European search engine.<sup id="cite_ref-expressvpn_review2016&#95;_10-1" class="reference"><a href="#cite_note-expressvpn_review2016_-10">&#91;10&#93;</a></sup> As of 21 April 2018, ixquick.eu also redirects to startpage.com.
+</p>
+<h2><span class="mw-headline" id="Search_mechanism_and_interface">Search mechanism and interface</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ixquick&amp;action=edit&amp;section=2" title="Edit section: Search mechanism and interface">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ixquick returns the top ten results from multiple search engines. It uses a "Star System" to rank its results by awarding one star for every result that has been returned from a search engine.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> Thereby, the top search results are the ones that have been returned from the most search engines. Ixquick can search in 17 languages: <a href="/wiki/Chinese_language" title="Chinese language">Simplified and Traditional Chinese</a>, <a href="/wiki/Danish_language" title="Danish language">Danish</a>, <a href="/wiki/Dutch_language" title="Dutch language">Dutch</a>, <a href="/wiki/English_language" title="English language">English</a>, <a href="/wiki/Finnish_language" title="Finnish language">Finnish</a>, <a href="/wiki/French_language" title="French language">French</a>, <a href="/wiki/German_language" title="German language">German</a>, <a href="/wiki/Italian_language" title="Italian language">Italian</a>, <a href="/wiki/Japanese_language" title="Japanese language">Japanese</a>, <a href="/wiki/Korean_language" title="Korean language">Korean</a>, <a href="/wiki/Norwegian_language" title="Norwegian language">Norwegian</a>, <a href="/wiki/Polish_language" title="Polish language">Polish</a>, <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>, <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>, <a href="/wiki/Swedish_language" title="Swedish language">Swedish</a>, and <a href="/wiki/Turkish_language" title="Turkish language">Turkish</a>. Each language version includes local search engines.
+</p><p>Ixquick uses only one cookie, called "preferences", which remembers a user's search preferences for future searches and is deleted after a user does not visit Ixquick for 90 days.<sup id="cite_ref-ixquick_25-0" class="reference"><a href="#cite_note-ixquick-25">&#91;25&#93;</a></sup> It is however possible to save preferences in a bookmarked URL, thus avoiding cookies completely.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> Preferences are not saved automatically. Only a visitor can decide to save his or her preferences.
+</p>
+<h2><span class="mw-headline" id="Startpage.com">Startpage.com</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ixquick&amp;action=edit&amp;section=3" title="Edit section: Startpage.com">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On 7 July 2009 Ixquick launched Startpage.com to offer its service at a <a href="/wiki/Uniform_resource_locator" class="mw-redirect" title="Uniform resource locator">URL</a> that is both easier to remember and spell, and in contrast to ixquick.eu, fetches results from the Google search engine.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> This is done without saving the users' IP addresses or giving any personal user information to Google's servers.
+</p><p>On 29 March 2016, Ixquick.com was  officially "merged" with the same company's Startpage search engine.<sup id="cite_ref-startpage_2016_03_notice_5-2" class="reference"><a href="#cite_note-startpage_2016_03_notice-5">&#91;5&#93;</a></sup>
+</p><p>Prior to the release of <a href="/wiki/Tor_(anonymity_network)#Tor_Browser" title="Tor (anonymity network)">Tor Browser</a> version 4.5, Startpage.com was its default search engine.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ixquick&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-alexa-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-alexa_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.alexa.com/siteinfo/ixquick.com">"Ixquick.com Site Info"</a>. <a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa Internet</a><span class="reference-accessdate">. Retrieved <span class="nowrap">25 October</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ixquick.com+Site+Info&amp;rft.pub=Alexa+Internet&amp;rft_id=https%3A%2F%2Fwww.alexa.com%2Fsiteinfo%2Fixquick.com&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIxquick" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-alexaSP-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-alexaSP_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.alexa.com/siteinfo/startpage.com">"Startpage.com Site Info"</a>. <a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa Internet</a><span class="reference-accessdate">. Retrieved <span class="nowrap">25 October</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Startpage.com+Site+Info&amp;rft.pub=Alexa+Internet&amp;rft_id=https%3A%2F%2Fwww.alexa.com%2Fsiteinfo%2Fstartpage.com&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIxquick" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.metamend.com/ixquick-search-engine.html">Ixquick Search</a>". www.metamend.com.</span>
+</li>
+<li id="cite_note-pr_2015_07_20_ixquick_eu-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-pr_2015_07_20_ixquick_eu_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pr_2015_07_20_ixquick_eu_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Ixquick.eu press release, <a rel="nofollow" class="external text" href="https://www.ixquick.eu/eng/press/europrise-reaffirmed.html?hmb=1">"EuroPriSe: Privacy-friendly Internet search with Ixquick and Startpage reaffirmed"</a>, 20 July 2015, Surfboard Holding B.V., Bonn, Germany, on Ixquick.eu website, retrieved 5 April 2016.</span>
+</li>
+<li id="cite_note-startpage_2016_03_notice-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-startpage_2016_03_notice_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-startpage_2016_03_notice_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-startpage_2016_03_notice_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Ixquick.com notice, <a rel="nofollow" class="external text" href="https://ixquick.com/eng/ixquick-merged-with-startpage.html?lmv=1">"We've streamlined the fight against Big Brother!"</a>, announcement on Ixquick.com website, retrieved 5 April 2016.</span>
+</li>
+<li id="cite_note-pr_2015_03_30_ixquick_eu-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-pr_2015_03_30_ixquick_eu_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pr_2015_03_30_ixquick_eu_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Ixquick.eu press release, <a rel="nofollow" class="external text" href="https://www.ixquick.eu/eng/press/startpage-and-ixquick-join-forces.html?hmb=1">"StartPage and Ixquick Join Forces in the Fight Against Big Brother"</a>, 30 March 2016, Surfboard Holding B.V., Zeist, The Netherlands, on Ixquick.eu website, retrieved 5 April 2016.</span>
+</li>
+<li id="cite_note-pr_2008_07_14_ixquick-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-pr_2008_07_14_ixquick_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pr_2008_07_14_ixquick_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://ixquick.com/eng/press/europrise.html">"First European Privacy Seal Awarded"</a> (Press release). Ixquick. 14 July 2008.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=First+European+Privacy+Seal+Awarded&amp;rft.pub=Ixquick&amp;rft.date=2008-07-14&amp;rft_id=http%3A%2F%2Fixquick.com%2Feng%2Fpress%2Feuroprise.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIxquick" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-1st_euro_privacy_seal_2008_07_14_europrise-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-1st_euro_privacy_seal_2008_07_14_europrise_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-1st_euro_privacy_seal_2008_07_14_europrise_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">EuroPriSe press release, <a rel="nofollow" class="external text" href="http://www.businesswire.com/portal/site/google/?ndmViewId=news_view&amp;newsId=20080714005501&amp;newsLang=en">"First European Privacy Seal Awarded"</a>, July 14, 2008, EuroPriSe consortium, via Business Wire / Google, Kiel, Germany, retrieved April 5, 2016.</span>
+</li>
+<li id="cite_note-1st_eu_privacy_seal_2008_07_14_privacy_org-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-1st_eu_privacy_seal_2008_07_14_privacy_org_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-1st_eu_privacy_seal_2008_07_14_privacy_org_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Privacy.org news article, <a rel="nofollow" class="external text" href="http://privacy.org/archives/002527.html">"EU Awards First Privacy Seal to Online Search Engine Ixquick.com"</a>, July 14, 2008, EPIC - Electronic Privacy Information Center / Privacy International, Washington, D.C., retrieved April 5, 2016.</span>
+</li>
+<li id="cite_note-expressvpn_review2016_-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-expressvpn_review2016_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-expressvpn_review2016_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">ExpressVPN.com, <a rel="nofollow" class="external text" href="https://www.expressvpn.com/blog/ixquick-startpage/">"Free Search Engines: What You’re Looking For?,"</a> 19 January 2015, retrieved April 5, 2016.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="https://web.archive.org/web/20070927202218/http://www.hventure.nl/eng/surfboard0305.html">New Ixquick International Search Engine Unveiled</a>" www.hventure.nl. March 23, 2005.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://startpage.com/traffic/">"Ixquick/StartPage Direct queries per day (28 Day Average)"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 20,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ixquick%2FStartPage+Direct+queries+per+day+%2828+Day+Average%29&amp;rft_id=https%3A%2F%2Fstartpage.com%2Ftraffic%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIxquick" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://support.startpage.com/index.php?/Knowledgebase/Article/View/55/7/when-is-your-startmail-private-email-service-going-to-be-released">"When is your StartMail private email service going to be released? - Startpage Support"</a>. 2013-07-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-08-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=When+is+your+StartMail+private+email+service+going+to+be+released%3F+-+Startpage+Support&amp;rft.date=2013-07-23&amp;rft_id=https%3A%2F%2Fsupport.startpage.com%2Findex.php%3F%2FKnowledgebase%2FArticle%2FView%2F55%2F7%2Fwhen-is-your-startmail-private-email-service-going-to-be-released&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIxquick" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.startpage.com/uk/press/startmail-launch.html">"StartMail Launches "Email Encryption Made Easy" at pii2014 Conference"</a>. <i>Startpage</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 October</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Startpage&amp;rft.atitle=StartMail+Launches+%22Email+Encryption+Made+Easy%22+at+pii2014+Conference&amp;rft_id=https%3A%2F%2Fwww.startpage.com%2Fuk%2Fpress%2Fstartmail-launch.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIxquick" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.marketingshift.com/2005/03/ixquickcom-q-with-david-bodnick-alex.cfm">"IXQuick.com Q &amp; A With David Bodnick &amp; Alex van Eesteren"</a>. www.marketingshift.com. 23 March  2005.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=IXQuick.com+Q+%26+A+With+David+Bodnick+%26+Alex+van+Eesteren&amp;rft.pub=www.marketingshift.com&amp;rft.date=2005-03-23&amp;rft_id=http%3A%2F%2Fwww.marketingshift.com%2F2005%2F03%2Fixquickcom-q-with-david-bodnick-alex.cfm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIxquick" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://biz.yahoo.com/bw/060627/20060627005367.html?.v=1">"Ixquick.com Eliminates 'Big Brother<span class="cs1-kern-right">'</span>"</a>. biz.yahoo.com. 27 June 2006.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Ixquick.com+Eliminates+%27Big+Brother%27&amp;rft.date=2006-06-27&amp;rft_id=http%3A%2F%2Fbiz.yahoo.com%2Fbw%2F060627%2F20060627005367.html%3F.v%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIxquick" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external free" href="http://ixquick.com/eng/protect_privacy_qa.html">http://ixquick.com/eng/protect_privacy_qa.html</a> Privacy Q&amp;A"</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation news">Greenberg, Andy (February 15, 2008). <a rel="nofollow" class="external text" href="https://www.forbes.com/2008/02/15/search-privacy-ask-tech-security-cx_ag_0215search.html">"The Privacy Paradox"</a>. Forbes.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Privacy+Paradox&amp;rft.date=2008-02-15&amp;rft.aulast=Greenberg&amp;rft.aufirst=Andy&amp;rft_id=https%3A%2F%2Fwww.forbes.com%2F2008%2F02%2F15%2Fsearch-privacy-ask-tech-security-cx_ag_0215search.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIxquick" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://ixquick.com/eng/privacy-policy.html">Ixquick: Privacy Policy</a>"</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.european-privacy-seal.eu/about-europrise">About Europrise.</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110720161316/https://www.european-privacy-seal.eu/about-europrise">Archived</a> 2011-07-20 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>."</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.european-privacy-seal.eu/awarded-seals">"Register of Awarded Seals"</a>. EuroPrise<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Register+of+Awarded+Seals&amp;rft.pub=EuroPrise&amp;rft_id=https%3A%2F%2Fwww.european-privacy-seal.eu%2Fawarded-seals&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIxquick" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web">Albrecht, Katherine (28 January 2009). <a rel="nofollow" class="external text" href="http://startpage.com/eng/press/pr-zeroip.html">"Privacy-friendly search engine Ixquick.com completely stops recording IP addresses"</a>. <i>Ixquick press release</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ixquick+press+release&amp;rft.atitle=Privacy-friendly+search+engine+Ixquick.com+completely+stops+recording+IP+addresses&amp;rft.date=2009-01-28&amp;rft.aulast=Albrecht&amp;rft.aufirst=Katherine&amp;rft_id=http%3A%2F%2Fstartpage.com%2Feng%2Fpress%2Fpr-zeroip.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIxquick" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation news">Rodriguez, Sarah (1 May 2009). <a rel="nofollow" class="external text" href="http://wislawjournal.com/2009/05/04/search-engines-besides-google063-who-knew063/">"Search engines besides Google? Who knew?"</a>. <i>Special to Wisconsin Law Journal</i>. Wisconsin Law Journal<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Special+to+Wisconsin+Law+Journal&amp;rft.atitle=Search+engines+besides+Google%3F+Who+knew%3F&amp;rft.date=2009-05-01&amp;rft.aulast=Rodriguez&amp;rft.aufirst=Sarah&amp;rft_id=http%3A%2F%2Fwislawjournal.com%2F2009%2F05%2F04%2Fsearch-engines-besides-google063-who-knew063%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIxquick" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">
+<cite class="citation book">Shuman, Bruce A. (2001). <i>Issues for Libraries and Information Science in the Internet Age</i>. Englewood, Colorado: Libraries Unlimited, Inc. p.&#160;159. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-56308-805-3" title="Special:BookSources/1-56308-805-3">1-56308-805-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Issues+for+Libraries+and+Information+Science+in+the+Internet+Age&amp;rft.place=Englewood%2C+Colorado&amp;rft.pages=159&amp;rft.pub=Libraries+Unlimited%2C+Inc.&amp;rft.date=2001&amp;rft.isbn=1-56308-805-3&amp;rft.aulast=Shuman&amp;rft.aufirst=Bruce+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIxquick" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-ixquick-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-ixquick_25-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://ixquick.com/eng/protect-privacy-qa.html#q10">"ixquick Privacy Q &amp; A"</a>. Ixquick.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ixquick+Privacy+Q+%26+A&amp;rft.pub=Ixquick&amp;rft_id=https%3A%2F%2Fixquick.com%2Feng%2Fprotect-privacy-qa.html%23q10&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIxquick" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.ixquick.com/eng/company-faq.html">Ixquick Company FAQ</a></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160208011605/https://support.startpage.com/index.php?/Knowledgebase/Article/View/103/0/what-is-the-difference-between-startpage-and-ixquick">"What is the difference between StartPage and Ixquick? - StartPage Support Center"</a>. Support.startpage.com. Archived from <a rel="nofollow" class="external text" href="https://support.startpage.com/index.php?/Knowledgebase/Article/View/103/0/what-is-the-difference-between-startpage-and-ixquick">the original</a> on 8 February 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-04-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=What+is+the+difference+between+StartPage+and+Ixquick%3F+-+StartPage+Support+Center&amp;rft.pub=Support.startpage.com&amp;rft_id=https%3A%2F%2Fsupport.startpage.com%2Findex.php%3F%2FKnowledgebase%2FArticle%2FView%2F103%2F0%2Fwhat-is-the-difference-between-startpage-and-ixquick&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIxquick" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://blog.torproject.org/blog/tor-browser-45-released">"Tor Browser 4.5 is released"</a>. blog.torproject.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-09-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tor+Browser+4.5+is+released&amp;rft.pub=blog.torproject.org&amp;rft_id=https%3A%2F%2Fblog.torproject.org%2Fblog%2Ftor-browser-45-released&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIxquick" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ixquick&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://www.startpage.com/">Official website</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.startpage.com/blog/press/">StartPage Press site</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Web_search_engines" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Web_search_engines" title="Template:Web search engines"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Web_search_engines" title="Template talk:Web search engines"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_search_engines&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Web_search_engines" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_search_engine" title="Web search engine">Web search engines</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Active</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AOL" title="AOL">AOL</a></li>
+<li><a href="/wiki/Ahmia" title="Ahmia">Ahmia</a></li>
+<li><a href="/wiki/Ask.com" title="Ask.com">Ask.com</a></li>
+<li><a href="/wiki/Baidu" title="Baidu">Baidu</a></li>
+<li><a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a></li>
+<li><a href="/wiki/Blackle" title="Blackle">Blackle</a></li>
+<li><a href="/wiki/Dogpile" title="Dogpile">Dogpile</a></li>
+<li><a href="/wiki/DuckDuckGo" title="DuckDuckGo">DuckDuckGo</a></li>
+<li><a href="/wiki/Ecosia" title="Ecosia">Ecosia</a></li>
+<li><a href="/wiki/Exalead" title="Exalead">Exalead</a></li>
+<li><a href="/wiki/Excite" title="Excite">Excite</a></li>
+<li><a href="/wiki/GenieKnows" title="GenieKnows">GenieKnows</a></li>
+<li><a href="/wiki/Gigablast" title="Gigablast">Gigablast</a></li>
+<li><a href="/wiki/Google_Search" title="Google Search">Google</a></li>
+<li><a href="/wiki/Info.com" title="Info.com">Info.com</a></li>
+<li><a class="mw-selflink selflink">Ixquick</a></li>
+<li><a href="/wiki/Lycos" title="Lycos">Lycos</a></li>
+<li><a href="/wiki/Naver" title="Naver">Naver</a></li>
+<li><a href="/wiki/Qwant" title="Qwant">Qwant</a></li>
+<li><a href="/wiki/Parsijoo" title="Parsijoo">Parsijoo</a></li>
+<li><a href="/wiki/Picollator" title="Picollator">Picollator</a></li>
+<li><a href="/wiki/SAPO_(company)" title="SAPO (company)">SAPO</a></li>
+<li><a href="/wiki/Scout_(travel_website)" title="Scout (travel website)">Scout</a></li>
+<li><a href="/wiki/Searx" title="Searx">Searx</a></li>
+<li><a href="/wiki/Seznam.cz" title="Seznam.cz">Seznam.cz</a></li>
+<li><a href="/wiki/Sogou" title="Sogou">Sogou</a></li>
+<li><a href="/wiki/Sputnik_(search_engine)" title="Sputnik (search engine)">Sputnik</a></li>
+<li><a href="/wiki/Ixquick#Startpage.com" title="Ixquick">Startpage</a></li>
+<li><a href="/wiki/WebCrawler" title="WebCrawler">WebCrawler</a></li>
+<li><a href="/wiki/YaCy" title="YaCy">YaCy</a></li>
+<li><a href="/wiki/Yahoo!_Search" title="Yahoo! Search">Yahoo!</a></li>
+<li><a href="/wiki/Yandex_Search" title="Yandex Search">Yandex</a></li>
+<li><a href="/wiki/Yooz" title="Yooz">Yooz</a></li>
+<li><a href="/wiki/Youdao" title="Youdao">Youdao</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Inactive</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/123people" title="123people">123people</a></li>
+<li><a href="/wiki/A9.com" title="A9.com">A9.com</a></li>
+<li><a href="/wiki/Aliweb" title="Aliweb">Aliweb</a></li>
+<li><a href="/wiki/AlltheWeb" title="AlltheWeb">AlltheWeb</a></li>
+<li><a href="/wiki/AltaVista" title="AltaVista">AltaVista</a></li>
+<li><a href="/wiki/Blekko" title="Blekko">Blekko</a></li>
+<li><a href="/wiki/Boogami" title="Boogami">Boogami</a></li>
+<li><a href="/wiki/Cuil" title="Cuil">Cuil</a></li>
+<li><a href="/wiki/Empas" title="Empas">Empas</a></li>
+<li><a href="/wiki/Forestle" title="Forestle">Forestle</a></li>
+<li><a href="/wiki/Go.com" title="Go.com">Go.com</a></li>
+<li><a href="/wiki/Infoseek" title="Infoseek">Infoseek</a></li>
+<li><a href="/wiki/Inktomi" title="Inktomi">Inktomi</a></li>
+<li><a href="/wiki/JumpStation" title="JumpStation">JumpStation</a></li>
+<li><a href="/wiki/LeapFish" title="LeapFish">LeapFish</a></li>
+<li><a href="/wiki/Mugurdy" title="Mugurdy">Mugurdy</a></li>
+<li><a href="/wiki/Northern_Light_Group" title="Northern Light Group">Northern Light</a></li>
+<li><a href="/wiki/Powerset_(company)" title="Powerset (company)">Powerset</a></li>
+<li><a href="/wiki/Scroogle" class="mw-redirect" title="Scroogle">Scroogle</a></li>
+<li><a href="/wiki/SearchMe" title="SearchMe">SearchMe</a></li>
+<li><a href="/wiki/Soso.com" class="mw-redirect" title="Soso.com">Soso.com</a></li>
+<li><a href="/wiki/Teoma" title="Teoma">Teoma</a></li>
+<li><a href="/wiki/Viewzi" title="Viewzi">Viewzi</a></li>
+<li><a href="/wiki/Vivisimo" title="Vivisimo">Vivisimo</a></li>
+<li><a href="/wiki/Volunia" title="Volunia">Volunia</a></li>
+<li><a href="/wiki/W3Catalog" title="W3Catalog">W3Catalog</a></li>
+<li><a href="/wiki/Wikiseek" title="Wikiseek">Wikiseek</a></li>
+<li><a href="/wiki/Yebol" title="Yebol">Yebol</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/List_of_search_engines" title="List of search engines">Complete list</a></li>
+<li><a href="/wiki/Comparison_of_web_search_engines" title="Comparison of web search engines">Comparison</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2168
+Cached time: 20180929134109
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.376 seconds
+Real time usage: 0.487 seconds
+Preprocessor visited node count: 2029/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 40397/2097152 bytes
+Template argument size: 2487/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 48705/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.153/10.000 seconds
+Lua memory usage: 4.37 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  389.882      1 -total
+ 50.02%  195.022      1 Template:Reflist
+ 42.00%  163.739      1 Template:Infobox_website
+ 33.92%  132.229      1 Template:Infobox
+ 28.69%  111.839     11 Template:Cite_web
+  6.40%   24.970      2 Template:As_of
+  5.43%   21.187      2 Template:DMCA
+  4.79%   18.673      2 Template:Dated_maintenance_category
+  4.49%   17.511      3 Template:Cite_news
+  4.40%   17.153      3 Template:If_empty
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1445931-0!canonical and timestamp 20180929134108 and revision id 859050789
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ixquick&amp;oldid=859050789">https://en.wikipedia.org/w/index.php?title=Ixquick&amp;oldid=859050789</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li><li><a href="/wiki/Category:Internet_properties_established_in_1998" title="Category:Internet properties established in 1998">Internet properties established in 1998</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_October_2017" title="Category:Articles containing potentially dated statements from October 2017">Articles containing potentially dated statements from October 2017</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ixquick" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ixquick" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ixquick" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Ixquick" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Ixquick">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Ixquick&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ixquick&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ixquick" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ixquick" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ixquick&amp;oldid=859050789" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ixquick&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1628841" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ixquick&amp;id=859050789" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ixquick">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ixquick&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ixquick&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Ixquick" title="Ixquick – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Ixquick" title="Ixquick – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Ixquick" title="Ixquick – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ixquick" title="Ixquick – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ixquick" title="Ixquick – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ixquick" title="Ixquick – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Ixquick" title="Ixquick – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Ixquick" title="Ixquick – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Ixquick" title="Ixquick – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ixquick" title="Ixquick – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Ixquick" title="Ixquick – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Ixquick" title="Ixquick – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1628841#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 11 September 2018, at 11:27<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ixquick&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.376","walltime":"0.487","ppvisitednodes":{"value":2029,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":40397,"limit":2097152},"templateargumentsize":{"value":2487,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":48705,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  389.882      1 -total"," 50.02%  195.022      1 Template:Reflist"," 42.00%  163.739      1 Template:Infobox_website"," 33.92%  132.229      1 Template:Infobox"," 28.69%  111.839     11 Template:Cite_web","  6.40%   24.970      2 Template:As_of","  5.43%   21.187      2 Template:DMCA","  4.79%   18.673      2 Template:Dated_maintenance_category","  4.49%   17.511      3 Template:Cite_news","  4.40%   17.153      3 Template:If_empty"]},"scribunto":{"limitreport-timeusage":{"value":"0.153","limit":"10.000"},"limitreport-memusage":{"value":4580146,"limit":52428800}},"cachereport":{"origin":"mw2168","timestamp":"20180929134109","ttl":86400,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":600,"wgHostname":"mw2168"});});</script>
+	</body>
+</html>

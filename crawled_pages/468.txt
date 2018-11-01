@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Sheffield urban area - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sheffield_urban_area","wgTitle":"Sheffield urban area","wgCurRevisionId":822040656,"wgRevisionId":822040656,"wgArticleId":4510547,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: BOT: original-url status unknown","Coordinates on Wikidata","Geography of Sheffield","Urban areas of England"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sheffield_urban_area","wgRelevantArticleId":4510547,"wgRequestId":"W7FicQrAEDkAAHOwblIAAABI","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Sheffield_Urban_Area","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgInternalRedirectTargetUrl":"/wiki/Sheffield_urban_area","wgCoordinates":{"lat":53.395,"lon":-1.455},"wgWikibaseItemId":"Q4523493","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/SheffieldUrbanArea.svg/1200px-SheffieldUrbanArea.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sheffield_urban_area"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Sheffield_urban_area&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Sheffield_urban_area&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Sheffield_urban_area"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sheffield_urban_area rootpage-Sheffield_urban_area skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Sheffield urban area</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Sheffield_Urban_Area&amp;redirect=no" class="mw-redirect" title="Sheffield Urban Area">Sheffield Urban Area</a>)</span></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Sheffield_urban_area&amp;params=53.395_N_1.455_W_region:GB_scale:50000"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°23′42″N</span> <span class="longitude">1°27′18″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.395°N 1.455°W</span><span style="display:none">&#xfeff; / <span class="geo">53.395; -1.455</span></span></span></a></span></span></span>
+</p>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Sheffield_City_Region" class="mw-redirect" title="Sheffield City Region">Sheffield City Region</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:SheffieldUrbanArea.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/SheffieldUrbanArea.svg/300px-SheffieldUrbanArea.svg.png" width="300" height="259" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/SheffieldUrbanArea.svg/450px-SheffieldUrbanArea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/SheffieldUrbanArea.svg/600px-SheffieldUrbanArea.svg.png 2x" data-file-width="712" data-file-height="615" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:SheffieldUrbanArea.svg" class="internal" title="Enlarge"></a></div>Sheffield Urban Area map.</div></div></div>
+<p>The <b>Sheffield Urban Area</b> is a <a href="/wiki/Conurbation" title="Conurbation">conurbation</a> in the North of England with a population of 685,368 according to the 2011 census.<sup id="cite_ref-BUA_1-0" class="reference"><a href="#cite_note-BUA-1">&#91;1&#93;</a></sup> This was a 7% increase on the 2001 population of 640,720<sup id="cite_ref-excelsheet_2-0" class="reference"><a href="#cite_note-excelsheet-2">&#91;2&#93;</a></sup> making it the 8th largest <a href="/wiki/Conurbation" title="Conurbation">conurbation</a> in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> and <a href="/wiki/England" title="England">England</a>'s 6th largest.  Named the Sheffield Urban Area by the <a href="/wiki/Office_for_National_Statistics" title="Office for National Statistics">Office for National Statistics</a>, it must not be confused with the <a href="/wiki/Sheffield_City_Region" class="mw-redirect" title="Sheffield City Region">Sheffield City Region</a>, a non-government term, although often used, particularly by the business community. In 2001 the population density of the urban area was 3,949.2 people per km<sup>2</sup> <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> by 2011 this had increased slightly to 4,092 people per km<sup>2</sup>.<sup id="cite_ref-BUA_1-1" class="reference"><a href="#cite_note-BUA-1">&#91;1&#93;</a></sup>
+</p><p>The city of <a href="/wiki/Sheffield" title="Sheffield">Sheffield</a> contributes just over two thirds of the population of the whole conurbation.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Places_in_the_Conurbation"><span class="tocnumber">1</span> <span class="toctext">Places in the Conurbation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Nearby_Places"><span class="tocnumber">2</span> <span class="toctext">Nearby Places</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Places_in_the_Conurbation">Places in the Conurbation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sheffield_urban_area&amp;action=edit&amp;section=1" title="Edit section: Places in the Conurbation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The conurbation's population is made up of the following settlements as defined by the <a href="/wiki/Office_for_National_Statistics" title="Office for National Statistics">Office for National Statistics</a>:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Area</th>
+<th>District
+</th>
+<th>Population (1991)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></th>
+<th align="center">Population (2001)<sup id="cite_ref-excelsheet_2-1" class="reference"><a href="#cite_note-excelsheet-2">&#91;2&#93;</a></sup></th>
+<th align="center">Population (2011)<sup id="cite_ref-BUA_1-2" class="reference"><a href="#cite_note-BUA-1">&#91;1&#93;</a></sup>
+</th></tr>
+<tr>
+<td><a href="/wiki/Aughton,_South_Yorkshire" title="Aughton, South Yorkshire">Aughton</a></td>
+<td><a href="/wiki/Metropolitan_Borough_of_Rotherham" title="Metropolitan Borough of Rotherham">Rotherham</a>
+</td>
+<td align="center">14,122</td>
+<td align="center">13,456</td>
+<td align="center">-
+</td></tr>
+<tr>
+<td><a href="/wiki/Beighton" class="mw-redirect" title="Beighton">Beighton</a></td>
+<td>Sheffield
+</td>
+<td align="center">9,467</td>
+<td align="center">10,676</td>
+<td align="center">-
+</td></tr>
+<tr>
+<td><a href="/wiki/Catcliffe" title="Catcliffe">Catcliffe</a></td>
+<td>Rotherham
+</td>
+<td align="center">-
+</td>
+<td align="center">-</td>
+<td align="center">2,108
+</td></tr>
+<tr>
+<td><a href="/wiki/Chapeltown,_South_Yorkshire" title="Chapeltown, South Yorkshire">Chapeltown</a></td>
+<td><a href="/wiki/City_of_Sheffield" class="mw-redirect" title="City of Sheffield">Sheffield</a>
+</td>
+<td align="center">23,479</td>
+<td align="center">22,665</td>
+<td align="center">-
+</td></tr>
+<tr>
+<td><a href="/wiki/Eckington,_Derbyshire" title="Eckington, Derbyshire">Eckington</a></td>
+<td><a href="/wiki/North_East_Derbyshire" title="North East Derbyshire">North East Derbyshire</a>
+</td>
+<td align="center">-
+</td>
+<td align="center">-</td>
+<td align="center">7,386
+</td></tr>
+<tr>
+<td><a href="/wiki/Killamarsh" title="Killamarsh">Killamarsh</a></td>
+<td>North East Derbyshire
+</td>
+<td align="center">-
+</td>
+<td align="center">-</td>
+<td align="center">9,251
+</td></tr>
+<tr>
+<td><a href="/wiki/Mosborough" class="mw-redirect" title="Mosborough">Mosborough</a>/<a href="/w/index.php?title=Highlane&amp;action=edit&amp;redlink=1" class="new" title="Highlane (page does not exist)">Highlane</a></td>
+<td>Sheffield
+</td>
+<td align="center">15,222</td>
+<td align="center">18,585</td>
+<td align="center">-
+</td></tr>
+<tr>
+<td><a href="/wiki/Rawmarsh" title="Rawmarsh">Rawmarsh</a></td>
+<td>Rotherham
+</td>
+<td align="center">18,085</td>
+<td align="center">18,210</td>
+<td align="center">18,498
+</td></tr>
+<tr>
+<td><a href="/wiki/Rotherham" title="Rotherham">Rotherham</a></td>
+<td>Rotherham
+</td>
+<td align="center">121,380</td>
+<td align="center">117,262</td>
+<td align="center">109,691
+</td></tr>
+<tr>
+<td><a href="/wiki/Sheffield" title="Sheffield">Sheffield</a></td>
+<td>Sheffield
+</td>
+<td align="center">431,607</td>
+<td align="center">439,866</td>
+<td align="center">518,090
+</td></tr>
+<tr>
+<td><a href="/wiki/Swallownest" title="Swallownest">Swallownest</a></td>
+<td>Rotherham
+</td>
+<td align="center">-
+</td>
+<td align="center">-</td>
+<td align="center">15,022
+</td></tr>
+<tr>
+<td><a href="/wiki/Thorpe_Hesley" title="Thorpe Hesley">Thorpe Hesley</a></td>
+<td>Rotherham
+</td>
+<td align="center">-
+</td>
+<td align="center">-</td>
+<td align="center">4,427
+</td></tr>
+<tr>
+<td colspan="2"><b>Total population</b>
+</td>
+<td align="center"><b>633,362</b></td>
+<td align="center"><b>640,720</b></td>
+<td align="center"><b>685,369</b>
+</td></tr>
+<tr>
+<td colspan="2"><i>Percentage change</i>
+</td>
+<td align="center">-</td>
+<td align="center"><i>+1.17%</i></td>
+<td align="center"><i>+6.97%</i>
+</td></tr></tbody></table>
+<p><b>Notes</b>:<small>
+</small></p><small><ul><li><a href="/wiki/Aughton,_South_Yorkshire" title="Aughton, South Yorkshire">Aughton</a> is included under the Swallownest subdivision in the 2011 census.</li>
+<li><a href="/wiki/Beighton" class="mw-redirect" title="Beighton">Beighton</a> and <a href="/wiki/Mosborough" class="mw-redirect" title="Mosborough">Mosborough</a>/<a href="/w/index.php?title=Highlane&amp;action=edit&amp;redlink=1" class="new" title="Highlane (page does not exist)">Highlane</a> is included under the Sheffield subdivision in the 2011 census.</li>
+<li><a href="/wiki/Chapeltown,_South_Yorkshire" title="Chapeltown, South Yorkshire">Chapeltown</a> was no longer considered part of the Sheffield Urban Area according to the 2011 census.</li>
+<li><a href="/wiki/Killamarsh" title="Killamarsh">Killamarsh</a>, <a href="/wiki/Thorpe_Hesley" title="Thorpe Hesley">Thorpe Hesley</a> and <a href="/wiki/Eckington,_Derbyshire" title="Eckington, Derbyshire">Eckington</a> were separate urban areas in the 1991/2001 censuses.</li>
+<li><a href="/wiki/Catcliffe" title="Catcliffe">Catcliffe</a> was included under the Rotherham subdivision in the 1991/2001 censuses but separated for the 2011 census.</li></ul></small><small></small><p><small></small>
+</p>
+<h2><span class="mw-headline" id="Nearby_Places">Nearby Places</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sheffield_urban_area&amp;action=edit&amp;section=2" title="Edit section: Nearby Places">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Settlements very close to the conurbation but not included in the official statistics include <a href="/w/index.php?title=Warncliffe_Side&amp;action=edit&amp;redlink=1" class="new" title="Warncliffe Side (page does not exist)">Warncliffe Side</a> and <a href="/wiki/Oughtibridge" title="Oughtibridge">Oughtibridge</a>, which are separated from <a href="/wiki/Hillsborough,_South_Yorkshire" class="mw-redirect" title="Hillsborough, South Yorkshire">Hillsborough</a> by <a href="/wiki/Worrall" title="Worrall">Worrall</a> and a half-mile stretch of the <a href="/wiki/A6102_road" class="mw-redirect" title="A6102 road">A6102</a> Middlewood Road North and the towns of <a href="/wiki/Wath_upon_Dearne" class="mw-redirect" title="Wath upon Dearne">Wath upon Dearne</a>, <a href="/wiki/Brampton_Bierlow" title="Brampton Bierlow">Brampton Bierlow</a>, <a href="/wiki/Swinton,_South_Yorkshire" title="Swinton, South Yorkshire">Swinton</a>, <a href="/wiki/Mexborough" title="Mexborough">Mexborough</a>, <a href="/wiki/Darfield,_South_Yorkshire" title="Darfield, South Yorkshire">Darfield</a> and <a href="/wiki/Conisbrough" title="Conisbrough">Conisbrough</a> which are part of the <a href="/wiki/Dearne_Valley" title="Dearne Valley">Dearne Valley</a> Urban Area and are separated from Rawmarsh by the Wentworth Road, with the <a href="/wiki/A633_road" class="mw-redirect" title="A633 road">A633</a> and <a href="/wiki/Dearne_Valley_Line" class="mw-redirect" title="Dearne Valley Line">Dearne Valley</a> railway lines.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><br />
+Slightly further afield, <a href="/wiki/Dronfield" title="Dronfield">Dronfield</a>, in <a href="/wiki/Derbyshire" title="Derbyshire">Derbyshire</a>, is around half a mile away from the <a href="/wiki/Greenhill,_Sheffield" class="mw-redirect" title="Greenhill, Sheffield">Greenhill</a> area of the city along the <a href="/wiki/A61_road" title="A61 road">A61</a> and B6158.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sheffield_urban_area&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_Settlements_in_South_Yorkshire_by_population" class="mw-redirect" title="List of Settlements in South Yorkshire by population">List of Settlements in South Yorkshire by population</a></li>
+<li><a href="/wiki/List_of_conurbations_in_the_United_Kingdom" class="mw-redirect" title="List of conurbations in the United Kingdom">List of conurbations in the United Kingdom</a></li>
+<li><a href="/wiki/List_of_metropolitan_areas_in_the_United_Kingdom" title="List of metropolitan areas in the United Kingdom">List of metropolitan areas in the United Kingdom</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sheffield_urban_area&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-BUA-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-BUA_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BUA_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BUA_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nomisweb.co.uk/articles/747.aspx">"2011 Census - Built-up areas"</a>. <a href="/wiki/Office_for_National_Statistics" title="Office for National Statistics">ONS</a><span class="reference-accessdate">. Retrieved <span class="nowrap">1 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2011+Census+-+Built-up+areas&amp;rft.pub=ONS&amp;rft_id=http%3A%2F%2Fwww.nomisweb.co.uk%2Farticles%2F747.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASheffield+urban+area" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-excelsheet-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-excelsheet_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-excelsheet_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.statistics.gov.uk/StatBase/Expodata/Spreadsheets/D8271.xls">"Usual Resident population: Census 2001, Key statistics for urban areas (see line 516)"</a>. ONS.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Usual+Resident+population%3A+Census+2001%2C+Key+statistics+for+urban+areas+%28see+line+516%29&amp;rft.pub=ONS&amp;rft_id=http%3A%2F%2Fwww.statistics.gov.uk%2FStatBase%2FExpodata%2FSpreadsheets%2FD8271.xls&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASheffield+urban+area" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Pointer, Grahmam. <a rel="nofollow" class="external text" href="http://www.statistics.gov.uk/downloads/theme_compendia/fom2005/03_FOPM_UrbanAreas.pdf">"Acrobat (PDF) file giving statistics from UK Government"</a> <span class="cs1-format">(PDF)</span>. ONS (www.statistics.gov.uk).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Acrobat+%28PDF%29+file+giving+statistics+from+UK+Government&amp;rft.pub=ONS+%28www.statistics.gov.uk%29&amp;rft.aulast=Pointer&amp;rft.aufirst=Grahmam&amp;rft_id=http%3A%2F%2Fwww.statistics.gov.uk%2Fdownloads%2Ftheme_compendia%2Ffom2005%2F03_FOPM_UrbanAreas.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASheffield+urban+area" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://webarchive.nationalarchives.gov.uk/20060718000856/http://www.statistics.gov.uk/census2001/sheffield_urban_area.asp">"National Statistics Online - Census 2001/1991"</a>. <i>webarchive.nationalarchives.gov.uk</i>. Archived from the original on 2006-07-18<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-10-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=webarchive.nationalarchives.gov.uk&amp;rft.atitle=National+Statistics+Online+-+Census+2001%2F1991&amp;rft_id=http%3A%2F%2Fwww.statistics.gov.uk%2Fcensus2001%2Fsheffield_urban_area.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASheffield+urban+area" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: BOT: original-url status unknown (<a href="/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown">link</a>) </span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.statistics.gov.uk/downloads/census2001/ks_urban_north_part_5.pdf">"Urban North map (part 5)"</a> <span class="cs1-format">(PDF)</span>. ONS.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Urban+North+map+%28part+5%29&amp;rft.pub=ONS&amp;rft_id=http%3A%2F%2Fwww.statistics.gov.uk%2Fdownloads%2Fcensus2001%2Fks_urban_north_part_5.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASheffield+urban+area" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2258
+Cached time: 20180930235529
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.152 seconds
+Real time usage: 0.184 seconds
+Preprocessor visited node count: 360/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 9172/2097152 bytes
+Template argument size: 97/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 13315/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.086/10.000 seconds
+Lua memory usage: 2.52 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  149.563      1 -total
+ 49.46%   73.968      5 Template:Cite_web
+ 38.69%   57.869      1 Template:Coord
+  5.76%    8.620      1 Template:See_also
+  2.24%    3.354      1 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4510547-0!canonical and timestamp 20180930235529 and revision id 822040656
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sheffield_urban_area&amp;oldid=822040656">https://en.wikipedia.org/w/index.php?title=Sheffield_urban_area&amp;oldid=822040656</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Geography_of_Sheffield" title="Category:Geography of Sheffield">Geography of Sheffield</a></li><li><a href="/wiki/Category:Urban_areas_of_England" title="Category:Urban areas of England">Urban areas of England</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown">CS1 maint: BOT: original-url status unknown</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sheffield+urban+area" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sheffield+urban+area" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Sheffield_urban_area" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Sheffield_urban_area" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Sheffield_urban_area">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Sheffield_urban_area&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Sheffield_urban_area&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Sheffield_urban_area" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Sheffield_urban_area" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sheffield_urban_area&amp;oldid=822040656" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sheffield_urban_area&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4523493" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sheffield_urban_area&amp;id=822040656" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sheffield+urban+area">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Sheffield+urban+area&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Sheffield_urban_area&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D1%84%D1%84%D0%B8%D0%BB%D0%B4_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D0%B3%D0%BB%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F)" title="Шеффилд (городская агломерация) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/V%C3%B9ng_%C4%91%C3%B4_th%E1%BB%8B_Sheffield" title="Vùng đô thị Sheffield – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4523493#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 24 January 2018, at 01:47<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Sheffield_urban_area&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.152","walltime":"0.184","ppvisitednodes":{"value":360,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":9172,"limit":2097152},"templateargumentsize":{"value":97,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13315,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  149.563      1 -total"," 49.46%   73.968      5 Template:Cite_web"," 38.69%   57.869      1 Template:Coord","  5.76%    8.620      1 Template:See_also","  2.24%    3.354      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.086","limit":"10.000"},"limitreport-memusage":{"value":2641358,"limit":52428800}},"cachereport":{"origin":"mw2258","timestamp":"20180930235529","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":277,"wgHostname":"mw2258"});});</script>
+	</body>
+</html>

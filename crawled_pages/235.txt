@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Forestle - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Forestle","wgTitle":"Forestle","wgCurRevisionId":842390588,"wgRevisionId":842390588,"wgArticleId":21434190,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["German websites","Defunct internet search engines"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Forestle","wgRelevantArticleId":21434190,"wgRequestId":"W7ATMwrAEDcAAAYn0rAAAABV","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1136516","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Forestle"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Forestle&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Forestle&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Forestle"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Forestle rootpage-Forestle skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Forestle</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Forestle</b> was an ecologically inspired <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engine</a> created by <a href="/w/index.php?title=Christian_Kroll&amp;action=edit&amp;redlink=1" class="new" title="Christian Kroll (page does not exist)">Christian Kroll</a>, <a href="/wiki/Wittenberg" title="Wittenberg">Wittenberg</a>, Germany, in 2008 and discontinued in 2011. Forestle supported rainforest conservation through donations of ad revenue and aimed to reduce <a href="/wiki/CO2_emissions" class="mw-redirect" title="CO2 emissions">CO2 emissions</a>. It is quite similar to the search engine Ecosia, which plants new trees with its ad revenue. Forestle was briefly associated with <a href="/wiki/Google" title="Google">Google</a> before associating with <a href="/wiki/Yahoo" class="mw-redirect" title="Yahoo">Yahoo</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Contributions_to_sustainability"><span class="tocnumber">1</span> <span class="toctext">Contributions to sustainability</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Features"><span class="tocnumber">2</span> <span class="toctext">Features</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Utopia_Award"><span class="tocnumber">3</span> <span class="toctext">Utopia Award</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Search_engine_partners"><span class="tocnumber">4</span> <span class="toctext">Search engine partners</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Forestle_Discontinued"><span class="tocnumber">5</span> <span class="toctext">Forestle Discontinued</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Contributions_to_sustainability">Contributions to sustainability</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Forestle&amp;action=edit&amp;section=1" title="Edit section: Contributions to sustainability">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Forestle saves 0.1 square meters (about 0.12 square yards) of <a href="/wiki/Rain_forest" class="mw-redirect" title="Rain forest">rain forest</a> per search event. It guarantees to donate 90% of its advertisement revenue to the <b>Adopt an Acre</b> program of is partner organization <b><a href="/wiki/The_Nature_Conservancy" title="The Nature Conservancy">The Nature Conservancy</a></b>. The Nature Conservancy uses these donations by Forestle to sustain rain forests. As of December 9, 2009, about 2,910,000 square meters of rain forest have been saved.<sup id="cite_ref-forestle-area-protected_1-0" class="reference"><a href="#cite_note-forestle-area-protected-1">&#91;1&#93;</a></sup> As of November 20, 2010 about 9,250,000 square meters have been saved.
+</p><p>A Forestle search is also essentially CO<sub>2</sub>-neutral, as Forestle.org offsets the carbon-dioxide emissions caused by electricity consumed by all Forestle servers, the network infrastructure as well as the computers of each user by purchasing an equivalent amount of <a href="/wiki/Renewable_energy" title="Renewable energy">renewable energy</a> certificates.<sup id="cite_ref-proofCO2_2-0" class="reference"><a href="#cite_note-proofCO2-2">&#91;2&#93;</a></sup> The certificates are purchased from a part of the 10% of revenue left after conserving rain forest. This makes Forestle one of the few web search sites that are green certified.
+</p><p>The number of search requests on Forestle.org continues to increase significantly:<sup id="cite_ref-monthly-report_3-0" class="reference"><a href="#cite_note-monthly-report-3">&#91;3&#93;</a></sup> Within two months, it increased more than sixfold from about 4,000 per day on average in December 2008 to more than 24,000 per day in February 2009. The report about Forestle in a major German newspaper<sup id="cite_ref-FrankfurterRundschau_4-0" class="reference"><a href="#cite_note-FrankfurterRundschau-4">&#91;4&#93;</a></sup> end of February 2009 transiently boosted the number of search events on Forestle.org within a week (3 March 2009) close to its all-time maximum.<sup id="cite_ref-Alexa_5-0" class="reference"><a href="#cite_note-Alexa-5">&#91;5&#93;</a></sup> As of December 2009, the number of search events exceeds 200,000 per day.
+</p><p>The degree of impact of Forestle.org and similar kinds of 'green' search engines is discussed; the (now removed) note on Forestle to not click on advertisements to 'help' achieving larger advertisement revenues was particularly criticized.<sup id="cite_ref-degreeOfImpact_6-0" class="reference"><a href="#cite_note-degreeOfImpact-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Features">Features</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Forestle&amp;action=edit&amp;section=2" title="Edit section: Features">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The site pioneers a thumbnail <b>website preview</b> for all search results. Moreover, it offers a search with so-called <b>indicators</b>, for instance, one may directly search for '<a href="/wiki/Basic_Income" class="mw-redirect" title="Basic Income">Basic Income</a>' on Wikipedia (instead of the entire WWW) by typing 'Wikipedia::Basic Income'.<sup id="cite_ref-indicator_7-0" class="reference"><a href="#cite_note-indicator-7">&#91;7&#93;</a></sup> The language chosen for indicator search is automatically associated, so a search on the US web site  <a rel="nofollow" class="external free" href="http://us.Forestle.org">http://us.Forestle.org</a> or on the British web site <a rel="nofollow" class="external free" href="http://uk.Forestle.org">http://uk.Forestle.org</a> leads to a search on English Wikipedia <a class="external free" href="http://en.wikipedia.org">http://en.wikipedia.org</a> and a search on the German web site <a rel="nofollow" class="external free" href="http://de.Forestle.org">http://de.Forestle.org</a> (or on the Austrian Website <a rel="nofollow" class="external free" href="http://at.Forestle.org">http://at.Forestle.org</a>)  leads a search on German Wikipedia <a class="external free" href="http://de.wikipedia.org">http://de.wikipedia.org</a>. Forestle also provides several browser plugins, can be added to iGoogle and is available in English and German (full versions) as well as in Spanish and Dutch (details partially in English)
+.
+</p>
+<h2><span class="mw-headline" id="Utopia_Award">Utopia Award</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Forestle&amp;action=edit&amp;section=3" title="Edit section: Utopia Award">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On November 27, 2009, Forestle received the Utopia Award<sup id="cite_ref-forestleUtopia2009_8-0" class="reference"><a href="#cite_note-forestleUtopia2009-8">&#91;8&#93;</a></sup> as an exemplary organisation enabling us to live more sustainably. The Jury emphasizes that Forestle "offers a simple and strong possibility to contribute to protect existing rain forest through the use of an everyday [...] service" and that "thereby Forestle unfolds a high effectiveness and sharpens the consumers' sense for the impact of consumer behavior".<sup id="cite_ref-forestleUtopia2009reason_9-0" class="reference"><a href="#cite_note-forestleUtopia2009reason-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Search_engine_partners">Search engine partners</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Forestle&amp;action=edit&amp;section=4" title="Edit section: Search engine partners">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Forestle was associated to <a href="/wiki/Google" title="Google">Google</a> until Google revoked the site's search functionality after four days due to a dispute over whether their terms of service were being broken.<sup id="cite_ref-google_10-0" class="reference"><a href="#cite_note-google-10">&#91;10&#93;</a></sup> Forestle.org states that Google did not actually give reasons for stopping the association.<sup id="cite_ref-forestlevsgoogle_11-0" class="reference"><a href="#cite_note-forestlevsgoogle-11">&#91;11&#93;</a></sup> At the time, Forestle posted a message on their website stating that Google had contacted them and explained the reason for banning Forestle from using their Google Custom Search.<sup id="cite_ref-google_10-1" class="reference"><a href="#cite_note-google-10">&#91;10&#93;</a></sup> The action by Google to not further support Forestle immediately drew international attention.<sup id="cite_ref-immediateattentionInquirer_12-0" class="reference"><a href="#cite_note-immediateattentionInquirer-12">&#91;12&#93;</a></sup><sup id="cite_ref-immediateattentionSoftPedia_13-0" class="reference"><a href="#cite_note-immediateattentionSoftPedia-13">&#91;13&#93;</a></sup> Details about the conflict between Google and Forestle are debated.<sup id="cite_ref-discussion_14-0" class="reference"><a href="#cite_note-discussion-14">&#91;14&#93;</a></sup> Forestle became associated with <a href="/wiki/Yahoo" class="mw-redirect" title="Yahoo">Yahoo</a> later.<sup id="cite_ref-thumbnail_15-0" class="reference"><a href="#cite_note-thumbnail-15">&#91;15&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Forestle_Discontinued">Forestle Discontinued</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Forestle&amp;action=edit&amp;section=5" title="Edit section: Forestle Discontinued">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Forestle was discontinued and redirected to a similar search engine <a href="/wiki/Ecosia" title="Ecosia">Ecosia</a> on January 1 2011.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Forestle&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Blackle.com" class="mw-redirect" title="Blackle.com">Blackle.com</a></li>
+<li><a href="/wiki/Ecosia" title="Ecosia">Ecosia</a></li>
+<li><a href="/wiki/List_of_search_engines" title="List of search engines">List of search engines</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Forestle&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-forestle-area-protected-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-forestle-area-protected_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://uk.forestle.org/">"Area protected so far"</a>. <i>Forestle.org and The Nature Conservatory</i>. 2009-09-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Area+protected+so+far&amp;rft.pub=%27%27Forestle.org+and+The+Nature+Conservatory%27%27&amp;rft.date=2009-09-14&amp;rft_id=http%3A%2F%2Fuk.forestle.org%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AForestle" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-proofCO2-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-proofCO2_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.co2stats.com/certpro.php?s=1342&amp;ref=http://www.forestle.org">"<i>CO<sub>2</sub> offset certified by renewable energy certificates</i>"</a>. <i>CO2stats.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CO%3Csub%3E2%3C%2Fsub%3E+offset+certified+by+renewable+energy+certificates&amp;rft.pub=%27%27CO2stats.com%27%27&amp;rft_id=http%3A%2F%2Fwww.co2stats.com%2Fcertpro.php%3Fs%3D1342%26ref%3Dhttp%3A%2F%2Fwww.forestle.org&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AForestle" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-monthly-report-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-monthly-report_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://forestle.org/_lang/en/about_forestle.php#proof">"Monthly report of donations: areas of rain forest actually saved until today"</a>. <i>Forestle.org and The Nature Conservatory</i>. 2009-03-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Monthly+report+of+donations%3A+areas+of+rain+forest+actually+saved+until+today&amp;rft.pub=%27%27Forestle.org+and+The+Nature+Conservatory%27%27&amp;rft.date=2009-03-02&amp;rft_id=http%3A%2F%2Fforestle.org%2F_lang%2Fen%2Fabout_forestle.php%23proof&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AForestle" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-FrankfurterRundschau-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-FrankfurterRundschau_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090301164852/http://www.fr-online.de/in_und_ausland/multimedia/aktuell/1681977_Gruener-googeln.html">"<i>Grüner googeln?</i>"</a>. <i>Frankfurter Rundschau</i>. 2009-02-27. Archived from <a rel="nofollow" class="external text" href="http://www.fr-online.de/in_und_ausland/multimedia/aktuell/1681977_Gruener-googeln.html">the original</a> on 2009-03-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gr%C3%BCner+googeln%3F&amp;rft.pub=%27%27Frankfurter+Rundschau%27%27&amp;rft.date=2009-02-27&amp;rft_id=http%3A%2F%2Fwww.fr-online.de%2Fin_und_ausland%2Fmultimedia%2Faktuell%2F1681977_Gruener-googeln.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AForestle" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Alexa-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Alexa_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.alexa.com/data/details/traffic_details/forestle.org">"<i>Traffic History Graph for forestle.org</i>"</a>. <i>Alexa.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Traffic+History+Graph+for+forestle.org&amp;rft.pub=%27%27Alexa.com%27%27&amp;rft_id=http%3A%2F%2Fwww.alexa.com%2Fdata%2Fdetails%2Ftraffic_details%2Fforestle.org&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AForestle" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-degreeOfImpact-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-degreeOfImpact_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://theaussieseo.com/2013/05/15/analysis-impact-eco-friendly-search-engines/">"Analysis: The impact of eco-friendly search engines - Can using a 'green' search engine save the planet?"</a>. <i>businessGreen</i>. 2009-01-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Analysis%3A+The+impact+of+eco-friendly+search+engines+-+Can+using+a+%27green%27+search+engine+save+the+planet%3F&amp;rft.pub=%27%27businessGreen%27%27&amp;rft.date=2009-01-29&amp;rft_id=http%3A%2F%2Ftheaussieseo.com%2F2013%2F05%2F15%2Fanalysis-impact-eco-friendly-search-engines%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AForestle" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-indicator-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-indicator_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://theaussieseo.com/2013/05/15/protect-rainforest-wrestle-loggers-forestle/">"Protect the Rainforest Wrestle Loggers! Forestle"</a>. <i>AltSearchEngines</i>. 2008-08-28<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Protect+the+Rainforest+Wrestle+Loggers%21+Forestle&amp;rft.pub=%27%27AltSearchEngines%27%27&amp;rft.date=2008-08-28&amp;rft_id=http%3A%2F%2Ftheaussieseo.com%2F2013%2F05%2F15%2Fprotect-rainforest-wrestle-loggers-forestle%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AForestle" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-forestleUtopia2009-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-forestleUtopia2009_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.netzeitung.de/spezial/globalvillage/1521759.html">"Utopia Award for Forestle &amp; Co (in German)"</a>. <i>netzeitung.de</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Utopia+Award+for+Forestle+%26+Co+%28in+German%29&amp;rft.pub=%27%27netzeitung.de%27%27&amp;rft_id=http%3A%2F%2Fwww.netzeitung.de%2Fspezial%2Fglobalvillage%2F1521759.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AForestle" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-forestleUtopia2009reason-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-forestleUtopia2009reason_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://award.utopia.de/utopia-award-2009/nominierungen09/abtimmungpublikumspreis">"Utopia Audiency Award (in German)"</a>. <i>award.utopia.de</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Utopia+Audiency+Award+%28in+German%29&amp;rft.pub=%27%27award.utopia.de%27%27&amp;rft_id=http%3A%2F%2Faward.utopia.de%2Futopia-award-2009%2Fnominierungen09%2Fabtimmungpublikumspreis&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AForestle" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-google-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-google_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-google_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.webpronews.com/topnews/2008/09/02/google-youre-not-saving-the-rain-forests-that-way">"Google: You're Not Saving the Rain Forests That Way!"</a>. <i>WebProNews</i>. 2008-09-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Google%3A+You%27re+Not+Saving+the+Rain+Forests+That+Way%21&amp;rft.pub=%27%27WebProNews%27%27&amp;rft.date=2008-09-02&amp;rft_id=http%3A%2F%2Fwww.webpronews.com%2Ftopnews%2F2008%2F09%2F02%2Fgoogle-youre-not-saving-the-rain-forests-that-way&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AForestle" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-forestlevsgoogle-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-forestlevsgoogle_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://forestle.org/_lang/en/faq.php#13">"Why has Forestle not partnered with Google instead of Yahoo?"</a>. <i>Forestle.org, FAQs</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Why+has+Forestle+not+partnered+with+Google+instead+of+Yahoo%3F&amp;rft.pub=%27%27Forestle.org%2C+FAQs%27%27&amp;rft_id=http%3A%2F%2Fforestle.org%2F_lang%2Fen%2Ffaq.php%2313&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AForestle" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-immediateattentionInquirer-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-immediateattentionInquirer_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.theinquirer.net/inquirer/news/448/1036448/google-dumps-forestle">"Google Dumps Forestle"</a>. <i>The Inquirer</i>. 2008-09-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Google+Dumps+Forestle&amp;rft.pub=%27%27The+Inquirer%27%27&amp;rft.date=2008-09-02&amp;rft_id=http%3A%2F%2Fwww.theinquirer.net%2Finquirer%2Fnews%2F448%2F1036448%2Fgoogle-dumps-forestle&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AForestle" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-immediateattentionSoftPedia-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-immediateattentionSoftPedia_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.softpedia.com/news/Startup-Claims-that-Google-Is-Jealous-on-It-92823.shtml">"Startup Claims Google Is Jealous"</a>. <i>Softpedia</i>. 2008-09-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Startup+Claims+Google+Is+Jealous&amp;rft.pub=%27%27Softpedia%27%27&amp;rft.date=2008-09-02&amp;rft_id=http%3A%2F%2Fnews.softpedia.com%2Fnews%2FStartup-Claims-that-Google-Is-Jealous-on-It-92823.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AForestle" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-discussion-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-discussion_14-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://arstechnica.com/old/content/2008/09/google-pulls-the-plug-on-eco-friendly-search-engine-forestle.ars">"Google pulls the plug on eco-friendly search engine Forestle"</a>. <i>ars technica</i>. 2008-09-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Google+pulls+the+plug+on+eco-friendly+search+engine+Forestle&amp;rft.pub=%27%27ars+technica%27%27&amp;rft.date=2008-09-01&amp;rft_id=https%3A%2F%2Farstechnica.com%2Fold%2Fcontent%2F2008%2F09%2Fgoogle-pulls-the-plug-on-eco-friendly-search-engine-forestle.ars&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AForestle" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-thumbnail-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-thumbnail_15-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://arstechnica.com/web/news/2009/01/forestle-eco-friendly-search-engine-returns-via-yahoo.ars">"Forestle eco-friendly search engine returns via Yahoo"</a>. <i>ars technica</i>. 2009-01-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Forestle+eco-friendly+search+engine+returns+via+Yahoo&amp;rft.pub=%27%27ars+technica%27%27&amp;rft.date=2009-01-21&amp;rft_id=https%3A%2F%2Farstechnica.com%2Fweb%2Fnews%2F2009%2F01%2Fforestle-eco-friendly-search-engine-returns-via-yahoo.ars&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AForestle" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://forestle.org/_files/switch_forestle_ecosia_en.pdf">Why is Forestle being redirected to Ecosia from January 1 2011&#160;?</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Forestle&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://forestle.org">Forestle.org</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Web_search_engines" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Web_search_engines" title="Template:Web search engines"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Web_search_engines" title="Template talk:Web search engines"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_search_engines&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Web_search_engines" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_search_engine" title="Web search engine">Web search engines</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Active</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AOL" title="AOL">AOL</a></li>
+<li><a href="/wiki/Ahmia" title="Ahmia">Ahmia</a></li>
+<li><a href="/wiki/Ask.com" title="Ask.com">Ask.com</a></li>
+<li><a href="/wiki/Baidu" title="Baidu">Baidu</a></li>
+<li><a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a></li>
+<li><a href="/wiki/Blackle" title="Blackle">Blackle</a></li>
+<li><a href="/wiki/Dogpile" title="Dogpile">Dogpile</a></li>
+<li><a href="/wiki/DuckDuckGo" title="DuckDuckGo">DuckDuckGo</a></li>
+<li><a href="/wiki/Ecosia" title="Ecosia">Ecosia</a></li>
+<li><a href="/wiki/Exalead" title="Exalead">Exalead</a></li>
+<li><a href="/wiki/Excite" title="Excite">Excite</a></li>
+<li><a href="/wiki/GenieKnows" title="GenieKnows">GenieKnows</a></li>
+<li><a href="/wiki/Gigablast" title="Gigablast">Gigablast</a></li>
+<li><a href="/wiki/Google_Search" title="Google Search">Google</a></li>
+<li><a href="/wiki/Info.com" title="Info.com">Info.com</a></li>
+<li><a href="/wiki/Ixquick" title="Ixquick">Ixquick</a></li>
+<li><a href="/wiki/Lycos" title="Lycos">Lycos</a></li>
+<li><a href="/wiki/Naver" title="Naver">Naver</a></li>
+<li><a href="/wiki/Qwant" title="Qwant">Qwant</a></li>
+<li><a href="/wiki/Parsijoo" title="Parsijoo">Parsijoo</a></li>
+<li><a href="/wiki/Picollator" title="Picollator">Picollator</a></li>
+<li><a href="/wiki/SAPO_(company)" title="SAPO (company)">SAPO</a></li>
+<li><a href="/wiki/Scout_(travel_website)" title="Scout (travel website)">Scout</a></li>
+<li><a href="/wiki/Searx" title="Searx">Searx</a></li>
+<li><a href="/wiki/Seznam.cz" title="Seznam.cz">Seznam.cz</a></li>
+<li><a href="/wiki/Sogou" title="Sogou">Sogou</a></li>
+<li><a href="/wiki/Sputnik_(search_engine)" title="Sputnik (search engine)">Sputnik</a></li>
+<li><a href="/wiki/Ixquick#Startpage.com" title="Ixquick">Startpage</a></li>
+<li><a href="/wiki/WebCrawler" title="WebCrawler">WebCrawler</a></li>
+<li><a href="/wiki/YaCy" title="YaCy">YaCy</a></li>
+<li><a href="/wiki/Yahoo!_Search" title="Yahoo! Search">Yahoo!</a></li>
+<li><a href="/wiki/Yandex_Search" title="Yandex Search">Yandex</a></li>
+<li><a href="/wiki/Yooz" title="Yooz">Yooz</a></li>
+<li><a href="/wiki/Youdao" title="Youdao">Youdao</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Inactive</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/123people" title="123people">123people</a></li>
+<li><a href="/wiki/A9.com" title="A9.com">A9.com</a></li>
+<li><a href="/wiki/Aliweb" title="Aliweb">Aliweb</a></li>
+<li><a href="/wiki/AlltheWeb" title="AlltheWeb">AlltheWeb</a></li>
+<li><a href="/wiki/AltaVista" title="AltaVista">AltaVista</a></li>
+<li><a href="/wiki/Blekko" title="Blekko">Blekko</a></li>
+<li><a href="/wiki/Boogami" title="Boogami">Boogami</a></li>
+<li><a href="/wiki/Cuil" title="Cuil">Cuil</a></li>
+<li><a href="/wiki/Empas" title="Empas">Empas</a></li>
+<li><a class="mw-selflink selflink">Forestle</a></li>
+<li><a href="/wiki/Go.com" title="Go.com">Go.com</a></li>
+<li><a href="/wiki/Infoseek" title="Infoseek">Infoseek</a></li>
+<li><a href="/wiki/Inktomi" title="Inktomi">Inktomi</a></li>
+<li><a href="/wiki/JumpStation" title="JumpStation">JumpStation</a></li>
+<li><a href="/wiki/LeapFish" title="LeapFish">LeapFish</a></li>
+<li><a href="/wiki/Mugurdy" title="Mugurdy">Mugurdy</a></li>
+<li><a href="/wiki/Northern_Light_Group" title="Northern Light Group">Northern Light</a></li>
+<li><a href="/wiki/Powerset_(company)" title="Powerset (company)">Powerset</a></li>
+<li><a href="/wiki/Scroogle" class="mw-redirect" title="Scroogle">Scroogle</a></li>
+<li><a href="/wiki/SearchMe" title="SearchMe">SearchMe</a></li>
+<li><a href="/wiki/Soso.com" class="mw-redirect" title="Soso.com">Soso.com</a></li>
+<li><a href="/wiki/Teoma" title="Teoma">Teoma</a></li>
+<li><a href="/wiki/Viewzi" title="Viewzi">Viewzi</a></li>
+<li><a href="/wiki/Vivisimo" title="Vivisimo">Vivisimo</a></li>
+<li><a href="/wiki/Volunia" title="Volunia">Volunia</a></li>
+<li><a href="/wiki/W3Catalog" title="W3Catalog">W3Catalog</a></li>
+<li><a href="/wiki/Wikiseek" title="Wikiseek">Wikiseek</a></li>
+<li><a href="/wiki/Yebol" title="Yebol">Yebol</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/List_of_search_engines" title="List of search engines">Complete list</a></li>
+<li><a href="/wiki/Comparison_of_web_search_engines" title="Comparison of web search engines">Comparison</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2229
+Cached time: 20180929190642
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.208 seconds
+Real time usage: 0.233 seconds
+Preprocessor visited node count: 656/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 30241/2097152 bytes
+Template argument size: 72/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 40258/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.103/10.000 seconds
+Lua memory usage: 2.72 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  169.142      1 -total
+ 89.17%  150.816      1 Template:Reflist
+ 74.13%  125.386     15 Template:Cite_web
+ 10.75%   18.180      1 Template:Web_search_engines_navbox
+  8.02%   13.563      1 Template:Navbox
+  1.50%    2.533      1 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:21434190-0!canonical and timestamp 20180929190642 and revision id 842390588
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Forestle&amp;oldid=842390588">https://en.wikipedia.org/w/index.php?title=Forestle&amp;oldid=842390588</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:German_websites" title="Category:German websites">German websites</a></li><li><a href="/wiki/Category:Defunct_internet_search_engines" title="Category:Defunct internet search engines">Defunct internet search engines</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Forestle" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Forestle" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Forestle" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Forestle" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Forestle">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Forestle&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Forestle&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Forestle" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Forestle" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Forestle&amp;oldid=842390588" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Forestle&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1136516" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Forestle&amp;id=842390588" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Forestle">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Forestle&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Forestle&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Forestle" title="Forestle – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Forestle" title="Forestle – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Forestle" title="Forestle – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1136516#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 22 May 2018, at 04:18<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Forestle&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.208","walltime":"0.233","ppvisitednodes":{"value":656,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":30241,"limit":2097152},"templateargumentsize":{"value":72,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":40258,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  169.142      1 -total"," 89.17%  150.816      1 Template:Reflist"," 74.13%  125.386     15 Template:Cite_web"," 10.75%   18.180      1 Template:Web_search_engines_navbox","  8.02%   13.563      1 Template:Navbox","  1.50%    2.533      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.103","limit":"10.000"},"limitreport-memusage":{"value":2850250,"limit":52428800}},"cachereport":{"origin":"mw2229","timestamp":"20180929190642","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":93,"wgHostname":"mw2256"});});</script>
+	</body>
+</html>

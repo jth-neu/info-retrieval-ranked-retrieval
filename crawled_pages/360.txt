@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>blekko - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Blekko","wgTitle":"Blekko","wgCurRevisionId":847089165,"wgRevisionId":847089165,"wgArticleId":29429121,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Use mdy dates from September 2013","Pages using deprecated image syntax","Articles containing potentially dated statements from February 2015","All articles containing potentially dated statements","American websites","Internet properties established in 2007","Defunct internet search engines","IBM acquisitions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Blekko","wgRelevantArticleId":29429121,"wgRequestId":"W7AP-QrAIDMAACflXNcAAACP","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q883722","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/2/2e/Blekko_Screenshot.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Blekko"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Blekko&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Blekko&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Blekko"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Blekko rootpage-Blekko skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">blekko</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><span></span>
+
+</p>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">blekko.com</caption><tbody><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Blekko_Logo.svg" class="image" title="blekko"><img alt="blekko" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Blekko_Logo.svg/220px-Blekko_Logo.svg.png" width="220" height="68" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Blekko_Logo.svg/330px-Blekko_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Blekko_Logo.svg/440px-Blekko_Logo.svg.png 2x" data-file-width="263" data-file-height="81" /></a></td></tr><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Blekko_Screenshot.png" class="image"><img alt="Blekko Screenshot.png" src="//upload.wikimedia.org/wikipedia/en/thumb/2/2e/Blekko_Screenshot.png/220px-Blekko_Screenshot.png" width="220" height="127" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/2e/Blekko_Screenshot.png/330px-Blekko_Screenshot.png 1.5x, //upload.wikimedia.org/wikipedia/en/2/2e/Blekko_Screenshot.png 2x" data-file-width="416" data-file-height="240" /></a><div>Blekko home page</div></td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Type of site</div></th><td>
+<a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">Search engine</a></td></tr><tr><th scope="row">Available&#160;in</th><td>
+English</td></tr><tr><th scope="row">Owner</th><td>
+IBM (International Business Machines)</td></tr><tr><th scope="row">Website</th><td class="url">
+<span class="url"><a rel="nofollow" class="external text" href="https://www.blekko.com">www<wbr />.blekko<wbr />.com</a></span></td></tr><tr><th scope="row"><a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa</a> rank</th><td>
+<img alt="Negative increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/11px-Increase_Negative.svg.png" title="Negative increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/17px-Increase_Negative.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/22px-Increase_Negative.svg.png 2x" data-file-width="300" data-file-height="300" /> 2,247 (February 2015<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Blekko&amp;action=edit">&#91;update&#93;</a></sup>)<sup id="cite_ref-alexa_1-0" class="reference"><a href="#cite_note-alexa-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row">Launched</th><td>
+November 1, 2010</td></tr><tr><th scope="row">Current&#160;status</th><td class="category">
+Defunct (March 27, 2015)</td></tr></tbody></table>
+<p><b>Blekko</b>, trademarked as <b>blekko</b> (lowercase),<sup id="cite_ref-about_2-0" class="reference"><a href="#cite_note-about-2">&#91;2&#93;</a></sup> was a company that provided a <a href="/wiki/Web_search_engine" title="Web search engine">web search engine</a> with the stated goal of providing better search results than those offered by <a href="/wiki/Google_Search" title="Google Search">Google Search</a>, with results gathered from a set of 3 billion trusted webpages and excluding such sites as <a href="/wiki/Content_farm" title="Content farm">content farms</a>. The company's site, launched to the public on November 1, 2010, used <a href="/wiki/Slashtag" title="Slashtag">slashtags</a> to provide results for common searches. Blekko also offered a downloadable search bar. It was acquired by <a href="/wiki/IBM" title="IBM">IBM</a> in March 2015, and the service was discontinued.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Acquisition_and_closure"><span class="tocnumber">1.1</span> <span class="toctext">Acquisition and closure</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Slashtags"><span class="tocnumber">2</span> <span class="toctext">Slashtags</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Features"><span class="tocnumber">3</span> <span class="toctext">Features</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Toolbar"><span class="tocnumber">4</span> <span class="toctext">Toolbar</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Reception"><span class="tocnumber">5</span> <span class="toctext">Reception</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blekko&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The company was co-founded in 2007 by <a href="/wiki/Rich_Skrenta" title="Rich Skrenta">Rich Skrenta</a>, who had created Newhoo, which was acquired by <a href="/wiki/Netscape" title="Netscape">Netscape</a> and renamed as the <a href="/wiki/DMOZ" title="DMOZ">Open Directory Project</a>.<sup id="cite_ref-WSJ_3-0" class="reference"><a href="#cite_note-WSJ-3">&#91;3&#93;</a></sup> Skrenta "is still remembered most for unleashing the <a href="/wiki/Elk_Cloner" title="Elk Cloner">Elk Cloner</a> virus on the world".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> 
+Blekko raised $24 million in <a href="/wiki/Venture_capital" title="Venture capital">venture capital</a> from such individuals as Netscape founder <a href="/wiki/Marc_Andreessen" title="Marc Andreessen">Marc Andreessen</a> and <a href="/wiki/Ron_Conway" title="Ron Conway">Ron Conway</a>, as well as from <a href="/wiki/U.S._Venture_Partners" title="U.S. Venture Partners">U.S. Venture Partners</a> and CMEA Capital.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> The company's goal was to be able to provide useful search results without the extraneous links often provided by Google. Individuals who enter searches for such frequently searched categories as cars, finance, health and hotels received results prescreened by Blekko editors who used what the <i><a href="/wiki/New_York_Times" class="mw-redirect" title="New York Times">New York Times</a></i> described as "<a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>-style policing" to weed out pages created by content farms and focus on results from professionals.<sup id="cite_ref-NYT_6-0" class="reference"><a href="#cite_note-NYT-6">&#91;6&#93;</a></sup> Use of slashtags restricted the set of search results to those matching the specified characteristic and a slashtag was to be automatically added for search categories with prescreened results.<sup id="cite_ref-CNN_7-0" class="reference"><a href="#cite_note-CNN-7">&#91;7&#93;</a></sup> Queries related to personal health were limited to a prescreened list of sites that Blekko editors had determined to be trustworthy, excluding many sites that rank highly in Google searches.<sup id="cite_ref-WSJ_3-1" class="reference"><a href="#cite_note-WSJ-3">&#91;3&#93;</a></sup> As of Blekko's launch date, its 8,000 beta editors had developed 3,000 slashtags corresponding to the site's most frequent searches.<sup id="cite_ref-CNN_7-1" class="reference"><a href="#cite_note-CNN-7">&#91;7&#93;</a></sup> The company hoped to use editors to develop prepared lists of the 50 sites that best match its 100,000 most frequent search targets.<sup id="cite_ref-WSJ_3-2" class="reference"><a href="#cite_note-WSJ-3">&#91;3&#93;</a></sup> Additional tools allowed users to see the IP address that a website is running on and let registered users label a site as spam.<sup id="cite_ref-Dvorak_8-0" class="reference"><a href="#cite_note-Dvorak-8">&#91;8&#93;</a></sup>
+</p><p>At the time, Blekko announced plans to earn revenue by selling ads based on slashtags and search results. The company also planned to provide data on its algorithm for ranking search results, including details for inbound links to specific sites.<sup id="cite_ref-NYT_6-1" class="reference"><a href="#cite_note-NYT-6">&#91;6&#93;</a></sup>
+</p><p>As part of a permanent post in Blekko's help section was the following "Web search bill of rights":<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ol><li>Search shall be open</li>
+<li>Search results shall involve people</li>
+<li>Ranking data shall not be kept secret</li>
+<li>Web data shall be readily available</li>
+<li>There is no one-size-fits-all for search</li>
+<li>Advanced search shall be accessible</li>
+<li>Search engine tools shall be open to all</li>
+<li>Search and community go hand-in-hand</li>
+<li><a href="/wiki/Spamming" title="Spamming">Spam</a> does not belong in search results</li>
+<li><a href="/wiki/Privacy" title="Privacy">Privacy</a> of searchers shall not be violated</li></ol>
+</div>
+<p>One writer referred to the bill of rights as "what we assume is a poke at Google".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-Observer11_11-0" class="reference"><a href="#cite_note-Observer11-11">&#91;11&#93;</a></sup>
+</p><p>In 2011 Blekko announced blocking "content farmy sites", to reduce spam, in line with its bill of rights.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p><p>In May 2012 <a href="/wiki/Mozilla" title="Mozilla">Mozilla</a> announced an "instant search" browser <a href="/wiki/Plug-in_(computing)" title="Plug-in (computing)">plugin</a> for Firefox designed to cache repetitive search requests, in partnership with Blekko.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>In August 2012 Blekko put all its SEO statistics behind a <a href="/wiki/Paywall" title="Paywall">paywall</a>,<sup id="cite_ref-SEOpay_14-0" class="reference"><a href="#cite_note-SEOpay-14">&#91;14&#93;</a></sup> despite previously declaring that "ranking data shall not be kept secret"<sup id="cite_ref-Observer11_11-1" class="reference"><a href="#cite_note-Observer11-11">&#91;11&#93;</a></sup> in its bill of rights.<sup id="cite_ref-SEOpay_14-1" class="reference"><a href="#cite_note-SEOpay-14">&#91;14&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Acquisition_and_closure">Acquisition and closure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blekko&amp;action=edit&amp;section=2" title="Edit section: Acquisition and closure">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>IBM bought Blekko and closed the search service on 27 March 2015, redirecting searches to a page announcing "The blekko technology and team have joined IBM Watson!" and linking to a blog post announcing that the blekko service was closed, with blekko's web-crawling abilities to be integrated into <a href="/wiki/Watson_(computer)" title="Watson (computer)">IBM Watson</a>, adding advanced Web-crawling, categorization and intelligent filtering technology.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Slashtags">Slashtags</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blekko&amp;action=edit&amp;section=3" title="Edit section: Slashtags">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Blekko used an initiative called slashtags,<sup id="cite_ref-about_2-1" class="reference"><a href="#cite_note-about-2">&#91;2&#93;</a></sup> consisting of a text tag preceded by a "/" slash character, to allow ease of searching and categorise searches. System and pre-defined slashtags allowed users to start searching right away. Users could create slashtags after signup, to perform custom-sorted searches and to reduce spam.<sup id="cite_ref-NYT_6-2" class="reference"><a href="#cite_note-NYT-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Features">Features</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blekko&amp;action=edit&amp;section=4" title="Edit section: Features">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following features were available to all users:
+</p>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a href="/wiki/Search_engine_optimization" title="Search engine optimization">Search engine optimization</a> statistics. From 2012 subject to payment.<sup id="cite_ref-SEOpay_14-2" class="reference"><a href="#cite_note-SEOpay-14">&#91;14&#93;</a></sup></li>
+<li>Linking pages (in and out statistics)</li>
+<li><a href="/wiki/IP_address" title="IP address">IP address</a> lookup</li>
+<li><a href="/wiki/Web_cache" title="Web cache">Cached</a> pages</li>
+<li>Tagging of pages</li>
+<li>Finding <a href="/wiki/Duplicate_content" title="Duplicate content">duplicate content</a></li>
+<li>Comparing sites</li>
+<li><a href="/wiki/Web_crawler" title="Web crawler">Crawl</a> statistics</li>
+<li>Page count</li>
+<li>Location of <a href="/wiki/Robots_exclusion_standard" title="Robots exclusion standard">robots.txt</a></li>
+<li>Cohosted sites</li>
+<li>Page latency</li>
+<li>Page length</li></ul>
+</div>
+<h2><span class="mw-headline" id="Toolbar">Toolbar</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blekko&amp;action=edit&amp;section=5" title="Edit section: Toolbar">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Blekko offered a downloadable <a href="/wiki/Browser_toolbar" title="Browser toolbar">browser toolbar</a> or search bar which changes default search and <a href="/wiki/Home_page" title="Home page">home page</a> URLs of the user's <a href="/wiki/Web_browser" title="Web browser">web browsers</a>.<sup id="cite_ref-blekkobar_16-0" class="reference"><a href="#cite_note-blekkobar-16">&#91;16&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blekko&amp;action=edit&amp;section=6" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 2010, <a href="/wiki/John_C._Dvorak" title="John C. Dvorak">John Dvorak</a> described the site as adding "so much weird dimensionality" to search, and recommended it as "the best out-of-the-chute new engine I've seen in the last 10 years".<sup id="cite_ref-Dvorak_8-1" class="reference"><a href="#cite_note-Dvorak-8">&#91;8&#93;</a></sup>  In Matthew Rogers' review of the site, he found it "slow and cumbersome", and stated that he did not understand the necessity or utility for slashtags.<sup id="cite_ref-Rogers_17-0" class="reference"><a href="#cite_note-Rogers-17">&#91;17&#93;</a></sup>  In his PCMag.com review, Jeffrey L. Wilson expressed approval of some search results, but criticized the site's social features which "bog down the search experience."<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blekko&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-alexa-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-alexa_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.alexa.com/siteinfo/blekko.com">"Blekko.com Site Info"</a>. <a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa Internet</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-04-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Blekko.com+Site+Info&amp;rft.pub=Alexa+Internet&amp;rft_id=https%3A%2F%2Fwww.alexa.com%2Fsiteinfo%2Fblekko.com&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlekko" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-about-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-about_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-about_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://blekko.com/ws/+/about">"About"</a>. blekko.com<span class="reference-accessdate">. Retrieved <span class="nowrap">December 18,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About&amp;rft.pub=blekko.com&amp;rft_id=http%3A%2F%2Fblekko.com%2Fws%2F%2B%2Fabout&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlekko" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-WSJ-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-WSJ_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-WSJ_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-WSJ_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Efrati, Amir. <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/SB10001424052748704477904575586551374128996?mod=googlenews_wsj">"Start-Up Aims at Google: Blekko.com Taps Users to Narrow Results, Avoid Spam Sites"</a>, <i><a href="/wiki/Wall_Street_Journal" class="mw-redirect" title="Wall Street Journal">Wall Street Journal</a></i>, November 1, 2010. Accessed October 31, 2010.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.ctv.ca/CTVNews/SciTech/20070831/virus_prank_070831/">"Prank starts 25 years of computer security woes"</a>. CTV.ca. Associated Press. August 31, 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Prank+starts+25+years+of+computer+security+woes&amp;rft.date=2007-08-31&amp;rft_id=http%3A%2F%2Fwww.ctv.ca%2FCTVNews%2FSciTech%2F20070831%2Fvirus_prank_070831%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlekko" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news">Wollman, Dana (November 2, 2010). <a rel="nofollow" class="external text" href="http://www.news-record.com/content/2010/11/02/article/blekko_launches_human_driven_search_engine">"Blekko launches human-driven search engine"</a>. <i><a href="/wiki/News_%26_Record" title="News &amp; Record">News &amp; Record</a></i>. <a href="/wiki/Associated_Press" title="Associated Press">Associated Press</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 3,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=News+%26+Record&amp;rft.atitle=Blekko+launches+human-driven+search+engine&amp;rft.date=2010-11-02&amp;rft.aulast=Wollman&amp;rft.aufirst=Dana&amp;rft_id=http%3A%2F%2Fwww.news-record.com%2Fcontent%2F2010%2F11%2F02%2Farticle%2Fblekko_launches_human_driven_search_engine&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlekko" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-NYT-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-NYT_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NYT_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-NYT_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Miller, Claire Cain. <a rel="nofollow" class="external text" href="https://www.nytimes.com/2010/11/01/technology/01search.html">"A New Search Engine, Where Less Is More"</a>. <i><a href="/wiki/New_York_Times" class="mw-redirect" title="New York Times">New York Times</a></i>, October 31, 2010. Accessed October 31, 2010.</span>
+</li>
+<li id="cite_note-CNN-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-CNN_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CNN_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Van Grove, Jennifer. "<a rel="nofollow" class="external text" href="http://www.cnn.com/2010/TECH/web/11/01/blekko.search.launch.mashable/?hpt=T2">Alternative search engine Blekko launches</a>", <a href="/wiki/CNN" title="CNN">CNN</a>, November 1, 2010. Accessed November 1, 2010.</span>
+</li>
+<li id="cite_note-Dvorak-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Dvorak_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dvorak_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="/wiki/John_C._Dvorak" title="John C. Dvorak">Dvorak, John C.</a> <a rel="nofollow" class="external text" href="https://www.pcmag.com/article2/0,2817,2371864,00.asp">"Blekko: The Newest Search Engine"</a>, <i><a href="/wiki/PC_Magazine" title="PC Magazine">PC Magazine</a></i>, November 1, 2010. Accessed November 1, 2010.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://help.blekko.com/index.php/what-is-blekko/">"What is Blekko"</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20121107201910/http://help.blekko.com/index.php/what-is-blekko/">Archived</a> November 7, 2012, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.. help.blekko.com. Retrieved September 22, 2013.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">Hales, Paul (November 1, 2010). <a rel="nofollow" class="external text" href="http://www.thinq.co.uk/2010/11/1/new-search-engine-takes-shot-google/">"New Search Engine Takes a Shot at Google"</a>. Thinq.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=New+Search+Engine+Takes+a+Shot+at+Google&amp;rft.pub=Thinq&amp;rft.date=2010-11-01&amp;rft.aulast=Hales&amp;rft.aufirst=Paul&amp;rft_id=http%3A%2F%2Fwww.thinq.co.uk%2F2010%2F11%2F1%2Fnew-search-engine-takes-shot-google%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlekko" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Observer11-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Observer11_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Observer11_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Jeffries, Adrianne (February 1, 2011). <a rel="nofollow" class="external text" href="http://www.observer.com/2011/tech/upstart-search-engine-blekko-blocks-demand-media-and-other-content-farms">"Upstart Search Engine Blekko Blocks Demand Media and Other "Content Farms<span class="cs1-kern-right">"</span>"</a>. <i>New York Observer</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=New+York+Observer&amp;rft.atitle=Upstart+Search+Engine+Blekko+Blocks+Demand+Media+and+Other+%22Content+Farms%22&amp;rft.date=2011-02-01&amp;rft.aulast=Jeffries&amp;rft.aufirst=Adrianne&amp;rft_id=http%3A%2F%2Fwww.observer.com%2F2011%2Ftech%2Fupstart-search-engine-blekko-blocks-demand-media-and-other-content-farms&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlekko" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Schonfeld, Erick (January 31, 2011). <a rel="nofollow" class="external text" href="https://techcrunch.com/2011/01/31/blekko-bans-content-farms/">"Blekko Bans Content Farms Like Demand Media's eHow From Its Search Results"</a>. TechCrunch.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Blekko+Bans+Content+Farms+Like+Demand+Media%27s+eHow+From+Its+Search+Results&amp;rft.pub=TechCrunch&amp;rft.date=2011-01-31&amp;rft.aulast=Schonfeld&amp;rft.aufirst=Erick&amp;rft_id=https%3A%2F%2Ftechcrunch.com%2F2011%2F01%2F31%2Fblekko-bans-content-farms%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlekko" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news">Rosenblatt, Seth (May 22, 2012). <a rel="nofollow" class="external text" href="http://download.cnet.com/8301-2007_4-57439681-12/firefox-flirts-with-blekko-for-instant-search/">"Firefox flirts with Blekko for 'instant' search"</a>. CNET.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Firefox+flirts+with+Blekko+for+%27instant%27+search&amp;rft.date=2012-05-22&amp;rft.aulast=Rosenblatt&amp;rft.aufirst=Seth&amp;rft_id=http%3A%2F%2Fdownload.cnet.com%2F8301-2007_4-57439681-12%2Ffirefox-flirts-with-blekko-for-instant-search%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlekko" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-SEOpay-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-SEOpay_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SEOpay_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-SEOpay_14-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Keays, Roger (August 14, 2012). <a rel="nofollow" class="external text" href="http://sunburntseo.com/blekko-paywall-their-seo-secrets">"Blekko Paywall Their /SEO Secrets"</a>. SunburntSEO.com<span class="reference-accessdate">. Retrieved <span class="nowrap">August 15,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Blekko+Paywall+Their+%2FSEO+Secrets&amp;rft.pub=SunburntSEO.com&amp;rft.date=2012-08-14&amp;rft.aulast=Keays&amp;rft.aufirst=Roger&amp;rft_id=http%3A%2F%2Fsunburntseo.com%2Fblekko-paywall-their-seo-secrets&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlekko" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://asmarterplanet.com/blog/2015/03/better-way-tap-big-data-gusher.html">"Data, Data, Everywhere Data. Now a Better Way to Understand It"</a>. IBM. March 27, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">March 27,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Data%2C+Data%2C+Everywhere+Data.+Now+a+Better+Way+to+Understand+It&amp;rft.pub=IBM&amp;rft.date=2015-03-27&amp;rft_id=http%3A%2F%2Fasmarterplanet.com%2Fblog%2F2015%2F03%2Fbetter-way-tap-big-data-gusher.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlekko" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-blekkobar-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-blekkobar_16-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Watson, Cheralyn (January 12, 2012). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120420214739/http://help.blekko.com/index.php/i-downloaded-the-toolbar-and-some-settings-changed-on-my-ie-browser-how-do-i-change-them-back/">"How do I remove blekko as my homepage and default search engine in Internet Explorer (IE)?"</a>. help.blekko.com. Archived from <a rel="nofollow" class="external text" href="http://help.blekko.com/index.php/i-downloaded-the-toolbar-and-some-settings-changed-on-my-ie-browser-how-do-i-change-them-back/">the original</a> on April 20, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">April 10,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=How+do+I+remove+blekko+as+my+homepage+and+default+search+engine+in+Internet+Explorer+%28IE%29%3F&amp;rft.pub=help.blekko.com&amp;rft.date=2012-01-12&amp;rft.aulast=Watson&amp;rft.aufirst=Cheralyn&amp;rft_id=http%3A%2F%2Fhelp.blekko.com%2Findex.php%2Fi-downloaded-the-toolbar-and-some-settings-changed-on-my-ie-browser-how-do-i-change-them-back%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlekko" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Rogers-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rogers_17-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Rogers, Matthew (November 1, 2010). <a rel="nofollow" class="external text" href="http://downloadsquad.switched.com/2010/11/01/blekko-the-slashtag-search-engine-is-slow-cumbersome-and-ju/">"Blekko, the "Slashtag" search engine is slow, cumbersome, and just plain broken"</a>. DownloadSquad.switched.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Blekko%2C+the+%22Slashtag%22+search+engine+is+slow%2C+cumbersome%2C+and+just+plain+broken&amp;rft.pub=DownloadSquad.switched.com&amp;rft.date=2010-11-01&amp;rft.au=Rogers%2C+Matthew&amp;rft_id=http%3A%2F%2Fdownloadsquad.switched.com%2F2010%2F11%2F01%2Fblekko-the-slashtag-search-engine-is-slow-cumbersome-and-ju%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlekko" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web">Wilson, Jeffrey L. (November 3, 2010). <a rel="nofollow" class="external text" href="https://www.pcmag.com/article2/0,2817,2372082,00.asp">"Blekko"</a>. PCMag.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Blekko&amp;rft.pub=PCMag.com&amp;rft.date=2010-11-03&amp;rft.au=Wilson%2C+Jeffrey+L.&amp;rft_id=https%3A%2F%2Fwww.pcmag.com%2Farticle2%2F0%2C2817%2C2372082%2C00.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlekko" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blekko&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://blekko.com">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110309090030/http://blog.blekko.com/">Official blog</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Web_search_engines" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Web_search_engines" title="Template:Web search engines"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Web_search_engines" title="Template talk:Web search engines"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_search_engines&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Web_search_engines" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_search_engine" title="Web search engine">Web search engines</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Active</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AOL" title="AOL">AOL</a></li>
+<li><a href="/wiki/Ahmia" title="Ahmia">Ahmia</a></li>
+<li><a href="/wiki/Ask.com" title="Ask.com">Ask.com</a></li>
+<li><a href="/wiki/Baidu" title="Baidu">Baidu</a></li>
+<li><a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a></li>
+<li><a href="/wiki/Blackle" title="Blackle">Blackle</a></li>
+<li><a href="/wiki/Dogpile" title="Dogpile">Dogpile</a></li>
+<li><a href="/wiki/DuckDuckGo" title="DuckDuckGo">DuckDuckGo</a></li>
+<li><a href="/wiki/Ecosia" title="Ecosia">Ecosia</a></li>
+<li><a href="/wiki/Exalead" title="Exalead">Exalead</a></li>
+<li><a href="/wiki/Excite" title="Excite">Excite</a></li>
+<li><a href="/wiki/GenieKnows" title="GenieKnows">GenieKnows</a></li>
+<li><a href="/wiki/Gigablast" title="Gigablast">Gigablast</a></li>
+<li><a href="/wiki/Google_Search" title="Google Search">Google</a></li>
+<li><a href="/wiki/Info.com" title="Info.com">Info.com</a></li>
+<li><a href="/wiki/Ixquick" title="Ixquick">Ixquick</a></li>
+<li><a href="/wiki/Lycos" title="Lycos">Lycos</a></li>
+<li><a href="/wiki/Naver" title="Naver">Naver</a></li>
+<li><a href="/wiki/Qwant" title="Qwant">Qwant</a></li>
+<li><a href="/wiki/Parsijoo" title="Parsijoo">Parsijoo</a></li>
+<li><a href="/wiki/Picollator" title="Picollator">Picollator</a></li>
+<li><a href="/wiki/SAPO_(company)" title="SAPO (company)">SAPO</a></li>
+<li><a href="/wiki/Scout_(travel_website)" title="Scout (travel website)">Scout</a></li>
+<li><a href="/wiki/Searx" title="Searx">Searx</a></li>
+<li><a href="/wiki/Seznam.cz" title="Seznam.cz">Seznam.cz</a></li>
+<li><a href="/wiki/Sogou" title="Sogou">Sogou</a></li>
+<li><a href="/wiki/Sputnik_(search_engine)" title="Sputnik (search engine)">Sputnik</a></li>
+<li><a href="/wiki/Ixquick#Startpage.com" title="Ixquick">Startpage</a></li>
+<li><a href="/wiki/WebCrawler" title="WebCrawler">WebCrawler</a></li>
+<li><a href="/wiki/YaCy" title="YaCy">YaCy</a></li>
+<li><a href="/wiki/Yahoo!_Search" title="Yahoo! Search">Yahoo!</a></li>
+<li><a href="/wiki/Yandex_Search" title="Yandex Search">Yandex</a></li>
+<li><a href="/wiki/Yooz" title="Yooz">Yooz</a></li>
+<li><a href="/wiki/Youdao" title="Youdao">Youdao</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Inactive</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/123people" title="123people">123people</a></li>
+<li><a href="/wiki/A9.com" title="A9.com">A9.com</a></li>
+<li><a href="/wiki/Aliweb" title="Aliweb">Aliweb</a></li>
+<li><a href="/wiki/AlltheWeb" title="AlltheWeb">AlltheWeb</a></li>
+<li><a href="/wiki/AltaVista" title="AltaVista">AltaVista</a></li>
+<li><a class="mw-selflink selflink">Blekko</a></li>
+<li><a href="/wiki/Boogami" title="Boogami">Boogami</a></li>
+<li><a href="/wiki/Cuil" title="Cuil">Cuil</a></li>
+<li><a href="/wiki/Empas" title="Empas">Empas</a></li>
+<li><a href="/wiki/Forestle" title="Forestle">Forestle</a></li>
+<li><a href="/wiki/Go.com" title="Go.com">Go.com</a></li>
+<li><a href="/wiki/Infoseek" title="Infoseek">Infoseek</a></li>
+<li><a href="/wiki/Inktomi" title="Inktomi">Inktomi</a></li>
+<li><a href="/wiki/JumpStation" title="JumpStation">JumpStation</a></li>
+<li><a href="/wiki/LeapFish" title="LeapFish">LeapFish</a></li>
+<li><a href="/wiki/Mugurdy" title="Mugurdy">Mugurdy</a></li>
+<li><a href="/wiki/Northern_Light_Group" title="Northern Light Group">Northern Light</a></li>
+<li><a href="/wiki/Powerset_(company)" title="Powerset (company)">Powerset</a></li>
+<li><a href="/wiki/Scroogle" class="mw-redirect" title="Scroogle">Scroogle</a></li>
+<li><a href="/wiki/SearchMe" title="SearchMe">SearchMe</a></li>
+<li><a href="/wiki/Soso.com" class="mw-redirect" title="Soso.com">Soso.com</a></li>
+<li><a href="/wiki/Teoma" title="Teoma">Teoma</a></li>
+<li><a href="/wiki/Viewzi" title="Viewzi">Viewzi</a></li>
+<li><a href="/wiki/Vivisimo" title="Vivisimo">Vivisimo</a></li>
+<li><a href="/wiki/Volunia" title="Volunia">Volunia</a></li>
+<li><a href="/wiki/W3Catalog" title="W3Catalog">W3Catalog</a></li>
+<li><a href="/wiki/Wikiseek" title="Wikiseek">Wikiseek</a></li>
+<li><a href="/wiki/Yebol" title="Yebol">Yebol</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/List_of_search_engines" title="List of search engines">Complete list</a></li>
+<li><a href="/wiki/Comparison_of_web_search_engines" title="Comparison of web search engines">Comparison</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2254
+Cached time: 20180929152504
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.312 seconds
+Real time usage: 0.419 seconds
+Preprocessor visited node count: 1805/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 35642/2097152 bytes
+Template argument size: 1652/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 37805/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.142/10.000 seconds
+Lua memory usage: 4.7 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  358.510      1 -total
+ 42.97%  154.057      1 Template:Reflist
+ 29.01%  104.012      1 Template:Infobox_Website
+ 27.40%   98.249      9 Template:Cite_web
+ 22.08%   79.160      1 Template:Infobox
+  9.99%   35.824      1 Template:Use_mdy_dates
+  7.28%   26.110      1 Template:Official_website
+  6.11%   21.907      2 Template:DMCA
+  5.30%   18.987      2 Template:Dated_maintenance_category
+  4.93%   17.666      4 Template:Cite_news
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:29429121-0!canonical and timestamp 20180929152503 and revision id 847089165
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Blekko&amp;oldid=847089165">https://en.wikipedia.org/w/index.php?title=Blekko&amp;oldid=847089165</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:American_websites" title="Category:American websites">American websites</a></li><li><a href="/wiki/Category:Internet_properties_established_in_2007" title="Category:Internet properties established in 2007">Internet properties established in 2007</a></li><li><a href="/wiki/Category:Defunct_internet_search_engines" title="Category:Defunct internet search engines">Defunct internet search engines</a></li><li><a href="/wiki/Category:IBM_acquisitions" title="Category:IBM acquisitions">IBM acquisitions</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_September_2013" title="Category:Use mdy dates from September 2013">Use mdy dates from September 2013</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_February_2015" title="Category:Articles containing potentially dated statements from February 2015">Articles containing potentially dated statements from February 2015</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Blekko" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Blekko" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Blekko" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Blekko" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Blekko">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Blekko&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Blekko&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Blekko" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Blekko" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Blekko&amp;oldid=847089165" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Blekko&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q883722" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Blekko&amp;id=847089165" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Blekko">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Blekko&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Blekko&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Blekko" title="Blekko – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Blekko" title="Blekko – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Blekko" title="Blekko – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Blekko" title="Blekko – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Blekko" title="Blekko – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q883722#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 22 June 2018, at 21:12<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Blekko&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.312","walltime":"0.419","ppvisitednodes":{"value":1805,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":35642,"limit":2097152},"templateargumentsize":{"value":1652,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":37805,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  358.510      1 -total"," 42.97%  154.057      1 Template:Reflist"," 29.01%  104.012      1 Template:Infobox_Website"," 27.40%   98.249      9 Template:Cite_web"," 22.08%   79.160      1 Template:Infobox","  9.99%   35.824      1 Template:Use_mdy_dates","  7.28%   26.110      1 Template:Official_website","  6.11%   21.907      2 Template:DMCA","  5.30%   18.987      2 Template:Dated_maintenance_category","  4.93%   17.666      4 Template:Cite_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.142","limit":"10.000"},"limitreport-memusage":{"value":4929863,"limit":52428800}},"cachereport":{"origin":"mw2254","timestamp":"20180929152504","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw2163"});});</script>
+	</body>
+</html>

@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Tyneside - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tyneside","wgTitle":"Tyneside","wgCurRevisionId":853694462,"wgRevisionId":853694462,"wgArticleId":368468,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Archived copy as title","Webarchive template wayback links","Articles with short description","Coordinates on Wikidata","Urban areas of England","Geography of Tyne and Wear","NUTS 3 statistical regions of the United Kingdom","River Tyne"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tyneside","wgRelevantArticleId":368468,"wgRequestId":"W7FdZQrAADMAAE9P9cMAAAAF","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCoordinates":{"lat":54.9875,"lon":-1.4583333333333},"wgWikibaseItemId":"Q2578988","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/England_location_map.svg/1200px-England_location_map.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tyneside"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Tyneside&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Tyneside&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Tyneside"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Tyneside rootpage-Tyneside skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Tyneside</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For the 1885&#8211;1918 parliamentary constituency, see <a href="/wiki/Tyneside_(UK_Parliament_constituency)" title="Tyneside (UK Parliament constituency)">Tyneside (UK Parliament constituency)</a>.</div>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Place in England, United Kingdom</div>
+<table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org">Tyneside</span></th></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center">
+<div class="center"><div style="width:200px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:200px;padding:0"><div style="position:relative;width:200px"><a href="/wiki/File:England_location_map.svg" class="image" title="Tyneside is located in England"><img alt="Tyneside is located in England" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/England_location_map.svg/200px-England_location_map.svg.png" width="200" height="243" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/England_location_map.svg/300px-England_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/England_location_map.svg/400px-England_location_map.svg.png 2x" data-file-width="816" data-file-height="991" /></a><div style="position:absolute;top:16.2%;left:60.476%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Tyneside" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Tyneside" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><div style="display:inline;padding:1px;float:left">Tyneside</div></div></div></div><div><small>Location of Tyneside in England</small></div></div></div></div></td></tr><tr class="mergedbottomrow"><td colspan="2" style="text-align:center">
+Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Tyneside&amp;params=54_59_15_N_1_27_30_W_region:GB_type:city(774891)"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">54°59′15″N</span> <span class="longitude">1°27′30″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">54.98750°N 1.45833°W</span><span style="display:none">&#xfeff; / <span class="geo">54.98750; -1.45833</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Tyneside&amp;params=54_59_15_N_1_27_30_W_region:GB_type:city(774891)"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">54°59′15″N</span> <span class="longitude">1°27′30″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">54.98750°N 1.45833°W</span><span style="display:none">&#xfeff; / <span class="geo">54.98750; -1.45833</span></span></span></a></span></span></span></td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Sovereign_state" title="Sovereign state">Sovereign&#160;state</a></th><td>
+<a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Countries_of_the_United_Kingdom" title="Countries of the United Kingdom">Country</a></th><td>
+<a href="/wiki/England" title="England">England</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Regions_of_England" title="Regions of England">Region</a></th><td>
+<a href="/wiki/North_East_England" title="North East England">North&#160;East</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Ceremonial_counties_of_England" title="Ceremonial counties of England">County</a></th><td>
+<a href="/wiki/Tyne_and_Wear" title="Tyne and Wear">Tyne and Wear</a></td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2011)</span></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Total</th><td>
+774,891</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th><td>
+GMT (<a href="/wiki/UTC%C2%B100:00" title="UTC±00:00">UTC</a>)</td></tr><tr class="mergedrow"><th scope="row"><span style="white-space:nowrap">&#160;•&#160;Summer (<a href="/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</span></th><td>
+<a href="/wiki/UTC%2B1" class="mw-redirect" title="UTC+1">UTC+1</a> (BST)</td></tr></tbody></table>
+<p><b>Tyneside</b> is a <a href="/wiki/Conurbation" title="Conurbation">conurbation</a> on the banks of the <a href="/wiki/River_Tyne,_England" class="mw-redirect" title="River Tyne, England">River Tyne</a> in <a href="/wiki/North_East_England" title="North East England">North East England</a> which includes <a href="/wiki/Newcastle_upon_Tyne" title="Newcastle upon Tyne">Newcastle upon Tyne</a>, <a href="/wiki/Gateshead" title="Gateshead">Gateshead</a>, <a href="/wiki/Tynemouth" title="Tynemouth">Tynemouth</a>, <a href="/wiki/Wallsend" title="Wallsend">Wallsend</a>, <a href="/wiki/South_Shields" title="South Shields">South Shields</a>, and <a href="/wiki/Jarrow" title="Jarrow">Jarrow</a>. The population at the 2011 census was 774,891.
+</p><p><a href="/wiki/Historic_counties_of_England" title="Historic counties of England">Historically</a> part of <a href="/wiki/County_Durham" title="County Durham">County Durham</a> and <a href="/wiki/Northumberland" title="Northumberland">Northumberland</a>, Tyneside spans four <a href="/wiki/Districts_of_England" title="Districts of England">local authority districts</a>, the City of Newcastle upon Tyne and the Metropolitan Boroughs of <a href="/wiki/Gateshead" title="Gateshead">Gateshead</a>, <a href="/wiki/North_Tyneside" title="North Tyneside">North Tyneside</a> and <a href="/wiki/South_Tyneside" title="South Tyneside">South Tyneside</a>, with a combined estimated population in 2013 of 832,469.<sup id="cite_ref-Pop2012_1-0" class="reference"><a href="#cite_note-Pop2012-1">&#91;1&#93;</a></sup>
+</p><p>Tyneside is the <a href="/wiki/List_of_conurbations_in_the_United_Kingdom" class="mw-redirect" title="List of conurbations in the United Kingdom">7th largest conurbation in England</a>, and home to over 70 per cent of the population of <a href="/wiki/Tyne_and_Wear" title="Tyne and Wear">Tyne and Wear</a>; <a href="/wiki/Sunderland,_Tyne_and_Wear" class="mw-redirect" title="Sunderland, Tyne and Wear">Sunderland</a> and <a href="/wiki/Washington_(Tyne_and_Wear)" class="mw-redirect" title="Washington (Tyne and Wear)">Washington</a> form the separate <a href="/wiki/Wearside" title="Wearside">Wearside</a> conurbation, although the latter has a Newcastle Upon Tyne postcode. 
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Geordies"><span class="tocnumber">1</span> <span class="toctext">Geordies</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Coal_production"><span class="tocnumber">2</span> <span class="toctext">Coal production</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Steel_and_shipbuilding"><span class="tocnumber">3</span> <span class="toctext">Steel and shipbuilding</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Professional_competitive_rowing_on_the_Tyne"><span class="tocnumber">4</span> <span class="toctext">Professional competitive rowing on the Tyne</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Rapper_dancing"><span class="tocnumber">5</span> <span class="toctext">Rapper dancing</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Industrial_decline_and_regeneration"><span class="tocnumber">6</span> <span class="toctext">Industrial decline and regeneration</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Definition"><span class="tocnumber">7</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Economy"><span class="tocnumber">8</span> <span class="toctext">Economy</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Geordies">Geordies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tyneside&amp;action=edit&amp;section=1" title="Edit section: Geordies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The people of the Tyneside area, called "<a href="/wiki/Geordie" title="Geordie">Geordies</a>", have a reputation for their distinctive dialect and accent. Tynesiders may have been given this name, a local diminutive of the name "George", because their <a href="/wiki/Miner" title="Miner">miners</a> used <a href="/wiki/George_Stephenson" title="George Stephenson">George Stephenson</a>'s <a href="/wiki/Geordie_lamp" title="Geordie lamp">safety lamp</a> (invented in 1815 and called a "Georgie lamp") to prevent <a href="/wiki/Firedamp" title="Firedamp">firedamp</a> explosions, rather than the <a href="/wiki/Davy_lamp" title="Davy lamp">Davy lamp</a> used elsewhere. An alternative explanation relates that during the <a href="/wiki/Jacobitism" title="Jacobitism">Jacobite</a> risings of 1715 and 1745 the Tynesiders declared their allegiance to the <a href="/wiki/House_of_Hanover" title="House of Hanover">Hanoverian</a> kings of Great Britain <a href="/wiki/George_I_of_Great_Britain" title="George I of Great Britain">George I</a> and <a href="/wiki/George_II_of_Great_Britain" title="George II of Great Britain">George II</a>; whereas the rest of the county of <a href="/wiki/Northumberland" title="Northumberland">Northumberland</a>, to the north, stood loyal to <a href="/wiki/James_Francis_Edward_Stuart" title="James Francis Edward Stuart">James Francis Edward Stuart</a>.
+</p>
+<h2><span class="mw-headline" id="Coal_production">Coal production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tyneside&amp;action=edit&amp;section=2" title="Edit section: Coal production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>While Newcastle upon Tyne had been an important local centre since Roman times, and was a major local market town from the Middle Ages, the development of Newcastle and Tyneside is owed to <a href="/wiki/Coal_mining" title="Coal mining">coal mining</a>. Coal was first known to be dug in Tyneside from superficial seams in around 1200, but there is some evidence from <a href="/wiki/Bede" title="Bede">Bede</a>'s writings that it may have been dug as early as 800 AD. Coal was dug from local drift mines and bell pits, and although initially only used locally, it was exported from the port of Newcastle from the mid 14th century onwards. Tyneside had a strategic advantage as far as the coal trade was concerned, because <a href="/wiki/Collier_brig" class="mw-redirect" title="Collier brig">collier brigs</a> could be loaded with coal on the Tyne and could sail down the east coast to London. In fact, the burgesses of Newcastle formed a cartel, and were known as the <a href="/wiki/The_Hostmen_of_Newcastle-upon-Tyne" class="mw-redirect" title="The Hostmen of Newcastle-upon-Tyne">Hostmen</a>. The Hostmen were able gain a monopoly over all of the coal exported from Tyneside, a monopoly which lasted a considerable time. A well-known group of workers on the river were the <a href="/wiki/Keelmen" title="Keelmen">keelmen</a> who handled the keels, boats that carried the coal from the riverbanks to the waiting colliers.<sup id="cite_ref-Finch_2-0" class="reference"><a href="#cite_note-Finch-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Steel_and_shipbuilding">Steel and shipbuilding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tyneside&amp;action=edit&amp;section=3" title="Edit section: Steel and shipbuilding">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Cecil_Beaton_Photographs-_Tyneside_Shipyards,_1943_DB46.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Cecil_Beaton_Photographs-_Tyneside_Shipyards%2C_1943_DB46.jpg/220px-Cecil_Beaton_Photographs-_Tyneside_Shipyards%2C_1943_DB46.jpg" width="220" height="232" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Cecil_Beaton_Photographs-_Tyneside_Shipyards%2C_1943_DB46.jpg/330px-Cecil_Beaton_Photographs-_Tyneside_Shipyards%2C_1943_DB46.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Cecil_Beaton_Photographs-_Tyneside_Shipyards%2C_1943_DB46.jpg/440px-Cecil_Beaton_Photographs-_Tyneside_Shipyards%2C_1943_DB46.jpg 2x" data-file-width="760" data-file-height="800" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Cecil_Beaton_Photographs-_Tyneside_Shipyards,_1943_DB46.jpg" class="internal" title="Enlarge"></a></div>Tyneside shipyards during the <a href="/wiki/Second_World_War" class="mw-redirect" title="Second World War">Second World War</a></div></div></div>
+<p>The valley of the <a href="/wiki/River_Derwent,_North_East_England" title="River Derwent, North East England">River Derwent</a>, a major tributary of the Tyne that rises in <a href="/wiki/County_Durham" title="County Durham">County Durham</a>, saw the development of the <a href="/wiki/Steel" title="Steel">steel</a> industry from around 1600 onwards. This was led by German immigrant cutlers and sword-makers, probably from around <a href="/wiki/Solingen" title="Solingen">Solingen</a>, who fled from <a href="/wiki/Religious_persecution" title="Religious persecution">religious persecution</a> at home and settled in the then village of <a href="/wiki/Shotley_Bridge" title="Shotley Bridge">Shotley Bridge</a>, near <a href="/wiki/Consett" title="Consett">Consett</a>.
+</p><p>The combination of coal and steel industries in the area was the catalyst for further major industrial development in the 19th century, including the <a href="/wiki/Ship-building" class="mw-redirect" title="Ship-building">shipbuilding</a> industry; at its peak, the Tyneside <a href="/wiki/Shipyard" title="Shipyard">shipyards</a> were one of the largest centres of shipbuilding in the world and built an entire navy for <a href="/wiki/Japan" title="Japan">Japan</a> in the first decade of the 20th century. There is still a working shipyard in <a href="/wiki/Wallsend" title="Wallsend">Wallsend</a>.
+</p>
+<h2><span class="mw-headline" id="Professional_competitive_rowing_on_the_Tyne">Professional competitive rowing on the Tyne</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tyneside&amp;action=edit&amp;section=4" title="Edit section: Professional competitive rowing on the Tyne">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>From early in the 19th century, it was a custom to hold boat races on the Tyne. The Tyne had a large number of keelmen and wherrymen, who handled boats as part of their jobs. As on the <a href="/wiki/River_Thames" title="River Thames">River Thames</a>, there were competitions to show who was the best oarsman. As a wherryman did not earn very much, competitive rowing was seen as a quick way of earning extra money. Regattas were held, and provided modest prizes for professionals, but the big money was made in challenge races, in which <a href="/wiki/Sculling" title="Sculling">scullers</a> or boat crews would challenge each other to a race over a set distance for a side stake. The crews would usually have backers, who would put up the stake money, as they saw the chance of financial gain from the race. In the days before mass attendances at football matches, races on the river were enormously popular, with tens of thousands attending. Betting would go on both before and during a race, the odds changing as the fortunes of the contestants changed. Contestants who became champions of the Tyne would often challenge the corresponding champions of the River Thames, and the race would be arranged to take place on one of the two rivers.
+</p><p>Rivalry between the Tyne and the Thames was very keen, and rowers who upheld the honour of the Tyne became local heroes. Three such oarsmen, who came from humble backgrounds and became household names in the North East, were <a href="/wiki/Harry_Clasper" title="Harry Clasper">Harry Clasper</a>, <a href="/wiki/Robert_Chambers_(oarsman)" title="Robert Chambers (oarsman)">Robert Chambers</a> and <a href="/wiki/James_Renforth" title="James Renforth">James Renforth</a>. <a href="/wiki/Harry_Clasper" title="Harry Clasper">Clasper</a> was a champion rower in fours, as well as an innovative boat designer and a successful rowing coach. <a href="/wiki/Robert_Chambers_(oarsman)" title="Robert Chambers (oarsman)">Chambers</a> and <a href="/wiki/James_Renforth" title="James Renforth">Renforth</a> were oarsmen who excelled at <a href="/wiki/Sculling" title="Sculling">sculling</a>. Both held the World Sculling Championship at different times.
+The popularity of all three men was such that when they died, many thousands attended their funeral processions, and magnificent funeral monuments were provided by popular subscription in all three cases. At the end of the 19th century professional competitive rowing on the Tyne began a gradual decline and would die out entirely leaving the amateur version.<sup id="cite_ref-Whitehead_3-0" class="reference"><a href="#cite_note-Whitehead-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Rapper_dancing">Rapper dancing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tyneside&amp;action=edit&amp;section=5" title="Edit section: Rapper dancing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Despite its rapid growth in the <a href="/wiki/Industrial_Revolution" title="Industrial Revolution">Industrial Revolution</a>, Tyneside developed one peculiar local custom, the <a href="/wiki/Rapper_sword" title="Rapper sword">rapper sword</a> dance, which later spread to neighbouring areas of Northumberland and County Durham.
+</p>
+<h2><span class="mw-headline" id="Industrial_decline_and_regeneration">Industrial decline and regeneration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tyneside&amp;action=edit&amp;section=6" title="Edit section: Industrial decline and regeneration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>During the 1970s and 1980s, there was major <a href="/wiki/Deindustrialization" title="Deindustrialization">industrial decline</a> in the traditional British <a href="/wiki/Heavy_industries" class="mw-redirect" title="Heavy industries">heavy industries</a>, and Tyneside was hit hard. High unemployment rates and the national government's resolve to push through with economic transformation led to great social unrest with strikes and occasional rioting in depressed areas.
+</p><p>From the late 1980s onward, an improving national economy and local regeneration helped the area to recover, and although unemployment is still a problem compared with some other areas of Britain, expansion of new industries such as <a href="/wiki/Tourism" title="Tourism">tourism</a>, <a href="/wiki/Science" title="Science">science</a> and <a href="/wiki/High-technology" class="mw-redirect" title="High-technology">high-technology</a>, has fuelled local development, especially in Newcastle upon Tyne and Gateshead.
+</p>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tyneside&amp;action=edit&amp;section=7" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Office_for_National_Statistics" title="Office for National Statistics">ONS</a> 2011 census had 774,891 census respondents inside the "Tyneside Built-up Area" or "Tyneside Urban Area".<sup id="cite_ref-BUA_4-0" class="reference"><a href="#cite_note-BUA-4">&#91;4&#93;</a></sup> This was a significant decline on the 2001 return of 879,996<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> this loss was mainly due to fewer people returning the form; <a href="/wiki/Hetton-le-Hole" title="Hetton-le-Hole">Hetton-le-Hole</a>, <a href="/wiki/Houghton-le-Spring" title="Houghton-le-Spring">Houghton-le-Spring</a>, <a href="/wiki/Chester-le-Street" title="Chester-le-Street">Chester-le-Street</a> and <a href="/wiki/Washington,_Tyne_and_Wear" title="Washington, Tyne and Wear">Washington</a> no longer forming part of the built-up area and instead forming part of <a href="/wiki/Wearside" title="Wearside">Wearside</a>. In the 2011 census the area was given the following subdivisions:
+</p>
+<div class="div-col columns column-width" style="-moz-column-width: 15em; -webkit-column-width: 15em; column-width: 15em;">
+<ul><li><a href="/wiki/Blaydon" class="mw-redirect" title="Blaydon">Blaydon</a></li>
+<li><a href="/wiki/Cleadon" title="Cleadon">Cleadon</a></li>
+<li><a href="/wiki/Gateshead" title="Gateshead">Gateshead</a></li>
+<li><a href="/wiki/Hebburn" title="Hebburn">Hebburn</a></li>
+<li><a href="/wiki/Jarrow" title="Jarrow">Jarrow</a></li>
+<li><a href="/wiki/Longbenton" title="Longbenton">Longbenton</a></li>
+<li><a href="/wiki/Newburn" title="Newburn">Newburn</a></li>
+<li><a href="/wiki/Newcastle_upon_Tyne" title="Newcastle upon Tyne">Newcastle upon Tyne</a></li>
+<li><a href="/wiki/Ryton,_Tyne_and_Wear" title="Ryton, Tyne and Wear">Ryton</a></li>
+<li><a href="/wiki/South_Shields" title="South Shields">South Shields</a></li>
+<li><a href="/wiki/Sunniside,_Gateshead" title="Sunniside, Gateshead">Sunniside</a></li>
+<li><a href="/wiki/Throckley" title="Throckley">Throckley</a></li>
+<li><a href="/wiki/Tynemouth" title="Tynemouth">Tynemouth</a></li>
+<li><a href="/wiki/Wallsend" title="Wallsend">Wallsend</a></li>
+<li><a href="/wiki/Whickham" title="Whickham">Whickham</a></li>
+<li><a href="/wiki/Whitley_Bay" title="Whitley Bay">Whitley Bay</a></li></ul>
+</div>
+<p>Here are the five most important urban subdivisions outside <a href="/wiki/Newcastle_Upon_Tyne" class="mw-redirect" title="Newcastle Upon Tyne">Newcastle Upon Tyne</a>:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Subdivision</th>
+<th>Population (<a href="/wiki/United_Kingdom_Census_2011" class="mw-redirect" title="United Kingdom Census 2011">2011 census</a>)</th>
+<th>Population (<a href="/wiki/United_Kingdom_Census_2001" class="mw-redirect" title="United Kingdom Census 2001">2001 census</a>)
+</th></tr>
+<tr>
+<td>Gateshead</td>
+<td>120,046</td>
+<td>78,403
+</td></tr>
+<tr>
+<td>South Shields</td>
+<td>75,337</td>
+<td>82,854
+</td></tr>
+<tr>
+<td>Tynemouth</td>
+<td>67,519</td>
+<td>17,056
+</td></tr>
+<tr>
+<td>Wallsend</td>
+<td>43,826</td>
+<td>42,843
+</td></tr>
+<tr>
+<td>Jarrow</td>
+<td>43,431</td>
+<td>27,525
+</td></tr></tbody></table>
+<p>Gateshead, Jarrow and Tynemouth had boundary changes, this is why they seem to have had such large population increases.
+</p>
+<h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tyneside&amp;action=edit&amp;section=8" title="Edit section: Economy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This is a chart of trend of regional gross value added of Tyneside at current basic prices published by the Office for National Statistics with figures in millions of British pounds sterling.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Year</th>
+<th>Regional gross value added<sup class="reference plainlinks nourlexpansion" id="ref_fn_4"><a class="external autonumber" href="//en.wikipedia.org/wiki/Tyneside#endnote_fn_4">[1]</a></sup></th>
+<th>Agriculture<sup class="reference plainlinks nourlexpansion" id="ref_fn_1"><a class="external autonumber" href="//en.wikipedia.org/wiki/Tyneside#endnote_fn_1">[2]</a></sup></th>
+<th>Industry<sup class="reference plainlinks nourlexpansion" id="ref_fn_2"><a class="external autonumber" href="//en.wikipedia.org/wiki/Tyneside#endnote_fn_2">[3]</a></sup></th>
+<th>Services<sup class="reference plainlinks nourlexpansion" id="ref_fn_3"><a class="external autonumber" href="//en.wikipedia.org/wiki/Tyneside#endnote_fn_3">[4]</a></sup>
+</th></tr>
+<tr>
+<td>1995</td>
+<td><b>7,688</b></td>
+<td>9</td>
+<td>2,244</td>
+<td>5,435
+</td></tr>
+<tr>
+<td>2000</td>
+<td><b>9,930</b></td>
+<td>8</td>
+<td>2,567</td>
+<td>7,356
+</td></tr>
+<tr>
+<td>2003</td>
+<td><b>11,895</b></td>
+<td>9</td>
+<td>2,865</td>
+<td>9,021
+</td></tr></tbody></table>
+<p><span class="citation wikicite" id="endnote_fn_1"><b><a href="#ref_fn_1">^</a></b></span>  1). Components may not sum to totals due to rounding.
+</p><p><span class="citation wikicite" id="endnote_fn_2"><b><a href="#ref_fn_2">^</a></b></span>  2). Includes hunting and forestry.
+</p><p><span class="citation wikicite" id="endnote_fn_3"><b><a href="#ref_fn_3">^</a></b></span>  3). Includes energy and construction.
+</p><p><span class="citation wikicite" id="endnote_fn_4"><b><a href="#ref_fn_4">^</a></b></span>  4). Includes financial intermediation services indirectly measured.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tyneside&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Pop2012-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pop2012_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140429161939/http://www.gateshead.gov.uk/DocumentLibrary/People/genie/population/Mid-2012-Population-Estimates-for-local-authorities.xls">"Mid-2012 Population Estimates"</a>. Gateshead.gov.uk. August 2013. Archived from <a rel="nofollow" class="external text" href="http://www.gateshead.gov.uk/DocumentLibrary/People/genie/population/Mid-2012-Population-Estimates-for-local-authorities.xls">the original</a> on 2014-04-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-01-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mid-2012+Population+Estimates&amp;rft.pub=Gateshead.gov.uk&amp;rft.date=2013-08&amp;rft_id=http%3A%2F%2Fwww.gateshead.gov.uk%2FDocumentLibrary%2FPeople%2Fgenie%2Fpopulation%2FMid-2012-Population-Estimates-for-local-authorities.xls&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATyneside" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Finch-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Finch_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Finch, Roger (1973). <i>Coals From Newcastle</i>. The Lavenham Press Ltd. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-900963-39-5" title="Special:BookSources/0-900963-39-5">0-900963-39-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Coals+From+Newcastle&amp;rft.pub=The+Lavenham+Press+Ltd&amp;rft.date=1973&amp;rft.isbn=0-900963-39-5&amp;rft.au=Finch%2C+Roger&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATyneside" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Whitehead-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Whitehead_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Whitehead, Ian (2002). <i>The Sporting Tyne</i>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-901273-42-2" title="Special:BookSources/0-901273-42-2">0-901273-42-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Sporting+Tyne&amp;rft.date=2002&amp;rft.isbn=0-901273-42-2&amp;rft.au=Whitehead%2C+Ian&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATyneside" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-BUA-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-BUA_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nomisweb.co.uk/articles/747.aspx">"2011 Census - Built-up areas"</a>. <a href="/wiki/Office_for_National_Statistics" title="Office for National Statistics">ONS</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130921045319/http://www.nomisweb.co.uk/articles/747.aspx">Archived</a> from the original on 21 September 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">1 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2011+Census+-+Built-up+areas&amp;rft.pub=ONS&amp;rft_id=http%3A%2F%2Fwww.nomisweb.co.uk%2Farticles%2F747.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATyneside" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ons.gov.uk/ons/rel/census/census-2001-key-statistics/urban-areas-in-england-and-wales/urban-areas-in-england-and-wales-ks01-usual-resident-population.xls">"Archived copy"</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20121022000531/http://www.ons.gov.uk/ons/rel/census/census-2001-key-statistics/urban-areas-in-england-and-wales/urban-areas-in-england-and-wales-ks01-usual-resident-population.xls">Archived</a> from the original on 2012-10-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-10-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.ons.gov.uk%2Fons%2Frel%2Fcensus%2Fcensus-2001-key-statistics%2Furban-areas-in-england-and-wales%2Furban-areas-in-england-and-wales-ks01-usual-resident-population.xls&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATyneside" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Archived copy as title (<a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">link</a>) </span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Office for National Statistics. <a rel="nofollow" class="external text" href="http://www.statistics.gov.uk/downloads/theme_economy/RegionalGVA.pdf">pp.&#160;240–253</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071201002538/http://www.statistics.gov.uk/downloads/theme_economy/RegionalGVA.pdf">Archived</a> 2007-12-01 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>..</span>
+</li>
+</ol></div></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2226
+Cached time: 20180930233357
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.352 seconds
+Real time usage: 0.459 seconds
+Preprocessor visited node count: 2967/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 32072/2097152 bytes
+Template argument size: 8643/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 13940/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.162/10.000 seconds
+Lua memory usage: 4.3 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  407.829      1 -total
+ 58.77%  239.682      1 Template:Infobox_settlement
+ 33.38%  136.134      1 Template:Infobox
+ 24.56%  100.173      1 Template:Reflist
+ 16.96%   69.180      3 Template:Cite_web
+ 10.25%   41.783      5 Template:Both
+  9.69%   39.503      1 Template:Short_description
+  9.46%   38.582      1 Template:Coord
+  8.31%   33.896      1 Template:For
+  4.85%   19.774      1 Template:Pagetype
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:368468-0!canonical and timestamp 20180930233357 and revision id 853694462
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tyneside&amp;oldid=853694462">https://en.wikipedia.org/w/index.php?title=Tyneside&amp;oldid=853694462</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Urban_areas_of_England" title="Category:Urban areas of England">Urban areas of England</a></li><li><a href="/wiki/Category:Geography_of_Tyne_and_Wear" title="Category:Geography of Tyne and Wear">Geography of Tyne and Wear</a></li><li><a href="/wiki/Category:NUTS_3_statistical_regions_of_the_United_Kingdom" title="Category:NUTS 3 statistical regions of the United Kingdom">NUTS 3 statistical regions of the United Kingdom</a></li><li><a href="/wiki/Category:River_Tyne" title="Category:River Tyne">River Tyne</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">CS1 maint: Archived copy as title</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tyneside" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tyneside" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Tyneside" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Tyneside" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Tyneside">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Tyneside&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Tyneside&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Tyneside" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Tyneside" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Tyneside&amp;oldid=853694462" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tyneside&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2578988" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tyneside&amp;id=853694462" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tyneside">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Tyneside&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Tyneside&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%AA%D8%A7%DB%8C%D9%86%D8%B3%D8%A7%DB%8C%D8%AF" title="تاینساید – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Tyneside" title="Tyneside – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%DB%8C%D9%86%D8%B3%D8%A7%DB%8C%D8%AF" title="تاینساید – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Tyneside" title="Tyneside – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Tyneside" title="Tyneside – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Tyneside" title="Tyneside – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%BD%D1%81%D0%B0%D0%B9%D0%B4" title="Тайнсайд – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%BD%D1%81%D0%B0%D0%B9%D0%B4" title="Тайнсайд – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%B3%B0%E6%81%A9%E8%B3%BD%E5%BE%B7" title="泰恩賽德 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2578988#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 6 August 2018, at 11:54<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Tyneside&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.352","walltime":"0.459","ppvisitednodes":{"value":2967,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":32072,"limit":2097152},"templateargumentsize":{"value":8643,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13940,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  407.829      1 -total"," 58.77%  239.682      1 Template:Infobox_settlement"," 33.38%  136.134      1 Template:Infobox"," 24.56%  100.173      1 Template:Reflist"," 16.96%   69.180      3 Template:Cite_web"," 10.25%   41.783      5 Template:Both","  9.69%   39.503      1 Template:Short_description","  9.46%   38.582      1 Template:Coord","  8.31%   33.896      1 Template:For","  4.85%   19.774      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.162","limit":"10.000"},"limitreport-memusage":{"value":4505301,"limit":52428800}},"cachereport":{"origin":"mw2226","timestamp":"20180930233357","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":567,"wgHostname":"mw2226"});});</script>
+	</body>
+</html>

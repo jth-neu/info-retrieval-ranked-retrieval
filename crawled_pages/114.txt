@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>YaCy - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"YaCy","wgTitle":"YaCy","wgCurRevisionId":846494058,"wgRevisionId":846494058,"wgArticleId":2315033,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Articles needing additional references from May 2014","All articles needing additional references","Articles containing potentially dated statements from September 2006","All articles containing potentially dated statements","Official website different in Wikidata and Wikipedia","Anonymity networks","Distributed data storage","Free search engine software","Free web crawlers","Internet search engines","Java platform software","Cross-platform software","Software using the GPL license","Peer-to-peer software"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"YaCy","wgRelevantArticleId":2315033,"wgRequestId":"W6@0qwrAIDoAAEz8NewAAACG","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1759675","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/9/99/YaCy_logo.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/YaCy"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=YaCy&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=YaCy&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/YaCy"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-YaCy rootpage-YaCy skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">YaCy</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=YaCy&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(May 2014)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox vevent" style="width:22em"><caption class="summary">YaCy</caption><tbody><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:YaCy_logo.png" class="image"><img alt="YaCy logo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/YaCy_logo.png/102px-YaCy_logo.png" width="102" height="64" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/YaCy_logo.png/153px-YaCy_logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/9/99/YaCy_logo.png 2x" data-file-width="173" data-file-height="109" /></a></td></tr><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Yacy-buscador.png" class="image"><img alt="Yacy-buscador.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Yacy-buscador.png/250px-Yacy-buscador.png" width="250" height="203" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Yacy-buscador.png/375px-Yacy-buscador.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Yacy-buscador.png/500px-Yacy-buscador.png 2x" data-file-width="907" data-file-height="735" /></a></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" class="mw-redirect" title="Software developer">Original author(s)</a></th><td>
+<a href="/w/index.php?title=Michael_Christen&amp;action=edit&amp;redlink=1" class="new" title="Michael Christen (page does not exist)">Michael Christen</a></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" class="mw-redirect" title="Software developer">Developer(s)</a></th><td>
+YaCy community</td></tr><tr style="display: none;"><td colspan="2" style="text-align:center">
+</td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Stable release</a></th><td>
+<div style="margin:0px;">1.92
+   / 26&#160;December 2016<span class="noprint">&#59;&#32;20 months ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2016-12-26</span>)</span></div></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Repository_(version_control)" title="Repository (version control)">Repository</a></th><td>
+<span class="url"><a rel="nofollow" class="external text" href="https://github.com/yacy/yacy_search_server">github<wbr />.com<wbr />/yacy<wbr />/yacy<wbr />_search<wbr />_server</a></span></td></tr><tr><th scope="row" style="white-space: nowrap;">Written in</th><td>
+<a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th><td>
+<a href="/wiki/Cross-platform" title="Cross-platform">Cross-platform</a></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_categories#Categorization_approaches" title="Software categories">Type</a></th><td>
+<a href="/wiki/Overlay_network" title="Overlay network">Overlay network</a>, <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">Search engine</a></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th><td>
+<a href="/wiki/GNU_General_Public_License#Version_2" title="GNU General Public License">GPLv2</a>+</td></tr><tr><th scope="row" style="white-space: nowrap;">Website</th><td>
+<a rel="nofollow" class="external text" href="http://www.yacy.net/en/">www.yacy.net/en</a></td></tr></tbody></table>
+<p><i><b>YaCy</b></i> (pronounced "ya see") is a <a href="/wiki/Free_software" title="Free software">free</a> <a href="/wiki/Distributed_search_engine" title="Distributed search engine">distributed search engine</a>, built on principles of <a href="/wiki/Peer-to-peer" title="Peer-to-peer">peer-to-peer</a> (P2P) networks.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Its core is a <a href="/wiki/Computer_program" title="Computer program">computer program</a> written in <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a> distributed on several hundred computers, as of  September&#160;2006<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=YaCy&amp;action=edit">&#91;update&#93;</a></sup>, so-called YaCy-peers. Each YaCy-peer independently crawls through the Internet, analyzes and indexes found web pages, and stores indexing results in a common database (so called index) which is shared with other YaCy-peers using principles of P2P networks. It is a free <a href="/wiki/Web_search_engine" title="Web search engine">search engine</a> that everyone  can use to build a search portal for their intranet and to help search the public internet clearly.
+</p><p>Compared to semi-distributed search engines, the YaCy-network has a decentralised architecture. All YaCy-peers are equal and no central <a href="/wiki/Server_(computing)" title="Server (computing)">server</a> exists. It can be run either in a <a href="/wiki/Web_crawler" title="Web crawler">crawling</a> mode or as a local <a href="/wiki/Proxy_server" title="Proxy server">proxy server</a>, indexing web pages visited by the person running YaCy on his or her computer. (Several mechanisms are provided to protect the user's privacy). Access to the search functions is made by a locally running web server which provides a search box to enter search terms, and returns search results in a similar format to other popular search engines.
+</p><p>YaCy is available on <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a>, <a href="/wiki/OS_X" class="mw-redirect" title="OS X">Mac</a> and <a href="/wiki/GNU/Linux" class="mw-redirect" title="GNU/Linux">GNU/Linux</a>. YaCy was created in 2003 by Michael Christen<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#System_components"><span class="tocnumber">1</span> <span class="toctext">System components</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Search-engine_technology"><span class="tocnumber">2</span> <span class="toctext">Search-engine technology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#YaCy_platform_architecture"><span class="tocnumber">3</span> <span class="toctext">YaCy platform architecture</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="System_components">System components</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=YaCy&amp;action=edit&amp;section=1" title="Edit section: System components">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>YaCy search engine is based on four elements:<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<dl><dt>Crawler</dt>
+<dd>A search robot that traverses from web page to web page and analyzes their content.</dd>
+<dt>Indexer</dt>
+<dd>Creates a <a href="/wiki/Inverted_index" title="Inverted index">reverse word index</a> (RWI) i.e. each word from the RWI has its list of relevant URLs and ranking information. Words are saved in form of word hashes.</dd>
+<dt>Search and administration interface</dt>
+<dd>Made as a web interface provided by a local <a href="/wiki/HTTP" class="mw-redirect" title="HTTP">HTTP</a> servlet with servlet engine.</dd>
+<dt>Data storage</dt>
+<dd>Used to store the reverse word index database utilizing a <a href="/wiki/Distributed_hash_table" title="Distributed hash table">distributed hash table</a>.</dd></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Yacy-buscador.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Yacy-buscador.png/220px-Yacy-buscador.png" width="220" height="178" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Yacy-buscador.png/330px-Yacy-buscador.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Yacy-buscador.png/440px-Yacy-buscador.png 2x" data-file-width="907" data-file-height="735" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Yacy-buscador.png" class="internal" title="Enlarge"></a></div>Homepage of YaCy</div></div></div>
+<h2><span class="mw-headline" id="Search-engine_technology">Search-engine technology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=YaCy&amp;action=edit&amp;section=2" title="Edit section: Search-engine technology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:275px;"><a href="/wiki/File:YaCy_Network_Freeworld_01-12-2011.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/YaCy_Network_Freeworld_01-12-2011.png/273px-YaCy_Network_Freeworld_01-12-2011.png" width="273" height="154" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/YaCy_Network_Freeworld_01-12-2011.png/410px-YaCy_Network_Freeworld_01-12-2011.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/YaCy_Network_Freeworld_01-12-2011.png/546px-YaCy_Network_Freeworld_01-12-2011.png 2x" data-file-width="1024" data-file-height="576" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:YaCy_Network_Freeworld_01-12-2011.png" class="internal" title="Enlarge"></a></div>YaCy network</div></div></div>
+<ul><li><i>YaCy is a complete search <a href="/wiki/Software_appliance" title="Software appliance">appliance</a> with user interface, index, administration and monitoring.</i></li>
+<li>YaCy harvests web pages with a web crawler. Documents are then parsed, indexed and the search index is stored locally. If your peer is part a peer network, then your local search index is also merged into the shared index for that network.</li>
+<li>A search is started then the local index contributes together with a global search index from peers in the YaCy search <a href="/wiki/Network_protocol_design_principles" class="mw-redirect" title="Network protocol design principles">network</a>.</li></ul>
+<h2><span class="mw-headline" id="YaCy_platform_architecture">YaCy platform architecture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=YaCy&amp;action=edit&amp;section=3" title="Edit section: YaCy platform architecture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:325px;"><a href="/wiki/File:Capture_d%27%C3%A9cran_yacy.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Capture_d%27%C3%A9cran_yacy.png/323px-Capture_d%27%C3%A9cran_yacy.png" width="323" height="177" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Capture_d%27%C3%A9cran_yacy.png/485px-Capture_d%27%C3%A9cran_yacy.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Capture_d%27%C3%A9cran_yacy.png/646px-Capture_d%27%C3%A9cran_yacy.png 2x" data-file-width="1352" data-file-height="742" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Capture_d%27%C3%A9cran_yacy.png" class="internal" title="Enlarge"></a></div>Web search showing results of the different components YaCy uses</div></div></div>
+<p>YaCy uses a combination of techniques for the networking, administration, and maintenance of indexing the search engine including blacklisting, moderation, and communication with the community. Here is how YaCy performs these operations:
+</p>
+<ul><li>Community components
+<ol><li>Web forum<sup id="cite_ref-yacy-forum_5-0" class="reference"><a href="#cite_note-yacy-forum-5">&#91;5&#93;</a></sup></li>
+<li>Statistics</li>
+<li>XML API</li></ol></li>
+<li>Maintenance
+<ol><li>Web Server</li>
+<li>Indexing</li>
+<li>Crawler with Balancer</li>
+<li>Peer-to-Peer Server Communication</li></ol></li>
+<li>Content organization
+<ol><li>Blacklisting and Filtering</li>
+<li>Search interface</li>
+<li>Bookmarks</li>
+<li>Monitoring search results</li></ol></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=YaCy&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/28px-Free_and_open-source_software_logo_%282009%29.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/42px-Free_and_open-source_software_logo_%282009%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/56px-Free_and_open-source_software_logo_%282009%29.svg.png 2x" data-file-width="512" data-file-height="512" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Free_software" class="mw-redirect" title="Portal:Free software">Free software portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Dooble" title="Dooble">Dooble</a> – an open-source web browser with an integrated YaCy Search Engine Tool Widget</li>
+<li><a href="/w/index.php?title=Sciencenet&amp;action=edit&amp;redlink=1" class="new" title="Sciencenet (page does not exist)">Sciencenet</a> – a search engine for scientific knowledge, based on YaCy</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=YaCy&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.theregister.co.uk/2011/11/29/yacy_google_open_source_engine/">"YaCy takes on Google with open source search engine"</a>. <i>The Register</i>. 2011-11-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Register&amp;rft.atitle=YaCy+takes+on+Google+with+open+source+search+engine&amp;rft.date=2011-11-29&amp;rft_id=https%3A%2F%2Fwww.theregister.co.uk%2F2011%2F11%2F29%2Fyacy_google_open_source_engine%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYaCy" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.pcworld.com/article/245414/yacy_its_about_freedom_not_beating_google.html">"YaCy: It's About Freedom, Not Beating Google"</a>. <i>PC World</i>. 2011-12-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PC+World&amp;rft.atitle=YaCy%3A+It%27s+About+Freedom%2C+Not+Beating+Google&amp;rft.date=2011-12-03&amp;rft_id=https%3A%2F%2Fwww.pcworld.com%2Farticle%2F245414%2Fyacy_its_about_freedom_not_beating_google.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYaCy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.heise.de/newsticker/foren/go.shtml?read=1&amp;msg_id=4744034&amp;forum_id=50682">"Ich entwickle eine P2P-basierende Suchmaschine. Wer macht mit?"</a>. <i>Heise Online</i> (in German). 2003-12-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-05-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Heise+Online&amp;rft.atitle=Ich+entwickle+eine+P2P-basierende+Suchmaschine.+Wer+macht+mit%3F&amp;rft.date=2003-12-15&amp;rft_id=http%3A%2F%2Fwww.heise.de%2Fnewsticker%2Fforen%2Fgo.shtml%3Fread%3D1%26msg_id%3D4744034%26forum_id%3D50682&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYaCy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://yacy.net/Technology.html">"YaCy Technology Architecture"</a>. YaCy.net<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=YaCy+Technology+Architecture&amp;rft.pub=YaCy.net&amp;rft_id=http%3A%2F%2Fyacy.net%2FTechnology.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYaCy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-yacy-forum-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-yacy-forum_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://forum.yacy-websuche.de/">"forum.yacy.de"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 June</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=forum.yacy.de&amp;rft_id=http%3A%2F%2Fforum.yacy-websuche.de%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYaCy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:YaCy" class="extiw" title="commons:Category:YaCy">YaCy</a></b></i>.</td></tr></tbody></table>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=YaCy&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://yacy.net/en">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://github.com/yacy">Development and source code</a> on <a href="/wiki/GitHub" title="GitHub">GitHub</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Distributed_search_engines" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Distributed_search_engines" title="Template:Distributed search engines"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/w/index.php?title=Template_talk:Distributed_search_engines&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Distributed search engines (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Distributed_search_engines&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Distributed_search_engines" style="font-size:114%;margin:0 4em"><a href="/wiki/Distributed_search_engine" title="Distributed search engine">Distributed search engines</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Distributed web search</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Blippex&amp;action=edit&amp;redlink=1" class="new" title="Blippex (page does not exist)">Blippex</a></li>
+<li><a href="/wiki/FAROO" title="FAROO">FAROO</a></li>
+<li><a href="/w/index.php?title=Sciencenet&amp;action=edit&amp;redlink=1" class="new" title="Sciencenet (page does not exist)">Sciencenet</a></li>
+<li><a href="/wiki/Seeks" title="Seeks">Seeks</a></li>
+<li><a class="mw-selflink selflink">YaCy</a></li>
+<li><i><a href="/w/index.php?title=Alvis_Project&amp;action=edit&amp;redlink=1" class="new" title="Alvis Project (page does not exist)">Alvis</a></i></li>
+<li><i><a href="/w/index.php?title=InfraSearch&amp;action=edit&amp;redlink=1" class="new" title="InfraSearch (page does not exist)">InfraSearch</a></i></li>
+<li><i><a href="/w/index.php?title=Wowd&amp;action=edit&amp;redlink=1" class="new" title="Wowd (page does not exist)">Wowd</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Distributed_web_crawling" title="Distributed web crawling">Distributed web crawlers</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Grub_(search_engine)" title="Grub (search engine)">Grub</a></li>
+<li><a href="/w/index.php?title=Boitho&amp;action=edit&amp;redlink=1" class="new" title="Boitho (page does not exist)">Boitho</a> Distributed Crawler</li>
+<li><a href="/w/index.php?title=Majestic-12_Distributed_Search_Engine&amp;action=edit&amp;redlink=1" class="new" title="Majestic-12 Distributed Search Engine (page does not exist)">Majestic-12</a>: DSearch</li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><i>italics</i> = defunct</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2227
+Cached time: 20180929135448
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.264 seconds
+Real time usage: 0.374 seconds
+Preprocessor visited node count: 1412/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 31092/2097152 bytes
+Template argument size: 2176/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 12480/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.113/10.000 seconds
+Lua memory usage: 3.76 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  310.947      1 -total
+ 44.97%  139.820      2 Template:Infobox
+ 35.14%  109.266      1 Template:Infobox_software
+ 25.26%   78.547      1 Template:Reflist
+ 22.02%   68.468      5 Template:Cite_web
+ 15.79%   49.105      1 Template:Infobox_software/simple
+ 14.69%   45.665      1 Template:More_citations_needed
+  9.81%   30.514      1 Template:Ambox
+  8.63%   26.824      1 Template:Release_date_and_age
+  7.60%   23.625      1 Template:Commons_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2315033-0!canonical and timestamp 20180929135448 and revision id 846494058
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=YaCy&amp;oldid=846494058">https://en.wikipedia.org/w/index.php?title=YaCy&amp;oldid=846494058</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Anonymity_networks" title="Category:Anonymity networks">Anonymity networks</a></li><li><a href="/wiki/Category:Distributed_data_storage" title="Category:Distributed data storage">Distributed data storage</a></li><li><a href="/wiki/Category:Free_search_engine_software" title="Category:Free search engine software">Free search engine software</a></li><li><a href="/wiki/Category:Free_web_crawlers" title="Category:Free web crawlers">Free web crawlers</a></li><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li><li><a href="/wiki/Category:Java_platform_software" title="Category:Java platform software">Java platform software</a></li><li><a href="/wiki/Category:Cross-platform_software" title="Category:Cross-platform software">Cross-platform software</a></li><li><a href="/wiki/Category:Software_using_the_GPL_license" title="Category:Software using the GPL license">Software using the GPL license</a></li><li><a href="/wiki/Category:Peer-to-peer_software" title="Category:Peer-to-peer software">Peer-to-peer software</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2014" title="Category:Articles needing additional references from May 2014">Articles needing additional references from May 2014</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_September_2006" title="Category:Articles containing potentially dated statements from September 2006">Articles containing potentially dated statements from September 2006</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=YaCy" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=YaCy" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/YaCy" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:YaCy" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/YaCy">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=YaCy&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=YaCy&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/YaCy" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/YaCy" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=YaCy&amp;oldid=846494058" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=YaCy&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1759675" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=YaCy&amp;id=846494058" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=YaCy">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=YaCy&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=YaCy&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:YaCy" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%8A%D8%A7%D8%B3%D9%8A" title="ياسي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/YaCy" title="YaCy – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/YaCy" title="YaCy – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/YaCy" title="YaCy – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/YaCy" title="YaCy – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/YaCy" title="YaCy – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/YaCy" title="YaCy – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AF%E0%A4%B8%E0%A5%80" title="यसी – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/YaCy" title="YaCy – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/YaCy" title="YaCy – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/YaCy" title="YaCy – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/YaCy" title="YaCy – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/YaCy" title="YaCy – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/YaCy" title="YaCy – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/YaCy" title="YaCy – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/YaCy" title="YaCy – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/YaCy" title="YaCy – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1759675#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 19 June 2018, at 03:18<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=YaCy&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.264","walltime":"0.374","ppvisitednodes":{"value":1412,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":31092,"limit":2097152},"templateargumentsize":{"value":2176,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":12480,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  310.947      1 -total"," 44.97%  139.820      2 Template:Infobox"," 35.14%  109.266      1 Template:Infobox_software"," 25.26%   78.547      1 Template:Reflist"," 22.02%   68.468      5 Template:Cite_web"," 15.79%   49.105      1 Template:Infobox_software/simple"," 14.69%   45.665      1 Template:More_citations_needed","  9.81%   30.514      1 Template:Ambox","  8.63%   26.824      1 Template:Release_date_and_age","  7.60%   23.625      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.113","limit":"10.000"},"limitreport-memusage":{"value":3945235,"limit":52428800}},"cachereport":{"origin":"mw2227","timestamp":"20180929135448","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":70,"wgHostname":"mw2170"});});</script>
+	</body>
+</html>

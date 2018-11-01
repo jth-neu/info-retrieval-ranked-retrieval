@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Sproose - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sproose","wgTitle":"Sproose","wgCurRevisionId":840541606,"wgRevisionId":840541606,"wgArticleId":18484830,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from June 2013","Wikipedia articles with possible conflicts of interest from July 2009","Articles containing potentially dated statements from April 2014","All articles containing potentially dated statements","Internet search engines"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sproose","wgRelevantArticleId":18484830,"wgRequestId":"W6-x6grAAD0AACF52NcAAACQ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7581349","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/d5/Sprooselogo.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sproose"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Sproose&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Sproose&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Sproose"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sproose rootpage-Sproose skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Sproose</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="plainlinks metadata ambox ambox-content ambox-COI" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="Unbalanced scales.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/45px-Unbalanced_scales.svg.png" width="45" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/68px-Unbalanced_scales.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/90px-Unbalanced_scales.svg.png 2x" data-file-width="400" data-file-height="354" /></div></td><td class="mbox-text"><div class="mbox-text-span"><b> A major contributor to this article appears to have a <a href="/wiki/Wikipedia:Conflict_of_interest" title="Wikipedia:Conflict of interest">close connection</a> with its subject.</b><span class="hide-when-compact"> It may require <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">cleanup</a> to comply with Wikipedia's content policies, particularly <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>. Please discuss further on the <a href="/wiki/Talk:Sproose" title="Talk:Sproose">talk page</a>.</span>  <small><i>(July 2009)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">Sproose.com</caption><tbody><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Sprooselogo.JPG" class="image"><img alt="Sprooselogo.JPG" src="//upload.wikimedia.org/wikipedia/commons/d/d5/Sprooselogo.JPG" width="250" height="103" data-file-width="190" data-file-height="78" /></a></td></tr><tr><th scope="row"><a href="/wiki/Types_of_business_entity" class="mw-redirect" title="Types of business entity">Type of business</a></th><td class="category">
+Internet</td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Type of site</div></th><td>
+<a href="/wiki/Web_search_engine" title="Web search engine">Search Engine</a> with user voting</td></tr><tr><th scope="row">Available&#160;in</th><td>
+English, German, French, Spanish</td></tr><tr><th scope="row">Headquarters</th><td class="label">
+<a href="/wiki/Danville,_California" title="Danville, California">Danville, California</a>, USA</td></tr><tr><th scope="row"><a href="/wiki/Entrepreneurship" title="Entrepreneurship">Founder(s)</a></th><td>
+<a href="/w/index.php?title=Bob_Pack&amp;action=edit&amp;redlink=1" class="new" title="Bob Pack (page does not exist)">Bob Pack</a></td></tr><tr><th scope="row">Website</th><td class="url">
+<span class="url"><a rel="nofollow" class="external text" href="http://www.sproose.com/">www<wbr />.sproose<wbr />.com</a></span></td></tr><tr><th scope="row"><a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa</a> rank</th><td>
+<img alt="Negative increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/11px-Increase_Negative.svg.png" title="Negative increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/17px-Increase_Negative.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Increase_Negative.svg/22px-Increase_Negative.svg.png 2x" data-file-width="300" data-file-height="300" /> 2,634,785 (April 2014<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Sproose&amp;action=edit">&#91;update&#93;</a></sup>)<sup id="cite_ref-alexa_1-0" class="reference"><a href="#cite_note-alexa-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row"><a href="/wiki/Online_advertising" title="Online advertising">Advertising</a></th><td>
+CPC text ads</td></tr><tr><th scope="row">Launched</th><td>
+2007</td></tr><tr><th scope="row">Current&#160;status</th><td class="category">
+closed</td></tr></tbody></table>
+<p><b>Sproose</b> was a consumer <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engine</a> launched in August 2007<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> by founder Bob Pack. Sproose provided web search results from partners including <a href="/wiki/MSN" title="MSN">MSN</a>, <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a> and <a href="/wiki/Ask.com" title="Ask.com">Ask.com</a>. Sproose intended to have better-quality results than algorithmic search engines because its users were able to influence the ranking order of the search results by voting for websites (which moved them up in the order of search results) and deleting bad or spam results. It had been compared to <a href="/wiki/Digg" title="Digg">Digg</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> and <a href="/wiki/Mahalo.com" title="Mahalo.com">Mahalo.com</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> among other <a href="/wiki/Social_search" title="Social search">social search</a> websites.
+</p><p>The domain sproose.com is now owned by a British artist.
+</p>
+<h2><span class="mw-headline" id="Use_of_the_site">Use of the site</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sproose&amp;action=edit&amp;section=1" title="Edit section: Use of the site">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Registration was not required to search on Sproose. If a user voted for a website, the vote was saved temporarily. In order to save the voted sites permanently, a user had to sign up for an account. When a user registered with Sproose, a personal profile page was created. Each time a site was voted on, a thumbnail and URL of the site would be posted on the user's profile page, which may be public or private. Users could comment on each website; comments were visible to other users.
+</p><p>In January 2009, Sproose launched a recommendation engine<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> and voting platform. The recommendation engine allowed users to rate and vote for content on partnered websites, and it allowed for more information to be delivered to a user from the partnered site. It also allowed sharing of information through its "widgets"<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> on social networks such as Facebook.
+</p>
+<h2><span class="mw-headline" id="Company_background">Company background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sproose&amp;action=edit&amp;section=2" title="Edit section: Company background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sproose was privately held. The management team was:<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<ul><li>Bob Pack – Founder and CEO</li>
+<li>Gus Bourg – Vice President of Search Technology</li>
+<li>Steve Bourg – Vice President of Network Technology</li>
+<li>Stefan Groschupf – CTO</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sproose&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-alexa-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-alexa_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.alexa.com/siteinfo/sproose.com">"Sproose.com Site Info"</a>. <a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa Internet</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-04-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sproose.com+Site+Info&amp;rft.pub=Alexa+Internet&amp;rft_id=http%3A%2F%2Fwww.alexa.com%2Fsiteinfo%2Fsproose.com&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASproose" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://lifehacker.com/software/launch/social-search-engine-sproose-final-now-live-294477.php">"Social search engine Sproose final now live"</a>, <i>Lifehacker</i>, August 29, 2007</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Lifehacker&amp;rft.atitle=Social+search+engine+Sproose+final+now+live&amp;rft.date=2007-08-29&amp;rft_id=http%3A%2F%2Flifehacker.com%2Fsoftware%2Flaunch%2Fsocial-search-engine-sproose-final-now-live-294477.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASproose" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.cnet.com/8301-17939_109-9725153-2.html">"Sproose does social search, bookmarking"</a>, <i>Webware</i>, June 4, 2007</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://techcrunch.com/2007/06/01/sproose-human-powered-search-meets-digg/">"Sproose: Human Powered Search Meets Digg"</a>, <i>TechCrunch</i>, June 1, 2007</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sproose.com/static/en/corporate/recommendation">Recommendation Engine description</a> on Sproose.com</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sproose.com/static/en/corporate/features">Widget description</a> on Sproose.com</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sproose.com/static/en/corporate/facts">Corporate Facts</a> on Sproose.com</span>
+</li>
+</ol></div></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2235
+Cached time: 20180929214307
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.220 seconds
+Real time usage: 0.286 seconds
+Preprocessor visited node count: 1216/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 14402/2097152 bytes
+Template argument size: 1506/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 6846/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.103/10.000 seconds
+Lua memory usage: 2.83 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  256.690      1 -total
+ 38.72%   99.383      1 Template:Infobox_website
+ 31.01%   79.593      1 Template:Infobox
+ 30.30%   77.770      1 Template:Reflist
+ 23.49%   60.286      1 Template:Cite_web
+ 16.09%   41.291      1 Template:COI
+ 14.62%   37.527      1 Template:Ambox
+ 13.35%   34.257      1 Template:Use_mdy_dates
+  8.16%   20.942      2 Template:DMCA
+  7.53%   19.339      2 Template:Dated_maintenance_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18484830-0!canonical and timestamp 20180929214307 and revision id 840541606
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sproose&amp;oldid=840541606">https://en.wikipedia.org/w/index.php?title=Sproose&amp;oldid=840541606</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_June_2013" title="Category:Use mdy dates from June 2013">Use mdy dates from June 2013</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_possible_conflicts_of_interest_from_July_2009" title="Category:Wikipedia articles with possible conflicts of interest from July 2009">Wikipedia articles with possible conflicts of interest from July 2009</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_April_2014" title="Category:Articles containing potentially dated statements from April 2014">Articles containing potentially dated statements from April 2014</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sproose" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sproose" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Sproose" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Sproose" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Sproose">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Sproose&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Sproose&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Sproose" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Sproose" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sproose&amp;oldid=840541606" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sproose&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7581349" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sproose&amp;id=840541606" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sproose">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Sproose&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Sproose&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Sproose" title="Sproose – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7581349#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 10 May 2018, at 15:28<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Sproose&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.220","walltime":"0.286","ppvisitednodes":{"value":1216,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":14402,"limit":2097152},"templateargumentsize":{"value":1506,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6846,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  256.690      1 -total"," 38.72%   99.383      1 Template:Infobox_website"," 31.01%   79.593      1 Template:Infobox"," 30.30%   77.770      1 Template:Reflist"," 23.49%   60.286      1 Template:Cite_web"," 16.09%   41.291      1 Template:COI"," 14.62%   37.527      1 Template:Ambox"," 13.35%   34.257      1 Template:Use_mdy_dates","  8.16%   20.942      2 Template:DMCA","  7.53%   19.339      2 Template:Dated_maintenance_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.103","limit":"10.000"},"limitreport-memusage":{"value":2970752,"limit":52428800}},"cachereport":{"origin":"mw2235","timestamp":"20180929214307","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":389,"wgHostname":"mw2235"});});</script>
+	</body>
+</html>

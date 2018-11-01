@@ -1,0 +1,1168 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Subdivisions of England - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Subdivisions_of_England","wgTitle":"Subdivisions of England","wgCurRevisionId":861884306,"wgRevisionId":861884306,"wgArticleId":222068,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using deprecated image syntax","Wikipedia articles in need of updating from March 2014","All Wikipedia articles in need of updating","Subdivisions of England","Local government in England"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Subdivisions_of_England","wgRelevantArticleId":222068,"wgRequestId":"W7FRLQrAIDwAAIfDcm4AAABB","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q171634","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/England_Administrative_2010.png/1200px-England_Administrative_2010.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Subdivisions_of_England"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Subdivisions_of_England&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Subdivisions_of_England&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Subdivisions_of_England"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Subdivisions_of_England rootpage-Subdivisions_of_England skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Subdivisions of England</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Subdivisions of England</th></tr><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:England_Administrative_2010.png" class="image" title="Administrative map of England (2010)"><img alt="Administrative map of England (2010)" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/England_Administrative_2010.png/300px-England_Administrative_2010.png" width="300" height="377" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/England_Administrative_2010.png/450px-England_Administrative_2010.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/England_Administrative_2010.png/600px-England_Administrative_2010.png 2x" data-file-width="3001" data-file-height="3772" /></a><br />Subdivisions of England (as of 2010) that have a principal local authority: two-tier <a href="/wiki/Non-metropolitan_county" title="Non-metropolitan county">non-metropolitan counties</a> and their <a href="/wiki/Non-metropolitan_district" title="Non-metropolitan district">non-metropolitan districts</a>; <a href="/wiki/Metropolitan_borough" title="Metropolitan borough">metropolitan boroughs</a>; <a href="/wiki/Unitary_authorities_of_England" title="Unitary authorities of England">unitary authorities</a>; <a href="/wiki/London_borough" class="mw-redirect" title="London borough">London boroughs</a>; and the <i>sui generis</i> <a href="/wiki/City_of_London" title="City of London">City of London</a> and <a href="/wiki/Isles_of_Scilly" title="Isles of Scilly">Isles of Scilly</a>.</td></tr><tr><th scope="row">Location</th><td>
+<a href="/wiki/England" title="England">England</a></td></tr><tr><th scope="row">Subdivisions</th><td>
+<table class="infobox" style="width:22em;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none;width:auto;"><tbody><tr><th scope="row" style="font-weight:normal;white-space:nowrap;"><i>Type</i></th><td style="text-align:right;">
+<i>Number</i></td></tr><tr><th scope="row" style="font-weight:normal;white-space:nowrap;"><a href="/wiki/Regions_of_England" title="Regions of England">Region</a></th><td style="text-align:right;">
+9</td></tr><tr><th scope="row" style="font-weight:normal;white-space:nowrap;"><a href="/wiki/Ceremonial_counties_of_England" title="Ceremonial counties of England">Ceremonial county</a></th><td style="text-align:right;">
+48</td></tr><tr><th scope="row" style="font-weight:normal;white-space:nowrap;"><a href="/wiki/Metropolitan_and_non-metropolitan_counties_of_England" title="Metropolitan and non-metropolitan counties of England">Metropolitan county</a></th><td style="text-align:right;">
+6</td></tr><tr><th scope="row" style="font-weight:normal;white-space:nowrap;"><a href="/wiki/Metropolitan_and_non-metropolitan_counties_of_England" title="Metropolitan and non-metropolitan counties of England">Non-metropolitan county</a></th><td style="text-align:right;">
+77</td></tr><tr><th scope="row" style="font-weight:normal;white-space:nowrap;"><span style="position: relative; top: 0.1em;"><a href="/wiki/Districts_of_England" title="Districts of England">District</a></span></th><td style="text-align:right;">
+326<sup class="reference plainlinks nourlexpansion" id="ref_district_1"><a href="#endnote_district_1">D1</a></sup></td></tr><tr><th scope="row" style="font-weight:normal;white-space:nowrap;"><a href="/wiki/Civil_parishes_in_England" class="mw-redirect" title="Civil parishes in England">Civil parish</a></th><td style="text-align:right;">
+<a href="/wiki/Approximation" title="Approximation">~</a>4,500</td></tr></tbody></table></td></tr></tbody></table>
+<table class="vertical-navbox vcard" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;width:21.0em;"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><div class="adr" style="font-size:smaller"><span class="fn org country-name"><a href="/wiki/England" title="England">England</a></span>
+</div></th></tr><tr><th><a href="/wiki/File:Royal_Arms_of_England.svg" class="image"><img alt="Royal Arms of England.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Royal_Arms_of_England.svg/125px-Royal_Arms_of_England.svg.png" width="125" height="146" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Royal_Arms_of_England.svg/188px-Royal_Arms_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Royal_Arms_of_England.svg/250px-Royal_Arms_of_England.svg.png 2x" data-file-width="410" data-file-height="478" /></a></th></tr><tr><th style="border-bottom: #aaa 1px solid"><span class="nowrap" style="font-weight:normal">This article is part of a series on the</span><br /><span style="font-weight:bold"><a href="/wiki/Politics_of_England" title="Politics of England">politics and government of<br />England</a></span></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Governance_of_England" title="Governance of England">Governance</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding:0 0.25em 0.5em;text-align:left;">
+<ul><li><a href="/wiki/Monarchy_of_the_United_Kingdom" title="Monarchy of the United Kingdom">Monarch</a>
+<ul><li><dl><dd>Queen <a href="/wiki/Elizabeth_II" title="Elizabeth II">Elizabeth II</a></dd></dl></li></ul></li></ul>
+<ul><li><a href="/wiki/Government_of_the_United_Kingdom" title="Government of the United Kingdom">HM Government</a>
+<ul><li><dl><dd><a href="/wiki/Departments_of_the_United_Kingdom_Government" class="mw-redirect" title="Departments of the United Kingdom Government">Departments</a></dd></dl>
+<ul><li><dl><dd><a href="/wiki/Cabinet_of_the_United_Kingdom" title="Cabinet of the United Kingdom">Ministers</a></dd></dl></li></ul></li></ul></li></ul>
+<ul><li><a href="/wiki/Parliament_of_the_United_Kingdom" title="Parliament of the United Kingdom">Parliament of the United Kingdom</a>
+<ul><li><a href="/wiki/Legislative_Grand_Committee" title="Legislative Grand Committee">Legislative Grand Committee</a></li>
+<li><a href="/wiki/List_of_Parliamentary_constituencies_in_the_United_Kingdom" class="mw-redirect" title="List of Parliamentary constituencies in the United Kingdom">Constituencies</a>
+<ul><li><dl><dd><a href="/wiki/List_of_MPs_for_constituencies_in_England_2017-" class="mw-redirect" title="List of MPs for constituencies in England 2017-">Current MPs</a></dd></dl></li></ul></li>
+<li><a href="/wiki/Elections_in_England#UK_Parliament" class="mw-redirect" title="Elections in England">Elections</a></li></ul></li></ul>
+<ul><li><a href="/wiki/West_Lothian_question" title="West Lothian question">West Lothian question</a></li>
+<li><a href="/wiki/Devolved_English_parliament" title="Devolved English parliament">Devolution proposals</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Regions_of_England" title="Regions of England">Regions</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding:0 0.25em 0.5em;text-align:left;;text-align:center;"><div class="hlist hlist-separated"><ul><li><a href="/wiki/East_Midlands" title="East Midlands">East Midlands</a></li><li><a href="/wiki/East_of_England" title="East of England">East of England</a></li><li><a href="/wiki/Greater_London" title="Greater London">London</a></li><li><a href="/wiki/North_East_England" title="North East England">North East</a></li><li><a href="/wiki/North_West_England" title="North West England">North West</a></li><li><a href="/wiki/South_East_England" title="South East England">South East</a></li><li><a href="/wiki/South_West_England" title="South West England">South West</a></li><li><a href="/wiki/West_Midlands_(region)" title="West Midlands (region)">West Midlands</a></li><li><a href="/wiki/Yorkshire_and_the_Humber" title="Yorkshire and the Humber">Yorkshire and the Humber</a></li></ul></div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Judiciary_of_England_and_Wales" title="Judiciary of England and Wales">Judiciary</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding:0 0.25em 0.5em;text-align:left;;text-align:center;"><div class="plainlist"><ul><li><a href="/wiki/English_law" title="English law">English Law</a></li><li><span class="nowrap"><a href="/wiki/Supreme_Court_of_the_United_Kingdom" title="Supreme Court of the United Kingdom">Supreme Court of the United Kingdom</a></span></li><li><a href="/wiki/Judiciary_of_England_and_Wales" title="Judiciary of England and Wales">Judiciary</a></li><li><a href="/wiki/Courts_of_England_and_Wales" title="Courts of England and Wales">Courts</a></li></ul></div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left">England in the <a href="/wiki/European_Union" title="European Union">EU</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding:0 0.25em 0.5em;text-align:left;">
+<ul><li><span class="nowrap"><a href="/wiki/Elections_in_the_United_Kingdom#European_Parliament_elections" title="Elections in the United Kingdom">UK elections to the</a> <a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a></span></li>
+<li><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/European_Parliament_constituency" title="European Parliament constituency">European Parliament constituencies</a> in England</div>
+<dl><dd><a href="/wiki/East_of_England_(European_Parliament_constituency)" title="East of England (European Parliament constituency)">East of England</a></dd>
+<dd><a href="/wiki/East_Midlands_(European_Parliament_constituency)" title="East Midlands (European Parliament constituency)">East Midlands</a></dd>
+<dd><a href="/wiki/London_(European_Parliament_constituency)" title="London (European Parliament constituency)">London</a></dd>
+<dd><a href="/wiki/North_East_England_(European_Parliament_constituency)" title="North East England (European Parliament constituency)">North East England</a></dd>
+<dd><a href="/wiki/North_West_England_(European_Parliament_constituency)" title="North West England (European Parliament constituency)">North West England</a></dd>
+<dd><a href="/wiki/South_East_England_(European_Parliament_constituency)" title="South East England (European Parliament constituency)">South East England</a></dd>
+<dd><a href="/wiki/South_West_England_(European_Parliament_constituency)" title="South West England (European Parliament constituency)">South West England</a></dd>
+<dd><a href="/wiki/West_Midlands_(European_Parliament_constituency)" title="West Midlands (European Parliament constituency)">West Midlands</a></dd>
+<dd><a href="/wiki/Yorkshire_and_the_Humber_(European_Parliament_constituency)" title="Yorkshire and the Humber (European Parliament constituency)">Yorkshire and the Humber</a></dd></dl></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Local_government_in_England" title="Local government in England">Local Government</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding:0 0.25em 0.5em;text-align:left;">
+<ul><li><a href="/wiki/Ceremonial_counties_of_England" title="Ceremonial counties of England">Ceremonial Counties</a></li>
+<li><a href="/wiki/Administrative_divisions_of_England" class="mw-redirect" title="Administrative divisions of England">Administrative Divisions</a>
+<ul><li><a href="/wiki/Greater_London" title="Greater London">Greater London</a>
+<ul><li><dl><dd><a href="/wiki/London_Boroughs" class="mw-redirect" title="London Boroughs">London Boroughs</a></dd></dl></li></ul></li>
+<li><a href="/wiki/Combined_authorities" class="mw-redirect" title="Combined authorities">Combined Authorities</a></li>
+<li><a href="/wiki/Metropolitan_and_non-metropolitan_counties_of_England" title="Metropolitan and non-metropolitan counties of England">Counties</a>
+<ul><li><dl><dd><a href="/wiki/Districts_of_England" title="Districts of England">Districts</a></dd></dl></li></ul></li>
+<li><a href="/wiki/Unitary_authorities_of_England" title="Unitary authorities of England">Unitary Authorities</a></li>
+<li><a href="/wiki/Civil_parishes_in_England" class="mw-redirect" title="Civil parishes in England">Civil Parishes</a> (<a href="/wiki/List_of_civil_parishes_in_England" title="List of civil parishes in England">list</a>)</li>
+<li><a href="/wiki/Unparished_area" title="Unparished area">Unparished Area</a></li></ul></li></ul></div></div></td>
+</tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;">
+<a href="/wiki/File:Flag_of_England.svg" class="image"><img alt="Flag of England.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/32px-Flag_of_England.svg.png" width="32" height="19" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/48px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/64px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a> <a href="/wiki/Portal:England" title="Portal:England">England&#32;portal</a>  <div class="hlist" style="text-align:center;font-weight:normal;">
+<ul><li><a href="/wiki/Outline_of_political_science#Politics_by_region" title="Outline of political science">Other countries</a></li>
+<li><a href="https://commons.wikimedia.org/wiki/Atlas_of_England" class="extiw" title="commons:Atlas of England">Atlas</a></li></ul>
+</div></td></tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Politics_of_England" title="Template:Politics of England"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Politics_of_England" title="Template talk:Politics of England"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Politics_of_England&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>The <b>subdivisions of <a href="/wiki/England" title="England">England</a></b> constitute a hierarchy of <a href="/wiki/Administrative_division" title="Administrative division">administrative divisions</a> and non-administrative ceremonial areas.
+</p><p>Overall, England is divided into <a href="/wiki/Regions_of_England" title="Regions of England">nine regions</a> and <a href="/wiki/Ceremonial_counties_of_England" title="Ceremonial counties of England">48 ceremonial counties</a>, although these have only a limited role in public policy. For the purposes of <a href="/wiki/Local_government_in_England" title="Local government in England">local government</a>, the country is divided into <a href="/wiki/Counties_of_England" title="Counties of England">counties</a>, <a href="/wiki/Districts_of_England" title="Districts of England">districts</a> and <a href="/wiki/Civil_parishes_of_England" class="mw-redirect" title="Civil parishes of England">parishes</a>. In some areas, counties and districts form a two-tier administrative structure, while in others they are combined under a <a href="/wiki/Unitary_authority" title="Unitary authority">unitary authority</a>. Parishes cover only part of England.
+</p><p>The current system is the result of incremental reform which has its origins in legislation enacted in 1965 and <a href="/wiki/Local_Government_Act_1972" title="Local Government Act 1972">1972</a>.<sup id="cite_ref-Jones_1-0" class="reference"><a href="#cite_note-Jones-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Regions"><span class="tocnumber">1</span> <span class="toctext">Regions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Counties_and_districts"><span class="tocnumber">2</span> <span class="toctext">Counties and districts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Two-tier_non-metropolitan_counties"><span class="tocnumber">2.1</span> <span class="toctext">Two-tier non-metropolitan counties</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Metropolitan_counties"><span class="tocnumber">2.2</span> <span class="toctext">Metropolitan counties</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#London"><span class="tocnumber">2.3</span> <span class="toctext">London</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Unitary_authorities"><span class="tocnumber">2.4</span> <span class="toctext">Unitary authorities</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Isles_of_Scilly"><span class="tocnumber">2.5</span> <span class="toctext">Isles of Scilly</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Civil_parishes"><span class="tocnumber">3</span> <span class="toctext">Civil parishes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Lists_of_subdivisions"><span class="tocnumber">4</span> <span class="toctext">Lists of subdivisions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Regions_2"><span class="tocnumber">4.1</span> <span class="toctext">Regions</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Two-tier_non-metropolitan_counties_2"><span class="tocnumber">4.2</span> <span class="toctext">Two-tier non-metropolitan counties</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Metropolitan_counties_2"><span class="tocnumber">4.3</span> <span class="toctext">Metropolitan counties</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#London_2"><span class="tocnumber">4.4</span> <span class="toctext">London</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Unitary_authorities_2"><span class="tocnumber">4.5</span> <span class="toctext">Unitary authorities</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Civil_parishes_2"><span class="tocnumber">4.6</span> <span class="toctext">Civil parishes</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Hierarchical_list_of_regions,_counties_and_districts"><span class="tocnumber">4.7</span> <span class="toctext">Hierarchical list of regions, counties and districts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Regions">Regions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subdivisions_of_England&amp;action=edit&amp;section=1" title="Edit section: Regions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Regions_of_England" title="Regions of England">Regions of England</a></div>
+<p>At the highest level, all of England is divided into nine regions that are each made up of a number of counties and districts. These 'government office regions' were created in 1994,<sup id="cite_ref-Atkinson_2-0" class="reference"><a href="#cite_note-Atkinson-2">&#91;2&#93;</a></sup> and since the <a href="/wiki/European_Parliament_election,_1999_(UK)" class="mw-redirect" title="European Parliament election, 1999 (UK)">1999 Euro-elections</a>, they have been used as the <a href="/wiki/European_Parliament_constituencies_in_the_United_Kingdom" title="European Parliament constituencies in the United Kingdom">European Parliament constituencies in the United Kingdom</a> and in England's <a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a> constituencies. 
+</p><p>The regions vary greatly in their areas covered, populations and contributions to the national economy.<sup id="cite_ref-Atkinson_2-1" class="reference"><a href="#cite_note-Atkinson-2">&#91;2&#93;</a></sup> All have the same status, except <a href="/wiki/Greater_London" title="Greater London">London</a> which has substantive <a href="/wiki/Devolution" title="Devolution">devolved powers</a>.<sup id="cite_ref-Guide_London_3-0" class="reference"><a href="#cite_note-Guide_London-3">&#91;3&#93;</a></sup>
+</p><p>There was a failed attempt to create <a href="/wiki/Northern_England_devolution_referendums,_2004" class="mw-redirect" title="Northern England devolution referendums, 2004">elected regional assemblies</a> outside London in 2004 and since then the structures of regional governance (<a href="/wiki/Regional_assembly_(England)" title="Regional assembly (England)">regional assemblies</a>, <a href="/wiki/Regional_development_agency" title="Regional development agency">regional development agencies</a> and <a href="/wiki/Local_authority_leaders%27_board" title="Local authority leaders&#39; board">local authority leaders' boards</a>) have been subject to review.  Following the change of government in 2010, these have been scheduled for abolition by 2012.<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The date of the event predicted near this tag has passed. (March 2014)">needs update</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Counties_and_districts">Counties and districts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subdivisions_of_England&amp;action=edit&amp;section=2" title="Edit section: Counties and districts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main articles: <a href="/wiki/Counties_of_England" title="Counties of England">Counties of England</a> and <a href="/wiki/Districts_of_England" title="Districts of England">Districts of England</a></div>
+<p>For non-administrative purposes, England is wholly divided into 48 counties,<sup id="cite_ref-LA_1997_4-0" class="reference"><a href="#cite_note-LA_1997-4">&#91;4&#93;</a></sup> commonly known, but not named in statute, as <a href="/wiki/Ceremonial_counties_of_England" title="Ceremonial counties of England">ceremonial counties</a>. These counties are used for the purposes of appointing <a href="/wiki/Lord_Lieutenant" class="mw-redirect" title="Lord Lieutenant">Lords Lieutenant</a><sup id="cite_ref-LA_1997_4-1" class="reference"><a href="#cite_note-LA_1997-4">&#91;4&#93;</a></sup> who are historically the Crown's representatives in those areas. Ceremonial counties are often different from the metropolitan and non-metropolitan counties used for local government as they include the areas covered by unitary authorities. They are taken into consideration when drawing up Parliamentary constituency boundaries.
+</p><p>For local government, England is divided into areas with a two-tier structure of counties and districts governed by two local authorities, and unitary authority areas where there is one local authority. The arrangement varies in different parts of the country and there are four main configurations: non-metropolitan two-tier 'shire' areas, six metropolitan counties, unitary authorities, and Greater London.
+</p>
+<h3><span class="mw-headline" id="Two-tier_non-metropolitan_counties">Two-tier non-metropolitan counties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subdivisions_of_England&amp;action=edit&amp;section=3" title="Edit section: Two-tier non-metropolitan counties">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Most of the geographical area of England is within a two-tier non-metropolitan arrangement. In 27 of these areas the <a href="/wiki/County_council" title="County council">county councils</a> provide the majority of services, including education and social services, and the 201 district councils have a more limited role.<sup id="cite_ref-Jones_1-1" class="reference"><a href="#cite_note-Jones-1">&#91;1&#93;</a></sup> Non-metropolitan districts can additionally have the status of borough or city, although this has no effect on their powers or functions. All two-tier non-metropolitan counties are also ceremonial counties.<sup class="reference plainlinks nourlexpansion" id="ref_county_3"><a href="#endnote_county_3">C3</a></sup> <a href="/wiki/Berkshire" title="Berkshire">Berkshire</a> is an anomaly in this arrangement whereby its districts are unitary authorities, but the non-metropolitan county was not formally abolished<sup id="cite_ref-Berks_1996_5-0" class="reference"><a href="#cite_note-Berks_1996-5">&#91;5&#93;</a></sup> and it is also a ceremonial county.<sup id="cite_ref-LA_1997_4-2" class="reference"><a href="#cite_note-LA_1997-4">&#91;4&#93;</a></sup> <a href="/wiki/Bedfordshire" title="Bedfordshire">Bedfordshire</a> and <a href="/wiki/Cheshire" title="Cheshire">Cheshire</a> are two former non-metropolitan counties that continue to exist only as ceremonial counties.
+</p>
+<h3><span class="mw-headline" id="Metropolitan_counties">Metropolitan counties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subdivisions_of_England&amp;action=edit&amp;section=4" title="Edit section: Metropolitan counties">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:English_regions_and_counties_by_type_2009.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/English_regions_and_counties_by_type_2009.svg/300px-English_regions_and_counties_by_type_2009.svg.png" width="300" height="364" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/English_regions_and_counties_by_type_2009.svg/450px-English_regions_and_counties_by_type_2009.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/English_regions_and_counties_by_type_2009.svg/600px-English_regions_and_counties_by_type_2009.svg.png 2x" data-file-width="1108" data-file-height="1345" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:English_regions_and_counties_by_type_2009.svg" class="internal" title="Enlarge"></a></div><div class="legend-line"><span style="display: inline-block; vertical-align: middle; width: 2em; height: 0px; border-style: none; border-top: 2px dotted #000; border-top: 3px solid #646464;">&#160;</span>&#160;<a href="/wiki/Regions_of_England" title="Regions of England">regional</a> boundary</div> <div class="legend-line"><span style="display: inline-block; vertical-align: middle; width: 2em; height: 0px; border-style: none; border-top: 2px dotted #000; border-top: 2px solid #646464;">&#160;</span>&#160;<a href="/wiki/Ceremonial_counties_of_England" title="Ceremonial counties of England">ceremonial county</a> boundary</div> <div class="legend-line"><span style="display: inline-block; vertical-align: middle; width: 2em; height: 0px; border-style: none; border-top: 2px dotted #000; border-top: 1px solid #00c852;">&#160;</span>&#160;unitary authority boundary</div> <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid #A0A0A0; background-color: #ffd0d0; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;two-tier <a href="/wiki/Non-metropolitan_county" title="Non-metropolitan county">non-metropolitan county</a></div> <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid #A0A0A0; background-color: #cefef2; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;<a href="/wiki/Metropolitan_county" title="Metropolitan county">metropolitan county</a></div> <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid #A0A0A0; background-color: #f8a20c; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;<a href="/wiki/Greater_London" title="Greater London">Greater London</a> (including <a href="/wiki/City_of_London" title="City of London">City of London</a>)</div> <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid #00c852; background-color: #3ce67b; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;<a href="/wiki/Unitary_authorities_of_England" title="Unitary authorities of England">unitary authority</a> (non-metropolitan county)</div></div></div></div>
+<p>Six large conurbations of England correspond to <a href="/wiki/Metropolitan_county" title="Metropolitan county">metropolitan counties</a>.<sup id="cite_ref-Jones_1-2" class="reference"><a href="#cite_note-Jones-1">&#91;1&#93;</a></sup> Each metropolitan county had a county council providing limited strategic services, such as public transport and planning, from 1974 to 1986.<sup id="cite_ref-Jones_1-3" class="reference"><a href="#cite_note-Jones-1">&#91;1&#93;</a></sup> Despite no longer having county councils the metropolitan counties still legally exist, and are each a ceremonial county. County-level functions, such as public transport, are exercised by joint-boards and other arrangements organised by the district councils. In the metropolitan counties, the 36 district councils operate effectively as unitary authorities and provide the majority of services, including education and social services.<sup id="cite_ref-Atkinson_2-2" class="reference"><a href="#cite_note-Atkinson-2">&#91;2&#93;</a></sup> All metropolitan districts additionally have the status of borough, and some are cities, although this has no effect on their powers or functions. From April 2011 there has been a formal upper-tier structure in Greater Manchester with the creation of the <a href="/wiki/Greater_Manchester_Combined_Authority" title="Greater Manchester Combined Authority">Greater Manchester Combined Authority</a>.<sup id="cite_ref-GMCA_6-0" class="reference"><a href="#cite_note-GMCA-6">&#91;6&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="London">London</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subdivisions_of_England&amp;action=edit&amp;section=5" title="Edit section: London">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Greater_London" title="Greater London">Greater London</a> administrative area created in 1965 corresponds to the London region. Through incremental change, culminating in 2000, the upper-tier authority is the <a href="/wiki/Greater_London_Authority" title="Greater London Authority">Greater London Authority</a>, comprising an elected <a href="/wiki/Mayor_of_London" title="Mayor of London">Mayor of London</a> and the <a href="/wiki/London_Assembly" title="London Assembly">London Assembly</a>.<sup id="cite_ref-Travers_7-0" class="reference"><a href="#cite_note-Travers-7">&#91;7&#93;</a></sup> Greater London is divided into 32 <a href="/wiki/London_borough" class="mw-redirect" title="London borough">London boroughs</a>, also dating from 1965, each governed by a London borough council. The ancient <a href="/wiki/City_of_London" title="City of London">City of London</a> forms a 33rd division and is governed by the <a href="/wiki/City_of_London_Corporation" title="City of London Corporation">City of London Corporation</a>, a <i>sui generis</i> authority unlike any other in England<sup id="cite_ref-Travers_7-1" class="reference"><a href="#cite_note-Travers-7">&#91;7&#93;</a></sup> that has largely avoided any of the reforms of local government in the 19th and 20th centuries.<sup id="cite_ref-Hebbert_8-0" class="reference"><a href="#cite_note-Hebbert-8">&#91;8&#93;</a></sup> The City of London, and the rest of Greater London, each form a ceremonial county. The London borough councils and the City of London Corporation provide the majority of services, for example they are education authorities and co-ordinate waste management, whereas the Greater London Authority is responsible for the key strategic services of public transport, the police, economic development and emergency planning.<sup id="cite_ref-Travers_7-2" class="reference"><a href="#cite_note-Travers-7">&#91;7&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Unitary_authorities">Unitary authorities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subdivisions_of_England&amp;action=edit&amp;section=6" title="Edit section: Unitary authorities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Unitary_authorities_of_England" title="Unitary authorities of England">Unitary authorities of England</a></div>
+<p>Outside London and the metropolitan counties, some parts of England are governed by a single council, commonly called (but not named in statute) as a unitary authority.<sup id="cite_ref-Jones_1-4" class="reference"><a href="#cite_note-Jones-1">&#91;1&#93;</a></sup> Unitary authorities are a combined non-metropolitan county and non-metropolitan district, undertaking the functions of both.<sup id="cite_ref-1992_Act_9-0" class="reference"><a href="#cite_note-1992_Act-9">&#91;9&#93;</a></sup> Unitary authorities can additionally have the status of <a href="/wiki/Borough_status_in_the_United_Kingdom" title="Borough status in the United Kingdom">borough</a> or <a href="/wiki/City_status_in_the_United_Kingdom" title="City status in the United Kingdom">city</a>, although this has no effect on their powers or functions.
+</p><p>46 unitary authorities were <a href="/wiki/Local_Government_Commission_for_England_(1992)" title="Local Government Commission for England (1992)">created between 1995 and 1998</a> and nine more were <a href="/wiki/2009_structural_changes_to_local_government_in_England" title="2009 structural changes to local government in England">created in 2009</a>. They were formed either by non-metropolitan districts taking on county-level functions, or by counties taking on district-level functions. In some cases, borders were altered or districts were combined during this reorganisation. <a href="/wiki/Berkshire" title="Berkshire">Berkshire</a> is an anomaly in this arrangement whereby its districts became unitary authorities, but the non-metropolitan county was not formally abolished.<sup id="cite_ref-Berks_1996_5-1" class="reference"><a href="#cite_note-Berks_1996-5">&#91;5&#93;</a></sup>
+</p><p>For ceremonial purposes, unitary authorities are considered to be part of the county to which they formerly belonged.  Politically, however, they are fully independent entities, unaffiliated with the council of their former county.  For instance, the unitary authority of <a href="/wiki/Plymouth" title="Plymouth">Plymouth</a> is traditionally considered part of <a href="/wiki/Devon" title="Devon">Devon</a>, though politically it is not part of the county.  In the case of <a href="/wiki/Berkshire" title="Berkshire">Berkshire</a>, there is no county council, as all of its former territory is now covered by six unitary authorities, unaffiliated with each other politically.  Although there is no county council in Berkshire, these six unitary authorities comprise the ceremonial county of Berkshire.
+</p>
+<h3><span class="mw-headline" id="Isles_of_Scilly">Isles of Scilly</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subdivisions_of_England&amp;action=edit&amp;section=7" title="Edit section: Isles of Scilly">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Isles_of_Scilly" title="Isles of Scilly">Isles of Scilly</a> are governed by a <i>sui generis</i> local authority called the <a href="/wiki/Council_of_the_Isles_of_Scilly" title="Council of the Isles of Scilly">Council of the Isles of Scilly</a>. The authority was established in 1890 as the Isles of Scilly Rural District Council. It was renamed but otherwise unreformed by the changes in local government that occurred in 1974 in the rest of England outside Greater London.<sup id="cite_ref-1972_Act_10-0" class="reference"><a href="#cite_note-1972_Act-10">&#91;10&#93;</a></sup> Although effectively a unitary authority, for example it is an education authority,<sup id="cite_ref-Scilly_Education_11-0" class="reference"><a href="#cite_note-Scilly_Education-11">&#91;11&#93;</a></sup> the Isles of Scilly are part of the <a href="/wiki/Cornwall" title="Cornwall">Cornwall</a> ceremonial county and combine with <a href="/wiki/Cornwall_Council" title="Cornwall Council">Cornwall Council</a> for services such as health<sup id="cite_ref-Cornwall_PCT_12-0" class="reference"><a href="#cite_note-Cornwall_PCT-12">&#91;12&#93;</a></sup> and economic development.<sup id="cite_ref-Cornwall_Partner_13-0" class="reference"><a href="#cite_note-Cornwall_Partner-13">&#91;13&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Civil_parishes">Civil parishes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subdivisions_of_England&amp;action=edit&amp;section=8" title="Edit section: Civil parishes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Civil_parishes_in_England" class="mw-redirect" title="Civil parishes in England">Civil parishes in England</a></div>
+<p>The civil parish is the most local unit of government in England.<sup id="cite_ref-Jones_1-5" class="reference"><a href="#cite_note-Jones-1">&#91;1&#93;</a></sup> A parish is governed by a <a href="/wiki/Parish_councils_in_England" title="Parish councils in England">parish council</a> or <a href="/wiki/Parish_meeting" title="Parish meeting">parish meeting</a>, which exercises a limited number of functions that would otherwise be delivered by the local authority. There is one civil parish in Greater London (<a href="/wiki/Queen%27s_Park,_London" title="Queen&#39;s Park, London">Queen's Park</a>, in the <a href="/wiki/City_of_Westminster" title="City of Westminster">City of Westminster</a>),<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> and not all of the rest of England is parished. The number of parishes and total area parished is growing.
+</p>
+<h2><span class="mw-headline" id="Lists_of_subdivisions">Lists of subdivisions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subdivisions_of_England&amp;action=edit&amp;section=9" title="Edit section: Lists of subdivisions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Regions_2">Regions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subdivisions_of_England&amp;action=edit&amp;section=10" title="Edit section: Regions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th>Type</th>
+<th>Created</th>
+<th>Number</th>
+<th width="100%">Units
+</th></tr>
+<tr>
+<td><a href="/wiki/Regions_of_England" title="Regions of England">Region</a></td>
+<td>1994</td>
+<td>9</td>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/East_of_England" title="East of England">East of England</a></li>
+<li><a href="/wiki/East_Midlands" title="East Midlands">East Midlands</a></li>
+<li><a href="/wiki/Greater_London" title="Greater London">London</a></li>
+<li><a href="/wiki/North_East_England" title="North East England">North East</a></li>
+<li><a href="/wiki/North_West_England" title="North West England">North West</a></li>
+<li><a href="/wiki/South_East_England" title="South East England">South East</a></li>
+<li><a href="/wiki/South_West_England" title="South West England">South West</a></li>
+<li><a href="/wiki/West_Midlands_(region)" title="West Midlands (region)">West Midlands</a></li>
+<li><a href="/wiki/Yorkshire_and_the_Humber" title="Yorkshire and the Humber">Yorkshire and the Humber</a></li></ul>
+</div>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Two-tier_non-metropolitan_counties_2">Two-tier non-metropolitan counties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subdivisions_of_England&amp;action=edit&amp;section=11" title="Edit section: Two-tier non-metropolitan counties">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th>Type</th>
+<th>Created</th>
+<th>Number</th>
+<th width="100%">Units
+</th></tr>
+<tr>
+<td><a href="/wiki/Non-metropolitan_county" title="Non-metropolitan county">Non-metropolitan county</a></td>
+<td>1974</td>
+<td>27</td>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Buckinghamshire" title="Buckinghamshire">Buckinghamshire</a></li>
+<li><a href="/wiki/Cambridgeshire" title="Cambridgeshire">Cambridgeshire</a></li>
+<li><a href="/wiki/Cumbria" title="Cumbria">Cumbria</a></li>
+<li><a href="/wiki/Derbyshire" title="Derbyshire">Derbyshire</a></li>
+<li><a href="/wiki/Devon" title="Devon">Devon</a></li>
+<li><a href="/wiki/Dorset" title="Dorset">Dorset</a></li>
+<li><a href="/wiki/East_Sussex" title="East Sussex">East Sussex</a></li>
+<li><a href="/wiki/Essex" title="Essex">Essex</a></li>
+<li><a href="/wiki/Gloucestershire" title="Gloucestershire">Gloucestershire</a></li>
+<li><a href="/wiki/Hampshire" title="Hampshire">Hampshire</a></li>
+<li><a href="/wiki/Hertfordshire" title="Hertfordshire">Hertfordshire</a></li>
+<li><a href="/wiki/Kent" title="Kent">Kent</a></li>
+<li><a href="/wiki/Lancashire" title="Lancashire">Lancashire</a></li>
+<li><a href="/wiki/Leicestershire" title="Leicestershire">Leicestershire</a></li>
+<li><a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a></li>
+<li><a href="/wiki/Norfolk" title="Norfolk">Norfolk</a></li>
+<li><a href="/wiki/Northamptonshire" title="Northamptonshire">Northamptonshire</a></li>
+<li><a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a></li>
+<li><a href="/wiki/Nottinghamshire" title="Nottinghamshire">Nottinghamshire</a></li>
+<li><a href="/wiki/Oxfordshire" title="Oxfordshire">Oxfordshire</a></li>
+<li><a href="/wiki/Somerset" title="Somerset">Somerset</a></li>
+<li><a href="/wiki/Staffordshire" title="Staffordshire">Staffordshire</a></li>
+<li><a href="/wiki/Suffolk" title="Suffolk">Suffolk</a></li>
+<li><a href="/wiki/Surrey" title="Surrey">Surrey</a></li>
+<li><a href="/wiki/Warwickshire" title="Warwickshire">Warwickshire</a></li>
+<li><a href="/wiki/West_Sussex" title="West Sussex">West Sussex</a></li>
+<li><a href="/wiki/Worcestershire" title="Worcestershire">Worcestershire</a></li></ul>
+</div>
+</td></tr>
+<tr>
+<td><a href="/wiki/Non-metropolitan_district" title="Non-metropolitan district">Non-metropolitan district</a></td>
+<td>1974</td>
+<td>201</td>
+<td><i><a href="/wiki/Non-metropolitan_district#List_of_counties_and_districts" title="Non-metropolitan district">List of districts</a></i>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Metropolitan_counties_2">Metropolitan counties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subdivisions_of_England&amp;action=edit&amp;section=12" title="Edit section: Metropolitan counties">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th>Type</th>
+<th>Created</th>
+<th>Number</th>
+<th colspan="6" width="100%">Units
+</th></tr>
+<tr>
+<td><a href="/wiki/Metropolitan_county" title="Metropolitan county">Metropolitan county</a></td>
+<td>1974</td>
+<td>6</td>
+<td><a href="/wiki/Greater_Manchester" title="Greater Manchester">Greater Manchester</a></td>
+<td><a href="/wiki/Merseyside" title="Merseyside">Merseyside</a></td>
+<td><a href="/wiki/South_Yorkshire" title="South Yorkshire">South Yorkshire</a></td>
+<td><a href="/wiki/Tyne_and_Wear" title="Tyne and Wear">Tyne and Wear</a></td>
+<td><a href="/wiki/West_Midlands_(county)" title="West Midlands (county)">West Midlands</a></td>
+<td><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Metropolitan_borough" title="Metropolitan borough">Metropolitan district</a></td>
+<td>1974</td>
+<td>36</td>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a href="/wiki/Metropolitan_Borough_of_Bolton" title="Metropolitan Borough of Bolton">Bolton</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Bury" title="Metropolitan Borough of Bury">Bury</a></li>
+<li><a href="/wiki/Manchester" title="Manchester">Manchester</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Oldham" title="Metropolitan Borough of Oldham">Oldham</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Rochdale" title="Metropolitan Borough of Rochdale">Rochdale</a></li>
+<li><a href="/wiki/City_of_Salford" title="City of Salford">Salford</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Stockport" title="Metropolitan Borough of Stockport">Stockport</a></li>
+<li><a href="/wiki/Tameside" title="Tameside">Tameside</a></li>
+<li><a href="/wiki/Trafford" title="Trafford">Trafford</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Wigan" title="Metropolitan Borough of Wigan">Wigan</a></li></ul>
+</div>
+</td>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a href="/wiki/Metropolitan_Borough_of_Knowsley" title="Metropolitan Borough of Knowsley">Knowsley</a></li>
+<li><a href="/wiki/Liverpool" title="Liverpool">Liverpool</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Sefton" title="Metropolitan Borough of Sefton">Sefton</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_St_Helens" title="Metropolitan Borough of St Helens">St Helens</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Wirral" title="Metropolitan Borough of Wirral">Wirral</a></li></ul>
+</div>
+</td>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a href="/wiki/Metropolitan_Borough_of_Barnsley" title="Metropolitan Borough of Barnsley">Barnsley</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Doncaster" title="Metropolitan Borough of Doncaster">Doncaster</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Rotherham" title="Metropolitan Borough of Rotherham">Rotherham</a></li>
+<li><a href="/wiki/City_of_Sheffield" class="mw-redirect" title="City of Sheffield">Sheffield</a></li></ul>
+</div>
+</td>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a href="/wiki/Metropolitan_Borough_of_Gateshead" title="Metropolitan Borough of Gateshead">Gateshead</a></li>
+<li><a href="/wiki/Newcastle_upon_Tyne" title="Newcastle upon Tyne">Newcastle upon Tyne</a></li>
+<li><a href="/wiki/North_Tyneside" title="North Tyneside">North Tyneside</a></li>
+<li><a href="/wiki/South_Tyneside" title="South Tyneside">South Tyneside</a></li>
+<li><a href="/wiki/City_of_Sunderland" title="City of Sunderland">Sunderland</a></li></ul>
+</div>
+</td>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a href="/wiki/Birmingham" title="Birmingham">Birmingham</a></li>
+<li><a href="/wiki/Coventry" title="Coventry">Coventry</a></li>
+<li><a href="/wiki/Dudley_(borough)" class="mw-redirect" title="Dudley (borough)">Dudley</a></li>
+<li><a href="/wiki/Sandwell" title="Sandwell">Sandwell</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Solihull" title="Metropolitan Borough of Solihull">Solihull</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Walsall" title="Metropolitan Borough of Walsall">Walsall</a></li>
+<li><a href="/wiki/Wolverhampton" title="Wolverhampton">Wolverhampton</a></li></ul>
+</div>
+</td>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a href="/wiki/City_of_Bradford" title="City of Bradford">Bradford</a></li>
+<li><a href="/wiki/Calderdale" title="Calderdale">Calderdale</a></li>
+<li><a href="/wiki/Kirklees" title="Kirklees">Kirklees</a></li>
+<li><a href="/wiki/City_of_Leeds" title="City of Leeds">Leeds</a></li>
+<li><a href="/wiki/City_of_Wakefield" title="City of Wakefield">Wakefield</a></li></ul>
+</div>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="London_2">London</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subdivisions_of_England&amp;action=edit&amp;section=13" title="Edit section: London">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th>Type</th>
+<th>Created</th>
+<th>Number</th>
+<th width="100%">Units
+</th></tr>
+<tr>
+<td><a href="/wiki/London_borough" class="mw-redirect" title="London borough">London borough</a></td>
+<td>1965</td>
+<td>32</td>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/London_Borough_of_Barking_and_Dagenham" title="London Borough of Barking and Dagenham">Barking and Dagenham</a></li>
+<li><a href="/wiki/London_Borough_of_Barnet" title="London Borough of Barnet">Barnet</a></li>
+<li><a href="/wiki/London_Borough_of_Bexley" title="London Borough of Bexley">Bexley</a></li>
+<li><a href="/wiki/London_Borough_of_Brent" title="London Borough of Brent">Brent</a></li>
+<li><a href="/wiki/London_Borough_of_Bromley" title="London Borough of Bromley">Bromley</a></li>
+<li><a href="/wiki/London_Borough_of_Camden" title="London Borough of Camden">Camden</a></li>
+<li><a href="/wiki/City_of_Westminster" title="City of Westminster">City of Westminster</a></li>
+<li><a href="/wiki/London_Borough_of_Croydon" title="London Borough of Croydon">Croydon</a></li>
+<li><a href="/wiki/Ealing" title="Ealing">Ealing</a></li>
+<li><a href="/wiki/London_Borough_of_Enfield" title="London Borough of Enfield">Enfield</a></li>
+<li><a href="/wiki/Royal_Borough_of_Greenwich" title="Royal Borough of Greenwich">Greenwich</a></li>
+<li><a href="/wiki/London_Borough_of_Hackney" title="London Borough of Hackney">Hackney</a></li>
+<li><a href="/wiki/Hammersmith_and_Fulham" class="mw-redirect" title="Hammersmith and Fulham">Hammersmith and Fulham</a></li>
+<li><a href="/wiki/London_Borough_of_Haringey" title="London Borough of Haringey">Haringey</a></li>
+<li><a href="/wiki/London_Borough_of_Harrow" title="London Borough of Harrow">Harrow</a></li>
+<li><a href="/wiki/Havering" class="mw-redirect" title="Havering">Havering</a></li>
+<li><a href="/wiki/Hillingdon" title="Hillingdon">Hillingdon</a></li>
+<li><a href="/wiki/Hounslow" title="Hounslow">Hounslow</a></li>
+<li><a href="/wiki/Islington" title="Islington">Islington</a></li>
+<li><a href="/wiki/Royal_Borough_of_Kensington_and_Chelsea" title="Royal Borough of Kensington and Chelsea">Kensington and Chelsea</a></li>
+<li><a href="/wiki/Kingston_upon_Thames" title="Kingston upon Thames">Kingston upon Thames</a></li>
+<li><a href="/wiki/Lambeth" title="Lambeth">Lambeth</a></li>
+<li><a href="/wiki/Lewisham" title="Lewisham">Lewisham</a></li>
+<li><a href="/wiki/London_Borough_of_Merton" title="London Borough of Merton">Merton</a></li>
+<li><a href="/wiki/Newham" class="mw-redirect" title="Newham">Newham</a></li>
+<li><a href="/wiki/London_Borough_of_Redbridge" title="London Borough of Redbridge">Redbridge</a></li>
+<li><a href="/wiki/Richmond_upon_Thames" class="mw-redirect" title="Richmond upon Thames">Richmond upon Thames</a></li>
+<li><a href="/wiki/Southwark" title="Southwark">Southwark</a></li>
+<li><a href="/wiki/London_Borough_of_Sutton" title="London Borough of Sutton">Sutton</a></li>
+<li><a href="/wiki/London_Borough_of_Tower_Hamlets" title="London Borough of Tower Hamlets">Tower Hamlets</a></li>
+<li><a href="/wiki/Waltham_Forest" class="mw-redirect" title="Waltham Forest">Waltham Forest</a></li>
+<li><a href="/wiki/Wandsworth" title="Wandsworth">Wandsworth</a></li></ul>
+</div>
+</td></tr>
+<tr>
+<td><i>Sui generis</i></td>
+<td>in antiquity</td>
+<td>1</td>
+<td>
+<ul><li><a href="/wiki/City_of_London" title="City of London">City of London</a></li></ul>
+</td></tr>
+<tr>
+<th colspan="2">Total</th>
+<th>33</th>
+<th>
+</th></tr></tbody></table>
+<h3><span class="mw-headline" id="Unitary_authorities_2">Unitary authorities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subdivisions_of_England&amp;action=edit&amp;section=14" title="Edit section: Unitary authorities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th width="8%">Type</th>
+<th>Created</th>
+<th>Number</th>
+<th width="92%">Units
+</th></tr>
+<tr>
+<td>County gained district functions</td>
+<td>2009</td>
+<td>5</td>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Cornwall" title="Cornwall">Cornwall</a><sup class="reference plainlinks nourlexpansion" id="ref_county_2"><a href="#endnote_county_2">C2</a></sup></li>
+<li><a href="/wiki/County_Durham" title="County Durham">Durham</a><sup class="reference plainlinks nourlexpansion" id="ref_county_2"><a href="#endnote_county_2">C2</a></sup></li>
+<li><a href="/wiki/Northumberland" title="Northumberland">Northumberland</a><sup class="reference plainlinks nourlexpansion" id="ref_county_1"><a href="#endnote_county_1">C1</a></sup></li>
+<li><a href="/wiki/Shropshire" title="Shropshire">Shropshire</a><sup class="reference plainlinks nourlexpansion" id="ref_county_2"><a href="#endnote_county_2">C2</a></sup></li>
+<li><a href="/wiki/Wiltshire" title="Wiltshire">Wiltshire</a><sup class="reference plainlinks nourlexpansion" id="ref_county_2"><a href="#endnote_county_2">C2</a></sup></li></ul>
+</div>
+</td></tr>
+<tr>
+<td>District(s) gained county functions</td>
+<td>2009</td>
+<td>4</td>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Borough_of_Bedford" title="Borough of Bedford">Bedford</a></li>
+<li><a href="/wiki/Central_Bedfordshire" title="Central Bedfordshire">Central Bedfordshire</a></li>
+<li><a href="/wiki/Cheshire_East" title="Cheshire East">Cheshire East</a></li>
+<li><a href="/wiki/Cheshire_West_and_Chester" title="Cheshire West and Chester">Cheshire West and Chester</a></li></ul>
+</div>
+</td></tr>
+<tr>
+<td>District(s) gained county functions</td>
+<td>1998</td>
+<td>21</td>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Blackburn_with_Darwen" title="Blackburn with Darwen">Blackburn with Darwen</a></li>
+<li><a href="/wiki/Blackpool" title="Blackpool">Blackpool</a></li>
+<li><a href="/wiki/Bracknell_Forest" title="Bracknell Forest">Bracknell Forest</a></li>
+<li><a href="/wiki/Halton_(borough)" class="mw-redirect" title="Halton (borough)">Halton</a></li>
+<li><a href="/wiki/Herefordshire" title="Herefordshire">Herefordshire</a><sup class="reference plainlinks nourlexpansion" id="ref_county_1"><a href="#endnote_county_1">C1</a></sup></li>
+<li><a href="/wiki/Medway" title="Medway">Medway</a></li>
+<li><a href="/wiki/Nottingham" title="Nottingham">Nottingham</a></li>
+<li><a href="/wiki/City_of_Peterborough" class="mw-redirect" title="City of Peterborough">Peterborough</a></li>
+<li><a href="/wiki/Plymouth" title="Plymouth">Plymouth</a></li>
+<li><a href="/wiki/Borough_of_Reading" class="mw-redirect" title="Borough of Reading">Reading</a></li>
+<li><a href="/wiki/Slough" title="Slough">Slough</a></li>
+<li><a href="/wiki/Southend-on-Sea" title="Southend-on-Sea">Southend-on-Sea</a></li>
+<li><a href="/wiki/Stoke-on-Trent" title="Stoke-on-Trent">Stoke-on-Trent</a></li>
+<li><a href="/wiki/Borough_of_Swindon" title="Borough of Swindon">Swindon</a></li>
+<li><a href="/wiki/Telford_and_Wrekin" title="Telford and Wrekin">Telford and Wrekin</a></li>
+<li><a href="/wiki/Thurrock" title="Thurrock">Thurrock</a></li>
+<li><a href="/wiki/Torbay" title="Torbay">Torbay</a></li>
+<li><a href="/wiki/Warrington" title="Warrington">Warrington</a></li>
+<li><a href="/wiki/West_Berkshire" title="West Berkshire">West Berkshire</a></li>
+<li><a href="/wiki/Royal_Borough_of_Windsor_and_Maidenhead" title="Royal Borough of Windsor and Maidenhead">Windsor and Maidenhead</a></li>
+<li><a href="/wiki/Wokingham_(district)" class="mw-redirect" title="Wokingham (district)">Wokingham</a></li></ul>
+</div>
+</td></tr>
+<tr>
+<td>District(s) gained county functions</td>
+<td>1997</td>
+<td>11</td>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Bournemouth_(borough)" class="mw-redirect" title="Bournemouth (borough)">Bournemouth</a></li>
+<li><a href="/wiki/Brighton_and_Hove" title="Brighton and Hove">Brighton and Hove</a></li>
+<li><a href="/wiki/Derby" title="Derby">Derby</a></li>
+<li><a href="/wiki/Darlington_(borough)" class="mw-redirect" title="Darlington (borough)">Darlington</a></li>
+<li><a href="/wiki/Leicester" title="Leicester">Leicester</a></li>
+<li><a href="/wiki/Luton" title="Luton">Luton</a></li>
+<li><a href="/wiki/Borough_of_Milton_Keynes" title="Borough of Milton Keynes">Milton Keynes</a></li>
+<li><a href="/wiki/Poole" title="Poole">Poole</a></li>
+<li><a href="/wiki/Portsmouth" title="Portsmouth">Portsmouth</a></li>
+<li><a href="/wiki/Rutland" title="Rutland">Rutland</a><sup class="reference plainlinks nourlexpansion" id="ref_county_1"><a href="#endnote_county_1">C1</a></sup></li>
+<li><a href="/wiki/Southampton" title="Southampton">Southampton</a></li></ul>
+</div>
+</td></tr>
+<tr>
+<td>District gained county functions</td>
+<td>1996</td>
+<td>13</td>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Bath_and_North_East_Somerset" title="Bath and North East Somerset">Bath and North East Somerset</a></li>
+<li><a href="/wiki/Bristol" title="Bristol">Bristol</a><sup class="reference plainlinks nourlexpansion" id="ref_county_1"><a href="#endnote_county_1">C1</a></sup></li>
+<li><a href="/wiki/East_Riding_of_Yorkshire" title="East Riding of Yorkshire">East Riding of Yorkshire</a><sup class="reference plainlinks nourlexpansion" id="ref_county_2"><a href="#endnote_county_2">C2</a></sup></li>
+<li><a href="/wiki/Hartlepool_(borough)" class="mw-redirect" title="Hartlepool (borough)">Hartlepool</a></li>
+<li><a href="/wiki/Kingston_upon_Hull" title="Kingston upon Hull">Kingston upon Hull</a></li>
+<li><a href="/wiki/Middlesbrough_(borough)" class="mw-redirect" title="Middlesbrough (borough)">Middlesbrough</a></li>
+<li><a href="/wiki/North_East_Lincolnshire" title="North East Lincolnshire">North East Lincolnshire</a></li>
+<li><a href="/wiki/North_Lincolnshire" title="North Lincolnshire">North Lincolnshire</a></li>
+<li><a href="/wiki/North_Somerset" title="North Somerset">North Somerset</a></li>
+<li><a href="/wiki/Redcar_and_Cleveland" title="Redcar and Cleveland">Redcar and Cleveland</a></li>
+<li><a href="/wiki/South_Gloucestershire" title="South Gloucestershire">South Gloucestershire</a></li>
+<li><a href="/wiki/Stockton-on-Tees_(borough)" class="mw-redirect" title="Stockton-on-Tees (borough)">Stockton-on-Tees</a></li>
+<li><a href="/wiki/York" title="York">York</a></li></ul>
+</div>
+</td></tr>
+<tr>
+<td>County gained district functions</td>
+<td>1995</td>
+<td>1</td>
+<td>
+<ul><li><a href="/wiki/Isle_of_Wight" title="Isle of Wight">Isle of Wight</a><sup class="reference plainlinks nourlexpansion" id="ref_county_1"><a href="#endnote_county_1">C1</a></sup></li></ul>
+</td></tr>
+<tr>
+<td>Sui generis</td>
+<td>1890</td>
+<td>1</td>
+<td>
+<ul><li><a href="/wiki/Isles_of_Scilly" title="Isles of Scilly">Isles of Scilly</a></li></ul>
+</td></tr>
+<tr>
+<th colspan="2">Total</th>
+<th>56</th>
+<th>
+</th></tr></tbody></table>
+<h3><span class="mw-headline" id="Civil_parishes_2">Civil parishes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subdivisions_of_England&amp;action=edit&amp;section=15" title="Edit section: Civil parishes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/List_of_civil_parishes_in_England" title="List of civil parishes in England">List of civil parishes in England</a></li></ul>
+<h3><span id="Hierarchical_list_of_regions.2C_counties_and_districts"></span><span class="mw-headline" id="Hierarchical_list_of_regions,_counties_and_districts">Hierarchical list of regions, counties and districts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subdivisions_of_England&amp;action=edit&amp;section=16" title="Edit section: Hierarchical list of regions, counties and districts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Region</th>
+<th>Ceremonial county</th>
+<th>Metropolitan or<br />non-metropolitan<br />county</th>
+<th>Districts, boroughs and cities
+</th></tr>
+<tr style="border-top: 3px solid black">
+<td rowspan="11" align="center"><b><a href="/wiki/East_of_England" title="East of England">East of England</a></b><br /><a href="/wiki/File:East_of_England_counties_2009_map.svg" class="image"><img alt="East of England counties 2009 map.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/East_of_England_counties_2009_map.svg/250px-East_of_England_counties_2009_map.svg.png" width="250" height="262" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/East_of_England_counties_2009_map.svg/375px-East_of_England_counties_2009_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/East_of_England_counties_2009_map.svg/500px-East_of_England_counties_2009_map.svg.png 2x" data-file-width="1210" data-file-height="1266" /></a></td>
+<td rowspan="3"><a href="/wiki/Essex" title="Essex">Essex</a></td>
+<td colspan="2" style="background: #eeffeb"><b>1</b>.&#160;<a href="/wiki/Thurrock" title="Thurrock">Thurrock</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>2</b>.&#160;<a href="/wiki/Southend-on-Sea" title="Southend-on-Sea">Southend-on-Sea</a> U.A.
+</td></tr>
+<tr>
+<td style="background: #fff1f1"><b>3</b>.&#160;<a href="/wiki/Essex_County_Council" title="Essex County Council">Essex</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/Harlow" title="Harlow">Harlow</a>, <i>b</i>)&#160;<a href="/wiki/Epping_Forest_(district)" class="mw-redirect" title="Epping Forest (district)">Epping Forest</a>, <i>c</i>)&#160;<a href="/wiki/Brentwood_(borough)" class="mw-redirect" title="Brentwood (borough)">Brentwood</a>, <i>d</i>)&#160;<a href="/wiki/Basildon_(district)" class="mw-redirect" title="Basildon (district)">Basildon</a>, <i>e</i>)&#160;<a href="/wiki/Castle_Point" title="Castle Point">Castle Point</a>, <i>f</i>)&#160;<a href="/wiki/Rochford_(district)" class="mw-redirect" title="Rochford (district)">Rochford</a>, <i>g</i>)&#160;<a href="/wiki/Maldon_District" title="Maldon District">Maldon</a>, <i>h</i>)&#160;<a href="/wiki/Chelmsford_(borough)" class="mw-redirect" title="Chelmsford (borough)">Chelmsford</a>, <i>i</i>)&#160;<a href="/wiki/Uttlesford" title="Uttlesford">Uttlesford</a>, <i>j</i>)&#160;<a href="/wiki/Braintree_(district)" class="mw-redirect" title="Braintree (district)">Braintree</a>, <i>k</i>)&#160;<a href="/wiki/Colchester_(borough)" class="mw-redirect" title="Colchester (borough)">Colchester</a>, <i>l</i>)&#160;<a href="/wiki/Tendring_District" title="Tendring District">Tendring</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #fff1f1"><b>4</b>.&#160;<a href="/wiki/Hertfordshire" title="Hertfordshire">Hertfordshire</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/Three_Rivers,_England" class="mw-redirect" title="Three Rivers, England">Three Rivers</a>, <i>b</i>)&#160;<a href="/wiki/Watford" title="Watford">Watford</a>, <i>c</i>)&#160;<a href="/wiki/Hertsmere" title="Hertsmere">Hertsmere</a>, <i>d</i>)&#160;<a href="/wiki/Welwyn_Hatfield" title="Welwyn Hatfield">Welwyn Hatfield</a>, <i>e</i>)&#160;<a href="/wiki/Broxbourne_(borough)" class="mw-redirect" title="Broxbourne (borough)">Broxbourne</a>, <i>f</i>)&#160;<a href="/wiki/East_Hertfordshire" title="East Hertfordshire">East Hertfordshire</a>, <i>g</i>)&#160;<a href="/wiki/Stevenage" title="Stevenage">Stevenage</a>, <i>h</i>)&#160;<a href="/wiki/North_Hertfordshire" title="North Hertfordshire">North Hertfordshire</a>, <i>i</i>)&#160;<a href="/wiki/City_and_District_of_St_Albans" class="mw-redirect" title="City and District of St Albans">St Albans</a>, <i>j</i>)&#160;<a href="/wiki/Dacorum" title="Dacorum">Dacorum</a>
+</td></tr>
+<tr>
+<td rowspan="3"><a href="/wiki/Bedfordshire" title="Bedfordshire">Bedfordshire</a></td>
+<td colspan="2" style="background: #eeffeb"><b>5</b>.&#160;<a href="/wiki/Luton" title="Luton">Luton</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>6</b>.&#160;<a href="/wiki/Borough_of_Bedford" title="Borough of Bedford">Bedford</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>7</b>.&#160;<a href="/wiki/Central_Bedfordshire" title="Central Bedfordshire">Central Bedfordshire</a> U.A.
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/Cambridgeshire" title="Cambridgeshire">Cambridgeshire</a></td>
+<td style="background: #fff1f1"><b>8</b>.&#160;<a href="/wiki/Cambridgeshire_County_Council" title="Cambridgeshire County Council">Cambridgeshire</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/Cambridge" title="Cambridge">Cambridge</a>, <i>b</i>)&#160;<a href="/wiki/South_Cambridgeshire" title="South Cambridgeshire">South Cambridgeshire</a>, <i>c</i>)&#160;<a href="/wiki/Huntingdonshire" title="Huntingdonshire">Huntingdonshire</a>, <i>d</i>)&#160;<a href="/wiki/Fenland_District" title="Fenland District">Fenland</a>, <i>e</i>)&#160;<a href="/wiki/East_Cambridgeshire" title="East Cambridgeshire">East Cambridgeshire</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>9</b>.&#160;<a href="/wiki/Peterborough" title="Peterborough">Peterborough</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #fff1f1"><b>10</b>.&#160;<a href="/wiki/Norfolk" title="Norfolk">Norfolk</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/Norwich" title="Norwich">Norwich</a>, <i>b</i>)&#160;<a href="/wiki/South_Norfolk" title="South Norfolk">South Norfolk</a>, <i>c</i>)&#160;<a href="/wiki/Borough_of_Great_Yarmouth" title="Borough of Great Yarmouth">Great Yarmouth</a>, <i>d</i>)&#160;<a href="/wiki/Broadland" title="Broadland">Broadland</a>, <i>e</i>)&#160;<a href="/wiki/North_Norfolk" title="North Norfolk">North Norfolk</a>, <i>f</i>)&#160;<a href="/wiki/Breckland_(district)" class="mw-redirect" title="Breckland (district)">Breckland</a>, <i>g</i>)&#160;<a href="/wiki/King%27s_Lynn_and_West_Norfolk" title="King&#39;s Lynn and West Norfolk">King's Lynn and West Norfolk</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #fff1f1"><b>11</b>.&#160;<a href="/wiki/Suffolk" title="Suffolk">Suffolk</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/Ipswich_(borough)" class="mw-redirect" title="Ipswich (borough)">Ipswich</a>, <i>b</i>)&#160;<a href="/wiki/Suffolk_Coastal" title="Suffolk Coastal">Suffolk Coastal</a>, <i>c</i>)&#160;<a href="/wiki/Waveney" title="Waveney">Waveney</a>, <i>d</i>)&#160;<a href="/wiki/Mid_Suffolk" title="Mid Suffolk">Mid Suffolk</a>, <i>e</i>)&#160;<a href="/wiki/Babergh" title="Babergh">Babergh</a>, <i>f</i>)&#160;<a href="/wiki/St_Edmundsbury_(borough)" class="mw-redirect" title="St Edmundsbury (borough)">St. Edmundsbury</a>, <i>g</i>)&#160;<a href="/wiki/Forest_Heath" title="Forest Heath">Forest Heath</a>
+</td></tr>
+<tr style="border-top: 3px solid black">
+<td rowspan="9" align="center"><b><a href="/wiki/East_Midlands" title="East Midlands">East Midlands</a></b><br /><a href="/wiki/File:East_Midlands_counties_2009_map.svg" class="image"><img alt="East Midlands counties 2009 map.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/East_Midlands_counties_2009_map.svg/250px-East_Midlands_counties_2009_map.svg.png" width="250" height="297" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/East_Midlands_counties_2009_map.svg/375px-East_Midlands_counties_2009_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/East_Midlands_counties_2009_map.svg/500px-East_Midlands_counties_2009_map.svg.png 2x" data-file-width="1099" data-file-height="1305" /></a></td>
+<td rowspan="2"><a href="/wiki/Derbyshire" title="Derbyshire">Derbyshire</a></td>
+<td style="background: #fff1f1"><b>1</b>.&#160;<a href="/wiki/Derbyshire_County_Council" title="Derbyshire County Council">Derbyshire</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/High_Peak,_Derbyshire" title="High Peak, Derbyshire">High Peak</a>, <i>b</i>)&#160;<a href="/wiki/Derbyshire_Dales" title="Derbyshire Dales">Derbyshire Dales</a>, <i>c</i>)&#160;<a href="/wiki/South_Derbyshire" title="South Derbyshire">South Derbyshire</a>, <i>d</i>)&#160;<a href="/wiki/Erewash" title="Erewash">Erewash</a>, <i>e</i>)&#160;<a href="/wiki/Amber_Valley" title="Amber Valley">Amber Valley</a>, <i>f</i>)&#160; <a href="/wiki/North_East_Derbyshire" title="North East Derbyshire">North East Derbyshire</a>, <i>g</i>)&#160;<a href="/wiki/Chesterfield" title="Chesterfield">Chesterfield</a>, <i>h</i>)&#160;<a href="/wiki/Bolsover_(district)" class="mw-redirect" title="Bolsover (district)">Bolsover</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>2</b>.&#160;<a href="/wiki/Derby" title="Derby">Derby</a> U.A.
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/Nottinghamshire" title="Nottinghamshire">Nottinghamshire</a></td>
+<td style="background: #fff1f1"><b>3</b>.&#160;<a href="/wiki/Nottinghamshire_County_Council" title="Nottinghamshire County Council">Nottinghamshire</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/Rushcliffe" title="Rushcliffe">Rushcliffe</a>, <i>b</i>)&#160;<a href="/wiki/Broxtowe" title="Broxtowe">Broxtowe</a>, <i>c</i>)&#160;<a href="/wiki/Ashfield,_Nottinghamshire" title="Ashfield, Nottinghamshire">Ashfield</a>, <i>d</i>)&#160;<a href="/wiki/Borough_of_Gedling" title="Borough of Gedling">Gedling</a>, <i>e</i>)&#160;<a href="/wiki/Newark_and_Sherwood" title="Newark and Sherwood">Newark and Sherwood</a>, <i>f</i>)&#160;<a href="/wiki/Mansfield_(district)" class="mw-redirect" title="Mansfield (district)">Mansfield</a>, <i>g</i>)&#160;<a href="/wiki/Bassetlaw" title="Bassetlaw">Bassetlaw</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>4</b>.&#160;<a href="/wiki/Nottingham" title="Nottingham">Nottingham</a> U.A.
+</td></tr>
+<tr>
+<td><a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a><br /><small>(part only)</small></td>
+<td style="background: #fff1f1"><b>5</b>.&#160;<a href="/wiki/Lincolnshire_County_Council" title="Lincolnshire County Council">Lincolnshire</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/Lincoln,_England" title="Lincoln, England">Lincoln</a>, <i>b</i>)&#160;<a href="/wiki/North_Kesteven" title="North Kesteven">North Kesteven</a>, <i>c</i>)&#160;<a href="/wiki/South_Kesteven" title="South Kesteven">South Kesteven</a>, <i>d</i>)&#160;<a href="/wiki/South_Holland,_England" class="mw-redirect" title="South Holland, England">South Holland</a>, <i>e</i>)&#160;<a href="/wiki/Boston_(borough)" class="mw-redirect" title="Boston (borough)">Boston</a>, <i>f</i>)&#160;<a href="/wiki/East_Lindsey" title="East Lindsey">East Lindsey</a>, <i>g</i>)&#160;<a href="/wiki/West_Lindsey" title="West Lindsey">West Lindsey</a>
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/Leicestershire" title="Leicestershire">Leicestershire</a></td>
+<td style="background: #fff1f1"><b>6</b>.&#160;<a href="/wiki/Leicestershire_County_Council" title="Leicestershire County Council">Leicestershire</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/Charnwood_(borough)" class="mw-redirect" title="Charnwood (borough)">Charnwood</a>, <i>b</i>)&#160;<a href="/wiki/Melton_(borough)" class="mw-redirect" title="Melton (borough)">Melton</a>, <i>c</i>)&#160;<a href="/wiki/Harborough" title="Harborough">Harborough</a>, <i>d</i>)&#160;<a href="/wiki/Oadby_and_Wigston" title="Oadby and Wigston">Oadby and Wigston</a>, <i>e</i>)&#160;<a href="/wiki/Blaby_(district)" class="mw-redirect" title="Blaby (district)">Blaby</a>, <i>f</i>)&#160;<a href="/wiki/Hinckley_and_Bosworth" title="Hinckley and Bosworth">Hinckley and Bosworth</a>, <i>g</i>)&#160;<a href="/wiki/North_West_Leicestershire" title="North West Leicestershire">North West Leicestershire</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>7</b>.&#160;<a href="/wiki/Leicester" title="Leicester">Leicester</a> U.A.
+</td></tr>
+<tr>
+<td colspan="3" style="background: #eeffeb"><b>8</b>.&#160;<a href="/wiki/Rutland" title="Rutland">Rutland</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #fff1f1"><b>9</b>.&#160;<a href="/wiki/Northamptonshire" title="Northamptonshire">Northamptonshire</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/South_Northamptonshire" title="South Northamptonshire">South Northamptonshire</a>, <i>b</i>)&#160;<a href="/wiki/Northampton" title="Northampton">Northampton</a>, <i>c</i>)&#160;<a href="/wiki/Daventry_(district)" class="mw-redirect" title="Daventry (district)">Daventry</a>, <i>d</i>)&#160;<a href="/wiki/Wellingborough_(borough)" class="mw-redirect" title="Wellingborough (borough)">Wellingborough</a>, <i>e</i>)&#160;<a href="/wiki/Kettering_(borough)" class="mw-redirect" title="Kettering (borough)">Kettering</a>, <i>f</i>)&#160;<a href="/wiki/Corby" title="Corby">Corby</a>, <i>g</i>)&#160;<a href="/wiki/East_Northamptonshire" title="East Northamptonshire">East Northamptonshire</a>
+</td></tr>
+<tr style="border-top: 3px solid black">
+<td rowspan="2" align="center"><b><a href="/wiki/Greater_London" title="Greater London">London</a></b> (Greater London)<br /><a href="/wiki/File:Greater_London_boroughs_2009_map.svg" class="image"><img alt="Greater London boroughs 2009 map.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Greater_London_boroughs_2009_map.svg/300px-Greater_London_boroughs_2009_map.svg.png" width="300" height="240" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Greater_London_boroughs_2009_map.svg/450px-Greater_London_boroughs_2009_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Greater_London_boroughs_2009_map.svg/600px-Greater_London_boroughs_2009_map.svg.png 2x" data-file-width="1425" data-file-height="1140" /></a></td>
+<td><b>1</b>.&#160;<a href="/wiki/Greater_London" title="Greater London">Greater London</a></td>
+<td colspan="2" style="background: #fffdf5">
+<p><i>a</i>)&#160;<a href="/wiki/City_of_Westminster" title="City of Westminster">City of Westminster</a>, 
+<i>b</i>)&#160;<a href="/wiki/Royal_Borough_of_Kensington_and_Chelsea" title="Royal Borough of Kensington and Chelsea">Kensington and Chelsea</a>,
+<i>c</i>)&#160;<a href="/wiki/London_Borough_of_Hammersmith_and_Fulham" title="London Borough of Hammersmith and Fulham">Hammersmith and Fulham</a>,
+<i>d</i>)&#160;<a href="/wiki/London_Borough_of_Wandsworth" title="London Borough of Wandsworth">Wandsworth</a>,
+<i>e</i>)&#160;<a href="/wiki/London_Borough_of_Lambeth" title="London Borough of Lambeth">Lambeth</a>,
+<i>f</i>)&#160;<a href="/wiki/London_Borough_of_Southwark" title="London Borough of Southwark">Southwark</a>,
+<i>g</i>)&#160;<a href="/wiki/London_Borough_of_Tower_Hamlets" title="London Borough of Tower Hamlets">Tower Hamlets</a>,
+<i>h</i>)&#160;<a href="/wiki/London_Borough_of_Hackney" title="London Borough of Hackney">Hackney</a>,
+<i>i</i>)&#160;<a href="/wiki/London_Borough_of_Islington" title="London Borough of Islington">Islington</a>,
+<i>j</i>)&#160;<a href="/wiki/London_Borough_of_Camden" title="London Borough of Camden">Camden</a>,
+<i>k</i>)&#160;<a href="/wiki/London_Borough_of_Brent" title="London Borough of Brent">Brent</a>,
+<i>l</i>)&#160;<a href="/wiki/London_Borough_of_Ealing" title="London Borough of Ealing">Ealing</a>,
+<i>m</i>)&#160;<a href="/wiki/London_Borough_of_Hounslow" title="London Borough of Hounslow">Hounslow</a>,
+<i>n</i>)&#160;<a href="/wiki/London_Borough_of_Richmond_upon_Thames" title="London Borough of Richmond upon Thames">Richmond</a>,
+<i>o</i>)&#160;<a href="/wiki/Royal_Borough_of_Kingston_upon_Thames" title="Royal Borough of Kingston upon Thames">Kingston upon Thames</a>,
+<i>p</i>)&#160;<a href="/wiki/London_Borough_of_Merton" title="London Borough of Merton">Merton</a>,
+<i>q</i>)&#160;<a href="/wiki/London_Borough_of_Sutton" title="London Borough of Sutton">Sutton</a>,
+<i>r</i>)&#160;<a href="/wiki/London_Borough_of_Croydon" title="London Borough of Croydon">Croydon</a>,
+<i>s</i>)&#160;<a href="/wiki/London_Borough_of_Bromley" title="London Borough of Bromley">Bromley</a>,
+<i>t</i>)&#160;<a href="/wiki/London_Borough_of_Lewisham" title="London Borough of Lewisham">Lewisham</a>,
+<i>u</i>)&#160;<a href="/wiki/Royal_Borough_of_Greenwich" title="Royal Borough of Greenwich">Greenwich</a>,
+<i>v</i>)&#160;<a href="/wiki/London_Borough_of_Bexley" title="London Borough of Bexley">Bexley</a>,
+<i>w</i>)&#160;<a href="/wiki/London_Borough_of_Havering" title="London Borough of Havering">Havering</a>,
+<i>x</i>)&#160;<a href="/wiki/London_Borough_of_Barking_and_Dagenham" title="London Borough of Barking and Dagenham">Barking and Dagenham</a>,
+<i>y</i>)&#160;<a href="/wiki/London_Borough_of_Redbridge" title="London Borough of Redbridge">Redbridge</a>,
+<i>z</i>)&#160;<a href="/wiki/London_Borough_of_Newham" title="London Borough of Newham">Newham</a>,
+<i>aa</i>)&#160;<a href="/wiki/London_Borough_of_Waltham_Forest" title="London Borough of Waltham Forest">Waltham Forest</a>,
+<i>ab</i>)&#160;<a href="/wiki/London_Borough_of_Haringey" title="London Borough of Haringey">Haringey</a>,
+<i>ac</i>)&#160;<a href="/wiki/London_Borough_of_Enfield" title="London Borough of Enfield">Enfield</a>,
+<i>ad</i>)&#160;<a href="/wiki/London_Borough_of_Barnet" title="London Borough of Barnet">Barnet</a>,
+<i>ae</i>)&#160;<a href="/wiki/London_Borough_of_Harrow" title="London Borough of Harrow">Harrow</a>,
+<i>af</i>)&#160;<a href="/wiki/London_Borough_of_Hillingdon" title="London Borough of Hillingdon">Hillingdon</a>
+</p>
+</td></tr>
+<tr>
+<td><b>2</b>.&#160;<a href="/wiki/City_of_London" title="City of London">City of London</a></td>
+<td colspan="2" style="background: #fffdf5"><i>a</i>)&#160;<a href="/wiki/City_of_London" title="City of London">City of London</a>
+</td></tr>
+<tr style="border-top: 3px solid black">
+<td rowspan="9" align="center"><b><a href="/wiki/North_East_England" title="North East England">North East England</a></b><br /><a href="/wiki/File:North_East_England_counties_2009_map.svg" class="image"><img alt="North East England counties 2009 map.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/North_East_England_counties_2009_map.svg/200px-North_East_England_counties_2009_map.svg.png" width="200" height="249" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/North_East_England_counties_2009_map.svg/300px-North_East_England_counties_2009_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/North_East_England_counties_2009_map.svg/400px-North_East_England_counties_2009_map.svg.png 2x" data-file-width="1082" data-file-height="1345" /></a></td>
+<td colspan="3" style="background: #eeffeb"><b>1</b>.&#160;<a href="/wiki/Northumberland" title="Northumberland">Northumberland</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #e1f7ff"><b>2</b>.&#160;<a href="/wiki/Tyne_and_Wear" title="Tyne and Wear">Tyne and Wear</a> *</td>
+<td style="background: #f1fbff"><i>a</i>)&#160;<a href="/wiki/Newcastle_upon_Tyne" title="Newcastle upon Tyne">Newcastle upon Tyne</a>, <i>b</i>)&#160;<a href="/wiki/Metropolitan_Borough_of_Gateshead" title="Metropolitan Borough of Gateshead">Gateshead</a>, <i>c</i>)&#160;<a href="/wiki/North_Tyneside" title="North Tyneside">North Tyneside</a>, <i>d</i>)&#160;<a href="/wiki/South_Tyneside" title="South Tyneside">South Tyneside</a>, <i>e</i>)&#160;<a href="/wiki/City_of_Sunderland" title="City of Sunderland">Sunderland</a>
+</td></tr>
+<tr>
+<td rowspan="4"><a href="/wiki/County_Durham" title="County Durham">Durham</a></td>
+<td colspan="2" style="background: #eeffeb"><b>3</b>.&#160;<a href="/wiki/Durham_County_Council" title="Durham County Council">Durham</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>4</b>.&#160;<a href="/wiki/Darlington_(borough)" class="mw-redirect" title="Darlington (borough)">Darlington</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>5</b>.&#160;<a href="/wiki/Hartlepool_(borough)" class="mw-redirect" title="Hartlepool (borough)">Hartlepool</a> U.A.
+</td></tr>
+<tr style="height: 1em">
+<td colspan="2" rowspan="2" style="background: #eeffeb"><b>6</b>.&#160;<a href="/wiki/Stockton-on-Tees_(borough)" class="mw-redirect" title="Stockton-on-Tees (borough)">Stockton-on-Tees</a> U.A.
+</td></tr>
+<tr>
+<td rowspan="3"><a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a><br /><small>(part only)</small>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>7</b>.&#160;<a href="/wiki/Redcar_and_Cleveland" title="Redcar and Cleveland">Redcar and Cleveland</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>8</b>.&#160;<a href="/wiki/Middlesbrough_(borough)" class="mw-redirect" title="Middlesbrough (borough)">Middlesbrough</a> U.A.
+</td></tr>
+<tr style="border-top: 3px solid black">
+<td rowspan="10" align="center"><b><a href="/wiki/North_West_England" title="North West England">North West England</a></b><br /><a href="/wiki/File:North_West_England_counties_2009_map.svg" class="image"><img alt="North West England counties 2009 map.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/North_West_England_counties_2009_map.svg/200px-North_West_England_counties_2009_map.svg.png" width="200" height="399" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/North_West_England_counties_2009_map.svg/300px-North_West_England_counties_2009_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/North_West_England_counties_2009_map.svg/400px-North_West_England_counties_2009_map.svg.png 2x" data-file-width="674" data-file-height="1345" /></a></td>
+<td rowspan="4"><a href="/wiki/Cheshire" title="Cheshire">Cheshire</a></td>
+<td colspan="2" style="background: #eeffeb"><b>1</b>.&#160;<a href="/wiki/Cheshire_East" title="Cheshire East">Cheshire East</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>2</b>.&#160;<a href="/wiki/Cheshire_West_and_Chester" title="Cheshire West and Chester">Cheshire West and Chester</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>3</b>.&#160;<a href="/wiki/Halton_(borough)" class="mw-redirect" title="Halton (borough)">Halton</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>4</b>.&#160;<a href="/wiki/Warrington" title="Warrington">Warrington</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #fff1f1"><b>5</b>.&#160;<a href="/wiki/Cumbria" title="Cumbria">Cumbria</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/Barrow-in-Furness_(borough)" class="mw-redirect" title="Barrow-in-Furness (borough)">Barrow-in-Furness</a>, <i>b</i>)&#160;<a href="/wiki/South_Lakeland" title="South Lakeland">South Lakeland</a>, <i>c</i>)&#160;<a href="/wiki/Copeland,_Cumbria" class="mw-redirect" title="Copeland, Cumbria">Copeland</a>, <i>d</i>)&#160;<a href="/wiki/Allerdale" title="Allerdale">Allerdale</a>, <i>e</i>)&#160;<a href="/wiki/Eden,_Cumbria" class="mw-redirect" title="Eden, Cumbria">Eden</a>, <i>f</i>)&#160;<a href="/wiki/City_of_Carlisle" title="City of Carlisle">Carlisle</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #e1f7ff"><b>6</b>.&#160;<a href="/wiki/Greater_Manchester" title="Greater Manchester">Greater Manchester</a> *</td>
+<td style="background: #f1fbff"><i>a</i>)&#160;<a href="/wiki/Bolton_(borough)" class="mw-redirect" title="Bolton (borough)">Bolton</a>, <i>b</i>)&#160;<a href="/wiki/Bury_(borough)" class="mw-redirect" title="Bury (borough)">Bury</a>, <i>c</i>)&#160;<a href="/wiki/Manchester" title="Manchester">Manchester</a>, <i>d</i>)&#160;<a href="/wiki/Oldham_(borough)" class="mw-redirect" title="Oldham (borough)">Oldham</a>, <i>e</i>)&#160;<a href="/wiki/Rochdale_(borough)" class="mw-redirect" title="Rochdale (borough)">Rochdale</a>, <i>f</i>)&#160;<a href="/wiki/City_of_Salford" title="City of Salford">Salford</a>, <i>g</i>)&#160;<a href="/wiki/Metropolitan_Borough_of_Stockport" title="Metropolitan Borough of Stockport">Stockport</a>, <i>h</i>)&#160;<a href="/wiki/Tameside" title="Tameside">Tameside</a>, <i>i</i>)&#160;<a href="/wiki/Trafford" title="Trafford">Trafford</a>, <i>j</i>)&#160;<a href="/wiki/Wigan_(borough)" class="mw-redirect" title="Wigan (borough)">Wigan</a>
+</td></tr>
+<tr>
+<td rowspan="3"><a href="/wiki/Lancashire" title="Lancashire">Lancashire</a></td>
+<td style="background: #fff1f1"><b>7</b>.&#160;<a href="/wiki/Lancashire_County_Council" title="Lancashire County Council">Lancashire</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/West_Lancashire" title="West Lancashire">West Lancashire</a>, <i>b</i>)&#160;<a href="/wiki/Borough_of_Chorley" title="Borough of Chorley">Chorley</a>, <i>c</i>)&#160;<a href="/wiki/South_Ribble" title="South Ribble">South Ribble</a>, <i>d</i>)&#160;<a href="/wiki/Borough_of_Fylde" title="Borough of Fylde">Fylde</a>, <i>e</i>)&#160;<a href="/wiki/City_of_Preston,_Lancashire" title="City of Preston, Lancashire">Preston</a>, <i>f</i>)&#160;<a href="/wiki/Borough_of_Wyre" title="Borough of Wyre">Wyre</a>, <i>g</i>)&#160;<a href="/wiki/City_of_Lancaster" title="City of Lancaster">Lancaster</a>, <i>h</i>)&#160;<a href="/wiki/Ribble_Valley" title="Ribble Valley">Ribble Valley</a>, <i>i</i>)&#160;<a href="/wiki/Pendle" title="Pendle">Pendle</a>, <i>j</i>)&#160;<a href="/wiki/Borough_of_Burnley" title="Borough of Burnley">Burnley</a>, <i>k</i>)&#160;<a href="/wiki/Rossendale" title="Rossendale">Rossendale</a>, <i>l</i>)&#160;<a href="/wiki/Hyndburn" title="Hyndburn">Hyndburn</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>8</b>.&#160;<a href="/wiki/Blackpool" title="Blackpool">Blackpool</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>9</b>.&#160;<a href="/wiki/Blackburn_with_Darwen" title="Blackburn with Darwen">Blackburn with Darwen</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #e1f7ff"><b>10</b>.&#160;<a href="/wiki/Merseyside" title="Merseyside">Merseyside</a>&#160;*</td>
+<td style="background: #f1fbff"><i>a</i>)&#160;<a href="/wiki/Metropolitan_Borough_of_Knowsley" title="Metropolitan Borough of Knowsley">Knowsley</a>, <i>b</i>)&#160;<a href="/wiki/Liverpool" title="Liverpool">Liverpool</a>, <i>c</i>)&#160;<a href="/wiki/St_Helens_(borough)" class="mw-redirect" title="St Helens (borough)">St. Helens</a>, <i>d</i>)&#160;<a href="/wiki/Metropolitan_Borough_of_Sefton" title="Metropolitan Borough of Sefton">Sefton</a>, <i>e</i>)&#160;<a href="/wiki/Wirral_(borough)" class="mw-redirect" title="Wirral (borough)">Wirral</a>
+</td></tr>
+<tr style="border-top: 3px solid black">
+<td rowspan="14" align="center"><b><a href="/wiki/South_East_England" title="South East England">South East England</a></b><br /><a href="/wiki/File:South_East_England_counties_2009_map.svg" class="image"><img alt="South East England counties 2009 map.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/South_East_England_counties_2009_map.svg/300px-South_East_England_counties_2009_map.svg.png" width="300" height="240" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/South_East_England_counties_2009_map.svg/450px-South_East_England_counties_2009_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/South_East_England_counties_2009_map.svg/600px-South_East_England_counties_2009_map.svg.png 2x" data-file-width="1425" data-file-height="1141" /></a></td>
+<td colspan="2" style="background: #fff1f1"><b>1</b>.&#160;<a href="/wiki/Berkshire" title="Berkshire">Berkshire</a>&#160;†</td>
+<td style="background: #eeffeb"><i>a</i>)&#160;<a href="/wiki/West_Berkshire" title="West Berkshire">West Berkshire</a>&#160;U.A., <i>b</i>)&#160;<a href="/wiki/Reading,_Berkshire" title="Reading, Berkshire">Reading</a>&#160;U.A., <i>c</i>)&#160;<a href="/wiki/Wokingham_(district)" class="mw-redirect" title="Wokingham (district)">Wokingham</a>&#160;U.A., <i>d</i>)&#160;<a href="/wiki/Bracknell_Forest" title="Bracknell Forest">Bracknell Forest</a>&#160;U.A., <i>e</i>)&#160;<a href="/wiki/Windsor_and_Maidenhead" class="mw-redirect" title="Windsor and Maidenhead">Windsor and Maidenhead</a>&#160;U.A., <i>f</i>)&#160;<a href="/wiki/Slough" title="Slough">Slough</a>&#160;U.A.
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/Buckinghamshire" title="Buckinghamshire">Buckinghamshire</a></td>
+<td style="background: #fff1f1"><b>2</b>.&#160;<a href="/wiki/Buckinghamshire_County_Council" title="Buckinghamshire County Council">Buckinghamshire</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/South_Bucks" title="South Bucks">South Bucks</a>, <i>b</i>)&#160;<a href="/wiki/Chiltern_(district)" class="mw-redirect" title="Chiltern (district)">Chiltern</a>, <i>c</i>)&#160;<a href="/wiki/Wycombe_(district)" class="mw-redirect" title="Wycombe (district)">Wycombe</a>, <i>d</i>)&#160;<a href="/wiki/Aylesbury_Vale" title="Aylesbury Vale">Aylesbury Vale</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>3</b>.&#160;<a href="/wiki/Borough_of_Milton_Keynes" title="Borough of Milton Keynes">Milton Keynes</a> U.A.
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/East_Sussex" title="East Sussex">East Sussex</a></td>
+<td style="background: #fff1f1"><b>4</b>.&#160;East Sussex&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/Hastings" title="Hastings">Hastings</a>, <i>b</i>)&#160;<a href="/wiki/Rother" title="Rother">Rother</a>, <i>c</i>)&#160;<a href="/wiki/Wealden_District" title="Wealden District">Wealden</a>, <i>d</i>)&#160;<a href="/wiki/Eastbourne" title="Eastbourne">Eastbourne</a>, <i>e</i>)&#160;<a href="/wiki/Lewes_(district)" class="mw-redirect" title="Lewes (district)">Lewes</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>5</b>.&#160;<a href="/wiki/Brighton_%26_Hove" class="mw-redirect" title="Brighton &amp; Hove">Brighton &amp; Hove</a> U.A.
+</td></tr>
+<tr>
+<td rowspan="3"><a href="/wiki/Hampshire" title="Hampshire">Hampshire</a></td>
+<td style="background: #fff1f1"><b>6</b>.&#160;<a href="/wiki/Hampshire_County_Council" title="Hampshire County Council">Hampshire</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/Fareham_(borough)" class="mw-redirect" title="Fareham (borough)">Fareham</a>, <i>b</i>)&#160;<a href="/wiki/Gosport" title="Gosport">Gosport</a>, <i>c</i>)&#160;<a href="/wiki/City_of_Winchester" title="City of Winchester">Winchester</a>, <i>d</i>)&#160;<a href="/wiki/Havant_(borough)" class="mw-redirect" title="Havant (borough)">Havant</a>, <i>e</i>)&#160;<a href="/wiki/East_Hampshire" title="East Hampshire">East Hampshire</a>, <i>f</i>)&#160;<a href="/wiki/Hart,_Hampshire" class="mw-redirect" title="Hart, Hampshire">Hart</a>, <i>g</i>)&#160;<a href="/wiki/Rushmoor" title="Rushmoor">Rushmoor</a>, <i>h</i>)&#160;<a href="/wiki/Basingstoke_and_Deane" title="Basingstoke and Deane">Basingstoke and Deane</a>, <i>i</i>)&#160;<a href="/wiki/Test_Valley" title="Test Valley">Test Valley</a>, <i>j</i>)&#160;<a href="/wiki/Eastleigh_(borough)" class="mw-redirect" title="Eastleigh (borough)">Eastleigh</a>, <i>k</i>)&#160;<a href="/wiki/New_Forest_(district)" class="mw-redirect" title="New Forest (district)">New Forest</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>7</b>.&#160;<a href="/wiki/Southampton" title="Southampton">Southampton</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>8</b>.&#160;<a href="/wiki/Portsmouth" title="Portsmouth">Portsmouth</a> U.A.
+</td></tr>
+<tr>
+<td colspan="3" style="background: #eeffeb"><b>9</b>.&#160;<a href="/wiki/Isle_of_Wight" title="Isle of Wight">Isle of Wight</a> U.A.
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/Kent" title="Kent">Kent</a></td>
+<td style="background: #fff1f1"><b>10</b>.&#160;<a href="/wiki/Kent_County_Council" title="Kent County Council">Kent</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/Dartford_(borough)" class="mw-redirect" title="Dartford (borough)">Dartford</a>, <i>b</i>)&#160;<a href="/wiki/Gravesham" title="Gravesham">Gravesham</a>, <i>c</i>)&#160;<a href="/wiki/Sevenoaks_(district)" class="mw-redirect" title="Sevenoaks (district)">Sevenoaks</a>, <i>d</i>)&#160;<a href="/wiki/Tonbridge_and_Malling" title="Tonbridge and Malling">Tonbridge and Malling</a>, <i>e</i>)&#160;<a href="/wiki/Tunbridge_Wells_(borough)" class="mw-redirect" title="Tunbridge Wells (borough)">Tunbridge Wells</a>, <i>f</i>)&#160;<a href="/wiki/Maidstone_(borough)" class="mw-redirect" title="Maidstone (borough)">Maidstone</a>, <i>g</i>)&#160;<a href="/wiki/Borough_of_Swale" title="Borough of Swale">Swale</a>, <i>h</i>)&#160;<a href="/wiki/Ashford_(borough)" class="mw-redirect" title="Ashford (borough)">Ashford</a>, <i>i</i>)&#160;<a href="/wiki/Folkestone_and_Hythe_(District)" class="mw-redirect" title="Folkestone and Hythe (District)">Folkestone and Hythe</a>, <i>j</i>)&#160;<a href="/wiki/City_of_Canterbury" title="City of Canterbury">Canterbury</a>, <i>k</i>)&#160;<a href="/wiki/Dover_(district)" class="mw-redirect" title="Dover (district)">Dover</a>, <i>l</i>)&#160;<a href="/wiki/Thanet" title="Thanet">Thanet</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>11</b>.&#160;<a href="/wiki/Medway" title="Medway">Medway</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #fff1f1"><b>12</b>.&#160;<a href="/wiki/Oxfordshire" title="Oxfordshire">Oxfordshire</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/Oxford" title="Oxford">Oxford</a>, <i>b</i>)&#160;<a href="/wiki/Cherwell_(district)" class="mw-redirect" title="Cherwell (district)">Cherwell</a>, <i>c</i>)&#160;<a href="/wiki/South_Oxfordshire" title="South Oxfordshire">South Oxfordshire</a>, <i>d</i>)&#160;<a href="/wiki/Vale_of_White_Horse" title="Vale of White Horse">Vale of White Horse</a>,<i> e</i>)&#160;<a href="/wiki/West_Oxfordshire" title="West Oxfordshire">West Oxfordshire</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #fff1f1"><b>13</b>.&#160;<a href="/wiki/Surrey" title="Surrey">Surrey</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/Spelthorne" title="Spelthorne">Spelthorne</a>, <i>b</i>)&#160;<a href="/wiki/Runnymede_(district)" class="mw-redirect" title="Runnymede (district)">Runnymede</a>, <i>c</i>)&#160;<a href="/wiki/Surrey_Heath" title="Surrey Heath">Surrey Heath</a>, <i>d</i>)&#160;<a href="/wiki/Woking_(borough)" class="mw-redirect" title="Woking (borough)">Woking</a>, <i>e</i>)&#160;<a href="/wiki/Elmbridge" title="Elmbridge">Elmbridge</a>, <i>f</i>)&#160;<a href="/wiki/Guildford_(borough)" class="mw-redirect" title="Guildford (borough)">Guildford</a>, <i>g</i>)&#160;<a href="/wiki/Waverley,_Surrey" class="mw-redirect" title="Waverley, Surrey">Waverley</a>, <i>h</i>)&#160;<a href="/wiki/Mole_Valley" title="Mole Valley">Mole Valley</a>, <i>i</i>)&#160;<a href="/wiki/Epsom_and_Ewell" title="Epsom and Ewell">Epsom and Ewell</a>, <i>j</i>)&#160;<a href="/wiki/Reigate_and_Banstead" title="Reigate and Banstead">Reigate and Banstead</a>, <i>k</i>)&#160;<a href="/wiki/Tandridge_(district)" class="mw-redirect" title="Tandridge (district)">Tandridge</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #fff1f1"><b>14</b>.&#160;<a href="/wiki/West_Sussex" title="West Sussex">West Sussex</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/Worthing" title="Worthing">Worthing</a>, <i>b</i>)&#160;<a href="/wiki/Arun_District" title="Arun District">Arun</a>, <i>c</i>)&#160;<a href="/wiki/Chichester_(district)" class="mw-redirect" title="Chichester (district)">Chichester</a>, <i>d</i>)&#160;<a href="/wiki/Horsham_(district)" class="mw-redirect" title="Horsham (district)">Horsham</a>, <i>e</i>)&#160;<a href="/wiki/Crawley" title="Crawley">Crawley</a>, <i>f</i>)&#160;<a href="/wiki/Mid_Sussex" title="Mid Sussex">Mid Sussex</a>, <i>g</i>)&#160;<a href="/wiki/Adur_(district)" class="mw-redirect" title="Adur (district)">Adur</a>
+</td></tr>
+<tr style="border-top: 3px solid black">
+<td rowspan="16" align="center"><b><a href="/wiki/South_West_England" title="South West England">South West England</a></b><br /><a href="/wiki/File:South_West_England_counties_2009_map.svg" class="image"><img alt="South West England counties 2009 map.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/South_West_England_counties_2009_map.svg/300px-South_West_England_counties_2009_map.svg.png" width="300" height="235" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/South_West_England_counties_2009_map.svg/450px-South_West_England_counties_2009_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/South_West_England_counties_2009_map.svg/600px-South_West_England_counties_2009_map.svg.png 2x" data-file-width="1425" data-file-height="1118" /></a></td>
+<td rowspan="3"><a href="/wiki/Somerset" title="Somerset">Somerset</a></td>
+<td colspan="2" style="background: #eeffeb"><b>1</b>.&#160;<a href="/wiki/Bath_and_North_East_Somerset" title="Bath and North East Somerset">Bath and North East Somerset</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>2</b>.&#160;<a href="/wiki/North_Somerset" title="North Somerset">North Somerset</a> U.A.
+</td></tr>
+<tr>
+<td style="background: #fff1f1"><b>11</b>.&#160;<a href="/wiki/Somerset_County_Council" title="Somerset County Council">Somerset&#160;†</a></td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/South_Somerset" title="South Somerset">South Somerset</a>, <i>b</i>)&#160;<a href="/wiki/Taunton_Deane" title="Taunton Deane">Taunton Deane</a>, <i>c</i>)&#160;<a href="/wiki/West_Somerset" title="West Somerset">West Somerset</a>, <i>d</i>)&#160;<a href="/wiki/Sedgemoor" title="Sedgemoor">Sedgemoor</a>, <i>e</i>)&#160;<a href="/wiki/Mendip" title="Mendip">Mendip</a>
+</td></tr>
+<tr>
+<td colspan="3" style="background: #eeffeb"><b>3</b>.&#160;<a href="/wiki/Bristol" title="Bristol">Bristol</a> U.A.
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/Gloucestershire" title="Gloucestershire">Gloucestershire</a></td>
+<td colspan="2" style="background: #eeffeb"><b>4</b>.&#160;<a href="/wiki/South_Gloucestershire" title="South Gloucestershire">South Gloucestershire</a> U.A.
+</td></tr>
+<tr>
+<td style="background: #fff1f1"><b>5</b>.&#160;<a href="/wiki/Gloucestershire_County_Council" title="Gloucestershire County Council">Gloucestershire</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/Gloucester" title="Gloucester">Gloucester</a>, <i>b</i>)&#160;<a href="/wiki/Tewkesbury_(borough)" class="mw-redirect" title="Tewkesbury (borough)">Tewkesbury</a>, <i>c</i>)&#160;<a href="/wiki/Cheltenham" title="Cheltenham">Cheltenham</a>, <i>d</i>)&#160;<a href="/wiki/Cotswold_(district)" class="mw-redirect" title="Cotswold (district)">Cotswold</a>, <i>e</i>)&#160;<a href="/wiki/Stroud_(district)" class="mw-redirect" title="Stroud (district)">Stroud</a>, <i>f</i>)&#160;<a href="/wiki/Forest_of_Dean_(district)" class="mw-redirect" title="Forest of Dean (district)">Forest of Dean</a>
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/Wiltshire" title="Wiltshire">Wiltshire</a></td>
+<td colspan="2" style="background: #eeffeb"><b>6</b>.&#160;<a href="/wiki/Swindon_(borough)" class="mw-redirect" title="Swindon (borough)">Swindon</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>7</b>.&#160;<a href="/wiki/Wiltshire_Council" title="Wiltshire Council">Wiltshire U.A.</a>
+</td></tr>
+<tr>
+<td rowspan="3"><a href="/wiki/Dorset" title="Dorset">Dorset</a></td>
+<td style="background: #fff1f1"><b>8</b>.&#160;<a href="/wiki/Dorset_County_Council" title="Dorset County Council">Dorset&#160;†</a></td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/Weymouth_and_Portland" title="Weymouth and Portland">Weymouth and Portland</a>, <i>b</i>)&#160;<a href="/wiki/West_Dorset" title="West Dorset">West Dorset</a>, <i>c</i>)&#160;<a href="/wiki/North_Dorset" title="North Dorset">North Dorset</a>, <i>d</i>)&#160;<a href="/wiki/Purbeck_(district)" class="mw-redirect" title="Purbeck (district)">Purbeck</a>, <i>e</i>)&#160;<a href="/wiki/East_Dorset" title="East Dorset">East Dorset</a>, <i>f</i>)&#160;<a href="/wiki/Christchurch,_Dorset" title="Christchurch, Dorset">Christchurch</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>9</b>.&#160;<a href="/wiki/Poole" title="Poole">Poole</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>10</b>.&#160;<a href="/wiki/Bournemouth_Borough_Council" title="Bournemouth Borough Council">Bournemouth U.A.</a>
+</td></tr>
+<tr>
+<td rowspan="3"><a href="/wiki/Devon" title="Devon">Devon</a></td>
+<td style="background: #fff1f1"><b>12</b>.&#160;<a href="/wiki/Devon_County_Council" title="Devon County Council">Devon&#160;†</a></td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/Exeter" title="Exeter">Exeter</a>, <i>b</i>)&#160;<a href="/wiki/East_Devon" title="East Devon">East Devon</a>, <i>c</i>)&#160;<a href="/wiki/Mid_Devon" title="Mid Devon">Mid Devon</a>, <i>d</i>)&#160;<a href="/wiki/North_Devon" title="North Devon">North Devon</a>, <i>e</i>)&#160;<a href="/wiki/Torridge" title="Torridge">Torridge</a>, <i>f</i>)&#160;<a href="/wiki/West_Devon" title="West Devon">West Devon</a>, <i>g</i>)&#160;<a href="/wiki/South_Hams" title="South Hams">South Hams</a>, <i>h</i>)&#160;<a href="/wiki/Teignbridge" title="Teignbridge">Teignbridge</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>13</b>.&#160;<a href="/wiki/Torbay" title="Torbay">Torbay</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>14</b>.&#160;<a href="/wiki/Plymouth" title="Plymouth">Plymouth</a> U.A.
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/Cornwall" title="Cornwall">Cornwall</a></td>
+<td colspan="2" style="background: #eeffeb"><b>15</b>.&#160;<a href="/wiki/Isles_of_Scilly" title="Isles of Scilly">Isles of Scilly</a> <i>sui generis</i> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>16</b>.&#160;<a href="/wiki/Cornwall_Council" title="Cornwall Council">Cornwall U.A.</a>
+</td></tr>
+<tr style="border-top: 3px solid black">
+<td rowspan="8" align="center"><b><a href="/wiki/West_Midlands_(region)" title="West Midlands (region)">West Midlands</a></b><br /><a href="/wiki/File:West_Midlands_counties_2009_map.svg" class="image"><img alt="West Midlands counties 2009 map.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/West_Midlands_counties_2009_map.svg/250px-West_Midlands_counties_2009_map.svg.png" width="250" height="281" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/West_Midlands_counties_2009_map.svg/375px-West_Midlands_counties_2009_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/West_Midlands_counties_2009_map.svg/500px-West_Midlands_counties_2009_map.svg.png 2x" data-file-width="1161" data-file-height="1306" /></a></td>
+<td colspan="3" style="background: #eeffeb"><b>1</b>.&#160;<a href="/wiki/Herefordshire" title="Herefordshire">Herefordshire</a> U.A.
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/Shropshire" title="Shropshire">Shropshire</a></td>
+<td colspan="2" style="background: #eeffeb"><b>2</b>.&#160;<a href="/wiki/Shropshire_Council" title="Shropshire Council">Shropshire</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>3</b>.&#160;<a href="/wiki/Telford_and_Wrekin" title="Telford and Wrekin">Telford and Wrekin</a> U.A.
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/Staffordshire" title="Staffordshire">Staffordshire</a></td>
+<td style="background: #fff1f1"><b>4</b>.&#160;<a href="/wiki/Staffordshire_County_Council" title="Staffordshire County Council">Staffordshire</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/Cannock_Chase_(district)" class="mw-redirect" title="Cannock Chase (district)">Cannock Chase</a>, <i>b</i>)&#160;<a href="/wiki/East_Staffordshire" title="East Staffordshire">East Staffordshire</a>, <i>c</i>)&#160;<a href="/wiki/Lichfield_(district)" class="mw-redirect" title="Lichfield (district)">Lichfield</a>, <i>d</i>)&#160;<a href="/wiki/Newcastle-under-Lyme_(borough)" class="mw-redirect" title="Newcastle-under-Lyme (borough)">Newcastle-under-Lyme</a>, <i>e</i>)&#160;<a href="/wiki/South_Staffordshire" title="South Staffordshire">South Staffordshire</a>,  <i>f</i>)&#160;<a href="/wiki/Stafford_(borough)" class="mw-redirect" title="Stafford (borough)">Stafford</a>, <i>g</i>)&#160;<a href="/wiki/Staffordshire_Moorlands" title="Staffordshire Moorlands">Staffordshire Moorlands</a>, <i>h</i>)&#160;<a href="/wiki/Borough_of_Tamworth" class="mw-redirect" title="Borough of Tamworth">Tamworth</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>5</b>.&#160;<a href="/wiki/Stoke-on-Trent" title="Stoke-on-Trent">Stoke-on-Trent</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #fff1f1"><b>6</b>.&#160;<a href="/wiki/Warwickshire" title="Warwickshire">Warwickshire</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/North_Warwickshire" title="North Warwickshire">North Warwickshire</a>, <i>b</i>)&#160;<a href="/wiki/Nuneaton_and_Bedworth" title="Nuneaton and Bedworth">Nuneaton and Bedworth</a>, <i>c</i>)&#160;<a href="/wiki/Rugby_(borough)" class="mw-redirect" title="Rugby (borough)">Rugby</a>, <i>d</i>)&#160;<a href="/wiki/Stratford-on-Avon_(district)" class="mw-redirect" title="Stratford-on-Avon (district)">Stratford-on-Avon</a>, <i>e</i>)&#160;<a href="/wiki/Warwick_(district)" class="mw-redirect" title="Warwick (district)">Warwick</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #e1f7ff"><b>7</b>.&#160;<a href="/wiki/West_Midlands_(county)" title="West Midlands (county)">West Midlands</a>&#160;*</td>
+<td style="background: #f1fbff"><i>a</i>)&#160;<a href="/wiki/Birmingham" title="Birmingham">Birmingham</a>, <i>b</i>)&#160;<a href="/wiki/Coventry" title="Coventry">Coventry</a>, <i>c</i>)&#160;<a href="/wiki/Dudley_(borough)" class="mw-redirect" title="Dudley (borough)">Dudley</a>, <i>d</i>)&#160;<a href="/wiki/Sandwell_(borough)" class="mw-redirect" title="Sandwell (borough)">Sandwell</a>, <i>e</i>)&#160;<a href="/wiki/Solihull_(borough)" class="mw-redirect" title="Solihull (borough)">Solihull</a>, <i>f</i>)&#160;<a href="/wiki/Walsall_(borough)" class="mw-redirect" title="Walsall (borough)">Walsall</a>, <i>g</i>)&#160;<a href="/wiki/Wolverhampton" title="Wolverhampton">Wolverhampton</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #fff1f1"><b>8</b>.&#160;<a href="/wiki/Worcestershire" title="Worcestershire">Worcestershire</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/Bromsgrove_(district)" class="mw-redirect" title="Bromsgrove (district)">Bromsgrove</a>, <i>b</i>)&#160;<a href="/wiki/Malvern_Hills_(district)" class="mw-redirect" title="Malvern Hills (district)">Malvern Hills</a>, <i>c</i>)&#160;<a href="/wiki/Redditch" title="Redditch">Redditch</a>, <i>d</i>)&#160;<a href="/wiki/Worcester" title="Worcester">Worcester</a>, <i>e</i>)&#160;<a href="/wiki/Wychavon" title="Wychavon">Wychavon</a>, <i>f</i>)&#160;<a href="/wiki/Wyre_Forest_(district)" class="mw-redirect" title="Wyre Forest (district)">Wyre Forest</a>
+</td></tr>
+<tr style="border-top: 3px solid black">
+<td rowspan="8" align="center"><b><a href="/wiki/Yorkshire_and_the_Humber" title="Yorkshire and the Humber">Yorkshire and the Humber</a></b><br /><a href="/wiki/File:Yorkshire_and_the_Humber_counties_2009_map.svg" class="image"><img alt="Yorkshire and the Humber counties 2009 map.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Yorkshire_and_the_Humber_counties_2009_map.svg/250px-Yorkshire_and_the_Humber_counties_2009_map.svg.png" width="250" height="213" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Yorkshire_and_the_Humber_counties_2009_map.svg/375px-Yorkshire_and_the_Humber_counties_2009_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Yorkshire_and_the_Humber_counties_2009_map.svg/500px-Yorkshire_and_the_Humber_counties_2009_map.svg.png 2x" data-file-width="1425" data-file-height="1212" /></a></td>
+<td colspan="2" style="background: #e1f7ff"><b>1</b>.&#160;<a href="/wiki/South_Yorkshire" title="South Yorkshire">South Yorkshire</a>&#160;*</td>
+<td style="background: #f1fbff"><i>a</i>)&#160;<a href="/wiki/Sheffield" title="Sheffield">Sheffield</a>, <i>b</i>)&#160;<a href="/wiki/Metropolitan_Borough_of_Rotherham" title="Metropolitan Borough of Rotherham">Rotherham</a>, <i>c</i>)&#160;<a href="/wiki/Metropolitan_Borough_of_Barnsley" title="Metropolitan Borough of Barnsley">Barnsley</a>, <i>d</i>)&#160;<a href="/wiki/Metropolitan_Borough_of_Doncaster" title="Metropolitan Borough of Doncaster">Doncaster</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #e1f7ff"><b>2</b>.&#160;<a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>&#160;*</td>
+<td style="background: #f1fbff"><i>a</i>)&#160;<a href="/wiki/City_of_Wakefield" title="City of Wakefield">Wakefield</a>, <i>b</i>)&#160;<a href="/wiki/Kirklees" title="Kirklees">Kirklees</a>, <i>c</i>)&#160;<a href="/wiki/Calderdale" title="Calderdale">Calderdale</a>, <i>d</i>)&#160;<a href="/wiki/City_of_Bradford" title="City of Bradford">Bradford</a>, <i>e</i>)&#160;<a href="/wiki/City_of_Leeds" title="City of Leeds">Leeds</a>
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a><br /><small>(part only)</small></td>
+<td style="background: #fff1f1"><b>3</b>.&#160;<a href="/wiki/North_Yorkshire_County_Council" title="North Yorkshire County Council">North Yorkshire</a>&#160;†</td>
+<td style="background: #fff7f7"><i>a</i>)&#160;<a href="/wiki/Selby_(district)" class="mw-redirect" title="Selby (district)">Selby</a>, <i>b</i>)&#160;<a href="/wiki/Harrogate_(borough)" class="mw-redirect" title="Harrogate (borough)">Harrogate</a>, <i>c</i>)&#160;<a href="/wiki/Craven" title="Craven">Craven</a>, <i>d</i>)&#160;<a href="/wiki/Richmondshire" title="Richmondshire">Richmondshire</a>, <i>e</i>)&#160;<a href="/wiki/Hambleton_District" title="Hambleton District">Hambleton</a>, <i>f</i>)&#160;<a href="/wiki/Ryedale" title="Ryedale">Ryedale</a>, <i>g</i>)&#160;<a href="/wiki/Scarborough_(borough)" class="mw-redirect" title="Scarborough (borough)">Scarborough</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>4</b>.&#160;<a href="/wiki/York" title="York">York</a> U.A.
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/East_Riding_of_Yorkshire" title="East Riding of Yorkshire">East Riding of Yorkshire</a></td>
+<td colspan="2" style="background: #eeffeb"><b>5</b>.&#160;<a href="/wiki/East_Riding_of_Yorkshire_Council" title="East Riding of Yorkshire Council">East Riding of Yorkshire U.A.</a>
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>6</b>.&#160;<a href="/wiki/Kingston_upon_Hull" title="Kingston upon Hull">Kingston upon Hull</a> U.A.
+</td></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a><br /><small>(part only)</small></td>
+<td colspan="2" style="background: #eeffeb"><b>7</b>.&#160;<a href="/wiki/North_Lincolnshire" title="North Lincolnshire">North Lincolnshire</a> U.A.
+</td></tr>
+<tr>
+<td colspan="2" style="background: #eeffeb"><b>8</b>.&#160;<a href="/wiki/North_East_Lincolnshire" title="North East Lincolnshire">North East Lincolnshire</a> U.A.
+</td></tr>
+<tr style="border-top: 3px solid black">
+<td rowspan="4"></td>
+<td colspan="2"><div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid silver; background-color: #fff1f1; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;† <a href="/wiki/Non-metropolitan_county" title="Non-metropolitan county">non-metropolitan county</a></div>&#160;&#160;&#160;&#160;&#160;&#160;&#160;<small>(all two-tier except for Berkshire)</small></td>
+<td><div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid silver; background-color: #fff7f7; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;<a href="/wiki/Non-metropolitan_district" title="Non-metropolitan district">non-metropolitan district</a></div>
+</td></tr>
+<tr>
+<td colspan="3"><div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid silver; background-color: #eeffeb; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;U.A. <a href="/wiki/Unitary_authorities_of_England" title="Unitary authorities of England">unitary authority</a> (non-metropolitan county and district)</div> &#160;&#160;&#160;&#160;&#160;&#160;&#160;<small>(except for Berkshire districts which are not counties)</small><br />
+</td></tr>
+<tr>
+<td colspan="2"><div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid silver; background-color: #e1f7ff; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;* <a href="/wiki/Metropolitan_county" title="Metropolitan county">metropolitan county</a></div></td>
+<td><div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid silver; background-color: #f1fbff; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;<a href="/wiki/Metropolitan_district" class="mw-redirect" title="Metropolitan district">metropolitan district</a></div>
+</td></tr>
+<tr>
+<td colspan="3"><div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid silver; background-color: #fffdf5; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;<a href="/wiki/List_of_London_boroughs" title="List of London boroughs">Local government district in London</a> (the <a href="/wiki/London_borough" class="mw-redirect" title="London borough">London boroughs</a> and <a href="/wiki/City_of_London" title="City of London">City of London</a>)</div>
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subdivisions_of_England&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Combined_authority" title="Combined authority">Combined authority</a></li>
+<li><a href="/wiki/List_of_English_counties_leaders" class="mw-redirect" title="List of English counties leaders">List of English counties leaders</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subdivisions_of_England&amp;action=edit&amp;section=18" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r853264625">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin" style="">
+<ul><li><span class="citation wikicite" id="endnote_county_1"><b><a href="#ref_county_1">^C1</a></b></span> &#160; Also a ceremonial county of identical area.</li>
+<li><span class="citation wikicite" id="endnote_county_2"><b><a href="#ref_county_2">^C2</a></b></span> &#160; Also a ceremonial county covering a larger area.</li>
+<li><span class="citation wikicite" id="endnote_county_3"><b><a href="#ref_county_3">^C3</a></b></span> &#160; Cumbria, Hertfordshire, Norfolk, Northamptonshire, Oxfordshire, Suffolk, Surrey, Warwickshire, West Sussex and Worcestershire occupy the same area as the ceremonial county; Buckinghamshire, Cambridgeshire, Derbyshire, Devon, Dorset, East Sussex, Essex, Gloucestershire, Hampshire, Kent, Lancashire, Leicestershire, Lincolnshire, North Yorkshire, Nottinghamshire, Somerset and Staffordshire are larger for ceremonial purposes, being combined with one or more unitary authorities.</li>
+<li><span class="citation wikicite" id="endnote_district_1"><b><a href="#ref_district_1">^D1</a></b></span> &#160; Metropolitan (36); non-metropolitan two-tier (201); unitary authority (55); London borough (32); sui generis (2).</li>
+<li><span class="citation wikicite" id="endnote_no_council"><b><a href="#ref_no_council">^NC</a></b></span> &#160; Berkshire has no county council and the districts function as unitary authorities.</li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subdivisions_of_England&amp;action=edit&amp;section=19" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Jones-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Jones_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Jones_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Jones_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Jones_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Jones_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Jones_1-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">Jones, B., Kavanagh, D., Moran, M. &amp; Norton, P., Politics UK, (2004), Pearson Longman.</span>
+</li>
+<li id="cite_note-Atkinson-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Atkinson_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Atkinson_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Atkinson_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Atkinson, H. &amp; Wilks-Heeg, S. (2000). <i>Local Government from Thatcher to Blair</i>. Polity.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Local+Government+from+Thatcher+to+Blair&amp;rft.pub=Polity&amp;rft.date=2000&amp;rft.au=Atkinson%2C+H.&amp;rft.au=Wilks-Heeg%2C+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubdivisions+of+England" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Guide_London-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Guide_London_3-0">^</a></b></span> <span class="reference-text">Collins, S., Colville, I &amp; Pengelly, S., A Guide to the Greater London Authority, (2000), Sweet and Maxwell</span>
+</li>
+<li id="cite_note-LA_1997-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-LA_1997_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-LA_1997_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-LA_1997_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.legislation.gov.uk/ukpga/1997/23/contents/made">"Lieutenancies Act 1997"</a>. Office of Public Sector Information. 1997<span class="reference-accessdate">. Retrieved <span class="nowrap">8 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lieutenancies+Act+1997&amp;rft.pub=Office+of+Public+Sector+Information&amp;rft.date=1997&amp;rft_id=http%3A%2F%2Fwww.legislation.gov.uk%2Fukpga%2F1997%2F23%2Fcontents%2Fmade&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubdivisions+of+England" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Berks_1996-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Berks_1996_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Berks_1996_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.legislaton.gov.uk/uksi/1996/1879/contents/made">"The Berkshire (Structural Change) Order 1996"</a>. National Archives(legislation.gov.uk). 1996<span class="reference-accessdate">. Retrieved <span class="nowrap">13 September</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Berkshire+%28Structural+Change%29+Order+1996&amp;rft.pub=National+Archives%28legislation.gov.uk%29&amp;rft.date=1996&amp;rft_id=http%3A%2F%2Fwww.legislaton.gov.uk%2Fuksi%2F1996%2F1879%2Fcontents%2Fmade&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubdivisions+of+England" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-GMCA-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-GMCA_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Association_of_Greater_Manchester_Authorities" title="Association of Greater Manchester Authorities">Association of Greater Manchester Authorities</a> (March 2010). <a rel="nofollow" class="external text" href="http://www.agma.gov.uk/cms_media/files/greater_manchester_combined_authority_final_scheme.pdf">"Greater Manchester Combined Authority Final Scheme"</a> <span class="cs1-format">(PDF)</span>. agma.gov.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">9 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Greater+Manchester+Combined+Authority+Final+Scheme&amp;rft.pub=agma.gov.uk&amp;rft.date=2010-03&amp;rft.au=Association+of+Greater+Manchester+Authorities&amp;rft_id=http%3A%2F%2Fwww.agma.gov.uk%2Fcms_media%2Ffiles%2Fgreater_manchester_combined_authority_final_scheme.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubdivisions+of+England" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Travers-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Travers_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Travers_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Travers_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Travers, T., The Politics of London, (2004), Palgrave</span>
+</li>
+<li id="cite_note-Hebbert-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hebbert_8-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Hebbert, Michael (1998). <i>London: More by fortune than design</i>. John Wiley &amp; Sons.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=London%3A+More+by+fortune+than+design&amp;rft.pub=John+Wiley+%26+Sons&amp;rft.date=1998&amp;rft.aulast=Hebbert&amp;rft.aufirst=Michael&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubdivisions+of+England" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-1992_Act-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-1992_Act_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.legislation.gov.uk/ukpga/1992/19/contents/made">"Local Government Act 1992"</a>. Office of Public Sector Information. 1992<span class="reference-accessdate">. Retrieved <span class="nowrap">8 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Local+Government+Act+1992&amp;rft.pub=Office+of+Public+Sector+Information&amp;rft.date=1992&amp;rft_id=http%3A%2F%2Fwww.legislation.gov.uk%2Fukpga%2F1992%2F19%2Fcontents%2Fmade&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubdivisions+of+England" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-1972_Act-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-1972_Act_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.legislation.gov.uk/ukpga/1972/70/contents">"Local Government Act 1972"</a>. Office of Public Sector Information. 1972<span class="reference-accessdate">. Retrieved <span class="nowrap">9 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Local+Government+Act+1972&amp;rft.pub=Office+of+Public+Sector+Information&amp;rft.date=1972&amp;rft_id=http%3A%2F%2Fwww.legislation.gov.uk%2Fukpga%2F1972%2F70%2Fcontents&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubdivisions+of+England" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Scilly_Education-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Scilly_Education_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090604165157/http://www.scilly.gov.uk/education/">"Education and Learning"</a>. Council of the Isles of Scilly. Archived from <a rel="nofollow" class="external text" href="http://www.scilly.gov.uk/education/">the original</a> on 4 June 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">9 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Education+and+Learning&amp;rft.pub=Council+of+the+Isles+of+Scilly&amp;rft_id=http%3A%2F%2Fwww.scilly.gov.uk%2Feducation%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubdivisions+of+England" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Cornwall_PCT-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Cornwall_PCT_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cornwallandislesofscilly.nhs.uk/CornwallAndIslesOfScillyPCT/AboutUs/AboutUs.aspx">"About Us"</a>. Cornwall and Isles of Scilly Primary Care Trust<span class="reference-accessdate">. Retrieved <span class="nowrap">9 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+Us&amp;rft.pub=Cornwall+and+Isles+of+Scilly+Primary+Care+Trust&amp;rft_id=http%3A%2F%2Fwww.cornwallandislesofscilly.nhs.uk%2FCornwallAndIslesOfScillyPCT%2FAboutUs%2FAboutUs.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubdivisions+of+England" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Cornwall_Partner-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Cornwall_Partner_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cornwall.gov.uk/default.aspx?page=24697">"The Cornwall and Isles of Scilly Enterprise Partnership"</a>. Cornwall Council. 30 July 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">9 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Cornwall+and+Isles+of+Scilly+Enterprise+Partnership&amp;rft.pub=Cornwall+Council&amp;rft.date=2010-07-30&amp;rft_id=http%3A%2F%2Fwww.cornwall.gov.uk%2Fdefault.aspx%3Fpage%3D24697&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubdivisions+of+England" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/uk-england-london-18249803">"Queen's Park parish council gets go-ahead"</a>. <i>BBC News London</i>. 29 May 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">2 August</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News+London&amp;rft.atitle=Queen%27s+Park+parish+council+gets+go-ahead&amp;rft.date=2012-05-29&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fuk-england-london-18249803&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASubdivisions+of+England" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Subdivisions_of_England&amp;action=edit&amp;section=20" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Subdivisions_of_England" class="extiw" title="commons:Category:Subdivisions of England">Subdivisions of England</a></b></i>.</td></tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.ons.gov.uk/ons/guide-method/geography/beginner-s-guide/administrative/england/counties--non-metropolitan-districts-and-unitary-authorities/map-of-the-uk-counties-and-unitary-administrations.pdf">Map of the UK counties and unitary administrations</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ons.gov.uk/ons/guide-method/geography/beginner-s-guide/administrative/england/counties--non-metropolitan-districts-and-unitary-authorities/map-of-all-uk-local-authorities.pdf">Map of all UK local authorities</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=England&amp;#124;link=England_Subdivisions_of_England" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Subdivisions_of_England" title="Template:Subdivisions of England"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Subdivisions_of_England" title="Template talk:Subdivisions of England"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Subdivisions_of_England&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=England&amp;#124;link=England_Subdivisions_of_England" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/England" title="England"><img alt="England" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a></span> <a class="mw-selflink selflink">Subdivisions of England</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Region</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Regions_of_England" title="Regions of England">Regions</a></li>
+<li><a href="/wiki/NUTS_1_statistical_regions_of_England" title="NUTS 1 statistical regions of England">NUTS 1 statistical regions of England</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Counties_of_England" title="Counties of England">Ceremonial County</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ceremonial_counties_of_England" title="Ceremonial counties of England">Ceremonial County</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Counties_of_England" title="Counties of England">Administrative County</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Metropolitan_county" title="Metropolitan county">Metropolitan County</a></li>
+<li><a href="/wiki/Non-metropolitan_county" title="Non-metropolitan county">Non-Metropolitan County</a></li>
+<li><a href="/wiki/Greater_London" title="Greater London">Greater London</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Districts_of_England" title="Districts of England">District</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Metropolitan_borough" title="Metropolitan borough">Metropolitan Borough</a></li>
+<li><a href="/wiki/Non-metropolitan_district" title="Non-metropolitan district">Non-Metropolitan District</a></li>
+<li><a href="/wiki/London_Borough" class="mw-redirect" title="London Borough">London Borough</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Unitary_authorities_of_England" title="Unitary authorities of England">Unitary Authority</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Unitary_authorities_of_England" title="Unitary authorities of England">Unitary Authority</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sui-Generis</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/City_of_London" title="City of London">City of London</a></li>
+<li><a href="/wiki/Isles_of_Scilly" title="Isles of Scilly">Isles of Scilly</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Civil Parish</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Civil_Parish" class="mw-redirect" title="Civil Parish">Civil Parish</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Administrative_geography_of_the_United_Kingdom" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Administrative_geography_of_the_United_Kingdom" title="Template:Administrative geography of the United Kingdom"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Administrative_geography_of_the_United_Kingdom" title="Template talk:Administrative geography of the United Kingdom"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Administrative_geography_of_the_United_Kingdom&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Administrative_geography_of_the_United_Kingdom" style="font-size:114%;margin:0 4em"><a href="/wiki/Administrative_geography_of_the_United_Kingdom" title="Administrative geography of the United Kingdom">Administrative geography of the United Kingdom</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Local_government_in_the_United_Kingdom" title="Local government in the United Kingdom">United Kingdom local government</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_local_government_in_the_United_Kingdom" title="History of local government in the United Kingdom">History</a></li>
+<li>Subdivisions: <a href="/wiki/List_of_shrievalties" title="List of shrievalties">Shrievalties</a></li>
+<li><a href="/wiki/Lieutenancy_area" title="Lieutenancy area">Lieutenancy areas</a></li>
+<li><a href="/wiki/Counties_of_the_United_Kingdom" title="Counties of the United Kingdom">Counties</a> (<a href="/wiki/List_of_counties_of_the_United_Kingdom" title="List of counties of the United Kingdom">list</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Local_government_in_England" title="Local government in England">England local government</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_local_government_in_England" title="History of local government in England">History</a></li>
+<li><a class="mw-selflink selflink">Subdivisions</a>: <a href="/wiki/Regions_of_England" title="Regions of England">Regions</a></li>
+<li><a href="/wiki/Ceremonial_counties_of_England" title="Ceremonial counties of England">Ceremonial counties</a>
+<ul><li><a href="/wiki/List_of_ceremonial_counties_of_England" title="List of ceremonial counties of England">list</a></li></ul></li>
+<li><a href="/wiki/Metropolitan_and_non-metropolitan_counties_of_England" title="Metropolitan and non-metropolitan counties of England">Metropolitan and Non-metropolitan counties</a></li>
+<li><a href="/wiki/Unitary_authorities_of_England" title="Unitary authorities of England">Unitary authorities</a> (<a href="/wiki/Template:Unitary_authorities_of_England" title="Template:Unitary authorities of England">list</a>)</li>
+<li><a href="/wiki/Districts_of_England" title="Districts of England">Districts</a> (<a href="/wiki/List_of_English_districts" title="List of English districts">list</a>)</li>
+<li><a href="/wiki/Civil_parishes_in_England" class="mw-redirect" title="Civil parishes in England">Civil parishes</a> (<a href="/wiki/List_of_civil_parishes_in_England" title="List of civil parishes in England">list</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Local_government_in_Northern_Ireland" title="Local government in Northern Ireland">Northern Ireland local government</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Local_government_in_Northern_Ireland#History" title="Local government in Northern Ireland">History</a></li>
+<li>Subdivisions: <a href="/wiki/Counties_of_Northern_Ireland" title="Counties of Northern Ireland">Counties</a></li>
+<li><a href="/wiki/Districts_of_Northern_Ireland" class="mw-redirect" title="Districts of Northern Ireland">Districts</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Local_government_in_Scotland" title="Local government in Scotland">Scotland local government</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_local_government_in_Scotland" title="History of local government in Scotland">History</a></li>
+<li><a href="/wiki/Subdivisions_of_Scotland" title="Subdivisions of Scotland">Subdivisions</a>: <a href="/wiki/Sheriffdom" title="Sheriffdom">Sheriffdoms</a></li>
+<li><a href="/wiki/Lieutenancy_areas_of_Scotland" title="Lieutenancy areas of Scotland">Lieutenancy areas</a></li>
+<li><a href="/wiki/Council_areas_of_Scotland" class="mw-redirect" title="Council areas of Scotland">Council areas</a></li>
+<li><a href="/wiki/List_of_community_council_areas_in_Scotland" title="List of community council areas in Scotland">Community council areas</a></li>
+<li><a href="/wiki/List_of_civil_parishes_in_Scotland" title="List of civil parishes in Scotland">Civil parishes</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Local_government_in_Wales" title="Local government in Wales">Wales local government</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_local_government_in_Wales" title="History of local government in Wales">History</a></li>
+<li>Subdivisions: <a href="/wiki/Preserved_counties_of_Wales" title="Preserved counties of Wales">Preserved counties</a></li>
+<li><a href="/wiki/Local_government_in_Wales" title="Local government in Wales">Principal areas</a></li>
+<li><a href="/wiki/Community_(Wales)" title="Community (Wales)">Communities</a> (<a href="/wiki/List_of_communities_in_Wales" title="List of communities in Wales">list</a>)</li>
+<li><a href="/wiki/Historic_counties_of_Wales" title="Historic counties of Wales">Historic counties</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2184
+Cached time: 20180930185134
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.556 seconds
+Real time usage: 0.720 seconds
+Preprocessor visited node count: 3817/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 94376/2097152 bytes
+Template argument size: 5963/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 31555/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.151/10.000 seconds
+Lua memory usage: 4.6 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  396.305      1 -total
+ 28.39%  112.525      1 Template:Reflist
+ 22.32%   88.466      2 Template:Infobox
+ 18.48%   73.248      1 Template:Infobox_subdivision_type
+ 13.49%   53.458      2 Template:Cite_book
+ 11.26%   44.629      1 Template:Update_inline
+  9.31%   36.889     10 Template:Br_separated_entries
+  8.82%   34.947      1 Template:Politics_of_England
+  8.81%   34.929      8 Template:Cite_web
+  8.13%   32.210      1 Template:Sidebar_with_collapsible_lists
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:222068-0!canonical and timestamp 20180930185133 and revision id 861884306
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Subdivisions_of_England&amp;oldid=861884306">https://en.wikipedia.org/w/index.php?title=Subdivisions_of_England&amp;oldid=861884306</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Subdivisions_of_England" title="Category:Subdivisions of England">Subdivisions of England</a></li><li><a href="/wiki/Category:Local_government_in_England" title="Category:Local government in England">Local government in England</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Wikipedia_articles_in_need_of_updating_from_March_2014" title="Category:Wikipedia articles in need of updating from March 2014">Wikipedia articles in need of updating from March 2014</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_in_need_of_updating" title="Category:All Wikipedia articles in need of updating">All Wikipedia articles in need of updating</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Subdivisions+of+England" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Subdivisions+of+England" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Subdivisions_of_England" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Subdivisions_of_England" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Subdivisions_of_England">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Subdivisions_of_England&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Subdivisions_of_England&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Subdivisions_of_England" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Subdivisions_of_England" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Subdivisions_of_England&amp;oldid=861884306" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Subdivisions_of_England&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q171634" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Subdivisions_of_England&amp;id=861884306" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Subdivisions+of+England">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Subdivisions+of+England&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Subdivisions_of_England&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Subdivisions_of_England" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D9%82%D8%B3%D9%8A%D9%85_%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A_%D9%81%D9%8A_%D8%A5%D9%86%D8%AC%D9%84%D8%AA%D8%B1%D8%A7" title="التقسيم الإداري في إنجلترا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Organizaci%C3%B3n_territorial_d%27Inglaterra" title="Organización territorial d&#039;Inglaterra – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE_%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Административно деление на Англия – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Spr%C3%A1vn%C3%AD_%C4%8Dlen%C4%9Bn%C3%AD_Anglie" title="Správní členění Anglie – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Verwaltungsgliederung_Englands" title="Verwaltungsgliederung Englands – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Organizaci%C3%B3n_territorial_de_Inglaterra" title="Organización territorial de Inglaterra – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Subdivisions_de_l%27Angleterre" title="Subdivisions de l&#039;Angleterre – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9E%89%EA%B8%80%EB%9E%9C%EB%93%9C%EC%9D%98_%ED%96%89%EC%A0%95_%EA%B5%AC%EC%97%AD" title="잉글랜드의 행정 구역 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Suddivisioni_dell%27Inghilterra" title="Suddivisioni dell&#039;Inghilterra – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%97%D7%9C%D7%95%D7%A7%D7%94_%D7%9E%D7%A0%D7%94%D7%9C%D7%99%D7%AA_%D7%A9%D7%9C_%D7%90%D7%A0%D7%92%D7%9C%D7%99%D7%94" title="חלוקה מנהלית של אנגליה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Anglijas_administrat%C4%ABvais_iedal%C4%ABjums" title="Anglijas administratīvais iedalījums – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Anglijos_administracinis_suskirstymas" title="Anglijos administracinis suskirstymas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Anglia_k%C3%B6zigazgat%C3%A1sa" title="Anglia közigazgatása – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B5%D0%BB%D0%B1%D0%B0_%D0%BD%D0%B0_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%98%D0%B0" title="Административна поделба на Англија – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/Subdebisones_de_la_Anglaterra" title="Subdebisones de la Anglaterra – Mirandese" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%81%AE%E8%A1%8C%E6%94%BF%E5%8C%BA%E7%94%BB" title="イングランドの行政区画 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Podzia%C5%82_administracyjny_Anglii" title="Podział administracyjny Anglii – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Subdivis%C3%B5es_da_Inglaterra" title="Subdivisões da Inglaterra – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Organizarea_administrativ%C4%83_a_Angliei" title="Organizarea administrativă a Angliei – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8" title="Административное деление Англии – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Local_government_in_England" title="Local government in England – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B4%D1%98%D0%B5%D0%BB%D0%B0_%D0%95%D0%BD%D0%B3%D0%BB%D0%B5%D1%81%D0%BA%D0%B5" title="Подјела Енглеске – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F%D0%BD%D0%B5%D2%A3_%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2_%D0%B1%D2%AF%D0%BB%D0%B5%D0%BD%D0%B5%D1%88%D0%B5" title="Англиянең административ бүленеше – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%81%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%AD%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A4%E0%B8%A9" title="เขตการปกครองของประเทศอังกฤษ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ph%C3%A2n_c%E1%BA%A5p_h%C3%A0nh_ch%C3%ADnh_Anh" title="Phân cấp hành chính Anh – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%8B%B1%E6%A0%BC%E5%85%B0%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92" title="英格兰行政区划 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q171634#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 30 September 2018, at 18:51<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Subdivisions_of_England&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.556","walltime":"0.720","ppvisitednodes":{"value":3817,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":94376,"limit":2097152},"templateargumentsize":{"value":5963,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":31555,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  396.305      1 -total"," 28.39%  112.525      1 Template:Reflist"," 22.32%   88.466      2 Template:Infobox"," 18.48%   73.248      1 Template:Infobox_subdivision_type"," 13.49%   53.458      2 Template:Cite_book"," 11.26%   44.629      1 Template:Update_inline","  9.31%   36.889     10 Template:Br_separated_entries","  8.82%   34.947      1 Template:Politics_of_England","  8.81%   34.929      8 Template:Cite_web","  8.13%   32.210      1 Template:Sidebar_with_collapsible_lists"]},"scribunto":{"limitreport-timeusage":{"value":"0.151","limit":"10.000"},"limitreport-memusage":{"value":4828390,"limit":52428800}},"cachereport":{"origin":"mw2184","timestamp":"20180930185134","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw2172"});});</script>
+	</body>
+</html>

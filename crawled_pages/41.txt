@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ahmia - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ahmia","wgTitle":"Ahmia","wgCurRevisionId":842235992,"wgRevisionId":842235992,"wgArticleId":47423878,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All stub articles","Internet search engines","Dark web","Tor hidden services","Internet stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ahmia","wgRelevantArticleId":47423878,"wgRequestId":"W6@SuArAMF8AAKEUVs8AAAAJ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q18693938","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ahmia"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ahmia&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ahmia&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ahmia"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ahmia rootpage-Ahmia skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Ahmia</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Ahmia</b> is a <a href="/wiki/Clearnet_(networking)" title="Clearnet (networking)">clearnet</a> <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engine</a> for <a href="/wiki/Tor_(anonymity_network)" title="Tor (anonymity network)">Tor's hidden services</a> created by Juha Nurmi.
+</p><p>Developed during the <a href="/wiki/Google_Summer_of_Code#2014" title="Google Summer of Code">2014 Google Summer of Code</a> with support from the <a href="/wiki/The_Tor_Project,_Inc" title="The Tor Project, Inc">Tor Project</a>, the <a href="/wiki/Open_source" class="mw-redirect" title="Open source">open source</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> search engine was initially built in <a href="/wiki/Django_(web_framework)" title="Django (web framework)">Django</a> and <a href="/wiki/PostgreSQL" title="PostgreSQL">PostgreSQL</a>. The site filters out <a href="/wiki/Child_pornography" title="Child pornography">child pornography</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>The service partners with <a href="/wiki/GlobaLeaks" title="GlobaLeaks">GlobaLeaks</a>'s submissions and <a href="/wiki/Tor2web" title="Tor2web">Tor2web</a> statistics for hidden service discovery<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> and as of July 2015 has indexed about 5000 sites.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>In July 2015 the site published a list  of hundreds of fraudulent fake versions of web pages (including such sites as <a href="/wiki/DuckDuckGo" title="DuckDuckGo">DuckDuckGo</a>, as well a <a href="/wiki/Dark_web" title="Dark web">dark web</a> page).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ahmia&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Greif, Björn (14 July 2015). <a rel="nofollow" class="external text" href="http://www.zdnet.de/88240605/gefaelschte-onion-websites-spaehen-tor-nutzer-aus/">"Gefälschte .onion-Websites spähen Tor-Nutzer aus"</a>. ZDNet<span class="reference-accessdate">. Retrieved <span class="nowrap">4 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gef%C3%A4lschte+.onion-Websites+sp%C3%A4hen+Tor-Nutzer+aus&amp;rft.pub=ZDNet&amp;rft.date=2015-07-14&amp;rft.aulast=Greif&amp;rft.aufirst=Bj%C3%B6rn&amp;rft_id=http%3A%2F%2Fwww.zdnet.de%2F88240605%2Fgefaelschte-onion-websites-spaehen-tor-nutzer-aus%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAhmia" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news">juha (7 September 2014). <a rel="nofollow" class="external text" href="https://blog.torproject.org/category/tags/ahmiafi">"Ahmia search after GSoC development"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Ahmia+search+after+GSoC+development&amp;rft.date=2014-09-07&amp;rft.au=juha&amp;rft_id=https%3A%2F%2Fblog.torproject.org%2Fcategory%2Ftags%2Fahmiafi&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAhmia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://ahmia.fi/about/">"About us"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+us&amp;rft_id=https%3A%2F%2Fahmia.fi%2Fabout%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAhmia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news">Leyden, John (7 Jul 2015). <a rel="nofollow" class="external text" href="https://www.theregister.co.uk/2015/07/07/dark_web_cloned_site_scam_resurgence/">"Heart of Darkness: Mass of clone scam sites appear"</a>. The Register<span class="reference-accessdate">. Retrieved <span class="nowrap">3 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Heart+of+Darkness%3A+Mass+of+clone+scam+sites+appear&amp;rft.date=2015-07-07&amp;rft.aulast=Leyden&amp;rft.aufirst=John&amp;rft_id=https%3A%2F%2Fwww.theregister.co.uk%2F2015%2F07%2F07%2Fdark_web_cloned_site_scam_resurgence%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAhmia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news">MacGregor, Alice (1 July 2015). <a rel="nofollow" class="external text" href="http://thestack.com/hundreds-dark-web-mirror-booby-trap-tor-010715">"Hundreds of Dark Web mirror sites 'booby-trapping' Tor users"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Hundreds+of+Dark+Web+mirror+sites+%E2%80%98booby-trapping%E2%80%99+Tor+users&amp;rft.date=2015-07-01&amp;rft.aulast=MacGregor&amp;rft.aufirst=Alice&amp;rft_id=http%3A%2F%2Fthestack.com%2Fhundreds-dark-web-mirror-booby-trap-tor-010715&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAhmia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Marwan, Peter (14 July 2015). <a rel="nofollow" class="external text" href="http://www.itespresso.de/2015/07/14/anonymitaet-von-tor-nutzern-durch-fake-websites-gefaehrdet/">"Anonymität von TOR-Nutzern durch Fake-Websites gefährdet"</a>. ITespresso<span class="reference-accessdate">. Retrieved <span class="nowrap">4 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Anonymit%C3%A4t+von+TOR-Nutzern+durch+Fake-Websites+gef%C3%A4hrdet&amp;rft.pub=ITespresso&amp;rft.date=2015-07-14&amp;rft.aulast=Marwan&amp;rft.aufirst=Peter&amp;rft_id=http%3A%2F%2Fwww.itespresso.de%2F2015%2F07%2F14%2Fanonymitaet-von-tor-nutzern-durch-fake-websites-gefaehrdet%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAhmia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ahmia&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://ahmia.fi">Official website</a></span></span> <a href="https://www.wikidata.org/wiki/Q18693938#P856" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Web_search_engines" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Web_search_engines" title="Template:Web search engines"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Web_search_engines" title="Template talk:Web search engines"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_search_engines&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Web_search_engines" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_search_engine" title="Web search engine">Web search engines</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Active</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AOL" title="AOL">AOL</a></li>
+<li><a class="mw-selflink selflink">Ahmia</a></li>
+<li><a href="/wiki/Ask.com" title="Ask.com">Ask.com</a></li>
+<li><a href="/wiki/Baidu" title="Baidu">Baidu</a></li>
+<li><a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a></li>
+<li><a href="/wiki/Blackle" title="Blackle">Blackle</a></li>
+<li><a href="/wiki/Dogpile" title="Dogpile">Dogpile</a></li>
+<li><a href="/wiki/DuckDuckGo" title="DuckDuckGo">DuckDuckGo</a></li>
+<li><a href="/wiki/Ecosia" title="Ecosia">Ecosia</a></li>
+<li><a href="/wiki/Exalead" title="Exalead">Exalead</a></li>
+<li><a href="/wiki/Excite" title="Excite">Excite</a></li>
+<li><a href="/wiki/GenieKnows" title="GenieKnows">GenieKnows</a></li>
+<li><a href="/wiki/Gigablast" title="Gigablast">Gigablast</a></li>
+<li><a href="/wiki/Google_Search" title="Google Search">Google</a></li>
+<li><a href="/wiki/Info.com" title="Info.com">Info.com</a></li>
+<li><a href="/wiki/Ixquick" title="Ixquick">Ixquick</a></li>
+<li><a href="/wiki/Lycos" title="Lycos">Lycos</a></li>
+<li><a href="/wiki/Naver" title="Naver">Naver</a></li>
+<li><a href="/wiki/Qwant" title="Qwant">Qwant</a></li>
+<li><a href="/wiki/Parsijoo" title="Parsijoo">Parsijoo</a></li>
+<li><a href="/wiki/Picollator" title="Picollator">Picollator</a></li>
+<li><a href="/wiki/SAPO_(company)" title="SAPO (company)">SAPO</a></li>
+<li><a href="/wiki/Scout_(travel_website)" title="Scout (travel website)">Scout</a></li>
+<li><a href="/wiki/Searx" title="Searx">Searx</a></li>
+<li><a href="/wiki/Seznam.cz" title="Seznam.cz">Seznam.cz</a></li>
+<li><a href="/wiki/Sogou" title="Sogou">Sogou</a></li>
+<li><a href="/wiki/Sputnik_(search_engine)" title="Sputnik (search engine)">Sputnik</a></li>
+<li><a href="/wiki/Ixquick#Startpage.com" title="Ixquick">Startpage</a></li>
+<li><a href="/wiki/WebCrawler" title="WebCrawler">WebCrawler</a></li>
+<li><a href="/wiki/YaCy" title="YaCy">YaCy</a></li>
+<li><a href="/wiki/Yahoo!_Search" title="Yahoo! Search">Yahoo!</a></li>
+<li><a href="/wiki/Yandex_Search" title="Yandex Search">Yandex</a></li>
+<li><a href="/wiki/Yooz" title="Yooz">Yooz</a></li>
+<li><a href="/wiki/Youdao" title="Youdao">Youdao</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Inactive</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/123people" title="123people">123people</a></li>
+<li><a href="/wiki/A9.com" title="A9.com">A9.com</a></li>
+<li><a href="/wiki/Aliweb" title="Aliweb">Aliweb</a></li>
+<li><a href="/wiki/AlltheWeb" title="AlltheWeb">AlltheWeb</a></li>
+<li><a href="/wiki/AltaVista" title="AltaVista">AltaVista</a></li>
+<li><a href="/wiki/Blekko" title="Blekko">Blekko</a></li>
+<li><a href="/wiki/Boogami" title="Boogami">Boogami</a></li>
+<li><a href="/wiki/Cuil" title="Cuil">Cuil</a></li>
+<li><a href="/wiki/Empas" title="Empas">Empas</a></li>
+<li><a href="/wiki/Forestle" title="Forestle">Forestle</a></li>
+<li><a href="/wiki/Go.com" title="Go.com">Go.com</a></li>
+<li><a href="/wiki/Infoseek" title="Infoseek">Infoseek</a></li>
+<li><a href="/wiki/Inktomi" title="Inktomi">Inktomi</a></li>
+<li><a href="/wiki/JumpStation" title="JumpStation">JumpStation</a></li>
+<li><a href="/wiki/LeapFish" title="LeapFish">LeapFish</a></li>
+<li><a href="/wiki/Mugurdy" title="Mugurdy">Mugurdy</a></li>
+<li><a href="/wiki/Northern_Light_Group" title="Northern Light Group">Northern Light</a></li>
+<li><a href="/wiki/Powerset_(company)" title="Powerset (company)">Powerset</a></li>
+<li><a href="/wiki/Scroogle" class="mw-redirect" title="Scroogle">Scroogle</a></li>
+<li><a href="/wiki/SearchMe" title="SearchMe">SearchMe</a></li>
+<li><a href="/wiki/Soso.com" class="mw-redirect" title="Soso.com">Soso.com</a></li>
+<li><a href="/wiki/Teoma" title="Teoma">Teoma</a></li>
+<li><a href="/wiki/Viewzi" title="Viewzi">Viewzi</a></li>
+<li><a href="/wiki/Vivisimo" title="Vivisimo">Vivisimo</a></li>
+<li><a href="/wiki/Volunia" title="Volunia">Volunia</a></li>
+<li><a href="/wiki/W3Catalog" title="W3Catalog">W3Catalog</a></li>
+<li><a href="/wiki/Wikiseek" title="Wikiseek">Wikiseek</a></li>
+<li><a href="/wiki/Yebol" title="Yebol">Yebol</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/List_of_search_engines" title="List of search engines">Complete list</a></li>
+<li><a href="/wiki/Comparison_of_web_search_engines" title="Comparison of web search engines">Comparison</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Tor_hidden_services" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Tor_hidden_services" title="Template:Tor hidden services"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Tor_hidden_services" title="Template talk:Tor hidden services"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Tor_hidden_services&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Tor_hidden_services" style="font-size:114%;margin:0 4em"><a href="/wiki/Tor_(anonymity_network)#Hidden_services" title="Tor (anonymity network)">Tor hidden services</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="3"><div id="*_List-Class_article&amp;#124;16x16px&amp;#124;link=_List&amp;#10;*_Category&amp;#124;16x16px&amp;#124;link=_Category">
+<ul><li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/List_of_Tor_hidden_services" title="List of Tor hidden services">List</a></b></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Tor_hidden_services" title="Category:Tor hidden services">Category</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Web_directory" title="Web directory">Web directories</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/The_Hidden_Wiki" title="The Hidden Wiki">The Hidden Wiki</a></li></ul>
+</div></td><td class="navbox-image" rowspan="10" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Tor-logo-2011-flat.svg" class="image" title="Tor logo"><img alt="Tor logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/65px-Tor-logo-2011-flat.svg.png" width="65" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/98px-Tor-logo-2011-flat.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/130px-Tor-logo-2011-flat.svg.png 2x" data-file-width="306" data-file-height="185" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Web_search_engine" title="Web search engine">Search engines</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Ahmia</a></li>
+<li><a href="/wiki/DuckDuckGo" title="DuckDuckGo">DuckDuckGo</a></li>
+<li><a href="/wiki/Grams_(search)" title="Grams (search)">Grams</a></li>
+<li><a href="/wiki/MetaGer" title="MetaGer">MetaGer</a></li>
+<li><a href="/wiki/Searx" title="Searx">Searx</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/File_system" title="File system">File storage</a> and <a href="/wiki/Peer-to-peer" title="Peer-to-peer">peer-to-peer</a><br /><a href="/wiki/File_sharing" title="File sharing">file sharing</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/BTDigg" title="BTDigg">BTDigg</a></li>
+<li><a href="/wiki/Freedom_Hosting" title="Freedom Hosting">Freedom Hosting</a></li>
+<li><a href="/wiki/Free_Haven_Project" title="Free Haven Project">Free Haven Project</a></li>
+<li><a href="/wiki/KickassTorrents" title="KickassTorrents">KickassTorrents</a></li>
+<li><a href="/wiki/The_Pirate_Bay" title="The Pirate Bay">The Pirate Bay</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Mailbox_provider" title="Mailbox provider">Email</a> and<br /><a href="/wiki/Instant_messaging" title="Instant messaging">instant messaging</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bitmessage" title="Bitmessage">Bitmessage.ch</a></li>
+<li><a href="/wiki/Riseup" title="Riseup">Riseup</a></li>
+<li><a href="/wiki/Tor_Mail" title="Tor Mail">Tor Mail</a></li>
+<li><a href="/wiki/TorChat" title="TorChat">TorChat</a></li>
+<li><a href="/wiki/SIGAINT" title="SIGAINT">SIGAINT</a></li>
+<li><a href="/wiki/ProtonMail" title="ProtonMail">ProtonMail</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Social_media" title="Social media">Social media</a> and <a href="/wiki/Internet_forum" title="Internet forum">forums</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/8chan" title="8chan">8chan</a></li>
+<li><a href="/wiki/Dark0de" title="Dark0de">Dark0de</a></li>
+<li><a href="/wiki/Facebookcorewwwi.onion" title="Facebookcorewwwi.onion">Facebook</a></li>
+<li><a href="/wiki/HackBB" title="HackBB">HackBB</a></li>
+<li><a href="/wiki/Russian_Anonymous_Marketplace" title="Russian Anonymous Marketplace">Russian Anonymous Marketplace</a></li>
+<li><a href="/wiki/The_Hub_(forum)" title="The Hub (forum)">The Hub</a></li>
+<li><a href="/wiki/Tor_Carding_Forum" title="Tor Carding Forum">Tor Carding Forum</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Cryptocurrency_tumbler" title="Cryptocurrency tumbler">Cryptocurrency tumblers</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bitcoin_Fog" title="Bitcoin Fog">Bitcoin Fog</a></li>
+<li><a href="/wiki/Blockchain.info" title="Blockchain.info">Blockchain.info</a></li>
+<li><a href="/wiki/Grams_Helix" class="mw-redirect" title="Grams Helix">Helix</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Darknet_market" title="Darknet market">Commerce</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agora_(online_marketplace)" title="Agora (online marketplace)">Agora</a></li>
+<li><a href="/wiki/AlphaBay" title="AlphaBay">AlphaBay</a></li>
+<li><a href="/wiki/Assassination_market" title="Assassination market">Assassination market</a></li>
+<li><a href="/wiki/Atlantis_(market)" title="Atlantis (market)">Atlantis</a></li>
+<li><a href="/wiki/Black_Market_Reloaded" title="Black Market Reloaded">Black Market Reloaded</a></li>
+<li><a href="/wiki/Dream_Market" title="Dream Market">Dream Market</a></li>
+<li><a href="/wiki/Evolution_(marketplace)" title="Evolution (marketplace)">Evolution</a></li>
+<li><a href="/wiki/The_Farmer%27s_Market" title="The Farmer&#39;s Market">The Farmer's Market</a></li>
+<li><a href="/wiki/Hansa_(market)" title="Hansa (market)">Hansa</a></li>
+<li><a href="/wiki/Sheep_Marketplace" title="Sheep Marketplace">Sheep Marketplace</a></li>
+<li><a href="/wiki/Silk_Road_(marketplace)" title="Silk Road (marketplace)">Silk Road</a></li>
+<li><a href="/wiki/TheRealDeal" title="TheRealDeal">TheRealDeal</a></li>
+<li><a href="/wiki/Utopia_(marketplace)" title="Utopia (marketplace)">Utopia</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Online_newspaper" title="Online newspaper">News</a>, <a href="/wiki/Whistleblower" title="Whistleblower">whistleblowing</a>,<br />and <a href="/wiki/Archive" title="Archive">document archives</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/BuggedPlanet" title="BuggedPlanet">BuggedPlanet</a></li>
+<li><a href="/wiki/DeepDotWeb" title="DeepDotWeb">DeepDotWeb</a></li>
+<li><a href="/wiki/Doxbin" title="Doxbin">Doxbin</a></li>
+<li><a href="/wiki/Associated_Whistleblowing_Press#Filtrala" title="Associated Whistleblowing Press">Filtrala</a></li>
+<li><a href="/wiki/GlobaLeaks" title="GlobaLeaks">GlobaLeaks</a></li>
+<li><a href="/wiki/Independent_Media_Center" title="Independent Media Center">Independent Media Center</a></li>
+<li><a href="/wiki/Associated_Whistleblowing_Press#Ljost" title="Associated Whistleblowing Press">Ljost</a></li>
+<li><a href="/wiki/Nawaat#Nawaatleaks" title="Nawaat">NawaatLeaks</a></li>
+<li><a href="/wiki/ProPublica" title="ProPublica">ProPublica</a></li>
+<li><a href="/wiki/SecureDrop" title="SecureDrop">SecureDrop</a></li>
+<li><a href="/wiki/Sci-Hub" title="Sci-Hub">Sci-Hub</a></li>
+<li><a href="/wiki/The_Daily_Stormer" title="The Daily Stormer">The Daily Stormer</a></li>
+<li><a href="/wiki/The_Intercept" title="The Intercept">The Intercept</a></li>
+<li><a href="/wiki/Elephant_Action_League#WildLeaks_Project" title="Elephant Action League">WildLeaks</a></li>
+<li><a href="/wiki/WikiLeaks#Tor_hidden_service" title="WikiLeaks">WikiLeaks</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Nonprofit_organization" title="Nonprofit organization">Nonprofit organizations</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Courage_Foundation" title="Courage Foundation">Courage Foundation</a></li>
+<li><a href="/wiki/Freedom_of_the_Press_Foundation" title="Freedom of the Press Foundation">Freedom of the Press Foundation</a></li>
+<li><a href="/wiki/La_Quadrature_du_Net" title="La Quadrature du Net">La Quadrature du Net</a></li>
+<li><a href="/wiki/Telecomix" title="Telecomix">Telecomix</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pornography" title="Pornography">Pornography</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lolita_City" title="Lolita City">Lolita City</a></li>
+<li><a href="/wiki/Playpen_(website)" title="Playpen (website)">Playpen</a></li>
+<li><a href="/wiki/Childs_Play_(website)" title="Childs Play (website)">Childs Play</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><a href="/wiki/Tor_(anonymity_network)#Hidden_services" title="Tor (anonymity network)">Tor</a></li>
+<li><a href="/wiki/.onion" title=".onion">.onion domain</a></li>
+<li><a href="/wiki/Tor2web" title="Tor2web">Tor2web</a></li></ul>
+</div></td></tr></tbody></table></div>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Crystal_Clear_app_browser.png" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Crystal_Clear_app_browser.png/25px-Crystal_Clear_app_browser.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Crystal_Clear_app_browser.png/38px-Crystal_Clear_app_browser.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Crystal_Clear_app_browser.png/50px-Crystal_Clear_app_browser.png 2x" data-file-width="128" data-file-height="128" /></a></td><td><i>This Internet-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Ahmia&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Internet-stub" title="Template:Internet-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Internet-stub" title="Template talk:Internet-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Internet-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Parsed by mw2273
+Cached time: 20180929145656
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.200 seconds
+Real time usage: 0.255 seconds
+Preprocessor visited node count: 509/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 39262/2097152 bytes
+Template argument size: 147/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 15231/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.113/10.000 seconds
+Lua memory usage: 2.77 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  186.788      1 -total
+ 65.70%  122.726      1 Template:Reflist
+ 49.36%   92.190      3 Template:Cite_web
+ 13.72%   25.632      1 Template:Official_website
+ 11.90%   22.225      2 Template:Navbox
+  8.42%   15.733      3 Template:Cite_news
+  7.69%   14.355      1 Template:Tor_hidden_services
+  7.13%   13.316      1 Template:Web_search_engines_navbox
+  5.61%   10.472      1 Template:Internet-stub
+  4.83%    9.024      1 Template:Asbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:47423878-0!canonical and timestamp 20180929145656 and revision id 842235992
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ahmia&amp;oldid=842235992">https://en.wikipedia.org/w/index.php?title=Ahmia&amp;oldid=842235992</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li><li><a href="/wiki/Category:Dark_web" title="Category:Dark web">Dark web</a></li><li><a href="/wiki/Category:Tor_hidden_services" title="Category:Tor hidden services">Tor hidden services</a></li><li><a href="/wiki/Category:Internet_stubs" title="Category:Internet stubs">Internet stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ahmia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ahmia" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ahmia" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Ahmia" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Ahmia">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Ahmia&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ahmia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ahmia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ahmia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ahmia&amp;oldid=842235992" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ahmia&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18693938" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ahmia&amp;id=842235992" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ahmia">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ahmia&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ahmia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%87%D9%85%D9%8A%D8%A7" title="اهميا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Ahmia" title="Ahmia – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ahmia" title="Ahmia – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Ahmia" title="Ahmia – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18693938#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 21 May 2018, at 04:06<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ahmia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.200","walltime":"0.255","ppvisitednodes":{"value":509,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":39262,"limit":2097152},"templateargumentsize":{"value":147,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15231,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  186.788      1 -total"," 65.70%  122.726      1 Template:Reflist"," 49.36%   92.190      3 Template:Cite_web"," 13.72%   25.632      1 Template:Official_website"," 11.90%   22.225      2 Template:Navbox","  8.42%   15.733      3 Template:Cite_news","  7.69%   14.355      1 Template:Tor_hidden_services","  7.13%   13.316      1 Template:Web_search_engines_navbox","  5.61%   10.472      1 Template:Internet-stub","  4.83%    9.024      1 Template:Asbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.113","limit":"10.000"},"limitreport-memusage":{"value":2909525,"limit":52428800}},"cachereport":{"origin":"mw2273","timestamp":"20180929145656","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":358,"wgHostname":"mw2273"});});</script>
+	</body>
+</html>

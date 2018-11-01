@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Water supply and sanitation in the United Kingdom - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Water_supply_and_sanitation_in_the_United_Kingdom","wgTitle":"Water supply and sanitation in the United Kingdom","wgCurRevisionId":852249781,"wgRevisionId":852249781,"wgArticleId":8748859,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Water supply and sanitation in the United Kingdom"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Water_supply_and_sanitation_in_the_United_Kingdom","wgRelevantArticleId":8748859,"wgRequestId":"W7ADNgrAEEcAAIaREnoAAABS","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7973846","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Water_supply_and_sanitation_in_the_United_Kingdom"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Water_supply_and_sanitation_in_the_United_Kingdom&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Water_supply_and_sanitation_in_the_United_Kingdom&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Water_supply_and_sanitation_in_the_United_Kingdom"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Water_supply_and_sanitation_in_the_United_Kingdom rootpage-Water_supply_and_sanitation_in_the_United_Kingdom skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Water supply and sanitation in the United Kingdom</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="width: 25em; font-size: 90%; text-align: left;" class="infobox">
+
+<tbody><tr>
+<th align="center" bgcolor="lightblue" colspan="2"><big><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>: Water and Sanitation</big>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Flag_of_the_United_Kingdom.svg" class="image"><img alt="Flag of the United Kingdom.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/100px-Flag_of_the_United_Kingdom.svg.png" width="100" height="50" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/150px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/200px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a>
+</td></tr>
+<tr>
+<th align="center" bgcolor="lightblue" colspan="3">Data
+</th></tr>
+<tr>
+<th align="left" valign="top">Access to an <a href="/wiki/Improved_water_source" title="Improved water source">improved water source</a>
+</th>
+<td valign="top">100% (2015)<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">&#91;1&#93;</a></sup>
+</td></tr>
+<tr>
+<th align="left" valign="top">Access to <a href="/wiki/Improved_sanitation" title="Improved sanitation">improved sanitation</a>
+</th>
+<td valign="top">99% (2015)<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">&#91;1&#93;</a></sup>
+</td></tr>
+<tr>
+<th align="left" valign="top">Continuity of supply (%)
+</th>
+<td valign="top">100%
+</td></tr>
+<tr>
+<th align="left" valign="top">Average urban water use (l/c/d)
+</th>
+<td valign="top">150
+</td></tr>
+<tr>
+<th align="left" valign="top">Average urban domestic water and sewer bill for 20m3
+</th>
+<td valign="top">n/a
+</td></tr>
+<tr>
+<th align="left" valign="top">Share of household metering
+</th>
+<td valign="top">33% (2008) <sup id="cite_ref-Water_UK_2-0" class="reference"><a href="#cite_note-Water_UK-2">&#91;2&#93;</a></sup>
+</td></tr>
+<tr>
+<th align="left" valign="top"><a href="/wiki/Non-revenue_water" title="Non-revenue water">Non-revenue water</a>
+</th>
+<td valign="top">20% (2010-2011) <sup id="cite_ref-BBC_article_3-0" class="reference"><a href="#cite_note-BBC_article-3">&#91;3&#93;</a></sup>
+</td></tr>
+<tr>
+<th align="left" valign="top">Share of collected wastewater treated
+</th>
+<td valign="top">100%
+</td></tr>
+<tr>
+<th align="left" valign="top">Annual investment in WSS
+</th>
+<td valign="top">n/a
+</td></tr>
+<tr>
+<th align="left" valign="top">Share of self-financing by utilities
+</th>
+<td valign="top">n/a
+</td></tr>
+<tr>
+<th align="left" valign="top">Share of tax-financing
+</th>
+<td valign="top">n/a
+</td></tr>
+<tr>
+<th align="left" valign="top">Share of external financing
+</th>
+<td valign="top">n/a
+</td></tr>
+<tr>
+<th align="center" bgcolor="lightblue" colspan="3">Institutions
+</th></tr>
+<tr>
+<th align="left" valign="top">Decentralization to municipalities
+</th>
+<td valign="top">No
+</td></tr>
+<tr>
+<th align="left" valign="top">National water and sanitation company
+</th>
+<td valign="top">None
+</td></tr>
+<tr>
+<th align="left" valign="top">Water and sanitation regulator
+</th>
+<td valign="top">Three regulators, one each for England/Wales, Scotland and Northern Ireland
+</td></tr>
+<tr>
+<th align="left" valign="top">Responsibility for policy setting
+</th>
+<td valign="top">
+</td></tr>
+<tr>
+<th align="left" valign="top">Sector law
+</th>
+<td valign="top">None
+</td></tr>
+<tr>
+<th align="left" valign="top">Number of service providers
+</th>
+<td valign="top">28
+</td></tr>
+</tbody></table>
+<p>Public <b>water supply and sanitation in the United Kingdom</b> is characterised by universal access and generally good <a href="/wiki/Service_quality" title="Service quality">service quality</a>. A salient feature of the sector in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> compared to other developed countries is the diversity of institutional arrangements between the constituting parts of the UK (<a href="/wiki/Water_supply_and_sanitation_in_England_and_Wales" title="Water supply and sanitation in England and Wales">England and Wales</a>; <a href="/wiki/Water_supply_and_sanitation_in_Scotland" title="Water supply and sanitation in Scotland">Scotland</a>; and <a href="/wiki/Northern_Ireland_Water" title="Northern Ireland Water">Northern Ireland</a>), which are each described in separate articles, while this article is devoted to some common issues across the United Kingdom.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Access"><span class="tocnumber">1</span> <span class="toctext">Access</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Water_sources"><span class="tocnumber">2</span> <span class="toctext">Water sources</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Responsibility_for_water_supply_and_sanitation"><span class="tocnumber">3</span> <span class="toctext">Responsibility for water supply and sanitation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Policy_and_regulation"><span class="tocnumber">3.1</span> <span class="toctext">Policy and regulation</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Service_provision"><span class="tocnumber">3.2</span> <span class="toctext">Service provision</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Employment"><span class="tocnumber">4</span> <span class="toctext">Employment</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Financial_aspects"><span class="tocnumber">5</span> <span class="toctext">Financial aspects</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Tariffs"><span class="tocnumber">5.1</span> <span class="toctext">Tariffs</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Metering"><span class="tocnumber">6</span> <span class="toctext">Metering</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Access">Access</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_supply_and_sanitation_in_the_United_Kingdom&amp;action=edit&amp;section=1" title="Edit section: Access">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Access to improved <a href="/wiki/Water_supply" title="Water supply">water supply</a> and sanitation in the UK is universal. In 2015, 100% of the population had access to improved water supply and 99% of the population had access to "<a href="/wiki/Improved_sanitation" title="Improved sanitation">improved" sanitation</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-:0_1-2" class="reference"><a href="#cite_note-:0-1">&#91;1&#93;</a></sup>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>
+</th>
+<th>
+</th>
+<th>Urban (90% of the population)
+</th>
+<th>Rural (10% of the population)
+</th>
+<th>Total
+</th></tr>
+<tr>
+<td>Water
+</td>
+<td>Broad definition
+</td>
+<td>100%
+</td>
+<td>100%
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td>
+</td>
+<td>House connections
+</td>
+<td>100%
+</td>
+<td>98%
+</td>
+<td>100%
+</td></tr>
+<tr>
+<td>Sanitation
+</td>
+<td>Sewerage
+</td>
+<td>97%
+</td>
+<td>97%
+</td>
+<td>97%
+</td></tr></tbody></table>
+<p>Source: <a href="/wiki/WHO" class="mw-redirect" title="WHO">WHO</a>/<a href="/wiki/UNICEF" title="UNICEF">UNICEF</a> Joint Monitoring Program (2008) <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Water_sources">Water sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_supply_and_sanitation_in_the_United_Kingdom&amp;action=edit&amp;section=2" title="Edit section: Water sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to the Environment Agency, total water abstraction for public water supply in the UK was 16,406 <a href="/wiki/Megalitre" class="mw-redirect" title="Megalitre">megalitres</a> per day in 2007.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Groundwater contributes 30 per cent of public supply water in England. In Wales and Scotland groundwater provides about five per cent of public supply. <sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>.  The majority of the UK's abstraction of surface water is from reservoirs, where rainwater is transported via rivers and streams and contained in an artificial or natural lake until it's required.  <sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Responsibility_for_water_supply_and_sanitation">Responsibility for water supply and sanitation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_supply_and_sanitation_in_the_United_Kingdom&amp;action=edit&amp;section=3" title="Edit section: Responsibility for water supply and sanitation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Policy_and_regulation">Policy and regulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_supply_and_sanitation_in_the_United_Kingdom&amp;action=edit&amp;section=4" title="Edit section: Policy and regulation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In England and Wales the economic regulator of water companies is the <a href="/wiki/Water_Services_Regulation_Authority" class="mw-redirect" title="Water Services Regulation Authority">Water Services Regulation Authority</a> (Ofwat). The <a href="/wiki/Environment_Agency" title="Environment Agency">Environment Agency</a> is responsible for environmental regulation, and the <a href="/wiki/Drinking_Water_Inspectorate" title="Drinking Water Inspectorate">Drinking Water Inspectorate</a> for regulating drinking water quality. The economic water industry regulator in <a href="/wiki/Scotland" title="Scotland">Scotland</a> is the <a rel="nofollow" class="external text" href="http://www.watercommission.co.uk/">Water Industry Commission for Scotland</a> and the environmental regulator is the <a href="/wiki/Scottish_Environment_Protection_Agency" title="Scottish Environment Protection Agency">Scottish Environment Protection Agency</a>.  Drinking water standards and wastewater discharge standards in the UK, as in other countries of the <a href="/wiki/European_Union" title="European Union">European Union</a>, are determined by the EU (see <a href="/wiki/Water_supply_and_sanitation_in_the_European_Union" title="Water supply and sanitation in the European Union">Water supply and sanitation in the European Union</a>).
+</p>
+<h3><span class="mw-headline" id="Service_provision">Service provision</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_supply_and_sanitation_in_the_United_Kingdom&amp;action=edit&amp;section=5" title="Edit section: Service provision">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/United_Kingdom_water_companies" title="United Kingdom water companies">United Kingdom water companies</a></div>
+<p>In <b>England and Wales</b> water and sewerage services are provided by 10 private regional water and sewerage companies and 13 mostly smaller private "water only" companies. In <b>Scotland</b> water and sewerage services are provided by a single public company, <a href="/wiki/Scottish_Water" title="Scottish Water">Scottish Water</a>. In <b>Northern Ireland</b> water and sewerage services are also provided by a single public entity, <a href="/wiki/Northern_Ireland_Water" title="Northern Ireland Water">Northern Ireland Water</a>.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Uk-map.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Uk-map.svg/200px-Uk-map.svg.png" width="200" height="442" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Uk-map.svg/300px-Uk-map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Uk-map.svg/400px-Uk-map.svg.png 2x" data-file-width="1021" data-file-height="2255" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Uk-map.svg" class="internal" title="Enlarge"></a></div><i>Source</i>: <a href="/wiki/CIA_World_Factbook" class="mw-redirect" title="CIA World Factbook">CIA World Factbook</a></div></div></div>
+<h2><span class="mw-headline" id="Employment">Employment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_supply_and_sanitation_in_the_United_Kingdom&amp;action=edit&amp;section=6" title="Edit section: Employment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Total employment by UK water companies amounted to 41,000 <a href="/wiki/Full-time_equivalent" title="Full-time equivalent">full-time equivalent</a> jobs in 2012/13, according to an analysis by the consulting firm <a href="/wiki/Deloitte" title="Deloitte">Deloitte</a>. In addition, 86,000 jobs were supported indirectly.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Financial_aspects">Financial aspects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_supply_and_sanitation_in_the_United_Kingdom&amp;action=edit&amp;section=7" title="Edit section: Financial aspects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Tariffs">Tariffs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_supply_and_sanitation_in_the_United_Kingdom&amp;action=edit&amp;section=8" title="Edit section: Tariffs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>According to a 2006 survey by NUS consulting the average water tariff (price) without sewerage in the U.K. for large consumers was the equivalent of US$1.90 per cubic metre. This was the third-highest tariff among the 14 mostly OECD countries covered by the report.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Metering">Metering</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_supply_and_sanitation_in_the_United_Kingdom&amp;action=edit&amp;section=9" title="Edit section: Metering">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A particularity of water tariffs in the U.K. is the low share of metering. Most users are not billed on a volumetric basis and have no financial incentive for water conservation. Since the 1990s efforts have been made to increase the share of household metering, which reached 33% in 2008.<sup id="cite_ref-Water_UK_2-1" class="reference"><a href="#cite_note-Water_UK-2">&#91;2&#93;</a></sup> The Environment Agency would like to see 75% of households metered by 2025. The Fairness on Tap coalition (including <a href="/wiki/National_Trust" class="mw-redirect" title="National Trust">National Trust</a>, <a href="/wiki/The_Waterwise_Project" title="The Waterwise Project">Waterwise</a>, <a href="/wiki/World_Wide_Fund_for_Nature" title="World Wide Fund for Nature">WWF</a> and <a href="/wiki/RSPB" class="mw-redirect" title="RSPB">RSPB</a>) is calling for the government to set out a strategy to install water meters in at least 80% of England where there is the greatest pressure on the freshwater environment and people's pockets, by 2020. Studies show that water meters lead to a 5-15% reduction in household water use.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_supply_and_sanitation_in_the_United_Kingdom&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/EU_water_policy" class="mw-redirect" title="EU water policy">EU water policy</a></li>
+<li><a href="/wiki/Water_Framework_Directive" class="mw-redirect" title="Water Framework Directive">Water Framework Directive</a></li>
+<li><a href="/wiki/Water_supply_and_sanitation_in_England_and_Wales" title="Water supply and sanitation in England and Wales">Water supply and sanitation in England and Wales</a></li>
+<li><a href="/wiki/Water_supply_and_sanitation_in_Scotland" title="Water supply and sanitation in Scotland">Water supply and sanitation in Scotland</a></li>
+<li><a href="/wiki/Water_supply_and_sanitation_in_Northern_Ireland" class="mw-redirect" title="Water supply and sanitation in Northern Ireland">Water supply and sanitation in Northern Ireland</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_supply_and_sanitation_in_the_United_Kingdom&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">WHO/UNICEF (2015) <a rel="nofollow" class="external text" href="https://www.wssinfo.org/documents/">Progress on sanitation and drinking water - 2015 update and MDG assessment</a>, Joint Monitoring Programme for Water Supply and Sanitation</span>
+</li>
+<li id="cite_note-Water_UK-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Water_UK_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Water_UK_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.water.org.uk/home/resources-and-links/waterfacts/waterprices#cost">Water UK</a></span>
+</li>
+<li id="cite_note-BBC_article-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-BBC_article_3-0">^</a></b></span> <span class="reference-text">BBC:<a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/uk-17622837">How much does your water company leak?</a>, 5 April 2012, retrieved on July 24, 2012</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://washwatch.org/en/countries/united-kingdom/summary/statistics/">"WASHwatch.org -      United Kingdom"</a>. <i>washwatch.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=washwatch.org&amp;rft.atitle=WASHwatch.org+-++++++United+Kingdom&amp;rft_id=http%3A%2F%2Fwashwatch.org%2Fen%2Fcountries%2Funited-kingdom%2Fsummary%2Fstatistics%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+supply+and+sanitation+in+the+United+Kingdom" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.wssinfo.org/datamining/tables.html">WHO/UNICEF JMP</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.environment-agency.gov.uk/research/library/data/112185.aspx">Environment Agency</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.bgs.ac.uk/research/groundwater/waterResources/GroundwaterInUK/2015.html">https://www.bgs.ac.uk/research/groundwater/waterResources/GroundwaterInUK/2015.html</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.water.org.uk/about-water-uk/water-supply">https://www.water.org.uk/about-water-uk/water-supply</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.water.org.uk/publications/reports/tapping-growth-economic-impact-report">"Tapping into growth: economic impact report"</a>. Water UK. June 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">1 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tapping+into+growth%3A+economic+impact+report&amp;rft.pub=Water+UK&amp;rft.date=2014-06&amp;rft_id=http%3A%2F%2Fwww.water.org.uk%2Fpublications%2Freports%2Ftapping-growth-economic-impact-report&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWater+supply+and+sanitation+in+the+United+Kingdom" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nusconsulting.com/downloads/2006WaterSurvey.pdf">NUS Consulting</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.environment-agency.gov.uk/subjects/waterres/286587/1466399/?lang=_e">Environment Agency</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Water_supply_and_sanitation_in_the_United_Kingdom&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.water.org.uk/">Water UK</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.environment-agency.gov.uk/subjects/waterquality/?lang=_e">Environment Agency</a> 's water quality website</li>
+<li><a rel="nofollow" class="external text" href="http://www.wagrico.org.uk/site/WAgriCo/content-folder/home/">Water Resources Management in Cooperation with Agriculture project</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Water_supply_and_sanitation_in_Europe" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Water_supply_and_sanitation_in_Europe" title="Template:Water supply and sanitation in Europe"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Water_supply_and_sanitation_in_Europe" title="Template talk:Water supply and sanitation in Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Water_supply_and_sanitation_in_Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Water_supply_and_sanitation_in_Europe" style="font-size:114%;margin:0 4em">Water supply and sanitation in Europe</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sovereign states</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Albania&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Albania (page does not exist)">Albania</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Andorra&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Andorra (page does not exist)">Andorra</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Armenia&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Armenia (page does not exist)">Armenia</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Austria&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Austria (page does not exist)">Austria</a></li>
+<li><a href="/wiki/Water_supply_and_sanitation_in_Azerbaijan" title="Water supply and sanitation in Azerbaijan">Azerbaijan</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Belarus&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Belarus (page does not exist)">Belarus</a></li>
+<li><a href="/wiki/Water_supply_and_sanitation_in_Belgium" title="Water supply and sanitation in Belgium">Belgium</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Bosnia_and_Herzegovina&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Bosnia and Herzegovina (page does not exist)">Bosnia and Herzegovina</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Bulgaria&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Bulgaria (page does not exist)">Bulgaria</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Croatia&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Croatia (page does not exist)">Croatia</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Cyprus&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Cyprus (page does not exist)">Cyprus</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_the_Czech_Republic&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in the Czech Republic (page does not exist)">Czech Republic</a></li>
+<li><a href="/wiki/Water_supply_and_sanitation_in_Denmark" title="Water supply and sanitation in Denmark">Denmark</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Estonia&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Estonia (page does not exist)">Estonia</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Finland&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Finland (page does not exist)">Finland</a></li>
+<li><a href="/wiki/Water_supply_and_sanitation_in_France" title="Water supply and sanitation in France">France</a></li>
+<li><a href="/wiki/Water_supply_and_sanitation_in_Georgia_(country)" title="Water supply and sanitation in Georgia (country)">Georgia</a></li>
+<li><a href="/wiki/Water_supply_and_sanitation_in_Germany" title="Water supply and sanitation in Germany">Germany</a></li>
+<li><a href="/wiki/Water_supply_and_sanitation_in_Greece" title="Water supply and sanitation in Greece">Greece</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Hungary&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Hungary (page does not exist)">Hungary</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Iceland&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Iceland (page does not exist)">Iceland</a></li>
+<li><a href="/wiki/Water_supply_and_sanitation_in_the_Republic_of_Ireland" title="Water supply and sanitation in the Republic of Ireland">Ireland</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Water_supply_and_sanitation_in_Italy" title="Water supply and sanitation in Italy">Italy</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Kazakhstan&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Kazakhstan (page does not exist)">Kazakhstan</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Latvia&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Latvia (page does not exist)">Latvia</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Liechtenstein&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Liechtenstein (page does not exist)">Liechtenstein</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Lithuania&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Lithuania (page does not exist)">Lithuania</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Luxembourg&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Luxembourg (page does not exist)">Luxembourg</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_the_Republic_of_Macedonia&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in the Republic of Macedonia (page does not exist)">Macedonia</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Malta&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Malta (page does not exist)">Malta</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Moldova&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Moldova (page does not exist)">Moldova</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Monaco&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Monaco (page does not exist)">Monaco</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Montenegro&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Montenegro (page does not exist)">Montenegro</a></li>
+<li><a href="/wiki/Water_supply_and_sanitation_in_the_Netherlands" title="Water supply and sanitation in the Netherlands">Netherlands</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Norway&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Norway (page does not exist)">Norway</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Poland&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Poland (page does not exist)">Poland</a></li>
+<li><a href="/wiki/Water_supply_and_sanitation_in_Portugal" title="Water supply and sanitation in Portugal">Portugal</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Romania&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Romania (page does not exist)">Romania</a></li>
+<li><a href="/wiki/Water_supply_and_sanitation_in_Russia" title="Water supply and sanitation in Russia">Russia</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_San_Marino&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in San Marino (page does not exist)">San Marino</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Serbia&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Serbia (page does not exist)">Serbia</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Slovakia&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Slovakia (page does not exist)">Slovakia</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Slovenia&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Slovenia (page does not exist)">Slovenia</a></li>
+<li><a href="/wiki/Water_supply_and_sanitation_in_Spain" title="Water supply and sanitation in Spain">Spain</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Sweden&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Sweden (page does not exist)">Sweden</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Switzerland&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Switzerland (page does not exist)">Switzerland</a></li>
+<li><a href="/wiki/Water_supply_and_sanitation_in_Turkey" title="Water supply and sanitation in Turkey">Turkey</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Ukraine&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Ukraine (page does not exist)">Ukraine</a></li>
+<li><a class="mw-selflink selflink">United Kingdom</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">States with limited<br />recognition</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Abkhazia&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Abkhazia (page does not exist)">Abkhazia</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_the_Republic_of_Artsakh&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in the Republic of Artsakh (page does not exist)">Artsakh</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Northern_Cyprus&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Northern Cyprus (page does not exist)">Northern Cyprus</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_South_Ossetia&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in South Ossetia (page does not exist)">South Ossetia</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Transnistria&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Transnistria (page does not exist)">Transnistria</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Dependencies and<br />other entities</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Water_supply_and_sanitation_in_%C3%85land&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Åland (page does not exist)">Åland</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_the_Faroe_Islands&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in the Faroe Islands (page does not exist)">Faroe Islands</a></li>
+<li><a href="/wiki/Water_supply_and_sanitation_in_Gibraltar" title="Water supply and sanitation in Gibraltar">Gibraltar</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Guernsey&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Guernsey (page does not exist)">Guernsey</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_the_Isle_of_Man&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in the Isle of Man (page does not exist)">Isle of Man</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Jersey&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Jersey (page does not exist)">Jersey</a></li>
+<li><a href="/w/index.php?title=Water_supply_and_sanitation_in_Svalbard&amp;action=edit&amp;redlink=1" class="new" title="Water supply and sanitation in Svalbard (page does not exist)">Svalbard</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other entities</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Water_supply_and_sanitation_in_the_European_Union" title="Water supply and sanitation in the European Union">European Union</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2226
+Cached time: 20180929143330
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.308 seconds
+Real time usage: 0.413 seconds
+Preprocessor visited node count: 11211/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 47904/2097152 bytes
+Template argument size: 8510/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 9232/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.098/10.000 seconds
+Lua memory usage: 3.34 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  351.466      1 -total
+ 46.71%  164.167      1 Template:Water_supply_and_sanitation_in_Europe
+ 46.34%  162.883      1 Template:Europe_topic
+ 42.48%  149.289      1 Template:Navbox
+ 36.68%  128.926     49 Template:Iso2country
+ 28.17%   99.001      1 Template:Reflist
+ 24.13%   84.792      1 Template:Details
+ 21.98%   77.248      2 Template:Cite_web
+ 11.84%   41.620     49 Template:Iso2country/data
+  4.55%   15.975     49 Template:Iso2country/article
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:8748859-0!canonical and timestamp 20180929143329 and revision id 852249781
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Water_supply_and_sanitation_in_the_United_Kingdom&amp;oldid=852249781">https://en.wikipedia.org/w/index.php?title=Water_supply_and_sanitation_in_the_United_Kingdom&amp;oldid=852249781</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Water_supply_and_sanitation_in_the_United_Kingdom" title="Category:Water supply and sanitation in the United Kingdom">Water supply and sanitation in the United Kingdom</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Water+supply+and+sanitation+in+the+United+Kingdom" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Water+supply+and+sanitation+in+the+United+Kingdom" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Water_supply_and_sanitation_in_the_United_Kingdom" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Water_supply_and_sanitation_in_the_United_Kingdom" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Water_supply_and_sanitation_in_the_United_Kingdom">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Water_supply_and_sanitation_in_the_United_Kingdom&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Water_supply_and_sanitation_in_the_United_Kingdom&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Water_supply_and_sanitation_in_the_United_Kingdom" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Water_supply_and_sanitation_in_the_United_Kingdom" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Water_supply_and_sanitation_in_the_United_Kingdom&amp;oldid=852249781" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Water_supply_and_sanitation_in_the_United_Kingdom&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7973846" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Water_supply_and_sanitation_in_the_United_Kingdom&amp;id=852249781" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Water+supply+and+sanitation+in+the+United+Kingdom">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Water+supply+and+sanitation+in+the+United+Kingdom&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Water_supply_and_sanitation_in_the_United_Kingdom&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7973846#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 27 July 2018, at 16:21<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Water_supply_and_sanitation_in_the_United_Kingdom&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.308","walltime":"0.413","ppvisitednodes":{"value":11211,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":47904,"limit":2097152},"templateargumentsize":{"value":8510,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9232,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  351.466      1 -total"," 46.71%  164.167      1 Template:Water_supply_and_sanitation_in_Europe"," 46.34%  162.883      1 Template:Europe_topic"," 42.48%  149.289      1 Template:Navbox"," 36.68%  128.926     49 Template:Iso2country"," 28.17%   99.001      1 Template:Reflist"," 24.13%   84.792      1 Template:Details"," 21.98%   77.248      2 Template:Cite_web"," 11.84%   41.620     49 Template:Iso2country/data","  4.55%   15.975     49 Template:Iso2country/article"]},"scribunto":{"limitreport-timeusage":{"value":"0.098","limit":"10.000"},"limitreport-memusage":{"value":3502238,"limit":52428800}},"cachereport":{"origin":"mw2226","timestamp":"20180929143330","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw2270"});});</script>
+	</body>
+</html>

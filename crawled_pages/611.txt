@@ -1,0 +1,1107 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Irish Sign Language - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Irish_Sign_Language","wgTitle":"Irish Sign Language","wgCurRevisionId":859887390,"wgRevisionId":859887390,"wgArticleId":1209329,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Language articles citing Ethnologue 18","Articles containing Irish-language text","Wikipedia articles with GND identifiers","Languages of Ireland","Languages of the United Kingdom","French Sign Language family","Languages of Northern Ireland","Deaf culture in Ireland"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Irish_Sign_Language","wgRelevantArticleId":1209329,"wgRequestId":"W6@MQQrAIE8AAFJJl6kAAACH","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q14183","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/c/c2/Irish_Sign_Language_ABC%27s.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Irish_Sign_Language"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Irish_Sign_Language&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Irish_Sign_Language&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Irish_Sign_Language"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Irish_Sign_Language rootpage-Irish_Sign_Language skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Irish Sign Language</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><tbody><tr><th colspan="2" class="above" style="text-align:center;font-size:125%;font-weight:bold;font-size:130%; color: black; background-color: silver;">Irish Sign Language</th></tr><tr><td colspan="2" style="text-align:center;font-size:110%; color: black; background-color: silver;">
+Teanga Chomharthaíochta na hÉireann</td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;">Pronunciation</th><td style="line-height:1.35em;">
+ˈaɪərɪʃ saɪn ˈlæŋgwɪʤ</td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;">Native&#160;to</th><td style="line-height:1.35em;">
+<a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Republic of Ireland</a>, <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Native speakers</div></th><td style="line-height:1.35em;">
+5,000 deaf&#160;(2014)<sup id="cite_ref-e18_1-0" class="reference"><a href="#cite_note-e18-1">&#91;1&#93;</a></sup><br />45,000 hearing signers</td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><span class="wrap"><a href="/wiki/Language_family" title="Language family">Language family</a></span></div></th><td style="line-height:1.35em;">
+<div style="text-align:left;"><a href="/wiki/French_Sign_Language_family" title="French Sign Language family">French Sign</a>
+<ul style="line-height:100%; margin-left:1.35em;padding-left:0"><li>
+<b>Irish Sign Language</b></li></ul></div></td></tr><tr><th colspan="2" style="text-align:center;color: black; background-color: silver;">Official status</th></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Official language&#160;in</div></th><td style="line-height:1.35em;">
+<a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Republic of Ireland</a></td></tr><tr><th colspan="2" style="text-align:center;color: black; background-color: silver;">Language codes</th></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><span class="nowrap"><a href="/wiki/ISO_639-3" title="ISO 639-3">ISO 639-3</a></span></th><td style="line-height:1.35em;">
+<code><a href="https://iso639-3.sil.org/code/isg" class="extiw" title="iso639-3:isg">isg</a></code></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><a href="/wiki/Glottolog" title="Glottolog">Glottolog</a></th><td style="line-height:1.35em;">
+<code><a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/iris1235">iris1235</a></code><sup id="cite_ref-Glottolog_2-0" class="reference"><a href="#cite_note-Glottolog-2">&#91;2&#93;</a></sup></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Irish_Sign_Language_ABC%27s.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Irish_Sign_Language_ABC%27s.png/250px-Irish_Sign_Language_ABC%27s.png" width="250" height="459" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Irish_Sign_Language_ABC%27s.png/375px-Irish_Sign_Language_ABC%27s.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Irish_Sign_Language_ABC%27s.png/500px-Irish_Sign_Language_ABC%27s.png 2x" data-file-width="718" data-file-height="1318" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Irish_Sign_Language_ABC%27s.png" class="internal" title="Enlarge"></a></div>The ISL Manual/Fingerspelling Alphabet.</div></div></div>
+<p><b>Irish Sign Language</b> (<b>ISL</b>, <a href="/wiki/Irish_language" title="Irish language">Irish</a>: <i lang="ga">Teanga Chomharthaíochta na hÉireann</i>) is the <a href="/wiki/Sign_language" title="Sign language">sign language</a> of <a href="/wiki/Ireland" title="Ireland">Ireland</a>, used primarily in the <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Republic of Ireland</a>. It is also used in <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a>, alongside <a href="/wiki/British_Sign_Language" title="British Sign Language">British Sign Language</a> (BSL). Irish Sign Language is more closely related to <a href="/wiki/French_Sign_Language" title="French Sign Language">French Sign Language</a> (LSF) than to <a href="/wiki/British_Sign_Language" title="British Sign Language">BSL</a>, though it has influence from both languages. It has influenced sign languages in Australia and South Africa, and has little relation to either spoken <a href="/wiki/Irish_language" title="Irish language">Irish</a> or <a href="/wiki/English_language" title="English language">English</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Development"><span class="tocnumber">1</span> <span class="toctext">Development</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Oireachtas_bill"><span class="tocnumber">2</span> <span class="toctext">Oireachtas bill</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Language_code"><span class="tocnumber">3</span> <span class="toctext">Language code</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Bibliography"><span class="tocnumber">6</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Development">Development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Irish_Sign_Language&amp;action=edit&amp;section=1" title="Edit section: Development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Irish_Deaf_Society" title="Irish Deaf Society">Irish Deaf Society</a> says that ISL "arose from within deaf communities", "was developed by deaf people themselves" and "has been in existence for hundreds of years". According to <a href="/wiki/Ethnologue" title="Ethnologue">Ethnologue</a>, the language has influence from both LSF and BSL, as well as from <a href="/wiki/Signed_French" title="Signed French">signed French</a> and <a href="/wiki/Signed_English" class="mw-redirect" title="Signed English">signed English</a>, BSL having been introduced in Dublin in 1816.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> The first school for deaf children in Ireland was established in 1816 by <a href="/wiki/Charles_Orpen" title="Charles Orpen">Dr. Charles Orpen</a>. The Claremont Institute was a <a href="/wiki/Protestant" class="mw-redirect" title="Protestant">Protestant</a> institution and given that Ireland was a part of the United Kingdom, it is no surprise that BSL (or some version of <a href="/wiki/Signed_English" class="mw-redirect" title="Signed English">signed English</a> based in BSL) was used for teaching and learning (Pollard 2006). McDonnell (1979) reports that the Irish institutions - <a href="/wiki/Roman_Catholic" class="mw-redirect" title="Roman Catholic">Catholic</a> and Protestant - did not teach the children to speak and it was not until 1887 that Claremont report changing from a manual to an <a href="/wiki/Oralism" title="Oralism">oral approach</a>. For the Catholic schools, the shift to oralism came later: St. Mary's School for Deaf Girls moved to an oral approach in 1946 and St. Joseph's School for Deaf Boys shifted to oralism in 1956,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> though this did not become formal state policy until 1972. Sign language use was seriously suppressed and religion was used to further stigmatise the language (e.g. children were encouraged to give up signing for <a href="/wiki/Lent" title="Lent">Lent</a> and sent to <a href="/wiki/Sacrament_of_Reconciliation" class="mw-redirect" title="Sacrament of Reconciliation">confession</a> if caught signing).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> The fact that the Catholic schools are segregated on the basis of gender led to the development of a gendered-generational variant of Irish Sign Language that is still evident (albeit to a lesser degree) today.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>ISL was brought by Catholic missionaries to <a href="/wiki/Australia" title="Australia">Australia</a>,and to Scotland and England, with remnants of ISL still visible in some variants of BSL, especially in <a href="/wiki/Glasgow" title="Glasgow">Glasgow</a>, and with some elderly <a href="/wiki/Auslan" title="Auslan">Auslan</a> Catholics still using ISL today. In South Africa, the Dominican nuns who established Catholic Schools saw a need for a school for the deaf, but due to resource constraints were not in a position to do this immediately. Instead, they wrote back to their Mother House in Cabra requesting an experienced teacher of the deaf. A deaf teacher, Ms. Bridget Lynne, responded. Remnants of gendered generational Irish Sign Language are thought to still be visible in some dialects of South African Sign Language<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>, which can probably be traced back to Ms. Lynne. 
+</p>
+<h2><span class="mw-headline" id="Oireachtas_bill">Oireachtas bill</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Irish_Sign_Language&amp;action=edit&amp;section=2" title="Edit section: Oireachtas bill">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The "Recognition of Irish Sign Language for the Deaf Community Bill 2016" passed all stages in the <a href="/wiki/Oireachtas" title="Oireachtas">Oireachtas</a> (Irish Parliament) on 14 December 2017, and was signed into law by the <a href="/wiki/President_of_Ireland" title="President of Ireland">President of Ireland</a> <a href="/wiki/Michael_D._Higgins" title="Michael D. Higgins">Michael D Higgins</a> on 24 December 2017.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> The Bill  ensures that public services are available through ISL and also outlines the need for greater access to education through sign language. Prior to the passage, there was no automatic right for deaf people to have an ISL <a href="/wiki/Language_interpretation" title="Language interpretation">interpreter</a> (except for criminal court proceedings). For the deaf community, recognition of ISL means more legal rights and better access to <a href="/wiki/Public_service" title="Public service">public services</a> - including <a href="/wiki/Education_in_the_Republic_of_Ireland" title="Education in the Republic of Ireland">education</a>, <a href="/wiki/Healthcare_in_the_Republic_of_Ireland" title="Healthcare in the Republic of Ireland">healthcare</a>, <a href="/wiki/Media_of_the_Republic_of_Ireland" title="Media of the Republic of Ireland">media</a> and <a href="/wiki/Banking" class="mw-redirect" title="Banking">banking</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Language_code">Language code</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Irish_Sign_Language&amp;action=edit&amp;section=3" title="Edit section: Language code">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/ISO_639-3" title="ISO 639-3">ISO 639-3</a> code for Irish Sign Language is 'isg'; 'isl' is the code for <a href="/wiki/Icelandic_language" title="Icelandic language">Icelandic</a>.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Irish_Sign_Language&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Irish_manual_alphabet" title="Irish manual alphabet">Irish manual alphabet</a></li>
+<li><a href="/wiki/Auslan" title="Auslan">Australian Sign Language</a></li>
+<li><a href="/wiki/Northern_Ireland_Sign_Language" title="Northern Ireland Sign Language">Northern Ireland Sign Language</a></li>
+<li><a href="/wiki/South_African_Sign_Language" title="South African Sign Language">South African Sign Language</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Irish_Sign_Language&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-e18-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-e18_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.ethnologue.com/18/language/isg/">Irish Sign Language</a> at <i><a href="/wiki/Ethnologue" title="Ethnologue">Ethnologue</a></i> (18th ed., 2015)</span>
+</li>
+<li id="cite_note-Glottolog-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Glottolog_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Hammarström, Harald; Forkel, Robert; Haspelmath, Martin, eds. (2017). <a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/iris1235">"Irish Sign Language"</a>. <i><a href="/wiki/Glottolog" title="Glottolog">Glottolog 3.0</a></i>. Jena, Germany: Max Planck Institute for the Science of Human History.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Irish+Sign+Language&amp;rft.btitle=Glottolog+3.0&amp;rft.place=Jena%2C+Germany&amp;rft.pub=Max+Planck+Institute+for+the+Science+of+Human+History&amp;rft.date=2017&amp;rft_id=http%3A%2F%2Fglottolog.org%2Fresource%2Flanguoid%2Fid%2Firis1235&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIrish+Sign+Language" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ethnologue.com/show_language.asp?code=isg">"Irish Sign Language"</a>. <i>Ethnologue.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ethnologue.com&amp;rft.atitle=Irish+Sign+Language&amp;rft_id=http%3A%2F%2Fwww.ethnologue.com%2Fshow_language.asp%3Fcode%3Disg&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIrish+Sign+Language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Griffey 1994, Crean 1997</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">McDonnell and Saunders 1993</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">LeMaster 1990, Leeson and Grehan 2004, Leeson 2005, Leeson and Saeed 2012, Leonard 2005, Grehan 2008</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Leeson, Lorraine; Saeed, John I. (2012). <i>Irish Sign Language</i>. Edinburgh University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Irish+Sign+Language&amp;rft.pub=Edinburgh+University+Press&amp;rft.date=2012&amp;rft.aulast=Leeson&amp;rft.aufirst=Lorraine&amp;rft.au=Saeed%2C+John+I.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIrish+Sign+Language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.irishtimes.com/news/social-affairs/irish-sign-language-given-official-legal-recognition-1.3338081">"Irish Sign Language given official legal recognition"</a>. <i>The Irish Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-01-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Irish+Times&amp;rft.atitle=Irish+Sign+Language+given+official+legal+recognition&amp;rft_id=https%3A%2F%2Fwww.irishtimes.com%2Fnews%2Fsocial-affairs%2Firish-sign-language-given-official-legal-recognition-1.3338081&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIrish+Sign+Language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.rte.ie/news/ireland/2017/1224/929482-sign-language-bill/">"President signs Irish Sign Language bill into law"</a>. <i>RTE.ie</i>. 2017-12-24<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-01-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=RTE.ie&amp;rft.atitle=President+signs+Irish+Sign+Language+bill+into+law&amp;rft.date=2017-12-24&amp;rft_id=https%3A%2F%2Fwww.rte.ie%2Fnews%2Fireland%2F2017%2F1224%2F929482-sign-language-bill%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIrish+Sign+Language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.rte.ie/news/2017/1213/927259-irish-sign-language/">"Dáil passes 'historic' sign language legislation"</a>. <i>RTE.ie</i>. 2017-12-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=RTE.ie&amp;rft.atitle=D%C3%A1il+passes+%27historic%27+sign+language+legislation&amp;rft.date=2017-12-14&amp;rft_id=https%3A%2F%2Fwww.rte.ie%2Fnews%2F2017%2F1213%2F927259-irish-sign-language%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIrish+Sign+Language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.independent.ie/irish-news/irish-sign-language-set-to-be-given-official-status-36407921.html">"Irish Sign Language set to be given official status - Independent.ie"</a>. <i>Independent.ie</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Independent.ie&amp;rft.atitle=Irish+Sign+Language+set+to+be+given+official+status+-+Independent.ie&amp;rft_id=https%3A%2F%2Fwww.independent.ie%2Firish-news%2Firish-sign-language-set-to-be-given-official-status-36407921.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIrish+Sign+Language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.breakingnews.ie/ireland/irish-sign-language-set-to-receive-official-recognition-818648.html">"Irish sign language set to receive official recognition"</a>. <i>Breaking News</i>. 2017-12-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Breaking+News&amp;rft.atitle=Irish+sign+language+set+to+receive+official+recognition&amp;rft.date=2017-12-14&amp;rft_id=https%3A%2F%2Fwww.breakingnews.ie%2Fireland%2Firish-sign-language-set-to-receive-official-recognition-818648.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIrish+Sign+Language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Irish_Sign_Language&amp;action=edit&amp;section=6" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Crean, E, J. (1997):  <i>Breaking the silence: The education of the deaf in Ireland 1816-1996</i>. Dublin: Irish Deaf Society Publication.</li>
+<li>Department of Education (1972): <i>The Education of Children who are Handicapped by Impaired Hearing</i>. Dublin: Government Publications.</li>
+<li>Grehan, C. (2008): <i>Communication Islands: The Impact of Segregation on Attitudes to ISL among a Sample of Graduates of St. Mary's School for Deaf Girls</i>. Unpublished M.Phil dissertation. School of Linguistic, Speech and Communication Sciences. Dublin: Trinity College.</li>
+<li>Griffey, N. (1994): <i>From Silence to Speech: Fifty years with the Deaf</i>. Dublin: Dominican Publications.</li>
+<li>Leeson, L. (2005). Vying with Variation: Interpreting Language Contact, Gender Variation and Generational Difference. In T. Janzen (ed.) Topics in Signed Language Interpreting. Amsterdam and Philadelphia: John Benjamins. 251-292.</li>
+<li>Leeson, L. and C. Grehan (2004): "To The Lexicon and Beyond: The Effect of Gender on Variation in Irish Sign Language". In Van Herreweghe, Mieke and Myriam Vermeerbergen (eds.): <i>To the Lexicon and Beyond: Sociolinguistics in European Deaf Communities</i>. Washington DC: Gallaudet University Press. 39-73.</li>
+<li>Leeson, L. and J. I. Saeed (2012) Irish Sign Language. Edinburgh: Edinburgh University Press.</li>
+<li>LeMaster, B. (1990): <i>The Maintenance and Loss of Female and Male Signs in the Dublin Deaf Community</i>. Ann Arbor: U.M.I .: University of California, Los Angeles Dissertation.</li>
+<li>Leonard, C. (2005): "Signs of diversity: use and recognition of gendered signs among your Irish Deaf people". In: <i>Deaf Worlds</i> 21:2. 62-77.</li>
+<li>McDonnell, P. (1979): <i>The Establishment and Operation of Institutions for the Education of the Deaf in Ireland, 1816-1889</i>. Unpublished essay submitted in part-fulfillment of the requirements of the award of the degree of Master in Education. Dublin: University College Dublin.</li>
+<li>McDonnell, P. and Saunders, H. (1993): "Sit on Your Hands: Strategies to Prevent Signing". In Fischer, R. and Lane, H. (eds.) <i>Looking Back: A Reader on the History of Deaf Communities and their Sign Languages</i>. Hamburg: Signum. 255-260.</li>
+<li>Pollard, Rachel (2006): <i>The Avenue</i>. Dublin: Denzille Press.</li>
+<li>Rose, Heath and John Bosco Conama. 2018. Linguistic imperialism: still a valid construct in relation to language policy for Irish Sign Language.  <i>Language Policy</i>  Volume 17, Issue 3, pp 385–404.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Irish_Sign_Language&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.irishdeafsociety.ie">Irish Deaf Society</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.tcd.ie/slscs/cds">Centre for Deaf Studies, TCD</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_the_Republic_of_Ireland" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_Ireland" title="Template:Languages of Ireland"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_Ireland" title="Template talk:Languages of Ireland"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Languages_of_Ireland&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_the_Republic_of_Ireland" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/35px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/46px-Flag_of_Ireland.svg.png 2x" data-file-width="1200" data-file-height="600" /></span> <a href="/wiki/Languages_of_Ireland" title="Languages of Ireland">Languages</a> of the <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Republic of Ireland</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Official languages</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Irish_language" title="Irish language">Irish</a></li>
+<li><a href="/wiki/English_language" title="English language">English</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Minority languages</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Scots_language" title="Scots language">Scots</a>
+<ul><li><a href="/wiki/Ulster_Scots_dialects" title="Ulster Scots dialects">Ulster Scots</a></li></ul></li>
+<li><a href="/wiki/Shelta" title="Shelta">Shelta</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sign languages</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Irish Sign Language</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Francosign_languages" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Francosign_languages" title="Template:Francosign languages"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Francosign_languages" title="Template talk:Francosign languages"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Francosign_languages&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Francosign_languages" style="font-size:114%;margin:0 4em"><a href="/wiki/French_Sign_Language_family" title="French Sign Language family">Francosign languages</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Proto-language" title="Proto-language">Proto</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Old_French_Sign_Language" title="Old French Sign Language">Proto-LSF</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Africa</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Algerian_Sign_Language" title="Algerian Sign Language">Algerian</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Varieties_of_American_Sign_Language" title="Varieties of American Sign Language">Amslanic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Francophone African</li>
+<li>Ghanaian</li>
+<li>Moroccan</li>
+<li>Nigerian</li>
+<li>Sierra Leonean</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Danish_Sign_Language_family" title="Danish Sign Language family">Danish</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Malagasy_Sign_Language" title="Malagasy Sign Language">Malagasy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dutch_Sign_Language" title="Dutch Sign Language">Dutch</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gambian_Sign_Language" title="Gambian Sign Language">Gambian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Italian_Sign_Language" title="Italian Sign Language">Italian</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tunisian_Sign_Language" title="Tunisian Sign Language">Tunisian</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Americas</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brazilian_Sign_Language" title="Brazilian Sign Language">Libras</a></li>
+<li><a href="/wiki/Chilean_Sign_Language" title="Chilean Sign Language">Chilean</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Varieties_of_American_Sign_Language" title="Varieties of American Sign Language">Amslanic</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/American_Sign_Language" title="American Sign Language">American</a></li>
+<li><a href="/wiki/Black_American_Sign_Language" title="Black American Sign Language">Black ASL</a></li>
+<li>Bolivian</li>
+<li>Costa Rican</li>
+<li>Dominican</li>
+<li>Jamaican</li>
+<li>Panamanian</li>
+<li><a href="/w/index.php?title=Pro-Tactile_American_Sign_Language&amp;action=edit&amp;redlink=1" class="new" title="Pro-Tactile American Sign Language (page does not exist)">Pro-Tactile ASL</a></li>
+<li>Puerto Rican</li>
+<li><a href="/wiki/Quebec_Sign_Language" title="Quebec Sign Language">Quebec</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Mexican</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mexican_Sign_Language" title="Mexican Sign Language">Mexican</a></li>
+<li><a href="/wiki/Honduran_Sign_Language" title="Honduran Sign Language">Honduran</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Asia</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Varieties_of_American_Sign_Language" title="Varieties of American Sign Language">Amslanic</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Kuala Lumpur</li>
+<li><a href="/wiki/Burmese_sign_language" title="Burmese sign language">Burmese</a></li>
+<li>Cambodian</li>
+<li><a href="/wiki/Philippine_Sign_Language" title="Philippine Sign Language">Philippine</a></li>
+<li><a href="/wiki/Thai_Sign_Language" title="Thai Sign Language">Thai</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="BIM" scope="row" class="navbox-group" style="width:1%">BIM</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Malaysian_Sign_Language" title="Malaysian Sign Language">BIM</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="BISINDO" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Indonesian_sign_languages" title="Indonesian sign languages">BISINDO</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Jakarta</li>
+<li>Yogyakarta</li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Russian</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mongolian_Sign_Language" title="Mongolian Sign Language">Mongolian</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Europe</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Catalan_Sign_Language" title="Catalan Sign Language">Catalan</a>
+<ul><li><a href="/wiki/Valencian_Sign_Language" title="Valencian Sign Language">Valencian</a></li></ul></li>
+<li><a href="/wiki/Dutch_Sign_Language" title="Dutch Sign Language">Dutch</a></li>
+<li><a href="/wiki/Estonian_Sign_Language" title="Estonian Sign Language">Estonian</a></li>
+<li><a href="/wiki/French_Sign_Language" title="French Sign Language">French</a></li>
+<li><a class="mw-selflink selflink">Irish</a></li>
+<li><a href="/wiki/Italian_Sign_Language" title="Italian Sign Language">Italian</a></li>
+<li><a href="/wiki/Latvian_Sign_Language" title="Latvian Sign Language">Latvian</a></li>
+<li><a href="/wiki/Lithuanian_Sign_Language" title="Lithuanian Sign Language">Lithuanian</a></li>
+<li><a href="/wiki/Romanian_Sign_Language" title="Romanian Sign Language">Romanian</a></li>
+<li><a href="/wiki/Swiss-German_Sign_Language" title="Swiss-German Sign Language">Swiss-German</a></li></ul>
+  </div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Varieties_of_American_Sign_Language" title="Varieties of American Sign Language">Amslanic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Greek_Sign_Language" title="Greek Sign Language">Greek</a>
+<ul><li><a href="/wiki/Cypriot_Sign_Language" title="Cypriot Sign Language">Cypriot</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Austro-<br />Hungarian</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Austrian_Sign_Language" title="Austrian Sign Language">Austrian</a></li>
+<li><a href="/wiki/Czech_Sign_Language" title="Czech Sign Language">Czech</a></li>
+<li><a href="/wiki/Hungarian_Sign_Language" title="Hungarian Sign Language">Hungarian</a></li>
+<li><a href="/wiki/Slovak_Sign_Language" title="Slovak Sign Language">Slovak</a></li></ul>
+  </div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Russian</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bulgarian_Sign_Language" title="Bulgarian Sign Language">Bulgarian</a></li>
+<li><a href="/wiki/Georgian_Sign_Language" title="Georgian Sign Language">Georgian</a></li>
+<li><a href="/wiki/Moldovan_Sign_Language" class="mw-redirect" title="Moldovan Sign Language">Moldovan</a></li>
+<li><a href="/wiki/Russian_Sign_Language" title="Russian Sign Language">Russian</a></li>
+<li><a href="/wiki/Ukrainian_Sign_Language" title="Ukrainian Sign Language">Ukrainian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Yugoslav</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Croatian_Sign_Language" title="Croatian Sign Language">Croatian</a></li>
+<li>Kosovar</li>
+<li>Serbian</li>
+<li>Slovenian</li>
+<li><a href="/wiki/Yugoslav_Sign_Language" title="Yugoslav Sign Language">Yugoslav</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Old Belgian</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Flemish_Sign_Language" title="Flemish Sign Language">Flemish</a></li>
+<li><a href="/wiki/French_Belgian_Sign_Language" title="French Belgian Sign Language">French Belgian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Danish_Sign_Language_family" title="Danish Sign Language family">Danish</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Danish_Sign_Language" title="Danish Sign Language">Danish</a></li>
+<li><a href="/wiki/Icelandic_Sign_Language" title="Icelandic Sign Language">Icelandic</a></li>
+<li><a href="/wiki/Norwegian_Sign_Language" title="Norwegian Sign Language">Norwegian</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Oceania</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Australian-Irish_Sign_Language&amp;action=edit&amp;redlink=1" class="new" title="Australian-Irish Sign Language (page does not exist)">Australian-Irish</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><i>Italics</i> indicate <a href="/wiki/Language_death" title="Language death">extinct languages</a></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Sign_language" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Sign_language_navigation" title="Template:Sign language navigation"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sign_language_navigation" title="Template talk:Sign language navigation"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sign_language_navigation&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Sign_language" style="font-size:114%;margin:0 4em"><a href="/wiki/Sign_language" title="Sign language">Sign language</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_List_of_sign_languages&amp;#10;*_List_by_number_of_signers">
+<ul><li><a href="/wiki/List_of_sign_languages" title="List of sign languages">List of sign languages</a></li>
+<li><a href="/wiki/List_of_sign_languages_by_number_of_native_signers" title="List of sign languages by number of native signers">List by number of signers</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Language families<sup class="reference" id="ref_note_a"><a href="#endnote_note_a">[a]</a></sup></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Sign_languages_by_family" style="font-size:114%;margin:0 4em">Sign languages by family</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Afroasiatic_languages" title="Afroasiatic languages">Afroasiatic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mofu-Gudur_language" title="Mofu-Gudur language">Mofu-Gudur</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Arab_Sign_Language_family" class="mw-redirect" title="Arab Sign Language family">Arabic Sign</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Egyptian_Sign_Language" title="Egyptian Sign Language">Egyptian</a></li>
+<li><a href="/wiki/Kuwaiti_Sign_Language" title="Kuwaiti Sign Language">Kuwaiti</a></li>
+<li><a href="/wiki/Libyan_Sign_Language" title="Libyan Sign Language">Libyan</a></li>
+<li><a href="/wiki/Qatari_Unified_Sign_Language" title="Qatari Unified Sign Language">Qatari Unified</a></li>
+<li><a href="/wiki/Yemeni_Sign_Language" title="Yemeni Sign Language">Yemeni</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Iraqi–<br />Levantine</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Iraqi_Sign_Language" title="Iraqi Sign Language">Iraqi</a></li>
+<li><a href="/wiki/Levantine_Arabic_Sign_Language" title="Levantine Arabic Sign Language">Levantine Arabic</a></li>
+<li>Jordanian</li>
+<li>Lebanese</li>
+<li>Palestinian</li>
+<li>Syrian</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Possible</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Emirati_Sign_Language" title="Emirati Sign Language">Emirati</a></li>
+<li><a href="/wiki/Saudi_Sign_Language" title="Saudi Sign Language">Saudi</a></li>
+<li><a href="/wiki/Omani_Sign_Language" title="Omani Sign Language">Omani</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/BANZSL" title="BANZSL">Banzsl</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Auslan" title="Auslan">Auslan</a>
+<ul><li><a href="/wiki/Papua_New_Guinean_Sign_Language" title="Papua New Guinean Sign Language">Papua New Guinean</a></li></ul></li>
+<li><a href="/wiki/British_Sign_Language" title="British Sign Language">BSL</a>
+<ul><li><a href="/wiki/Northern_Ireland_Sign_Language" title="Northern Ireland Sign Language">Northern Ireland</a></li></ul></li>
+<li>Fijian</li>
+<li><a href="/wiki/Maritime_Sign_Language" title="Maritime Sign Language">Maritime</a></li>
+<li><a href="/wiki/New_Zealand_Sign_Language" title="New Zealand Sign Language">NZSL</a></li>
+<li><a href="/wiki/Samoan_Sign_Language" title="Samoan Sign Language">Sāmoan</a></li>
+<li><a href="/wiki/South_African_Sign_Language" title="South African Sign Language">South African</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Swedish" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Swedish_Sign_Language_family" title="Swedish Sign Language family">Swedish</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Finland-Swedish_Sign_Language" title="Finland-Swedish Sign Language">Finland-Swedish</a></li>
+<li><a href="/wiki/Portuguese_Sign_Language" title="Portuguese Sign Language">Portuguese</a></li>
+<li><a href="/wiki/Swedish_Sign_Language" title="Swedish Sign Language">Teckenspråk</a></li>
+<li><a href="/wiki/Finnish_Sign_Language" title="Finnish Sign Language">Viittomakieli</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Eastern_Trans-Fly_languages" title="Eastern Trans-Fly languages">E. Trans-Fly</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Eastern_Torres_Strait_Islander_Sign_Language" class="mw-redirect" title="Eastern Torres Strait Islander Sign Language">Meriam</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/French_Sign_Language_family" title="French Sign Language family">Francosign</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Old_French_Sign_Language" title="Old French Sign Language">Proto-LSF</a></i></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Algerian_Sign_Language" title="Algerian Sign Language">Algerian</a></li>
+<li><a href="/wiki/Catalan_Sign_Language" title="Catalan Sign Language">Catalan</a>
+<ul><li><a href="/wiki/Valencian_Sign_Language" title="Valencian Sign Language">Valencian</a></li></ul></li>
+<li><a href="/wiki/Chilean_Sign_Language" title="Chilean Sign Language">Chilean</a></li>
+<li><a href="/wiki/Estonian_Sign_Language" title="Estonian Sign Language">Estonian</a></li>
+<li><a href="/wiki/French_Sign_Language" title="French Sign Language">French</a></li>
+<li><a class="mw-selflink selflink">Irish</a>
+<ul><li><a href="/w/index.php?title=Austrlian-Irish_Sign_Language&amp;action=edit&amp;redlink=1" class="new" title="Austrlian-Irish Sign Language (page does not exist)">Australian-Irish</a></li></ul></li>
+<li><a href="/wiki/Brazilian_Sign_Language" title="Brazilian Sign Language">Libras</a></li>
+<li><a href="/wiki/Lithuanian_Sign_Language" title="Lithuanian Sign Language">Lithuanian</a></li>
+<li><a href="/wiki/Romanian_Sign_Language" title="Romanian Sign Language">Romanian</a></li>
+<li><a href="/wiki/Swiss-German_Sign_Language" title="Swiss-German Sign Language">Swiss-German</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Varieties_of_American_Sign_Language" title="Varieties of American Sign Language">Amslanic</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/American_Sign_Language" title="American Sign Language">American</a>
+<ul><li><a href="/wiki/Black_American_Sign_Language" title="Black American Sign Language">Black ASL</a></li>
+<li><a href="/w/index.php?title=Protactile&amp;action=edit&amp;redlink=1" class="new" title="Protactile (page does not exist)">Protactile</a></li></ul></li>
+<li><a href="/wiki/Malaysian_Sign_Language" title="Malaysian Sign Language">BIM</a></li>
+<li>Bolivian</li>
+<li><a href="/wiki/Burmese_sign_language" title="Burmese sign language">Burmese</a></li>
+<li>Cambodian</li>
+<li>Costa Rican</li>
+<li>Dominican</li>
+<li><a href="/wiki/Greek_Sign_Language" title="Greek Sign Language">Greek</a>
+<ul><li><a href="/wiki/Cypriot_Sign_Language" title="Cypriot Sign Language">Cypriot</a></li></ul></li>
+<li>Jamaican</li>
+<li>Kuala Lumpur</li>
+<li>Panamanian</li>
+<li><a href="/wiki/Philippine_Sign_Language" title="Philippine Sign Language">Philippine</a></li>
+<li>Puerto Rican</li>
+<li><a href="/wiki/Quebec_Sign_Language" title="Quebec Sign Language">Quebec</a></li>
+<li><a href="/wiki/Sign_language_in_Singapore" title="Sign language in Singapore">Singapore</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Indonesian_sign_languages" title="Indonesian sign languages">BISINDO</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Jakarta</li>
+<li>Yogyakarta</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Francophone African</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Ethiopian</li>
+<li>Chadian</li>
+<li>Ghanaian</li>
+<li>Guinean</li>
+<li><a href="/wiki/Bamako_Sign_Language" title="Bamako Sign Language">LaSiMa</a></li>
+<li>Moroccan</li>
+<li>Nigerian</li>
+<li>Sierra Leonean</li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Austro-<br />Hungarian</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Austrian_Sign_Language" title="Austrian Sign Language">Austrian</a></li>
+<li><a href="/wiki/Czech_Sign_Language" title="Czech Sign Language">Czech</a></li>
+<li><a href="/wiki/Hungarian_Sign_Language" title="Hungarian Sign Language">Hungarian</a></li>
+<li><a href="/wiki/Slovak_Sign_Language" title="Slovak Sign Language">Slovak</a></li>
+<li><a href="/wiki/Ukrainian_Sign_Language" title="Ukrainian Sign Language">Ukrainian</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Russian</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bulgarian_Sign_Language" title="Bulgarian Sign Language">Bulgarian</a></li>
+<li><a href="/wiki/Georgian_Sign_Language" title="Georgian Sign Language">Georgian</a></li>
+<li><a href="/wiki/Latvian_Sign_Language" title="Latvian Sign Language">Latvian</a></li>
+<li><a href="/wiki/Moldovan_Sign_Language" class="mw-redirect" title="Moldovan Sign Language">Moldovan</a></li>
+<li><a href="/wiki/Mongolian_Sign_Language" title="Mongolian Sign Language">Mongolian</a></li>
+<li><a href="/wiki/Russian_Sign_Language" title="Russian Sign Language">Russian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Yugoslav</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Croatian_Sign_Language" title="Croatian Sign Language">Croatian</a></li>
+<li>Kosovar</li>
+<li>Serbian</li>
+<li>Slovenian</li>
+<li><a href="/wiki/Yugoslav_Sign_Language" title="Yugoslav Sign Language">Yugoslav</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Old Belgian</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Flemish_Sign_Language" title="Flemish Sign Language">VGT</a></li>
+<li><a href="/wiki/French_Belgian_Sign_Language" title="French Belgian Sign Language">LSFB</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Danish_Sign_Language_family" title="Danish Sign Language family">Danish</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Danish_Sign_Language" title="Danish Sign Language">Danish</a></li>
+<li><a href="/wiki/Icelandic_Sign_Language" title="Icelandic Sign Language">Icelandic</a></li>
+<li><a href="/wiki/Malagasy_Sign_Language" title="Malagasy Sign Language">Malagasy</a></li>
+<li><a href="/wiki/Norwegian_Sign_Language" title="Norwegian Sign Language">Norwegian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Dutch</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dutch_Sign_Language" title="Dutch Sign Language">Dutch</a></li>
+<li><a href="/wiki/Gambian_Sign_Language" title="Gambian Sign Language">Gambian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Italian</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Italian_Sign_Language" title="Italian Sign Language">LIS</a></li>
+<li><a href="/wiki/Tunisian_Sign_Language" title="Tunisian Sign Language">Tunisian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Mexican</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mexican_Sign_Language" title="Mexican Sign Language">LSM</a></li>
+<li><a href="/wiki/Honduran_Sign_Language" title="Honduran Sign Language">Honduran</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Vietnamese_sign_languages" title="Vietnamese sign languages">Viet-Thai</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Haiphong_Sign_Language" title="Haiphong Sign Language">Hai Phong</a></li>
+<li><a href="/wiki/Hanoi_Sign_Language" title="Hanoi Sign Language">Hanoi</a></li>
+<li><a href="/wiki/Saigon_Sign_Language" title="Saigon Sign Language">Ho Chi Minh</a></li>
+<li><a href="/wiki/Thai_Sign_Language" title="Thai Sign Language">Thai</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/German_Sign_Language_family" title="German Sign Language family">Germanosign</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/German_Sign_Language" title="German Sign Language">German</a></li>
+<li><a href="/w/index.php?title=Luxembourgish_Sign_Language&amp;action=edit&amp;redlink=1" class="new" title="Luxembourgish Sign Language (page does not exist)">Luxembourgish</a></li>
+<li><a href="/wiki/Polish_Sign_Language" title="Polish Sign Language">Polish</a></li>
+<li><a href="/wiki/Israeli_Sign_Language" title="Israeli Sign Language">Shassi</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Indo-European_languages" title="Indo-European languages">Indo-European</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Caucasian_Sign_Language" title="Caucasian Sign Language">Armenian Women's</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Indo-Pakistani_Sign_Language" title="Indo-Pakistani Sign Language">Indo-Pakistani<br />Sign</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Bangalore-Madras</li>
+<li>Beluchistan</li>
+<li><a href="/wiki/Bengali_Sign_Language" class="mw-redirect" title="Bengali Sign Language">Bengali</a></li>
+<li>Bombay</li>
+<li>Calcutta</li>
+<li>Delhi</li>
+<li><a href="/wiki/Nepali_Sign_Language" title="Nepali Sign Language">Nepali</a></li>
+<li>North West Frontier Province</li>
+<li>Punjab-Sindh</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Jarrakan_languages" title="Jarrakan languages">Jarrakan</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Miriwoong_Sign_Language" title="Miriwoong Sign Language">Miriwoong</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><i>Kentish</i></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Old_Kentish_Sign_Language" title="Old Kentish Sign Language">Old Kentish</a></i></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Chilmark" scope="row" class="navbox-group" style="width:1%"><i>Chilmark</i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>Chilmark</i></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Martha%27s_Vineyard_Sign_Language" title="Martha&#39;s Vineyard Sign Language">MVSL</a></i></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Mayan_Sign_Language" title="Mayan Sign Language">Meemul Tziij</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Highland Maya</li>
+<li>Nohya</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Mirndi_languages" title="Mirndi languages">Mirndi</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Djingili_Sign_Language" class="mw-redirect" title="Djingili Sign Language">Djingili</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Old_Chiangmai%E2%80%93Bangkok_Sign_Language_family" title="Old Chiangmai–Bangkok Sign Language family">Original Thai Sign</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chiangmai_Sign_Language" title="Chiangmai Sign Language">Chiangmai</a></li>
+<li><a href="/wiki/Haiphong_Sign_Language" title="Haiphong Sign Language">Hai Phong</a></li>
+<li><a href="/wiki/Old_Bangkok_Sign_Language" title="Old Bangkok Sign Language">Old Bangkok</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Paget_Gorman_Sign_System" title="Paget Gorman Sign System">Paget Gorman</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Namibian_Sign_Language" title="Namibian Sign Language">Namibian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pama%E2%80%93Nyungan_languages" title="Pama–Nyungan languages">Pama–<br />Nyungan</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akitiri_Sign_Language" title="Akitiri Sign Language">Eltye eltyarrenke</a></li>
+<li><a href="/wiki/Arrernte_Sign_Language" class="mw-redirect" title="Arrernte Sign Language">Iltyeme iltyeme</a></li>
+<li><a href="/wiki/Warlpiri_Sign_Language" title="Warlpiri Sign Language">Rdaka rdaka</a></li>
+<li><a href="/wiki/Manjiljarra_Sign_Language" class="mw-redirect" title="Manjiljarra Sign Language">Manjiljarra</a></li>
+<li><a href="/wiki/Warlmanpa_Sign_Language" title="Warlmanpa Sign Language">Warlmanpa</a></li>
+<li><a href="/wiki/Warumungu_Sign_Language" title="Warumungu Sign Language">Warramunga</a></li>
+<li><a href="/wiki/Mudbura_Sign_Language" class="mw-redirect" title="Mudbura Sign Language">Mudburra</a></li>
+<li><a href="/wiki/Ngada_Sign_Language" class="mw-redirect" title="Ngada Sign Language">Ngada</a></li>
+<li><a href="/wiki/Umpila_Sign_Language" class="mw-redirect" title="Umpila Sign Language">Umpila</a></li>
+<li><a href="/wiki/Western_Desert_Sign_Language" class="mw-redirect" title="Western Desert Sign Language">Western Desert</a></li>
+<li><a href="/wiki/Western_Torres_Strait_Islander_Sign_Language" class="mw-redirect" title="Western Torres Strait Islander Sign Language">Western Torres Strait Islander</a></li>
+<li>Yan-nhaŋu</li>
+<li><a href="/wiki/Yir_Yoront_Sign_Language" class="mw-redirect" title="Yir Yoront Sign Language">Yir Yoront</a></li>
+<li><a href="/wiki/Yol%C5%8Bu_Sign_Language" title="Yolŋu Sign Language">Yolŋu</a></li></ul>
+<ul><li><i><a href="/wiki/Dieri_Sign_Language" class="mw-redirect" title="Dieri Sign Language">Diyari</a></i></li>
+<li><i><a href="/wiki/Jaralde_Sign_Language" class="mw-redirect" title="Jaralde Sign Language">Jaralde</a></i></li>
+<li><i><a href="/wiki/Kalkutungu_Sign_Language" class="mw-redirect" title="Kalkutungu Sign Language">Kalkutungu</a></i></li>
+<li><i><a href="/wiki/Pitha_Pitha_Sign_Language" class="mw-redirect" title="Pitha Pitha Sign Language">Pitha Pitha</a></i></li>
+<li><i><a href="/wiki/Warluwara_Sign_Language" class="mw-redirect" title="Warluwara Sign Language">Warluwara</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Paraguay%E2%80%93Uruguay_Sign_Language_family" title="Paraguay–Uruguay Sign Language family">Paraguayan-<br />Uruguayan Sign</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Paraguay_Sign_Language" class="mw-redirect" title="Paraguay Sign Language">Paraguay</a></li>
+<li><a href="/wiki/Uruguay_Sign_Language" class="mw-redirect" title="Uruguay Sign Language">Uruguay</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Plains_Indian_Sign_Language" title="Plains Indian Sign Language">Plains Sign Talk</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Plains_Indian_Sign_Language" title="Plains Indian Sign Language">Hand Talk</a></li>
+<li>Anishinaabe</li>
+<li>Apsáalooke</li>
+<li>Arikara</li>
+<li>Chaticks si Chaticks</li>
+<li>Cheyenne</li>
+<li>Coahuilteco</li>
+<li>Dane-zaa</li>
+<li>Diné</li>
+<li>Hinono'eino</li>
+<li>Hiraacá</li>
+<li>Icāk</li>
+<li>Karankawa</li>
+<li>Liksiyu</li>
+<li>Maagiadawa</li>
+<li>Meciciya ka pekiskwakehk</li>
+<li>Nakota</li>
+<li>Ni Mii Puu</li>
+<li>Niimíipuu</li>
+<li>Niitsítapi</li>
+<li>Nųmą́khų́·ki</li>
+<li>Nʉmʉnʉʉ</li>
+<li>Omaha</li>
+<li>Palus</li>
+<li>Piipaash</li>
+<li>Ppáⁿkka</li>
+<li>Schitsu'umsh</li>
+<li>Shiwinna</li>
+<li>Sioux</li>
+<li>Taos</li>
+<li>Tickanwa•tic</li>
+<li>Tháumgá</li>
+<li>Tsuu T'ina</li>
+<li>Umatilla</li>
+<li>Wazhazhe</li>
+<li>Wichita</li>
+<li>Wíyut'a / Wíblut'e</li>
+<li>Wyandot</li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Plateau" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Plateau_Sign_Language" title="Plateau Sign Language">Plateau</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>A'aninin</li>
+<li>Kalispel</li>
+<li>ʾa·qanⱡiⱡⱡitnam</li>
+<li>Nesilextcl'n</li>
+<li>Secwepemcékst</li>
+<li>Sqeliz</li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Providencia%E2%80%93Cayman_Sign_Language_family" title="Providencia–Cayman Sign Language family">Providencia–<br />Cayman Sign</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Providence_Island_Sign_Language" title="Providence Island Sign Language">Provisle</a></li>
+<li><a href="/wiki/Old_Cayman_Sign_Language" title="Old Cayman Sign Language">Old Cayman (Guyanese)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Japanese_Sign_Language_family" title="Japanese Sign Language family">Shuwa gozoku</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Japanese_Sign_Language" title="Japanese Sign Language">Nihon Shuwa</a></li>
+<li><a href="/wiki/Korean_Sign_Language" title="Korean Sign Language">Suhwa</a></li>
+<li><a href="/wiki/Taiwanese_Sign_Language" title="Taiwanese Sign Language">Táiwān Shǒuyǔ</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Worrorran_languages" title="Worrorran languages">Worrorran</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Worora_Kinship_Sign_Language" class="mw-redirect" title="Worora Kinship Sign Language">Worora Kinship</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Zhōngguó<br />Shǒuyǔ</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chinese_Sign_Language" title="Chinese Sign Language">Chinese</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Shanghai" scope="row" class="navbox-group" style="width:1%">Shanghai</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Shanghai</li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hong_Kong_Sign_Language" title="Hong Kong Sign Language">Hong Kong</a></li>
+<li>Macau</li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Isolates</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Afghan_Sign_Language" title="Afghan Sign Language">Afghan</a></li>
+<li><a href="/wiki/Al-Sayyid_Bedouin_Sign_Language" title="Al-Sayyid Bedouin Sign Language">Al-Sayyid Bedouin</a></li>
+<li><a href="/wiki/Albanian_Sign_Language" title="Albanian Sign Language">Albanian</a></li>
+<li><a href="/wiki/Amami_Oshima_Sign_Language" title="Amami Oshima Sign Language">Amami Oshima</a></li>
+<li><a href="/wiki/Armenian_Sign_Language" title="Armenian Sign Language">Armenian</a>
+<ul><li>Plaa Pag</li>
+<li>Huay Hai</li>
+<li>Na Sai</li></ul></li>
+<li><a href="/wiki/Inuit_Sign_Language" title="Inuit Sign Language">Atgangmuurniq</a></li>
+<li><a href="/w/index.php?title=Belizean_Sign_Language&amp;action=edit&amp;redlink=1" class="new" title="Belizean Sign Language (page does not exist)">Belizean</a></li>
+<li><a href="/wiki/Bhutanese_Sign_Language" title="Bhutanese Sign Language">Bhutanese</a></li>
+<li><a href="/wiki/Tibetan_Sign_Language" title="Tibetan Sign Language">Bökyi lagda</a></li>
+<li><a href="/wiki/Bribri_Sign_Language" title="Bribri Sign Language">Bribri</a></li>
+<li><a href="/wiki/Brunca_Sign_Language" title="Brunca Sign Language">Brunca</a></li>
+<li><a href="/wiki/Bura_Sign_Language" title="Bura Sign Language">Bura</a></li>
+<li><a href="/wiki/Chatino_Sign_Language" title="Chatino Sign Language">Chatino</a></li>
+<li><a href="/wiki/Cuban_Sign_Language" title="Cuban Sign Language">Cuban</a></li>
+<li><a href="/w/index.php?title=Navajo_Family_Sign_Language&amp;action=edit&amp;redlink=1" class="new" title="Navajo Family Sign Language (page does not exist)">Diné Family</a></li>
+<li><a href="/wiki/Dogon_Sign_Language" title="Dogon Sign Language">Dogon</a></li>
+<li><a href="/wiki/Ecuadorian_Sign_Language" title="Ecuadorian Sign Language">Ecuadorian</a></li>
+<li><a href="/wiki/Eritrean_Sign_Language" title="Eritrean Sign Language">Eritrean</a></li>
+<li><a href="/wiki/Enga_Sign_Language" title="Enga Sign Language">Enga</a></li>
+<li><a href="/wiki/Ghandruk_Sign_Language" title="Ghandruk Sign Language">Ghandruk</a></li>
+<li><a href="/wiki/Ghardaia_Sign_Language" class="mw-redirect" title="Ghardaia Sign Language">Ghardaia</a></li>
+<li><a href="/wiki/Guatemalan_Sign_Language" title="Guatemalan Sign Language">Guatemalan</a></li>
+<li><a href="/wiki/Guinea-Bissau_Sign_Language" title="Guinea-Bissau Sign Language">Guinea-Bissau</a></li>
+<li><i><a href="/wiki/Henniker_Sign_Language" title="Henniker Sign Language">Henniker</a></i></li>
+<li><a href="/wiki/Hawai%27i_Sign_Language" title="Hawai&#39;i Sign Language">Hoailona ʻŌlelo</a></li>
+<li><a href="/wiki/Jhankot_Sign_Language" title="Jhankot Sign Language">Jhankot</a></li>
+<li><a href="/wiki/Jumla_Sign_Language" title="Jumla Sign Language">Jumla</a></li>
+<li><a href="/wiki/Ka%27apor_Sign_Language" title="Ka&#39;apor Sign Language">Ka'apor</a></li>
+<li><a href="/wiki/Kajana_Sign_Language" title="Kajana Sign Language">Kajana</a></li>
+<li><a href="/wiki/Kafr_Qasem_Sign_Language" title="Kafr Qasem Sign Language">Kafr Qasim</a></li>
+<li><a href="/wiki/Kata_Kolok" title="Kata Kolok">Kata Kolok</a></li>
+<li><a href="/wiki/Kenyan_Sign_Language" title="Kenyan Sign Language">Kenyan</a>
+<ul><li><a href="/wiki/Somali_Sign_Language" title="Somali Sign Language">Somali</a></li></ul></li>
+<li><a href="/wiki/Keresan_Sign_Language" title="Keresan Sign Language">Keresign</a></li>
+<li>Kisindo</li>
+<li><a href="/wiki/Jamaican_Country_Sign_Language" title="Jamaican Country Sign Language">Konchri Sain</a></li>
+<li><a href="/wiki/Lyons_Sign_Language" class="mw-redirect" title="Lyons Sign Language">Lyons</a></li>
+<li><a href="/wiki/Macedonian_Sign_Language" title="Macedonian Sign Language">Macedonian</a></li>
+<li><a href="/wiki/Maltese_Sign_Language" title="Maltese Sign Language">Maltese</a></li>
+<li><a href="/wiki/Hausa_Sign_Language" title="Hausa Sign Language">Magannar Hannu</a></li>
+<li><a href="/wiki/Mardin_Sign_Language" title="Mardin Sign Language">Mardin</a></li>
+<li><a href="/wiki/Mauritian_Sign_Language" title="Mauritian Sign Language">Mauritian</a></li>
+<li><a href="/wiki/Mbour_Sign_Language" title="Mbour Sign Language">M'bour</a></li>
+<li><a href="/wiki/Burkina_Sign_Language" title="Burkina Sign Language">Mossi</a></li>
+<li><a href="/wiki/Mozambican_Sign_Language" title="Mozambican Sign Language">Mozambican</a></li>
+<li><a href="/wiki/Adasl" class="mw-redirect" title="Adasl">Mumu kasa</a></li>
+<li><a href="/wiki/Nicaraguan_Sign_Language" title="Nicaraguan Sign Language">Nicaraguan</a></li>
+<li><a href="/wiki/Old_Costa_Rican_Sign_Language" title="Old Costa Rican Sign Language">Old Costa Rican</a></li>
+<li><a href="/wiki/Ottoman_Sign_Language" title="Ottoman Sign Language">Ottoman</a></li>
+<li><a href="/wiki/Ban_Khor_Sign_Language" title="Ban Khor Sign Language">Pasa kidd</a></li>
+<li><a href="/wiki/Penang_Sign_Language" title="Penang Sign Language">Penang</a></li>
+<li><a href="/wiki/Persian_Sign_Language" title="Persian Sign Language">Persian</a></li>
+<li><a href="/wiki/Peruvian_Sign_Language" title="Peruvian Sign Language">Peruvian</a></li>
+<li><i><a href="/wiki/Rennellese_Sign_Language" title="Rennellese Sign Language">Rennellese</a></i></li>
+<li><a href="/wiki/Rwandan_Sign_Language" title="Rwandan Sign Language">Rwandan</a></li>
+<li><i><a href="/wiki/Sandy_River_Valley_Sign_Language" title="Sandy River Valley Sign Language">Sandy River</a></i></li>
+<li><a href="/wiki/Salvadoran_Sign_Language" title="Salvadoran Sign Language">Salvadoran</a></li>
+<li><a href="/wiki/Spanish_Sign_Language" title="Spanish Sign Language">Spanish</a></li>
+<li><a href="/wiki/Tebul_Sign_Language" title="Tebul Sign Language">Tebul</a></li>
+<li><a href="/wiki/Trinidad_and_Tobago_Sign_Language" title="Trinidad and Tobago Sign Language">Trinidad and Tobago</a></li>
+<li><a href="/wiki/Turkish_Sign_Language" title="Turkish Sign Language">Turkish</a></li>
+<li><a href="/wiki/Ugandan_Sign_Language" title="Ugandan Sign Language">Ugandan</a></li>
+<li><a href="/wiki/Venezuelan_Sign_Language" title="Venezuelan Sign Language">Venezuelan</a></li>
+<li>West African
+<ul><li><a href="/wiki/Adamorobe_Sign_Language" title="Adamorobe Sign Language">Adasl</a></li>
+<li><a href="/wiki/Bura_Sign_Language" title="Bura Sign Language">Burasl</a></li>
+<li>Mofu-Gudur</li>
+<li><a href="/wiki/Nanabin_Sign_Language" title="Nanabin Sign Language">Nanabinsl</a></li></ul></li>
+<li><a href="/wiki/Yiddish_Sign_Language" class="mw-redirect" title="Yiddish Sign Language">Yiddish</a></li>
+<li><a href="/wiki/Yoruba_Sign_Language" title="Yoruba Sign Language">Yoruban</a></li>
+<li><a href="/wiki/Zambian_Sign_Language" title="Zambian Sign Language">Zambian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ethiopian_sign_languages" title="Ethiopian sign languages">Ethiopian languages</a></li>
+<li><a href="/wiki/Laotian_sign_languages" title="Laotian sign languages">Laotian languages</a></li>
+<li><a href="/wiki/Sri_Lankan_sign_languages" title="Sri Lankan sign languages">Sri Lankan languages</a></li>
+<li><a href="/wiki/Sudanese_sign_languages" title="Sudanese sign languages">Sudanese languages</a></li>
+<li><a href="/wiki/Tanzanian_sign_languages" title="Tanzanian sign languages">Tanzanian languages</a> (7+)<sup class="reference" id="ref_note_b"><a href="#endnote_note_b">[b]</a></sup></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/International_Sign" title="International Sign">International Sign</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By region<sup class="reference" id="ref_note_a"><a href="#endnote_note_a">[a]</a></sup></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Sign_languages_by_region" style="font-size:114%;margin:0 4em">Sign languages by region</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Oceania</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<dl><dt>Australia</dt>
+<dd><a href="/wiki/Auslan" title="Auslan">Auslan</a></dd>
+<dd><a href="/w/index.php?title=Australian-Irish_Sign_Language&amp;action=edit&amp;redlink=1" class="new" title="Australian-Irish Sign Language (page does not exist)">Australian-Irish</a></dd>
+<dd><a href="/wiki/Akitiri_Sign_Language" title="Akitiri Sign Language">Eltye eltyarrenke</a></dd>
+<dd><a href="/wiki/Arrernte_Sign_Language" class="mw-redirect" title="Arrernte Sign Language">Iltyeme iltyeme</a></dd>
+<dd><a href="/wiki/Warlpiri_Sign_Language" title="Warlpiri Sign Language">Rdaka rdaka</a></dd>
+<dd><a href="/wiki/Manjiljarra_Sign_Language" class="mw-redirect" title="Manjiljarra Sign Language">Manjiljarra</a></dd>
+<dd><a href="/wiki/Warlmanpa_Sign_Language" title="Warlmanpa Sign Language">Warlmanpa</a></dd>
+<dd><a href="/wiki/Warumungu_Sign_Language" title="Warumungu Sign Language">Warramunga</a></dd>
+<dd><a href="/wiki/Mudbura_Sign_Language" class="mw-redirect" title="Mudbura Sign Language">Mudburra</a></dd>
+<dd><a href="/wiki/Ngada_Sign_Language" class="mw-redirect" title="Ngada Sign Language">Ngada</a></dd>
+<dd><a href="/wiki/Umpila_Sign_Language" class="mw-redirect" title="Umpila Sign Language">Umpila</a></dd>
+<dd><a href="/wiki/Western_Desert_Sign_Language" class="mw-redirect" title="Western Desert Sign Language">Western Desert</a></dd>
+<dd><a href="/wiki/Western_Torres_Strait_Islander_Sign_Language" class="mw-redirect" title="Western Torres Strait Islander Sign Language">Western Torres Strait Islander</a></dd>
+<dd><a href="/wiki/Yir_Yoront_Sign_Language" class="mw-redirect" title="Yir Yoront Sign Language">Yir Yoront</a></dd>
+<dd><a href="/wiki/Yol%C5%8Bu_Sign_Language" title="Yolŋu Sign Language">Yolŋu</a></dd></dl>
+<dl><dt>Hawai‘i</dt>
+<dd><a href="/wiki/Hawaiian_Sign_Language" class="mw-redirect" title="Hawaiian Sign Language">Haoilona ʻŌlelo</a></dd>
+<dt>Sāmoa &amp; America Sāmoa</dt>
+<dd><a href="/wiki/Samoan_Sign_Language" title="Samoan Sign Language">Sāmoan</a></dd>
+<dt>Aotearoa New Zealand</dt>
+<dd><a href="/wiki/New_Zealand_Sign_Language" title="New Zealand Sign Language">NZSL</a></dd>
+<dt>Solomon Islands</dt>
+<dd><a href="/wiki/Rennellese_Sign_Language" title="Rennellese Sign Language">Rennellese</a></dd></dl>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Asia</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<dl><dt>Bengal</dt>
+<dd><a href="/wiki/Bengali_Sign_Language" class="mw-redirect" title="Bengali Sign Language">Bengali</a></dd>
+<dt>Cambodia</dt>
+<dd><a href="/wiki/Cambodian_Sign_Language" class="mw-redirect" title="Cambodian Sign Language">Cambodian</a></dd>
+<dt>China</dt>
+<dd><a href="/wiki/Chinese_Sign_Language" title="Chinese Sign Language">Chinese</a></dd>
+<dt>Indonesia</dt>
+<dd><a href="/wiki/Indonesian_Sign_Language" class="mw-redirect" title="Indonesian Sign Language">Indonesian</a></dd>
+<dd><a href="/wiki/Kata_Kolok" title="Kata Kolok">Kata Kolok (Benkala, Balinese)</a></dd>
+<dt>India</dt>
+<dd><a href="/wiki/Alipur_Sign_Language" title="Alipur Sign Language">Alipur</a></dd>
+<dd><a href="/wiki/Bengali_Sign_Language" class="mw-redirect" title="Bengali Sign Language">Bengali</a></dd>
+<dd><a href="/wiki/Indo-Pakistani_Sign_Language" title="Indo-Pakistani Sign Language">Indo-Pakistani</a></dd>
+<dd><a href="/wiki/Naga_Sign_Language" class="mw-redirect" title="Naga Sign Language">Naga</a></dd>
+<dt>Iran</dt>
+<dd><a href="/wiki/Persian_Sign_Language" title="Persian Sign Language">Persian</a></dd>
+<dt>Israel</dt>
+<dd><a href="/wiki/Al-Sayyid_Bedouin_Sign_Language" title="Al-Sayyid Bedouin Sign Language">Al-Sayyid Bedouin</a></dd>
+<dd><a href="/wiki/Ghardaia_Sign_Language" class="mw-redirect" title="Ghardaia Sign Language">Ghardaia</a></dd>
+<dd><a href="/wiki/Israeli_Sign_Language" title="Israeli Sign Language">Israeli</a></dd>
+<dd><a href="/wiki/Kafr_Qasem_Sign_Language" title="Kafr Qasem Sign Language">Kafr Qasem</a></dd>
+<dd><a href="/wiki/Yiddish_Sign_Language" class="mw-redirect" title="Yiddish Sign Language">Yiddish</a></dd>
+<dt>Japan</dt>
+<dd><a href="/wiki/Amami_Oshima_Sign_Language" title="Amami Oshima Sign Language">Amami Oshima</a></dd>
+<dd><a href="/wiki/Japanese_Sign_Language" title="Japanese Sign Language">Nihon Shuwa</a></dd>
+<dt>Korea</dt>
+<dd><a href="/wiki/Korean_Sign_Language" title="Korean Sign Language">Korean</a></dd>
+<dt>Laos</dt>
+<dd><a href="/wiki/Laotian_sign_languages" title="Laotian sign languages">Laotian</a></dd>
+<dt>Malaysia</dt>
+<dd><a href="/wiki/Malaysian_Sign_Language" title="Malaysian Sign Language">Malaysian</a></dd>
+<dd><a href="/wiki/Penang_Sign_Language" title="Penang Sign Language">Penang</a></dd>
+<dd><a href="/wiki/Selangor_Sign_Language" class="mw-redirect" title="Selangor Sign Language">Selangor</a></dd>
+<dt>Mongolia</dt>
+<dd><a href="/wiki/Mongolian_Sign_Language" title="Mongolian Sign Language">Mongolian</a></dd>
+<dt>Nepal</dt>
+<dd><a href="/wiki/Ghandruk_Sign_Language" title="Ghandruk Sign Language">Ghandruk</a></dd>
+<dd><a href="/wiki/Jhankot_Sign_Language" title="Jhankot Sign Language">Jhankot</a></dd>
+<dd><a href="/wiki/Jumla_Sign_Language" title="Jumla Sign Language">Jumla</a></dd>
+<dd><a href="/wiki/Nepalese_Sign_Language" class="mw-redirect" title="Nepalese Sign Language">Nepalese</a></dd>
+<dt>Philippines</dt>
+<dd><a href="/wiki/Philippine_Sign_Language" title="Philippine Sign Language">Philippine</a></dd>
+<dt>Saudi Arabia</dt>
+<dd><a href="/wiki/Saudi_Sign_Language" title="Saudi Sign Language">Saudi</a></dd>
+<dt>Singapore</dt>
+<dd><a href="/wiki/Sign_language_in_Singapore" title="Sign language in Singapore">Singapore</a></dd>
+<dt>Sri Lanka</dt>
+<dd><a href="/wiki/Sri_Lankan_sign_languages" title="Sri Lankan sign languages">Sri Lankan</a></dd>
+<dt>Taiwan</dt>
+<dd><a href="/wiki/Taiwanese_Sign_Language" title="Taiwanese Sign Language">Taiwanese</a></dd>
+<dt>Tibet</dt>
+<dd><a href="/wiki/Tibetan_Sign_Language" title="Tibetan Sign Language">Bökyi lagda</a></dd>
+<dt>Thailand</dt>
+<dd><a href="/wiki/Old_Bangkok_Sign_Language" title="Old Bangkok Sign Language">Bangkok</a></dd>
+<dd><a href="/wiki/Chiangmai_Sign_Language" title="Chiangmai Sign Language">Chiangmai</a></dd>
+<dd><a href="/wiki/Thai_Sign_Language" title="Thai Sign Language">Thai</a></dd>
+<dd><a href="/wiki/Ban_Khor_Sign_Language" title="Ban Khor Sign Language">Pasa kidd</a></dd>
+<dt>Vietnam</dt>
+<dd><a href="/wiki/Vietnamese_sign_languages" title="Vietnamese sign languages">Vietnamese</a></dd></dl>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Africa</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<dl><dt>Algeria</dt>
+<dd><a href="/wiki/Algerian_Sign_Language" title="Algerian Sign Language">Algerian</a></dd>
+<dd><a href="/wiki/Ghardaia_Sign_Language" class="mw-redirect" title="Ghardaia Sign Language">Ghardaia</a></dd>
+<dt>Ghana</dt>
+<dd><a href="/wiki/Adamorobe_Sign_Language" title="Adamorobe Sign Language">Adamorobe</a></dd>
+<dd><a href="/wiki/Nanabin_Sign_Language" title="Nanabin Sign Language">Nanabin</a></dd>
+<dt>Kenya</dt>
+<dd><a href="/wiki/Kenyan_Sign_Language" title="Kenyan Sign Language">Kenyan</a></dd>
+<dt>Mali</dt>
+<dd><a href="/wiki/Tebul_Sign_Language" title="Tebul Sign Language">Tebul</a></dd>
+<dd><a href="/wiki/Bamako_Sign_Language" title="Bamako Sign Language">LaSiMa</a></dd>
+<dt>Nigeria</dt>
+<dd><a href="/wiki/Bura_Sign_Language" title="Bura Sign Language">Bura</a></dd>
+<dd><a href="/wiki/Hausa_Sign_Language" title="Hausa Sign Language">Magannar Hannu</a></dd>
+<dt>Senegal</dt>
+<dd><a href="/wiki/Mbour_Sign_Language" title="Mbour Sign Language">Mbour</a></dd>
+<dt>Somalia &amp; Djibouti</dt>
+<dd><a href="/wiki/Somali_Sign_Language" title="Somali Sign Language">Somali</a></dd>
+<dt>South Africa</dt>
+<dd><a href="/wiki/South_African_Sign_Language" title="South African Sign Language">South African</a></dd>
+<dt>Tanzania</dt>
+<dd><a href="/wiki/Tanzanian_sign_languages" title="Tanzanian sign languages">Tanzanian</a></dd>
+<dt>Uganda</dt>
+<dd><a href="/wiki/Ugandan_Sign_Language" title="Ugandan Sign Language">Ugandan</a></dd>
+<dt>Zambia</dt>
+<dd><a href="/wiki/Zambian_Sign_Language" title="Zambian Sign Language">Zambian</a></dd></dl>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">North America</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<dl><dd><a href="/wiki/Plains_Indian_Sign_Language" title="Plains Indian Sign Language">Plains Sign Talk</a></dd>
+<dt>Canada</dt>
+<dd><a href="/wiki/American_Sign_Language" title="American Sign Language">American</a>
+<dl><dd><a href="/w/index.php?title=Protactile&amp;action=edit&amp;redlink=1" class="new" title="Protactile (page does not exist)">Protactile</a></dd></dl></dd>
+<dd>Blackfoot</dd>
+<dd>Cree</dd>
+<dd>Ojibwa</dd>
+<dd><a href="/wiki/Maritime_Sign_Language" title="Maritime Sign Language">MSL</a></dd>
+<dd><a href="/wiki/Quebec_Sign_Language" title="Quebec Sign Language">Quebec</a></dd>
+<dd><a href="/wiki/Inuit_Sign_Language" title="Inuit Sign Language">Atgangmuurniq</a></dd>
+<dd><a href="/wiki/Plateau_Sign_Language" title="Plateau Sign Language"><i>Plateau</i></a></dd>
+<dt>Mexico</dt>
+<dd><a href="/wiki/Chatino_Sign_Language" title="Chatino Sign Language">Chatino</a></dd>
+<dd><a href="/wiki/Mayan_Sign_Language" title="Mayan Sign Language">Mayan</a></dd>
+<dd><a href="/wiki/Mexican_Sign_Language" title="Mexican Sign Language">Mexican</a></dd>
+<dt>United States</dt>
+<dd><a href="/wiki/American_Sign_Language" title="American Sign Language">American</a>
+<dl><dd><a href="/wiki/Black_American_Sign_Language" title="Black American Sign Language">Black American</a></dd>
+<dd><a href="/w/index.php?title=Protactile&amp;action=edit&amp;redlink=1" class="new" title="Protactile (page does not exist)">Protactile</a></dd></dl></dd>
+<dd>Blackfeet</dd>
+<dd>Cree</dd>
+<dd>Cheyenne</dd>
+<dd>Ojibwa</dd>
+<dd><a href="/wiki/Keresan_Sign_Language" title="Keresan Sign Language">Keresign</a></dd>
+<dd><a href="/wiki/Martha%27s_Vineyard_Sign_Language" title="Martha&#39;s Vineyard Sign Language"><i>Martha's Vineyard</i></a></dd>
+<dd>Navajo</dd>
+<dd><a href="/w/index.php?title=Navajo_Family_Sign_Language&amp;action=edit&amp;redlink=1" class="new" title="Navajo Family Sign Language (page does not exist)">Navajo Family</a></dd>
+<dd><a href="/wiki/Sandy_River_Valley_Sign_Language" title="Sandy River Valley Sign Language"><i>Sandy River Valley</i></a></dd>
+<dd><a href="/wiki/Henniker_Sign_Language" title="Henniker Sign Language"><i>Henniker</i></a></dd></dl>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><div style="padding:0.1em 0;line-height:1.2em;">Central and<br />South America</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<dl><dt>Argentina</dt>
+<dd><a href="/wiki/Argentine_Sign_Language" title="Argentine Sign Language">Argentine</a></dd>
+<dt>Belize</dt>
+<dd><a href="/w/index.php?title=Belizean_Sign_Language&amp;action=edit&amp;redlink=1" class="new" title="Belizean Sign Language (page does not exist)">Belizean</a></dd>
+<dt>Bolivia</dt>
+<dd><a href="/wiki/Bolivian_Sign_Language" class="mw-redirect" title="Bolivian Sign Language">Bolivian</a></dd>
+<dt>Brazil</dt>
+<dd><a href="/wiki/Brazilian_Sign_Language" title="Brazilian Sign Language">Libras</a></dd>
+<dd><a href="/wiki/Ka%27apor_Sign_Language" title="Ka&#39;apor Sign Language">Ka'apor</a></dd>
+<dt>Cayman</dt>
+<dd><i><a href="/wiki/Old_Cayman_Sign_Language" title="Old Cayman Sign Language">Old Cayman</a></i></dd>
+<dt>Chile</dt>
+<dd><a href="/wiki/Chilean_Sign_Language" title="Chilean Sign Language">Chilean</a></dd>
+<dt>Colombia</dt>
+<dd><a href="/wiki/Colombian_Sign_Language" title="Colombian Sign Language">Colombian</a></dd>
+<dd><a href="/wiki/Provisle" class="mw-redirect" title="Provisle">Provisle</a></dd>
+<dt>Costa Rica</dt>
+<dd><a href="/wiki/Bribri_Sign_Language" title="Bribri Sign Language">Bribri</a></dd>
+<dd><a href="/wiki/Brunca_Sign_Language" title="Brunca Sign Language">Brunca</a></dd>
+<dd><a href="/wiki/Old_Costa_Rican_Sign_Language" title="Old Costa Rican Sign Language">Old Costa Rican</a></dd>
+<dd><a href="/wiki/New_Costa_Rican_Sign_Language" class="mw-redirect" title="New Costa Rican Sign Language">New Costa Rican</a></dd>
+<dt>Ecuador</dt>
+<dd><a href="/wiki/Ecuadorian_Sign_Language" title="Ecuadorian Sign Language">Ecuadorian</a></dd>
+<dt>Guatemalan</dt>
+<dd><a href="/wiki/Guatemalan_Sign_Language" title="Guatemalan Sign Language">Guatemalan</a></dd>
+<dd><a href="/wiki/Mayan_Sign_Language" title="Mayan Sign Language">Mayan</a></dd>
+<dt>Honduras</dt>
+<dd><a href="/wiki/Honduras_Sign_Language" class="mw-redirect" title="Honduras Sign Language">Honduras</a></dd>
+<dt>Nicaragua</dt>
+<dd><a href="/wiki/Nicaraguan_Sign_Language" title="Nicaraguan Sign Language">Nicaraguan</a></dd>
+<dt>Paraguay</dt>
+<dd><a href="/wiki/Paraguayan_Sign_Language" title="Paraguayan Sign Language">Paraguayan</a></dd>
+<dt>Peru</dt>
+<dd><a href="/wiki/Peruvian_Sign_Language" title="Peruvian Sign Language">Peruvian</a></dd>
+<dd><a href="/wiki/Sivia_Sign_Language" title="Sivia Sign Language">Sivia</a></dd>
+<dt>El Salvador</dt>
+<dd><a href="/wiki/Salvadoran_Sign_Language" title="Salvadoran Sign Language">Salvadoran</a></dd>
+<dd><a href="/w/index.php?title=Old_Salvadoran_Sign_Language&amp;action=edit&amp;redlink=1" class="new" title="Old Salvadoran Sign Language (page does not exist)">Old Salvadoran</a></dd>
+<dt>Uruguay</dt>
+<dd><a href="/wiki/Uruguayan_Sign_Language" title="Uruguayan Sign Language">Uruguayan</a></dd>
+<dt>Venezuela</dt>
+<dd><a href="/wiki/Venezuelan_Sign_Language" title="Venezuelan Sign Language">Venezuelan</a></dd></dl>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Europe</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<dl><dt>Armenia</dt>
+<dd><a href="/wiki/Armenian_Sign_Language" title="Armenian Sign Language">Armenian</a></dd>
+<dt>Austria</dt>
+<dd><a href="/wiki/Austrian_Sign_Language" title="Austrian Sign Language">Austrian</a></dd>
+<dt>Belgium</dt>
+<dd><a href="/wiki/Flemish_Sign_Language" title="Flemish Sign Language">Flemish</a></dd>
+<dd><a href="/wiki/French_Belgian_Sign_Language" title="French Belgian Sign Language">French Belgian</a></dd>
+<dt>United Kingdom</dt>
+<dd><a href="/wiki/British_Sign_Language" title="British Sign Language">British</a></dd>
+<dt>Croatia</dt>
+<dd><a href="/wiki/Croatian_Sign_Language" title="Croatian Sign Language">Croatian</a></dd>
+<dt>Denmark</dt>
+<dd><a href="/wiki/Danish_Sign_Language" title="Danish Sign Language">Danish</a></dd>
+<dt>Netherlands</dt>
+<dd><a href="/wiki/Dutch_Sign_Language" title="Dutch Sign Language">Dutch</a></dd>
+<dt>Estonia</dt>
+<dd><a href="/wiki/Estonian_Sign_Language" title="Estonian Sign Language">Estonian</a></dd>
+<dt>Finland</dt>
+<dd><a href="/wiki/Finnish_Sign_Language" title="Finnish Sign Language">Finnish</a></dd>
+<dt>France</dt>
+<dd><a href="/wiki/Ghardaia_Sign_Language" class="mw-redirect" title="Ghardaia Sign Language">Ghardaia</a></dd>
+<dd><a href="/wiki/French_Sign_Language" title="French Sign Language">French</a></dd>
+<dd><a href="/wiki/Lyons_Sign_Language" class="mw-redirect" title="Lyons Sign Language">Lyons</a></dd>
+<dt>Germany</dt>
+<dd><a href="/wiki/German_Sign_Language" title="German Sign Language">German</a></dd>
+<dt>Greece</dt>
+<dd><a href="/wiki/Greek_Sign_Language" title="Greek Sign Language">Greek</a></dd>
+<dt>Hungary</dt>
+<dd><a href="/wiki/Hungarian_Sign_Language" title="Hungarian Sign Language">Hungarian</a></dd>
+<dt>Iceland</dt>
+<dd><a href="/wiki/Icelandic_Sign_Language" title="Icelandic Sign Language">Icelandic</a></dd>
+<dt>Ireland</dt>
+<dd><a class="mw-selflink selflink">Irish</a></dd>
+<dt>Italy</dt>
+<dd><a href="/wiki/Italian_Sign_Language" title="Italian Sign Language">Italian</a></dd>
+<dt>Kosovo</dt>
+<dd><a href="/wiki/Yugoslav_Sign_Language" title="Yugoslav Sign Language">Kosovar</a></dd>
+<dt>Lithuania</dt>
+<dd><a href="/wiki/Lithuanian_Sign_Language" title="Lithuanian Sign Language">Lithuanian</a></dd>
+<dt>Luxembourg</dt>
+<dd><a href="/w/index.php?title=Luxembourgish_Sign_Language&amp;action=edit&amp;redlink=1" class="new" title="Luxembourgish Sign Language (page does not exist)">Luxembourgish</a></dd>
+<dt>Macedonia</dt>
+<dd><a href="/wiki/Macedonian_Sign_Language" title="Macedonian Sign Language">Macedonian</a></dd>
+<dt>Northern Ireland</dt>
+<dd><a href="/wiki/Northern_Ireland_Sign_Language" title="Northern Ireland Sign Language">Northern Ireland</a></dd>
+<dt>Norway</dt>
+<dd><a href="/wiki/Norwegian_Sign_Language" title="Norwegian Sign Language">Norwegian</a></dd>
+<dt>Poland</dt>
+<dd><a href="/wiki/Polish_Sign_Language" title="Polish Sign Language">Polish</a></dd>
+<dt>Portugal</dt>
+<dd><a href="/wiki/Portuguese_Sign_Language" title="Portuguese Sign Language">Portuguese</a></dd>
+<dt>Russia</dt>
+<dd><a href="/wiki/Russian_Sign_Language" title="Russian Sign Language">Russian</a></dd>
+<dt>Slovenia</dt>
+<dd><a href="/wiki/Yugoslav_Sign_Language" title="Yugoslav Sign Language">Slovenian</a></dd>
+<dt>Spain</dt>
+<dd><a href="/wiki/Catalan_Sign_Language" title="Catalan Sign Language">Catalan</a></dd>
+<dd><a href="/wiki/Spanish_Sign_Language" title="Spanish Sign Language">Spanish</a></dd>
+<dd><a href="/wiki/Valencian_Sign_Language" title="Valencian Sign Language">Valencian</a></dd>
+<dt>Sweden</dt>
+<dd><a href="/wiki/Swedish_Sign_Language" title="Swedish Sign Language">Swedish</a></dd>
+<dt>Switzerland</dt>
+<dd><a href="/wiki/Swiss-German_Sign_Language" title="Swiss-German Sign Language">Swiss</a></dd>
+<dt>Turkey</dt>
+<dd><a href="/wiki/Mardin_Sign_Language" title="Mardin Sign Language">Mardin</a></dd>
+<dd><a href="/wiki/Turkish_Sign_Language" title="Turkish Sign Language">Turkish</a></dd>
+<dt>Ukraine</dt>
+<dd><a href="/wiki/Ukrainian_Sign_Language" title="Ukrainian Sign Language">Ukrainian</a></dd></dl>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/International_Sign" title="International Sign">International Sign</a></li>
+<li><a href="/wiki/Makaton" title="Makaton">Makaton</a></li>
+<li><a href="/wiki/Monastic_sign_languages" title="Monastic sign languages">Monastic</a></li>
+<li><a href="/wiki/Signalong" title="Signalong">Signalong</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><b><a href="/wiki/American_Sign_Language" title="American Sign Language">ASL</a></b></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/American_Sign_Language_grammar" title="American Sign Language grammar">Grammar</a></li>
+<li><a href="/wiki/Idioms_in_American_Sign_Language" title="Idioms in American Sign Language">Idioms</a></li>
+<li><a href="/wiki/American_Sign_Language_literature" title="American Sign Language literature">Literature</a></li>
+<li><a href="/wiki/Profanity_in_American_Sign_Language" title="Profanity in American Sign Language">Profanity</a></li>
+<li><a href="/wiki/ASL_name_sign" class="mw-redirect" title="ASL name sign">Name signs</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Extinct<br />languages</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Chilmark</li>
+<li><a href="/wiki/Dieri_Sign_Language" class="mw-redirect" title="Dieri Sign Language">Diyari</a></li>
+<li><a href="/wiki/Jaralde_Sign_Language" class="mw-redirect" title="Jaralde Sign Language">Jaralde</a></li>
+<li><a href="/wiki/Kalkutungu_Sign_Language" class="mw-redirect" title="Kalkutungu Sign Language">Kalkutungu</a></li>
+<li><a href="/wiki/Henniker_Sign_Language" title="Henniker Sign Language">Henniker Sign Language</a></li>
+<li><a href="/wiki/Martha%27s_Vineyard_Sign_Language" title="Martha&#39;s Vineyard Sign Language">Martha's Vineyard</a></li>
+<li><a href="/wiki/Old_French_Sign_Language" title="Old French Sign Language">Old French</a></li>
+<li><a href="/wiki/Old_Kentish_Sign_Language" title="Old Kentish Sign Language">Old Kent</a></li>
+<li><a href="/wiki/Plateau_Sign_Language" title="Plateau Sign Language">Plateau Sign Language</a></li>
+<li><a href="/wiki/Pitha_Pitha_Sign_Language" class="mw-redirect" title="Pitha Pitha Sign Language">Pitha Pitha</a></li>
+<li><a href="/wiki/Sandy_River_Valley_Sign_Language" title="Sandy River Valley Sign Language">Sandy River Valley Sign Language</a></li>
+<li><a href="/wiki/Warluwara_Sign_Language" class="mw-redirect" title="Warluwara Sign Language">Warluwara</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Linguistics</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/American_Sign_Language_grammar" title="American Sign Language grammar">Grammar (ASL)</a></li>
+<li><a href="/wiki/Bimodal_bilingualism" title="Bimodal bilingualism">Bimodal bilingualism</a></li>
+<li><a href="/wiki/Cherology" title="Cherology">Cherology</a></li>
+<li><a href="/wiki/Handshape" title="Handshape">Handshape</a> / <a href="/wiki/Location_(sign_language)" title="Location (sign language)">Location</a> / <a href="/wiki/Orientation_(sign_language)" title="Orientation (sign language)">Orientation</a> / <a href="/wiki/Movement_(sign_language)" title="Movement (sign language)">Movement</a> / <a href="/wiki/Expression_(sign_language)" title="Expression (sign language)">Expression</a></li>
+<li><a href="/wiki/Mouthing" title="Mouthing">Mouthing</a></li>
+<li><a href="/wiki/Sign_name" title="Sign name">Sign names</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fingerspelling" title="Fingerspelling">Fingerspelling</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/American_manual_alphabet" title="American manual alphabet">American</a></li>
+<li><a href="/wiki/Two-handed_manual_alphabets" title="Two-handed manual alphabets">British (two-handed)</a></li>
+<li><a href="/wiki/Catalan_manual_alphabet" title="Catalan manual alphabet">Catalan</a></li>
+<li><a href="/wiki/Chilean_manual_alphabet" title="Chilean manual alphabet">Chilean</a></li>
+<li><a href="/wiki/French_manual_alphabet" title="French manual alphabet">French</a></li>
+<li><a href="/wiki/Hungarian_manual_alphabet" title="Hungarian manual alphabet">Hungarian</a></li>
+<li><a href="/wiki/Irish_manual_alphabet" title="Irish manual alphabet">Irish</a></li>
+<li><a href="/wiki/Japanese_manual_syllabary" title="Japanese manual syllabary">Japanese</a></li>
+<li><a href="/wiki/Korean_manual_alphabet" title="Korean manual alphabet">Korean</a></li>
+<li><a href="/wiki/Polish_manual_alphabet" title="Polish manual alphabet">Polish</a></li>
+<li><a href="/wiki/Russian_manual_alphabet" title="Russian manual alphabet">Russian</a></li>
+<li><a href="/wiki/Yugoslav_manual_alphabet" title="Yugoslav manual alphabet">Serbo-Croatian</a></li>
+<li><a href="/wiki/Spanish_manual_alphabet" title="Spanish manual alphabet">Spanish</a></li>
+<li><a href="/wiki/Ukrainian_manual_alphabet" title="Ukrainian manual alphabet">Ukrainian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Writing</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ASL-phabet" title="ASL-phabet">ASL-phabet</a></li>
+<li><a href="/wiki/Hamburg_Notation_System" title="Hamburg Notation System">Hamburg Notation System</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Stokoe_notation" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Stokoe_notation" title="Stokoe notation">Stokoe notation</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Stokoe_notation" title="Stokoe notation">Stokoe notation</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="SignWriting" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/SignWriting" title="SignWriting">SignWriting</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/SignWriting" title="SignWriting">SignWriting</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="si5s" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Si5s" title="Si5s">si5s</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Si5s" title="Si5s">si5s</a>
+<ul><li><a href="/wiki/ASLwrite" title="ASLwrite">ASLwrite</a> (<a href="/wiki/File:ASLwrite.png" class="image"><img alt="ASLwrite.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/ASLwrite.png/60px-ASLwrite.png" width="60" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/ASLwrite.png/90px-ASLwrite.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/ASLwrite.png/120px-ASLwrite.png 2x" data-file-width="5608" data-file-height="2001" /></a>)</li></ul></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr></tbody></table><div>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Language_contact" title="Language contact">Language<br />contact</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Contact_sign" title="Contact sign">Contact sign</a></li>
+<li><a href="/wiki/Indian_Signing_System" title="Indian Signing System">Indian Signing System</a></li>
+<li><a href="/wiki/Initialized_sign" title="Initialized sign">Initialized sign</a></li>
+<li><a href="/wiki/Manually_coded_English" title="Manually coded English">Manually coded English</a></li>
+<li><a href="/wiki/Manually_coded_language_in_South_Africa" title="Manually coded language in South Africa">Manually coded language in South Africa</a></li>
+<li><a href="/wiki/Manually_Coded_Malay" title="Manually Coded Malay">Manually Coded Malay</a></li>
+<li><a href="/wiki/Mouthing" title="Mouthing">Mouthing</a></li>
+<li><a href="/wiki/Paget_Gorman_Sign_System" title="Paget Gorman Sign System">Paget Gorman Sign System</a></li>
+<li><a href="/wiki/Signed_Dutch" title="Signed Dutch">Signed Dutch</a></li>
+<li><a href="/wiki/Signed_French" title="Signed French">Signed French</a></li>
+<li><a href="/wiki/Signed_German" title="Signed German">Signed German</a></li>
+<li><a href="/wiki/Signed_Italian" title="Signed Italian">Signed Italian</a></li>
+<li><a href="/wiki/Signed_Japanese" title="Signed Japanese">Signed Japanese</a></li>
+<li><a href="/wiki/Signed_Polish" title="Signed Polish">Signed Polish</a></li>
+<li><a href="/wiki/Signed_Spanish" title="Signed Spanish">Signed Spanish</a></li>
+<li><a href="/wiki/Signing_Exact_English" title="Signing Exact English">Signing Exact English</a></li>
+<li><a href="/wiki/Tecknad_svenska" title="Tecknad svenska">Tecknad svenska</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bilingual%E2%80%93bicultural_education" title="Bilingual–bicultural education">Bilingual–bicultural education</a></li>
+<li><a href="/wiki/Manually_coded_language" title="Manually coded language">Manually coded language</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sign_language_media" class="mw-redirect" title="Sign language media">Media</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Category:Sign-language_films" title="Category:Sign-language films">Films (list)</a></li>
+<li><a href="/wiki/Category:Sign_language_television_programs" title="Category:Sign language television programs">Television programmes (list)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Persons</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jabbar_Baghtcheban" title="Jabbar Baghtcheban">Jabbar Baghtcheban</a></li>
+<li><a href="/wiki/Johanna_Berglind" class="mw-redirect" title="Johanna Berglind">Johanna Berglind</a></li>
+<li><a href="/wiki/P%C3%A4r_Aron_Borg" title="Pär Aron Borg">Pär Aron Borg</a></li>
+<li><a href="/wiki/Thomas_Braidwood" title="Thomas Braidwood">Thomas Braidwood</a></li>
+<li><a href="/wiki/Laurent_Clerc" title="Laurent Clerc">Laurent Clerc</a></li>
+<li><a href="/wiki/Charles-Michel_de_l%27%C3%89p%C3%A9e" title="Charles-Michel de l&#39;Épée">Abbé de l'Épée</a></li>
+<li><a href="/wiki/Roger_Fouts" title="Roger Fouts">Roger Fouts</a></li>
+<li><a href="/wiki/Valerie_Sutton" title="Valerie Sutton">Valerie Sutton</a></li>
+<li><a href="/wiki/Thomas_Hopkins_Gallaudet" title="Thomas Hopkins Gallaudet">Thomas Gallaudet</a></li>
+<li><a href="/wiki/Roch-Ambroise_Cucurron_Sicard" title="Roch-Ambroise Cucurron Sicard">Abbe Sicard</a></li>
+<li><a href="/wiki/William_Stokoe" title="William Stokoe">William Stokoe</a></li>
+<li><a href="/wiki/Pierre_P%C3%A9lissier" title="Pierre Pélissier">Pierre Pélissier</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Organisations</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Association_of_Visual_Language_Interpreters_of_Canada" title="Association of Visual Language Interpreters of Canada">Association of Visual Language Interpreters of Canada</a></li>
+<li><a href="/wiki/International_Center_on_Deafness_and_the_Arts" title="International Center on Deafness and the Arts">International Center on Deafness and the Arts</a></li>
+<li><a href="/wiki/Mimics_and_Gesture_Theatre" title="Mimics and Gesture Theatre">Mimics and Gesture Theatre</a></li>
+<li><a href="/wiki/World_Association_of_Sign_Language_Interpreters" title="World Association of Sign Language Interpreters">World Association of Sign Language Interpreters</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Miscellaneous</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baby_sign_language" title="Baby sign language">Baby sign language</a></li>
+<li><a href="/wiki/Chimpanzee_and_Human_Communication_Institute" title="Chimpanzee and Human Communication Institute">CHCI chimpanzee center</a> (<a href="/wiki/Washoe_(chimpanzee)" title="Washoe (chimpanzee)">Washoe</a>, <a href="/wiki/Loulis_(chimpanzee)" title="Loulis (chimpanzee)">Loulis</a>)</li>
+<li><a href="/wiki/Hand_signaling_(open_outcry)" title="Hand signaling (open outcry)">Open Outcry</a></li>
+<li><a href="/wiki/Legal_recognition_of_sign_languages" title="Legal recognition of sign languages">Legal recognition</a></li>
+<li><a href="/wiki/Military_hand_and_arm_signals" class="mw-redirect" title="Military hand and arm signals">Military hand and arm signals</a></li>
+<li><a href="/wiki/Monastic_sign_languages" title="Monastic sign languages">Monastic sign languages</a></li>
+<li><a href="/wiki/Tactile_signing" title="Tactile signing">Tactile signing</a></li>
+<li><a href="/wiki/Tic-tac" title="Tic-tac">Tic-tac (betting)</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><span class="citation wikicite" id="endnote_note_a"><b><a href="#ref_note_a">^a</a></b></span>  Sign-language names reflect the region of origin. Natural sign languages are not related to the spoken language used in the same region. For example, French Sign Language originated in France, but is not related to French.
+<span class="citation wikicite" id="endnote_note_b"><b><a href="#ref_note_b">^b</a></b></span>  Denotes the number (if known) of languages within the family. No further information is given on these languages.</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q14183&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q14183&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q14183" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/7576978-5">7576978-5</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2178
+Cached time: 20180929134556
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.600 seconds
+Real time usage: 0.705 seconds
+Preprocessor visited node count: 3708/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 296016/2097152 bytes
+Template argument size: 1208/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 21596/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.280/10.000 seconds
+Lua memory usage: 12.53 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  501.499      1 -total
+ 37.69%  189.026      1 Template:Infobox_language
+ 35.35%  177.256     27 Template:Navbox
+ 29.43%  147.572      1 Template:Infobox
+ 24.23%  121.517      1 Template:Lang-ga
+ 12.81%   64.237      2 Template:Cite_book
+ 12.31%   61.713      1 Template:Glottolog
+ 11.09%   55.626      1 Template:Sign_language_navigation
+ 10.40%   52.180      1 Template:Reflist
+  6.75%   33.860      1 Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1209329-0!canonical and timestamp 20180929134555 and revision id 859887390
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Irish_Sign_Language&amp;oldid=859887390">https://en.wikipedia.org/w/index.php?title=Irish_Sign_Language&amp;oldid=859887390</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Languages_of_Ireland" title="Category:Languages of Ireland">Languages of Ireland</a></li><li><a href="/wiki/Category:Languages_of_the_United_Kingdom" title="Category:Languages of the United Kingdom">Languages of the United Kingdom</a></li><li><a href="/wiki/Category:French_Sign_Language_family" title="Category:French Sign Language family">French Sign Language family</a></li><li><a href="/wiki/Category:Languages_of_Northern_Ireland" title="Category:Languages of Northern Ireland">Languages of Northern Ireland</a></li><li><a href="/wiki/Category:Deaf_culture_in_Ireland" title="Category:Deaf culture in Ireland">Deaf culture in Ireland</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Language_articles_citing_Ethnologue_18" title="Category:Language articles citing Ethnologue 18">Language articles citing Ethnologue 18</a></li><li><a href="/wiki/Category:Articles_containing_Irish-language_text" title="Category:Articles containing Irish-language text">Articles containing Irish-language text</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Irish+Sign+Language" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Irish+Sign+Language" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Irish_Sign_Language" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Irish_Sign_Language" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Irish_Sign_Language">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Irish_Sign_Language&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Irish_Sign_Language&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Irish_Sign_Language" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Irish_Sign_Language" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Irish_Sign_Language&amp;oldid=859887390" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Irish_Sign_Language&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14183" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Irish_Sign_Language&amp;id=859887390" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Irish+Sign+Language">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Irish+Sign+Language&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Irish_Sign_Language&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Irish_Sign_Language" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Yezh_ar_Sino%C3%B9_Iwerzhonek" title="Yezh ar Sinoù Iwerzhonek – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Irlanda_signolingvo" title="Irlanda signolingvo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Langue_des_signes_irlandaise" title="Langue des signes irlandaise – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Teanga_Chomhartha%C3%ADochta_na_h%C3%89ireann" title="Teanga Chomharthaíochta na hÉireann – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Lenga_dij_segn_irland%C3%A8isa" title="Lenga dij segn irlandèisa – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Lingua_da_segns_irlandaisa" title="Lingua da segns irlandaisa – Romansh" lang="rm" hreflang="rm" class="interlanguage-link-target">Rumantsch</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Lingua_d%C3%AE_Signa_Irlannisi" title="Lingua dî Signa Irlannisi – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/%C4%B0rlandaca_i%C5%9Faret_dili" title="İrlandaca işaret dili – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%84%9B%E7%88%BE%E8%98%AD%E6%89%8B%E8%AA%9E" title="愛爾蘭手語 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14183#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 16 September 2018, at 23:14<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Irish_Sign_Language&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.600","walltime":"0.705","ppvisitednodes":{"value":3708,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":296016,"limit":2097152},"templateargumentsize":{"value":1208,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":21596,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  501.499      1 -total"," 37.69%  189.026      1 Template:Infobox_language"," 35.35%  177.256     27 Template:Navbox"," 29.43%  147.572      1 Template:Infobox"," 24.23%  121.517      1 Template:Lang-ga"," 12.81%   64.237      2 Template:Cite_book"," 12.31%   61.713      1 Template:Glottolog"," 11.09%   55.626      1 Template:Sign_language_navigation"," 10.40%   52.180      1 Template:Reflist","  6.75%   33.860      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.280","limit":"10.000"},"limitreport-memusage":{"value":13142318,"limit":52428800}},"cachereport":{"origin":"mw2178","timestamp":"20180929134556","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw2191"});});</script>
+	</body>
+</html>

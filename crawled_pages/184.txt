@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Seznam.cz - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Seznam.cz","wgTitle":"Seznam.cz","wgCurRevisionId":851649480,"wgRevisionId":851649480,"wgArticleId":21577339,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from November 2014","All articles needing additional references","Articles containing potentially dated statements from November 2015","All articles containing potentially dated statements","All articles with unsourced statements","Articles with unsourced statements from November 2014","Articles with unsourced statements from January 2012","Articles with unsourced statements from August 2012","Articles with unsourced statements from May 2015","Articles with unsourced statements from November 2015","Software companies of the Czech Republic","Czech websites","Internet companies of the Czech Republic","Internet search engines","Webmail","Internet properties established in 1996","Web portals"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Seznam.cz","wgRelevantArticleId":21577339,"wgRequestId":"W60IhwrAADYAAFWBb7AAAADN","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Seznam","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgInternalRedirectTargetUrl":"/wiki/Seznam.cz","wgWikibaseItemId":"Q3490485","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Seznam-radlicka.jpg/1200px-Seznam-radlicka.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Seznam.cz"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Seznam.cz&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Seznam.cz&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Seznam.cz"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Seznam_cz rootpage-Seznam_cz skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Seznam.cz</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Seznam&amp;redirect=no" class="mw-redirect" title="Seznam">Seznam</a>)</span></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Seznam.cz&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(November 2014)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">Seznam.cz <br />Seznam.cz, a.s.</caption><tbody><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Seznam_wordmark.png" class="image"><img alt="Seznam wordmark.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Seznam_wordmark.png/250px-Seznam_wordmark.png" width="250" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Seznam_wordmark.png/375px-Seznam_wordmark.png 1.5x, //upload.wikimedia.org/wikipedia/commons/a/a2/Seznam_wordmark.png 2x" data-file-width="500" data-file-height="150" /></a></td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Type of site</div></th><td>
+<a href="/wiki/Joint_stock_company" class="mw-redirect" title="Joint stock company">Joint stock company</a></td></tr><tr><th scope="row">Founded</th><td>
+1996<span class="noprint">&#59;&#32;22&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1996</span>)</span></td></tr><tr><th scope="row">Headquarters</th><td class="adr">
+<span class="locality"><a href="/wiki/Prague" title="Prague">Prague</a></span>, <span class="country-name"><a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a></span></td></tr><tr><th scope="row">Area&#160;served</th><td>
+<a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a>, <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a></td></tr><tr><th scope="row"><a href="/wiki/Entrepreneurship" title="Entrepreneurship">Founder(s)</a></th><td>
+<a href="/wiki/Ivo_Luka%C4%8Dovi%C4%8D" title="Ivo Lukačovič">Ivo Lukačovič</a></td></tr><tr><th scope="row">Key&#160;people</th><td>
+<p>Pavel Zima <small>(<a href="/wiki/General_manager" title="General manager">GM</a>)</small> <br />
+</p>
+Michal Feix <small>(<a href="/wiki/CEO" class="mw-redirect" title="CEO">CEO</a>)</small></td></tr><tr><th scope="row"><a href="/wiki/Revenue" title="Revenue">Revenue</a></th><td>
+<img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 3,129 billion <a href="/wiki/CZK" class="mw-redirect" title="CZK">CZK</a> (2014)<sup id="cite_ref-fs2014_1-0" class="reference"><a href="#cite_note-fs2014-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></th><td>
+<img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 1,136 billion <a href="/wiki/CZK" class="mw-redirect" title="CZK">CZK</a> (2014)<sup id="cite_ref-fs2014_1-1" class="reference"><a href="#cite_note-fs2014-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row"><a href="/wiki/Net_income" title="Net income">Profit</a></th><td>
+<img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 740 million <a href="/wiki/CZK" class="mw-redirect" title="CZK">CZK</a> (2010)<sup id="cite_ref-fs2011_2-0" class="reference"><a href="#cite_note-fs2011-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row"><a href="/wiki/Asset" title="Asset">Total assets</a></th><td>
+<img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 1,555 million <a href="/wiki/CZK" class="mw-redirect" title="CZK">CZK</a> (2010)<sup id="cite_ref-fs2011_2-1" class="reference"><a href="#cite_note-fs2011-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></th><td>
+<img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 834 million <a href="/wiki/CZK" class="mw-redirect" title="CZK">CZK</a> (2010)<sup id="cite_ref-fs2011_2-2" class="reference"><a href="#cite_note-fs2011-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row">Employees</th><td>
+<img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 1001 (2012)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></td></tr><tr><th scope="row"><a href="/wiki/Holding_company" title="Holding company">Parent</a></th><td>
+Helifreak Limited (70&#160;%)<sup id="cite_ref-fs2011_2-3" class="reference"><a href="#cite_note-fs2011-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row">Website</th><td class="url">
+<a rel="nofollow" class="external text" href="http://www.seznam.cz">Seznam.cz</a></td></tr><tr><th scope="row"><a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa</a> rank</th><td>
+<img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 468 Worldwide  <br /> <img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" title="Steady" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" /> 3 Czech Republic (January 2018<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Seznam.cz&amp;action=edit">&#91;update&#93;</a></sup>)<sup id="cite_ref-alexa_4-0" class="reference"><a href="#cite_note-alexa-4">&#91;4&#93;</a></sup></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Seznam-radlicka.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Seznam-radlicka.jpg/220px-Seznam-radlicka.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Seznam-radlicka.jpg/330px-Seznam-radlicka.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Seznam-radlicka.jpg/440px-Seznam-radlicka.jpg 2x" data-file-width="1425" data-file-height="950" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Seznam-radlicka.jpg" class="internal" title="Enlarge"></a></div>Seznam.cz headquarters in <a href="/wiki/Prague" title="Prague">Prague</a></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Seznam.cz,_Brno.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Seznam.cz%2C_Brno.jpg/220px-Seznam.cz%2C_Brno.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Seznam.cz%2C_Brno.jpg/330px-Seznam.cz%2C_Brno.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Seznam.cz%2C_Brno.jpg/440px-Seznam.cz%2C_Brno.jpg 2x" data-file-width="2560" data-file-height="1920" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Seznam.cz,_Brno.jpg" class="internal" title="Enlarge"></a></div>Seznam.cz branch in <a href="/wiki/Brno" title="Brno">Brno</a>-Štýřice</div></div></div>
+<p><b>Seznam.cz</b> (or just <i>Seznam</i>, which means <i>directory</i> in English) is a <a href="/wiki/Web_portal" title="Web portal">web portal</a> and <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engine</a> in the <a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a>. Founded in 1996 by <a href="/wiki/Ivo_Luka%C4%8Dovi%C4%8D" title="Ivo Lukačovič">Ivo Lukačovič</a> in <a href="/wiki/Prague" title="Prague">Prague</a> as the first web portal in the Czech Republic. Seznam started with a <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engine</a> and an internet version of <a href="/wiki/Yellow_pages" title="Yellow pages">yellow pages</a>. Today, Seznam runs more than 15 different web services and associated brands. Seznam had more than 6 million real users per month at the end of 2014.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Among the most popular services, according to NetMonitor, are its homepage seznam.cz, email.cz, search.seznam.cz and its yellow pages firmy.cz.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2014)">citation needed</span></a></i>&#93;</sup>
+</p><p>In the Czech market, Seznam.cz was until 2008 in competition with the portals <a href="/w/index.php?title=Centrum.cz&amp;action=edit&amp;redlink=1" class="new" title="Centrum.cz (page does not exist)">Centrum.cz</a> and <a href="/w/index.php?title=Atlas.cz&amp;action=edit&amp;redlink=1" class="new" title="Atlas.cz (page does not exist)">Atlas.cz</a>. These two portals, despite merging in 2008, no longer appear likely to overcome Seznam in the near future. Seznam's biggest competitor now appears to be global <a href="/wiki/Google" title="Google">Google</a>, especially in the area of full-text search.
+</p><p>As of May 2012, according to Toplist results, Seznam was the second <a href="/wiki/Internet_search" class="mw-redirect" title="Internet search">internet search</a> engine in the Czech Republic (42.84%) with Google in the top spot (54.69%).<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2012)">citation needed</span></a></i>&#93;</sup>. By August 2014, still according to Toplist's statistics, Seznam's share of searches had further eroded to 38%.
+</p><p>Seznam, like four other companies in the world, was<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2012)">citation needed</span></a></i>&#93;</sup> for a long time the number one search engine in its region. Other such search engines are <a href="/wiki/Baidu" title="Baidu">Baidu</a> (<a href="/wiki/China" title="China">China</a>), <a href="/wiki/Naver" title="Naver">Naver</a> (<a href="/wiki/South_Korea" title="South Korea">South Korea</a>), <a href="/wiki/Yahoo_Japan" class="mw-redirect" title="Yahoo Japan">Yahoo Japan</a> (<a href="/wiki/Japan" title="Japan">Japan</a>) and <a href="/wiki/Yandex" title="Yandex">Yandex</a> (<a href="/wiki/Russia" title="Russia">Russia</a>).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>Since 2011, Seznam has used as its slogan a Czech rhyme <i>Seznam - najdu tam, co hledám</i> (<i>Seznam - I find there, what I search for</i>). Prior to this its slogan was <i>Seznam - najdu tam, co neznám</i> (<i>Seznam - I find there, what I don't know</i>).
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Assessment"><span class="tocnumber">2</span> <span class="toctext">Assessment</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seznam.cz&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Founded by <a href="/wiki/Ivo_Luka%C4%8Dovi%C4%8D" title="Ivo Lukačovič">Ivo Lukačovič</a> in 1996, Seznam began as the first internet <a href="/wiki/Yellow_pages" title="Yellow pages">yellow pages</a> and <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engine</a> in the <a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a>. Ivo started his business with 50,000 <a href="/wiki/CZK" class="mw-redirect" title="CZK">CZK</a> he had saved up.  In 1998, Seznam added email to its portfolio, with email accounts running on the <i>@seznam.cz</i> domain.  Since then, more brands and services have come on-line.  Since 2001, Seznam has included financial, social and political news, TV programs, weather forecasts, dictionaries, maps and community services.
+</p><p>In 2000, <a href="/w/index.php?title=Spray_International&amp;action=edit&amp;redlink=1" class="new" title="Spray International (page does not exist)">Spray International</a>, a <a href="/wiki/Sweden" title="Sweden">Swedish</a> web portal company, invested in Seznam.  At that time Seznam became a <a href="/wiki/Joint_stock_company" class="mw-redirect" title="Joint stock company">joint stock company</a>.  Until 2000, Ivo Lukačovič was self-employed and Seznam was his own sole business.  With the investment, it is estimated that Spray International acquired around 30% share of Seznam.  Exact numbers are not known, as Lukačovič and Seznam officials have never released any details about the transaction.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2015)">citation needed</span></a></i>&#93;</sup>  What has been confirmed, though, is that Ivo Lukačovič retained at least 70% of Seznam stock after the investment.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2012)">citation needed</span></a></i>&#93;</sup>
+</p><p>Spray acquired a stake in Seznam with the intention of making an <a href="/wiki/Initial_Public_Offering" class="mw-redirect" title="Initial Public Offering">IPO</a>; however, Spray never reached that goal.  After the <a href="/wiki/Dot-com_bubble" title="Dot-com bubble">dot-com bubble</a> burst in 2000, Spray abandoned the idea.  There are rumors about Spray defaulting on its obligations to Ivo Lukačovič by not making an IPO.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2012)">citation needed</span></a></i>&#93;</sup> In 2003, Ivo Lukačovič increased the base capital of Seznam without Spray and became 70% owner of Seznam.  Since 2003, Ivo Lukačovič has remained the controlling shareholder of Seznam.
+</p><p>Until 2003, Seznam had been using a fulltext engine from the Czech company Jyxo; however, in 2005, Seznam replaced that search engine with its own technology.  Also in 2005, Seznam acquired the Czech firm ATC which was, among other ventures, running the email server Email.cz.  Email services Email.cz and Seznam.cz have now merged.
+</p><p>In 2006, Seznam moved its headquarters from <a href="/wiki/Prague" title="Prague">Prague</a> <a href="/wiki/Ko%C5%A1%C3%AD%C5%99e" title="Košíře">Košíře</a> to a more prominent location in the <a href="/wiki/And%C4%9Bl_(neighborhood)" title="Anděl (neighborhood)">Prague Anděl</a>.  That year, Ivo Lukačovič gave up the day-to-day business direction of Seznam, and Pavel Zima became CEO. In the Fall of 2006, Seznam acquired all email users from another web portal, "Czech On Line", with the domain <i>@post.cz</i>.
+</p><p>Seznam bought 50% of Global Inspiration, a Czech company running a video portal Stream.cz, similar to the global <a href="/wiki/YouTube" title="YouTube">YouTube</a> in 2007.  <a href="/wiki/Lycos_Europe" title="Lycos Europe">Lycos Europe</a> (a subsequent incarnation of Spray International) sold its 30% share in Seznam to <a href="/wiki/Tiger_Management" title="Tiger Management">Tiger Holding</a> and Miura International.  Lycos received more than 1.7 billion <a href="/wiki/CZK" class="mw-redirect" title="CZK">CZK</a> from this transaction.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2015)">citation needed</span></a></i>&#93;</sup> As of 2015, Miura International S.a.r.l. had 5,6% of shares, Tiger holding four S.a.r.l. had 24,4% of shares and Helifreak limited had 70% of shares.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>In 2008, the Czech media reported on alleged meetings between Seznam and <a href="/wiki/Goldman_Sachs" title="Goldman Sachs">Goldman Sachs</a> representatives to find a buyer for Seznam. Ivo Lukačovič and Seznam representatives denied this. Such speculation ended with the start of the <a href="/wiki/Financial_crisis_of_2007%E2%80%932010" class="mw-redirect" title="Financial crisis of 2007–2010">financial crisis</a> in <a href="/wiki/Europe" title="Europe">Europe</a> in late 2008.
+</p>
+<h2><span class="mw-headline" id="Assessment">Assessment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seznam.cz&amp;action=edit&amp;section=2" title="Edit section: Assessment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Seznam" class="mw-redirect" title="Seznam">Seznam</a> uses its own ranking scale for web pages, called S-Rank.  It is a similar to <a href="/wiki/PageRank" title="PageRank">PageRank</a> with a range from 0 to 10.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seznam.cz&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-fs2014-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-fs2014_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fs2014_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://english.seznamblog.cz/post/120439171499/seznamcz-revenues-for-2014-exceeded-czk-3-billion">"Commented financial statements of Seznam.cz, a.s. for year 2014, on Seznam.cz corporate website"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Commented+financial+statements+of+Seznam.cz%2C+a.s.+for+year+2014%2C+on+Seznam.cz+corporate+website&amp;rft_id=http%3A%2F%2Fenglish.seznamblog.cz%2Fpost%2F120439171499%2Fseznamcz-revenues-for-2014-exceeded-czk-3-billion&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeznam.cz" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-fs2011-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-fs2011_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fs2011_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-fs2011_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-fs2011_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Financial statements of
+Seznam.cz, a.s. for year 2010, auditor PricewaterhauseCoopers Audit, s.r.o., available at justice.cz</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://twitter.com/Feixm/status/263944364940746752">"Michal Feix on Twitter"</a>. <i>Twitter</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Twitter&amp;rft.atitle=Michal+Feix+on+Twitter&amp;rft_id=https%3A%2F%2Ftwitter.com%2FFeixm%2Fstatus%2F263944364940746752&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeznam.cz" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-alexa-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-alexa_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.alexa.com/siteinfo/seznam.cz">"seznam.cz Site Info"</a>. <a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa Internet</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-01-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=seznam.cz+Site+Info&amp;rft.pub=Alexa+Internet&amp;rft_id=http%3A%2F%2Fwww.alexa.com%2Fsiteinfo%2Fseznam.cz&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeznam.cz" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://eng.kurzy.cz/netmonitor/seznam-cz">Netmonitor Seznam.cz</a> Results of Netmonitor web analytics project at kurzy.cz</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.marketingpilgrim.com/2008/09/standing-between-google-and-world-domination.html">"Standing Between Google and World Domination"</a>. <i>marketingpilgrim.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=marketingpilgrim.com&amp;rft.atitle=Standing+Between+Google+and+World+Domination&amp;rft_id=http%3A%2F%2Fwww.marketingpilgrim.com%2F2008%2F09%2Fstanding-between-google-and-world-domination.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeznam.cz" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://or.justice.cz/ias/content/download?id=5133022cfa1b44e0ac1a568b0c386548">"General meeting of stakeholders"</a>. 17 September 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">23 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=General+meeting+of+stakeholders&amp;rft.date=2015-09-17&amp;rft_id=https%3A%2F%2For.justice.cz%2Fias%2Fcontent%2Fdownload%3Fid%3D5133022cfa1b44e0ac1a568b0c386548&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeznam.cz" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seznam.cz&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Seznam.cz" class="extiw" title="commons:Category:Seznam.cz">Seznam.cz</a></b></i>.</td></tr></tbody></table>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.seznam.cz">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090609011603/http://us.ft.com/ftgateway/superpage.ft?news_id=fto091620081227400726&amp;page=2">Google still struggling to conquer outposts</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ce-review.org/00/4/stroehlein4.html">Ivo Lukačovič on the Czech Internet, media and politics</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Web_search_engines" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Web_search_engines" title="Template:Web search engines"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Web_search_engines" title="Template talk:Web search engines"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_search_engines&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Web_search_engines" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_search_engine" title="Web search engine">Web search engines</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Active</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AOL" title="AOL">AOL</a></li>
+<li><a href="/wiki/Ahmia" title="Ahmia">Ahmia</a></li>
+<li><a href="/wiki/Ask.com" title="Ask.com">Ask.com</a></li>
+<li><a href="/wiki/Baidu" title="Baidu">Baidu</a></li>
+<li><a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a></li>
+<li><a href="/wiki/Blackle" title="Blackle">Blackle</a></li>
+<li><a href="/wiki/Dogpile" title="Dogpile">Dogpile</a></li>
+<li><a href="/wiki/DuckDuckGo" title="DuckDuckGo">DuckDuckGo</a></li>
+<li><a href="/wiki/Ecosia" title="Ecosia">Ecosia</a></li>
+<li><a href="/wiki/Exalead" title="Exalead">Exalead</a></li>
+<li><a href="/wiki/Excite" title="Excite">Excite</a></li>
+<li><a href="/wiki/GenieKnows" title="GenieKnows">GenieKnows</a></li>
+<li><a href="/wiki/Gigablast" title="Gigablast">Gigablast</a></li>
+<li><a href="/wiki/Google_Search" title="Google Search">Google</a></li>
+<li><a href="/wiki/Info.com" title="Info.com">Info.com</a></li>
+<li><a href="/wiki/Ixquick" title="Ixquick">Ixquick</a></li>
+<li><a href="/wiki/Lycos" title="Lycos">Lycos</a></li>
+<li><a href="/wiki/Naver" title="Naver">Naver</a></li>
+<li><a href="/wiki/Qwant" title="Qwant">Qwant</a></li>
+<li><a href="/wiki/Parsijoo" title="Parsijoo">Parsijoo</a></li>
+<li><a href="/wiki/Picollator" title="Picollator">Picollator</a></li>
+<li><a href="/wiki/SAPO_(company)" title="SAPO (company)">SAPO</a></li>
+<li><a href="/wiki/Scout_(travel_website)" title="Scout (travel website)">Scout</a></li>
+<li><a href="/wiki/Searx" title="Searx">Searx</a></li>
+<li><a class="mw-selflink selflink">Seznam.cz</a></li>
+<li><a href="/wiki/Sogou" title="Sogou">Sogou</a></li>
+<li><a href="/wiki/Sputnik_(search_engine)" title="Sputnik (search engine)">Sputnik</a></li>
+<li><a href="/wiki/Ixquick#Startpage.com" title="Ixquick">Startpage</a></li>
+<li><a href="/wiki/WebCrawler" title="WebCrawler">WebCrawler</a></li>
+<li><a href="/wiki/YaCy" title="YaCy">YaCy</a></li>
+<li><a href="/wiki/Yahoo!_Search" title="Yahoo! Search">Yahoo!</a></li>
+<li><a href="/wiki/Yandex_Search" title="Yandex Search">Yandex</a></li>
+<li><a href="/wiki/Yooz" title="Yooz">Yooz</a></li>
+<li><a href="/wiki/Youdao" title="Youdao">Youdao</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Inactive</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/123people" title="123people">123people</a></li>
+<li><a href="/wiki/A9.com" title="A9.com">A9.com</a></li>
+<li><a href="/wiki/Aliweb" title="Aliweb">Aliweb</a></li>
+<li><a href="/wiki/AlltheWeb" title="AlltheWeb">AlltheWeb</a></li>
+<li><a href="/wiki/AltaVista" title="AltaVista">AltaVista</a></li>
+<li><a href="/wiki/Blekko" title="Blekko">Blekko</a></li>
+<li><a href="/wiki/Boogami" title="Boogami">Boogami</a></li>
+<li><a href="/wiki/Cuil" title="Cuil">Cuil</a></li>
+<li><a href="/wiki/Empas" title="Empas">Empas</a></li>
+<li><a href="/wiki/Forestle" title="Forestle">Forestle</a></li>
+<li><a href="/wiki/Go.com" title="Go.com">Go.com</a></li>
+<li><a href="/wiki/Infoseek" title="Infoseek">Infoseek</a></li>
+<li><a href="/wiki/Inktomi" title="Inktomi">Inktomi</a></li>
+<li><a href="/wiki/JumpStation" title="JumpStation">JumpStation</a></li>
+<li><a href="/wiki/LeapFish" title="LeapFish">LeapFish</a></li>
+<li><a href="/wiki/Mugurdy" title="Mugurdy">Mugurdy</a></li>
+<li><a href="/wiki/Northern_Light_Group" title="Northern Light Group">Northern Light</a></li>
+<li><a href="/wiki/Powerset_(company)" title="Powerset (company)">Powerset</a></li>
+<li><a href="/wiki/Scroogle" class="mw-redirect" title="Scroogle">Scroogle</a></li>
+<li><a href="/wiki/SearchMe" title="SearchMe">SearchMe</a></li>
+<li><a href="/wiki/Soso.com" class="mw-redirect" title="Soso.com">Soso.com</a></li>
+<li><a href="/wiki/Teoma" title="Teoma">Teoma</a></li>
+<li><a href="/wiki/Viewzi" title="Viewzi">Viewzi</a></li>
+<li><a href="/wiki/Vivisimo" title="Vivisimo">Vivisimo</a></li>
+<li><a href="/wiki/Volunia" title="Volunia">Volunia</a></li>
+<li><a href="/wiki/W3Catalog" title="W3Catalog">W3Catalog</a></li>
+<li><a href="/wiki/Wikiseek" title="Wikiseek">Wikiseek</a></li>
+<li><a href="/wiki/Yebol" title="Yebol">Yebol</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/List_of_search_engines" title="List of search engines">Complete list</a></li>
+<li><a href="/wiki/Comparison_of_web_search_engines" title="Comparison of web search engines">Comparison</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2229
+Cached time: 20180927164247
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.376 seconds
+Real time usage: 0.486 seconds
+Preprocessor visited node count: 2410/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 45393/2097152 bytes
+Template argument size: 5874/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5958/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.163/10.000 seconds
+Lua memory usage: 3.78 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  414.820      1 -total
+ 33.30%  138.129      1 Template:Infobox_dot-com_company
+ 27.66%  114.719      1 Template:Infobox
+ 23.93%   99.248      7 Template:Citation_needed
+ 21.11%   87.566      7 Template:Fix
+ 13.77%   57.103      1 Template:Refimprove
+ 11.63%   48.245      5 Template:Cite_web
+ 10.98%   45.546      7 Template:Delink
+  8.39%   34.794     14 Template:Category_handler
+  8.23%   34.160      1 Template:Ambox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:21577339-0!canonical and timestamp 20180927164247 and revision id 851649480
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Seznam.cz&amp;oldid=851649480">https://en.wikipedia.org/w/index.php?title=Seznam.cz&amp;oldid=851649480</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Software_companies_of_the_Czech_Republic" title="Category:Software companies of the Czech Republic">Software companies of the Czech Republic</a></li><li><a href="/wiki/Category:Czech_websites" title="Category:Czech websites">Czech websites</a></li><li><a href="/wiki/Category:Internet_companies_of_the_Czech_Republic" title="Category:Internet companies of the Czech Republic">Internet companies of the Czech Republic</a></li><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li><li><a href="/wiki/Category:Webmail" title="Category:Webmail">Webmail</a></li><li><a href="/wiki/Category:Internet_properties_established_in_1996" title="Category:Internet properties established in 1996">Internet properties established in 1996</a></li><li><a href="/wiki/Category:Web_portals" title="Category:Web portals">Web portals</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_November_2014" title="Category:Articles needing additional references from November 2014">Articles needing additional references from November 2014</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_November_2015" title="Category:Articles containing potentially dated statements from November 2015">Articles containing potentially dated statements from November 2015</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2014" title="Category:Articles with unsourced statements from November 2014">Articles with unsourced statements from November 2014</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2012" title="Category:Articles with unsourced statements from January 2012">Articles with unsourced statements from January 2012</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2012" title="Category:Articles with unsourced statements from August 2012">Articles with unsourced statements from August 2012</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2015" title="Category:Articles with unsourced statements from May 2015">Articles with unsourced statements from May 2015</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2015" title="Category:Articles with unsourced statements from November 2015">Articles with unsourced statements from November 2015</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Seznam.cz" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Seznam.cz" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Seznam.cz" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Seznam.cz" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Seznam.cz">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Seznam.cz&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Seznam.cz&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Seznam.cz" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Seznam.cz" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Seznam.cz&amp;oldid=851649480" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Seznam.cz&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3490485" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Seznam.cz&amp;id=851649480" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Seznam.cz">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Seznam.cz&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Seznam.cz&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Seznam.cz" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Seznam.cz" title="Seznam.cz – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Seznam.cz" title="Seznam.cz – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D8%B2%D9%86%D9%85" title="سزنم – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Seznam.cz" title="Seznam.cz – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Seznam.cz" title="Seznam.cz – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Seznam.cz" title="Seznam.cz – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3490485#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 23 July 2018, at 17:58<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Seznam.cz&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.376","walltime":"0.486","ppvisitednodes":{"value":2410,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":45393,"limit":2097152},"templateargumentsize":{"value":5874,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":5958,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  414.820      1 -total"," 33.30%  138.129      1 Template:Infobox_dot-com_company"," 27.66%  114.719      1 Template:Infobox"," 23.93%   99.248      7 Template:Citation_needed"," 21.11%   87.566      7 Template:Fix"," 13.77%   57.103      1 Template:Refimprove"," 11.63%   48.245      5 Template:Cite_web"," 10.98%   45.546      7 Template:Delink","  8.39%   34.794     14 Template:Category_handler","  8.23%   34.160      1 Template:Ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.163","limit":"10.000"},"limitreport-memusage":{"value":3959077,"limit":52428800}},"cachereport":{"origin":"mw2229","timestamp":"20180927164247","ttl":86400,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":588,"wgHostname":"mw2229"});});</script>
+	</body>
+</html>

@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Video search engine - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Video_search_engine","wgTitle":"Video search engine","wgCurRevisionId":816962057,"wgRevisionId":816962057,"wgArticleId":2849204,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Catalan-language external links","Webarchive template wayback links","Internet search engines","Multimedia"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Video_search_engine","wgRelevantArticleId":2849204,"wgRequestId":"W7ATSArAAEMAADtEI80AAACD","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q3775098","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Video_search_engine"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Video_search_engine&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Video_search_engine&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Video_search_engine"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Video_search_engine rootpage-Video_search_engine skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Video search engine</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>A <b>video search engine</b> is a web-based <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engine</a> which <a href="/wiki/Web_crawler" title="Web crawler">crawls</a> the web for <a href="/wiki/Video" title="Video">video</a> content. Some video search engines parse externally hosted content while others allow content to be uploaded and hosted on their own servers. Some engines also allow users to search by video format type and by length of the clip. The video search results are usually accompanied by a <a href="/wiki/Thumbnail" title="Thumbnail">thumbnail</a> view of the video.
+</p><p>Video search engines are computer programs designed to find videos stored on digital devices, either through Internet servers or in storage units from the same computer. These searches can be made through audiovisual indexing, which can extract information from audiovisual material and record it as metadata, which will be tracked by search engines.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Utility"><span class="tocnumber">1</span> <span class="toctext">Utility</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Search_criterion"><span class="tocnumber">2</span> <span class="toctext">Search criterion</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Metadata"><span class="tocnumber">2.1</span> <span class="toctext">Metadata</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Internal_metadata"><span class="tocnumber">2.1.1</span> <span class="toctext">Internal metadata</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#External_metadata"><span class="tocnumber">2.1.2</span> <span class="toctext">External metadata</span></a>
+<ul>
+<li class="toclevel-4 tocsection-6"><a href="#Title_and_description"><span class="tocnumber">2.1.2.1</span> <span class="toctext">Title and description</span></a></li>
+<li class="toclevel-4 tocsection-7"><a href="#Filename"><span class="tocnumber">2.1.2.2</span> <span class="toctext">Filename</span></a></li>
+<li class="toclevel-4 tocsection-8"><a href="#Tags"><span class="tocnumber">2.1.2.3</span> <span class="toctext">Tags</span></a></li>
+<li class="toclevel-4 tocsection-9"><a href="#Transcription_and_subtitles"><span class="tocnumber">2.1.2.4</span> <span class="toctext">Transcription and subtitles</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#Speech_recognition"><span class="tocnumber">2.2</span> <span class="toctext">Speech recognition</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Text_recognition"><span class="tocnumber">2.3</span> <span class="toctext">Text recognition</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Frame_analysis"><span class="tocnumber">2.4</span> <span class="toctext">Frame analysis</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Ranking_criterion"><span class="tocnumber">3</span> <span class="toctext">Ranking criterion</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Order_by_relevance"><span class="tocnumber">3.1</span> <span class="toctext">Order by relevance</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Order_by_date_of_upload"><span class="tocnumber">3.2</span> <span class="toctext">Order by date of upload</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Order_by_number_of_views"><span class="tocnumber">3.3</span> <span class="toctext">Order by number of views</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Order_by_length"><span class="tocnumber">3.4</span> <span class="toctext">Order by length</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Order_by_user_rating"><span class="tocnumber">3.5</span> <span class="toctext">Order by user rating</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Interfaces"><span class="tocnumber">4</span> <span class="toctext">Interfaces</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#Internet"><span class="tocnumber">4.1</span> <span class="toctext">Internet</span></a>
+<ul>
+<li class="toclevel-3 tocsection-21"><a href="#Repositories_with_video_searcher"><span class="tocnumber">4.1.1</span> <span class="toctext">Repositories with video searcher</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#Video_searchers_repositories"><span class="tocnumber">4.1.2</span> <span class="toctext">Video searchers repositories</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-23"><a href="#Private_network"><span class="tocnumber">4.2</span> <span class="toctext">Private network</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-24"><a href="#Design_and_algorithms"><span class="tocnumber">5</span> <span class="toctext">Design and algorithms</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#Video_search_engines"><span class="tocnumber">6</span> <span class="toctext">Video search engines</span></a>
+<ul>
+<li class="toclevel-2 tocsection-26"><a href="#Agnostic_search"><span class="tocnumber">6.1</span> <span class="toctext">Agnostic search</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Non-agnostic_search"><span class="tocnumber">6.2</span> <span class="toctext">Non-agnostic search</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-29"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Utility">Utility</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=1" title="Edit section: Utility">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>the main use of these search engines is the increasing creation of audiovisual content and the need to manage it properly. The digitization of audiovisual archives and the establishment of the Internet, has led to large quantities of video files stored in big databases, whose recovery can be very difficult because of the huge volumes of data and the existence of a semantic gap.
+</p>
+<h2><span class="mw-headline" id="Search_criterion">Search criterion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=2" title="Edit section: Search criterion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The search criterion used by each search engine depends on its nature and purpose of the searches.
+</p>
+<h3><span class="mw-headline" id="Metadata">Metadata</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=3" title="Edit section: Metadata">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Metadata is information about facts. It could be information about who is the author of the video, creation date, duration, and all the information that could be extracted and included in the same files. Internet is often used in a language called XML to encode metadata, which works very well through the web and is readable by people. Thus, through this information contained in these files is the easiest way to find data of interest to us.
+</p><p>In the videos there are two types of metadata, that we can integrate in the video code itself and external metadata from the page where the video is. In both cases we optimize them to make them ideal when indexed.
+</p>
+<h4><span class="mw-headline" id="Internal_metadata">Internal metadata</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=4" title="Edit section: Internal metadata">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>All video formats incorporate their own metadata. The title, description, coding quality or transcription of the content are possible. To review these data exist programs like FLV MetaData Injector, Sorenson Squeeze or Castfire. Each one has some utilities and special specifications.
+</p><p>Keep in mind that converting from one format to another can lose much of this data, so check that the new format information is correct. It is therefore advisable to have the video in lots of formats, so that all search robots will be able to find and index.
+</p>
+<h4><span class="mw-headline" id="External_metadata">External metadata</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=5" title="Edit section: External metadata">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In most cases the same mechanisms must be applied as in the positioning of an image or text content.
+</p>
+<h5><span class="mw-headline" id="Title_and_description">Title and description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=6" title="Edit section: Title and description">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>They are the most important factors when positioning a video, because they contain most of the necessary information. The titles have to be clearly descriptive and should be removed every word or phrase that is not useful.
+</p>
+<h5><span class="mw-headline" id="Filename">Filename</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=7" title="Edit section: Filename">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>It should be descriptive, including keywords that describe the video with no need to see their title or description. Ideally, separate the words by dashes "-".
+</p>
+<h5><span class="mw-headline" id="Tags">Tags</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=8" title="Edit section: Tags">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>On the page where the video is, it should be a list of keywords linked to the microformat "rel-tag". These words will be used by search engines as a basis for organizing information.
+</p>
+<h5><span class="mw-headline" id="Transcription_and_subtitles">Transcription and subtitles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=9" title="Edit section: Transcription and subtitles">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>Although not completely standard, there are two formats that store information in a temporal component that is specified, one for subtitles and another for transcripts, which can also be used for subtitles. The formats are SRT or SUB for subtitles and TTXT for transcripts.
+</p>
+<h3><span class="mw-headline" id="Speech_recognition">Speech recognition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=10" title="Edit section: Speech recognition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Speech recognition consists of a transcript of the speech of the audio track of the videos, creating a text file. In this way and with the help of a phrase extractor can easily search if the video content is of interest. Some search engines apart from using speech recognition to search for videos, also use it to find the specific point of a multimedia file in which a specific word or phrase is located and so go directly to this point. Gaudi (Google Audio Indexing), a project developed by <a href="/wiki/Google_Labs" title="Google Labs">Google Labs</a>, uses voice recognition technology to locate the exact moment that one or more words have been spoken within an audio, allowing the user to go directly to exact moment that the words were spoken. If the search query matches some videos from YouTube, the positions are indicated by yellow markers, and must pass the mouse over to read the transcribed text.
+</p>
+<h3><span class="mw-headline" id="Text_recognition">Text recognition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=11" title="Edit section: Text recognition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The text recognition can be very useful to recognize characters in the videos through "chyrons". As with speech recognizers, there are search engines that allow (through character recognition) to play a video from a particular point.
+</p><p>TalkMiner, an example of search of specific fragments from videos by text recognition, analyzes each video once per second looking for identifier signs of a slide, such as its shape and static nature, captures the image of the slide and uses Optical Character Recognition (OCR) to detect the words on the slides. Then, these words are indexed in the <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engine</a> of TalkMiner, which currently offers to users more than 20,000 videos from institutions such as Stanford University, the University of California at Berkeley, and TED.
+</p>
+<h3><span class="mw-headline" id="Frame_analysis">Frame analysis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=12" title="Edit section: Frame analysis">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Through the <a href="/wiki/Visual_descriptors" class="mw-redirect" title="Visual descriptors">visual descriptors</a> we can analyze the frames of a video and extract information that can be scored as metadata. Descriptions are generated automatically and can describe different aspects of the frames, such as color, texture, shape, motion, and the situation.
+</p>
+<h2><span class="mw-headline" id="Ranking_criterion">Ranking criterion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=13" title="Edit section: Ranking criterion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The usefulness of a search engine depends on the relevance of the result set returned. While there may be millions of videos that include a particular word or phrase, some videos may be more relevant, popular or have more authority than others. This arrangement has a lot to do with search engine optimization.
+</p><p>Most search engines use different methods to classify the results and provide the best video in the first results. However, most programs allow sorting the results by several criteria.
+</p>
+<h3><span class="mw-headline" id="Order_by_relevance">Order by relevance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=14" title="Edit section: Order by relevance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This criterion is more ambiguous and less objective, but sometimes it is the closest to what we want; depends entirely on the searcher and the algorithm that the owner has chosen. That's why it has always been discussed and now that search results are so ingrained into our society it has been discussed even more. This type of management often depends on the number of times that the searched word comes out, the number of viewings of this, the number of pages that link to this content and ratings given by users who have seen it.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Order_by_date_of_upload">Order by date of upload</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=15" title="Edit section: Order by date of upload">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This is a criterion based totally on timeline. Results can be sorted according to their seniority in the repository.
+</p>
+<h3><span class="mw-headline" id="Order_by_number_of_views">Order by number of views</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=16" title="Edit section: Order by number of views">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It can give us an idea of the popularity of each video.
+</p>
+<h3><span class="mw-headline" id="Order_by_length">Order by length</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=17" title="Edit section: Order by length">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This is the length of the video and can give a taste of which video it is.
+</p>
+<h3><span class="mw-headline" id="Order_by_user_rating">Order by user rating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=18" title="Edit section: Order by user rating">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is common practice in repositories let the users rate the videos, so that a content of quality and relevance will have a high rank on the list of results gaining visibility. This practice is closely related to virtual communities.
+</p>
+<h2><span class="mw-headline" id="Interfaces">Interfaces</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=19" title="Edit section: Interfaces">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>We can distinguish two basic types of interfaces, some are web pages hosted on servers which are accessed by Internet and searched through the network, and the others are computer programs that search within a private network.
+</p>
+<h3><span class="mw-headline" id="Internet">Internet</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=20" title="Edit section: Internet">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Within Internet interfaces we can find repositories that host video files which incorporate a search engine that searches only their own databases, and video searchers without repository that search in sources of external software.
+</p>
+<h4><span class="mw-headline" id="Repositories_with_video_searcher">Repositories with video searcher</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=21" title="Edit section: Repositories with video searcher">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Provides accommodation in video files stored on its servers and usually has an integrated search engine that searches through videos uploaded by its users. One of the first web repositories, or at least the most famous are the portals Vimeo, Dailymotion and YouTube.
+</p><p>Their searches are often based on reading the metadata tags, titles and descriptions that users assign to their videos. The disposal and order criterion of the results of these searches are usually selectable between the file upload date, the number of viewings or what they call the relevance. Still, sorting criterion are nowadays the main weapon of these websites, because the positioning of videos is important in terms of promotion.
+</p>
+<h4><span class="mw-headline" id="Video_searchers_repositories">Video searchers repositories</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=22" title="Edit section: Video searchers repositories">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>They are websites specialized in searching videos across the network or certain pre-selected repositories. They work by web spiders that inspect the network in an automated way to create copies of the visited websites, which will then be indexed by search engines, so they can provide faster searches.
+</p>
+<h3><span class="mw-headline" id="Private_network">Private network</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=23" title="Edit section: Private network">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Esquema_angl%C3%A8s.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Esquema_angl%C3%A8s.jpg/220px-Esquema_angl%C3%A8s.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Esquema_angl%C3%A8s.jpg/330px-Esquema_angl%C3%A8s.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Esquema_angl%C3%A8s.jpg/440px-Esquema_angl%C3%A8s.jpg 2x" data-file-width="598" data-file-height="449" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Esquema_angl%C3%A8s.jpg" class="internal" title="Enlarge"></a></div>Functioning scheme</div></div></div>
+<p>Sometimes a search engine only searches in audiovisual files stored within a computer or, as it happens in televisions, on a private server where users access through a local area network. These searchers are usually software or rich Internet applications with a very specific search options for maximum speed and efficiency when presenting the results. They are typically used for large databases and are therefore highly focused to satisfy the needs of television companies. An example of this type of software would be the Digition Suite, which apart from being a benchmark in this kind of interfaces is very close to us as for the storage and retrieval files system from the <a href="/wiki/Corporaci%C3%B3_Catalana_de_Mitjans_Audiovisuals" title="Corporació Catalana de Mitjans Audiovisuals">Corporació Catalana de Mitjans Audiovisuals</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>This particular suite and perhaps in its strongest point is that it integrates the entire process of creating, indexing, storing, searching, editing, and a recovery. Once we have a digitized audiovisual content is indexed with different techniques of different level depending on the importance of content and it’s stored. The user, when he wants to retrieve a particular file, has to fill a search fields such as program title, issue date, characters who act or the name of the producer, and the robot starts the search. Once the results appear and they arranged according to preferences, the user can play the low quality videos to work as quickly as possible. When he finds the desired content, it is downloaded with good definition, it’s edited and reproduced.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Design_and_algorithms">Design and algorithms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=24" title="Edit section: Design and algorithms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Video search has evolved slowly through several basic search formats which exist today and all use <a href="/wiki/Index_term" title="Index term">keywords</a>.  The keywords for each search can be found in the title of the media, any text attached to the media and content linked web pages, also defined by authors and users of video hosted resources.
+</p><p>Some video search is performed using human powered search, others create technological systems that work automatically to detect what is in the video and match the searchers needs. Many efforts to improve video search including both human powered search as well as writing algorithm that recognize what's inside the video have meant complete redevelopment of search efforts.
+</p><p>It is generally acknowledged that speech to text is possible, though recently Thomas Wilde, the new CEO of Everyzing, acknowledged that Everyzing works 70% of the time when there is music, ambient noise or more than one person speaking. If newscast style speaking (one person, speaking clearly, no ambient noise) is available, that can rise to 93%.  (From the Web Video Summit, San Jose, CA, June 27, 2007).
+</p><p>Around 40 <a href="/wiki/Phonemes" class="mw-redirect" title="Phonemes">phonemes</a> exist in every language with about 400 in all spoken languages. Rather than applying a text search algorithm after speech-to-text processing is completed, some engines use a phonetic search algorithm to find results within the spoken word. Others work by literally listening to the entire podcast and creating a text transcription using a sophisticated speech-to-text process.  Once the text file is created, the file can be searched for any number of search words and phrases.
+</p><p>It is generally acknowledged that visual search into video does not work well and that no company is using it publicly.  Researchers at UC San Diego and Carnegie Mellon University have been working on the visual search problem for more than 15 years, and admitted at a "Future of Search" conference at UC Berkeley in the Spring of 2007 that it was years away from being viable even in simple search.
+</p>
+<h2><span class="mw-headline" id="Video_search_engines">Video search engines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=25" title="Edit section: Video search engines">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Agnostic_search">Agnostic search</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=26" title="Edit section: Agnostic search">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Search that is not affected by the hosting of video, where results are agnostic no matter where the video is located:
+</p>
+<ul><li><b><a href="/wiki/Blinkx" class="mw-redirect" title="Blinkx">blinkx</a></b> was launched in 2004 and uses speech recognition and visual analysis to process spidered video rather than rely on metadata alone.  blinkx claims to have the largest archive of video on the web and puts its collection at around 26,000,000 hours of content.</li>
+<li><b><a href="/wiki/CastTV" title="CastTV">CastTV</a></b> is a Web-wide video search engine that was founded in 2006 and funded by <a href="/wiki/Draper_Fisher_Jurvetson" title="Draper Fisher Jurvetson">Draper Fisher Jurvetson</a>, <a href="/wiki/Ron_Conway" title="Ron Conway">Ron Conway</a>, and <a href="/wiki/Marc_Andreessen" title="Marc Andreessen">Marc Andreessen</a>.</li>
+<li><b><a href="/wiki/Munax" title="Munax">Munax</a></b> released their first version all-content search engine in 2005 and powers both nationwide and worldwide search engines with video search.</li>
+<li><b><a href="/wiki/Picsearch" title="Picsearch">Picsearch</a> Video Search</b> has been licensed to search portals since 2006. Picsearch is a search technology provider who powers image, video and audio search for over 100 major search engines around the world.</li>
+<li><b><a href="/wiki/ScienceStage" title="ScienceStage">ScienceStage</a></b> is an integrated universal search engine for science-oriented video (lectures, conferences, documentaries, webinars, tutorials, demonstrations, grand rounds, etc.).  All videos are also semantically matched to millions of research documents from open-access databases.</li></ul>
+<h3><span class="mw-headline" id="Non-agnostic_search">Non-agnostic search</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=27" title="Edit section: Non-agnostic search">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Search results are modified, or suspect, due to the large hosted video being given preferential treatment in search results:
+</p>
+<ul><li><b><a href="/wiki/AOL" title="AOL">AOL</a> Video</b> offers a video search engine that can be used to find video located on popular video destinations across the web. In December 2005, AOL acquired <a href="/wiki/Truveo" title="Truveo">Truveo</a> Video Search.</li>
+<li><b><a href="/wiki/Google_Videos" title="Google Videos">Google Videos</a></b> is a video search engine from <a href="/wiki/Google" title="Google">Google</a>.</li>
+<li><b>Bing video search</b> is a search engine powered by <a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a> and also used by <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a> Video Search.</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=28" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Content-based_image_retrieval" title="Content-based image retrieval">Content-based image retrieval</a></li>
+<li><a href="/wiki/Metadata" title="Metadata">Metadata</a></li>
+<li><a href="/wiki/Optical_character_recognition" title="Optical character recognition">Optical character recognition</a></li>
+<li><a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">Search engine</a></li>
+<li><a href="/wiki/Search_engine_optimization" title="Search engine optimization">Search engine optimization</a></li>
+<li><a href="/wiki/Speech_recognition" title="Speech recognition">Speech recognition</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=29" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="languageicon">(in English)</span> <a rel="nofollow" class="external text" href="http://www.google.com/support/webmasters/bin/answer.py?hl=en&amp;answer=35291">SEO by Google central webmaster</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="languageicon">(in Catalan)</span> <a rel="nofollow" class="external text" href="http://escac.documentacioinformativa.com/sessio1/lectures/digition.pdf">Digitalize or die (Alícia Conesa) </a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110708130446/http://escac.documentacioinformativa.com/sessio1/lectures/digition.pdf">Archived</a> July 8, 2011, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="languageicon">(in Catalan)</span> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160923134435/http://www.tvtechnology.com/multiformat/0112/tv-barcelona/253362">Digition Suite from Activa Multimedia</a></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_search_engine&amp;action=edit&amp;section=30" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.tuneslio.ml">Process of search engines <i>How Stuff Works</i></a> <span class="languageicon">(in English)</span></li></ul>
+<p><span class="languageicon">(in Catalan)</span>
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw2233
+Cached time: 20180929134437
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.096 seconds
+Real time usage: 0.127 seconds
+Preprocessor visited node count: 277/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 1880/2097152 bytes
+Template argument size: 28/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1595/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.027/10.000 seconds
+Lua memory usage: 1.61 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   75.289      1 -total
+ 78.05%   58.761      4 Template:Link_language
+ 72.94%   54.913      2 Template:En_icon
+ 32.02%   24.104      4 Template:Category_handler
+ 13.46%   10.131      1 Template:Webarchive
+ 10.84%    8.162      3 Template:Ca_icon
+  2.31%    1.736      2 Template:ISO_639_name_en
+  1.78%    1.337      4 Template:ISO_639_name_ca
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2849204-0!canonical and timestamp 20180929134436 and revision id 816962057
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Video_search_engine&amp;oldid=816962057">https://en.wikipedia.org/w/index.php?title=Video_search_engine&amp;oldid=816962057</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li><li><a href="/wiki/Category:Multimedia" title="Category:Multimedia">Multimedia</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_Catalan-language_external_links" title="Category:Articles with Catalan-language external links">Articles with Catalan-language external links</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Video+search+engine" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Video+search+engine" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Video_search_engine" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Video_search_engine" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Video_search_engine">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Video_search_engine&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Video_search_engine&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Video_search_engine" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Video_search_engine" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Video_search_engine&amp;oldid=816962057" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Video_search_engine&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3775098" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Video_search_engine&amp;id=816962057" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Video+search+engine">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Video+search+engine&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Video_search_engine&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D8%B1%D9%83_%D8%A8%D8%AD%D8%AB_%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88" title="محرك بحث الفيديو – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Cercadors_de_v%C3%ADdeos" title="Cercadors de vídeos – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Buscador_de_v%C3%ADdeo" title="Buscador de vídeo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3775098#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 December 2017, at 01:22<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Video_search_engine&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.096","walltime":"0.127","ppvisitednodes":{"value":277,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":1880,"limit":2097152},"templateargumentsize":{"value":28,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1595,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   75.289      1 -total"," 78.05%   58.761      4 Template:Link_language"," 72.94%   54.913      2 Template:En_icon"," 32.02%   24.104      4 Template:Category_handler"," 13.46%   10.131      1 Template:Webarchive"," 10.84%    8.162      3 Template:Ca_icon","  2.31%    1.736      2 Template:ISO_639_name_en","  1.78%    1.337      4 Template:ISO_639_name_ca"]},"scribunto":{"limitreport-timeusage":{"value":"0.027","limit":"10.000"},"limitreport-memusage":{"value":1683134,"limit":52428800}},"cachereport":{"origin":"mw2233","timestamp":"20180929134437","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw2241"});});</script>
+	</body>
+</html>

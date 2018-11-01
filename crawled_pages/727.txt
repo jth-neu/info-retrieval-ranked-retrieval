@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Not proven - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Not_proven","wgTitle":"Not proven","wgCurRevisionId":851948892,"wgRevisionId":851948892,"wgArticleId":708207,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from July 2018","Articles with permanently dead external links","Articles needing additional references from May 2010","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from February 2007","Articles with unsourced statements from February 2012","Articles with unsourced statements from January 2012","Use dmy dates from June 2011","Scots language","Scottish criminal law","Scots law legal terminology","High Court of Justiciary"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Not_proven","wgRelevantArticleId":708207,"wgRequestId":"W6@NJwrAIFAAAJn6VCsAAAAF","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q2920228","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Not_proven"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Not_proven&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Not_proven&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Not_proven"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Not_proven rootpage-Not_proven skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Not proven</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Not_proven&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(May 2010)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Criminal_procedure" title="Criminal procedure">Criminal procedure</a></th></tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;font-weight:normal; padding:0 0 0.6em;">
+Criminal trials and convictions</td></tr><tr><th style="padding:0.1em;background:#aaddff; color:#000;">
+Rights of the accused</th></tr><tr><td style="padding:0 0.1em 0.4em;padding-top:0.25em;">
+<div class="hlist">
+<ul><li><a href="/wiki/Right_to_a_fair_trial" title="Right to a fair trial">Fair trial</a></li>
+<li><a href="/wiki/Pre-trial" class="mw-redirect" title="Pre-trial">Pre-trial</a></li>
+<li><a href="/wiki/Speedy_trial" title="Speedy trial">Speedy trial</a></li>
+<li><a href="/wiki/Jury_trial" title="Jury trial">Jury trial</a></li>
+<li><a href="/wiki/Right_to_counsel" title="Right to counsel">Counsel</a></li>
+<li><a href="/wiki/Presumption_of_innocence" title="Presumption of innocence">Presumption of innocence</a></li>
+<li><a href="/wiki/Exclusionary_rule" title="Exclusionary rule">Exclusionary rule</a><sup><small>1</small></sup></li>
+<li><a href="/wiki/Self-incrimination" title="Self-incrimination">Self-incrimination</a></li>
+<li><a href="/wiki/Double_jeopardy" title="Double jeopardy">Double jeopardy</a><sup><small>2</small></sup></li></ul>
+</div></td>
+</tr><tr><th style="padding:0.1em;background:#aaddff; color:#000;">
+<a href="/wiki/Verdict" title="Verdict">Verdict</a></th></tr><tr><td style="padding:0 0.1em 0.4em;padding-top:0.25em;">
+<div class="hlist">
+<ul><li><a href="/wiki/Conviction" title="Conviction">Conviction</a></li>
+<li><a href="/wiki/Acquittal" title="Acquittal">Acquittal</a></li>
+<li><a class="mw-selflink selflink">Not proven</a><sup><small>3</small></sup></li>
+<li><a href="/wiki/Directed_verdict" class="mw-redirect" title="Directed verdict">Directed verdict</a></li></ul>
+</div></td>
+</tr><tr><th style="padding:0.1em;background:#aaddff; color:#000;">
+<a href="/wiki/Sentence_(law)" title="Sentence (law)">Sentencing</a></th></tr><tr><td style="padding:0 0.1em 0.4em;padding-top:0.25em;">
+<div class="hlist">
+<ul><li><a href="/wiki/Mandatory_sentencing" title="Mandatory sentencing">Mandatory</a></li>
+<li><a href="/wiki/Suspended_sentence" title="Suspended sentence">Suspended</a></li>
+<li><a href="/wiki/Custodial_sentence" title="Custodial sentence">Custodial</a></li>
+<li><a href="/wiki/Discharge_(sentence)" title="Discharge (sentence)">Discharge</a></li>
+<li><a href="/wiki/Sentencing_guidelines" title="Sentencing guidelines">Guidelines</a></li></ul>
+</div>
+<ul><li><a href="/wiki/Totality_principle" title="Totality principle">Totality</a><sup><small>5,&#160;6</small></sup></li>
+<li><a href="/wiki/Dangerous_offender" title="Dangerous offender">Dangerous offender</a><sup><small>4,&#160;5</small></sup></li></ul>
+<div class="hlist">
+<ul><li><a href="/wiki/Capital_punishment" title="Capital punishment">Capital punishment</a></li>
+<li><a href="/wiki/Execution_warrant" title="Execution warrant">Execution warrant</a></li></ul>
+</div>
+<ul><li><a href="/wiki/Cruel_and_unusual_punishment" title="Cruel and unusual punishment">Cruel and unusual punishment</a></li></ul>
+<div class="hlist">
+<ul><li><a href="/wiki/Imprisonment" title="Imprisonment">Imprisonment</a></li>
+<li><a href="/wiki/Life_imprisonment" title="Life imprisonment">Life imprisonment</a></li>
+<li><a href="/wiki/Indefinite_imprisonment" title="Indefinite imprisonment">Indefinite imprisonment</a></li></ul>
+</div></td>
+</tr><tr><th style="padding:0.1em;background:#aaddff; color:#000;">
+Post-sentencing</th></tr><tr><td style="padding:0 0.1em 0.4em;padding-top:0.25em;">
+<div class="hlist">
+<ul><li><a href="/wiki/Parole" title="Parole">Parole</a></li>
+<li><a href="/wiki/Probation" title="Probation">Probation</a></li>
+<li><a href="/wiki/Life_imprisonment_(England_and_Wales)" class="mw-redirect" title="Life imprisonment (England and Wales)">Tariff</a>&#160;<sup><small>6</small></sup></li>
+<li><a href="/wiki/Life_imprisonment_(England_and_Wales)" class="mw-redirect" title="Life imprisonment (England and Wales)">Life licence</a><sup><small>6</small></sup></li>
+<li><a href="/wiki/Miscarriage_of_justice" title="Miscarriage of justice">Miscarriage of justice</a></li>
+<li><a href="/wiki/Exoneration" title="Exoneration">Exoneration</a></li>
+<li><a href="/wiki/Pardon" title="Pardon">Pardon</a></li>
+<li><a href="/wiki/Sex_offender_registration" class="mw-redirect" title="Sex offender registration">Sex offender registration</a></li>
+<li><a href="/wiki/Sexually_violent_predator_legislation" class="mw-redirect" title="Sexually violent predator legislation">Sexually violent predator legislation</a><sup><small>1</small></sup></li></ul>
+</div></td>
+</tr><tr><th style="padding:0.1em;background:#aaddff; color:#000;">
+Related areas of law</th></tr><tr><td style="padding:0 0.1em 0.4em;padding-top:0.25em;">
+<div class="hlist">
+<ul><li><a href="/wiki/Category:Criminal_defenses" title="Category:Criminal defenses">Criminal defenses</a></li>
+<li><a href="/wiki/Criminal_law" title="Criminal law">Criminal law</a></li>
+<li><a href="/wiki/Evidence_(law)" title="Evidence (law)">Evidence</a></li>
+<li><a href="/wiki/Civil_procedure" title="Civil procedure">Civil procedure</a></li></ul>
+</div></td>
+</tr><tr><th style="padding:0.1em;background:#aaddff; color:#000;">
+Portals</th></tr><tr><td style="padding:0 0.1em 0.4em;padding-top:0.25em;;padding-bottom:0.75em;">
+<div class="hlist">
+<ul><li><a href="/wiki/Portal:Law" title="Portal:Law">Law</a></li>
+<li><a href="/wiki/Portal:Criminal_justice" title="Portal:Criminal justice">Criminal justice</a></li></ul>
+</div></td>
+</tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;padding:0.4em;border-top:1px #aaa solid;font-weight:normal;font-size:smaller; font-size:100%;border-bottom:1px solid #aaa;">
+<div class="hlist">
+<ul><li><span style="font-size:85%;"><sup><small>1</small></sup>&#160;<a href="/wiki/Courts_of_the_United_States" class="mw-redirect" title="Courts of the United States">US courts</a></span></li>
+<li><span style="font-size:85%;"><sup><small>2</small></sup>&#160;Not in <a href="/wiki/Courts_of_England_and_Wales" title="Courts of England and Wales">English/Welsh courts</a></span></li>
+<li><span style="font-size:85%;"><sup><small>3</small></sup>&#160;<a href="/wiki/Courts_of_Scotland" title="Courts of Scotland">Scottish courts</a></span></li>
+<li><span style="font-size:85%;"><sup><small>4</small></sup>&#160;English/Welsh courts</span></li>
+<li><span style="font-size:85%;"><sup><small>5</small></sup>&#160;<a href="/wiki/Courts_of_Canada" class="mw-redirect" title="Courts of Canada">Canadian courts</a></span></li>
+<li><span style="font-size:85%;"><sup><small>6</small></sup>&#160;<a href="/wiki/Courts_of_the_United_Kingdom" title="Courts of the United Kingdom">UK courts</a></span></li></ul>
+</div></td></tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Criminal_procedure_(trial)" title="Template:Criminal procedure (trial)"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Criminal_procedure_(trial)" title="Template talk:Criminal procedure (trial)"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Criminal_procedure_(trial)&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Not proven</b> is a <a href="/wiki/Verdict" title="Verdict">verdict</a> available to a <a href="/wiki/Courts_of_Scotland" title="Courts of Scotland">court</a> in Scotland. Under <a href="/wiki/Scots_law" title="Scots law">Scots law</a>, a <a href="/wiki/Criminal_procedure" title="Criminal procedure">criminal trial</a> may end in one of three verdicts: one of <a href="/wiki/Conviction" title="Conviction">conviction</a> ("guilty") and two of <a href="/wiki/Acquittal" title="Acquittal">acquittal</a> ("not proven" and "not guilty").<sup id="cite_ref-Duff_1-0" class="reference"><a href="#cite_note-Duff-1">&#91;1&#93;</a></sup><sup id="cite_ref-In3V_2-0" class="reference"><a href="#cite_note-In3V-2">&#91;2&#93;</a></sup>
+</p><p>Historically, the two verdicts available to Scots <a href="/wiki/Jury" title="Jury">juries</a> were that the case had been "proven" or "not proven". However, in a 1728 murder trial, the jury asserted "its ancient right" to declare a defendant "not guilty".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Over time, the "not guilty" verdict gained wide acceptance and use amongst Scots juries, a trend that was encouraged by defence lawyers. It eventually displaced "not proven" as the primary verdict of acquittal.
+</p><p>The result is the modern perception that the "not proven" verdict is an <a href="/wiki/Acquittal" title="Acquittal">acquittal</a> used when the <a href="/wiki/Judge" title="Judge">judge</a> or <a href="/wiki/Jury" title="Jury">jury</a> does not have enough <a href="/wiki/Evidence_(law)" title="Evidence (law)">evidence</a> to <a href="/wiki/Conviction" title="Conviction">convict</a> but is not sufficiently convinced of the accused person's innocence to bring in a "not guilty" verdict. Essentially, the judge or jury is unconvinced that the suspect is innocent, but guilt has not been proven "beyond <a href="/wiki/Reasonable_doubt" title="Reasonable doubt">reasonable doubt</a>". There is no difference between the legal effects of a "not guilty" and "not proven" verdict, which both acquit the defendant.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>Out of the country, the "not proven" verdict may be referred to as the <b>Scottish verdict</b>, and in Scotland itself it may be referred to colloquially as the <b>bastard verdict</b>,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> which was a term coined by <a href="/wiki/Sir_Walter_Scott" class="mw-redirect" title="Sir Walter Scott">Sir Walter Scott</a>, who was sheriff in the court of <a href="/wiki/Selkirk,_Scottish_Borders" title="Selkirk, Scottish Borders">Selkirk</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Not_guilty"><span class="tocnumber">1.1</span> <span class="toctext">Not guilty</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Modern_usage"><span class="tocnumber">2</span> <span class="toctext">Modern usage</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Criticism"><span class="tocnumber">3</span> <span class="toctext">Criticism</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Use_in_other_jurisdictions"><span class="tocnumber">4</span> <span class="toctext">Use in other jurisdictions</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Cases_which_resulted_in_a_not_proven_verdict"><span class="tocnumber">5</span> <span class="toctext">Cases which resulted in a not proven verdict</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Not_proven&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The three verdict system was established in Scots law by 1728 (since then juries have been able to pass a <i><a href="/wiki/Acquittal" title="Acquittal">not guilty</a></i> verdict).  For some time before this, there were just two verdicts: <i>Proven</i> and <i>Not proven</i>; scholars dispute the origins of this system.
+</p><p>On one account, advanced two hundred years ago by the historians <a href="/wiki/David_Hume" title="David Hume">Hume</a> and <a href="/wiki/Hugo_Arnot" title="Hugo Arnot">Arnot</a>, the older distinctively Scottish two verdict system was rooted in religious oppression. The Crown persecuted the <a href="/wiki/Covenanters" class="mw-redirect" title="Covenanters">Covenanters</a> but popular support made it impossible to convict them in a jury trial. To pare the power of the jury, the Scottish judges began restricting the jury's role: no longer would the jury announce whether the accused was "guilty" or "not guilty"; instead it would decide whether specific factual allegations were "proven" or "not proven"; and the judge would then decide whether to convict. Some historians, however, such as <a href="/w/index.php?title=Ian_Douglas_Willock&amp;action=edit&amp;redlink=1" class="new" title="Ian Douglas Willock (page does not exist)">Ian Douglas Willock</a>, have rejected the traditional account.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2007)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h3><span class="mw-headline" id="Not_guilty">Not guilty</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Not_proven&amp;action=edit&amp;section=2" title="Edit section: Not guilty">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In a notable trial in 1728, a defence lawyer (<a href="/wiki/Robert_Dundas,_of_Arniston,_the_elder" class="mw-redirect" title="Robert Dundas, of Arniston, the elder">Robert Dundas</a>) persuaded a jury to reassert its ancient right of acquitting, of finding an accused "not guilty", in spite of the facts being proven. The case involved the trial of <a href="/wiki/Carnegie_of_Finhaven" class="mw-redirect" title="Carnegie of Finhaven">Carnegie of Finhaven</a> for the <a href="/wiki/Murder" title="Murder">murder</a> of the <a href="/wiki/Charles_Lyon,_6th_Earl_of_Strathmore_and_Kinghorne" title="Charles Lyon, 6th Earl of Strathmore and Kinghorne">Earl of Strathmore</a>. The law (as it stood) required the jury merely to look at the facts and pass a verdict of "proven" or "not proven" depending on whether they believed the evidence proved that the accused had killed the Earl. Carnegie had undoubtedly killed the Earl, but had also clearly not intended to do so (<a href="/wiki/Manslaughter" title="Manslaughter">manslaughter</a>). If the jury brought in a "proven" verdict they would in effect constrain the judge to find Carnegie guilty of murder, for which the punishment was <a href="/wiki/Hanging" title="Hanging">hanging</a>. To avert this outcome, the jury decided to assert what it believed to be their "ancient right" to judge the whole case and not just the facts, and brought in the verdict of "not guilty".
+</p><p>The (re)introduction of the "not guilty" verdict was part of a wider movement during the 17th and 18th century which saw a gradual increase in the power of juries, such as the trial of <a href="/wiki/William_Penn" title="William Penn">William Penn</a> in 1670, in which an English jury first gained the right to pass a verdict contrary to the law (known as <a href="/wiki/Jury_nullification" title="Jury nullification">jury nullification</a>), and the trial of <a href="/wiki/John_Peter_Zenger" title="John Peter Zenger">John Peter Zenger</a> in New York in 1735 in which jury nullification is credited with establishing <a href="/wiki/Freedom_of_the_press_in_the_United_States" title="Freedom of the press in the United States">freedom of the press</a> as firm right in what would become the United States.
+</p><p>Although jurors continued to use both "not guilty" and "not proven", jurors tended to favour the "not guilty" verdict over the "not proven" and the interpretation changed.
+</p>
+<h2><span class="mw-headline" id="Modern_usage">Modern usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Not_proven&amp;action=edit&amp;section=3" title="Edit section: Modern usage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In Scotland, a criminal case may be decided either <i>"in solemn procedure"</i> by a jury (instructed by the judge), or <i>"in summary procedure"</i> by the judge alone (with no jury appointed). There are various rules for when the one or the other procedure may or must be employed; in general, juries are employed for the more severe accusations, while petty crimes and offences are treated summarily. A criminal case jury consists of 15 jurors, who make their decision by a simple majority vote: eight votes are necessary and sufficient for the verdict <i>"guilty"</i>,<sup id="cite_ref-Duff_1-1" class="reference"><a href="#cite_note-Duff-1">&#91;1&#93;</a></sup> which has replaced the older verdict <i>"proven"</i>.
+</p><p>Approximately one third of all acquittal verdicts by Scottish juries use the formulation <i>Not proven</i>; the others use <i>Not guilty</i>. The verdict <i>"Not proven"</i> also is available for judges in the summary procedure, and is employed in about a fifth of the "summary" acquittals.<sup id="cite_ref-Duff_1-2" class="reference"><a href="#cite_note-Duff-1">&#91;1&#93;</a></sup> The proportion of <i>Not proven</i> acquittals in general is higher in the more severe cases; but so then are the proportion of acquittals <i>versus</i> convictions. This might have many different reasons, e.g., that in average it might be factually  more complicated to establish guilt beyond a reasonable doubt in the more severe cases.<sup id="cite_ref-In3V_2-1" class="reference"><a href="#cite_note-In3V-2">&#91;2&#93;</a></sup>
+</p><p>Both in the "solemn" and the "summary" acquittals, <i>not proven</i> is interpreted as indicating that the jury or judge, respectively, is not convinced of the innocence of the accused; in fact, they may be morally convinced that the accused is guilty, but do not find the proofs sufficient for a conviction.  One reason for this is the rule that in such cases the evidence for the prosecution must be <a href="/wiki/Corroboration_in_Scots_law" title="Corroboration in Scots law">corroborated</a> in order to permit a conviction.  Thus, there might be a single plaintiff or witness for the prosecution, which the jury or judge believes is both truthful and trustworthy, but no other witness or circumstances against the accused. By Scottish law, the accused then should be acquitted, but often will be so by the verdict <i>"not proven"</i>.<sup id="cite_ref-Duff_1-3" class="reference"><a href="#cite_note-Duff-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Criticism">Criticism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Not_proven&amp;action=edit&amp;section=4" title="Edit section: Criticism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In recent years there have been repeated calls for reform, most arguing for a move to only two verdicts.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> However, there are several issues and no consensus. Some of the arguments against the third verdict are<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2012)">citation needed</span></a></i>&#93;</sup>
+</p>
+<ul><li>Many favour the "proven" verdict as it directs the jury to look at the evidence and to err on the side of the accused if there is any doubt.</li>
+<li>Because the "not proven" verdict carries with it an implication of guilt but no formal conviction, the accused is often seen as morally guilty without the option of a retrial to clear their name.</li>
+<li>Many Scottish jurors (through TV, etc.) are more familiar with the English/US verdicts of "guilty"/"not guilty" than "proven"/"not guilty"/"not proven".</li></ul>
+<p>However, the perceived advantages in retaining the three verdict system have outweighed the disadvantages. Many people believe that if only <i>"guilty"</i> and <i>"not guilty"</i> were available, then some people who are currently acquitted by a "not proven" verdict would instead be convicted.<sup id="cite_ref-In3V_2-2" class="reference"><a href="#cite_note-In3V-2">&#91;2&#93;</a></sup> In cases where the public found the evidence of guilt overwhelming, but the jury returned the verdict "not proven", critics have argued that the jury probably would have given a guilty verdict if they did not have the third alternative.  Proponents of retaining the third option argue that people acquitted with a "not proven" were not found guilty beyond a reasonable doubt; but with the removal of the third option, they might have been found guilty anyway. This would mean that the presumption of innocence until sufficient proof of guilt is established would be weakened.
+</p><p>Another argument for retaining the three verdict system was brought up by Scottish rape crisis centres, who lobbied for this among the members of the <a href="/wiki/Scottish_parliament" class="mw-redirect" title="Scottish parliament">Scottish parliament</a>. The number of <i>"not proven"</i> verdicts in sexual assault cases is proportionally large; about three out of ten of these cases end with an acquittal, and a third of these acquittals (a tenth of all verdicts in such cases) are judged <i>"not proven"</i>.<sup id="cite_ref-In3V_2-3" class="reference"><a href="#cite_note-In3V-2">&#91;2&#93;</a></sup> This is related to the fact that fairly often there is not sufficient corrobating evidence, and the victim's testimony alone does not constitute a legal ground for a conviction. Now, the rape crisis centres argued, if the <i>"not proven"</i> verdict is removed, a smaller number of assaulted women will dare to press for a trial. If either the first trial, or a successful appeal to the <a href="/wiki/High_Court_of_Justiciary" title="High Court of Justiciary">High Court</a>, ends in a <i>"not guilty"</i> verdict, the woman may feel stigmatised in the eyes of the public, which often treats the trial as if there were two accused: the alleged attacker and the victim. On the other hand, a <i>"not proven"</i> verdict is not at all considered as damaging for "the credibility, honesty and reliability of women" (footnote 65 in <sup id="cite_ref-In3V_2-4" class="reference"><a href="#cite_note-In3V-2">&#91;2&#93;</a></sup>), since it indicates that the jurors do not disbelieve them, even if the total evidence is not sufficient for a conviction.
+</p>
+<h2><span class="mw-headline" id="Use_in_other_jurisdictions">Use in other jurisdictions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Not_proven&amp;action=edit&amp;section=5" title="Edit section: Use in other jurisdictions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Since 1989, in the Italian juridical system, there are <a href="/wiki/Italian_Code_of_Criminal_Procedure#Verdicts" title="Italian Code of Criminal Procedure">five modes of acquittal</a> available. Two of these correspond roughly to the Scottish <i>Not guilty</i> and <i>Not proven</i>, respectively.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>In general, the Scottish verdict has not been permanently adopted outside its home country, but it was sometimes used in <a href="/wiki/Colonial_Canada" class="mw-redirect" title="Colonial Canada">colonial Canada</a>, especially by some judges in southwestern <a href="/wiki/Ontario" title="Ontario">Ontario</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2012)">citation needed</span></a></i>&#93;</sup> . Its most famous use in the <a href="/wiki/United_States" title="United States">United States</a> came when <a href="/wiki/United_States_Senate" title="United States Senate">Senator</a> <a href="/wiki/Arlen_Specter" title="Arlen Specter">Arlen Specter</a> tried to vote "not proven" on the two articles of <a href="/wiki/Impeachment_of_Bill_Clinton" title="Impeachment of Bill Clinton">impeachment of Bill Clinton</a>,<sup id="cite_ref-arlen_8-0" class="reference"><a href="#cite_note-arlen-8">&#91;8&#93;</a></sup> his votes were recorded as "not guilty"<sup id="cite_ref-In3V_2-5" class="reference"><a href="#cite_note-In3V-2">&#91;2&#93;</a></sup> and when, at the <a href="/wiki/O.J._Simpson_murder_case" class="mw-redirect" title="O.J. Simpson murder case">O.J. Simpson murder case</a>, various reformers, including Fred Goldman, <a href="/wiki/Ron_Goldman" title="Ron Goldman">Ron Goldman</a>'s father, pushed for a change to "not proven" because of what they felt was an incorrect <a href="/wiki/Presumption_of_innocence" title="Presumption of innocence">presumption of innocence</a> on the part of Simpson.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>In 2005, a proposal was made in the <i><a href="/wiki/University_of_Chicago_Law_Review" title="University of Chicago Law Review">University of Chicago Law Review</a></i> to introduce the not proven verdict into the United States.<sup id="cite_ref-In3V_2-6" class="reference"><a href="#cite_note-In3V-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Cases_which_resulted_in_a_not_proven_verdict">Cases which resulted in a not proven verdict</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Not_proven&amp;action=edit&amp;section=6" title="Edit section: Cases which resulted in a not proven verdict">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Alfred John Monson, in relation to the <a href="/wiki/Ardlamont_murder" title="Ardlamont murder">Ardlamont murder</a></li>
+<li><a href="/wiki/Madeleine_Smith" title="Madeleine Smith">Madeleine Smith</a>, accused of murdering her boyfriend by poison</li>
+<li>Helen McDougal, in relation to the <a href="/wiki/Burke_and_Hare_murders" title="Burke and Hare murders">Burke and Hare murders</a></li>
+<li>Alan Peters, in relation to the <a href="/wiki/Murder_of_Maxwell_Garvie" title="Murder of Maxwell Garvie">murder of Maxwell Garvie</a></li>
+<li><a href="/wiki/John_Leslie_(TV_presenter)" title="John Leslie (TV presenter)">John Leslie (TV presenter)</a>, in relation to an alleged sexual assault</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Not_proven&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Jury_nullification" title="Jury nullification">Jury nullification</a></li>
+<li><a href="/wiki/Miscarriage_of_justice" title="Miscarriage of justice">Miscarriage of justice</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Not_proven&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Duff-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Duff_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Duff_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Duff_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Duff_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><i><a rel="nofollow" class="external text" href="http://www.law.duke.edu/journals/62LCPDuff">The Scottish criminal jury: A very peculiar institution</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since July 2018">permanent dead link</span></a></i>&#93;</span></sup></i>, Peter Duff, 62 Law &amp; Contemp. Probs. 173 (Spring 1999)</span>
+</li>
+<li id="cite_note-In3V-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-In3V_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-In3V_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-In3V_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-In3V_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-In3V_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-In3V_2-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-In3V_2-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Bray, Samuel (2005). "Not Proven: Introducing a Third Verdict". <i>University of Chicago Law Review</i>. <b>72</b> (4): 1299–1329. <a href="/wiki/Social_Science_Research_Network" title="Social Science Research Network">SSRN</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//ssrn.com/abstract=1339222">1339222</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=University+of+Chicago+Law+Review&amp;rft.atitle=Not+Proven%3A+Introducing+a+Third+Verdict&amp;rft.volume=72&amp;rft.issue=4&amp;rft.pages=1299-1329&amp;rft.date=2005&amp;rft_id=%2F%2Fssrn.com%2Fabstract%3D1339222&amp;rft.aulast=Bray&amp;rft.aufirst=Samuel&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANot+proven" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Barbato, Joseph M. (2004). <a rel="nofollow" class="external text" href="http://heinonline.org/HOL/LandingPage?handle=hein.journals/iicl15&amp;div=25&amp;id=&amp;page=">"Scotland's Bastard Verdict: Intermediacy and the unique three-verdict system"</a>. <i>Ind. Int'l &amp; Comp. L. Rev</i>. <b>15</b>: 543.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ind.+Int%27l+%26+Comp.+L.+Rev.&amp;rft.atitle=Scotland%27s+Bastard+Verdict%3A+Intermediacy+and+the+unique+three-verdict+system.&amp;rft.volume=15&amp;rft.pages=543&amp;rft.date=2004&amp;rft.aulast=Barbato&amp;rft.aufirst=Joseph+M.&amp;rft_id=http%3A%2F%2Fheinonline.org%2FHOL%2FLandingPage%3Fhandle%3Dhein.journals%2Fiicl15%26div%3D25%26id%3D%26page%3D&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANot+proven" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/uk-scotland-scotland-politics-35527022">"Not proven verdict 'on borrowed time', say MSPs"</a>. BBC. 9 February 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">4 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Not+proven+verdict+%27on+borrowed+time%27%2C+say+MSPs&amp;rft.pub=BBC&amp;rft.date=2016-02-09&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fuk-scotland-scotland-politics-35527022&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANot+proven" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.scotsman.com/topics.cfm?tid=859&amp;id=1341552004">Scotsman.com "Bastard Verdict"</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">John Gray Wilson (1960). <i>Not Proven</i>. Secker and Warburg. pp.&#160;7–8.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Not+Proven&amp;rft.pages=7-8&amp;rft.pub=Secker+and+Warburg&amp;rft.date=1960&amp;rft.au=John+Gray+Wilson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANot+proven" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Quoted from <i>The New Italian Code of Criminal Procedure: The Difficulties of Building an Adversarial Trial System on a Civil Law Foundation</i> by William T. Pizzi and Luca Marafioti, Yale J Intl L 1,2,15 (1992), page 7; the reference found in <i><a rel="nofollow" class="external text" href="https://www.jstor.org/pss/4495530">Comment: Not proven: Introducing a third verdict</a></i> by Samuel Bray, The University of Chicago law review <b>72</b> (2005), pp. 1299-1329</span>
+</li>
+<li id="cite_note-arlen-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-arlen_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Specter, Arlen (12 February 1999). <a rel="nofollow" class="external text" href="http://www.cnn.com/ALLPOLITICS/stories/1999/02/12/senate.statements/specter.html">"Sen. Specter's closed-door impeachment statement"</a>. CNN<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-03-13</span></span>. <q>My position in the matter is that the case has not been proved. I have gone back to Scottish law where there are three verdicts: guilty, not guilty, and not proved. I am not prepared to say on this record that President Clinton is not guilty. But I am certainly not prepared to say that he is guilty. There are precedents for a Senator voting present. I hope that I will be accorded the opportunity to vote not proved in this case. [...] But on this record, the proofs are not present. Juries in criminal cases under the laws of Scotland have three possible verdicts: guilty, not guilty, not proven. Given the option in this trial, I suspect that many Senators would choose 'not proven' instead of 'not guilty'. That is my verdict: not proven. The President has dodged perjury by calculated evasion and poor interrogation. Obstruction of justice fails by gaps in the proofs.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sen.+Specter%27s+closed-door+impeachment+statement&amp;rft.pub=CNN&amp;rft.date=1999-02-12&amp;rft.au=Specter%2C+Arlen&amp;rft_id=http%3A%2F%2Fwww.cnn.com%2FALLPOLITICS%2Fstories%2F1999%2F02%2F12%2Fsenate.statements%2Fspecter.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANot+proven" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.pbs.org/wgbh/pages/frontline/oj/highlights/dershowitz.html">Public Broadcasting "The O.J. Verdict"</a></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Not_proven&amp;action=edit&amp;section=9" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r853264625">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin" style="">
+<ul><li><a rel="nofollow" class="external text" href="http://www.law.duke.edu/journals/62LCPDuff"><i>The Scottish criminal jury: A very peculiar institution</i></a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since July 2018">permanent dead link</span></a></i>&#93;</span></sup>, Peter Duff, 62 Law &amp; Contemp. Probs. 173 (Spring 1999)</li>
+<li><cite class="citation journal">Bray, Samuel (2005). "Not Proven: Introducing a Third Verdict". <i>University of Chicago Law Review</i>. <b>72</b> (4): 1299–1329. <a href="/wiki/Social_Science_Research_Network" title="Social Science Research Network">SSRN</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//ssrn.com/abstract=1339222">1339222</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=University+of+Chicago+Law+Review&amp;rft.atitle=Not+Proven%3A+Introducing+a+Third+Verdict&amp;rft.volume=72&amp;rft.issue=4&amp;rft.pages=1299-1329&amp;rft.date=2005&amp;rft_id=%2F%2Fssrn.com%2Fabstract%3D1339222&amp;rft.aulast=Bray&amp;rft.aufirst=Samuel&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANot+proven" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite class="citation book"><a href="/wiki/David_Hume" title="David Hume">Hume, David</a> (1819). <i>Commentaries on the Law of Scotland, volume 2</i> (2nd ed.). Bell and Bradfute.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Commentaries+on+the+Law+of+Scotland%2C+volume+2&amp;rft.edition=2nd&amp;rft.pub=Bell+and+Bradfute&amp;rft.date=1819&amp;rft.au=Hume%2C+David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANot+proven" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li></ul>
+</div>
+<p class="mw-empty-elt">
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw2240
+Cached time: 20180929134440
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.332 seconds
+Real time usage: 0.483 seconds
+Preprocessor visited node count: 1501/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 40619/2097152 bytes
+Template argument size: 3693/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 20606/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.157/10.000 seconds
+Lua memory usage: 3.6 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  405.343      1 -total
+ 39.39%  159.647      1 Template:Reflist
+ 26.20%  106.187      3 Template:Cite_journal
+ 17.91%   72.587      1 Template:Criminal_procedure_(trial)
+ 17.26%   69.982      1 Template:Sidebar
+ 11.90%   48.220      1 Template:Refimprove
+ 11.60%   47.038      3 Template:Citation_needed
+ 11.54%   46.768      5 Template:Fix
+  7.88%   31.938      1 Template:Use_dmy_dates
+  7.30%   29.604      1 Template:Ambox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:708207-0!canonical and timestamp 20180929134440 and revision id 851948892
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Not_proven&amp;oldid=851948892">https://en.wikipedia.org/w/index.php?title=Not_proven&amp;oldid=851948892</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Scots_language" title="Category:Scots language">Scots language</a></li><li><a href="/wiki/Category:Scottish_criminal_law" title="Category:Scottish criminal law">Scottish criminal law</a></li><li><a href="/wiki/Category:Scots_law_legal_terminology" title="Category:Scots law legal terminology">Scots law legal terminology</a></li><li><a href="/wiki/Category:High_Court_of_Justiciary" title="Category:High Court of Justiciary">High Court of Justiciary</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_July_2018" title="Category:Articles with dead external links from July 2018">Articles with dead external links from July 2018</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2010" title="Category:Articles needing additional references from May 2010">Articles needing additional references from May 2010</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2007" title="Category:Articles with unsourced statements from February 2007">Articles with unsourced statements from February 2007</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2012" title="Category:Articles with unsourced statements from February 2012">Articles with unsourced statements from February 2012</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2012" title="Category:Articles with unsourced statements from January 2012">Articles with unsourced statements from January 2012</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_June_2011" title="Category:Use dmy dates from June 2011">Use dmy dates from June 2011</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Not+proven" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Not+proven" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Not_proven" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Not_proven" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Not_proven">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Not_proven&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Not_proven&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Not_proven" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Not_proven" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Not_proven&amp;oldid=851948892" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Not_proven&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2920228" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Not_proven&amp;id=851948892" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Not+proven">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Not+proven&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Not_proven&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%96%D7%99%D7%9B%D7%95%D7%99_%D7%9E%D7%97%D7%9E%D7%AA_%D7%94%D7%A1%D7%A4%D7%A7" title="זיכוי מחמת הספק – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Ikke_bevist" title="Ikke bevist – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5_%D0%B4%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%BE" title="Не доказано – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/No_pruiven" title="No pruiven – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Not_proven" title="Not proven – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Inte_bevisat_skyldig_(domslut)" title="Inte bevisat skyldig (domslut) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2920228#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 July 2018, at 16:34<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Not_proven&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.332","walltime":"0.483","ppvisitednodes":{"value":1501,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":40619,"limit":2097152},"templateargumentsize":{"value":3693,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":20606,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  405.343      1 -total"," 39.39%  159.647      1 Template:Reflist"," 26.20%  106.187      3 Template:Cite_journal"," 17.91%   72.587      1 Template:Criminal_procedure_(trial)"," 17.26%   69.982      1 Template:Sidebar"," 11.90%   48.220      1 Template:Refimprove"," 11.60%   47.038      3 Template:Citation_needed"," 11.54%   46.768      5 Template:Fix","  7.88%   31.938      1 Template:Use_dmy_dates","  7.30%   29.604      1 Template:Ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.157","limit":"10.000"},"limitreport-memusage":{"value":3770062,"limit":52428800}},"cachereport":{"origin":"mw2240","timestamp":"20180929134440","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":81,"wgHostname":"mw2192"});});</script>
+	</body>
+</html>

@@ -1,0 +1,826 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>States of Jersey - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"States_of_Jersey","wgTitle":"States of Jersey","wgCurRevisionId":860295101,"wgRevisionId":860295101,"wgArticleId":2860948,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Pages using citations with accessdate and no URL","Articles with French-language external links","Use British English from October 2012","Use dmy dates from October 2013","Articles containing French-language text","All articles with unsourced statements","Articles with unsourced statements from August 2011","Coordinates on Wikidata","Politics of Jersey","Legislatures of British Crown Dependencies","Unicameral legislatures","Jersey law"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"States_of_Jersey","wgRelevantArticleId":2860948,"wgRequestId":"W7Fj-ArAIFEAALAKOIoAAABF","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCoordinates":{"lat":49.18154,"lon":-2.10766},"wgWikibaseItemId":"Q946944","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jersey_coa.svg/1200px-Jersey_coa.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/States_of_Jersey"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=States_of_Jersey&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=States_of_Jersey&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/States_of_Jersey"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-States_of_Jersey rootpage-States_of_Jersey skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">States of Jersey</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: #ededed"><span class="fn org">States of Jersey</span> <br /><span class="nickname"><i>États de Jersey</i> <small><span class="languageicon">(in French)</span></small></span></th></tr><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Jersey_coa.svg" class="image" title="Coat of arms or logo"><img alt="Coat of arms or logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jersey_coa.svg/120px-Jersey_coa.svg.png" width="120" height="148" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jersey_coa.svg/180px-Jersey_coa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jersey_coa.svg/240px-Jersey_coa.svg.png 2x" data-file-width="219" data-file-height="271" /></a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #ededed">Type</th></tr><tr><th scope="row">Type</th><td>
+<div style="padding:0.1em 0;line-height:1.3em;"><span class="category"><a href="/wiki/Unicameral" class="mw-redirect" title="Unicameral">Unicameral</a></span>  </div></td></tr><tr><th colspan="2" style="text-align:center;background-color: #ededed">Leadership</th></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_Bailiffs_of_Jersey" title="List of Bailiffs of Jersey">Bailiff</a></div></th><td>
+<div style="padding:0.1em 0;line-height:1.2em;line-height:1.3em"><a href="/wiki/William_Bailhache" title="William Bailhache">William Bailhache</a> <br />Since January 2015 </div></td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;line-height:1.3em"><a href="/wiki/Chief_Minister_of_Jersey" title="Chief Minister of Jersey">Chief Minister</a></div></th><td>
+<div style="padding:0.1em 0;line-height:1.2em;line-height:1.3em">Senator <a href="/wiki/John_Le_Fondr%C3%A9_Jr" title="John Le Fondré Jr">John Le Fondré Jr</a> <br />Since 7 June 2018 </div></td></tr><tr><th colspan="2" style="text-align:center;background-color: #ededed">Structure</th></tr><tr><th scope="row">Seats</th><td>
+49</td></tr><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:States_of_Jersey_Composition.svg" class="image"><img alt="States of Jersey Composition.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/States_of_Jersey_Composition.svg/250px-States_of_Jersey_Composition.svg.png" width="250" height="128" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/States_of_Jersey_Composition.svg/375px-States_of_Jersey_Composition.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/States_of_Jersey_Composition.svg/500px-States_of_Jersey_Composition.svg.png 2x" data-file-width="360" data-file-height="185" /></a></td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Political groups</div></th><td>
+<p>Senators (8)
+</p>
+<ul><li><span style="background-color:#DDDDDD; color:black; border:1px solid darkgray; text-align:center;">&#160;&#160;&#160;&#160;</span> Independents (7)</li>
+<li><span style="background-color:#FF0000; color:black; border:1px solid darkgray; text-align:center;">&#160;&#160;&#160;&#160;</span> <a href="/wiki/Reform_Jersey" title="Reform Jersey">Reform Jersey</a> (1)</li></ul>
+<p>Connétables (12)
+</p>
+<ul><li><span style="background-color:#DDDDDD; color:black; border:1px solid darkgray; text-align:center;">&#160;&#160;&#160;&#160;</span> Independents (12)</li></ul>
+<p>Deputies (29)
+</p>
+<ul><li><span style="background-color:#DDDDDD; color:black; border:1px solid darkgray; text-align:center;">&#160;&#160;&#160;&#160;</span> Independents (25)</li>
+<li><span style="background-color:#FF0000; color:black; border:1px solid darkgray; text-align:center;">&#160;&#160;&#160;&#160;</span> <a href="/wiki/Reform_Jersey" title="Reform Jersey">Reform Jersey</a> (4)</li></ul>
+</td></tr><tr><th colspan="2" style="text-align:center;background-color: #ededed">Elections</th></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Last election</div></th><td>
+<a href="/wiki/Jersey_general_election,_2014" title="Jersey general election, 2014">15 October 2014</a></td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Next election</div></th><td>
+<a href="/wiki/Jersey_general_election,_2018" title="Jersey general election, 2018">16 May 2018</a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #ededed">Meeting place</th></tr><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:States_of_Jersey_Chamber.jpg" class="image"><img alt="States of Jersey Chamber.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/States_of_Jersey_Chamber.jpg/220px-States_of_Jersey_Chamber.jpg" width="220" height="165" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/States_of_Jersey_Chamber.jpg/330px-States_of_Jersey_Chamber.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/States_of_Jersey_Chamber.jpg/440px-States_of_Jersey_Chamber.jpg 2x" data-file-width="500" data-file-height="375" /></a></td></tr><tr><td colspan="2" class="label" style="text-align:center">
+Chamber of the States of Jersey Assembly, St Helier</td></tr><tr><th colspan="2" style="text-align:center;background-color: #ededed">Website</th></tr><tr><td colspan="2" style="text-align:center">
+<span class="url"><a rel="nofollow" class="external text" href="http://www.statesassembly.gov.je">www<wbr />.statesassembly<wbr />.gov<wbr />.je</a></span></td></tr></tbody></table>
+<p class="mw-empty-elt">
+
+</p>
+<table class="vertical-navbox vcard" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;width:20em"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><div class="adr" style="font-size:smaller"><span class="fn org country-name"><a href="/wiki/Jersey" title="Jersey">Jersey</a></span>
+</div></th></tr><tr><th><a href="/wiki/File:Jersey_coa.svg" class="image"><img alt="Jersey coa.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jersey_coa.svg/125px-Jersey_coa.svg.png" width="125" height="155" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jersey_coa.svg/188px-Jersey_coa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jersey_coa.svg/250px-Jersey_coa.svg.png 2x" data-file-width="219" data-file-height="271" /></a></th></tr><tr><th style="border-bottom: #aaa 1px solid"><span class="nowrap" style="font-weight:normal">This article is part of a series on the</span><br /><span style="font-weight:bold"><a href="/wiki/Politics_of_Jersey" title="Politics of Jersey">politics and government of<br />Jersey</a></span></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/The_Crown" title="The Crown">The Crown</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align: left">
+<ul><li><a href="/wiki/Dukes_of_Normandy" class="mw-redirect" title="Dukes of Normandy">Duke of Normandy</a>
+<ul><li><a href="/wiki/Elizabeth_II" title="Elizabeth II">Queen Elizabeth II</a></li></ul></li>
+<li><a href="/wiki/Lieutenant_Governor_of_Jersey" title="Lieutenant Governor of Jersey">Lieutenant Governor</a>
+<ul><li><a href="/wiki/John_McColl" title="John McColl">Sir John McColl</a></li></ul></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Council_of_Ministers_of_Jersey" class="mw-redirect" title="Council of Ministers of Jersey">Government</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align: left">
+<ul><li><a href="/wiki/Chief_Minister_of_Jersey" title="Chief Minister of Jersey">Chief Minister</a>
+<ul><li><a href="/wiki/John_Le_Fondr%C3%A9_Jr" title="John Le Fondré Jr">John Le Fondré Jr</a></li></ul></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a class="mw-selflink selflink">Legislature</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align: left">
+<ul><li><a href="/wiki/List_of_Bailiffs_of_Jersey" title="List of Bailiffs of Jersey">Bailiff</a>
+<ul><li><a href="/wiki/William_Bailhache" title="William Bailhache">William Bailhache</a></li></ul></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Judiciary_of_Jersey" title="Judiciary of Jersey">Judiciary</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align: left">
+<ul><li><a href="/wiki/Law_Officers_of_the_Crown" title="Law Officers of the Crown">Crown Officers</a></li>
+<li><a href="/wiki/Jurat#Jersey" title="Jurat">Jurat</a></li>
+<li><a href="/wiki/Courts_of_Jersey" title="Courts of Jersey">Courts of Jersey</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Parish_Assembly_(Jersey)" title="Parish Assembly (Jersey)">Regional Assemblies</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align: left">
+<ul><li><a href="/wiki/Parishes_of_Jersey" title="Parishes of Jersey">Parishes</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Elections_in_Jersey" title="Elections in Jersey">Elections</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align: left">
+<ul><li><a href="/wiki/List_of_political_parties_in_Jersey" title="List of political parties in Jersey">Political parties</a></li>
+<li><a href="/wiki/Jersey_general_election,_2014" title="Jersey general election, 2014">Last election</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/External_relations_of_Jersey" title="External relations of Jersey">Foreign policy</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align: left">
+<ul><li><a href="/wiki/External_relations_of_Jersey" title="External relations of Jersey">Foreign relations</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;">
+<div class="hlist" style="text-align:center;font-weight:normal;">
+<ul><li><a href="/wiki/Outline_of_political_science#Politics_by_region" title="Outline of political science">Other countries</a></li>
+<li><a href="https://commons.wikimedia.org/wiki/Atlas_of_Jersey" class="extiw" title="commons:Atlas of Jersey">Atlas</a></li></ul>
+</div></td></tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Politics_of_Jersey" title="Template:Politics of Jersey"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/w/index.php?title=Template_talk:Politics_of_Jersey&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Politics of Jersey (page does not exist)"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Politics_of_Jersey&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>The <b>States of Jersey</b> (<a href="/wiki/French_language" title="French language">French</a>: <i lang="fr">États de Jersey</i>) is the <a href="/wiki/Parliament" title="Parliament">parliament</a> and <a href="/wiki/Parliament#Parliament_government" title="Parliament">government</a> of the <a href="/wiki/British_Crown_dependency" class="mw-redirect" title="British Crown dependency">British Crown dependency</a> of <a href="/wiki/Jersey" title="Jersey">Jersey</a>.
+</p><p>The origins of the legislature of Jersey lie in the system of self-government according to Norman law guaranteed to the <a href="/wiki/Channel_Islands" title="Channel Islands">Channel Islands</a> by <a href="/wiki/John_of_England" class="mw-redirect" title="John of England">King John</a> following the division of Normandy in 1204.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> The Assembly of the States of Jersey has exercised uncontested <a href="/wiki/Legislature" title="Legislature">legislative</a> powers since 1771, when the concurrent law-making power of the <a href="/wiki/Royal_Court_of_Jersey" class="mw-redirect" title="Royal Court of Jersey">Royal Court of Jersey</a> was abolished.<sup id="cite_ref-jerseylaw1_2-0" class="reference"><a href="#cite_note-jerseylaw1-2">&#91;2&#93;</a></sup>
+</p><p>The Assembly passes and amends laws and regulations; approves the annual budget and taxation; appoints and removes the Chief Minister, Ministers, presidents and members of committees; debates matters proposed by the Council of Ministers, by Ministers or by individual members. Members are also able to ask questions to find out information and to hold Ministers to account.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> <a href="/wiki/Executive_(government)" title="Executive (government)">Executive</a> powers are exercised by a <a href="/wiki/Chief_Minister_of_Jersey" title="Chief Minister of Jersey">Chief Minister</a> and nine ministers, elected from among the members of the States of Jersey and known collectively as the <a href="/wiki/Council_of_Ministers_of_Jersey" class="mw-redirect" title="Council of Ministers of Jersey">Council of Ministers</a>. Ministers are <a href="/wiki/Accountable#Political_accountability" class="mw-redirect" title="Accountable">accountable</a> to the Assembly for the conduct of their departments.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Composition"><span class="tocnumber">1</span> <span class="toctext">Composition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Legislative_functions"><span class="tocnumber">2</span> <span class="toctext">Legislative functions</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Scrutiny_functions"><span class="tocnumber">3</span> <span class="toctext">Scrutiny functions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#History"><span class="tocnumber">4</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#States_Chamber"><span class="tocnumber">5</span> <span class="toctext">States Chamber</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Broadcasting"><span class="tocnumber">6</span> <span class="toctext">Broadcasting</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Composition">Composition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=States_of_Jersey&amp;action=edit&amp;section=1" title="Edit section: Composition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The constitution of the States is set out in the States of Jersey Law 2005.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> It is a <a href="/wiki/Unicameralism" title="Unicameralism">unicameral</a> parliament.
+</p><p>In the current assembly, elected voting members comprise eight<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Senators (elected on an island-wide basis), twenty-nine Deputies (elected to represent single- or multi-member constituencies), and twelve <a href="/wiki/Conn%C3%A9table_(Jersey_and_Guernsey)" title="Connétable (Jersey and Guernsey)">Connétables</a> (head of each <a href="/wiki/Parishes_of_Jersey" title="Parishes of Jersey">parish</a> "who are <a href="/wiki/Ex_officio_member" title="Ex officio member">members of the States by virtue of their office</a>"). In previous assemblies, the number of Senators was ten. The reduction in the number of Senators was politically controversial and attempts were made, unsuccessfully, to prevent the Privy Council from <a href="/wiki/Law_of_Jersey#Sources_of_law" title="Law of Jersey">approving</a> the proposal.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>There are also five non-voting members appointed by the Crown:<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<ul><li>the <a href="/wiki/Bailiff_(Channel_Islands)" title="Bailiff (Channel Islands)">Bailiff</a>–who is the President (presiding officer); in his absence, the Deputy Bailiff or the <a href="/wiki/Greffier" title="Greffier">Greffier</a>, Deputy Greffier or an elected member presides</li>
+<li>the <a href="/wiki/Lieutenant_Governor_of_Jersey" title="Lieutenant Governor of Jersey">Lieutenant Governor of Jersey</a>–who regularly attends the States but by convention only speaks at the ceremonial sittings marking his appointment and leaving office</li>
+<li>the <a href="/wiki/Dean_of_Jersey" title="Dean of Jersey">Dean of Jersey</a>–who conducts the opening prayers in French at every sitting and who may speak on any issue</li>
+<li>the Attorney General–the principal legal adviser to the States who may be called on to provide legal advice during sittings</li>
+<li>the Solicitor General–the Attorney General's deputy.</li></ul>
+<p>The clerk of the Assembly is known as the <a href="/wiki/Greffier" title="Greffier">Greffier</a> of the States.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>The <a href="/wiki/Viscount_of_Jersey" class="mw-redirect" title="Viscount of Jersey">Viscount</a> is the executive officer of the States (but is no longer a member of the Assembly).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>Under the States of Jersey Act 2005, 22 of the 51 members form the executive: ten as ministers in the <a href="/wiki/Council_of_Ministers_of_Jersey" class="mw-redirect" title="Council of Ministers of Jersey">Council of Ministers</a> and twelve as assistant ministers. During the 2008–2011 assembly, 17 members sat on scrutiny panels, six sit only on the Planning Applications panel or the Privileges and Procedures Committee; and seven had no role other than as a member.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> Following widespread criticisms of the system of <a href="/wiki/Council_of_Ministers_of_Jersey" class="mw-redirect" title="Council of Ministers of Jersey">ministerial government</a> introduced in December 2005, the assembly of the States of Jersey agreed in March 2011 to establish an independent electoral commission to review the make-up of the assembly and government.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>Elections are held every three years, with the most recent being in <a href="/wiki/Jersey_general_election,_2014" title="Jersey general election, 2014">2014</a>. In the 2008–2011 assembly, four members were affiliated to the <a href="/wiki/Jersey_Democratic_Alliance" title="Jersey Democratic Alliance">Jersey Democratic Alliance</a>,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> but three of them subsequently left the party and continued to sit as independents.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> In the 2011 elections, all candidates stood as independents. In the 2014 elections, candidates stood for the newly formed <a href="/wiki/Reform_Jersey" title="Reform Jersey">Reform Jersey</a> for the first time, with 3 being elected as Deputies.
+</p>
+<h2><span class="mw-headline" id="Legislative_functions">Legislative functions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=States_of_Jersey&amp;action=edit&amp;section=2" title="Edit section: Legislative functions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A main type of legislation made by the States is known in English simply as a <a href="/wiki/Law_of_Jersey#Sources_of_law" title="Law of Jersey">'Law'</a>, and in <a href="/wiki/Jersey_Legal_French" title="Jersey Legal French">French</a> as a <i>Loi</i> (not an 'Act' as in the United Kingdom—in Jersey an <i>Act</i> or <i>Acte</i> of the States is an administrative enactment and may be in the nature of <a href="/wiki/Secondary_legislation" class="mw-redirect" title="Secondary legislation">secondary legislation</a>).
+</p><p>After a Law is adopted by the States it must receive <a href="/wiki/Royal_Assent#British_Crown_dependencies" class="mw-redirect" title="Royal Assent">Royal Assent</a> and be registered with the <a href="/wiki/Royal_Court_of_Jersey" class="mw-redirect" title="Royal Court of Jersey">Royal Court of Jersey</a> before it is 'passed'.
+</p>
+<h2><span class="mw-headline" id="Scrutiny_functions">Scrutiny functions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=States_of_Jersey&amp;action=edit&amp;section=3" title="Edit section: Scrutiny functions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Members of the Assembly are responsible for scrutinizing the work of the <a href="/wiki/Council_of_Ministers_of_Jersey" class="mw-redirect" title="Council of Ministers of Jersey">Council of Ministers</a>, ministers and their departments.
+</p><p>Scrutiny panels of <a href="/wiki/Backbenchers" class="mw-redirect" title="Backbenchers">backbench members</a> of the assembly have been established to examine (i) economic affairs, (ii) environment, housing and infrastructure (iii) corporate services, (iv) education and home affairs and (v) health, social security and housing. A Public Accounts Committee (PAC) also scrutinizes the spending of public finances. <sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> The real utility of the panels is said to be "that of independent critique which holds ministers to account and constructively engages with policy which is deficient".<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=States_of_Jersey&amp;action=edit&amp;section=4" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:227px;"><a href="/wiki/File:Royal_arms_(Hanoverian)_on_States_Building_in_St_Helier,_Jersey.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Royal_arms_%28Hanoverian%29_on_States_Building_in_St_Helier%2C_Jersey.jpg/225px-Royal_arms_%28Hanoverian%29_on_States_Building_in_St_Helier%2C_Jersey.jpg" width="225" height="141" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Royal_arms_%28Hanoverian%29_on_States_Building_in_St_Helier%2C_Jersey.jpg/338px-Royal_arms_%28Hanoverian%29_on_States_Building_in_St_Helier%2C_Jersey.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Royal_arms_%28Hanoverian%29_on_States_Building_in_St_Helier%2C_Jersey.jpg/450px-Royal_arms_%28Hanoverian%29_on_States_Building_in_St_Helier%2C_Jersey.jpg 2x" data-file-width="1033" data-file-height="647" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Royal_arms_(Hanoverian)_on_States_Building_in_St_Helier,_Jersey.jpg" class="internal" title="Enlarge"></a></div>Royal coat of arms (Hanoverian) on the States building in St. Helier</div></div></div>
+<p>The legislature derives its name from the <i><a href="/wiki/Estates_of_the_realm" title="Estates of the realm">estates</a></i> (French: <i>états</i>) of <a href="/wiki/The_Crown" title="The Crown">the Crown</a> (represented by the Bailiff and Jurats), the Church (the rectors of the Parishes) and the people (represented by the Connétables) from whom the assembly was originally summoned.
+</p><p>Jersey's political history begins as part of the Duchy of Normandy. However when the King of France stripped King John I of England of the title, Duke of Normandy, the people of Jersey and the other Channel Islands rebelled against the French King maintaining the sovereignty of the 'rightful' Duke.
+</p><p>In 1259 Henry III signed the Treaty of Paris resigning his claim to the Duchy of Normandy except the Channel Islands. The Channel Islands were not absorbed into the Kingdom of England but two offices were appointed; Warden (now Lieutenant Governor) and Bailiff.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:1771_Code_of_Laws_for_the_Island_of_Jersey.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/1771_Code_of_Laws_for_the_Island_of_Jersey.jpg/220px-1771_Code_of_Laws_for_the_Island_of_Jersey.jpg" width="220" height="255" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/1771_Code_of_Laws_for_the_Island_of_Jersey.jpg/330px-1771_Code_of_Laws_for_the_Island_of_Jersey.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/1771_Code_of_Laws_for_the_Island_of_Jersey.jpg/440px-1771_Code_of_Laws_for_the_Island_of_Jersey.jpg 2x" data-file-width="2544" data-file-height="2947" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:1771_Code_of_Laws_for_the_Island_of_Jersey.jpg" class="internal" title="Enlarge"></a></div>1771 Code of Laws</div></div></div><p>Originally the <a href="/wiki/Royal_Court_of_Jersey" class="mw-redirect" title="Royal Court of Jersey">Royal Court</a> had legislative power but by the sixteenth century a legislative assembly within the Royal Court was convened. The Royal Court and the States both legislated until with the fixing in 1771 of the <i>Code des Lois</i> it was established that the States had a legislative monopoly.<sup id="cite_ref-jerseylaw1_2-1" class="reference"><a href="#cite_note-jerseylaw1-2">&#91;2&#93;</a></sup>
+</p><p>The earliest extant Act of the States dates from 1524. The States are mentioned in a document of 1497 regarding the endowments of the grammar schools; by 1526 attendance by members at the assembly was evidently a requirement, as in that year the Rector of <a href="/wiki/Saint_Mary,_Jersey" title="Saint Mary, Jersey">Saint Mary</a> was fined for failure to attend.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p><p>In the early seventeenth century separate minutes of the States of Jersey were first recorded.
+</p><p>When the monarchy was restored, King Charles II who had escaped to Jersey on his way to exile in France rewarded Jersey with the power to levy customs duties. This power, exercised by the Assembly of Governor, Bailiff and Jurats, was finally taken over by the States of Jersey in 1921, thereby enabling the States to control the budget independently of the Lieutenant Governor.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2011)">citation needed</span></a></i>&#93;</sup>
+</p><p>The States voted on 6 November 1856 to adopt a law to add 14 Deputies to the assembly to counterbalance the mismatch of population and voting power between town and country. The first Deputies were elected 12 January 1857.
+</p><p>The first election by secret ballot was held 1 December 1891.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Arms_of_Jersey_States_of_Jersey_Airport_1937.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Arms_of_Jersey_States_of_Jersey_Airport_1937.jpg/220px-Arms_of_Jersey_States_of_Jersey_Airport_1937.jpg" width="220" height="156" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Arms_of_Jersey_States_of_Jersey_Airport_1937.jpg/330px-Arms_of_Jersey_States_of_Jersey_Airport_1937.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Arms_of_Jersey_States_of_Jersey_Airport_1937.jpg/440px-Arms_of_Jersey_States_of_Jersey_Airport_1937.jpg 2x" data-file-width="632" data-file-height="447" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Arms_of_Jersey_States_of_Jersey_Airport_1937.jpg" class="internal" title="Enlarge"></a></div><i>États de Jersey</i> and arms on the original terminal building of <a href="/wiki/Jersey_Airport" title="Jersey Airport">Jersey Airport</a> built by the States in 1937</div></div></div>
+<p>Until the <a href="/wiki/Politics_of_Jersey#Constitution" title="Politics of Jersey">constitutional reforms</a> brought about in 1948 to strengthen the separation between legislature and judiciary, <a href="/wiki/Jurat" title="Jurat">Jurats</a> were the senior politicians, elected for life by islandwide suffrage, and were the presidents of committees and sat in the <a href="/wiki/Royal_Court_of_Jersey" class="mw-redirect" title="Royal Court of Jersey">Royal Court</a>. In 1948 the Jurats were replaced in the legislature by Senators, who at first were elected on an island-wide basis for mandates of 9 years (subsequently reduced to 6 years). The rectors were also removed from the States in 1948 (with the exception of the Dean as Rector of St. Helier, who remained but lost his vote), and replaced by an increased number of Deputies.
+</p><p>The urban-rural cleavage which successive reforms have attempted to address remains. The less populated rural parishes enjoy an electoral advantage over the densely populated urban parishes due to the inequity of the distribution of seats when compared to population.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2011)">citation needed</span></a></i>&#93;</sup>
+</p><p>A report produced under the chairmanship of Sir Cecil Clothier proposed a range of administrative reforms aimed at improving the machinery of government, including ending the distinction between Senators and Deputies, the removal of the Constables from the States and the removal of the Bailiff. Under the proposals, all members of the States would have the title Member of the States of Jersey (MSJ).<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> However, this was rejected.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+Other aspects of the report, especially concerning the rôle of <a href="/wiki/Conn%C3%A9table_(Jersey_and_Guernsey)" title="Connétable (Jersey and Guernsey)">Connétable</a>, met with intense opposition at public meetings in the parishes. The <a href="/wiki/Council_of_Ministers_of_Jersey" class="mw-redirect" title="Council of Ministers of Jersey">ministerial system</a> has been introduced in an amended form to that proposed by Clothier.
+</p><p>The system of executive government was changed significantly by the States of Jersey Law 2005.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="States_Chamber">States Chamber</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=States_of_Jersey&amp;action=edit&amp;section=5" title="Edit section: States Chamber">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The States sat in the Royal Court until 1887 when the States Chamber was constructed adjacent to the <a href="/wiki/Royal_Court_of_Jersey" class="mw-redirect" title="Royal Court of Jersey">Royal Court</a>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> The chamber is in Jacobean style, with the benches arranged in horseshoe form around the twin seats of the <a href="/wiki/Bailiff_(Channel_Islands)#Jersey" title="Bailiff (Channel Islands)">Bailiff</a> and <a href="/wiki/Lieutenant_Governor_of_Jersey" title="Lieutenant Governor of Jersey">Lieutenant Governor</a>. The Bailiff's seat is raised slightly higher than that of the Lieutenant Governor to demonstrate his precedence.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p><p>Senators sit to the left of the Bailiff, then the <a href="/wiki/Conn%C3%A9table_(Jersey_and_Guernsey)" title="Connétable (Jersey and Guernsey)">Connétables</a>, and then the Deputies filling up the benches to the right.
+</p><p>The States Chamber is depicted on the 2010 issue <a href="/wiki/Jersey_pound" title="Jersey pound">Jersey 20 pound note</a>.
+</p>
+<h2><span class="mw-headline" id="Broadcasting">Broadcasting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=States_of_Jersey&amp;action=edit&amp;section=6" title="Edit section: Broadcasting">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/BBC_Radio_Jersey" title="BBC Radio Jersey">BBC Radio Jersey</a> broadcasts the main States sittings live on their medium wave frequency 1026&#160;mW in Jersey, replacing the normal BBC Radio Jersey output which is a straight mirror of the FM output.
+</p><p>The raw feed of the States members talking is provided by the States of Jersey and goes through a desk in the BBC Radio Jersey Studio in the States Chamber where it is mixed by the States Reporter on duty that day.
+</p><p>Broadcasting of the States debates began experimentally on 30 September 1986 and was made a permanent feature on 25 November the same year.
+</p><p>Since December 2005 the States of Jersey have released a complete written record of everything that members say during question time, statements and debates in the States Assembly using <a href="/wiki/Hansard" title="Hansard">Hansard</a>, similar to the UK parliament. These transcriptions are available on the States of Jersey website.
+</p><p>On 15 July 2015 the States Assembly voted 31 in favour and 13 against a proposal that cameras would be installed in the States Chamber in order to provide a live and on-demand video stream through the States Assembly web site. The video feed will also be provided to the media.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=States_of_Jersey&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="flag" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/32px-Flag_of_Jersey.svg.png" width="32" height="19" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/48px-Flag_of_Jersey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/64px-Flag_of_Jersey.svg.png 2x" data-file-width="1000" data-file-height="600" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Jersey" title="Portal:Jersey">Jersey portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Politics_of_Jersey" title="Politics of Jersey">Politics of Jersey</a></li>
+<li><a href="/wiki/Chief_Minister_of_Jersey" title="Chief Minister of Jersey">Chief Minister of Jersey</a></li>
+<li><a href="/wiki/Law_of_Jersey" title="Law of Jersey">Law of Jersey</a></li>
+<li><a href="/wiki/States_of_Guernsey" title="States of Guernsey">States of Guernsey</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=States_of_Jersey&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.statesassembly.gov.je/about/history/Pages/StatesAssemblyHistory.aspx">"History of the States Assembly"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 December</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=History+of+the+States+Assembly&amp;rft_id=http%3A%2F%2Fwww.statesassembly.gov.je%2Fabout%2Fhistory%2FPages%2FStatesAssemblyHistory.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStates+of+Jersey" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-jerseylaw1-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-jerseylaw1_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-jerseylaw1_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160418152552/http://www.jerseylaw.je/law/display.aspx?url=lawsinforce%2Fconsolidated%2F15%2F15.120_Codeof1771_RevisedEdition_1January2009.htm#Toc223147241">"Jersey Law &#124; Revised &#124; Revised &#124; Revised Edition – Showing the law at 1 January 2009 – Code of 1771 &#124; 1 Jan 2009 &#124; 1 Jan 2009"</a>. Jerseylaw.je. 8 March 2012. Archived from <a rel="nofollow" class="external text" href="http://www.jerseylaw.je/law/display.aspx?url=lawsinforce%2fconsolidated%2f15%2f15.120_Codeof1771_RevisedEdition_1January2009.htm#Toc223147241">the original</a> on 18 April 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">1 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jersey+Law+%26%23124%3B+Revised+%26%23124%3B+Revised+%26%23124%3B+Revised+Edition+%E2%80%93+Showing+the+law+at+1+January+2009+%E2%80%93+Code+of+1771+%26%23124%3B+1+Jan+2009+%26%23124%3B+1+Jan+2009&amp;rft.pub=Jerseylaw.je&amp;rft.date=2012-03-08&amp;rft_id=http%3A%2F%2Fwww.jerseylaw.je%2Flaw%2Fdisplay.aspx%3Furl%3Dlawsinforce%252fconsolidated%252f15%252f15.120_Codeof1771_RevisedEdition_1January2009.htm%23Toc223147241&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStates+of+Jersey" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.statesassembly.gov.je/about/history/Pages/WhatIsAssembly.aspx">"What is the States Assembly?"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 December</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=What+is+the+States+Assembly%3F&amp;rft_id=http%3A%2F%2Fwww.statesassembly.gov.je%2Fabout%2Fhistory%2FPages%2FWhatIsAssembly.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStates+of+Jersey" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120523212319/http://www.statesassembly.gov.je/SiteCollectionDocuments/States%20Assembly/States%20of%20Jersey%20Law%202005.pdf">"States of Jersey Law 2005"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.statesassembly.gov.je/SiteCollectionDocuments/States%20Assembly/States%20of%20Jersey%20Law%202005.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 23 May 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">2 February</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=States+of+Jersey+Law+2005&amp;rft_id=http%3A%2F%2Fwww.statesassembly.gov.je%2FSiteCollectionDocuments%2FStates%2520Assembly%2FStates%2520of%2520Jersey%2520Law%25202005.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStates+of+Jersey" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120120150806/http://www.jerseylaw.je/Law/display.aspx?url=lawsinforce%2Fhtm%2FLawFiles%2F2011%2FL-13-2011.htm">"States of Jersey (Miscellaneous Provisions) Law 2011"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.jerseylaw.je/Law/display.aspx?url=lawsinforce%2Fhtm%2FLawFiles%2F2011%2FL-13-2011.htm">the original</a> on 20 January 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">20 October</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=States+of+Jersey+%28Miscellaneous+Provisions%29+Law+2011&amp;rft_id=http%3A%2F%2Fwww.jerseylaw.je%2FLaw%2Fdisplay.aspx%3Furl%3Dlawsinforce%252Fhtm%252FLawFiles%252F2011%252FL-13-2011.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStates+of+Jersey" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://www.statesassembly.gov.je">"Proposition P 99 of 2011"</a>, <i>DRAFT STATES OF JERSEY (MISCELLANEOUS PROVISIONS) LAW 201-: REQUEST TO PRIVY COUNCIL</i>, 6 June 2011<span class="reference-accessdate">, retrieved <span class="nowrap">2011-10-20</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Proposition+P+99+of+2011&amp;rft.btitle=DRAFT+STATES+OF+JERSEY+%28MISCELLANEOUS+PROVISIONS%29+LAW+201-%3A+REQUEST+TO+PRIVY+COUNCIL&amp;rft.date=2011-06-06&amp;rft_id=http%3A%2F%2Fwww.statesassembly.gov.je&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStates+of+Jersey" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/>; <cite class="citation web">BBC (2011). <a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/world-europe-jersey-13685192">"BBC News – Jersey petition to Privy Council over senator change"</a>. <i>bbc.co.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 October</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=bbc.co.uk&amp;rft.atitle=BBC+News+%E2%80%93+Jersey+petition+to+Privy+Council+over+senator+change&amp;rft.date=2011&amp;rft.au=BBC&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld-europe-jersey-13685192&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStates+of+Jersey" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">States of Jersey Law 2005, Article 1 <a rel="nofollow" class="external free" href="http://www.jerseylaw.je/Law/display.aspx?url=lawsinforce/htm/LawFiles/2005/l-08-2005.htm#_Toc88473877">http://www.jerseylaw.je/Law/display.aspx?url=lawsinforce/htm/LawFiles/2005/l-08-2005.htm#_Toc88473877</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20111003103304/http://www.jerseylaw.je/Law/display.aspx?url=lawsinforce%2Fhtm%2FLawFiles%2F2005%2Fl-08-2005.htm">Archived</a> 3 October 2011 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">States of Jersey Law 2005, Article 40 <a rel="nofollow" class="external free" href="http://www.jerseylaw.je/Law/display.aspx?url=lawsinforce/htm/LawFiles/2005/l-08-2005.htm#_Toc88473923">http://www.jerseylaw.je/Law/display.aspx?url=lawsinforce/htm/LawFiles/2005/l-08-2005.htm#_Toc88473923</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20111003103304/http://www.jerseylaw.je/Law/display.aspx?url=lawsinforce%2Fhtm%2FLawFiles%2F2005%2Fl-08-2005.htm">Archived</a> 3 October 2011 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">States of Jersey Law 2005, Article 41 <a rel="nofollow" class="external free" href="http://www.jerseylaw.je/Law/display.aspx?url=lawsinforce/htm/LawFiles/2005/l-08-2005.htm#_Toc88473924">http://www.jerseylaw.je/Law/display.aspx?url=lawsinforce/htm/LawFiles/2005/l-08-2005.htm#_Toc88473924</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20111003103304/http://www.jerseylaw.je/Law/display.aspx?url=lawsinforce%2Fhtm%2FLawFiles%2F2005%2Fl-08-2005.htm">Archived</a> 3 October 2011 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite id="CITEREFBen2011" class="citation">Ben, Quérée (5 September 2011), "Move to get more ministers 'involved<span class="cs1-kern-right">'</span>", <i>Jersey Evening Post</i>, p.&#160;9</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Jersey+Evening+Post&amp;rft.atitle=Move+to+get+more+ministers+%27involved%27&amp;rft.pages=9&amp;rft.date=2011-09-05&amp;rft.aulast=Ben&amp;rft.aufirst=Qu%C3%A9r%C3%A9e&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStates+of+Jersey" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Minutes of the States of Jersey, 15 March 2011 <a rel="nofollow" class="external free" href="http://www.statesassembly.gov.je">http://www.statesassembly.gov.je</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thisisjersey.com/election/deputies/st-helier-no-2/">"Jersey Evening Post Election 2008: St Helier No. 2"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-08-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jersey+Evening+Post+Election+2008%3A+St+Helier+No.+2&amp;rft_id=http%3A%2F%2Fwww.thisisjersey.com%2Felection%2Fdeputies%2Fst-helier-no-2%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStates+of+Jersey" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/>; <cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thisisjersey.com/election/deputies/st-helier-no-1/">"Jersey Evening Post Election 2008: St Helier No. 1"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-08-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Jersey+Evening+Post+Election+2008%3A+St+Helier+No.+1&amp;rft_id=http%3A%2F%2Fwww.thisisjersey.com%2Felection%2Fdeputies%2Fst-helier-no-1%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStates+of+Jersey" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Querée, Ben (16 August 2010). <a rel="nofollow" class="external text" href="http://www.thisisjersey.com/2010/08/16/is-the-party-over/">"Is the party over?"</a>. <i>Jersey Evening Post</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-08-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Jersey+Evening+Post&amp;rft.atitle=Is+the+party+over%3F&amp;rft.date=2010-08-16&amp;rft.aulast=Quer%C3%A9e&amp;rft.aufirst=Ben&amp;rft_id=http%3A%2F%2Fwww.thisisjersey.com%2F2010%2F08%2F16%2Fis-the-party-over%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStates+of+Jersey" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">States of Jersey. <a rel="nofollow" class="external text" href="http://www.scrutiny.gov.je/">"The Scrutiny Website"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">26 August</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Scrutiny+Website&amp;rft.au=States+of+Jersey&amp;rft_id=http%3A%2F%2Fwww.scrutiny.gov.je%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStates+of+Jersey" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Morris, P.E. (2008). "The new systems of government in the Channel Islands". <i>Public Law</i>. London: Sweet and Maxwell. [2008] (Autumn): 430. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0033-3565">0033-3565</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Public+Law&amp;rft.atitle=The+new+systems+of+government+in+the+Channel+Islands&amp;rft.volume=%5B2008%5D&amp;rft.issue=Autumn&amp;rft.pages=430&amp;rft.date=2008&amp;rft.issn=0033-3565&amp;rft.aulast=Morris&amp;rft.aufirst=P.E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStates+of+Jersey" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><i>Balleine's History of Jersey</i>, Marguerite Syvret and Joan Stevens (1998) <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-86077-065-7" title="Special:BookSources/1-86077-065-7">1-86077-065-7</a></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.gov.je/SiteCollectionDocuments/Government%20and%20administration/ID%20ClothierReport%20100331%20CC.pdf">Report of the Review Panel on the Machinery of Government in Jersey</a>, 21 December 2000</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.statesassembly.gov.je/AssemblyPropositions/2006/10662-44268-29122006.pdf">"COMPOSITION AND ELECTION OF THE STATES ASSEMBLY: PROPOSED REFORM (P.145/2006): AMENDMENTS Lodged au Greffe on 28th December 2006 by Deputy G.P. Southern of St. Helier STATES"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=COMPOSITION+AND+ELECTION+OF+THE+STATES+ASSEMBLY%3A+PROPOSED+REFORM+%28P.145%2F2006%29%3A+AMENDMENTS+Lodged+au+Greffe+on+28th+December+2006+by+Deputy+G.P.+Southern+of+St.+Helier+STATES&amp;rft_id=http%3A%2F%2Fwww.statesassembly.gov.je%2FAssemblyPropositions%2F2006%2F10662-44268-29122006.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStates+of+Jersey" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20111003103304/http://www.jerseylaw.je/Law/display.aspx?url=lawsinforce%2Fhtm%2FLawFiles%2F2005%2Fl-08-2005.htm">"States of Jersey Law 2005"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.jerseylaw.je/Law/display.aspx?url=lawsinforce/htm/LawFiles/2005/l-08-2005.htm">the original</a> on 3 October 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">29 August</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=States+of+Jersey+Law+2005&amp;rft_id=http%3A%2F%2Fwww.jerseylaw.je%2FLaw%2Fdisplay.aspx%3Furl%3Dlawsinforce%2Fhtm%2FLawFiles%2F2005%2Fl-08-2005.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStates+of+Jersey" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.guernsey-society.org.uk/donkipedia/index.php5?title=States_Building">"Guernsey Society website"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-08-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Guernsey+Society+website&amp;rft_id=http%3A%2F%2Fwww.guernsey-society.org.uk%2Fdonkipedia%2Findex.php5%3Ftitle%3DStates_Building&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStates+of+Jersey" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation book">Falle, Raymond (1986). "1". <i>A Brief History of the States of Jersey and the States Chamber</i>. St Helier, Jersey: States' Greffe. p.&#160;1.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=1&amp;rft.btitle=A+Brief+History+of+the+States+of+Jersey+and+the+States+Chamber&amp;rft.place=St+Helier%2C+Jersey&amp;rft.pages=1&amp;rft.pub=States%27+Greffe&amp;rft.date=1986&amp;rft.aulast=Falle&amp;rft.aufirst=Raymond&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStates+of+Jersey" class="Z3988"></span> <span class="cs1-visible-error error citation-comment"><code class="cs1-code">&#124;access-date=</code> requires <code class="cs1-code">&#124;url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.statesassembly.gov.je/Pages/Votes.aspx?VotingId=3973">"Vote for States Assembly: filming proceedings and the installation of clocks – paragraphs (a) and (b)"</a>. <i>States Assembly web site</i>. States of Jersey. 15 July 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">15 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=States+Assembly+web+site&amp;rft.atitle=Vote+for+States+Assembly%3A+filming+proceedings+and+the+installation+of+clocks+%E2%80%93+paragraphs+%28a%29+and+%28b%29&amp;rft.date=2015-07-15&amp;rft_id=http%3A%2F%2Fwww.statesassembly.gov.je%2FPages%2FVotes.aspx%3FVotingId%3D3973&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStates+of+Jersey" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=States_of_Jersey&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.statesassembly.gov.je">Official Assembly site</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.gov.je">States of Jersey government site</a></li>
+<li><a rel="nofollow" class="external text" href="https://twitter.com/statesofjersey">Follow States of Jersey on Twitter</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.vote.je">Jersey Elections site</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20071031102718/http://www.jerseylegalinfo.je/Law/display.aspx?url=lawsinforce%5Chtm%5CLawFiles%5C2005%2Fl-08-2005.htm">Text of States of Jersey Law (2005)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cpahq.org/uploadedFiles/Information_Services/Publications/The_Parliamentarian/jersey%20supplement%202008.pdf">Commonwealth Parliamentary Association article – Large 20MB file</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Jersey_articles" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Jersey_topics" title="Template:Jersey topics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Jersey_topics" title="Template talk:Jersey topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Jersey_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Jersey_articles" style="font-size:114%;margin:0 4em"><a href="/wiki/Jersey" title="Jersey">Jersey</a>&#160;articles</div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Geography&amp;#10;*_Geology">
+<ul><li><a href="/wiki/Geography_of_Jersey" title="Geography of Jersey">Geography</a></li>
+<li><a href="/wiki/Geology_of_Jersey" title="Geology of Jersey">Geology</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Jersey" title="History of Jersey">History</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Archaeology_of_the_Channel_Islands" title="Archaeology of the Channel Islands">Archaeology</a></li>
+<li><a href="/wiki/La_Cotte_de_St_Brelade" title="La Cotte de St Brelade">La Cotte de St Brelade</a></li>
+<li><a href="/wiki/Jersey_Dolmens" class="mw-redirect" title="Jersey Dolmens">Dolmens</a>
+<ul><li><a href="/wiki/La_Hougue_Bie" title="La Hougue Bie">La Hougue Bie</a></li></ul></li>
+<li><a href="/wiki/Mont_Orgueil" title="Mont Orgueil">Mont Orgueil</a></li>
+<li><a href="/wiki/Grosnez_Castle" title="Grosnez Castle">Grosnez Castle</a></li>
+<li><a href="/wiki/Elizabeth_Castle" title="Elizabeth Castle">Elizabeth Castle</a></li>
+<li><a href="/wiki/Battle_of_Jersey" title="Battle of Jersey">Battle of Jersey</a></li>
+<li><a href="/wiki/La_Corbi%C3%A8re" title="La Corbière">La Corbière Lighthouse</a></li>
+<li><a href="/wiki/Windmills_in_the_Channel_Islands#Jersey" title="Windmills in the Channel Islands">Windmills</a></li>
+<li><a href="/wiki/Coastal_fortifications_of_Jersey" title="Coastal fortifications of Jersey">Coastal fortifications</a></li>
+<li><a href="/wiki/Jersey_Railway" title="Jersey Railway">Jersey Railway</a></li>
+<li><a href="/wiki/Jersey_Eastern_Railway" title="Jersey Eastern Railway">Jersey Eastern Railway</a></li>
+<li><a href="/wiki/German_occupation_of_the_Channel_Islands" title="German occupation of the Channel Islands">German occupation during World War II</a>
+<ul><li><a href="/wiki/Evacuation_of_civilians_from_the_Channel_Islands_in_1940" title="Evacuation of civilians from the Channel Islands in 1940">Evacuation</a></li>
+<li><a href="/wiki/Resistance_in_the_German-occupied_Channel_Islands" title="Resistance in the German-occupied Channel Islands">Resistance</a></li>
+<li><a href="/wiki/Living_with_the_enemy_in_the_German-occupied_Channel_Islands" title="Living with the enemy in the German-occupied Channel Islands">Relationships</a></li>
+<li><a href="/wiki/Civilian_life_under_the_German_occupation_of_the_Channel_Islands" title="Civilian life under the German occupation of the Channel Islands">Civilian life</a></li>
+<li><a href="/wiki/Deportations_from_the_German-occupied_Channel_Islands" title="Deportations from the German-occupied Channel Islands">Deportations</a></li>
+<li><a href="/wiki/Sechsschartent%C3%BCrme,_Heavy_MG_bunker,_La_Mare_Mill" class="mw-redirect" title="Sechsschartentürme, Heavy MG bunker, La Mare Mill">Sechsschartentürme</a></li>
+<li><a href="/wiki/Hohlgangsanlage_tunnels,_Jersey" title="Hohlgangsanlage tunnels, Jersey">German tunnels</a></li>
+<li><a href="/wiki/Hohlgangsanlage_8" title="Hohlgangsanlage 8">War Tunnels Museum</a></li>
+<li><a href="/wiki/Battery_Lothringen" title="Battery Lothringen">Battery Lothringen</a></li>
+<li><a href="/wiki/Battery_Moltke" title="Battery Moltke">Battery Moltke</a></li>
+<li><a href="/wiki/Channel_Islands_Occupation_Society" title="Channel Islands Occupation Society">Channel Islands Occupation Society (CIOS)</a></li></ul></li>
+<li><a href="/wiki/Jersey_Heritage" title="Jersey Heritage">Jersey Heritage</a></li>
+<li><a href="/wiki/National_Trust_for_Jersey" title="National Trust for Jersey">National Trust</a></li>
+<li><a href="/wiki/Maritime_history_of_the_Channel_Islands" title="Maritime history of the Channel Islands">Maritime</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_schools_in_Jersey" title="List of schools in Jersey">Schools</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">State</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Grainville_School" title="Grainville School">Grainville</a></li>
+<li><a href="/w/index.php?title=Haute_Vall%C3%A9e_School_Jersey&amp;action=edit&amp;redlink=1" class="new" title="Haute Vallée School Jersey (page does not exist)">Haute Vallée</a></li>
+<li><a href="/wiki/Hautlieu_School" title="Hautlieu School">Hautlieu</a></li>
+<li><a href="/wiki/Jersey_College_for_Girls" title="Jersey College for Girls">Jersey College for Girls</a></li>
+<li><a href="/wiki/Le_Rocquier_School" title="Le Rocquier School">Le Rocquier</a></li>
+<li><a href="/w/index.php?title=Les_Quennevais_School&amp;action=edit&amp;redlink=1" class="new" title="Les Quennevais School (page does not exist)">Les Quennevais</a></li>
+<li><a href="/wiki/Victoria_College,_Jersey" title="Victoria College, Jersey">Victoria College</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Private</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Beaulieu_Convent_School" title="Beaulieu Convent School">Beaulieu Convent School</a></li>
+<li><a href="/wiki/De_La_Salle_College_(Jersey)" class="mw-redirect" title="De La Salle College (Jersey)">De La Salle College</a></li>
+<li><a href="/wiki/St._Michael%27s_Preparatory_School" class="mw-redirect" title="St. Michael&#39;s Preparatory School">St Michael's Preparatory</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Jersey" title="Politics of Jersey">Politics</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bailiff_(Channel_Islands)" title="Bailiff (Channel Islands)">Bailiff</a>
+<ul><li><a href="/wiki/List_of_Bailiffs_of_Jersey" title="List of Bailiffs of Jersey">list</a></li></ul></li>
+<li><a href="/wiki/Chief_Minister_of_Jersey" title="Chief Minister of Jersey">Chief Minister</a></li>
+<li><a href="/wiki/Council_of_Ministers_of_Jersey" class="mw-redirect" title="Council of Ministers of Jersey">Council of Ministers</a></li>
+<li><a href="/wiki/States_of_Jersey_Customs_and_Immigration_Service" title="States of Jersey Customs and Immigration Service">Customs and immigration</a></li>
+<li><a href="/wiki/Duke_of_Normandy" title="Duke of Normandy">Duke of Normandy</a></li>
+<li><a href="/wiki/Elections_in_Jersey" title="Elections in Jersey">Elections</a></li>
+<li><a href="/wiki/Lieutenant_Governor_of_Jersey" title="Lieutenant Governor of Jersey">Lieutenant Governor</a></li>
+<li><a href="/wiki/Parish_Assembly_(Jersey)" title="Parish Assembly (Jersey)">Parish Assembly</a></li>
+<li><a href="/wiki/List_of_political_parties_in_Jersey" title="List of political parties in Jersey">Political parties</a>
+<ul><li><a href="/wiki/Jersey_Democratic_Alliance" title="Jersey Democratic Alliance">Democratic Alliance</a></li>
+<li><a href="/wiki/Centre_Party_(Jersey)" title="Centre Party (Jersey)">Centre Party</a></li>
+<li><a href="/w/index.php?title=Jersey_Conservative_Party&amp;action=edit&amp;redlink=1" class="new" title="Jersey Conservative Party (page does not exist)">Conservative Party</a></li></ul></li>
+<li><a href="/wiki/Procureur_du_Bien_Public" title="Procureur du Bien Public">Procureur du Bien Public</a></li>
+<li><a href="/wiki/Royal_Militia_of_the_Island_of_Jersey" title="Royal Militia of the Island of Jersey">Royal Militia</a></li>
+<li><a class="mw-selflink selflink">States Assembly</a></li>
+<li><a href="/wiki/List_of_Viscounts_of_Jersey" title="List of Viscounts of Jersey">Viscounts</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Law_of_Jersey" title="Law of Jersey">Law</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Courts_of_Jersey" title="Courts of Jersey">Courts</a></li>
+<li><i><a href="/wiki/Greffier" title="Greffier">Greffier</a></i></li>
+<li><a href="/wiki/HM_Prison_La_Moye" title="HM Prison La Moye">HM Prison La Moye</a></li>
+<li><a href="/wiki/Jersey_Legal_French" title="Jersey Legal French">Jersey Legal French</a></li>
+<li><a href="/wiki/List_of_members_of_the_judiciary_of_Jersey" title="List of members of the judiciary of Jersey">Judiciary</a></li>
+<li><a href="/wiki/Jurat#Jersey" title="Jurat">Jurat</a></li>
+<li><a href="/wiki/States_of_Jersey_Police" title="States of Jersey Police">Police</a>
+<ul><li><a href="/wiki/Honorary_Police" title="Honorary Police">Honorary</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Jersey" title="Economy of Jersey">Economy</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jersey_Electricity_Company" title="Jersey Electricity Company">Jersey Electricity Company</a></li>
+<li><a href="/wiki/Jersey_Post" title="Jersey Post">Jersey Post</a></li>
+<li><a href="/wiki/Jersey_pound" title="Jersey pound">Jersey pound</a>
+<ul><li><a href="/wiki/Coins_of_the_Jersey_pound" class="mw-redirect" title="Coins of the Jersey pound">coins</a></li></ul></li>
+<li><a href="/wiki/Jersey_livre" title="Jersey livre">Livre <span style="font-size:85%;">(former currency)</span></a></li>
+<li><a href="/wiki/Roads_in_Jersey" title="Roads in Jersey">Roads</a>
+<ul><li><a href="/wiki/Roads_Committee" title="Roads Committee">Committee</a></li>
+<li><a href="/wiki/Visite_du_Branchage" title="Visite du Branchage">Visite du Branchage</a></li></ul></li>
+<li><a href="/wiki/Telecommunications_in_Jersey" title="Telecommunications in Jersey">Telecommunications</a>
+<ul><li><a href="/wiki/JT_Group_Limited" title="JT Group Limited">JT Group Limited</a></li>
+<li><a href="/wiki/Newtel_Solutions" title="Newtel Solutions">Newtel Solutions</a></li>
+<li><a href="/wiki/Sure_(company)" title="Sure (company)">Sure</a></li>
+<li><a href="/wiki/Airtel-Vodafone" title="Airtel-Vodafone">Airtel-Vodafone</a></li></ul></li>
+<li><a href="/wiki/Transport_in_Jersey" title="Transport in Jersey">Transport</a>
+<ul><li><a href="/wiki/Jersey_Airport" title="Jersey Airport">airport</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Culture_of_Jersey" title="Culture of Jersey">Culture</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jersey_Battle_of_Flowers" title="Jersey Battle of Flowers">Battle of Flowers</a></li>
+<li><a href="/wiki/Catholic_Church_in_Jersey" title="Catholic Church in Jersey">Catholic Church</a></li>
+<li><a href="/wiki/Demographics_of_Jersey" title="Demographics of Jersey">Demographics</a></li>
+<li><a href="/wiki/Durrell_Wildlife_Park" class="mw-redirect" title="Durrell Wildlife Park">Durrell Wildlife Park</a></li>
+<li><a href="/wiki/Category:Education_in_Jersey" title="Category:Education in Jersey">Education</a></li>
+<li><a href="/wiki/Jersey_Eisteddfod" title="Jersey Eisteddfod">Eisteddfod</a></li>
+<li><a href="/wiki/J%C3%A8rriais" title="Jèrriais">Jèrriais language</a></li>
+<li><a href="/wiki/J%C3%A8rriais_literature" title="Jèrriais literature">Jèrriais literature</a></li>
+<li><a href="/wiki/Jersey_cattle" title="Jersey cattle">Jersey cow</a></li>
+<li><a href="/wiki/Jersey_Royal_potato" class="mw-redirect" title="Jersey Royal potato">Jersey Royal potato</a></li>
+<li><a href="/wiki/Music_of_Jersey" class="mw-redirect" title="Music of Jersey">Music</a>
+<ul><li><a href="/wiki/Jersey_Live" title="Jersey Live">Jersey Live</a></li>
+<li><a href="/wiki/Jersey_Opera_House" title="Jersey Opera House">Opera House</a></li></ul></li>
+<li><a href="/wiki/Religion_in_Jersey" title="Religion in Jersey">Religion</a></li>
+<li><a href="/wiki/Sport_in_Jersey" title="Sport in Jersey">Sport</a></li>
+<li><a href="/wiki/Theatre_of_Jersey" title="Theatre of Jersey">Theatre</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Media_of_Jersey" title="Media of Jersey">Media</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/BBC_Radio_Jersey" title="BBC Radio Jersey">BBC Radio Jersey</a></li>
+<li><a href="/wiki/Channel_103" title="Channel 103">Channel 103</a></li>
+<li><a href="/wiki/ITV_Channel_Television" title="ITV Channel Television">ITV Channel Television</a></li>
+<li><i><a href="/wiki/Jersey_Evening_Post" title="Jersey Evening Post">Jersey Evening Post</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Symbols_of_the_United_Kingdom,_the_Channel_Islands_and_the_Isle_of_Man#Bailiwick_of_Jersey" class="mw-redirect" title="Symbols of the United Kingdom, the Channel Islands and the Isle of Man">Symbols</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ma_Normandie" title="Ma Normandie">Anthem</a></li>
+<li><a href="/wiki/Coat_of_arms_of_Jersey" title="Coat of arms of Jersey">Coat of arms</a></li>
+<li><a href="/wiki/Flag_of_Jersey" title="Flag of Jersey">Flag</a></li>
+<li><a href="/wiki/Liberation_Day_(Jersey)" class="mw-redirect" title="Liberation Day (Jersey)">Liberation Day</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Vingtaines_by_parish" style="font-size:114%;margin:0 4em"><a href="/wiki/Vingtaine" title="Vingtaine">Vingtaines</a> by <a href="/wiki/Parishes_of_Jersey" title="Parishes of Jersey">parish</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Saint_Helier" title="Saint Helier">Saint Helier</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Vingtaine_de_la_Ville" title="Vingtaine de la Ville">de la Ville</a></li>
+<li><a href="/wiki/Vingtaine_du_Rouge_Bouillon" title="Vingtaine du Rouge Bouillon">du Rouge Bouillon</a></li>
+<li><a href="/wiki/Vingtaine_de_Bas_du_Mont_au_Pr%C3%AAtre" title="Vingtaine de Bas du Mont au Prêtre">de Bas du Mont au Prêtre</a></li>
+<li><a href="/wiki/Vingtaine_de_Haut_du_Mont_au_Pr%C3%AAtre" title="Vingtaine de Haut du Mont au Prêtre">de Haut du Mont au Prêtre</a></li>
+<li><a href="/wiki/Vingtaine_du_Mont_%C3%A0_l%27Abb%C3%A9" title="Vingtaine du Mont à l&#39;Abbé">du Mont à l'Abbé</a></li>
+<li><a href="/wiki/Vingtaine_du_Mont_Cochon" title="Vingtaine du Mont Cochon">du Mont Cochon</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Grouville" title="Grouville">Grouville</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Vingtaine_des_Marais" title="Vingtaine des Marais">des Marais</a></li>
+<li><a href="/wiki/Vingtaine_de_la_Rue" title="Vingtaine de la Rue">de la Rue</a></li>
+<li><a href="/wiki/Vingtaine_de_Longueville" title="Vingtaine de Longueville">de Longueville</a></li>
+<li><a href="/wiki/Vingtaine_de_la_Rocque" title="Vingtaine de la Rocque">de la Rocque</a></li>
+<li><a href="/wiki/Minquiers" title="Minquiers">Les Minquiers</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Saint_Br%C3%A9lade" title="Saint Brélade">Saint Brélade</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Vingtaine_de_Noirmont" title="Vingtaine de Noirmont">de Noirmont</a></li>
+<li><a href="/wiki/Vingtaine_du_Coin" title="Vingtaine du Coin">du Coin</a></li>
+<li><a href="/wiki/Vingtaine_des_Quennevais" title="Vingtaine des Quennevais">des Quennevais</a></li>
+<li><a href="/wiki/Vingtaine_de_la_Moye" title="Vingtaine de la Moye">de la Moye</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Saint_Clement,_Jersey" title="Saint Clement, Jersey">Saint Clement</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Grande_Vingtaine_(St_Clement)" title="Grande Vingtaine (St Clement)">Grande Vingtaine</a></li>
+<li><a href="/wiki/Vingtaine_du_Rocquier" title="Vingtaine du Rocquier">du Rocquier</a></li>
+<li><a href="/wiki/Vingtaine_de_Samar%C3%A8s" title="Vingtaine de Samarès">de Samarès</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Saint_John,_Jersey" title="Saint John, Jersey">Saint John</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Vingtaine_du_Nord_(St_John)" title="Vingtaine du Nord (St John)">du Nord</a></li>
+<li><a href="/wiki/Vingtaine_de_H%C3%A9rupe" title="Vingtaine de Hérupe">de Hérupe</a></li>
+<li><a href="/wiki/Vingtaine_du_Douet_(St_John)" title="Vingtaine du Douet (St John)">du Douet</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Saint_Lawrence,_Jersey" title="Saint Lawrence, Jersey">Saint Lawrence</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Vingtaine_de_la_Vall%C3%A9e" title="Vingtaine de la Vallée">de la Vallée</a></li>
+<li><a href="/wiki/Vingtaine_du_Coin_H%C3%A2tain" title="Vingtaine du Coin Hâtain">du Coin Hâtain</a></li>
+<li><a href="/wiki/Vingtaine_du_Coin_Motier" title="Vingtaine du Coin Motier">du Coin Motier</a></li>
+<li><a href="/wiki/Vingtaine_du_Coin_Tourgis_Nord" title="Vingtaine du Coin Tourgis Nord">du Coin Tourgis Nord</a></li>
+<li><a href="/wiki/Vingtaine_du_Coin_Tourgis_Sud" title="Vingtaine du Coin Tourgis Sud">du Coin Tourgis Sud</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Saint_Martin,_Jersey" title="Saint Martin, Jersey">Saint Martin</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Vingtaine_de_Rozel" title="Vingtaine de Rozel">de Rozel</a></li>
+<li><a href="/wiki/Vingtaine_de_Faldouet" title="Vingtaine de Faldouet">de Faldouet</a></li>
+<li><a href="/wiki/Vingtaine_de_la_Qu%C3%A9ru%C3%A9e" title="Vingtaine de la Quéruée">de la Quéruée</a></li>
+<li><a href="/wiki/Vingtaine_de_l%27%C3%89glise" title="Vingtaine de l&#39;Église">de l'Église</a></li>
+<li><a href="/wiki/Vingtaine_du_Fief_de_la_Reine" title="Vingtaine du Fief de la Reine">du Fief de la Reine</a></li>
+<li><a href="/wiki/%C3%89cr%C3%A9hous" title="Écréhous">Les Écréhous</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Saint_Mary,_Jersey" title="Saint Mary, Jersey">Saint Mary</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Vingtaine_du_Sud" title="Vingtaine du Sud">du Sud</a></li>
+<li><a href="/wiki/Vingtaine_du_Nord_(St_Mary)" title="Vingtaine du Nord (St Mary)">du Nord</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Saint_Ouen,_Jersey" title="Saint Ouen, Jersey">Saint Ouen</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Petite_Cueillette&amp;action=edit&amp;redlink=1" class="new" title="Petite Cueillette (page does not exist)">Petite Cueillette</a></li>
+<li><a href="/w/index.php?title=Grande_Cueillette&amp;action=edit&amp;redlink=1" class="new" title="Grande Cueillette (page does not exist)">Grande Cueillette</a></li>
+<li><a href="/w/index.php?title=Cueillette_de_Grantez&amp;action=edit&amp;redlink=1" class="new" title="Cueillette de Grantez (page does not exist)">Cueillette de Grantez</a></li>
+<li><a href="/w/index.php?title=Cueillette_de_Millais&amp;action=edit&amp;redlink=1" class="new" title="Cueillette de Millais (page does not exist)">Cueillette de Millais</a></li>
+<li><a href="/w/index.php?title=Cueillette_de_Vinchelez&amp;action=edit&amp;redlink=1" class="new" title="Cueillette de Vinchelez (page does not exist)">Cueillette de Vinchelez</a></li>
+<li><a href="/w/index.php?title=Cueillette_de_L%C3%A9oville&amp;action=edit&amp;redlink=1" class="new" title="Cueillette de Léoville (page does not exist)">Cueillette de Léoville</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Saint_Peter,_Jersey" title="Saint Peter, Jersey">Saint Peter</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Vingtaine_du_Douet_(St_Peter)" title="Vingtaine du Douet (St Peter)">du Douet</a></li>
+<li><a href="/wiki/Vingtaine_de_St._Nicolas" title="Vingtaine de St. Nicolas">de St. Nicolas</a></li>
+<li><a href="/wiki/Grande_Vingtaine_(St_Peter)" title="Grande Vingtaine (St Peter)">Grand Vingtaine</a></li>
+<li><a href="/wiki/Vingtaine_des_Augerez" title="Vingtaine des Augerez">des Augerez</a></li>
+<li><a href="/wiki/Vingtaine_du_Coin_Varin" title="Vingtaine du Coin Varin">du Coin Varin</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Saint_Saviour,_Jersey" title="Saint Saviour, Jersey">Saint Saviour</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Vingtaine_de_Maufant&amp;action=edit&amp;redlink=1" class="new" title="Vingtaine de Maufant (page does not exist)">de Maufant</a></li>
+<li><a href="/w/index.php?title=Vingtaine_de_Sous_la_Hougue&amp;action=edit&amp;redlink=1" class="new" title="Vingtaine de Sous la Hougue (page does not exist)">de Sous la Hougue</a></li>
+<li><a href="/w/index.php?title=Vingtaine_des_Pigneaux&amp;action=edit&amp;redlink=1" class="new" title="Vingtaine des Pigneaux (page does not exist)">des Pigneaux</a></li>
+<li><a href="/w/index.php?title=Vingtaine_de_la_Grande_Longueville&amp;action=edit&amp;redlink=1" class="new" title="Vingtaine de la Grande Longueville (page does not exist)">de la Grande Longueville</a></li>
+<li><a href="/w/index.php?title=Vingtaine_de_la_Petite_Longueville&amp;action=edit&amp;redlink=1" class="new" title="Vingtaine de la Petite Longueville (page does not exist)">de la Petite Longueville</a></li>
+<li><a href="/w/index.php?title=Vingtaine_de_Sous_l%27%C3%89glise&amp;action=edit&amp;redlink=1" class="new" title="Vingtaine de Sous l&#39;Église (page does not exist)">de Sous l'Église</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Trinity,_Jersey" title="Trinity, Jersey">Trinity</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Vingtaine_de_la_Ville-%C3%A0-l%27%C3%89v%C3%AAque" title="Vingtaine de la Ville-à-l&#39;Évêque">de la Ville-à-l'Évêque</a></li>
+<li><a href="/wiki/Vingtaine_de_Rozel" title="Vingtaine de Rozel">de Rozel</a></li>
+<li><a href="/wiki/Vingtaine_du_Rondin" title="Vingtaine du Rondin">du Rondin</a></li>
+<li><a href="/wiki/Vingtaine_des_Augr%C3%A8s" title="Vingtaine des Augrès">des Augrès</a></li>
+<li><a href="/wiki/Vingtaine_de_la_Croiserie" title="Vingtaine de la Croiserie">de la Croiserie</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="font-weight:bold;"><div><div style="margin-bottom:-0.4em;"><ul><li><span style="font-weight:normal;"><a href="/wiki/Outline_of_Jersey" title="Outline of Jersey">Outline</a></span></li><li><span style="font-weight:normal;"><a href="/wiki/Bibliography_of_Jersey" title="Bibliography of Jersey">Bibliography</a></span></li></ul></div>
+<ul><li><a href="/wiki/Category:Jersey" title="Category:Jersey">Category</a></li>
+<li><a href="/wiki/Portal:Jersey" title="Portal:Jersey">Portal</a></li></ul></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Parliament_of_Europe" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Europe_topic" title="Template:Europe topic"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Europe_topic" title="Template talk:Europe topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Europe_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Parliament_of_Europe" style="font-size:114%;margin:0 4em"><a href="/wiki/Parliament_of_Europe" class="mw-redirect" title="Parliament of Europe">Parliament of Europe </a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sovereign states</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Parliament_of_Albania" title="Parliament of Albania">Albania</a></li>
+<li><a href="/wiki/Parliament_of_Andorra" class="mw-redirect" title="Parliament of Andorra">Andorra</a></li>
+<li><a href="/wiki/Parliament_of_Armenia" class="mw-redirect" title="Parliament of Armenia">Armenia</a></li>
+<li><a href="/wiki/Parliament_of_Austria" class="mw-redirect" title="Parliament of Austria">Austria</a></li>
+<li><a href="/wiki/Parliament_of_Azerbaijan" class="mw-redirect" title="Parliament of Azerbaijan">Azerbaijan</a></li>
+<li><a href="/wiki/Parliament_of_Belarus" class="mw-redirect" title="Parliament of Belarus">Belarus</a></li>
+<li><a href="/wiki/Parliament_of_Belgium" class="mw-redirect" title="Parliament of Belgium">Belgium</a></li>
+<li><a href="/wiki/Parliament_of_Bosnia_and_Herzegovina" class="mw-redirect" title="Parliament of Bosnia and Herzegovina">Bosnia and Herzegovina</a></li>
+<li><a href="/wiki/Parliament_of_Bulgaria" class="mw-redirect" title="Parliament of Bulgaria">Bulgaria</a></li>
+<li><a href="/wiki/Parliament_of_Croatia" class="mw-redirect" title="Parliament of Croatia">Croatia</a></li>
+<li><a href="/wiki/Parliament_of_Cyprus" class="mw-redirect" title="Parliament of Cyprus">Cyprus</a></li>
+<li><a href="/wiki/Parliament_of_the_Czech_Republic" title="Parliament of the Czech Republic">Czech Republic</a></li>
+<li><a href="/wiki/Parliament_of_Denmark" class="mw-redirect" title="Parliament of Denmark">Denmark</a></li>
+<li><a href="/wiki/Parliament_of_Estonia" class="mw-redirect" title="Parliament of Estonia">Estonia</a></li>
+<li><a href="/wiki/Parliament_of_Finland" title="Parliament of Finland">Finland</a></li>
+<li><a href="/wiki/Parliament_of_France" class="mw-redirect" title="Parliament of France">France</a></li>
+<li><a href="/wiki/Parliament_of_Georgia_(country)" class="mw-redirect" title="Parliament of Georgia (country)">Georgia</a></li>
+<li><a href="/wiki/Parliament_of_Germany" class="mw-redirect" title="Parliament of Germany">Germany</a></li>
+<li><a href="/wiki/Parliament_of_Greece" class="mw-redirect" title="Parliament of Greece">Greece</a></li>
+<li><a href="/wiki/Parliament_of_Hungary" class="mw-redirect" title="Parliament of Hungary">Hungary</a></li>
+<li><a href="/wiki/Parliament_of_Iceland" class="mw-redirect" title="Parliament of Iceland">Iceland</a></li>
+<li><a href="/wiki/Parliament_of_the_Republic_of_Ireland" class="mw-redirect" title="Parliament of the Republic of Ireland">Ireland</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Parliament_of_Italy" class="mw-redirect" title="Parliament of Italy">Italy</a></li>
+<li><a href="/wiki/Parliament_of_Kazakhstan" title="Parliament of Kazakhstan">Kazakhstan</a></li>
+<li><a href="/wiki/Parliament_of_Latvia" class="mw-redirect" title="Parliament of Latvia">Latvia</a></li>
+<li><a href="/wiki/Parliament_of_Liechtenstein" class="mw-redirect" title="Parliament of Liechtenstein">Liechtenstein</a></li>
+<li><a href="/wiki/Parliament_of_Lithuania" class="mw-redirect" title="Parliament of Lithuania">Lithuania</a></li>
+<li><a href="/wiki/Parliament_of_Luxembourg" class="mw-redirect" title="Parliament of Luxembourg">Luxembourg</a></li>
+<li><a href="/wiki/Parliament_of_the_Republic_of_Macedonia" class="mw-redirect" title="Parliament of the Republic of Macedonia">Macedonia</a></li>
+<li><a href="/wiki/Parliament_of_Malta" title="Parliament of Malta">Malta</a></li>
+<li><a href="/wiki/Parliament_of_Moldova" class="mw-redirect" title="Parliament of Moldova">Moldova</a></li>
+<li><a href="/wiki/Parliament_of_Monaco" class="mw-redirect" title="Parliament of Monaco">Monaco</a></li>
+<li><a href="/wiki/Parliament_of_Montenegro" title="Parliament of Montenegro">Montenegro</a></li>
+<li><a href="/wiki/Parliament_of_the_Netherlands" class="mw-redirect" title="Parliament of the Netherlands">Netherlands</a></li>
+<li><a href="/wiki/Parliament_of_Norway" class="mw-redirect" title="Parliament of Norway">Norway</a></li>
+<li><a href="/wiki/Parliament_of_Poland" title="Parliament of Poland">Poland</a></li>
+<li><a href="/wiki/Parliament_of_Portugal" class="mw-redirect" title="Parliament of Portugal">Portugal</a></li>
+<li><a href="/wiki/Parliament_of_Romania" title="Parliament of Romania">Romania</a></li>
+<li><a href="/wiki/Parliament_of_Russia" class="mw-redirect" title="Parliament of Russia">Russia</a></li>
+<li><a href="/wiki/Parliament_of_San_Marino" class="mw-redirect" title="Parliament of San Marino">San Marino</a></li>
+<li><a href="/wiki/Parliament_of_Serbia" class="mw-redirect" title="Parliament of Serbia">Serbia</a></li>
+<li><a href="/wiki/Parliament_of_Slovakia" class="mw-redirect" title="Parliament of Slovakia">Slovakia</a></li>
+<li><a href="/wiki/Parliament_of_Slovenia" class="mw-redirect" title="Parliament of Slovenia">Slovenia</a></li>
+<li><a href="/wiki/Parliament_of_Spain" class="mw-redirect" title="Parliament of Spain">Spain</a></li>
+<li><a href="/wiki/Parliament_of_Sweden" class="mw-redirect" title="Parliament of Sweden">Sweden</a></li>
+<li><a href="/wiki/Parliament_of_Switzerland" class="mw-redirect" title="Parliament of Switzerland">Switzerland</a></li>
+<li><a href="/wiki/Parliament_of_Turkey" class="mw-redirect" title="Parliament of Turkey">Turkey</a></li>
+<li><a href="/wiki/Parliament_of_Ukraine" class="mw-redirect" title="Parliament of Ukraine">Ukraine</a></li>
+<li><a href="/wiki/Parliament_of_the_United_Kingdom" title="Parliament of the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Parliament_of_Vatican_City" class="mw-redirect" title="Parliament of Vatican City">Vatican City</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">States with limited<br />recognition</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Parliament_of_Abkhazia" class="mw-redirect" title="Parliament of Abkhazia">Abkhazia</a></li>
+<li><a href="/wiki/Parliament_of_the_Republic_of_Artsakh" class="mw-redirect" title="Parliament of the Republic of Artsakh">Artsakh</a></li>
+<li><a href="/wiki/Parliament_of_Kosovo" class="mw-redirect" title="Parliament of Kosovo">Kosovo</a></li>
+<li><a href="/wiki/Parliament_of_Northern_Cyprus" class="mw-redirect" title="Parliament of Northern Cyprus">Northern Cyprus</a></li>
+<li><a href="/wiki/Parliament_of_South_Ossetia" title="Parliament of South Ossetia">South Ossetia</a></li>
+<li><a href="/wiki/Parliament_of_Transnistria" class="mw-redirect" title="Parliament of Transnistria">Transnistria</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Dependencies and<br />other entities</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Parliament_of_%C3%85land" title="Parliament of Åland">Åland</a></li>
+<li><a href="/wiki/Parliament_of_the_Faroe_Islands" class="mw-redirect" title="Parliament of the Faroe Islands">Faroe Islands</a></li>
+<li><a href="/wiki/Parliament_of_Gibraltar" class="mw-redirect" title="Parliament of Gibraltar">Gibraltar</a></li>
+<li><a href="/wiki/Parliament_of_Guernsey" class="mw-redirect" title="Parliament of Guernsey">Guernsey</a></li>
+<li><a href="/wiki/Parliament_of_the_Isle_of_Man" class="mw-redirect" title="Parliament of the Isle of Man">Isle of Man</a></li>
+<li><a href="/wiki/Parliament_of_Jersey" class="mw-redirect" title="Parliament of Jersey">Jersey</a></li>
+<li><a href="/wiki/Parliament_of_Svalbard" class="mw-redirect" title="Parliament of Svalbard">Svalbard</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other entities</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Parliament_of_the_European_Union" class="mw-redirect" title="Parliament of the European Union">European Union</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="National_unicameral_legislatures" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:National_unicameral_legislatures" title="Template:National unicameral legislatures"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:National_unicameral_legislatures" title="Template talk:National unicameral legislatures"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:National_unicameral_legislatures&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="National_unicameral_legislatures" style="font-size:114%;margin:0 4em">National <a href="/wiki/Unicameralism" title="Unicameralism">unicameral</a> <a href="/wiki/Legislature" title="Legislature">legislatures</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Federation" title="Federation">Federal</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Assembly_of_the_Union_of_the_Comoros" title="Assembly of the Union of the Comoros">Comoros</a></li>
+<li><a href="/wiki/Council_of_Representatives_of_Iraq" title="Council of Representatives of Iraq">Iraq</a></li>
+<li><a href="/wiki/Congress_of_the_Federated_States_of_Micronesia" title="Congress of the Federated States of Micronesia">Federated States of Micronesia</a></li>
+<li><a href="/wiki/Federal_National_Council" title="Federal National Council">United Arab Emirates</a></li>
+<li><a href="/wiki/National_Assembly_(Venezuela)" title="National Assembly (Venezuela)">Venezuela</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Unitary_state" title="Unitary state">Unitary</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Parliament_of_Albania" title="Parliament of Albania">Albania</a></li>
+<li><a href="/wiki/General_Council_(Andorra)" title="General Council (Andorra)">Andorra</a></li>
+<li><a href="/wiki/National_Assembly_(Angola)" title="National Assembly (Angola)">Angola</a></li>
+<li><a href="/wiki/National_Assembly_(Armenia)" title="National Assembly (Armenia)">Armenia</a></li>
+<li><a href="/wiki/National_Assembly_(Azerbaijan)" title="National Assembly (Azerbaijan)">Azerbaijan</a></li>
+<li><a href="/wiki/Jatiya_Sangsad" title="Jatiya Sangsad">Bangladesh</a></li>
+<li><a href="/wiki/National_Assembly_(Benin)" title="National Assembly (Benin)">Benin</a></li>
+<li><a href="/wiki/National_Assembly_(Botswana)" title="National Assembly (Botswana)">Botswana</a></li>
+<li><a href="/wiki/Legislative_Council_of_Brunei" title="Legislative Council of Brunei">Brunei</a></li>
+<li><a href="/wiki/National_Assembly_(Bulgaria)" title="National Assembly (Bulgaria)">Bulgaria</a></li>
+<li><a href="/wiki/National_Assembly_of_Burkina_Faso" title="National Assembly of Burkina Faso">Burkina Faso</a></li>
+<li><a href="/wiki/National_Assembly_(Cape_Verde)" title="National Assembly (Cape Verde)">Cape Verde</a></li>
+<li><a href="/wiki/National_Assembly_(Central_African_Republic)" title="National Assembly (Central African Republic)">Central African Republic</a></li>
+<li><a href="/wiki/National_Assembly_(Chad)" title="National Assembly (Chad)">Chad</a></li>
+<li><a href="/wiki/National_People%27s_Congress" title="National People&#39;s Congress">China</a></li>
+<li><a href="/wiki/Legislative_Assembly_of_Costa_Rica" title="Legislative Assembly of Costa Rica">Costa Rica</a></li>
+<li><a href="/wiki/Croatian_Parliament" title="Croatian Parliament">Croatia</a></li>
+<li><a href="/wiki/National_Assembly_of_People%27s_Power" title="National Assembly of People&#39;s Power">Cuba</a></li>
+<li><a href="/wiki/House_of_Representatives_(Cyprus)" title="House of Representatives (Cyprus)">Cyprus</a></li>
+<li><a href="/wiki/Folketing" title="Folketing">Denmark</a></li>
+<li><a href="/wiki/National_Assembly_(Djibouti)" title="National Assembly (Djibouti)">Djibouti</a></li>
+<li><a href="/wiki/House_of_Assembly_of_Dominica" title="House of Assembly of Dominica">Dominica</a></li>
+<li><a href="/wiki/National_Parliament_(East_Timor)" title="National Parliament (East Timor)">East Timor</a></li>
+<li><a href="/wiki/National_Assembly_(Ecuador)" title="National Assembly (Ecuador)">Ecuador</a></li>
+<li><a href="/wiki/House_of_Representatives_(Egypt)" title="House of Representatives (Egypt)">Egypt</a></li>
+<li><a href="/wiki/Legislative_Assembly_of_El_Salvador" title="Legislative Assembly of El Salvador">El Salvador</a></li>
+<li><a href="/wiki/National_Assembly_(Eritrea)" title="National Assembly (Eritrea)">Eritrea</a></li>
+<li><a href="/wiki/Riigikogu" title="Riigikogu">Estonia</a></li>
+<li><a href="/wiki/Parliament_of_Fiji" title="Parliament of Fiji">Fiji</a></li>
+<li><a href="/wiki/Parliament_of_Finland" title="Parliament of Finland">Finland</a></li>
+<li><a href="/wiki/National_Assembly_of_the_Gambia" title="National Assembly of the Gambia">Gambia</a></li>
+<li><a href="/wiki/Parliament_of_Georgia" title="Parliament of Georgia">Georgia</a></li>
+<li><a href="/wiki/Parliament_of_Ghana" title="Parliament of Ghana">Ghana</a></li>
+<li><a href="/wiki/Hellenic_Parliament" title="Hellenic Parliament">Greece</a></li>
+<li><a href="/wiki/Congress_of_Guatemala" title="Congress of Guatemala">Guatemala</a></li>
+<li><a href="/wiki/National_Assembly_(Guinea)" title="National Assembly (Guinea)">Guinea</a></li>
+<li><a href="/wiki/National_People%27s_Assembly_(Guinea-Bissau)" title="National People&#39;s Assembly (Guinea-Bissau)">Guinea-Bissau</a></li>
+<li><a href="/wiki/National_Assembly_(Guyana)" title="National Assembly (Guyana)">Guyana</a></li>
+<li><a href="/wiki/National_Congress_of_Honduras" title="National Congress of Honduras">Honduras</a></li>
+<li><a href="/wiki/National_Assembly_(Hungary)" title="National Assembly (Hungary)">Hungary</a></li>
+<li><a href="/wiki/Althing" title="Althing">Iceland</a></li>
+<li><a href="/wiki/Islamic_Consultative_Assembly" title="Islamic Consultative Assembly">Iran</a></li>
+<li><a href="/wiki/Knesset" title="Knesset">Israel</a></li>
+<li><a href="/wiki/House_of_Assembly_(Kiribati)" title="House of Assembly (Kiribati)">Kiribati</a></li>
+<li><a href="/wiki/Supreme_People%27s_Assembly" title="Supreme People&#39;s Assembly">North Korea</a></li>
+<li><a href="/wiki/National_Assembly_(South_Korea)" title="National Assembly (South Korea)">South Korea</a></li>
+<li><a href="/wiki/National_Assembly_(Kuwait)" title="National Assembly (Kuwait)">Kuwait</a></li>
+<li><a href="/wiki/Supreme_Council_(Kyrgyzstan)" title="Supreme Council (Kyrgyzstan)">Kyrgyzstan</a></li>
+<li><a href="/wiki/National_Assembly_(Laos)" title="National Assembly (Laos)">Laos</a></li>
+<li><a href="/wiki/Saeima" title="Saeima">Latvia</a></li>
+<li><a href="/wiki/Parliament_of_Lebanon" title="Parliament of Lebanon">Lebanon</a></li>
+<li><a href="/wiki/House_of_Representatives_(Libya)" title="House of Representatives (Libya)">Libya</a></li>
+<li><a href="/wiki/Landtag_of_Liechtenstein" title="Landtag of Liechtenstein">Liechtenstein</a></li>
+<li><a href="/wiki/Seimas" title="Seimas">Lithuania</a></li>
+<li><a href="/wiki/Chamber_of_Deputies_(Luxembourg)" title="Chamber of Deputies (Luxembourg)">Luxembourg</a></li>
+<li><a href="/wiki/Assembly_of_the_Republic_of_Macedonia" title="Assembly of the Republic of Macedonia">Macedonia</a></li>
+<li><a href="/wiki/National_Assembly_(Malawi)" title="National Assembly (Malawi)">Malawi</a></li>
+<li><a href="/wiki/People%27s_Majlis" title="People&#39;s Majlis">Maldives</a></li>
+<li><a href="/wiki/National_Assembly_(Mali)" title="National Assembly (Mali)">Mali</a></li>
+<li><a href="/wiki/Parliament_of_Malta" title="Parliament of Malta">Malta</a></li>
+<li><a href="/wiki/Legislature_of_the_Marshall_Islands" title="Legislature of the Marshall Islands">Marshall Islands</a></li>
+<li><a href="/wiki/Mauritanian_Parliament" title="Mauritanian Parliament">Mauritania</a></li>
+<li><a href="/wiki/National_Assembly_(Mauritius)" title="National Assembly (Mauritius)">Mauritius</a></li>
+<li><a href="/wiki/Parliament_of_the_Republic_of_Moldova" title="Parliament of the Republic of Moldova">Moldova</a></li>
+<li><a href="/wiki/National_Council_(Monaco)" title="National Council (Monaco)">Monaco</a></li>
+<li><a href="/wiki/State_Great_Khural" title="State Great Khural">Mongolia</a></li>
+<li><a href="/wiki/Parliament_of_Montenegro" title="Parliament of Montenegro">Montenegro</a></li>
+<li><a href="/wiki/Assembly_of_the_Republic_(Mozambique)" title="Assembly of the Republic (Mozambique)">Mozambique</a></li>
+<li><a href="/wiki/Parliament_of_Nauru" title="Parliament of Nauru">Nauru</a></li>
+<li><a href="/wiki/New_Zealand_House_of_Representatives" title="New Zealand House of Representatives">New Zealand</a></li>
+<li><a href="/wiki/National_Assembly_(Nicaragua)" title="National Assembly (Nicaragua)">Nicaragua</a></li>
+<li><a href="/wiki/National_Assembly_(Niger)" title="National Assembly (Niger)">Niger</a></li>
+<li><a href="/wiki/Storting" title="Storting">Norway</a></li>
+<li><a href="/wiki/Palestinian_Legislative_Council" title="Palestinian Legislative Council">Palestine</a></li>
+<li><a href="/wiki/National_Assembly_(Panama)" title="National Assembly (Panama)">Panama</a></li>
+<li><a href="/wiki/National_Parliament_of_Papua_New_Guinea" title="National Parliament of Papua New Guinea">Papua New Guinea</a></li>
+<li><a href="/wiki/Congress_of_the_Republic_of_Peru" title="Congress of the Republic of Peru">Peru</a></li>
+<li><a href="/wiki/Assembly_of_the_Republic_(Portugal)" title="Assembly of the Republic (Portugal)">Portugal</a></li>
+<li><a href="/wiki/Consultative_Assembly_of_Qatar" title="Consultative Assembly of Qatar">Qatar</a></li>
+<li><a href="/wiki/National_Assembly_(Saint_Kitts_and_Nevis)" title="National Assembly (Saint Kitts and Nevis)">Saint Kitts and Nevis</a></li>
+<li><a href="/wiki/House_of_Assembly_of_Saint_Vincent_and_the_Grenadines" title="House of Assembly of Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</a></li>
+<li><a href="/wiki/Legislative_Assembly_of_Samoa" title="Legislative Assembly of Samoa">Samoa</a></li>
+<li><a href="/wiki/Grand_and_General_Council" title="Grand and General Council">San Marino</a></li>
+<li><a href="/wiki/National_Assembly_(S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe)" title="National Assembly (São Tomé and Príncipe)">São Tomé and Príncipe</a></li>
+<li><a href="/wiki/Consultative_Assembly_of_Saudi_Arabia" title="Consultative Assembly of Saudi Arabia">Saudi Arabia</a></li>
+<li><a href="/wiki/National_Assembly_(Senegal)" title="National Assembly (Senegal)">Senegal</a></li>
+<li><a href="/wiki/National_Assembly_(Serbia)" title="National Assembly (Serbia)">Serbia</a></li>
+<li><a href="/wiki/National_Assembly_(Seychelles)" title="National Assembly (Seychelles)">Seychelles</a></li>
+<li><a href="/wiki/Parliament_of_Sierra_Leone" title="Parliament of Sierra Leone">Sierra Leone</a></li>
+<li><a href="/wiki/Parliament_of_Singapore" title="Parliament of Singapore">Singapore</a></li>
+<li><a href="/wiki/National_Council_(Slovakia)" title="National Council (Slovakia)">Slovakia</a></li>
+<li><a href="/wiki/National_Parliament_of_the_Solomon_Islands" class="mw-redirect" title="National Parliament of the Solomon Islands">Solomon Islands</a></li>
+<li><a href="/wiki/Parliament_of_Sri_Lanka" title="Parliament of Sri Lanka">Sri Lanka</a></li>
+<li><a href="/wiki/National_Assembly_(Suriname)" title="National Assembly (Suriname)">Suriname</a></li>
+<li><a href="/wiki/Riksdag" title="Riksdag">Sweden</a></li>
+<li><a href="/wiki/People%27s_Council_of_Syria" title="People&#39;s Council of Syria">Syria</a></li>
+<li><a href="/wiki/National_Assembly_(Tanzania)" title="National Assembly (Tanzania)">Tanzania</a></li>
+<li><a href="/wiki/National_Assembly_of_Thailand" title="National Assembly of Thailand">Thailand</a></li>
+<li><a href="/wiki/National_Assembly_(Togo)" title="National Assembly (Togo)">Togo</a></li>
+<li><a href="/wiki/Legislative_Assembly_of_Tonga" title="Legislative Assembly of Tonga">Tonga</a></li>
+<li><a href="/wiki/Assembly_of_the_Representatives_of_the_People" title="Assembly of the Representatives of the People">Tunisia</a></li>
+<li><a href="/wiki/Grand_National_Assembly_of_Turkey" title="Grand National Assembly of Turkey">Turkey</a></li>
+<li><a href="/wiki/Assembly_of_Turkmenistan" title="Assembly of Turkmenistan">Turkmenistan</a></li>
+<li><a href="/wiki/Parliament_of_Tuvalu" title="Parliament of Tuvalu">Tuvalu</a></li>
+<li><a href="/wiki/Parliament_of_Uganda" title="Parliament of Uganda">Uganda</a></li>
+<li><a href="/wiki/Verkhovna_Rada" title="Verkhovna Rada">Ukraine</a></li>
+<li><a href="/wiki/Parliament_of_Vanuatu" title="Parliament of Vanuatu">Vanuatu</a></li>
+<li><a href="/wiki/Pontifical_Commission_for_Vatican_City_State" title="Pontifical Commission for Vatican City State">Vatican City</a></li>
+<li><a href="/wiki/National_Assembly_(Vietnam)" title="National Assembly (Vietnam)">Vietnam</a></li>
+<li><a href="/wiki/House_of_Representatives_(Yemen)" title="House of Representatives (Yemen)">Yemen</a></li>
+<li><a href="/wiki/National_Assembly_of_Zambia" title="National Assembly of Zambia">Zambia</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dependent_territory" title="Dependent territory">Dependent and<br />other territories</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Parliament_of_%C3%85land" title="Parliament of Åland">Åland Islands</a></li>
+<li><a href="/wiki/House_of_Assembly_(Anguilla)" title="House of Assembly (Anguilla)">Anguilla</a></li>
+<li><a href="/wiki/Estates_of_Aruba" title="Estates of Aruba">Aruba</a></li>
+<li><a href="/wiki/House_of_Assembly_of_the_British_Virgin_Islands" title="House of Assembly of the British Virgin Islands">British Virgin Islands</a></li>
+<li><a href="/wiki/Legislative_Assembly_of_the_Cayman_Islands" title="Legislative Assembly of the Cayman Islands">Cayman Islands</a></li>
+<li><a href="/wiki/Estates_of_Cura%C3%A7ao" title="Estates of Curaçao">Curaçao</a></li>
+<li><a href="/wiki/Legislative_Assembly_of_the_Falkland_Islands" title="Legislative Assembly of the Falkland Islands">Falkland Islands</a></li>
+<li><a href="/wiki/L%C3%B8gting" title="Løgting">Faroe Islands</a></li>
+<li><a href="/wiki/Assembly_of_French_Polynesia" title="Assembly of French Polynesia">French Polynesia</a></li>
+<li><a href="/wiki/Gibraltar_Parliament" title="Gibraltar Parliament">Gibraltar</a></li>
+<li><a href="/wiki/Parliament_of_Greenland" title="Parliament of Greenland">Greenland</a></li>
+<li><a href="/wiki/Legislature_of_Guam" title="Legislature of Guam">Guam</a></li>
+<li><a href="/wiki/States_of_Guernsey" title="States of Guernsey">Guernsey</a></li>
+<li><a href="/wiki/Legislative_Council_of_Hong_Kong" title="Legislative Council of Hong Kong">Hong Kong</a></li>
+<li><a class="mw-selflink selflink">Jersey</a></li>
+<li><a href="/wiki/Legislative_Assembly_of_Macau" title="Legislative Assembly of Macau">Macau</a></li>
+<li><a href="/wiki/Legislative_Assembly_of_Montserrat" title="Legislative Assembly of Montserrat">Montserrat</a></li>
+<li><a href="/wiki/Congress_of_New_Caledonia" title="Congress of New Caledonia">New Caledonia</a></li>
+<li><a href="/wiki/Island_Council_(Pitcairn)" title="Island Council (Pitcairn)">Pitcairn Islands</a></li>
+<li><a href="/wiki/Territorial_Council_of_Saint_Barth%C3%A9lemy" title="Territorial Council of Saint Barthélemy">Saint Barthélemy</a></li>
+<li><a href="/wiki/Legislative_Council_of_Saint_Helena" title="Legislative Council of Saint Helena">Saint Helena</a></li>
+<li><a href="/wiki/Politics_of_the_Collectivity_of_Saint_Martin" title="Politics of the Collectivity of Saint Martin">Saint Martin</a></li>
+<li><a href="/wiki/Territorial_Council_of_Saint_Pierre_and_Miquelon" title="Territorial Council of Saint Pierre and Miquelon">Saint Pierre and Miquelon</a></li>
+<li><a href="/wiki/Estates_of_Sint_Maarten" title="Estates of Sint Maarten">Sint Maarten</a></li>
+<li><a href="/wiki/Parliament_of_Tokelau" title="Parliament of Tokelau">Tokelau</a></li>
+<li><a href="/wiki/House_of_Assembly_(Turks_and_Caicos_Islands)" title="House of Assembly (Turks and Caicos Islands)">Turks and Caicos Islands</a></li>
+<li><a href="/wiki/Legislature_of_the_Virgin_Islands" title="Legislature of the Virgin Islands">U.S. Virgin Islands</a></li>
+<li><a href="/wiki/National_Assembly_for_Wales" title="National Assembly for Wales">Wales</a></li>
+<li><a href="/wiki/Territorial_Assembly_of_Wallis_and_Futuna" title="Territorial Assembly of Wallis and Futuna">Wallis and Futuna</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_states_with_limited_recognition" title="List of states with limited recognition">Non-UN states</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/People%27s_Assembly_of_Abkhazia" title="People&#39;s Assembly of Abkhazia">Abkhazia</a></li>
+<li><a href="/wiki/National_Assembly_(Artsakh)" title="National Assembly (Artsakh)">Artsakh</a></li>
+<li><a href="/wiki/Parliament_of_the_Cook_Islands" title="Parliament of the Cook Islands">Cook Islands</a></li>
+<li><a href="/wiki/Assembly_of_the_Republic_of_Kosovo" title="Assembly of the Republic of Kosovo">Kosovo</a></li>
+<li><a href="/wiki/Niue_Assembly" title="Niue Assembly">Niue</a></li>
+<li><a href="/wiki/Assembly_of_the_Republic_(Northern_Cyprus)" title="Assembly of the Republic (Northern Cyprus)">Northern Cyprus</a></li>
+<li><a href="/wiki/Sahrawi_National_Council" title="Sahrawi National Council">Sahrawi Arab Democratic Republic</a></li>
+<li><a href="/wiki/Parliament_of_South_Ossetia" title="Parliament of South Ossetia">South Ossetia</a></li>
+<li><a href="/wiki/Legislative_Yuan" title="Legislative Yuan">Taiwan</a></li>
+<li><a href="/wiki/Supreme_Council_(Transnistria)" title="Supreme Council (Transnistria)">Transnistria</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Historical</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/National_Assembly_(Communist_Czechoslovakia)" title="National Assembly (Communist Czechoslovakia)">Czechoslovakia (1948–1969)</a></li>
+<li><a href="/wiki/D%C3%A1il_%C3%89ireann_(Irish_Republic)" title="Dáil Éireann (Irish Republic)">Irish Republic (1919–22)</a></li>
+<li><a href="/wiki/Parliament_of_Scotland" title="Parliament of Scotland">Scotland</a></li>
+<li><a href="/wiki/Sicilian_Parliament" title="Sicilian Parliament">Sicily</a></li>
+<li><a href="/wiki/Volksraad" title="Volksraad">South African Republic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bicameralism" title="Bicameralism">Bicameralism</a></li>
+<li><a href="/wiki/List_of_legislatures_by_country" title="List of legislatures by country">List of legislatures by country</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Template:National_bicameral_legislatures" title="Template:National bicameral legislatures">National bicameral legislatures</a></li>
+<li><a href="/wiki/Template:National_lower_houses" title="Template:National lower houses">National lower houses</a></li>
+<li><a href="/wiki/Template:National_upper_houses" title="Template:National upper houses">National upper houses</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=States_of_Jersey&amp;params=49.18154_N_2.10766_W_source:placeopedia"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°10′54″N</span> <span class="longitude">2°06′28″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.18154°N 2.10766°W</span><span style="display:none">&#xfeff; / <span class="geo">49.18154; -2.10766</span></span></span></a></span></span></span>
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw2193
+Cached time: 20181001000205
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.944 seconds
+Real time usage: 1.132 seconds
+Preprocessor visited node count: 14259/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 229523/2097152 bytes
+Template argument size: 28880/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 31/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 50291/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.420/10.000 seconds
+Lua memory usage: 18.64 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  913.414      1 -total
+ 29.97%  273.720     10 Template:Navbox
+ 28.26%  258.149      1 Template:Reflist
+ 22.66%  207.009      1 Template:Europe_topic
+ 19.11%  174.597     49 Template:Iso2country
+ 14.54%  132.779     13 Template:Cite_web
+ 13.98%  127.666      1 Template:Lang-fr
+ 13.01%  118.860      1 Template:Infobox_legislature
+ 11.52%  105.251      1 Template:Infobox
+  8.26%   75.464      1 Template:Jersey_topics
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2860948-0!canonical and timestamp 20181001000204 and revision id 860295101
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=States_of_Jersey&amp;oldid=860295101">https://en.wikipedia.org/w/index.php?title=States_of_Jersey&amp;oldid=860295101</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Politics_of_Jersey" title="Category:Politics of Jersey">Politics of Jersey</a></li><li><a href="/wiki/Category:Legislatures_of_British_Crown_Dependencies" title="Category:Legislatures of British Crown Dependencies">Legislatures of British Crown Dependencies</a></li><li><a href="/wiki/Category:Unicameral_legislatures" title="Category:Unicameral legislatures">Unicameral legislatures</a></li><li><a href="/wiki/Category:Jersey_law" title="Category:Jersey law">Jersey law</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Pages_using_citations_with_accessdate_and_no_URL" title="Category:Pages using citations with accessdate and no URL">Pages using citations with accessdate and no URL</a></li><li><a href="/wiki/Category:Articles_with_French-language_external_links" title="Category:Articles with French-language external links">Articles with French-language external links</a></li><li><a href="/wiki/Category:Use_British_English_from_October_2012" title="Category:Use British English from October 2012">Use British English from October 2012</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_October_2013" title="Category:Use dmy dates from October 2013">Use dmy dates from October 2013</a></li><li><a href="/wiki/Category:Articles_containing_French-language_text" title="Category:Articles containing French-language text">Articles containing French-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2011" title="Category:Articles with unsourced statements from August 2011">Articles with unsourced statements from August 2011</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=States+of+Jersey" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=States+of+Jersey" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/States_of_Jersey" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:States_of_Jersey" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/States_of_Jersey">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=States_of_Jersey&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=States_of_Jersey&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/States_of_Jersey" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/States_of_Jersey" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=States_of_Jersey&amp;oldid=860295101" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=States_of_Jersey&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q946944" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=States_of_Jersey&amp;id=860295101" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=States+of+Jersey">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=States+of+Jersey&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=States_of_Jersey&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/States_of_Jersey" title="States of Jersey – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Estados_de_Jersey" title="Estados de Jersey – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/%C3%89tats_de_Jersey" title="États de Jersey – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/States_of_Jersey" title="States of Jersey – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Staten_van_Jersey" title="Staten van Jersey – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/%C3%8Atats_d%27J%C3%A8rri" title="Êtats d&#039;Jèrri – Norman" lang="nrm" hreflang="nrm" class="interlanguage-link-target">Nouormand</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%94%D0%B6%D0%B5%D1%80%D1%81%D0%B8" title="Штаты Джерси – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Stale%C5%BEi_Jerseyja" title="Staleži Jerseyja – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%B3%BD%E8%A5%BF%E8%AE%AE%E4%BC%9A" title="泽西议会 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q946944#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 19 September 2018, at 17:51<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=States_of_Jersey&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.944","walltime":"1.132","ppvisitednodes":{"value":14259,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":229523,"limit":2097152},"templateargumentsize":{"value":28880,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":31,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":50291,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  913.414      1 -total"," 29.97%  273.720     10 Template:Navbox"," 28.26%  258.149      1 Template:Reflist"," 22.66%  207.009      1 Template:Europe_topic"," 19.11%  174.597     49 Template:Iso2country"," 14.54%  132.779     13 Template:Cite_web"," 13.98%  127.666      1 Template:Lang-fr"," 13.01%  118.860      1 Template:Infobox_legislature"," 11.52%  105.251      1 Template:Infobox","  8.26%   75.464      1 Template:Jersey_topics"]},"scribunto":{"limitreport-timeusage":{"value":"0.420","limit":"10.000"},"limitreport-memusage":{"value":19547084,"limit":52428800}},"cachereport":{"origin":"mw2193","timestamp":"20181001000205","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1225,"wgHostname":"mw2193"});});</script>
+	</body>
+</html>

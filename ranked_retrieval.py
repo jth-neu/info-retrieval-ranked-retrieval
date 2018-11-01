@@ -2,11 +2,19 @@ import re
 import json
 import math
 from operator import itemgetter
+import argparse
 
-# TODO: Take IndexFolderName
-document_id_file = json.load(open("Index/DocumentIDFile.txt", "r"))
-term_id_file = json.load(open("Index/TermIDFile.txt", "r"))
-inverted_index = json.load(open("Index/InvertedIndex.txt", "r"))
+parser = argparse.ArgumentParser()
+parser.add_argument("IndexFolderName", help="The directory of index files")
+parser.add_argument("ContentFolderName", help='The directory of content files')
+parser.add_argument("QueryFileName", help='The name of query file')
+parser.add_argument("K", help='The number of search results for each query', type=int)
+args = parser.parse_args()
+
+
+document_id_file = json.load(open(args.IndexFolderName + "/DocumentIDFile.txt", "r"))
+term_id_file = json.load(open(args.IndexFolderName + "/TermIDFile.txt", "r"))
+inverted_index = json.load(open(args.IndexFolderName + "/InvertedIndex.txt", "r"))
 
 docId_docName_dict = document_id_file[0]
 docId_docLength_dict = document_id_file[1]
@@ -120,7 +128,7 @@ def top_k_results(query, k):
     return sorted(scores.items(), key=itemgetter(1), reverse=True)[:k], contributions
 
 
-def write_output(raw_query, token_query, results, contributions):
+def write_output(raw_query, token_query, results, contributions, content_folder):
     with open('Output.txt', 'a') as file:
         output = ''
         output += 'Raw query: ' + raw_query + 'Tokenized query: ' + ', '.join(token_query) + '\n\n'
@@ -131,7 +139,7 @@ def write_output(raw_query, token_query, results, contributions):
 
             output += str(docId) + '\t' + docName + '\n'
             output += 'Snippet: \n'
-            output += get_doc_snippet(docName, 'crawled_pages') + '\n'
+            output += get_doc_snippet(docName, content_folder) + '\n'
             output += 'Cosine Similarity Score: ' + str(score) + '\n'
             for key, value in contributions[docId].items():
                 output += key + ': ' + str(value) + '; '
@@ -145,12 +153,12 @@ def get_doc_snippet(docName, folder):
         return file.read(200)
 
 
-def main():
-    raw_queries = read_queries('Queries.txt')
+def main(query_file, K, content_folder):
+    raw_queries = read_queries(query_file)
     token_queries = transform_query(raw_queries)
     for i in range(0, len(token_queries)):
-        results, contributions = top_k_results(token_queries[i], 3)
-        write_output(raw_queries[i], token_queries[i], results, contributions)
+        results, contributions = top_k_results(token_queries[i], K)
+        write_output(raw_queries[i], token_queries[i], results, contributions, content_folder)
 
-main()
+main(args.QueryFileName, args.K, args.ContentFolderName)
 

@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Unincorporated area - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Unincorporated_area","wgTitle":"Unincorporated area","wgCurRevisionId":861535367,"wgRevisionId":861535367,"wgArticleId":232346,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Use dmy dates from August 2017","Articles containing potentially dated statements from 2007","All articles containing potentially dated statements","All articles with unsourced statements","Articles with unsourced statements from April 2017","Local government","Unincorporated communities in the United States","Urban studies and planning terminology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Unincorporated_area","wgRelevantArticleId":232346,"wgRequestId":"W6@AQgrAADwAAEpEzMMAAACV","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q269528","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Contra_Costa_Centre_sign.jpg/1200px-Contra_Costa_Centre_sign.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Unincorporated_area"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Unincorporated_area&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Unincorporated_area&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Unincorporated_area"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Unincorporated_area rootpage-Unincorporated_area skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Unincorporated area</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Contra_Costa_Centre_sign.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Contra_Costa_Centre_sign.jpg/220px-Contra_Costa_Centre_sign.jpg" width="220" height="237" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Contra_Costa_Centre_sign.jpg/330px-Contra_Costa_Centre_sign.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Contra_Costa_Centre_sign.jpg/440px-Contra_Costa_Centre_sign.jpg 2x" data-file-width="1277" data-file-height="1374" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Contra_Costa_Centre_sign.jpg" class="internal" title="Enlarge"></a></div>Sign at <a href="/wiki/Contra_Costa_Centre,_California" title="Contra Costa Centre, California">Contra Costa Centre Transit Village</a>, an unincorporated community in <a href="/wiki/Contra_Costa_County,_California" title="Contra Costa County, California">Contra Costa County, California</a>, north of the city of <a href="/wiki/Walnut_Creek,_California" title="Walnut Creek, California">Walnut Creek</a></div></div></div>
+<p>In law, an <b>unincorporated area</b> is a region of <a href="/wiki/Real_property" title="Real property">land</a> that is not governed by a local <a href="/wiki/Municipal_corporation" title="Municipal corporation">municipal corporation</a>; similarly an <b>unincorporated community</b> is a <a href="/wiki/Human_settlement" title="Human settlement">settlement</a> that is not governed by its own local municipal corporation, but rather is administered as part of larger <a href="/wiki/Administrative_division" title="Administrative division">administrative divisions</a>, such as a <a href="/wiki/Township" title="Township">township</a>, <a href="/wiki/Parish_(administrative_division)" title="Parish (administrative division)">parish</a>, <a href="/wiki/Borough" title="Borough">borough</a>, <a href="/wiki/County" title="County">county</a>, <a href="/wiki/City" title="City">city</a>, <a href="/wiki/Canton_(country_subdivision)" title="Canton (country subdivision)">canton</a>, <a href="/wiki/Federated_state" title="Federated state">state</a>, <a href="/wiki/Province" title="Province">province</a> or country. Occasionally, municipalities <a href="/wiki/Dissolution_(law)" title="Dissolution (law)">dissolve</a> or disincorporate, which may happen if they become fiscally <a href="/wiki/Insolvency" title="Insolvency">insolvent</a>, and services become the responsibility of a higher administration. Widespread unincorporated communities and areas are a distinguishing feature of the <a href="/wiki/United_States" title="United States">United States</a> and <a href="/wiki/Canada" title="Canada">Canada</a>. In most other countries of the world, there are either no unincorporated areas at all, or these are very rare; typically remote, outlying, sparsely populated or <a href="/wiki/List_of_uninhabited_regions" title="List of uninhabited regions">uninhabited</a> areas.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#By_country"><span class="tocnumber">1</span> <span class="toctext">By country</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Australia"><span class="tocnumber">1.1</span> <span class="toctext">Australia</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Australian_Capital_Territory"><span class="tocnumber">1.1.1</span> <span class="toctext">Australian Capital Territory</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#New_South_Wales"><span class="tocnumber">1.1.2</span> <span class="toctext">New South Wales</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Northern_Territory"><span class="tocnumber">1.1.3</span> <span class="toctext">Northern Territory</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#South_Australia"><span class="tocnumber">1.1.4</span> <span class="toctext">South Australia</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Victoria"><span class="tocnumber">1.1.5</span> <span class="toctext">Victoria</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Western_Australia"><span class="tocnumber">1.1.6</span> <span class="toctext">Western Australia</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#Canada"><span class="tocnumber">1.2</span> <span class="toctext">Canada</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Czech_Republic"><span class="tocnumber">1.3</span> <span class="toctext">Czech Republic</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Germany"><span class="tocnumber">1.4</span> <span class="toctext">Germany</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#List"><span class="tocnumber">1.4.1</span> <span class="toctext">List</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-13"><a href="#Netherlands"><span class="tocnumber">1.5</span> <span class="toctext">Netherlands</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Norway"><span class="tocnumber">1.6</span> <span class="toctext">Norway</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#United_States"><span class="tocnumber">1.7</span> <span class="toctext">United States</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="#USGS_definition_of_populated_place"><span class="tocnumber">1.7.1</span> <span class="toctext">USGS definition of populated place</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#U.S._mail_delivery"><span class="tocnumber">1.7.2</span> <span class="toctext">U.S. mail delivery</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-18"><a href="#Other"><span class="tocnumber">1.8</span> <span class="toctext">Other</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Countries_without_unincorporated_areas"><span class="tocnumber">2</span> <span class="toctext">Countries without unincorporated areas</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="By_country">By country</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unincorporated_area&amp;action=edit&amp;section=1" title="Edit section: By country">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Australia">Australia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unincorporated_area&amp;action=edit&amp;section=2" title="Edit section: Australia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Unlike many other countries, Australia has only <a href="/wiki/Local_government_in_Australia" title="Local government in Australia">one level of local government</a> immediately beneath <a href="/wiki/States_of_Australia" class="mw-redirect" title="States of Australia">state and territorial</a> governments.  A local government area (LGA) often contains several towns and even entire cities. Thus, aside from very sparsely populated areas and a few other special cases, almost all of Australia is part of an LGA. Unincorporated areas are often in remote locations, cover vast areas or have very small populations.
+</p><p>Postal addresses in unincorporated areas, as in other parts of Australia, normally use the <a href="/wiki/Suburbs_and_localities_(Australia)" title="Suburbs and localities (Australia)">suburb or locality</a> names gazetted by the relevant state or territorial government. Thus, there is rarely any ambiguity regarding addresses in unincorporated areas.
+</p>
+<h4><span class="mw-headline" id="Australian_Capital_Territory">Australian Capital Territory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unincorporated_area&amp;action=edit&amp;section=3" title="Edit section: Australian Capital Territory">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The <a href="/wiki/Australian_Capital_Territory" title="Australian Capital Territory">Australian Capital Territory</a> has no municipalities and is in some sense an unincorporated area. The <a href="/wiki/Government_of_the_Australian_Capital_Territory" class="mw-redirect" title="Government of the Australian Capital Territory">territorial government</a> is directly responsible for matters normally carried out by local government.
+</p>
+<h4><span class="mw-headline" id="New_South_Wales">New South Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unincorporated_area&amp;action=edit&amp;section=4" title="Edit section: New South Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The far west and north of <a href="/wiki/New_South_Wales" title="New South Wales">New South Wales</a> constitutes the <a href="/wiki/Unincorporated_Far_West_Region" title="Unincorporated Far West Region">Unincorporated Far West Region</a>, which is sparsely populated and barely warrants an elected council. A civil servant in the state capital manages such matters as are necessary. The second unincorporated area of this state is <a href="/wiki/Lord_Howe_Island" title="Lord Howe Island">Lord Howe Island</a>.
+</p>
+<h4><span class="mw-headline" id="Northern_Territory">Northern Territory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unincorporated_area&amp;action=edit&amp;section=5" title="Edit section: Northern Territory">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the <a href="/wiki/Northern_Territory" title="Northern Territory">Northern Territory</a>, 1.45% of the total area and 4.0% of the population are in unincorporated areas, including <i>Unincorporated Top End Region</i> (<a href="/w/index.php?title=Finniss-Mary&amp;action=edit&amp;redlink=1" class="new" title="Finniss-Mary (page does not exist)">Finniss-Mary</a>, the largest), areas covered by the <i>Darwin Rates Act</i>—<a href="/wiki/Nhulunbuy,_Northern_Territory" class="mw-redirect" title="Nhulunbuy, Northern Territory">Nhulunbuy</a>, Alyangula on <a href="/wiki/Groote_Eylandt" title="Groote Eylandt">Groote Eylandt</a> in the northern region, and <a href="/wiki/Yulara,_Northern_Territory" title="Yulara, Northern Territory">Yulara</a> in the southern region.<sup id="cite_ref-asgc_1-0" class="reference"><a href="#cite_note-asgc-1">&#91;1&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="South_Australia">South Australia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unincorporated_area&amp;action=edit&amp;section=6" title="Edit section: South Australia">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In <a href="/wiki/South_Australia" title="South Australia">South Australia</a>, 60% of the area is unincorporated and communities located within can receive municipal services provided by a state agency, the <a href="/wiki/Outback_Communities_Authority" title="Outback Communities Authority">Outback Communities Authority</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Victoria">Victoria</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unincorporated_area&amp;action=edit&amp;section=7" title="Edit section: Victoria">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Victoria_(Australia)" title="Victoria (Australia)">Victoria</a> has 10 small <a href="/wiki/Local_government_in_Victoria#Unincorporated_areas" title="Local government in Victoria">unincorporated areas</a>, which are either small islands directly administered by the state or <a href="/wiki/Ski_resort" title="Ski resort">ski resorts</a> administered by state-appointed management boards.<sup id="cite_ref-asgc_1-1" class="reference"><a href="#cite_note-asgc-1">&#91;1&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Western_Australia">Western Australia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unincorporated_area&amp;action=edit&amp;section=8" title="Edit section: Western Australia">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Western_Australia" title="Western Australia">Western Australia</a> is exceptional in two respects. Firstly, the only remote area that is unincorporated is the <a href="/wiki/Houtman_Abrolhos" title="Houtman Abrolhos">Abrolhos Islands</a>, which is officially uninhabited and controlled by the WA <a href="/w/index.php?title=Department_of_Fisheries_(Western_Australia)&amp;action=edit&amp;redlink=1" class="new" title="Department of Fisheries (Western Australia) (page does not exist)">Department of Fisheries</a>.  Secondly, the other unincorporated areas are A-class reserves either in, or close to, the <a href="/wiki/Perth" title="Perth">Perth</a> metropolitan area, namely <a href="/wiki/Rottnest_Island" title="Rottnest Island">Rottnest Island</a> (controlled by the <a href="/wiki/Rottnest_Island_Authority" class="mw-redirect" title="Rottnest Island Authority">Rottnest Island Authority</a>) and <a href="/wiki/Kings_Park,_Perth" class="mw-redirect" title="Kings Park, Perth">Kings Park</a> (<a href="/wiki/Botanic_Gardens_and_Parks_Authority" title="Botanic Gardens and Parks Authority">Botanic Gardens and Parks Authority</a>).
+</p>
+<h3><span class="mw-headline" id="Canada">Canada</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unincorporated_area&amp;action=edit&amp;section=9" title="Edit section: Canada">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Canada, depending on the province, an <b>unincorporated settlement</b> is one that does not have a municipal council that governs solely over the settlement. It is usually, but not always, part of a larger municipal government.  This can range from small <a href="/wiki/Hamlet_(place)" title="Hamlet (place)">hamlets</a> to large urbanized areas that are similar in size to towns and cities.
+</p><p>For example, the <a href="/wiki/Urban_service_area" class="mw-redirect" title="Urban service area">urban service areas</a> of <a href="/wiki/Fort_McMurray" title="Fort McMurray">Fort McMurray</a> and <a href="/wiki/Sherwood_Park" title="Sherwood Park">Sherwood Park</a>, of the <a href="/wiki/Regional_Municipality_of_Wood_Buffalo" title="Regional Municipality of Wood Buffalo">Regional Municipality of Wood Buffalo</a> and <a href="/wiki/Strathcona_County" title="Strathcona County">Strathcona County</a> respectively, would be the <a href="/wiki/List_of_cities_in_Alberta#List_of_cities" title="List of cities in Alberta">fifth and sixth largest cities</a> in Alberta if they were incorporated.
+</p><p>In <a href="/wiki/British_Columbia" title="British Columbia">British Columbia</a>, unincorporated settlements lie outside municipal boundaries entirely, and are administered directly by regional/county-level governments similar to the American system.
+</p><p>Unincorporated settlements with a population of between 100 and 1,000 residents may have the status of <a href="/wiki/Designated_place" title="Designated place">designated place</a> in Canadian census data.<sup id="cite_ref-statcan_3-0" class="reference"><a href="#cite_note-statcan-3">&#91;3&#93;</a></sup>
+</p><p>In some provinces, large tracts of undeveloped wilderness or rural country are <a href="/wiki/Unorganized_area_(Canada)" class="mw-redirect" title="Unorganized area (Canada)">unorganized</a> areas that fall directly under the provincial jurisdiction. Some unincorporated settlements in such unorganized areas may have some types of municipal services provided to them by a quasi-governmental agency such as a <a href="/wiki/Local_services_board_(Ontario)" class="mw-redirect" title="Local services board (Ontario)">local services board</a> in Ontario. In New Brunswick where a significant population live in a <a href="/wiki/Local_Service_District" class="mw-redirect" title="Local Service District">Local Service District</a>, taxation and services may come directly from the province.
+</p>
+<h3><span class="mw-headline" id="Czech_Republic">Czech Republic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unincorporated_area&amp;action=edit&amp;section=10" title="Edit section: Czech Republic">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:152px;"><a href="/wiki/File:T%C3%9CP_Boletice.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/T%C3%9CP_Boletice.JPG/150px-T%C3%9CP_Boletice.JPG" width="150" height="254" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/T%C3%9CP_Boletice.JPG/225px-T%C3%9CP_Boletice.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/T%C3%9CP_Boletice.JPG/300px-T%C3%9CP_Boletice.JPG 2x" data-file-width="1245" data-file-height="2110" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:T%C3%9CP_Boletice.JPG" class="internal" title="Enlarge"></a></div>Sign prohibiting entry to the <a href="/wiki/Military_Area_Boletice" class="mw-redirect" title="Military Area Boletice">Military Area Boletice</a></div></div></div>
+<p>The entire area of the Czech Republic is divided into municipalities (<a href="/wiki/Obec" title="Obec">Obce</a>), with the only exception being 4 <a href="/wiki/Proving_ground" title="Proving ground">military areas</a>. These are parts of the <a href="/wiki/Regions_of_the_Czech_Republic" title="Regions of the Czech Republic">regions</a> and do not form self-governing municipalities, but are rather governed by military offices (<i>újezdní úřad</i>), which are subordinate to the <a href="/wiki/Ministry_of_Defense_of_the_Czech_Republic" class="mw-redirect" title="Ministry of Defense of the Czech Republic">Ministry of Defense</a>.
+</p>
+<table class="wikitable sortable" style="font-size:90%;">
+
+<tbody><tr>
+<th>Military area
+</th>
+<th>Region
+</th>
+<th>Civilian population<br />(2016)
+</th>
+<th>Administrative centre
+</th>
+<th>No. of settlements<br /> with over 20 inhabitants
+</th>
+<th>Area (km², 2016)
+</th></tr>
+<tr>
+<td align="center">Libavá
+</td>
+<td align="center"><a href="/wiki/Olomouc_Region" title="Olomouc Region">Olomouc Region</a>
+</td>
+<td align="center">0
+</td>
+<td align="center"><a href="/w/index.php?title=M%C4%9Bsto_Libav%C3%A1&amp;action=edit&amp;redlink=1" class="new" title="Město Libavá (page does not exist)">Město Libavá</a><br /><small>(outside the military area)</small>
+</td>
+<td align="center">0
+</td>
+<td align="center">327
+</td></tr>
+<tr>
+<td align="center">Hradiště
+</td>
+<td align="center"><a href="/wiki/Karlovy_Vary_Region" title="Karlovy Vary Region">Karlovy Vary Region</a>
+</td>
+<td align="center">0
+</td>
+<td align="center"><a href="/wiki/Karlovy_Vary" title="Karlovy Vary">Karlovy Vary</a> <br /><small>(outside the military area)</small>
+</td>
+<td align="center">0
+</td>
+<td align="center">332
+</td></tr>
+<tr>
+<td align="center">Boletice
+</td>
+<td align="center"><a href="/wiki/South_Bohemian_Region" title="South Bohemian Region">South Bohemian Region</a>
+</td>
+<td align="center">0
+</td>
+<td align="center"><a href="/wiki/K%C3%A1jov" title="Kájov">Kájov</a> <br /><small>(outside the military area)</small>
+</td>
+<td align="center">0
+</td>
+<td align="center">219
+</td></tr>
+<tr>
+<td align="center">Brdy †
+</td>
+<td align="center"><a href="/wiki/Central_Bohemian_Region" title="Central Bohemian Region">Central Bohemian Region</a>
+</td>
+<td align="center">0
+</td>
+<td align="center"><a href="/wiki/Jince" title="Jince">Jince</a> <br /><small>(outside the military area)</small>
+</td>
+<td align="center">0
+</td>
+<td align="center">260
+</td></tr>
+<tr>
+<td align="center">Březina
+</td>
+<td align="center"><a href="/wiki/South_Moravian_Region" title="South Moravian Region">South Moravian Region</a>
+</td>
+<td align="center">0
+</td>
+<td align="center"><a href="/wiki/Vy%C5%A1kov" title="Vyškov">Vyškov</a> <br /><small>(outside the military area)</small>
+</td>
+<td align="center">0
+</td>
+<td align="center">158
+</td></tr></tbody></table>
+<dl><dd>† Brdy Military Area was abandoned by the <a href="/wiki/Czech_Army" class="mw-redirect" title="Czech Army">Army</a> in 2015 and converted into <a href="/wiki/Landscape_park_(protected_area)" title="Landscape park (protected area)">Landscape park</a>, with its area being incorporated either into existing municipalities or municipalities newly established from the existing settlements. The other four Military Areas were reduced in size in 2015 too. The decisions on whether the settlements join existing municipalities or form new ones are decided in plebiscites.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></dd></dl>
+<h3><span class="mw-headline" id="Germany">Germany</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unincorporated_area&amp;action=edit&amp;section=11" title="Edit section: Germany">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Since Germany has no administrative level comparable to the townships of other countries, the vast majority of the country, close to 99%, is organized in municipalities (German: <i>Gemeinde</i>, plural <i>Gemeinden</i>), often consisting of multiple settlements which are not considered to be unincorporated.  Because these settlements lack a council of their own, there is usually an <i>Ortsvorsteher</i> / <i>Ortsvorsteherin</i> (village chairman / chairwoman) appointed by the municipal council, except in the very smallest villages.
+</p><p>In 2000, the number of unincorporated areas in Germany, called <i>gemeindefreie Gebiete</i> (municipality-free areas) or singular <i>gemeindefreies Gebiet</i>, was 295 with a total area of 4,890.33&#160;km² and around 1.4% of its territory. However, these are mostly unpopulated areas like forests, lakes and their surroundings, military training areas and the like.
+</p><p>As of 31 December 2007<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Unincorporated_area&amp;action=edit">&#91;update&#93;</a></sup>, Germany had 248 uninhabited unincorporated areas (of which 214 are located in <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a>), not belonging to any municipality, consisting mostly of forested areas, lakes and larger rivers. There were also three inhabited unincorporated areas, all of which served as <a href="/wiki/Military_training_area" class="mw-redirect" title="Military training area">military training areas</a>: <a href="/wiki/Osterheide" title="Osterheide">Osterheide</a> and <a href="/wiki/Lohheide" title="Lohheide">Lohheide</a> in Lower Saxony, and Gutsbezirk Münsingen in <a href="/wiki/Baden-W%C3%BCrttemberg" title="Baden-Württemberg">Baden-Württemberg</a>. They had fewer than 2,000 inhabitants in total. Gutsbezirk Münsingen, after losing its inhabited parts to adjacent municipalities on 1 January 2011, is uninhabited now.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="List">List</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unincorporated_area&amp;action=edit&amp;section=12" title="Edit section: List">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The following shows the largest unincorporated areas in Germany (including all inhabited areas, but excluding lakes) with an area of more than 50&#160;km²:
+</p>
+<table class="wikitable" style="font-size:90%;">
+
+<tbody><tr class="hintergrundfarbe5">
+<th><a href="/wiki/Official_Municipality_Key#Regional_key" class="mw-redirect" title="Official Municipality Key">Regional<br />number</a></th>
+<th>Unincorporated area</th>
+<th>County</th>
+<th>State</th>
+<th>Area in km²</th>
+<th>Population<br />on 31 December 2010
+</th></tr>
+<tr>
+<td>031530000504</td>
+<td><a href="/wiki/Harz_(Landkreis_Goslar)" title="Harz (Landkreis Goslar)">Harz (Landkreis Goslar)</a></td>
+<td><a href="/wiki/Landkreis_Goslar" class="mw-redirect" title="Landkreis Goslar">Goslar</a></td>
+<td><a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a></td>
+<td style="text-align:right;">371.76</td>
+<td style="text-align:right;">–
+</td></tr>
+<tr>
+<td>031560000501</td>
+<td><a href="/wiki/Harz_(Landkreis_Osterode_am_Harz)" class="mw-redirect" title="Harz (Landkreis Osterode am Harz)">Harz (Landkreis Osterode)</a></td>
+<td><a href="/wiki/Landkreis_Osterode_am_Harz" class="mw-redirect" title="Landkreis Osterode am Harz">Osterode am Harz</a></td>
+<td><a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a></td>
+<td style="text-align:right;">267.35</td>
+<td style="text-align:right;">–
+</td></tr>
+<tr>
+<td>066330000200</td>
+<td><a href="/wiki/Gutsbezirk_Reinhardswald" title="Gutsbezirk Reinhardswald">Gutsbezirk Reinhardswald</a></td>
+<td><a href="/wiki/Landkreis_Kassel" class="mw-redirect" title="Landkreis Kassel">Kassel</a></td>
+<td><a href="/wiki/Hesse" title="Hesse">Hesse</a></td>
+<td style="text-align:right;">182.58</td>
+<td style="text-align:right;">–
+</td></tr>
+<tr>
+<td>033580000501</td>
+<td><a href="/wiki/Osterheide" title="Osterheide">Osterheide</a></td>
+<td><a href="/wiki/Landkreis_Heidekreis" class="mw-redirect" title="Landkreis Heidekreis">Heidekreis</a></td>
+<td><a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a></td>
+<td style="text-align:right;">177.99</td>
+<td style="text-align:right;">762
+</td></tr>
+<tr>
+<td>031550000501</td>
+<td><a href="/w/index.php?title=Solling_(gemeindefreies_Gebiet)&amp;action=edit&amp;redlink=1" class="new" title="Solling (gemeindefreies Gebiet) (page does not exist)">Solling (Landkreis Northeim)</a></td>
+<td><a href="/wiki/Landkreis_Northeim" class="mw-redirect" title="Landkreis Northeim">Northeim</a></td>
+<td><a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a></td>
+<td style="text-align:right;">177.49</td>
+<td style="text-align:right;">–
+</td></tr>
+<tr>
+<td>033510000501</td>
+<td><a href="/wiki/Lohheide" title="Lohheide">Lohheide</a></td>
+<td><a href="/wiki/Landkreis_Celle" class="mw-redirect" title="Landkreis Celle">Celle</a></td>
+<td><a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a></td>
+<td style="text-align:right;">91.32</td>
+<td style="text-align:right;">716
+</td></tr>
+<tr>
+<td>064350000200</td>
+<td><a href="/wiki/Gutsbezirk_Spessart" title="Gutsbezirk Spessart">Gutsbezirk Spessart</a></td>
+<td><a href="/wiki/Main-Kinzig-Kreis" title="Main-Kinzig-Kreis">Main-Kinzig-Kreis</a></td>
+<td><a href="/wiki/Hesse" title="Hesse">Hesse</a></td>
+<td style="text-align:right;">89.30</td>
+<td style="text-align:right;">–
+</td></tr>
+<tr>
+<td>091800000451</td>
+<td><a href="/w/index.php?title=Ettaler_Forst&amp;action=edit&amp;redlink=1" class="new" title="Ettaler Forst (page does not exist)">Ettaler Forst</a></td>
+<td><a href="/wiki/Landkreis_Garmisch-Partenkirchen" class="mw-redirect" title="Landkreis Garmisch-Partenkirchen">Garmisch-Partenkirchen</a></td>
+<td><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></td>
+<td style="text-align:right;">83.46</td>
+<td style="text-align:right;">–
+</td></tr>
+<tr>
+<td>084150000971</td>
+<td><a href="/wiki/Gutsbezirk_M%C3%BCnsingen" title="Gutsbezirk Münsingen">Gutsbezirk Münsingen</a></td>
+<td><a href="/wiki/Landkreis_Reutlingen" class="mw-redirect" title="Landkreis Reutlingen">Reutlingen</a></td>
+<td><a href="/wiki/Baden-W%C3%BCrttemberg" title="Baden-Württemberg">Baden-Württemberg</a></td>
+<td style="text-align:right;">64.68</td>
+<td style="text-align:right;">160†
+</td></tr>
+<tr>
+<td>010535303105</td>
+<td><a href="/wiki/Sachsenwald" title="Sachsenwald">Sachsenwald</a></td>
+<td><a href="/wiki/Kreis_Herzogtum_Lauenburg" class="mw-redirect" title="Kreis Herzogtum Lauenburg">Herzogtum Lauenburg</a></td>
+<td><a href="/wiki/Schleswig-Holstein" title="Schleswig-Holstein">Schleswig-Holstein</a></td>
+<td style="text-align:right;">58.49</td>
+<td style="text-align:right;">–
+</td></tr>
+<tr>
+<td>094720000468</td>
+<td><a href="/w/index.php?title=Veldensteiner_Forst&amp;action=edit&amp;redlink=1" class="new" title="Veldensteiner Forst (page does not exist)">Veldensteiner Forst</a></td>
+<td><a href="/wiki/Landkreis_Bayreuth" class="mw-redirect" title="Landkreis Bayreuth">Bayreuth</a></td>
+<td><a href="/wiki/Bavaria" title="Bavaria">Bavaria</a></td>
+<td style="text-align:right;">55.60</td>
+<td style="text-align:right;">–
+</td></tr>
+<tr>
+<td>033540000502</td>
+<td><a href="/w/index.php?title=G%C3%B6hrde_(gemeindefreies_Gebiet)&amp;action=edit&amp;redlink=1" class="new" title="Göhrde (gemeindefreies Gebiet) (page does not exist)">Göhrde</a></td>
+<td><a href="/wiki/L%C3%BCchow-Dannenberg" title="Lüchow-Dannenberg">Lüchow-Dannenberg</a></td>
+<td><a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a></td>
+<td style="text-align:right;">51.81</td>
+<td style="text-align:right;">–
+</td></tr>
+<tr>
+<td>033540000501</td>
+<td><a href="/w/index.php?title=Gartow_(gemeindefreies_Gebiet)&amp;action=edit&amp;redlink=1" class="new" title="Gartow (gemeindefreies Gebiet) (page does not exist)">Gartow</a></td>
+<td><a href="/wiki/L%C3%BCchow-Dannenberg" title="Lüchow-Dannenberg">Lüchow-Dannenberg</a></td>
+<td><a href="/wiki/Lower_Saxony" title="Lower Saxony">Lower Saxony</a></td>
+<td style="text-align:right;">50.92</td>
+<td style="text-align:right;">–
+</td></tr>
+<tr>
+<td>066360000200</td>
+<td><a href="/w/index.php?title=Gutsbezirk_Kaufunger_Wald&amp;action=edit&amp;redlink=1" class="new" title="Gutsbezirk Kaufunger Wald (page does not exist)">Gutsbezirk Kaufunger Wald</a></td>
+<td><a href="/wiki/Werra-Mei%C3%9Fner-Kreis" title="Werra-Meißner-Kreis">Werra-Meißner-Kreis</a></td>
+<td><a href="/wiki/Hesse" title="Hesse">Hesse</a></td>
+<td style="text-align:right;">50.32</td>
+<td style="text-align:right;">–
+</td></tr></tbody></table>
+<p>† No inhabitants since 1 January 2011 as a result of reduction in area.
+</p><p>In Bavaria, there are other contiguous unincorporated areas covering more than 50&#160;km²; these are however composed of several adjacent unincorporated areas combined, each of which is however under 50&#160;km² in area.
+</p>
+<h3><span class="mw-headline" id="Netherlands">Netherlands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unincorporated_area&amp;action=edit&amp;section=13" title="Edit section: Netherlands">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Netherlands has had regular periods with unincorporated land when newly reclaimed land <a href="/wiki/Polder" title="Polder">polders</a> fall dry. Unincorporated land is since medieval times administered by an appointed officer with the name <i>Landdrost</i> or <i>Drossaart</i>. Also, <a href="/wiki/Elten" title="Elten">Elten</a> and <a href="/wiki/Selfkant#Tüddern" title="Selfkant">Tudderen</a>, both annexed from Germany after World War II, were governed by a Landdrost until they were ceded to Germany in 1963.
+</p><p>The most recent period with unincorporated land started in 1967 when the dyke around <a href="/wiki/Flevoland" title="Flevoland">Southern Flevoland</a> was closed. It however requires several years before the polder is genuinely accessible for cultivation and construction of roads and homes can start, as in the first years the soil is equivalent to <a href="/wiki/Quicksand" title="Quicksand">quicksand</a>. During the initial period of inhabitation a special, government-appointed officer was installed, known as the <i>Landdrost</i>. During the administrative office of a Landdrost there is no municipal council.
+</p><p>In 1975, the first homes in what is now the city of <a href="/wiki/Almere" title="Almere">Almere</a> were built and from 1976 to 1984 the area was governed by the <i>Landdrost</i> as the executive of the <i>Openbaar Lichaam Zuidelijke IJsselmeerpolders</i> (Southern IJsselmeerpolders Public Body). In 1984 the <i>Landdrost</i> became the first mayor of the new city Almere. Since that date the Netherlands does not have any unincorporated land areas.
+</p><p>The <i>Openbaar Lichaam</i> remained however, only governing the water body of the <a href="/wiki/Markermeer" title="Markermeer">Markermeer</a>. After the municipal division of the Wadden Sea (1985), the territorial waters in the North Sea (1991) and the IJsselmeer (1994), all water bodies are now also part of a municipality<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> and there are no unincorporated areas in the Netherlands anymore. The <i>Openbaar Lichaam Zuidelijke IJsselmeerpolders</i> was dissolved in 1996.
+</p>
+<h3><span class="mw-headline" id="Norway">Norway</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unincorporated_area&amp;action=edit&amp;section=14" title="Edit section: Norway">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Norway, <a href="/wiki/Jan_Mayen" title="Jan Mayen">Jan Mayen</a>, <a href="/wiki/Svalbard" title="Svalbard">Svalbard</a> and <a href="/wiki/Bouvet_Island" title="Bouvet Island">Bouvet Island</a> are outside the division into <a href="/wiki/Counties_of_Norway" title="Counties of Norway">counties</a> and <a href="/wiki/List_of_municipalities_of_Norway" title="List of municipalities of Norway">municipalities</a>. They are ruled directly by national authorities without any local democracy. An exception is the <a href="/wiki/Longyearbyen_Community_Council" title="Longyearbyen Community Council">Longyearbyen Community Council</a> which since 2004 in reality acts partly like a Norwegian municipality. Svalbard has a <a href="/wiki/Governor_of_Svalbard" title="Governor of Svalbard">governor</a> appointed by the government of Norway, ruling the area. Jan Mayen has no population, only radio and weather stations with staff, whose manager has the responsibility for the activities. Bouvet Island has only occasional visitors.
+</p>
+<h3><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unincorporated_area&amp;action=edit&amp;section=15" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Unincorporated_territories_of_the_United_States" title="Unincorporated territories of the United States">Unincorporated territories of the United States</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Nutbush_unincorporated.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Nutbush_unincorporated.jpg/220px-Nutbush_unincorporated.jpg" width="220" height="106" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Nutbush_unincorporated.jpg/330px-Nutbush_unincorporated.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Nutbush_unincorporated.jpg/440px-Nutbush_unincorporated.jpg 2x" data-file-width="1005" data-file-height="482" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Nutbush_unincorporated.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Nutbush,_Tennessee" title="Nutbush, Tennessee">Nutbush</a>, an unincorporated area in <a href="/wiki/Haywood_County,_Tennessee" title="Haywood County, Tennessee">Haywood County</a>, Tennessee</div></div></div>
+<p>In <a href="/wiki/Local_government_in_the_United_States" title="Local government in the United States">local government in the United States</a>, an unincorporated area generally refers to the part of a <a href="/wiki/County_(United_States)" title="County (United States)">county</a> which is outside any municipality.
+</p><p>Most states have granted some form of <a href="/wiki/Home_Rule_in_the_United_States" class="mw-redirect" title="Home Rule in the United States">home rule</a>, so that <a href="/wiki/County_commission" title="County commission">county commissions</a> (or <a href="/wiki/Board_of_Supervisors" class="mw-redirect" title="Board of Supervisors">boards</a> or councils) have the same powers in these areas as <a href="/wiki/City_council" title="City council">city councils</a> or <a href="/wiki/Town_council" title="Town council">town councils</a> have in their respective incorporated areas.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Some states instead put these powers in the hands of townships, which are <a href="/wiki/Minor_civil_division" title="Minor civil division">minor civil divisions</a> of each county, and are called "towns" in some states.
+</p><p>Some American states have no unincorporated land areas; these include <a href="/wiki/Connecticut" title="Connecticut">Connecticut</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>, <a href="/wiki/New_Jersey" title="New Jersey">New Jersey</a>, <a href="/wiki/New_York_(state)" title="New York (state)">New York</a> and <a href="/wiki/Rhode_Island" title="Rhode Island">Rhode Island</a>, although these states all have communities that are not separately incorporated but are part of a larger municipality.
+</p><p>An <b>unincorporated community</b> is one general term for a geographic area having a common social identity without municipal organization or official political designation (i.e., incorporation as a city or town). There are two main types of unincorporated communities:
+</p>
+<ul><li>a neighborhood or other community existing within one or across multiple existing incorporated areas (i.e., cities or towns). In this sense, a community is part of a municipal government, but not <i>separately</i> incorporated from it.  For example, <a href="/wiki/Hyannis,_Massachusetts" title="Hyannis, Massachusetts">Hyannis, Massachusetts</a>, is an unincorporated village within the town of <a href="/wiki/Barnstable,_Massachusetts" title="Barnstable, Massachusetts">Barnstable</a>.</li>
+<li>a neighborhood or other community existing outside an incorporated municipal government. In this sense, the community is outside any municipal government, and entirely unincorporated. Examples include: <a href="/wiki/Hovland,_Minnesota" title="Hovland, Minnesota">Hovland, Minnesota</a>; <a href="/wiki/Ceresco,_Michigan" title="Ceresco, Michigan">Ceresco, Michigan</a>; <a href="/wiki/Nutbush,_Tennessee" title="Nutbush, Tennessee">Nutbush, Tennessee</a>; and <a href="/wiki/Yucca,_Arizona" title="Yucca, Arizona">Yucca, Arizona</a>; small rural settlements of low population.</li></ul>
+<p>Due to differences in state laws regarding the incorporation of communities, there is a great variation in the distribution and nature of unincorporated areas. Unincorporated regions are essentially nonexistent in seven of the northeastern states. All of the land in <a href="/wiki/New_Jersey" title="New Jersey">New Jersey</a>, <a href="/wiki/Connecticut" title="Connecticut">Connecticut</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>, <a href="/wiki/New_York_(state)" title="New York (state)">New York</a>,  and <a href="/wiki/Rhode_Island" title="Rhode Island">Rhode Island</a>, and nearly all of the land in <a href="/wiki/New_Hampshire" title="New Hampshire">New Hampshire</a>, <a href="/wiki/Local_government_in_Pennsylvania" title="Local government in Pennsylvania">Pennsylvania</a> and <a href="/wiki/Vermont_municipality" title="Vermont municipality">Vermont</a>, is part of an incorporated area of some type. In these areas, types (and official names) of local government entities can vary. In <a href="/wiki/New_England" title="New England">New England</a> (which includes five of those eight states, plus the less fully incorporated state of <a href="/wiki/Maine" title="Maine">Maine</a>), local municipalities are known as <a href="/wiki/New_England_town" title="New England town">towns</a> or cities, and most towns are administered by a form of direct democracy, such as the <a href="/wiki/Open_town_meeting" class="mw-redirect" title="Open town meeting">open town meeting</a> or <a href="/wiki/Representative_town_meeting" title="Representative town meeting">representative town meeting</a>. Larger towns in New England may be incorporated as cities, with some form of mayor-council government. In New Jersey multiple types exist as well, such as <a href="/wiki/City_(New_Jersey)" title="City (New Jersey)">city</a>, <a href="/wiki/Township_(New_Jersey)" title="Township (New Jersey)">township</a>, <a href="/wiki/Town_(New_Jersey)" title="Town (New Jersey)">town</a>, <a href="/wiki/Borough_(New_Jersey)" title="Borough (New Jersey)">borough</a>, or <a href="/wiki/Village_(New_Jersey)" title="Village (New Jersey)">village</a>, but these differences are in the structure of the legislative branches, not in the powers or functions of the entities themselves.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Stand_up_scene_(8712578924).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Stand_up_scene_%288712578924%29.jpg/220px-Stand_up_scene_%288712578924%29.jpg" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Stand_up_scene_%288712578924%29.jpg/330px-Stand_up_scene_%288712578924%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Stand_up_scene_%288712578924%29.jpg/440px-Stand_up_scene_%288712578924%29.jpg 2x" data-file-width="3264" data-file-height="1836" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Stand_up_scene_(8712578924).jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Rosslyn,_Arlington,_Virginia" class="mw-redirect" title="Rosslyn, Arlington, Virginia">Rosslyn</a>, one of many highrise neighborhoods in <a href="/wiki/Arlington_County,_Virginia" title="Arlington County, Virginia">Arlington County, Virginia</a>. The county has no cities within its borders, and five times the population density of the state's most populous city, <a href="/wiki/Virginia_Beach" class="mw-redirect" title="Virginia Beach">Virginia Beach</a>.</div></div></div>
+<p>On the opposite end of the spectrum is the <a href="/wiki/Virginia" title="Virginia">Virginia</a> "strong county" model.<sup id="cite_ref-naco_8-0" class="reference"><a href="#cite_note-naco-8">&#91;8&#93;</a></sup> Virginia and other states with this model, such as <a href="/wiki/Alabama" title="Alabama">Alabama</a>, <a href="/wiki/Maryland" title="Maryland">Maryland</a>, and <a href="/wiki/Tennessee" title="Tennessee">Tennessee</a>, set strict requirements on incorporation or grant counties broad powers that in other states are carried out by cities, creating a disincentive to incorporate, and thus have large, urbanized areas which have no municipal government below the county level.
+</p><p>Meanwhile, in other mid-Atlantic states, such as <a href="/wiki/New_York_(state)" title="New York (state)">New York</a> and Pennsylvania, a "hybrid" model<sup id="cite_ref-naco_8-1" class="reference"><a href="#cite_note-naco-8">&#91;8&#93;</a></sup> that tries to "balance" the two approaches is prevalent,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> with differing allocations of power between municipalities and counties existing.
+</p><p>Throughout the U.S., some large cities have annexed all surrounding unincorporated areas, creating what are known as <a href="/wiki/Consolidated_city%E2%80%93county" class="mw-redirect" title="Consolidated city–county">consolidated city–county</a> forms of government (e.g., <a href="/wiki/Jacksonville,_Florida" title="Jacksonville, Florida">Jacksonville, Florida</a> and <a href="/wiki/Nashville,_Tennessee" title="Nashville, Tennessee">Nashville, Tennessee</a>). Conversely, there are a number of "<a href="/wiki/County_island" title="County island">county islands</a>" that exist, where an unincorporated area is surrounded on most or all sides by municipalities. In areas of sparse population the majority of the land in any given state may be unincorporated.
+</p><p>Some states, including <a href="/wiki/North_Carolina" title="North Carolina">North Carolina</a>, grant <a href="/wiki/Extraterritorial_jurisdiction" title="Extraterritorial jurisdiction">extraterritorial jurisdiction</a> to cities and towns (but rarely villages), so that they may control <a href="/wiki/Zoning" title="Zoning">zoning</a> for a limited distance into adjacent unincorporated areas, often as a precursor (and sometimes as a legal requirement) to later <a href="/wiki/Annexation" title="Annexation">annexation</a> of those areas. This is especially useful in rural counties which have no zoning at all, or only <a href="/wiki/Spot_zoning" title="Spot zoning">spot zoning</a> for unincorporated communities.
+</p><p>In California, all counties except the <a href="/wiki/City_and_County_of_San_Francisco" class="mw-redirect" title="City and County of San Francisco">City and County of San Francisco</a> have unincorporated areas. Even in highly populated counties, the unincorporated portions may contain a large number of inhabitants. In <a href="/wiki/Los_Angeles_County,_California" title="Los Angeles County, California">Los Angeles County</a>, the county government estimates the population of its unincorporated areas to exceed one million people.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> Despite having 88 incorporated cities and towns, including the state's most populous, 65% of the land in Los Angeles County is unincorporated, this mostly consisting of <a href="/wiki/Angeles_National_Forest" title="Angeles National Forest">Angeles National Forest</a> and sparsely populated regions to its north.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> California law makes no distinction between "city" and "town", and municipalities may use either term in their official names.<sup id="cite_ref-CA_Gov_Code_12-0" class="reference"><a href="#cite_note-CA_Gov_Code-12">&#91;12&#93;</a></sup>
+</p><p>An unincorporated community may be part of a <a href="/wiki/Census-designated_place" title="Census-designated place">census-designated place</a> (CDP). A CDP is an area defined by the <a href="/wiki/United_States_Census_Bureau" title="United States Census Bureau">United States Census Bureau</a> for statistical purposes only. It is a populated area that generally includes one officially designated but currently unincorporated community, for which the CDP is named, plus surrounding inhabited countryside of varying dimensions and, occasionally, other, smaller unincorporated communities as well. Otherwise, it has no legal status.<sup id="cite_ref-USCB_13-0" class="reference"><a href="#cite_note-USCB-13">&#91;13&#93;</a></sup>
+</p><p>In the context of the <a href="/wiki/Insular_area" title="Insular area">insular areas</a> of the United States, the word "<a href="/wiki/Unincorporated_territories_of_the_United_States" title="Unincorporated territories of the United States">unincorporated</a>" means that the territory has not been formally and irrevocably incorporated into the United States. (<i>See: <a href="/wiki/United_States_territory" title="United States territory">United States territory</a>.</i>) Unincorporated insular areas are therefore potentially subject to being sold or otherwise transferred to another power, or, conversely, being granted independence. There are currently five major unincorporated U.S. insular areas: <a href="/wiki/American_Samoa" title="American Samoa">American Samoa</a>, <a href="/wiki/Puerto_Rico" title="Puerto Rico">Puerto Rico</a>, <a href="/wiki/Guam" title="Guam">Guam</a>, the <a href="/wiki/United_States_Virgin_Islands" title="United States Virgin Islands">U.S. Virgin Islands</a>, and the <a href="/wiki/Northern_Mariana_Islands" title="Northern Mariana Islands">Northern Mariana Islands</a>.
+</p>
+<h4><span class="mw-headline" id="USGS_definition_of_populated_place">USGS definition of populated place</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unincorporated_area&amp;action=edit&amp;section=16" title="Edit section: USGS definition of populated place">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Unincorporated areas with permanent populations in the United states are defined by the US Government scientific agency United States Geological Survey (USGS) as "populated places", a "place or area with clustered or scattered buildings and a permanent human population (city, settlement, town, village)."  There are no legal boundaries, although there may be a corresponding "civil" record, the boundaries of which may or may not match the perceived populated place.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="U.S._mail_delivery">U.S. mail delivery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unincorporated_area&amp;action=edit&amp;section=17" title="Edit section: U.S. mail delivery">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Many unincorporated communities are also recognized as acceptable place names for use in mailing addresses by the <a href="/wiki/United_States_Postal_Service" title="United States Postal Service">United States Postal Service</a> (USPS) (indeed, some have their own post offices), and the <a href="/wiki/United_States_Census_Bureau" title="United States Census Bureau">United States Census Bureau</a> uses the names of some widely recognized unincorporated communities for its <a href="/wiki/Census-designated_place" title="Census-designated place">census-designated places</a> (CDPs) for which it tabulates census data.
+</p><p>However, the USPS is very conservative about recognizing new place names for use in mailing addresses and typically only does so when a place incorporates.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2017)">citation needed</span></a></i>&#93;</sup> The original place name associated with a ZIP Code is still maintained as the "default" place name, even though the name of the newly incorporated place is more accurate. As an example, <a href="/wiki/Sandy_Springs,_Georgia" title="Sandy Springs, Georgia">Sandy Springs</a> is one of the most populated places in <a href="/wiki/Georgia_(U.S._state)" title="Georgia (U.S. state)">Georgia</a>, but is served by a branch of the <a href="/wiki/Atlanta" title="Atlanta">Atlanta</a> post office. Only after the city was incorporated in 2005 has "Sandy Springs" been approved by the USPS for use in mailing addresses, though "Atlanta" remains the default name. Accordingly, "Atlanta" is the only accepted place name for mailing addresses in the nearby unincorporated town of <a href="/wiki/Vinings,_Georgia" title="Vinings, Georgia">Vinings</a>, also served by a branch of the Atlanta post office, even though Vinings is in <a href="/wiki/Cobb_County,_Georgia" title="Cobb County, Georgia">Cobb County</a> and Atlanta is in <a href="/wiki/Fulton_County,_Georgia" title="Fulton County, Georgia">Fulton County</a>. In contrast, neighboring <a href="/wiki/Mableton,_Georgia" title="Mableton, Georgia">Mableton</a> has not been incorporated in nearly a century, but has its own post office and thus "Mableton" is the only acceptable place name for mailing addresses in the town. The areas of <a href="/wiki/Dulah,_California" title="Dulah, California">Dulah</a> and <a href="/wiki/Faria,_California" title="Faria, California">Faria</a>, California, which are unincorporated areas in <a href="/wiki/Ventura_County,_California" title="Ventura County, California">Ventura County</a> between <a href="/wiki/Ventura,_California" title="Ventura, California">Ventura</a> and <a href="/wiki/Carpinteria,_California" title="Carpinteria, California">Carpinteria</a>, have the ZIP Code of 93001, which is assigned to the post office at 675 E. Santa Clara St. in Ventura;<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> thus, all mail to those two areas is addressed to Ventura.
+</p><p>If an unincorporated area becomes incorporated, it may be split among ZIP Codes, and its new name may be recognized as "acceptable" for use with some or all of them in mailing addresses, as has been the case in <a href="/wiki/Johns_Creek,_Georgia" title="Johns Creek, Georgia">Johns Creek</a> and <a href="/wiki/Milton,_Georgia" title="Milton, Georgia">Milton, Georgia</a>. However, if an incorporated area disincorporates, this has no effect on whether a place name is "acceptable" in a mailing address or not, as is the case with <a href="/wiki/Lithia_Springs,_Georgia" title="Lithia Springs, Georgia">Lithia Springs, Georgia</a>. ZIP Code boundaries often ignore political boundaries, so the appearance of a place name in a mailing address alone does not indicate whether the place is incorporated or unincorporated.
+</p>
+<h3><span class="mw-headline" id="Other">Other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unincorporated_area&amp;action=edit&amp;section=18" title="Edit section: Other">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Some countries have some exceptional unincorporated areas: 
+</p>
+<ul><li><a href="/wiki/Denmark" title="Denmark">Denmark</a> (the Kingdom of Denmark has three unincorporated areas: the former naval fortress <a href="/wiki/Ertholmene" title="Ertholmene">Ertholmene</a> east of <a href="/wiki/Bornholm" title="Bornholm">Bornholm</a> with less than 100 inhabitants is still governed directly by the Ministry of Defence; the <a href="/wiki/Northeast_Greenland_National_Park" title="Northeast Greenland National Park">Northeast Greenland National Park</a> and the <a href="/wiki/Thule_Air_Base" title="Thule Air Base">Thule Air Base</a> are unincorporated areas in Greenland.)</li>
+<li><a href="/wiki/France" title="France">France</a> (exceptions are some small overseas possessions)</li>
+<li><a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a> (except for the <a href="/wiki/Lok_Ma_Chau_Loop" title="Lok Ma Chau Loop">Lok Ma Chau Loop</a>) is divided into <a href="/wiki/Districts_of_Hong_Kong" title="Districts of Hong Kong">districts</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup></li>
+<li>In <a href="/wiki/Israel" title="Israel">Israel</a> all land, except military areas, is subdivided into 393 municipalities which are further classified, normally by population, as <a href="/wiki/List_of_cities_in_Israel" title="List of cities in Israel">City</a>, <a href="/wiki/Local_council_(Israel)" title="Local council (Israel)">Local Council</a>, or <a href="/wiki/Regional_council_(Israel)" title="Regional council (Israel)">Regional Council</a>. All three types of municipality provide services including zoning and planning.</li>
+<li><a href="/wiki/Switzerland" title="Switzerland">Switzerland</a> (Switzerland also has a few exceptions: 22 lakes and a forest, as described by the Swiss federal statistical office (see Gemeindefreie Gebiete in <a href="https://de.wikipedia.org/wiki/Gemeindefreies_Gebiet#Schweiz" class="extiw" title="de:Gemeindefreies Gebiet">here</a>))</li>
+<li><a href="/wiki/Slovakia" title="Slovakia">Slovakia</a> is divided into <a href="/wiki/Municipality" title="Municipality">municipalities</a>. There are two types of municipalities: towns (<i>mesto</i>, pl. <i>mestá</i>) and villages (<i>obec</i>, pl. <i>obce</i>), with minor differences between them. Additionally, there are several <a href="/wiki/Proving_ground" title="Proving ground">military areas</a> which are not part of any municipality. In fact, each military area is a municipality of its own right. However, the military areas hold no elections and have no mayors or other elected representatives. Instead, they are administered directly by the Slovak Ministry of Defence.</li></ul>
+<h2><span class="mw-headline" id="Countries_without_unincorporated_areas">Countries without unincorporated areas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unincorporated_area&amp;action=edit&amp;section=19" title="Edit section: Countries without unincorporated areas">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many countries, especially those with many centuries of history using multiple tiers of local government, do not use the concept of an unincorporated area. 
+</p>
+<ul><li>The whole of the territories of Austria, Belgium, Bosnia and Herzegovina, Croatia, Finland, France, Italy, Japan, the Netherlands, the Philippines, Poland, Portugal, Serbia, Slovenia and Sweden are divided into municipalities.</li>
+<li>In Brazil, Chile and Mexico, all land must belong to a municipality. Even large uninhabited areas, such as forests or grasslands, are by law part of the nearest "city". This is because in Latin America, a "municipality" is the equivalent of what in the United States and Canada is called a "county".</li>
+<li>In Mainland China, every piece of land belongs to a <a href="/wiki/Administrative_divisions_of_China" title="Administrative divisions of China">county-level (third level) administrative division (equivalent to a municipality)</a>, either a <a href="/wiki/District_of_China" class="mw-redirect" title="District of China">district (区 qū)</a> in an urban area, or a <a href="/wiki/County-level_city" title="County-level city">county-level city (县级市 xiànjíshì)</a>, <a href="/wiki/Counties_of_the_People%27s_Republic_of_China" class="mw-redirect" title="Counties of the People&#39;s Republic of China">county (县 xiàn)</a> or <a href="/wiki/Banners_of_Inner_Mongolia" title="Banners of Inner Mongolia">banner (旗 qí)</a>. There is also a township-level (fourth level) administrative division, which may be a <a href="/wiki/Subdistricts_of_the_People%27s_Republic_of_China" title="Subdistricts of the People&#39;s Republic of China">subdistrict (街道 jiēdào)</a>,  <a href="/wiki/Towns_of_the_People%27s_Republic_of_China" title="Towns of the People&#39;s Republic of China">town (镇 zhèn)</a>, <a href="/wiki/Townships_of_the_People%27s_Republic_of_China" title="Townships of the People&#39;s Republic of China">township (乡 xiāng)</a>, or <a href="/wiki/Sum_(country_subdivision)" title="Sum (country subdivision)">sumu (苏木 sūmù)</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup></li>
+<li>In Croatia, every piece of land belongs either to a city (<i>grad</i>) or to a municipality (<i>općina</i>).</li>
+<li>In the United Kingdom, in England, all land is within a <a href="/wiki/Ceremonial_counties_of_England" title="Ceremonial counties of England">county</a> or <a href="/wiki/Local_government_district" class="mw-redirect" title="Local government district">local government district</a>, both of which exercise power over their jurisdictions. In Scotland, all land is within one of 32 <a href="/wiki/Unitary_authority" title="Unitary authority">unitary authorities</a><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> designated as councils.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> In Wales, all land is within one of 22 <a href="/wiki/Unitary_authority" title="Unitary authority">single-tier</a> principal areas.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> In Northern Ireland, all land is within one of 11 districts.</li>
+<li>In <a href="/wiki/Estonia" title="Estonia">Estonia</a>, the entire territory is divided into 79 <a href="/wiki/Municipalities_of_Estonia" title="Municipalities of Estonia">municipalities</a> of which 14 are municipal towns and 65 are parishes.</li>
+<li>In France, the territory is subdivided into 36,685 <i><a href="/wiki/Communes_of_France" title="Communes of France">communes</a></i> (municipalities).<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> An elected council and a mayor form the governing body of a municipality.</li>
+<li>In Japan, every piece of land belongs to a <a href="/wiki/Municipalities_of_Japan" title="Municipalities of Japan">municipality</a>, of which there are four types: <a href="/wiki/Cities_of_Japan" title="Cities of Japan">cities (市 <i>shi</i>)</a>; <a href="/wiki/Special_wards_of_Tokyo" title="Special wards of Tokyo">the special wards (特別区 <i>tokubetsu-ku</i>) of Tokyo</a>; <a href="/wiki/List_of_towns_in_Japan" title="List of towns in Japan">towns (町 <i>chō</i> or <i>machi</i>)</a>; <a href="/wiki/List_of_villages_in_Japan" title="List of villages in Japan">villages (村 <i>mura</i> or <i>son</i>)</a>.</li>
+<li>In the Philippines, every piece of land belongs either to a <a href="/wiki/Cities_of_the_Philippines" title="Cities of the Philippines">city or <i>lungsód</i></a> or to a <a href="/wiki/Municipalities_of_the_Philippines" title="Municipalities of the Philippines">municipality or <i>bayan</i></a>.</li>
+<li>In Indonesia, every piece of land belongs to a municipality (<a href="/wiki/Kotamadya" title="Kotamadya">kotamadya</a>) or a regency (<a href="/wiki/Kabupaten" class="mw-redirect" title="Kabupaten">kabupaten</a>)</li>
+<li>In Portugal, the Portuguese constitution defines territorial divisions as parishes, municipalities and administrative regions.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> There is no official definition of city limits so a city may include several parishes, or a parish may cover several villages or townships, but a municipality is usually administered from the city or town that bears its name.</li>
+<li>In South Africa, the constitution gives every place in the country democratically elected third-tier government.</li>
+<li>In South Korea, every piece of land belongs to a <a href="/wiki/Administrative_divisions_of_South_Korea" title="Administrative divisions of South Korea">municipal</a> either a <a href="/wiki/List_of_districts_in_South_Korea" title="List of districts in South Korea">district (구/區 gu)</a> in a <a href="/wiki/List_of_cities_in_South_Korea" title="List of cities in South Korea">city (시/市 si)</a> or a <a href="/wiki/Eup_(administrative_division)" title="Eup (administrative division)">town (읍/邑 eup)</a> or <a href="/wiki/Myeon_(administrative_division)" title="Myeon (administrative division)">township (면/面 myeon)</a> in a <a href="/wiki/List_of_counties_in_South_Korea" class="mw-redirect" title="List of counties in South Korea">county (군/郡 gun)</a>.</li>
+<li>In Spain, the <a href="/wiki/Spanish_Constitution_of_1978" class="mw-redirect" title="Spanish Constitution of 1978">Spanish Constitution of 1978</a> says that the land is divided into <a href="/wiki/Autonomous_communities_of_Spain" title="Autonomous communities of Spain">Autonomous Communities</a>, <a href="/wiki/Provinces_of_Spain" title="Provinces of Spain">provinces</a> and <a href="/wiki/Municipalities_of_Spain" title="Municipalities of Spain">municipalities</a>. Each of these have certain powers determined by law. Autonomous Communities and municipalities are enabled to appeal to the <a href="/wiki/Constitutional_Court_of_Spain" title="Constitutional Court of Spain">Constitutional Court</a> any public decision that violates their autonomy by other entities (State or Autonomous Community power). Nevertheless, some regions, like <a href="/wiki/Navarra" class="mw-redirect" title="Navarra">Navarra</a>, have some unincorporated areas. The largest of these, the <a href="/wiki/Bardenas_Reales" title="Bardenas Reales">Bardenas Reales</a> has a surface of 418&#160;km<sup>2</sup> and is governed by a board of representatives of 20 bordering municipalities, a valley in the Pyrenees, and a monastery, all of which have rights to use the area.</li>
+<li>In Sweden, all territory is divided into municipalities. Sweden has <a href="/wiki/Post-glacial_rebound" title="Post-glacial rebound">post-glacial rebound</a>, meaning the land is rising by up to a meter (3 ft) per century compared to sea level. But municipal borders extend into sea, giving such new areas a defined municipal belonging.</li>
+<li>In the Republic of China area (Taiwan, Pescadores, Kinmen, and Matsu), every piece of land belongs to either an <a href="/wiki/Township_(Republic_of_China)" class="mw-redirect" title="Township (Republic of China)">Urban/Rural township (鎮 zhèn/鄉 xiāng)</a> or a <a href="/wiki/County-controlled_city" class="mw-redirect" title="County-controlled city">County-controlled city (縣轄市 xiànxiáshì)</a> in <a href="/wiki/County_(Republic_of_China)" class="mw-redirect" title="County (Republic of China)">Counties (縣 xiàn)</a>, or <a href="/wiki/District_(Republic_of_China)" class="mw-redirect" title="District (Republic of China)">Districts (區 qū)</a> in <a href="/wiki/Provincial_city_(Republic_of_China)" class="mw-redirect" title="Provincial city (Republic of China)">cities (市 shì)</a>. There are, in total, 368 townships, County-controlled cities and Districts in Taiwan. See also <a href="/wiki/Administrative_divisions_of_Taiwan" title="Administrative divisions of Taiwan">Administrative divisions of Taiwan</a>.</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unincorporated_area&amp;action=edit&amp;section=20" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Terra.png/28px-Terra.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Terra.png/42px-Terra.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Terra.png/56px-Terra.png 2x" data-file-width="599" data-file-height="599" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Geography" title="Portal:Geography">Geography portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Johnny-automatic-scales-of-justice.svg/32px-Johnny-automatic-scales-of-justice.svg.png" width="32" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Johnny-automatic-scales-of-justice.svg/48px-Johnny-automatic-scales-of-justice.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Johnny-automatic-scales-of-justice.svg/64px-Johnny-automatic-scales-of-justice.svg.png 2x" data-file-width="512" data-file-height="442" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Law" title="Portal:Law">Law portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Census-designated_place" title="Census-designated place">Census-designated place</a></li>
+<li><a href="/wiki/County_island" title="County island">County island</a></li>
+<li><a href="/wiki/Unorganized_territory" title="Unorganized territory">Unorganized territory</a></li>
+<li><a href="/wiki/Unparished_area" title="Unparished area">Unparished area</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unincorporated_area&amp;action=edit&amp;section=21" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-asgc-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-asgc_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-asgc_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1216.0Jul%202008?OpenDocument">"Local Government Areas and Statistical Local Areas – Alphabetic"</a>. <i>Australian Standard Geographical Classification (ASGC), Jul 2008</i>. Australian Bureau of Statistics. 26 September 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">31 January</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Australian+Standard+Geographical+Classification+%28ASGC%29%2C+Jul+2008&amp;rft.atitle=Local+Government+Areas+and+Statistical+Local+Areas+%E2%80%93+Alphabetic&amp;rft.date=2008-09-26&amp;rft_id=http%3A%2F%2Fwww.abs.gov.au%2FAUSSTATS%2Fabs%40.nsf%2FDetailsPage%2F1216.0Jul%25202008%3FOpenDocument&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnincorporated+area" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150913233847/http://www.oca.sa.gov.au/">"Welcome to the Outback Communities Authority"</a>. Government of South Australia. Archived from <a rel="nofollow" class="external text" href="http://www.oca.sa.gov.au/">the original</a> on 13 September 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">9 September</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Welcome+to+the+Outback+Communities+Authority&amp;rft.pub=Government+of+South+Australia&amp;rft_id=http%3A%2F%2Fwww.oca.sa.gov.au%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnincorporated+area" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-statcan-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-statcan_3-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www12.statcan.ca/census-recensement/2006/ref/dict/geo018a-eng.cfm">More information on Designated place</a>. <a href="/wiki/Statistics_Canada" title="Statistics Canada">Statistics Canada</a>. 2009.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://zpravy.idnes.cz/vlada-zrusila-vojensky-ujezd-brdy-dalsi-ctyri-cviciste-se-zmensi-pyu-/domaci.aspx?c=A120104_143158_domaci_jav">"Vláda zrušila vojenský újezd Brdy, další čtyři cvičiště se zmenší – iDNES.cz"</a>. Zpravy.idnes.cz<span class="reference-accessdate">. Retrieved <span class="nowrap">25 April</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Vl%C3%A1da+zru%C5%A1ila+vojensk%C3%BD+%C3%BAjezd+Brdy%2C+dal%C5%A1%C3%AD+%C4%8Dty%C5%99i+cvi%C4%8Di%C5%A1t%C4%9B+se+zmen%C5%A1%C3%AD+%E2%80%93+iDNES.cz&amp;rft.pub=Zpravy.idnes.cz&amp;rft_id=http%3A%2F%2Fzpravy.idnes.cz%2Fvlada-zrusila-vojensky-ujezd-brdy-dalsi-ctyri-cviciste-se-zmensi-pyu-%2Fdomaci.aspx%3Fc%3DA120104_143158_domaci_jav&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnincorporated+area" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.statistik-bw.de/Pressemitt/2010459.asp">[1]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110928145515/http://www.statistik-bw.de/Pressemitt/2010459.asp">Archived</a> 28 September 2011 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">A.J., Van der Meer, (15 October 2017). <a rel="nofollow" class="external text" href="http://repository.tudelft.nl/view/ir/uuid:af284777-3f6e-4fb5-8b85-f4a6f4c2c758/">"Gemeentegrenzen in Nederland: Een juridisch, technisch en kadastraal onderzoek"</a>. <i>Repository.tudelft.nl</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 October</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Repository.tudelft.nl&amp;rft.atitle=Gemeentegrenzen+in+Nederland%3A+Een+juridisch%2C+technisch+en+kadastraal+onderzoek&amp;rft.date=2017-10-15&amp;rft.aulast=A.J.&amp;rft.aufirst=Van+der+Meer%2C&amp;rft_id=http%3A%2F%2Frepository.tudelft.nl%2Fview%2Fir%2Fuuid%3Aaf284777-3f6e-4fb5-8b85-f4a6f4c2c758%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnincorporated+area" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110202061217/http://www.naco.org/Counties/Pages/HistoryofCountyGovernmentPartII.aspx">"A surge toward home rule"</a>. <i>History of County Government Part II</i>. <a href="/wiki/National_Association_of_Counties" title="National Association of Counties">National Association of Counties</a>. Archived from <a rel="nofollow" class="external text" href="http://www.naco.org/Counties/Pages/HistoryofCountyGovernmentPartII.aspx">the original</a> on 2 February 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">31 January</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History+of+County+Government+Part+II&amp;rft.atitle=A+surge+toward+home+rule&amp;rft_id=http%3A%2F%2Fwww.naco.org%2FCounties%2FPages%2FHistoryofCountyGovernmentPartII.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnincorporated+area" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-naco-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-naco_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-naco_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110202050821/http://www.naco.org/Counties/Pages/HistoryofCountyGovernmentPartI.aspx">"About Counties"</a>. <i>History of County Government Part I</i>. National Association of Counties. Archived from <a rel="nofollow" class="external text" href="http://www.naco.org/Counties/Pages/HistoryofCountyGovernmentPartI.aspx">the original</a> on 2 February 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">31 January</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History+of+County+Government+Part+I&amp;rft.atitle=About+Counties&amp;rft_id=http%3A%2F%2Fwww.naco.org%2FCounties%2FPages%2FHistoryofCountyGovernmentPartI.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnincorporated+area" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110726172731/http://www.ilcounty.org/news/22-3.html">"County Government"</a>. Illinois Association of County board members. 2007. Archived from <a rel="nofollow" class="external text" href="http://www.ilcounty.org/news/22-3.html">the original</a> on 26 July 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">31 January</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=County+Government&amp;rft.pub=Illinois+Association+of+County+board+members&amp;rft.date=2007&amp;rft_id=http%3A%2F%2Fwww.ilcounty.org%2Fnews%2F22-3.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnincorporated+area" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ceo.lacounty.gov/forms/Estimate%20Unincorp.pdf">"Estimated Population – Unincorporated Areas"</a> <span class="cs1-format">(PDF)</span>. County of Los Angeles. February 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">31 January</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Estimated+Population+%E2%80%93+Unincorporated+Areas&amp;rft.pub=County+of+Los+Angeles&amp;rft.date=2008-02&amp;rft_id=http%3A%2F%2Fceo.lacounty.gov%2Fforms%2FEstimate%2520Unincorp.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnincorporated+area" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160922192424/http://www.lacounty.gov/wps/portal/!ut/p/c1/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gLAwgwsjAJdDMw8nG1CPU0NTYyMDMCykfilg80I6A7HGQfHv2mBOTNIPIGOICjgb6fR35uqn6kfpQ5LlPcjQz0I3NS0xOTK_ULciMMMgMyAgEleb29/dl2/d1/L2dJQSEvUUt3QS9ZQnB3LzZfODAwMDAwMDAyT01RNjAyTExKRUdSNzMwSzA!/">"Unincorporated Areas"</a>. County of Los Angeles. Archived from <a rel="nofollow" class="external text" href="http://www.lacounty.gov/wps/portal/!ut/p/c1/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gLAwgwsjAJdDMw8nG1CPU0NTYyMDMCykfilg80I6A7HGQfHv2mBOTNIPIGOICjgb6fR35uqn6kfpQ5LlPcjQz0I3NS0xOTK_ULciMMMgMyAgEleb29/dl2/d1/L2dJQSEvUUt3QS9ZQnB3LzZfODAwMDAwMDAyT01RNjAyTExKRUdSNzMwSzA!/">the original</a> on 22 September 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">31 January</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Unincorporated+Areas&amp;rft.pub=County+of+Los+Angeles&amp;rft_id=http%3A%2F%2Fwww.lacounty.gov%2Fwps%2Fportal%2F%21ut%2Fp%2Fc1%2F04_SB8K8xLLM9MSSzPy8xBz9CP0os3gLAwgwsjAJdDMw8nG1CPU0NTYyMDMCykfilg80I6A7HGQfHv2mBOTNIPIGOICjgb6fR35uqn6kfpQ5LlPcjQz0I3NS0xOTK_ULciMMMgMyAgEleb29%2Fdl2%2Fd1%2FL2dJQSEvUUt3QS9ZQnB3LzZfODAwMDAwMDAyT01RNjAyTExKRUdSNzMwSzA%21%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnincorporated+area" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-CA_Gov_Code-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-CA_Gov_Code_12-0">^</a></b></span> <span class="reference-text">California Government Code Sections 34502 and 56722.</span>
+</li>
+<li id="cite_note-USCB-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-USCB_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.census.gov/geo/reference/gtc/gtc_place.html">"Geographic Terms and Concepts – Place"</a>. United States Census Bureau<span class="reference-accessdate">. Retrieved <span class="nowrap">11 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Geographic+Terms+and+Concepts+%E2%80%93+Place&amp;rft.pub=United+States+Census+Bureau&amp;rft_id=https%3A%2F%2Fwww.census.gov%2Fgeo%2Freference%2Fgtc%2Fgtc_place.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnincorporated+area" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://geonames.usgs.gov/apex/f?p=138:8:0:::::">"USGS GeEographic Names Information System"</a>. <i>usgs.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=usgs.gov&amp;rft.atitle=USGS+GeEographic+Names+Information+System&amp;rft_id=https%3A%2F%2Fgeonames.usgs.gov%2Fapex%2Ff%3Fp%3D138%3A8%3A0%3A%3A%3A%3A%3A&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnincorporated+area" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://maps.google.com/maps?q=675+E+Santa+Clara+St,+Ventura,+CA&amp;hl=en&amp;ll=34.280003,-119.290452&amp;spn=0.010585,0.022724&amp;sll=34.299398,-119.248936&amp;sspn=0.169321,0.363579&amp;oq=675+e+santa+&amp;t=h&amp;hnear=675+E+Santa+Clara+St,+Ventura,+California+93001&amp;z=16">675 E Santa Clara St</a>, Ventura, CA</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.landsd.gov.hk/mapping/en/publications/district.htm">"Area by District Council (October 2014)"</a>. <a href="/wiki/Lands_Department" title="Lands Department">Lands Department</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 April</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Area+by+District+Council+%28October+2014%29&amp;rft.pub=Lands+Department&amp;rft_id=http%3A%2F%2Fwww.landsd.gov.hk%2Fmapping%2Fen%2Fpublications%2Fdistrict.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnincorporated+area" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Guo, Rongxing. <i>Understanding the Chinese Economies</i>. <a href="/wiki/Academic_Press" title="Academic Press">Academic Press</a>, September 19, 2012. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0123978262" title="Special:BookSources/0123978262">0123978262</a>, 9780123978264. p. <a rel="nofollow" class="external text" href="https://books.google.nl/books?id=oWc2I03-UQIC&amp;pg=PA13">13</a>.</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">In this context, the phrase is descriptive, not prescriptive; "unitary authority" does not have the specific legal meaning that it has in England.</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">s.2 Local Government (Scotland) Act 1994</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Local Government (Wales) Act 1994</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.insee.fr/en/methodes/default.asp?page=definitions/commune.htm">"Définition - Municipality - Insee"</a>. <i>Insee.fr</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 October</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Insee.fr&amp;rft.atitle=D%C3%A9finition+-+Municipality+-+Insee&amp;rft_id=http%3A%2F%2Fwww.insee.fr%2Fen%2Fmethodes%2Fdefault.asp%3Fpage%3Ddefinitions%2Fcommune.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnincorporated+area" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ine.pt/xportal/ine/portal/portlets/html/conteudos/listaContentPage.jsp?BOUI=6251013&amp;xlang=PT">"Carregue aqui para fechar a janela Divisão administrativa"</a>. <i>Ine.pt</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 October</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ine.pt&amp;rft.atitle=Carregue+aqui+para+fechar+a+janela+Divis%C3%A3o+administrativa&amp;rft_id=https%3A%2F%2Fwww.ine.pt%2Fxportal%2Fine%2Fportal%2Fportlets%2Fhtml%2Fconteudos%2FlistaContentPage.jsp%3FBOUI%3D6251013%26xlang%3DPT&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnincorporated+area" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2234
+Cached time: 20180929133810
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.416 seconds
+Real time usage: 0.504 seconds
+Preprocessor visited node count: 1580/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 30334/2097152 bytes
+Template argument size: 1418/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 41308/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.161/10.000 seconds
+Lua memory usage: 5.08 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  355.706      1 -total
+ 61.49%  218.709      1 Template:Reflist
+ 37.23%  132.422     13 Template:Cite_web
+ 12.79%   45.492      1 Template:Citation_needed
+ 11.65%   41.454      1 Template:Fix
+ 10.32%   36.721      1 Template:Use_dmy_dates
+  9.28%   33.023      1 Template:ISBN
+  7.53%   26.780      2 Template:Category_handler
+  6.05%   21.525      2 Template:DMCA
+  4.80%   17.070      2 Template:Dated_maintenance_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:232346-0!canonical and timestamp 20180929133810 and revision id 861535367
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Unincorporated_area&amp;oldid=861535367">https://en.wikipedia.org/w/index.php?title=Unincorporated_area&amp;oldid=861535367</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Local_government" title="Category:Local government">Local government</a></li><li><a href="/wiki/Category:Unincorporated_communities_in_the_United_States" title="Category:Unincorporated communities in the United States">Unincorporated communities in the United States</a></li><li><a href="/wiki/Category:Urban_studies_and_planning_terminology" title="Category:Urban studies and planning terminology">Urban studies and planning terminology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_August_2017" title="Category:Use dmy dates from August 2017">Use dmy dates from August 2017</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2007" title="Category:Articles containing potentially dated statements from 2007">Articles containing potentially dated statements from 2007</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2017" title="Category:Articles with unsourced statements from April 2017">Articles with unsourced statements from April 2017</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Unincorporated+area" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Unincorporated+area" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Unincorporated_area" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Unincorporated_area" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Unincorporated_area">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Unincorporated_area&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Unincorporated_area&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Unincorporated_area" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Unincorporated_area" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Unincorporated_area&amp;oldid=861535367" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Unincorporated_area&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q269528" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Unincorporated_area&amp;id=861535367" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Unincorporated+area">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Unincorporated+area&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Unincorporated_area&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Unincorporated_communities" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D9%86%D8%B7%D9%82%D8%A9_%D9%81%D8%B1%D8%AF%D9%8A%D8%A9" title="منطقة فردية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Gmoafreies_Gebiet" title="Gmoafreies Gebiet – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/%C3%80rea_no_incorporada" title="Àrea no incorporada – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Neza%C5%99azen%C3%A9_%C3%BAzem%C3%AD" title="Nezařazené území – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Kommunefrit_omr%C3%A5de" title="Kommunefrit område – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Gemeindefreies_Gebiet" title="Gemeindefreies Gebiet – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Inkorporeerimata_ala" title="Inkorporeerimata ala – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/%C3%81rea_no_incorporada" title="Área no incorporada – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D8%AD%D8%AF%D9%88%D8%AF%D9%87_%D8%AB%D8%A8%D8%AA%E2%80%8C%D9%86%D8%B4%D8%AF%D9%87" title="محدوده ثبت‌نشده – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Secteur_non_constitu%C3%A9_en_municipalit%C3%A9" title="Secteur non constitué en municipalité – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Gemeentefrij_gebiet" title="Gemeentefrij gebiet – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Ard_neu-chorpagh" title="Ard neu-chorpagh – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B9%84%EB%B2%95%EC%9D%B8%EC%A7%80%EA%B5%AC" title="비법인지구 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Neuklju%C4%8Deno_podru%C4%8Dje" title="Neuključeno područje – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Wilayah_lepas" title="Wilayah lepas – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Area_non_incorporata" title="Area non incorporata – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B7%D0%B4%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%BE_%D0%BF%D0%BE%D0%B4%D1%80%D0%B0%D1%87%D1%98%D0%B5" title="Нездружено подрачје – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B5%BA%E0%B4%87%E0%B5%BB%E0%B4%95%E0%B5%8B%E0%B5%BC%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%B1%E0%B5%87%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%A1%E0%B5%8D_%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B4%A6%E0%B5%87%E0%B4%B6%E0%B4%82" title="അൺഇൻകോർപ്പറേറ്റഡ് പ്രദേശം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Gemeentevrij_gebied" title="Gemeentevrij gebied – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E9%9D%9E%E6%B3%95%E4%BA%BA%E5%9C%B0%E5%9F%9F" title="非法人地域 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Kommunefritt_omr%C3%A5de" title="Kommunefritt område – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Obszar_niemunicypalny" title="Obszar niemunicypalny – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/%C3%81rea_n%C3%A3o_incorporada" title="Área não incorporada – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Comunitate_ne%C3%AEncorporat%C4%83" title="Comunitate neîncorporată – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F" title="Невключённая территория – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Unincorporated_area" title="Unincorporated area – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Kunnallishallinnoton_alue" title="Kunnallishallinnoton alue – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Kommunfritt_omr%C3%A5de" title="Kommunfritt område – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B0_%D1%82%D0%B5%D1%80%D0%B8%D1%82%D0%BE%D1%80%D1%96%D1%8F" title="Невключена територія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A7%D9%86%D8%A7%D9%86%DA%A9%D8%A7%D8%B1%D9%BE%D9%88%D8%B1%DB%8C%D9%B9%DA%88_%D8%B9%D9%84%D8%A7%D9%82%DB%81" title="انانکارپوریٹڈ علاقہ – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Khu_ch%C6%B0a_h%E1%BB%A3p_nh%E1%BA%A5t" title="Khu chưa hợp nhất – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Lugar_nga_diri_nakainkorporado" title="Lugar nga diri nakainkorporado – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%9D%9E%E5%BB%BA%E5%88%B6%E5%9C%B0%E5%8D%80" title="非建制地區 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q269528#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 28 September 2018, at 04:11<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Unincorporated_area&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.416","walltime":"0.504","ppvisitednodes":{"value":1580,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":30334,"limit":2097152},"templateargumentsize":{"value":1418,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":41308,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  355.706      1 -total"," 61.49%  218.709      1 Template:Reflist"," 37.23%  132.422     13 Template:Cite_web"," 12.79%   45.492      1 Template:Citation_needed"," 11.65%   41.454      1 Template:Fix"," 10.32%   36.721      1 Template:Use_dmy_dates","  9.28%   33.023      1 Template:ISBN","  7.53%   26.780      2 Template:Category_handler","  6.05%   21.525      2 Template:DMCA","  4.80%   17.070      2 Template:Dated_maintenance_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.161","limit":"10.000"},"limitreport-memusage":{"value":5330394,"limit":52428800}},"cachereport":{"origin":"mw2234","timestamp":"20180929133810","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":612,"wgHostname":"mw2234"});});</script>
+	</body>
+</html>

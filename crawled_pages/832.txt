@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Humber - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Humber","wgTitle":"Humber","wgCurRevisionId":861141811,"wgRevisionId":861141811,"wgArticleId":143904,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles incorporating a citation from the DGRG without Wikisource reference","CS1: Julian–Gregorian uncertainty","Articles with short description","Use British English from September 2013","Use dmy dates from September 2013","Coordinates on Wikidata","Geobox usage tracking for river type","All articles with unsourced statements","Articles with unsourced statements from February 2011","Articles containing Ancient Greek-language text","Articles containing Old English-language text","Articles with text from the Celtic languages collective","Articles containing Welsh-language text","Articles containing Latin-language text","Wikipedia articles with GND identifiers","Humber","Humber drainage basin","Estuaries of England","Landforms of the North Sea","Ramsar sites in England","River navigations in the United Kingdom","Rivers of Lincolnshire","Rivers of the East Riding of Yorkshire","Natural regions of England"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Humber","wgRelevantArticleId":143904,"wgRequestId":"W7FtxQrAID4AAH4WyVEAAAAN","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCoordinates":{"lat":53.5427,"lon":0.0923},"wgWikibaseItemId":"Q550995","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/a/a8/Humber_Bridge.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Humber"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Humber&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Humber&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Humber"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Humber rootpage-Humber skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Humber</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Large tidal estuary in England</div>
+<div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Humber_(disambiguation)" class="mw-disambig" title="Humber (disambiguation)">Humber (disambiguation)</a>.</div>
+<p class="mw-empty-elt">
+
+</p>
+<table class="infobox geography" style="width: 256px; padding: 0; font-size: 89%;">
+
+
+<tbody><tr class="mergedtoprow" title="Location name (local name)">
+<td colspan="2" style="text-align: center; font-weight: bold; font-size: 1.25em; background-color: #b3cce4;"><br /> Humber
+</td></tr>
+
+
+<tr class="mergedrow" title="Other names">
+<td colspan="2" style="text-align: center; font-weight: bold; background-color: #b3cce4;"><span style="white-space: nowrap">&#160;</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td colspan="2" style="text-align: center; padding: 0.5em;"><div><a href="/wiki/File:Humber_Bridge.png" class="image"><img alt="Humber Bridge.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Humber_Bridge.png/256px-Humber_Bridge.png" width="256" height="189" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Humber_Bridge.png/384px-Humber_Bridge.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Humber_Bridge.png/512px-Humber_Bridge.png 2x" data-file-width="800" data-file-height="590" /></a></div><div style="padding-top:0.4em"><a href="/wiki/Humber_Bridge" title="Humber Bridge">Humber Bridge</a> viewed from the south-east</div>
+</td></tr>
+
+
+
+
+
+<tr class="mergedtoprow" title="Country/Countries in which the site lies">
+<th style="white-space: nowrap;">Country
+</th>
+<td><span style="white-space: nowrap"><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></span>
+</td></tr>
+<tr class="mergedrow" title="State/States in which the site lies">
+<th style="white-space: nowrap;">Within the UK
+</th>
+<td><span style="white-space: nowrap"><a href="/wiki/England" title="England">England</a></span>
+</td></tr>
+<tr class="mergedrow" title="Regions in which the site lies">
+<th style="white-space: nowrap;">Counties
+</th>
+<td><span style="white-space: nowrap"><a href="/wiki/East_Riding_of_Yorkshire" title="East Riding of Yorkshire">East Riding of Yorkshire</a>,</span> <span style="white-space: nowrap"><a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a></span>
+</td></tr>
+<tr class="mergedrow" title="Districts in which the site lies">
+<th style="white-space: nowrap;">Cities
+</th>
+<td><span style="white-space: nowrap"><a href="/wiki/Kingston_upon_Hull" title="Kingston upon Hull">Kingston upon Hull</a></span>
+</td></tr>
+<tr class="mergedrow" title="Municiplities in which the site lies">
+<th style="white-space: nowrap;">Town
+</th>
+<td><span style="white-space: nowrap"><a href="/wiki/Grimsby" title="Grimsby">Grimsby</a>,</span> <span style="white-space: nowrap"><a href="/wiki/Immingham" title="Immingham">Immingham</a>,</span> <span style="white-space: nowrap"><a href="/wiki/Barton_upon_Humber" class="mw-redirect" title="Barton upon Humber">Barton upon Humber</a>,</span> <span style="white-space: nowrap"><a href="/wiki/Cleethorpes" title="Cleethorpes">Cleethorpes</a></span>
+</td></tr>
+
+
+<tr class="mergedrow" style="height: 0.2em;">
+<td colspan="2">
+</td></tr>
+
+
+<tr class="mergedtoprow" title="Major tributaries observed as the river flows">
+<td colspan="2" style="text-align: left;"><b>Tributaries</b>
+</td></tr>
+<tr class="mergedrow" title="Major left tributaries observed as the river flows">
+<td style="white-space: nowrap;">&#160;-&#160;left
+</td>
+<td><span style="white-space: nowrap"><a href="/wiki/River_Ouse,_Yorkshire" title="River Ouse, Yorkshire">River Ouse</a>,</span> <span style="white-space: nowrap"><a href="/wiki/River_Hull" title="River Hull">River Hull</a></span>
+</td></tr>
+<tr class="mergedrow" title="Major right tributaries observed as the river flows">
+<td style="white-space: nowrap;">&#160;-&#160;right
+</td>
+<td><span style="white-space: nowrap"><a href="/wiki/River_Trent" title="River Trent">River Trent</a>,</span> <span style="white-space: nowrap"><a href="/wiki/River_Ancholme" title="River Ancholme">River Ancholme</a>,</span> <span style="white-space: nowrap"><a href="/wiki/River_Freshney" title="River Freshney">River Freshney</a></span>
+</td></tr>
+
+
+<tr class="mergedrow" style="height: 0.2em;">
+<td colspan="2">
+</td></tr>
+
+
+
+
+<tr class="mergedrow" style="height: 0.2em;">
+<td colspan="2">
+</td></tr>
+
+
+<tr class="mergedtoprow" title="Source name">
+<th style="white-space: nowrap;">Source
+</th>
+<td>
+</td></tr>
+<tr class="mergedrow" title="Source location">
+<td style="white-space: nowrap;">&#160;-&#160;location
+</td>
+<td><a href="/wiki/Trent_Falls" title="Trent Falls">Trent Falls</a>
+</td></tr>
+<tr class="mergedrow" title="Source geographic coordinates">
+<td style="white-space: nowrap;">&#160;-&#160;coordinates
+</td>
+<td><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Humber&amp;params=53.7008_N_0.6911_W_region:GB-ENG_type:river"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°42′03″N</span> <span class="longitude">0°41′28″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.7008°N 0.6911°W</span><span style="display:none">&#xfeff; / <span class="geo">53.7008; -0.6911</span></span></span></a></span></span>
+</td></tr>
+<tr class="mergedrow" title="Mouth name">
+<th style="white-space: nowrap;">Mouth
+</th>
+<td>
+</td></tr>
+<tr class="mergedrow" title="Mouth location">
+<td style="white-space: nowrap;">&#160;-&#160;location
+</td>
+<td><a href="/wiki/North_Sea" title="North Sea">North Sea</a>, <span style="white-space: nowrap">between <a href="/wiki/Spurn_Head" class="mw-redirect" title="Spurn Head">Spurn Head</a></span>&#32;&amp; <span style="white-space: nowrap"><a href="/wiki/Donna_Nook" title="Donna Nook">Donna Nook</a></span>
+</td></tr>
+<tr class="mergedrow" title="Mouth geographic coordinates">
+<td style="white-space: nowrap;">&#160;-&#160;coordinates
+</td>
+<td><span style="white-space:nowrap;"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Humber&amp;params=53.5427_N_0.0923_E_region:GB-ENG_type:river"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°32′34″N</span> <span class="longitude">0°05′32″E</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.5427°N 0.0923°E</span><span style="display:none">&#xfeff; / <span class="geo">53.5427; 0.0923</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Humber&amp;params=53.5427_N_0.0923_E_region:GB-ENG_type:river"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°32′34″N</span> <span class="longitude">0°05′32″E</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.5427°N 0.0923°E</span><span style="display:none">&#xfeff; / <span class="geo">53.5427; 0.0923</span></span></span></a></span></span></span></span>
+</td></tr>
+
+
+<tr class="mergedrow" style="height: 0.2em;">
+<td colspan="2">
+</td></tr>
+
+
+<tr class="mergedtoprow" title="Length">
+<th style="white-space: nowrap;">Length
+</th>
+<td>38.5&#160;mi (62&#160;km)&#32;<i><sup id="cite_ref-humcat_1-0" class="reference"><a href="#cite_note-humcat-1">&#91;1&#93;</a></sup></i>
+</td></tr>
+<tr class="mergedrow" title="Drainage basin/catchment area/watershed">
+<th style="white-space: nowrap;">Basin
+</th>
+<td>24,240&#160;km<sup>2</sup> (9,359&#160;sq&#160;mi)&#32;<i><sup id="cite_ref-humcat_1-1" class="reference"><a href="#cite_note-humcat-1">&#91;1&#93;</a></sup></i>
+</td></tr>
+<tr class="mergedrow" title="Discharge figures measured at">
+<th style="white-space: nowrap;">Discharge
+</th>
+<td>for <a href="/wiki/Freshwater_inflow" title="Freshwater inflow">freshwater inflow</a>
+</td></tr>
+<tr class="mergedrow" title="Average discharge">
+<td style="white-space: nowrap;">&#160;-&#160;average
+</td>
+<td>250&#160;m<sup>3</sup>/s (8,829&#160;cu&#160;ft/s)&#32;<i><sup id="cite_ref-humcat_1-2" class="reference"><a href="#cite_note-humcat-1">&#91;1&#93;</a></sup></i>
+</td></tr>
+<tr class="mergedrow" title="Maximal discharge">
+<td style="white-space: nowrap;">&#160;-&#160;max
+</td>
+<td>1,500&#160;m<sup>3</sup>/s (52,972&#160;cu&#160;ft/s)&#32;<i><sup id="cite_ref-humcat_1-3" class="reference"><a href="#cite_note-humcat-1">&#91;1&#93;</a></sup></i>
+</td></tr>
+
+
+<tr class="mergedrow" style="height: 0.2em;">
+<td colspan="2">
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="mergedtoprow" title="Free field with no label">
+<th style="white-space: nowrap;">Designation
+</th>
+<td></td></tr><tr class="mergedrow"><th colspan="2" style="text-align:center"><div style="border:4px solid #8DE3D2; line-height: 1.5; text-align: center;">
+<a href="/wiki/Ramsar_Convention" title="Ramsar Convention">Ramsar Wetland</a></div></th></tr><tr class="mergedrow"><th scope="row">Official name</th><td>
+Humber Estuary</td></tr><tr class="mergedrow"><th scope="row">Designated</th><td>
+28 July 1994</td></tr><tr class="mergedrow"><th scope="row">Reference&#160;no.</th><td>
+663<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></td></tr><tr style="display:none"><th colspan="2">
+</th></tr> 
+
+
+<tr class="mergedrow" style="height: 0.2em;">
+<td colspan="2">
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr title="Wikimedia Commons has more media related to &lt;br/&gt; Humber">
+<td colspan="2" style="text-align: center;"><b>Wikimedia Commons&#58;&#32;</b><a href="https://commons.wikimedia.org/wiki/Category:Humber_estuary" class="extiw" title="commons:Category:Humber estuary">Humber estuary</a>
+</td></tr>
+
+
+<tr class="mergedrow" style="height: 0.2em;">
+<td colspan="2">
+</td></tr>
+
+
+
+</tbody></table>
+<div style="width:240px;float:right;clear:right"><div style="width:240px;padding:0"><div style="position:relative;width:240px"><a href="/wiki/File:England_location_map.svg" class="image" title="Humber is located in England"><img alt="Humber is located in England" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/England_location_map.svg/240px-England_location_map.svg.png" width="240" height="291" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/England_location_map.svg/360px-England_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/England_location_map.svg/480px-England_location_map.svg.png 2x" data-file-width="816" data-file-height="991" /></a><div style="position:absolute;top:38.72%;left:77.143%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Humber" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" title="Humber" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div></div></div><div style="font-size:90%;padding-top:3px">Humber (England)</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:River_Hull_tidal_barrier_1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/River_Hull_tidal_barrier_1.jpg/220px-River_Hull_tidal_barrier_1.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/River_Hull_tidal_barrier_1.jpg/330px-River_Hull_tidal_barrier_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/River_Hull_tidal_barrier_1.jpg/440px-River_Hull_tidal_barrier_1.jpg 2x" data-file-width="640" data-file-height="481" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:River_Hull_tidal_barrier_1.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/River_Hull" title="River Hull">River Hull</a> <a href="/w/index.php?title=Tidal_barrier&amp;action=edit&amp;redlink=1" class="new" title="Tidal barrier (page does not exist)">tidal barrier</a>. Situated at the end of the River Hull where it meets the Humber</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ruth_Do328_Spurn_Hd_Humber_16.08.12R_edited-2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Ruth_Do328_Spurn_Hd_Humber_16.08.12R_edited-2.jpg/220px-Ruth_Do328_Spurn_Hd_Humber_16.08.12R_edited-2.jpg" width="220" height="153" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Ruth_Do328_Spurn_Hd_Humber_16.08.12R_edited-2.jpg/330px-Ruth_Do328_Spurn_Hd_Humber_16.08.12R_edited-2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Ruth_Do328_Spurn_Hd_Humber_16.08.12R_edited-2.jpg/440px-Ruth_Do328_Spurn_Hd_Humber_16.08.12R_edited-2.jpg 2x" data-file-width="1024" data-file-height="714" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Ruth_Do328_Spurn_Hd_Humber_16.08.12R_edited-2.jpg" class="internal" title="Enlarge"></a></div>The Humber Estuary and Spurn Head looking north-east from over North Lincolnshire</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hull_RJD_37.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hull_RJD_37.JPG/220px-Hull_RJD_37.JPG" width="220" height="145" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hull_RJD_37.JPG/330px-Hull_RJD_37.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hull_RJD_37.JPG/440px-Hull_RJD_37.JPG 2x" data-file-width="2735" data-file-height="1802" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Hull_RJD_37.JPG" class="internal" title="Enlarge"></a></div>Historical railway map of Hull showing the ferry route and the layout of docks</div></div></div>
+<p>The <b>Humber</b> <span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;h&#39; in &#39;hi&#39;">h</span><span title="/ʌ/: &#39;u&#39; in &#39;cut&#39;">ʌ</span><span title="&#39;m&#39; in &#39;my&#39;">m</span><span title="&#39;b&#39; in &#39;buy&#39;">b</span><span title="/ər/: &#39;er&#39; in &#39;letter&#39;">ər</span></span>/</a></span></span> is a large <a href="/wiki/Tidal_estuary" class="mw-redirect" title="Tidal estuary">tidal estuary</a> on the east coast of <a href="/wiki/Northern_England" title="Northern England">Northern England</a>. It is formed at <a href="/wiki/Trent_Falls" title="Trent Falls">Trent Falls</a>, <a href="/wiki/Faxfleet" title="Faxfleet">Faxfleet</a>, by the confluence of the <a href="/wiki/Tidal_river" title="Tidal river">tidal rivers</a> <a href="/wiki/River_Ouse,_Yorkshire" title="River Ouse, Yorkshire">Ouse</a> and <a href="/wiki/River_Trent" title="River Trent">Trent</a>. From there to the <a href="/wiki/North_Sea" title="North Sea">North Sea</a>, it forms part of the boundary between the <a href="/wiki/East_Riding_of_Yorkshire" title="East Riding of Yorkshire">East Riding of Yorkshire</a> on the north bank and <a href="/wiki/North_Lincolnshire" title="North Lincolnshire">North Lincolnshire</a> on the south bank. Although the Humber is an <a href="/wiki/Estuary" title="Estuary">estuary</a> from the point at which it is formed, many maps show it as the <b>River Humber</b>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>Below Trent Falls, the Humber passes the junction with the <a href="/wiki/Market_Weighton_Canal" title="Market Weighton Canal">Market Weighton Canal</a> on the north shore, the confluence of the <a href="/wiki/River_Ancholme" title="River Ancholme">River Ancholme</a> on the south shore; between <a href="/wiki/North_Ferriby" title="North Ferriby">North Ferriby</a> and <a href="/wiki/South_Ferriby" title="South Ferriby">South Ferriby</a> and under the <a href="/wiki/Humber_Bridge" title="Humber Bridge">Humber Bridge</a>; between <a href="/wiki/Barton-upon-Humber" title="Barton-upon-Humber">Barton-upon-Humber</a> on the south bank and <a href="/wiki/Kingston_upon_Hull" title="Kingston upon Hull">Kingston upon Hull</a> on the north bank (where the <a href="/wiki/River_Hull" title="River Hull">River Hull</a> joins), then meets the <a href="/wiki/North_Sea" title="North Sea">North Sea</a> between <a href="/wiki/Cleethorpes" title="Cleethorpes">Cleethorpes</a> on the Lincolnshire side and the long and thin headland of <a href="/wiki/Spurn" title="Spurn">Spurn Head</a> to the north.
+</p><p>Ports on the Humber include the <a href="/wiki/Port_of_Hull" title="Port of Hull">Port of Hull</a>, <a href="/wiki/Port_of_Grimsby" title="Port of Grimsby">Port of Grimsby</a>, <a href="/wiki/Port_of_Immingham" title="Port of Immingham">Port of Immingham</a>, as well as lesser ports at <a href="/wiki/New_Holland,_Lincolnshire" title="New Holland, Lincolnshire">New Holland</a> and <a href="/wiki/North_Killingholme_Haven" title="North Killingholme Haven">North Killingholme Haven</a>. The estuary is navigable for the largest of deep-sea vessels. Inland connections for smaller craft are extensive but handle only a quarter of the goods traffic handled in the <a href="/wiki/Thames" class="mw-redirect" title="Thames">Thames</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Crossings"><span class="tocnumber">1.1</span> <span class="toctext">Crossings</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Defences"><span class="tocnumber">1.2</span> <span class="toctext">Defences</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Crossing_on_foot"><span class="tocnumber">1.3</span> <span class="toctext">Crossing on foot</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Crossing_by_swimming"><span class="tocnumber">1.4</span> <span class="toctext">Crossing by swimming</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Navigable_tributaries_and_connections"><span class="tocnumber">3.1</span> <span class="toctext">Navigable tributaries and connections</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Humber&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Humber is now an <a href="/wiki/Estuary" title="Estuary">estuary</a>. When the world sea level was lower during the <a href="/wiki/Ice_Age" class="mw-redirect" title="Ice Age">Ice Ages</a>, the Humber had a long freshwater course across what was then the dry bed of the <a href="/wiki/North_Sea" title="North Sea">North Sea</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2011)">citation needed</span></a></i>&#93;</sup>
+</p><p>Classical authors knew the Humber as the <i>Abus</i> (<a href="/wiki/Ancient_Greek_language" class="mw-redirect" title="Ancient Greek language">Ancient Greek</a>: <span lang="grc">Ἄβος</span>),<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> which was one of the principal rivers, or rather estuaries in the Roman province of <a href="/wiki/Maxima_Caesariensis" title="Maxima Caesariensis">Maxima Caesariensis</a> in Britain. It was reported as receiving many tributaries, and discharging itself into the German Ocean (the <a href="/wiki/North_Sea" title="North Sea">North Sea</a>) south of <a href="/wiki/Ocelum_Promontorium" class="mw-redirect" title="Ocelum Promontorium">Ocelum Promontorium</a> (Spurn Head). Its left bank was inhabited by the Celtic tribe, whom the Romans entitled <a href="/wiki/Parisi_(Yorkshire)" title="Parisi (Yorkshire)">Parisi</a>, but according to a medieval poet, no great town or city anciently stood on its banks.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>In the <a href="/wiki/Anglo-Saxons" title="Anglo-Saxons">Anglo-Saxon</a> period, the Humber was a major boundary, separating <a href="/wiki/Northumbria" class="mw-redirect" title="Northumbria">Northumbria</a> from the southern kingdom, though at its height Northumbria did cover areas south of the Humber. The <a href="/wiki/Kingdom_of_Lindsey" title="Kingdom of Lindsey">Kingdom of Lindsey</a>, which today is Northern Lincolnshire, was part of Northumbria before being lost to <a href="/wiki/Mercia" title="Mercia">Mercia</a>. The name <i>Northumbria</i> came from <a href="/wiki/Anglo-Saxon_language" class="mw-redirect" title="Anglo-Saxon language">Anglo-Saxon</a> <i lang="ang" title="Old English language text">Norðhymbre</i> (plural) = "the people north of the Humber".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> The Humber currently forms the boundary between the <a href="/wiki/East_Riding_of_Yorkshire" title="East Riding of Yorkshire">East Riding of Yorkshire</a>, to the north and <a href="/wiki/North_Lincolnshire" title="North Lincolnshire">North</a> and <a href="/wiki/North_East_Lincolnshire" title="North East Lincolnshire">North East Lincolnshire</a>, to the south.
+</p><p>From 1974 to 1996, the areas now known as the East Riding of Yorkshire, North Lincolnshire and North East Lincolnshire constituted the county of <a href="/wiki/Humberside" title="Humberside">Humberside</a>.
+</p><p>On 23 August 1921, the British <a href="/wiki/Airship" title="Airship">airship</a> <a href="/wiki/R38-class_airship" title="R38-class airship">R38</a> crashed into the estuary near Hull, killing 44 of the 49 crew on board.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Crossings">Crossings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Humber&amp;action=edit&amp;section=2" title="Edit section: Crossings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The estuary's only modern crossing is the <a href="/wiki/Humber_Bridge" title="Humber Bridge">Humber Bridge</a>, which was the longest single-span <a href="/wiki/Suspension_bridge" title="Suspension bridge">suspension bridge</a> in the world from its construction in 1981 until 1998. It is now the <a href="/wiki/List_of_longest_suspension_bridge_spans" title="List of longest suspension bridge spans">ninth longest</a>.
+</p><p>Before the bridge was built, a series of <a href="/wiki/Paddle_steamer" title="Paddle steamer">paddle steamers</a> operated from the  <a href="/wiki/Corporation_Pier_railway_station" class="mw-redirect" title="Corporation Pier railway station">Corporation Pier railway station</a><sup id="cite_ref-cp_9-0" class="reference"><a href="#cite_note-cp-9">&#91;9&#93;</a></sup> at the <a href="/wiki/Victoria_Pier,_Kingston_upon_Hull" class="mw-redirect" title="Victoria Pier, Kingston upon Hull">Victoria Pier</a> in Hull to the <a href="/wiki/New_Holland_Pier_railway_station" title="New Holland Pier railway station">railway pier in New Holland</a>. Steam ferries started in 1841, and in 1848 were purchased by the <a href="/wiki/Manchester,_Sheffield_and_Lincolnshire_Railway" title="Manchester, Sheffield and Lincolnshire Railway">Manchester, Sheffield and Lincolnshire Railway</a>. They, and their successors, ran the ferry until the bridge opened in 1981.<sup id="cite_ref-cp_9-1" class="reference"><a href="#cite_note-cp-9">&#91;9&#93;</a></sup> Railway passenger and car traffic continued to use the pier until the end of ferry operations.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>The line of the bridge is similar to an ancient ferry route from Hessle to <a href="/wiki/Barton_upon_Humber" class="mw-redirect" title="Barton upon Humber">Barton upon Humber</a>, which is noted in the <i><a href="/wiki/Domesday_Book" title="Domesday Book">Domesday Book</a></i> and in a charter of 1281. The ferry was recorded as still operating in 1856, into the railway era.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> The Humber was then one mile (1.6&#160;km) across.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Defences">Defences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Humber&amp;action=edit&amp;section=3" title="Edit section: Defences">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Humber_Forts" title="Humber Forts">Humber Forts</a> were built in the mouth of the river for the <a href="/wiki/First_World_War" class="mw-redirect" title="First World War">First World War</a>. Planned in 1914, their construction started in 1915 and they were not completed until 1919.<sup id="cite_ref-ps1_13-0" class="reference"><a href="#cite_note-ps1-13">&#91;13&#93;</a></sup><sup id="cite_ref-ps2_14-0" class="reference"><a href="#cite_note-ps2-14">&#91;14&#93;</a></sup> A coastal battery at Easington, <i>Fort Goodwin</i> or <i>Kilnsea Battery</i>, faced the Bull Sands Fort.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> They were also garrisoned during the Second World War, and were finally abandoned for military use in 1956.
+</p><p><a href="/wiki/Fort_Paull" title="Fort Paull">Fort Paull</a> is further upstream, a Napoleonic-era emplacement replaced in the early 20th century by <i>Stallinborough Battery</i> opposite <a href="/wiki/Sunk_Island" title="Sunk Island">Sunk Island</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Crossing_on_foot">Crossing on foot</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Humber&amp;action=edit&amp;section=4" title="Edit section: Crossing on foot">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/w/index.php?title=Graham_Boanas&amp;action=edit&amp;redlink=1" class="new" title="Graham Boanas (page does not exist)">Graham Boanas</a>, a Hull man, is believed to be the first man to succeed in wading across the Humber since <a href="/wiki/Roman_Britain" title="Roman Britain">ancient Roman</a> times. The feat, in August 2005, was attempted to raise cash and awareness for the medical research charity, <a href="/wiki/DebRA" class="mw-redirect" title="DebRA">DebRA</a>. He started his trek on the north bank at <a href="/wiki/Brough,_East_Riding_of_Yorkshire" title="Brough, East Riding of Yorkshire">Brough</a>; four hours later, he emerged on the south bank at <a href="/wiki/Whitton,_North_Lincolnshire" title="Whitton, North Lincolnshire">Whitton</a>. He is 6&#160;feet 9&#160;inches (2.06&#160;m) tall and took advantage of a very low tide.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> He replicated this achievement on the television programme <i><a href="/wiki/Top_Gear_(current_format)" class="mw-redirect" title="Top Gear (current format)">Top Gear</a></i> (Series 10 Episode 6) when he raced <a href="/wiki/James_May" title="James May">James May</a> who drove an <a href="/wiki/Alfa_Romeo_159" title="Alfa Romeo 159">Alfa Romeo 159</a> around the inland part of the estuary without using the Humber Bridge.
+</p>
+<h3><span class="mw-headline" id="Crossing_by_swimming">Crossing by swimming</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Humber&amp;action=edit&amp;section=5" title="Edit section: Crossing by swimming">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On Saturday 26 August 1911, Alice Maud Boyall became the first woman to swim the Humber. Boyall, then aged 19 and living in Hull, was the Yorkshire swimming champion. She crossed the Humber from Hull to New Holland Pier swimming the distance in 50 minutes, 6 minutes slower than the men's record.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p><p>Since 2011 Warners Health have organised the 'Warners Health Humber Charity Business Swim'. Twelve swimmers from companies across the Yorkshire region train and swim in an ellipse from the south bank to the north bank of the river under the Humber Bridge over a total distance of approximately <span class="frac nowrap">1<span class="visualhide">&#160;</span><sup>1</sup>&#8260;<sub>2</sub></span> miles (2.4&#160;km).<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Hull_and_Humber_Estuary_2013-03.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hull_and_Humber_Estuary_2013-03.jpg/250px-Hull_and_Humber_Estuary_2013-03.jpg" width="250" height="166" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hull_and_Humber_Estuary_2013-03.jpg/375px-Hull_and_Humber_Estuary_2013-03.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hull_and_Humber_Estuary_2013-03.jpg/500px-Hull_and_Humber_Estuary_2013-03.jpg 2x" data-file-width="1024" data-file-height="679" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Hull_and_Humber_Estuary_2013-03.jpg" class="internal" title="Enlarge"></a></div>The Humber from the <a href="/wiki/International_Space_Station" title="International Space Station">International Space Station</a></div></div></div>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Humber&amp;action=edit&amp;section=6" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Most European <a href="/wiki/Hydronym" title="Hydronym">hydronyms</a> are <a href="/wiki/Celtic_languages" title="Celtic languages">Celtic</a> in origin and numerous Celtic or <a href="/wiki/Pre-Celtic" title="Pre-Celtic">Pre-Celtic</a> derivations for <i>Humber</i> have been suggested. The Celtic root &#42;<i lang="cel" title="Celtic languages collective text">com</i>-&#42;<i lang="cel" title="Celtic languages collective text">bero</i> (coming together), gives the modern <a href="/wiki/Welsh_language" title="Welsh language">Welsh</a> toponym <i lang="cy" title="Welsh language text">cymer</i> which is found typically at the confluence of rivers. A derivation of Humber from &#42;<i lang="cel" title="Celtic languages collective text">cym(b)er</i> is supported by the proven Celtic/Germanic sound change of K to H, and the geographic fact of the Humber being the confluence of a number of important rivers.
+</p><p>The estuary appears in some <a href="/wiki/Latin_language" class="mw-redirect" title="Latin language">Latin</a> sources as <i lang="la" title="Latin language text">Abus</i> (A name used by <a href="/wiki/Edmund_Spenser" title="Edmund Spenser">Edmund Spenser</a> in <i><a href="/wiki/The_Faerie_Queene" title="The Faerie Queene">The Faerie Queene</a></i>). This is possibly a Latinisation of the Celtic form <i lang="cy" title="Welsh language text">Aber</i> (<a href="/wiki/Welsh_Language" class="mw-redirect" title="Welsh Language">Welsh</a> for river mouth or estuary), but is erroneously given as a name for both the Humber and <a href="/wiki/River_Ouse,_Yorkshire" title="River Ouse, Yorkshire">The Ouse</a> as one continuous watercourse.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> Both <i lang="la" title="Latin language text">Abus</i> and <i lang="cy" title="Welsh language text">Aber</i> may record an older <a href="/wiki/Indo-European_languages" title="Indo-European languages">Indo-European</a> word for water or river, (as in the ‘Five Rivers’ of the <a href="/wiki/Punjab" title="Punjab">Punjab</a>). An alternative derivation may be from the Latin verb <i lang="la" title="Latin language text">abdo</i> meaning black or dark river. The successive name <i>Humbre</i>/<i>Humbri</i>/<i>Umbri</i> may continue the meaning via the Latin verb <i lang="la" title="Latin language text">umbro</i> also meaning "to cover with shadows".<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> 
+</p><p>By <a href="/wiki/Medieval" class="mw-redirect" title="Medieval">Medieval</a> times, the river is recorded as <i lang="ang" title="Old English language text">Humbre</i> (Anglo-Saxon) <i lang="cy" title="Welsh language text">Hwmyr</i> (Welsh) and <i lang="la" title="Latin language text">Humbri</i> (Vulgar Latin <a href="/wiki/Dative" class="mw-redirect" title="Dative">dative</a>) / <i lang="la" title="Latin language text">Umbri</i> (Classical Latin <a href="/wiki/Dative" class="mw-redirect" title="Dative">dative</a>). Since the name appears to reoccur in "Humber Brook" near "Humber Court" in <a href="/wiki/Herefordshire" title="Herefordshire">Herefordshire</a> or <a href="/wiki/Worcestershire" title="Worcestershire">Worcestershire</a>, it has been suggested that a root word &#42;<i lang="cel" title="Celtic languages collective text">humbr-</i> may have existed meaning "river", or something similar, in hypothetical Pre-Celtic language spoken <a href="/wiki/Prehistoric_Britain" title="Prehistoric Britain">before the Celtic Migration</a> (compare <a href="/wiki/Tardebigge" title="Tardebigge">Tardebigge</a>). An element &#42;<i lang="cel" title="Celtic languages collective text">ambri-</i> 'channel, river' is also reconstructible for <a href="/wiki/Proto-Celtic" class="mw-redirect" title="Proto-Celtic">proto-Celtic</a> and the <a href="/wiki/Proto-Celtic" class="mw-redirect" title="Proto-Celtic">Ancient Celtic</a> <a href="/wiki/Prefix_(linguistics)" class="mw-redirect" title="Prefix (linguistics)">prefix</a> &#42;<i lang="cel" title="Celtic languages collective text">su</i>- 'good' routinely developed into <a href="/wiki/Welsh_language" title="Welsh language">Welsh</a> element &#42;<i lang="cy" title="Welsh language text">hy-</i>.
+</p><p>The Humber features regularly in <a href="/wiki/Geoffrey_of_Monmouth" title="Geoffrey of Monmouth">Geoffrey of Monmouth</a>'s 12th-century fictional chronicle <i lang="la" title="Latin language text"><a href="/wiki/Historia_Regum_Britanniae" title="Historia Regum Britanniae">Historia Regum Britanniae</a></i>. According to Geoffrey, the Humber, invariably referred to by the Latin word for river, was named after "<a href="/wiki/Humber_the_Hun" title="Humber the Hun">Humber the Hun</a>", who drowned there while trying to invade in the earliest days of Britain's settlement.
+</p><p><a href="/wiki/Andrew_Marvell" title="Andrew Marvell">Andrew Marvell</a>'s poem "<a href="/wiki/To_His_Coy_Mistress" title="To His Coy Mistress">To His Coy Mistress</a>" mentions "the tide of Humber".
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Humber&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Industry_of_the_South_Humber_Bank" title="Industry of the South Humber Bank">Industry of the South Humber Bank</a></li>
+<li><a href="/wiki/North_Wall,_Humberside" title="North Wall, Humberside">North Wall, Humberside</a></li>
+<li><i>Humber</i>, the name of one of the sea areas of the British <a href="/wiki/Shipping_Forecast" title="Shipping Forecast">Shipping Forecast</a>.</li></ul>
+<h3><span class="mw-headline" id="Navigable_tributaries_and_connections">Navigable tributaries and connections</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Humber&amp;action=edit&amp;section=8" title="Edit section: Navigable tributaries and connections">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/River_Hull" title="River Hull">River Hull</a></li>
+<li><a href="/wiki/River_Trent" title="River Trent">River Trent</a></li>
+<li><a href="/wiki/River_Ouse,_Yorkshire" title="River Ouse, Yorkshire">River Ouse, Yorkshire</a></li>
+<li><a href="/wiki/River_Don,_South_Yorkshire" class="mw-redirect" title="River Don, South Yorkshire">River Don, South Yorkshire</a></li>
+<li><a href="/wiki/Aire_and_Calder_Navigation" title="Aire and Calder Navigation">Aire and Calder Navigation</a></li>
+<li><a href="/wiki/River_Ancholme" title="River Ancholme">River Ancholme</a></li>
+<li><a href="/wiki/Market_Weighton_Canal" title="Market Weighton Canal">Market Weighton Canal</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Humber&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-humcat-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-humcat_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-humcat_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-humcat_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-humcat_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Cave, Rachel (2002). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140202105806/http://www.iia.cnr.it/big_file/EUROCAT/publications/EUROCAT%20WD04.pdf">"The Humber Catchment and its Coastal Area"</a> <span class="cs1-format">(PDF)</span>. University of East Anglia. Archived from <a rel="nofollow" class="external text" href="http://www.iia.cnr.it/big_file/EUROCAT/publications/EUROCAT%20WD04.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2 February 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">12 October</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Humber+Catchment+and+its+Coastal+Area&amp;rft.pub=University+of+East+Anglia&amp;rft.date=2002&amp;rft.aulast=Cave&amp;rft.aufirst=Rachel&amp;rft_id=http%3A%2F%2Fwww.iia.cnr.it%2Fbig_file%2FEUROCAT%2Fpublications%2FEUROCAT%2520WD04.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHumber" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://rsis.ramsar.org/ris/663">"Humber Estuary"</a>. <i><a href="/wiki/Ramsar_Convention" title="Ramsar Convention">Ramsar</a> Sites Information Service</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ramsar+Sites+Information+Service&amp;rft.atitle=Humber+Estuary&amp;rft_id=https%3A%2F%2Frsis.ramsar.org%2Fris%2F663&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHumber" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131129143647/http://getamap.ordnancesurvey.co.uk/getamap/frames.htm">"Get-a-map online"</a>. <a href="/wiki/Ordnance_Survey" title="Ordnance Survey">Ordnance Survey</a>. Archived from <a rel="nofollow" class="external text" href="http://getamap.ordnancesurvey.co.uk/getamap/frames.htm">the original</a> on 29 November 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">6 March</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Get-a-map+online&amp;rft.pub=Ordnance+Survey&amp;rft_id=http%3A%2F%2Fgetamap.ordnancesurvey.co.uk%2Fgetamap%2Fframes.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHumber" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://webarchive.nationalarchives.gov.uk/20110504133815/http://www.dft.gov.uk/excel/173025/221412/221658/347057/section1and209.xls">"Department of transport figures for 2009. See table 2-1"</a>. Department of Transport. Archived from <a rel="nofollow" class="external text" href="http://www.dft.gov.uk/excel/173025/221412/221658/347057/section1and209.xls">the original</a> <span class="cs1-format">(Excel)</span> on 4 May 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">24 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Department+of+transport+figures+for+2009.+See+table+2-1.&amp;rft.pub=Department+of+Transport&amp;rft_id=http%3A%2F%2Fwww.dft.gov.uk%2Fexcel%2F173025%2F221412%2F221658%2F347057%2Fsection1and209.xls&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHumber" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a href="/wiki/Ptolemy" title="Ptolemy">Ptolemy</a>, <i><a href="/wiki/Geography_(Ptolemy)" title="Geography (Ptolemy)">Geography</a></i>, 2.3.6.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a href="/wiki/File:PD-icon.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/12px-PD-icon.svg.png" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/18px-PD-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/24px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></a>&#160;<cite class="citation encyclopaedia"><a href="/wiki/William_Smith_(lexicographer)" title="William Smith (lexicographer)">Smith, William</a>, ed. (1854–1857). "Abus". <i><a href="/wiki/Dictionary_of_Greek_and_Roman_Geography" title="Dictionary of Greek and Roman Geography">Dictionary of Greek and Roman Geography</a></i>. London: John Murray.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Abus&amp;rft.btitle=Dictionary+of+Greek+and+Roman+Geography&amp;rft.place=London&amp;rft.pub=John+Murray&amp;rft.date=1854%2F1857&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHumber" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.etymonline.com/index.php?term=Northumbria&amp;allowed_in_frame=0">"Northumbria"</a>. <i>Online Etymology Dictionary</i><span class="reference-accessdate">. Retrieved <span class="nowrap">12 August</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Online+Etymology+Dictionary&amp;rft.atitle=Northumbria&amp;rft_id=http%3A%2F%2Fwww.etymonline.com%2Findex.php%3Fterm%3DNorthumbria%26allowed_in_frame%3D0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHumber" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1512866" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="http://www.pastscape.org.uk/hob.aspx?hob_id=1512866">"Airship Memorial in Hull  (1512866)"</a>. <i>PastScape</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PastScape&amp;rft.atitle=Airship+Memorial+in+Hull++%281512866%29&amp;rft.au=Historic+England&amp;rft_id=http%3A%2F%2Fwww.pastscape.org.uk%2Fhob.aspx%3Fhob_id%3D1512866&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHumber" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/> Entry includes considerable details about the ship, flight, and crash.</span>
+</li>
+<li id="cite_note-cp-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-cp_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cp_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFHistoric_England498352" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="http://www.pastscape.org.uk/hob.aspx?hob_id=498352">"Hull Corporation Pier station  (498352)"</a>. <i>PastScape</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PastScape&amp;rft.atitle=Hull+Corporation+Pier+station++%28498352%29&amp;rft.au=Historic+England&amp;rft_id=http%3A%2F%2Fwww.pastscape.org.uk%2Fhob.aspx%3Fhob_id%3D498352&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHumber" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England498365" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="http://www.pastscape.org.uk/hob.aspx?hob_id=498365">"New Holland Pier station  (498365)"</a>. <i>PastScape</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PastScape&amp;rft.atitle=New+Holland+Pier+station++%28498365%29&amp;rft.au=Historic+England&amp;rft_id=http%3A%2F%2Fwww.pastscape.org.uk%2Fhob.aspx%3Fhob_id%3D498365&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHumber" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England79005" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="http://www.pastscape.org.uk/hob.aspx?hob_id=79005">"Barton Ferry  (79005)"</a>. <i>PastScape</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PastScape&amp;rft.atitle=Barton+Ferry++%2879005%29&amp;rft.au=Historic+England&amp;rft_id=http%3A%2F%2Fwww.pastscape.org.uk%2Fhob.aspx%3Fhob_id%3D79005&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHumber" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book">Lewis, Samuel, ed. (1848). <a rel="nofollow" class="external text" href="http://www.british-history.ac.uk/report.aspx?compid=50783#s9"><i>A Topographical Dictionary of England</i></a>. London: Samuel Lewis &amp; Co. pp.&#160;164–168 'Barton, St Michael – Basing'<span class="reference-accessdate">. Retrieved <span class="nowrap">24 January</span> 2013</span>. <q>The ancient ferry to Hessle, across the Humber, which is here about a mile broad, is appurtenant to the manor, which is vested in the crown...</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Topographical+Dictionary+of+England&amp;rft.place=London&amp;rft.pages=164-168+%27Barton%2C+St+Michael+-+Basing%27&amp;rft.pub=Samuel+Lewis+%26+Co.&amp;rft.date=1848&amp;rft_id=http%3A%2F%2Fwww.british-history.ac.uk%2Freport.aspx%3Fcompid%3D50783%23s9&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHumber" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/> (entry for Barton-upon-Humber)</span>
+</li>
+<li id="cite_note-ps1-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-ps1_13-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England915963" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="http://www.pastscape.org.uk/hob.aspx?hob_id=915963">"Bull Sand Fort  (915963)"</a>. <i>PastScape</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PastScape&amp;rft.atitle=Bull+Sand+Fort++%28915963%29&amp;rft.au=Historic+England&amp;rft_id=http%3A%2F%2Fwww.pastscape.org.uk%2Fhob.aspx%3Fhob_id%3D915963&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHumber" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-ps2-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-ps2_14-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1429147" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="http://www.pastscape.org.uk/hob.aspx?hob_id=1429147">"Haile Sand Fort  (1429147)"</a>. <i>PastScape</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PastScape&amp;rft.atitle=Haile+Sand+Fort++%281429147%29&amp;rft.au=Historic+England&amp;rft_id=http%3A%2F%2Fwww.pastscape.org.uk%2Fhob.aspx%3Fhob_id%3D1429147&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHumber" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England929478" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="http://www.pastscape.org.uk/hob.aspx?hob_id=929478">"Fort Godwin  (929478)"</a>. <i>PastScape</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PastScape&amp;rft.atitle=Fort+Godwin++%28929478%29&amp;rft.au=Historic+England&amp;rft_id=http%3A%2F%2Fwww.pastscape.org.uk%2Fhob.aspx%3Fhob_id%3D929478&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHumber" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1429224" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="http://www.pastscape.org.uk/hob.aspx?hob_id=1429224">"Stallinborough Battery  (1429224)"</a>. <i>PastScape</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PastScape&amp;rft.atitle=Stallinborough+Battery++%281429224%29&amp;rft.au=Historic+England&amp;rft_id=http%3A%2F%2Fwww.pastscape.org.uk%2Fhob.aspx%3Fhob_id%3D1429224&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHumber" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">
+<cite class="citation web"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/england/humber/4173118.stm">"Humber crossing after 1,000 years"</a>. <i><a href="/wiki/BBC_News_Online" title="BBC News Online">BBC News Online</a></i>. <a href="/wiki/BBC" title="BBC">BBC</a>. 22 August 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">28 July</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+News+Online&amp;rft.atitle=Humber+crossing+after+1%2C000+years&amp;rft.date=2005-08-22&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fengland%2Fhumber%2F4173118.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHumber" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation news">"Annual Humber Swim". <i>Yorkshire Post &amp; Leeds Intelligencer</i>. 28 August 1911. p.&#160;5.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Yorkshire+Post+%26+Leeds+Intelligencer&amp;rft.atitle=Annual+Humber+Swim&amp;rft.pages=5&amp;rft.date=1911-08-28&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHumber" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.thisishullandeastriding.co.uk/Business-people-swim-Humber-charity-challenge/story-16641429-detail/story.html#axzz2XLVgoNro">"Business people to swim the Humber for charity challenge"</a>. <i>Hull Daily Mail</i>. 4 August 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">26 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Hull+Daily+Mail&amp;rft.atitle=Business+people+to+swim+the+Humber+for+charity+challenge&amp;rft.date=2013-08-04&amp;rft_id=http%3A%2F%2Fwww.thisishullandeastriding.co.uk%2FBusiness-people-swim-Humber-charity-challenge%2Fstory-16641429-detail%2Fstory.html%23axzz2XLVgoNro&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHumber" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation book">Rivet; Smith (1979). <i>The Place-Names of Roman Britain</i>. London. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780713420777" title="Special:BookSources/9780713420777">9780713420777</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Place-Names+of+Roman+Britain&amp;rft.place=London&amp;rft.date=1979&amp;rft.isbn=9780713420777&amp;rft.au=Rivet&amp;rft.au=Smith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHumber" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web">Beda. <a rel="nofollow" class="external text" href="http://www.monumenta.ch/latein/text.php?tabelle=Beda_Venerabilis&amp;rumpfid=Beda%20Venerabilis,%20De%20Temporum%20Ratione,%20%20%2066&amp;level=3&amp;domain=&amp;lang=0&amp;links=&amp;inframe=1&amp;PHPSESSID=507769d9d55c951c412fee36a76d09c2">"De Temporum Ratione"</a>. CAPUT LXV, number 269<span class="reference-accessdate">. Retrieved <span class="nowrap">24 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=De+Temporum+Ratione&amp;rft.pages=CAPUT+LXV%2C+number+269&amp;rft.au=Beda&amp;rft_id=http%3A%2F%2Fwww.monumenta.ch%2Flatein%2Ftext.php%3Ftabelle%3DBeda_Venerabilis%26rumpfid%3DBeda%2520Venerabilis%2C%2520De%2520Temporum%2520Ratione%2C%2520%2520%252066%26level%3D3%26domain%3D%26lang%3D0%26links%3D%26inframe%3D1%26PHPSESSID%3D507769d9d55c951c412fee36a76d09c2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHumber" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<style data-mw-deduplicate="TemplateStyles:r853264625">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin" style="">
+<ul><li><cite class="citation book">D'Orley, Alun (1968). <i>The Humber Ferries</i>. Knaresborough: Nidd Valley Narrow Gauge Railways.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Humber+Ferries&amp;rft.place=Knaresborough&amp;rft.pub=Nidd+Valley+Narrow+Gauge+Railways&amp;rft.date=1968&amp;rft.aulast=D%27Orley&amp;rft.aufirst=Alun&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHumber" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite class="citation book">Storey, Arthur (December 1971). <i>Hull Trinity House: Pilotage and Navigational Aids of the River Humber, 1512–1908</i>. Ridings Publishing Co. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-901934-03-1" title="Special:BookSources/978-0-901934-03-1">978-0-901934-03-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Hull+Trinity+House%3A+Pilotage+and+Navigational+Aids+of+the+River+Humber%2C+1512%E2%80%931908&amp;rft.pub=Ridings+Publishing+Co&amp;rft.date=1971-12&amp;rft.isbn=978-0-901934-03-1&amp;rft.aulast=Storey&amp;rft.aufirst=Arthur&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHumber" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li></ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Humber&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Humber_estuary" class="extiw" title="commons:Category:Humber estuary">Humber estuary</a></b></i>.</td></tr></tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" width="38" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has the text of the <a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">1911 <i>Encyclopædia Britannica</i></a> article  <i><b><a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Humber" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Humber">Humber</a></b></i>.</td></tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120229134622/http://members.multimania.co.uk/humberferries/">River Humber Ferries</a>—Private web site about the Steam era ferries</li>
+<li><a rel="nofollow" class="external text" href="http://www.humber.com/">www.humber.com</a>—Associated British Ports, Humber group. Includes daily details of major shipping movements</li>
+<li><a rel="nofollow" class="external text" href="http://www.humberpacketboats.co.uk/">www.humberpacketboats.co.uk</a>—Extensive private web site about history of river trading in Humber and tributaries.</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Rivers_of_Yorkshire" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Rivers_of_Yorkshire" title="Template:Rivers of Yorkshire"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Rivers_of_Yorkshire" title="Template talk:Rivers of Yorkshire"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Rivers_of_Yorkshire&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Rivers_of_Yorkshire" style="font-size:114%;margin:0 4em">Rivers of Yorkshire</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">North Yorkshire</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/River_Aire" title="River Aire">Aire</a></li>
+<li><a href="/wiki/Arkle_Beck" title="Arkle Beck">Arkle Beck</a></li>
+<li><a href="/wiki/River_Bain,_North_Yorkshire" title="River Bain, North Yorkshire">Bain</a></li>
+<li><a href="/wiki/Bedale_Beck" title="Bedale Beck">Bedale Beck</a></li>
+<li><a href="/wiki/River_Burn,_North_Yorkshire" title="River Burn, North Yorkshire">Burn</a></li>
+<li><a href="/wiki/Cock_Beck" title="Cock Beck">Cock Beck</a></li>
+<li><a href="/wiki/Cod_Beck,_North_Yorkshire" title="Cod Beck, North Yorkshire">Cod Beck</a></li>
+<li><a href="/wiki/Costa_Beck" title="Costa Beck">Costa Beck</a></li>
+<li><a href="/wiki/River_Cover" title="River Cover">Cover</a></li>
+<li><a href="/wiki/River_Derwent,_Yorkshire" title="River Derwent, Yorkshire">Derwent</a></li>
+<li><a href="/wiki/River_Dibb" title="River Dibb">Dibb</a></li>
+<li><a href="/wiki/River_Doe" title="River Doe">Doe</a></li>
+<li><a href="/wiki/River_Dove,_North_Yorkshire" title="River Dove, North Yorkshire">Dove</a></li>
+<li><a href="/wiki/Eller_Beck" title="Eller Beck">Eller Beck</a></li>
+<li><a href="/wiki/River_Esk,_North_Yorkshire" title="River Esk, North Yorkshire">Esk</a></li>
+<li><a href="/wiki/River_Foss" title="River Foss">Foss</a></li>
+<li><a href="/wiki/River_Greta_(Lune)" title="River Greta (Lune)">Greta (Lune)</a></li>
+<li><a href="/wiki/Gypsey_Race" title="Gypsey Race">Gypsey Race</a></li>
+<li><a href="/wiki/River_Kyle" title="River Kyle">Kyle</a></li>
+<li><a href="/wiki/River_Leven,_North_Yorkshire" title="River Leven, North Yorkshire">Leven</a></li>
+<li><a href="/wiki/Malham_Beck" title="Malham Beck">Malham Beck</a></li>
+<li><a href="/wiki/River_Nidd" title="River Nidd">Nidd</a></li>
+<li><a href="/wiki/River_Ouse,_Yorkshire" title="River Ouse, Yorkshire">Ouse</a></li>
+<li><a href="/wiki/Pickering_Beck" title="Pickering Beck">Pickering Beck</a></li>
+<li><a href="/wiki/River_Ribble" title="River Ribble">Ribble</a></li>
+<li><a href="/wiki/River_Riccal" title="River Riccal">Riccall</a></li>
+<li><a href="/wiki/Risedale_Beck" title="Risedale Beck">Risedale Beck</a></li>
+<li><a href="/wiki/River_Rye,_Yorkshire" title="River Rye, Yorkshire">Rye</a></li>
+<li><a href="/wiki/River_Wharfe" title="River Wharfe">Wharfe</a></li>
+<li><a href="/wiki/River_Seven" title="River Seven">Seven</a></li>
+<li><a href="/wiki/Sea_Cut_(Scalby_Beck)" title="Sea Cut (Scalby Beck)">Sea Cut</a></li>
+<li><a href="/wiki/River_Skell" title="River Skell">Skell</a></li>
+<li><a href="/wiki/River_Skirfare" title="River Skirfare">Skirfare</a></li>
+<li><a href="/wiki/River_Swale" title="River Swale">Swale</a></li>
+<li><a href="/wiki/River_Tees" title="River Tees">Tees</a></li>
+<li><a href="/wiki/River_Twiss" title="River Twiss">Twiss</a></li>
+<li><a href="/wiki/River_Ure" title="River Ure">Ure</a></li>
+<li><a href="/wiki/River_Washburn" title="River Washburn">Washburn</a></li>
+<li><a href="/wiki/River_Wiske" title="River Wiske">Wiske</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">West Yorkshire</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/River_Aire" title="River Aire">Aire</a></li>
+<li><a href="/wiki/Bradford_Beck" title="Bradford Beck">Bradford Beck</a></li>
+<li><a href="/wiki/Black_Brook,_West_Yorkshire" title="Black Brook, West Yorkshire">Black Brook</a></li>
+<li><a href="/wiki/River_Calder,_West_Yorkshire" title="River Calder, West Yorkshire">Calder</a></li>
+<li><a href="/wiki/Cock_Beck" title="Cock Beck">Cock Beck</a></li>
+<li><a href="/wiki/River_Colne,_West_Yorkshire" title="River Colne, West Yorkshire">Colne</a></li>
+<li><a href="/wiki/River_Dearne" title="River Dearne">Dearne</a></li>
+<li><a href="/wiki/Harden_Beck" title="Harden Beck">Harden Beck</a></li>
+<li><a href="/wiki/Hebble_Brook" title="Hebble Brook">Hebble Brook</a></li>
+<li><a href="/wiki/River_Holme" title="River Holme">Holme</a></li>
+<li><a href="/wiki/Holme_Beck" title="Holme Beck">Holme Beck</a></li>
+<li><a href="/wiki/River_Laneshaw" title="River Laneshaw">Laneshaw</a></li>
+<li><a href="/wiki/Meanwood_Beck" title="Meanwood Beck">Meanwood Beck</a></li>
+<li><a href="/wiki/Pudsey_Beck" title="Pudsey Beck">Pudsey Beck</a></li>
+<li><a href="/wiki/River_Ribble,_West_Yorkshire" title="River Ribble, West Yorkshire">Ribble</a></li>
+<li><a href="/wiki/River_Ryburn" title="River Ryburn">Ryburn</a></li>
+<li><a href="/wiki/River_Spen" title="River Spen">Spen</a></li>
+<li><a href="/wiki/Tyersal_Beck" title="Tyersal Beck">Tyersal Beck</a></li>
+<li><a href="/wiki/River_Wharfe" title="River Wharfe">Wharfe</a></li>
+<li><a href="/wiki/River_Worth" title="River Worth">Worth</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">East Riding of Yorkshire</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aike_Beck" title="Aike Beck">Aike Beck</a></li>
+<li><a href="/wiki/River_Aire" title="River Aire">Aire</a></li>
+<li><a href="/wiki/Arram_Beck" title="Arram Beck">Arram Beck</a></li>
+<li><a href="/wiki/River_Derwent,_Yorkshire" title="River Derwent, Yorkshire">Derwent</a></li>
+<li><a href="/wiki/Driffield_Beck" class="mw-redirect" title="Driffield Beck">Driffield Beck</a></li>
+<li><a href="/wiki/River_Foulness" title="River Foulness">Foulness</a></li>
+<li><a href="/wiki/Gypsey_Race" title="Gypsey Race">Gypsey Race</a></li>
+<li><a href="/wiki/River_Hull" title="River Hull">Hull</a></li>
+<li><a class="mw-selflink selflink">Humber</a></li>
+<li><a href="/wiki/River_Ouse,_Yorkshire" title="River Ouse, Yorkshire">Ouse</a></li>
+<li><a href="/wiki/Trent_Falls" title="Trent Falls">Trent Falls</a></li>
+<li><a href="/wiki/West_Beck" title="West Beck">West Beck</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">South Yorkshire</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blackburn_Brook" title="Blackburn Brook">Blackburn Brook</a></li>
+<li><a href="/wiki/River_Dearne" title="River Dearne">Dearne</a></li>
+<li><a href="/wiki/River_Don,_Yorkshire" title="River Don, Yorkshire">Don</a></li>
+<li><a href="/wiki/River_Dove,_Barnsley" title="River Dove, Barnsley">Dove</a></li>
+<li><a href="/wiki/Limb_Brook" title="Limb Brook">Limb Brook</a></li>
+<li><a href="/wiki/Little_Don_River" title="Little Don River">Little Don</a></li>
+<li><a href="/wiki/River_Loxley" title="River Loxley">Loxley</a></li>
+<li><a href="/wiki/Meers_Brook" title="Meers Brook">Meers Brook</a></li>
+<li><a href="/wiki/Old_Hay_Brook" title="Old Hay Brook">Old Hay Brook</a></li>
+<li><a href="/wiki/Porter_Brook" title="Porter Brook">Porter Brook</a></li>
+<li><a href="/wiki/River_Rivelin" title="River Rivelin">Rivelin</a></li>
+<li><a href="/wiki/River_Rother,_South_Yorkshire" title="River Rother, South Yorkshire">Rother</a></li>
+<li><a href="/wiki/River_Ryton" title="River Ryton">Ryton</a></li>
+<li><a href="/wiki/River_Sheaf" title="River Sheaf">Sheaf</a></li>
+<li><a href="/wiki/Shire_Brook" title="Shire Brook">Shire Brook</a></li>
+<li><a href="/wiki/River_Torne" title="River Torne">Torne</a></li>
+<li><a href="/wiki/Totley_Brook" title="Totley Brook">Totley Brook</a></li>
+<li><a href="/wiki/River_Went" title="River Went">Went</a></li>
+<li><a href="/wiki/Wyming_Brook" title="Wyming Brook">Wyming Brook</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=Lincolnshire&amp;#124;link=Lincolnshire_Rivers_and_watercourses_of_Lincolnshire" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Rivers_and_watercourses_of_Lincolnshire" title="Template:Rivers and watercourses of Lincolnshire"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Rivers_and_watercourses_of_Lincolnshire" title="Template talk:Rivers and watercourses of Lincolnshire"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Rivers_and_watercourses_of_Lincolnshire&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=Lincolnshire&amp;#124;link=Lincolnshire_Rivers_and_watercourses_of_Lincolnshire" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Lincolnshire" title="Lincolnshire"><img alt="Lincolnshire" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Flag_of_Lincolnshire.svg/20px-Flag_of_Lincolnshire.svg.png" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Flag_of_Lincolnshire.svg/31px-Flag_of_Lincolnshire.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Flag_of_Lincolnshire.svg/40px-Flag_of_Lincolnshire.svg.png 2x" data-file-width="720" data-file-height="540" /></a></span> Rivers and watercourses of Lincolnshire</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Rivers</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/River_Ancholme" title="River Ancholme">Ancholme</a></li>
+<li><a href="/wiki/River_Bain" title="River Bain">Bain</a></li>
+<li><a href="/wiki/River_Brant" title="River Brant">Brant</a></li>
+<li><a href="/wiki/Barlings_Eau" title="Barlings Eau">Barlings Eau</a></li>
+<li><a href="/wiki/Bourne_Eau" title="Bourne Eau">Bourne Eau</a></li>
+<li><a href="/wiki/River_Eau" title="River Eau">River Eau</a></li>
+<li><a href="/wiki/River_Freshney" title="River Freshney">Freshney</a></li>
+<li><a href="/wiki/River_Glen,_Lincolnshire" title="River Glen, Lincolnshire">Glen</a></li>
+<li><a href="/wiki/Great_Eau" title="Great Eau">Great Eau</a></li>
+<li><a href="/wiki/River_Gwash" title="River Gwash">Gwash</a></li>
+<li><a class="mw-selflink selflink">Humber</a></li>
+<li><a href="/wiki/Long_Eau" title="Long Eau">Long Eau</a></li>
+<li><a href="/wiki/River_Lymn" title="River Lymn">Lymn</a></li>
+<li><a href="/wiki/River_Nene" title="River Nene">Nene</a></li>
+<li><a href="/wiki/River_Rase" title="River Rase">Rase</a></li>
+<li><a href="/wiki/River_Slea" title="River Slea">Slea</a></li>
+<li><a href="/wiki/River_Till,_Lincolnshire" title="River Till, Lincolnshire">Till</a></li>
+<li><a href="/wiki/River_Torne" title="River Torne">Torne</a></li>
+<li><a href="/wiki/River_Trent" title="River Trent">Trent</a></li>
+<li><a href="/wiki/River_Waring" title="River Waring">Waring</a></li>
+<li><a href="/wiki/River_Welland" title="River Welland">Welland</a></li>
+<li><a href="/wiki/River_Witham" title="River Witham">Witham</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q550995&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q550995&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q550995" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4543961-8">4543961-8</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2271
+Cached time: 20181001000949
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 1.396 seconds
+Real time usage: 1.569 seconds
+Preprocessor visited node count: 5989/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 122696/2097152 bytes
+Template argument size: 25770/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 56209/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.862/10.000 seconds
+Lua memory usage: 16.81 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1420.414      1 -total
+ 57.94%  822.988      1 Template:Geobox
+ 30.78%  437.234      2 Template:Geobox2_coor
+ 30.18%  428.714      2 Template:Country_abbreviation
+ 13.25%  188.151      1 Template:Reflist
+ 11.37%  161.499      1 Template:Lang-grc
+  8.62%  122.401     15 Template:Cite_web
+  5.77%   81.998      2 Template:Infobox
+  4.50%   63.914      4 Template:Geobox2_unit
+  3.94%   55.967      1 Template:Designation_list
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:143904-0!canonical and timestamp 20181001000947 and revision id 861141811
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Humber&amp;oldid=861141811">https://en.wikipedia.org/w/index.php?title=Humber&amp;oldid=861141811</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Humber" title="Category:Humber">Humber</a></li><li><a href="/wiki/Category:Humber_drainage_basin" title="Category:Humber drainage basin">Humber drainage basin</a></li><li><a href="/wiki/Category:Estuaries_of_England" title="Category:Estuaries of England">Estuaries of England</a></li><li><a href="/wiki/Category:Landforms_of_the_North_Sea" title="Category:Landforms of the North Sea">Landforms of the North Sea</a></li><li><a href="/wiki/Category:Ramsar_sites_in_England" title="Category:Ramsar sites in England">Ramsar sites in England</a></li><li><a href="/wiki/Category:River_navigations_in_the_United_Kingdom" title="Category:River navigations in the United Kingdom">River navigations in the United Kingdom</a></li><li><a href="/wiki/Category:Rivers_of_Lincolnshire" title="Category:Rivers of Lincolnshire">Rivers of Lincolnshire</a></li><li><a href="/wiki/Category:Rivers_of_the_East_Riding_of_Yorkshire" title="Category:Rivers of the East Riding of Yorkshire">Rivers of the East Riding of Yorkshire</a></li><li><a href="/wiki/Category:Natural_regions_of_England" title="Category:Natural regions of England">Natural regions of England</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_DGRG_without_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the DGRG without Wikisource reference">Wikipedia articles incorporating a citation from the DGRG without Wikisource reference</a></li><li><a href="/wiki/Category:CS1:_Julian%E2%80%93Gregorian_uncertainty" title="Category:CS1: Julian–Gregorian uncertainty">CS1: Julian–Gregorian uncertainty</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Use_British_English_from_September_2013" title="Category:Use British English from September 2013">Use British English from September 2013</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_September_2013" title="Category:Use dmy dates from September 2013">Use dmy dates from September 2013</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Geobox_usage_tracking_for_river_type" title="Category:Geobox usage tracking for river type">Geobox usage tracking for river type</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2011" title="Category:Articles with unsourced statements from February 2011">Articles with unsourced statements from February 2011</a></li><li><a href="/wiki/Category:Articles_containing_Ancient_Greek-language_text" title="Category:Articles containing Ancient Greek-language text">Articles containing Ancient Greek-language text</a></li><li><a href="/wiki/Category:Articles_containing_Old_English-language_text" title="Category:Articles containing Old English-language text">Articles containing Old English-language text</a></li><li><a href="/wiki/Category:Articles_with_text_from_the_Celtic_languages_collective" title="Category:Articles with text from the Celtic languages collective">Articles with text from the Celtic languages collective</a></li><li><a href="/wiki/Category:Articles_containing_Welsh-language_text" title="Category:Articles containing Welsh-language text">Articles containing Welsh-language text</a></li><li><a href="/wiki/Category:Articles_containing_Latin-language_text" title="Category:Articles containing Latin-language text">Articles containing Latin-language text</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Humber" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Humber" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Humber" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Humber" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Humber">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Humber&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Humber&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Humber" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Humber" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Humber&amp;oldid=861141811" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Humber&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q550995" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Humber&amp;id=861141811" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Humber">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Humber&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Humber&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Humber_estuary" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%87%D9%85%D8%A8%D8%B1" title="الهمبر – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BC%D0%B1%D0%B5%D1%80" title="Хамбер – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A5%D1%8A%D0%BC%D0%B1%D1%8A%D1%80" title="Хъмбър – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Humber_(Bro-Saoz)" title="Humber (Bro-Saoz) – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Humber" title="Humber – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/River_Humber" title="River Humber – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Afon_Humber" title="Afon Humber – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Humber" title="Humber – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Humber_(Yorkshire_and_the_Humber)" title="Humber (Yorkshire and the Humber) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Humber" title="Humber – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Humber_(rivero)" title="Humber (rivero) – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Humber" title="Humber – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%87%D8%A7%D9%85%D8%A8%D8%B1" title="هامبر – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Humber" title="Humber – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Humber" title="Humber – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%97%98%EB%B2%84%EA%B0%95" title="험버강 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%80%D5%A1%D5%B4%D5%A2%D5%A5%D6%80_(%D5%A3%D5%A5%D5%BF)" title="Համբեր (գետ) – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Humber" title="Humber – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Humber" title="Humber – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%94%D7%90%D7%9E%D7%91%D7%A8" title="האמבר – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Mto_Humber" title="Mto Humber – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Hamberio_estuarija" title="Hamberio estuarija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Humber" title="Humber – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Humber_(estuarium)" title="Humber (estuarium) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Humber" title="Humber – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Humber" title="Humber – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Humber" title="Humber – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Humber" title="Humber – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BC%D0%B1%D0%B5%D1%80_(%D1%80%D0%B5%D0%BA%D0%B0,_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F)" title="Хамбер (река, Великобритания) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/River_Humber" title="River Humber – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Humber" title="Humber – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Humber" title="Humber – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Humber" title="Humber – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Humber" title="Humber – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%B0%D0%BC%D0%B1%D0%B5%D1%80_(%D1%80%D1%96%D1%87%D0%BA%D0%B0)" title="Гамбер (річка) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%BA%A8%E4%BC%AF" title="亨伯 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q550995#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 September 2018, at 11:45<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Humber&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.396","walltime":"1.569","ppvisitednodes":{"value":5989,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":122696,"limit":2097152},"templateargumentsize":{"value":25770,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":56209,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1420.414      1 -total"," 57.94%  822.988      1 Template:Geobox"," 30.78%  437.234      2 Template:Geobox2_coor"," 30.18%  428.714      2 Template:Country_abbreviation"," 13.25%  188.151      1 Template:Reflist"," 11.37%  161.499      1 Template:Lang-grc","  8.62%  122.401     15 Template:Cite_web","  5.77%   81.998      2 Template:Infobox","  4.50%   63.914      4 Template:Geobox2_unit","  3.94%   55.967      1 Template:Designation_list"]},"scribunto":{"limitreport-timeusage":{"value":"0.862","limit":"10.000"},"limitreport-memusage":{"value":17621462,"limit":52428800}},"cachereport":{"origin":"mw2271","timestamp":"20181001000949","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw2174"});});</script>
+	</body>
+</html>

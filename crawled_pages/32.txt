@@ -1,0 +1,1042 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Okapi BM25 - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Okapi_BM25","wgTitle":"Okapi BM25","wgCurRevisionId":859095986,"wgRevisionId":859095986,"wgArticleId":9511414,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from October 2017","Ranking functions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Okapi_BM25","wgRelevantArticleId":9511414,"wgRequestId":"W6@XVwrAADMAAFJTRG8AAAAX","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q2068750","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Okapi_BM25"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Okapi_BM25&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Okapi_BM25&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Okapi_BM25"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Okapi_BM25 rootpage-Okapi_BM25 skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Okapi BM25</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>In <a href="/wiki/Information_retrieval" title="Information retrieval">information retrieval</a>, <b>Okapi BM25</b> (BM stands for Best Matching) is a <a href="/wiki/Ranking_function" class="mw-redirect" title="Ranking function">ranking function</a> used by <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engines</a> to rank matching documents according to their <a href="/wiki/Relevance_(information_retrieval)" title="Relevance (information retrieval)">relevance</a> to a given search query. It is based on the <a href="/wiki/Probabilistic_relevance_model" title="Probabilistic relevance model">probabilistic retrieval framework</a> developed in the 1970s and 1980s by <a href="/wiki/Stephen_E._Robertson" class="mw-redirect" title="Stephen E. Robertson">Stephen E. Robertson</a>, <a href="/wiki/Karen_Sp%C3%A4rck_Jones" title="Karen Spärck Jones">Karen Spärck Jones</a>, and others.
+</p><p>The name of the actual ranking function is BM25. To set the right context, however, it is usually referred to as "Okapi BM25", since the Okapi information retrieval system, implemented at <a href="/wiki/London" title="London">London</a>'s <a href="/wiki/City_University,_London" class="mw-redirect" title="City University, London">City University</a> in the 1980s and 1990s, was the first system to implement this function.
+</p><p>BM25 and its newer variants, e.g. BM25F (a version of BM25 that can take document structure and anchor text into account), represent state-of-the-art <a href="/wiki/TF-IDF" class="mw-redirect" title="TF-IDF">TF-IDF</a>-like retrieval functions used in document retrieval.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2017)">citation needed</span></a></i>&#93;</sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#The_ranking_function"><span class="tocnumber">1</span> <span class="toctext">The ranking function</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#IDF_information_theoretic_interpretation"><span class="tocnumber">2</span> <span class="toctext">IDF information theoretic interpretation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Modifications"><span class="tocnumber">3</span> <span class="toctext">Modifications</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#General_references"><span class="tocnumber">5</span> <span class="toctext">General references</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="The_ranking_function">The ranking function</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Okapi_BM25&amp;action=edit&amp;section=1" title="Edit section: The ranking function">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>BM25 is a <a href="/wiki/Bag_of_words_model" class="mw-redirect" title="Bag of words model">bag-of-words</a> retrieval function that ranks a set of documents based on the query terms appearing in each document, regardless of the inter-relationship between the query terms within a document (e.g., their relative proximity). It is not a single function, but actually a whole family of scoring functions, with slightly different components and parameters. One of the most prominent instantiations of the function is as follows.
+</p><p>Given a query <span class="texhtml mvar" style="font-style:italic;">Q</span>, containing keywords <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle q_{1},...,q_{n}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <mo>.</mo>
+        <mo>.</mo>
+        <mo>.</mo>
+        <mo>,</mo>
+        <msub>
+          <mi>q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle q_{1},...,q_{n}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4024517280628a21186b246939a2cc89c937f7e3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:9.516ex; height:2.009ex;" alt="q_1, ..., q_n"/></span>, the BM25 score of a document <span class="texhtml mvar" style="font-style:italic;">D</span> is:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\text{score}}(D,Q)=\sum _{i=1}^{n}{\text{IDF}}(q_{i})\cdot {\frac {f(q_{i},D)\cdot (k_{1}+1)}{f(q_{i},D)+k_{1}\cdot \left(1-b+b\cdot {\frac {|D|}{\text{avgdl}}}\right)}},}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>score</mtext>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>D</mi>
+        <mo>,</mo>
+        <mi>Q</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </munderover>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>IDF</mtext>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>f</mi>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>q</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>i</mi>
+                </mrow>
+              </msub>
+              <mo>,</mo>
+              <mi>D</mi>
+              <mo stretchy="false">)</mo>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>k</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                </mrow>
+              </msub>
+              <mo>+</mo>
+              <mn>1</mn>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mrow>
+              <mi>f</mi>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>q</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>i</mi>
+                </mrow>
+              </msub>
+              <mo>,</mo>
+              <mi>D</mi>
+              <mo stretchy="false">)</mo>
+              <mo>+</mo>
+              <msub>
+                <mi>k</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                </mrow>
+              </msub>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mrow>
+                <mo>(</mo>
+                <mrow>
+                  <mn>1</mn>
+                  <mo>&#x2212;<!-- − --></mo>
+                  <mi>b</mi>
+                  <mo>+</mo>
+                  <mi>b</mi>
+                  <mo>&#x22C5;<!-- ⋅ --></mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mfrac>
+                      <mrow>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mo stretchy="false">|</mo>
+                        </mrow>
+                        <mi>D</mi>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mo stretchy="false">|</mo>
+                        </mrow>
+                      </mrow>
+                      <mtext>avgdl</mtext>
+                    </mfrac>
+                  </mrow>
+                </mrow>
+                <mo>)</mo>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\text{score}}(D,Q)=\sum _{i=1}^{n}{\text{IDF}}(q_{i})\cdot {\frac {f(q_{i},D)\cdot (k_{1}+1)}{f(q_{i},D)+k_{1}\cdot \left(1-b+b\cdot {\frac {|D|}{\text{avgdl}}}\right)}},}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/43e5c609557364f7836b6b2f4cd8ea41deb86a96" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -4.505ex; width:62.123ex; height:8.343ex;" alt="{\displaystyle {\text{score}}(D,Q)=\sum _{i=1}^{n}{\text{IDF}}(q_{i})\cdot {\frac {f(q_{i},D)\cdot (k_{1}+1)}{f(q_{i},D)+k_{1}\cdot \left(1-b+b\cdot {\frac {|D|}{\text{avgdl}}}\right)}},}"/></span></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f(q_{i},D)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <mi>D</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f(q_{i},D)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7caf2f93a6527d4a76c07bd67980ec921167f990" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:7.883ex; height:2.843ex;" alt="f(q_i, D)"/></span> is <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle q_{i}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle q_{i}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2752dcbff884354069fe332b8e51eb0a70a531b6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.837ex; height:2.009ex;" alt="q_{i}"/></span>'s <a href="/wiki/Term_frequency" class="mw-redirect" title="Term frequency">term frequency</a> in the document <span class="texhtml mvar" style="font-style:italic;">D</span>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle |D|}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>D</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle |D|}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7c936c42ab206e72c1fbc1ea103cc9eca1802af1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:3.218ex; height:2.843ex;" alt="|D|"/></span> is the length of the document <span class="texhtml mvar" style="font-style:italic;">D</span> in words, and <span class="texhtml">avgdl</span> is the average document length in the text collection from which documents are drawn. <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle k_{1}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>k</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle k_{1}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/376315fd4983f01dada5ec2f7bebc48455b14a66" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.265ex; height:2.509ex;" alt="k_{1}"/></span> and <span class="texhtml mvar" style="font-style:italic;">b</span> are free parameters, usually chosen, in absence of an advanced optimization, as <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle k_{1}\in [1.2,2.0]}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>k</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <mo stretchy="false">[</mo>
+        <mn>1.2</mn>
+        <mo>,</mo>
+        <mn>2.0</mn>
+        <mo stretchy="false">]</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle k_{1}\in [1.2,2.0]}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0af33de8946a560fed04ff522251656c8207f3db" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:13.377ex; height:2.843ex;" alt="k_1 \in [1.2,2.0]"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle b=0.75}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>b</mi>
+        <mo>=</mo>
+        <mn>0.75</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle b=0.75}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cc8113cfb95fd7d2a084b62f53ff1a54186bc11c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:8.23ex; height:2.176ex;" alt="b = 0.75"/></span>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\text{IDF}}(q_{i})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>IDF</mtext>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\text{IDF}}(q_{i})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e34b65be68e2123b44a9106fed33a0253229e356" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:7.779ex; height:2.843ex;" alt="\text{IDF}(q_i)"/></span> is the IDF (<a href="/wiki/Inverse_document_frequency" class="mw-redirect" title="Inverse document frequency">inverse document frequency</a>) weight of the query term <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle q_{i}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle q_{i}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2752dcbff884354069fe332b8e51eb0a70a531b6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.837ex; height:2.009ex;" alt="q_{i}"/></span>. It is usually computed as:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\text{IDF}}(q_{i})=\log {\frac {N-n(q_{i})+0.5}{n(q_{i})+0.5}},}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>IDF</mtext>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>N</mi>
+              <mo>&#x2212;<!-- − --></mo>
+              <mi>n</mi>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>q</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>i</mi>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+              <mo>+</mo>
+              <mn>0.5</mn>
+            </mrow>
+            <mrow>
+              <mi>n</mi>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>q</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>i</mi>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+              <mo>+</mo>
+              <mn>0.5</mn>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\text{IDF}}(q_{i})=\log {\frac {N-n(q_{i})+0.5}{n(q_{i})+0.5}},}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c652b6871ce4872c8e924ff0f806bc8b06dc94ed" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:31.476ex; height:6.509ex;" alt="\text{IDF}(q_i) = \log \frac{N - n(q_i) + 0.5}{n(q_i) + 0.5},"/></span></dd></dl>
+<p>where  <span class="texhtml mvar" style="font-style:italic;">N</span> is the total number of documents in the collection, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle n(q_{i})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>n</mi>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle n(q_{i})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/14dc99fdb5fe2428a1c46cd20a7255dbee944945" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:5.041ex; height:2.843ex;" alt="n(q_i)"/></span> is the number of documents containing <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle q_{i}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle q_{i}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2752dcbff884354069fe332b8e51eb0a70a531b6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.837ex; height:2.009ex;" alt="q_{i}"/></span>.
+</p><p>There are several interpretations for IDF and slight variations on its formula. In the original BM25 derivation, the IDF component is derived from the <a href="/wiki/Binary_Independence_Model" title="Binary Independence Model">Binary Independence Model</a>.
+</p><p>Please note that the above formula for IDF shows potentially major drawbacks when using it for terms appearing in more than half of the corpus documents. These terms' IDF is negative, so for any two almost-identical documents, one which contains the term and one which does not contain it, the latter will possibly get a larger score.
+This means that terms appearing in more than half of the corpus will provide negative contributions to the final document score. This is often an undesirable behavior, so many real-world applications would deal with this IDF formula in a different way:
+</p>
+<ul><li>Each summand can be given a floor of 0, to trim out common terms;</li>
+<li>The IDF function can be given a floor of a constant <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \epsilon }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03F5;<!-- ϵ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \epsilon }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3837cad72483d97bcdde49c85d3b7b859fb3fd2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.944ex; height:1.676ex;" alt="\epsilon "/></span>, to avoid common terms being ignored at all;</li>
+<li>The IDF function can be replaced with a similarly shaped one which is non-negative, or strictly positive to avoid terms being ignored at all.</li></ul>
+<h2><span class="mw-headline" id="IDF_information_theoretic_interpretation">IDF information theoretic interpretation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Okapi_BM25&amp;action=edit&amp;section=2" title="Edit section: IDF information theoretic interpretation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Here is an interpretation from information theory. Suppose a query term <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle q}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>q</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle q}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/06809d64fa7c817ffc7e323f85997f783dbdf71d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.07ex; height:2.009ex;" alt="q"/></span> appears in <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle n(q)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>n</mi>
+        <mo stretchy="false">(</mo>
+        <mi>q</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle n(q)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bbd26739abf7d0b2055386c8a43df80e398167be" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:4.274ex; height:2.843ex;" alt="n(q)"/></span> documents. Then a randomly picked document <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle D}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>D</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle D}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f34a0c600395e5d4345287e21fb26efd386990e6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.924ex; height:2.176ex;" alt="D"/></span> will contain the term with probability <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\frac {n(q)}{N}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>n</mi>
+              <mo stretchy="false">(</mo>
+              <mi>q</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mi>N</mi>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {n(q)}{N}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/42db8d96fb7df8e92eb349eb1df81ddb61af8fb1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:5.11ex; height:5.676ex;" alt="\frac{n(q)}{N}"/></span> (where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle N}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>N</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;" alt="N"/></span> is again the cardinality of the set of documents in the collection). Therefore, the <a href="/wiki/Information" title="Information">information</a> content of the message "<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle D}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>D</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle D}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f34a0c600395e5d4345287e21fb26efd386990e6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.924ex; height:2.176ex;" alt="D"/></span> contains <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle q}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>q</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle q}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/06809d64fa7c817ffc7e323f85997f783dbdf71d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.07ex; height:2.009ex;" alt="q"/></span>" is:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle -\log {\frac {n(q)}{N}}=\log {\frac {N}{n(q)}}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>n</mi>
+              <mo stretchy="false">(</mo>
+              <mi>q</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mi>N</mi>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>N</mi>
+            <mrow>
+              <mi>n</mi>
+              <mo stretchy="false">(</mo>
+              <mi>q</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle -\log {\frac {n(q)}{N}}=\log {\frac {N}{n(q)}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92f7f5b617de20520d44e03ec5e04faf31490920" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:22.878ex; height:6.509ex;" alt="-\log \frac{n(q)}{N} = \log \frac{N}{n(q)}."/></span></dd></dl>
+<p>Now suppose we have two query terms <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle q_{1}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle q_{1}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9daa41f6e8f78ea6bb5711d7ac97901ce564b94e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.091ex; height:2.009ex;" alt="q_{1}"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle q_{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle q_{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fd2d05084feb02b8ba29b0673440fb673b102589" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.091ex; height:2.009ex;" alt="q_{2}"/></span>. If the two terms occur in documents entirely independently of each other, then the probability of seeing both <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle q_{1}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle q_{1}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9daa41f6e8f78ea6bb5711d7ac97901ce564b94e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.091ex; height:2.009ex;" alt="q_{1}"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle q_{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle q_{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fd2d05084feb02b8ba29b0673440fb673b102589" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.091ex; height:2.009ex;" alt="q_{2}"/></span> in a randomly picked document <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle D}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>D</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle D}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f34a0c600395e5d4345287e21fb26efd386990e6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.924ex; height:2.176ex;" alt="D"/></span> is:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\frac {n(q_{1})}{N}}\cdot {\frac {n(q_{2})}{N}},}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>n</mi>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>q</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mi>N</mi>
+          </mfrac>
+        </mrow>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>n</mi>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>q</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mi>N</mi>
+          </mfrac>
+        </mrow>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {n(q_{1})}{N}}\cdot {\frac {n(q_{2})}{N}},}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b38127d11e84a12ac36a3dc34890af7294e2a03c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:14.589ex; height:5.676ex;" alt="\frac{n(q_1)}{N} \cdot \frac{n(q_2)}{N},"/></span></dd></dl>
+<p>and the information content of such an event is:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \sum _{i=1}^{2}\log {\frac {N}{n(q_{i})}}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </munderover>
+        <mi>log</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>N</mi>
+            <mrow>
+              <mi>n</mi>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>q</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>i</mi>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sum _{i=1}^{2}\log {\frac {N}{n(q_{i})}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4d9d8aef452ae91622ed5d5d2df133650cbdf050" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:13.625ex; height:7.343ex;" alt="\sum_{i=1}^{2} \log \frac{N}{n(q_i)}."/></span></dd></dl>
+<p>With a small variation, this is exactly what is expressed by the IDF component of BM25.
+</p>
+<h2><span class="mw-headline" id="Modifications">Modifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Okapi_BM25&amp;action=edit&amp;section=3" title="Edit section: Modifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>At the extreme values of the coefficient <span class="texhtml mvar" style="font-style:italic;">b</span> BM25 turns into ranking functions known as <b>BM11</b> (for <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle b=1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>b</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle b=1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3f55bc77dec8088791b5c1ed51e634cc1b431fd0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:5.258ex; height:2.176ex;" alt="b=1"/></span>) and <b>BM15</b> (for <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle b=0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>b</mi>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle b=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/19206e7d4dab695ccb34c502eff0741e98dbdfc2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:5.258ex; height:2.176ex;" alt="b=0"/></span>).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li>
+<li><b>BM25F</b><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-robertson2009_4-0" class="reference"><a href="#cite_note-robertson2009-4">&#91;4&#93;</a></sup> is a modification of BM25 in which the document is considered to be composed from several fields (such as headlines, main text, anchor text) with possibly different degrees of importance, term relevance saturation and length normalization.</li>
+<li><b>BM25+</b><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> is an extension of BM25. BM25+ was developed to address one deficiency of the standard BM25 in which the component of term frequency normalization by document length is not properly lower-bounded; as a result of this deficiency, long documents which do match the query term can often be scored unfairly by BM25 as having a similar relevancy to shorter documents that do not contain the query term at all. The scoring formula of BM25+ only has one additional free parameter <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \delta }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03B4;<!-- δ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \delta }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c5321cfa797202b3e1f8620663ff43c4660ea03a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.049ex; height:2.343ex;" alt="\delta "/></span> (a default value is <span class="texhtml">1.0</span> in absence of a training data) as compared with BM25:</li></ul>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\text{score}}(D,Q)=\sum _{i=1}^{n}{\text{IDF}}(q_{i})\cdot \left[{\frac {f(q_{i},D)\cdot (k_{1}+1)}{f(q_{i},D)+k_{1}\cdot \left(1-b+b\cdot {\frac {|D|}{\text{avgdl}}}\right)}}+\delta \right]}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>score</mtext>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>D</mi>
+        <mo>,</mo>
+        <mi>Q</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </munderover>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>IDF</mtext>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>q</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mrow>
+          <mo>[</mo>
+          <mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mrow>
+                  <mi>f</mi>
+                  <mo stretchy="false">(</mo>
+                  <msub>
+                    <mi>q</mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mi>i</mi>
+                    </mrow>
+                  </msub>
+                  <mo>,</mo>
+                  <mi>D</mi>
+                  <mo stretchy="false">)</mo>
+                  <mo>&#x22C5;<!-- ⋅ --></mo>
+                  <mo stretchy="false">(</mo>
+                  <msub>
+                    <mi>k</mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mn>1</mn>
+                    </mrow>
+                  </msub>
+                  <mo>+</mo>
+                  <mn>1</mn>
+                  <mo stretchy="false">)</mo>
+                </mrow>
+                <mrow>
+                  <mi>f</mi>
+                  <mo stretchy="false">(</mo>
+                  <msub>
+                    <mi>q</mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mi>i</mi>
+                    </mrow>
+                  </msub>
+                  <mo>,</mo>
+                  <mi>D</mi>
+                  <mo stretchy="false">)</mo>
+                  <mo>+</mo>
+                  <msub>
+                    <mi>k</mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mn>1</mn>
+                    </mrow>
+                  </msub>
+                  <mo>&#x22C5;<!-- ⋅ --></mo>
+                  <mrow>
+                    <mo>(</mo>
+                    <mrow>
+                      <mn>1</mn>
+                      <mo>&#x2212;<!-- − --></mo>
+                      <mi>b</mi>
+                      <mo>+</mo>
+                      <mi>b</mi>
+                      <mo>&#x22C5;<!-- ⋅ --></mo>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mfrac>
+                          <mrow>
+                            <mrow class="MJX-TeXAtom-ORD">
+                              <mo stretchy="false">|</mo>
+                            </mrow>
+                            <mi>D</mi>
+                            <mrow class="MJX-TeXAtom-ORD">
+                              <mo stretchy="false">|</mo>
+                            </mrow>
+                          </mrow>
+                          <mtext>avgdl</mtext>
+                        </mfrac>
+                      </mrow>
+                    </mrow>
+                    <mo>)</mo>
+                  </mrow>
+                </mrow>
+              </mfrac>
+            </mrow>
+            <mo>+</mo>
+            <mi>&#x03B4;<!-- δ --></mi>
+          </mrow>
+          <mo>]</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\text{score}}(D,Q)=\sum _{i=1}^{n}{\text{IDF}}(q_{i})\cdot \left[{\frac {f(q_{i},D)\cdot (k_{1}+1)}{f(q_{i},D)+k_{1}\cdot \left(1-b+b\cdot {\frac {|D|}{\text{avgdl}}}\right)}}+\delta \right]}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8dcf99b661d7e7e5aa53091d1348cc643384383c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -4.505ex; width:68.466ex; height:10.176ex;" alt="{\displaystyle {\text{score}}(D,Q)=\sum _{i=1}^{n}{\text{IDF}}(q_{i})\cdot \left[{\frac {f(q_{i},D)\cdot (k_{1}+1)}{f(q_{i},D)+k_{1}\cdot \left(1-b+b\cdot {\frac {|D|}{\text{avgdl}}}\right)}}+\delta \right]}"/></span></dd></dl>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Okapi_BM25&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze. <i>An Introduction to Information Retrieval</i>, Cambridge University Press, 2009, p. 233.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://xapian.org/docs/bm25.html">http://xapian.org/docs/bm25.html</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Hugo Zaragoza, Nick Craswell, Michael Taylor, Suchi Saria, and Stephen Robertson. <a rel="nofollow" class="external text" href="http://trec.nist.gov/pubs/trec13/papers/microsoft-cambridge.web.hard.pdf"><i>Microsoft Cambridge at TREC-13: Web and HARD tracks.</i></a> In Proceedings of TREC-2004.</span>
+</li>
+<li id="cite_note-robertson2009-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-robertson2009_4-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Stephen Robertson &amp; Hugo Zaragoza (2009). <a rel="nofollow" class="external text" href="http://dl.acm.org/citation.cfm?id=1704810">"The Probabilistic Relevance Framework: BM25 and Beyond"</a>. <b>3</b> (4). Found. Trends Inf. Retr.: 333–389. <a href="/wiki/CiteSeerX" title="CiteSeerX">CiteSeerX</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.156.5282">10.1.1.156.5282</a></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1561%2F1500000019">10.1561/1500000019</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Probabilistic+Relevance+Framework%3A+BM25+and+Beyond&amp;rft.volume=3&amp;rft.issue=4&amp;rft.pages=333-389&amp;rft.date=2009&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.156.5282&amp;rft_id=info%3Adoi%2F10.1561%2F1500000019&amp;rft.au=Stephen+Robertson&amp;rft.au=Hugo+Zaragoza&amp;rft_id=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D1704810&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOkapi+BM25" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Yuanhua Lv and ChengXiang Zhai. <a rel="nofollow" class="external text" href="http://sifaka.cs.uiuc.edu/~ylv2/pub/cikm11-lowerbound.pdf"><i>Lower-bounding term frequency normalization.</i></a> In Proceedings of CIKM'2011, pages 7-16.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="General_references">General references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Okapi_BM25&amp;action=edit&amp;section=5" title="Edit section: General references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation conference">Stephen E. Robertson; Steve Walker; Susan Jones; Micheline Hancock-Beaulieu &amp; Mike Gatford (November 1994). <a rel="nofollow" class="external text" href="http://trec.nist.gov/pubs/trec3/papers/city.ps.gz"><i>Okapi at TREC-3</i></a>. <a rel="nofollow" class="external text" href="http://trec.nist.gov/pubs/trec3/t3_proceedings.html">Proceedings of the Third Text REtrieval Conference (TREC 1994)</a>. Gaithersburg, USA.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.btitle=Okapi+at+TREC-3&amp;rft.place=Gaithersburg%2C+USA&amp;rft.date=1994-11&amp;rft.au=Stephen+E.+Robertson&amp;rft.au=Steve+Walker&amp;rft.au=Susan+Jones&amp;rft.au=Micheline+Hancock-Beaulieu&amp;rft.au=Mike+Gatford&amp;rft_id=http%3A%2F%2Ftrec.nist.gov%2Fpubs%2Ftrec3%2Fpapers%2Fcity.ps.gz&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOkapi+BM25" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite class="citation conference">Stephen E. Robertson; Steve Walker &amp; Micheline Hancock-Beaulieu (November 1998). <a rel="nofollow" class="external text" href="http://trec.nist.gov/pubs/trec7/papers/okapi_proc.pdf.gz"><i>Okapi at TREC-7</i></a>. <a rel="nofollow" class="external text" href="http://trec.nist.gov/pubs/trec7/t7_proceedings.html">Proceedings of the Seventh Text REtrieval Conference</a>. Gaithersburg, USA.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.btitle=Okapi+at+TREC-7&amp;rft.place=Gaithersburg%2C+USA&amp;rft.date=1998-11&amp;rft.au=Stephen+E.+Robertson&amp;rft.au=Steve+Walker&amp;rft.au=Micheline+Hancock-Beaulieu&amp;rft_id=http%3A%2F%2Ftrec.nist.gov%2Fpubs%2Ftrec7%2Fpapers%2Fokapi_proc.pdf.gz&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOkapi+BM25" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite class="citation journal"><a href="/wiki/Karen_Sp%C3%A4rck_Jones" title="Karen Spärck Jones">Spärck Jones, K.</a>; Walker, S.; <a href="/wiki/Stephen_Robertson_(computer_scientist)" title="Stephen Robertson (computer scientist)">Robertson, S. E.</a> (2000). "A probabilistic model of information retrieval: Development and comparative experiments: Part 1". <i>Information Processing &amp; Management</i>. <b>36</b> (6): 779–808. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2FS0306-4573%2800%2900015-7">10.1016/S0306-4573(00)00015-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Information+Processing+%26+Management&amp;rft.atitle=A+probabilistic+model+of+information+retrieval%3A+Development+and+comparative+experiments%3A+Part+1&amp;rft.volume=36&amp;rft.issue=6&amp;rft.pages=779-808&amp;rft.date=2000&amp;rft_id=info%3Adoi%2F10.1016%2FS0306-4573%2800%2900015-7&amp;rft.aulast=Sp%C3%A4rck+Jones&amp;rft.aufirst=K.&amp;rft.au=Walker%2C+S.&amp;rft.au=Robertson%2C+S.+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOkapi+BM25" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite class="citation journal"><a href="/wiki/Karen_Sp%C3%A4rck_Jones" title="Karen Spärck Jones">Spärck Jones, K.</a>; Walker, S.; <a href="/wiki/Stephen_Robertson_(computer_scientist)" title="Stephen Robertson (computer scientist)">Robertson, S. E.</a> (2000). "A probabilistic model of information retrieval: Development and comparative experiments: Part 2". <i>Information Processing &amp; Management</i>. <b>36</b> (6): 809–840. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2FS0306-4573%2800%2900016-9">10.1016/S0306-4573(00)00016-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Information+Processing+%26+Management&amp;rft.atitle=A+probabilistic+model+of+information+retrieval%3A+Development+and+comparative+experiments%3A+Part+2&amp;rft.volume=36&amp;rft.issue=6&amp;rft.pages=809-840&amp;rft.date=2000&amp;rft_id=info%3Adoi%2F10.1016%2FS0306-4573%2800%2900016-9&amp;rft.aulast=Sp%C3%A4rck+Jones&amp;rft.aufirst=K.&amp;rft.au=Walker%2C+S.&amp;rft.au=Robertson%2C+S.+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOkapi+BM25" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite class="citation journal">Stephen Robertson &amp; Hugo Zaragoza (2009). <a rel="nofollow" class="external text" href="http://dl.acm.org/citation.cfm?id=1704810">"The Probabilistic Relevance Framework: BM25 and Beyond"</a>. <b>3</b> (4). Found. Trends Inf. Retr.: 333–389. <a href="/wiki/CiteSeerX" title="CiteSeerX">CiteSeerX</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.156.5282">10.1.1.156.5282</a></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1561%2F1500000019">10.1561/1500000019</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+Probabilistic+Relevance+Framework%3A+BM25+and+Beyond&amp;rft.volume=3&amp;rft.issue=4&amp;rft.pages=333-389&amp;rft.date=2009&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.156.5282&amp;rft_id=info%3Adoi%2F10.1561%2F1500000019&amp;rft.au=Stephen+Robertson&amp;rft.au=Hugo+Zaragoza&amp;rft_id=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D1704810&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOkapi+BM25" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Okapi_BM25&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book"><a href="/wiki/Stephen_Robertson_(computer_scientist)" title="Stephen Robertson (computer scientist)">Robertson</a>, Stephen; Zaragoza, Hugo (2009). <a rel="nofollow" class="external text" href="http://staff.city.ac.uk/~sb317/papers/foundations_bm25_review.pdf"><i>The Probabilistic Relevance Framework: BM25 and Beyond</i></a> <span class="cs1-format">(PDF)</span>. NOW Publishers, Inc. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-60198-308-4" title="Special:BookSources/978-1-60198-308-4">978-1-60198-308-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Probabilistic+Relevance+Framework%3A+BM25+and+Beyond&amp;rft.pub=NOW+Publishers%2C+Inc.&amp;rft.date=2009&amp;rft.isbn=978-1-60198-308-4&amp;rft.aulast=Robertson&amp;rft.aufirst=Stephen&amp;rft.au=Zaragoza%2C+Hugo&amp;rft_id=http%3A%2F%2Fstaff.city.ac.uk%2F~sb317%2Fpapers%2Ffoundations_bm25_review.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOkapi+BM25" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li></ul>
+
+<!-- 
+NewPP limit report
+Parsed by mw2170
+Cached time: 20180929141347
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.224 seconds
+Real time usage: 0.338 seconds
+Preprocessor visited node count: 771/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 16111/2097152 bytes
+Template argument size: 575/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 15286/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.119/10.000 seconds
+Lua memory usage: 2.96 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  226.813      1 -total
+ 53.74%  121.894      4 Template:Cite_journal
+ 52.85%  119.869      1 Template:Reflist
+ 24.85%   56.362      1 Template:Citation_needed
+ 17.29%   39.206      1 Template:Fix
+ 11.15%   25.280      2 Template:Category_handler
+  4.79%   10.854      2 Template:Cite_conference
+  4.62%   10.484      1 Template:Delink
+  3.91%    8.868      1 Template:Main_other
+  2.62%    5.932      1 Template:Cite_book
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:9511414-0!canonical!math=5 and timestamp 20180929141347 and revision id 859095986
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Okapi_BM25&amp;oldid=859095986">https://en.wikipedia.org/w/index.php?title=Okapi_BM25&amp;oldid=859095986</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ranking_functions" title="Category:Ranking functions">Ranking functions</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2017" title="Category:Articles with unsourced statements from October 2017">Articles with unsourced statements from October 2017</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Okapi+BM25" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Okapi+BM25" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Okapi_BM25" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Okapi_BM25" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Okapi_BM25">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Okapi_BM25&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Okapi_BM25&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Okapi_BM25" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Okapi_BM25" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Okapi_BM25&amp;oldid=859095986" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Okapi_BM25&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2068750" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Okapi_BM25&amp;id=859095986" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Okapi+BM25">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Okapi+BM25&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Okapi_BM25&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Okapi_BM25" title="Okapi BM25 – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Okapi_BM25" title="Okapi BM25 – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Okapi_BM25" title="Okapi BM25 – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Okapi_BM25" title="Okapi BM25 – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2068750#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 11 September 2018, at 17:49<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Okapi_BM25&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.224","walltime":"0.338","ppvisitednodes":{"value":771,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":16111,"limit":2097152},"templateargumentsize":{"value":575,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15286,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  226.813      1 -total"," 53.74%  121.894      4 Template:Cite_journal"," 52.85%  119.869      1 Template:Reflist"," 24.85%   56.362      1 Template:Citation_needed"," 17.29%   39.206      1 Template:Fix"," 11.15%   25.280      2 Template:Category_handler","  4.79%   10.854      2 Template:Cite_conference","  4.62%   10.484      1 Template:Delink","  3.91%    8.868      1 Template:Main_other","  2.62%    5.932      1 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.119","limit":"10.000"},"limitreport-memusage":{"value":3099472,"limit":52428800}},"cachereport":{"origin":"mw2170","timestamp":"20180929141347","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw2226"});});</script>
+	</body>
+</html>

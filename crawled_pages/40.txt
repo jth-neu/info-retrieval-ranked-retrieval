@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Qwant - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Qwant","wgTitle":"Qwant","wgCurRevisionId":859532212,"wgRevisionId":859532212,"wgArticleId":40288444,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 French-language sources (fr)","Articles with short description","Use dmy dates from September 2016","Pages using deprecated image syntax","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from February 2018","Articles with French-language external links","Internet search engines","French websites","Companies based in Paris","Multilingual websites"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Qwant","wgRelevantArticleId":40288444,"wgRequestId":"W6@Q6QrAADwAAJgYx4cAAAAS","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q14657870","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Qwant_new_logo_2018.svg/1200px-Qwant_new_logo_2018.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Qwant"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Qwant&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Qwant&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Qwant"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Qwant rootpage-Qwant skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Qwant</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Search engine</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">Qwant</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center">
+<a href="/wiki/File:Qwant_new_logo_2018.svg" class="image"><img alt="Qwant logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Qwant_new_logo_2018.svg/220px-Qwant_new_logo_2018.svg.png" width="220" height="215" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Qwant_new_logo_2018.svg/330px-Qwant_new_logo_2018.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Qwant_new_logo_2018.svg/440px-Qwant_new_logo_2018.svg.png 2x" data-file-width="512" data-file-height="500" /></a></td></tr><tr><th scope="row" style="padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height:1.35em;">
+<a href="/wiki/Soci%C3%A9t%C3%A9_par_actions_simplifi%C3%A9e" title="Société par actions simplifiée">Société par actions simplifiée</a></td></tr><tr><th scope="row" style="padding-right:0.5em;">Industry</th><td class="category" style="line-height:1.35em;">
+<a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">Web search engine</a></td></tr><tr><th scope="row" style="padding-right:0.5em;">Founded</th><td style="line-height:1.35em;">
+<a href="/wiki/Paris" title="Paris">Paris</a>, <a href="/wiki/France" title="France">France</a> (February&#160;16,&#160;2013<span style="display:none">&#160;(<span class="bday dtstart published updated">2013-02-16</span>)</span>)</td></tr><tr><th scope="row" style="padding-right:0.5em;">Founder</th><td class="agent" style="line-height:1.35em;">
+Jean-Manuel Rozan<br />Éric Leandri<br />Patrick Constant</td></tr><tr><th scope="row" style="padding-right:0.5em;">Headquarters</th><td class="adr" style="line-height:1.35em;">
+<span class="locality"><a href="/wiki/Paris" title="Paris">Paris</a>, <a href="/wiki/Nice" title="Nice">Nice</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> (R&amp;D)</span>, <span class="country-name"><a href="/wiki/France" title="France">France</a></span></td></tr><tr><th scope="row" style="padding-right:0.5em;">Website</th><td style="line-height:1.35em;">
+<span class="url"><a rel="nofollow" class="external text" href="https://www.qwant.com">www<wbr />.qwant<wbr />.com</a></span></td></tr></tbody></table>
+<p><b>Qwant</b> is a <a href="/wiki/France" title="France">French</a> company that was founded by security specialist <a href="/w/index.php?title=%C3%89ric_Leandri&amp;action=edit&amp;redlink=1" class="new" title="Éric Leandri (page does not exist)">Éric Leandri</a>, investor <a href="/w/index.php?title=Jean_Manuel_Rozan&amp;action=edit&amp;redlink=1" class="new" title="Jean Manuel Rozan (page does not exist)">Jean Manuel Rozan</a> and search-engine expert <a href="/w/index.php?title=Patrick_Constant&amp;action=edit&amp;redlink=1" class="new" title="Patrick Constant (page does not exist)">Patrick Constant</a> in 2011. It launched its eponymous <a href="/wiki/Web_search_engine" title="Web search engine">web search engine</a> in July 2013. It claims not to employ <a href="/wiki/Website_visitor_tracking" title="Website visitor tracking">user tracking</a>, and it doesn't personalize search results in order to avoid trapping users in a <a href="/wiki/Filter_bubble" title="Filter bubble">filter bubble</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>The website processes well over 10 million search requests per day and over 50 million individual users a month worldwide<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>, spread over its three main entry points: the normal homepage, a 'lite' version and a 'Qwant Junior' portal for children that filters results.<sup id="cite_ref-:0_4-0" class="reference"><a href="#cite_note-:0-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>The company claims it makes money through commissions it receives when users visit websites like eBay and Tripadvisor from its search results.<sup id="cite_ref-:0_4-1" class="reference"><a href="#cite_note-:0-4">&#91;4&#93;</a></sup>
+</p><p>In March 2017, press articles suggest that Qwant search results are mainly based on Bing search results, except in France and Germany.<sup id="cite_ref-auto_6-0" class="reference"><a href="#cite_note-auto-6">&#91;6&#93;</a></sup> Qwant also confirmed the use of <a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a> advertising network.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Search_engine"><span class="tocnumber">1</span> <span class="toctext">Search engine</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Company"><span class="tocnumber">2</span> <span class="toctext">Company</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Privacy"><span class="tocnumber">3</span> <span class="toctext">Privacy</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Criticism"><span class="tocnumber">4</span> <span class="toctext">Criticism</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Reception"><span class="tocnumber">5</span> <span class="toctext">Reception</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Search_engine">Search engine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Qwant&amp;action=edit&amp;section=1" title="Edit section: Search engine">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The search engine entered public beta in 16 February 2013, after two years of research and development.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> The service initially launched on 16 February 2013, as a <a href="/wiki/Software_release_life_cycle#Beta" title="Software release life cycle">beta</a> version, with a stable version released on 4 July 2013.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> A new version was made available in April 2015.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>Qwant offers several ways to filter results to areas of interest:<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<ul><li>Web</li>
+<li>News</li>
+<li>Social</li>
+<li>Images</li>
+<li>Videos</li>
+<li>Music (Beta)</li></ul>
+<p>In October 2015, Qwant released Qwant Lite, a lighter and faster version of Qwant.com, aimed at being <a href="/wiki/User-friendly" class="mw-redirect" title="User-friendly">user-friendly</a> for those with older browsers and others that do not have powerful or resource-rich computers. Integrated features like video playback and JavaScript were removed and the on-site content was streamlined.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> The design of this version mimics that of Google's minimalist interface.
+</p><p>The child-friendly version was developed in cooperation with the French <a href="/wiki/Ministry_of_National_Education_(France)" title="Ministry of National Education (France)">ministry of Education</a>.
+</p><p>According to its founder, Qwant does not want to compete with <a href="/wiki/Google_Search" title="Google Search">Google</a> but prefers "to show something different". Users can create a free account, which allows posting on the 'boards', a feature with functions similar to those of a <a href="/wiki/Social_bookmarking" title="Social bookmarking">social bookmarking</a> platform.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p><p>Earlier stand-out features, such as a knowledge graph (called the Qnowledge Graph) based on Wikipedia, seem to have been discontinued.
+</p><p>In July 2016, Mozilla signed a deal with Qwant to allow them to distribute an officially sanctioned version of the <a href="/wiki/Firefox" title="Firefox">Firefox</a> web browser with Qwant as default search engine.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> Currently, Qwant has a web browser based on Firefox on the <a href="/wiki/App_Store_(iOS)" title="App Store (iOS)">Apple App Store</a> available for <a href="/wiki/IOS" title="IOS">iOS</a>.
+</p><p>With the first release on 21 July 2017, <a href="/wiki/Brave_(web_browser)" title="Brave (web browser)">Brave</a> web browser features Qwant as one of its default search engines.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Company">Company</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Qwant&amp;action=edit&amp;section=2" title="Edit section: Company">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The company was cofounded in 2011 by <a href="/w/index.php?title=Jean_Manuel_Rozan&amp;action=edit&amp;redlink=1" class="new" title="Jean Manuel Rozan (page does not exist)">Jean-Manuel Rozan</a>, a financier, and Éric Leandri, a specialist in <a href="/wiki/Computer_security" title="Computer security">computer security</a>. It employs between 25 and 50 people, spread over three French cities, including Paris and <a href="/wiki/Ajaccio" title="Ajaccio">Ajaccio</a>, Corsica.
+</p><p>From 2011 to 2014 Qwant acquired a total funding of <a href="/wiki/%E2%82%AC" class="mw-redirect" title="€">€</a>3.5 million, part of it a loan. It was aided in its operation by special tax breaks from the French Government. In 2014 it received additional funding, including a €6 million investment from <a href="/wiki/Axel_Springer_SE" title="Axel Springer SE">Axel Springer</a> Digital Ventures in return for a 20% stake in the company.<sup id="cite_ref-Scott_15-0" class="reference"><a href="#cite_note-Scott-15">&#91;15&#93;</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> In 2016 the <a href="/wiki/European_Investment_Bank" title="European Investment Bank">European Investment Bank</a> invested €25 million.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Privacy">Privacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Qwant&amp;action=edit&amp;section=3" title="Edit section: Privacy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>By virtue of being based in Europe, users gain some protection due to stringent European privacy laws. Qwant offers protections based on the new <a href="/wiki/General_Data_Protection_Regulation" title="General Data Protection Regulation">General Data Protection Regulation</a>, which took effect in May 2018.
+</p><p>Qwant seems<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag possibly uses too-vague attribution or weasel words. (February 2018)">who?</span></a></i>&#93;</sup> to take numerous technical precautions to limit third parties from gaining insight into users search queries. For example, image search results are made by routing images through Qwant servers, so that the websites serving the images are not informed of the user's identity.
+</p><p>
+The website also states, in its privacy statement, that it resists French government surveillance:<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup></p><blockquote><p>"Regarding the French law on intelligence passed on 24 June 2015, we found that the recommendations of the CNIL had gained very little currency: as a search engine, we emphatically do not endorse the measures adopted, especially as they are particularly intrusive from the point of view of individual privacy. Accordingly, we will make every effort to ensure the protection of our users' personal data".</p></blockquote>
+<h2><span class="mw-headline" id="Criticism">Criticism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Qwant&amp;action=edit&amp;section=4" title="Edit section: Criticism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Shortly after the release, some observers expressed doubts about the nature of Qwant. According to them, Qwant may not really be a <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engine</a> but simply a website aggregating results of other search engines like <a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a> and <a href="/wiki/Amazon.com" class="mw-redirect" title="Amazon.com">Amazon</a>, and that the "Qnowledge Graph" is based on <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> The company has rejected the reports and asserts that they do have their own <a href="/wiki/Web_crawler" title="Web crawler">Web crawler</a> and used other search engines in their primary developmental phase only for semantic indexing related purposes.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p><p>
+While respecting privacy, the terms of service state that these may be changed at any time:<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> </p><blockquote><p>"Qwant reserves the right to unilaterally modify these terms of service to adapt to the future developments of the site and/or its operation".</p></blockquote><p>The early versions of Qwant copied many design cues from Google.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p><p>In March 2017, news articles reported Qwant displays mainly search results from <a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a>, except in France and Germany, despite several commitments to be exclusively "made in France".<sup id="cite_ref-auto_6-1" class="reference"><a href="#cite_note-auto-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Qwant&amp;action=edit&amp;section=5" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Several French newspapers and news sites talked about Qwant just after its beta launch in February 2013 and its final launch in July 2013.
+</p>
+<ul><li>"Qwant.com - The new social search engine", <a rel="nofollow" class="external text" href="http://en.kioskea.net/faq/29584-qwant-com-the-new-social-search-engine">en.kioskea.net</a></li>
+<li>"Qwant, le moteur de recherche à la française", <a rel="nofollow" class="external text" href="http://www.franceinfo.fr/high-tech/nouveau-monde/qwant-le-moteur-de-recherche-a-la-francaise-892907-2013-02-15/">france_info.fr <span class="languageicon">(in French)</span></a></li>
+<li>"Qwant&#160;: un moteur de recherche français pour concurrencer Google", <a rel="nofollow" class="external text" href="http://www.pcinpact.com/news/77543-qwant-moteur-recherche-francais-pour-contrer-google.htm/">pcinpact.com <span class="languageicon">(in French)</span></a></li>
+<li>"Qwant&#160;: moteur de recherche français à la sauce sociale", <a rel="nofollow" class="external text" href="http://www.zdnet.fr/actualites/qwant-moteur-de-recherche-francais-a-la-sauce-sociale-39787231.htm/">zdnet.fr <span class="languageicon">(in French)</span></a></li>
+<li>"Qwant&#160;: moteur de recherche made in France", <a rel="nofollow" class="external text" href="http://www.generation-nt.com/qwant-moteur-recherche-google-reseaux-sociaux-actualite-1693842.html/">génération-nt.com <span class="languageicon">(in French)</span></a></li>
+<li>"Qwant, le nouveau moteur de recherche français à l’assaut de Google, Bing et Yahoo&#160;?!", <a rel="nofollow" class="external text" href="http://www.lejournaldunumerique.com/02/2013/qwant-nouveau-moteur-de-recherche-francais-lassaut-de-google-bing-et-yahoo/">lejournaldunumerique.com <span class="languageicon">(in French)</span></a></li>
+<li>"Qwant.com, challenger de Google", <a rel="nofollow" class="external text" href="http://www.lenouveleconomiste.fr/qwant-com-challenger-de-google-17539/#.USIHeGeCafQ/">le_nouvel_economiste.fr <span class="languageicon">(in French)</span></a></li>
+<li>"Qwant, le moteur de recherche français, est lancé", <a rel="nofollow" class="external text" href="http://www.futura-sciences.com/fr/news/t/internet/d/qwant-le-moteur-de-recherche-francais-est-lance_44664/">futura-sciences.com <span class="languageicon">(in French)</span></a></li>
+<li>"Qwant, un nouveau moteur de recherche français qui parcourt les réseaux sociaux", <a rel="nofollow" class="external text" href="http://lexpansion.lexpress.fr/high-tech/qwant-un-nouveau-moteur-de-recherche-francais-qui-parcourt-les-reseaux-sociaux_372575.html//">l'expansion.l'express.fr <span class="languageicon">(in French)</span></a></li></ul>
+<p>The New York Times drew a comparison to <a href="/wiki/Quaero" title="Quaero">Quaero</a>, an earlier attempt to create a European search engine to rival Google, which shut down in 2013 after investments of over €250 million.<sup id="cite_ref-Scott_15-1" class="reference"><a href="#cite_note-Scott-15">&#91;15&#93;</a></sup>
+</p><p>The service has received public support from French investment banker and current President, <a href="/wiki/Emmanuel_Macron" title="Emmanuel Macron">Emmanuel Macron</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Qwant&amp;action=edit&amp;section=6" title="Edit section: Notes and references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://tribuca.net/numerique_24775316-le-moteur-de-recherche-qwant-recrute-a-nice">"Le moteur de recherche Qwant recrute à Nice"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Le+moteur+de+recherche+Qwant+recrute+%C3%A0+Nice&amp;rft_id=https%3A%2F%2Ftribuca.net%2Fnumerique_24775316-le-moteur-de-recherche-qwant-recrute-a-nice&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.qwant.com/privacy">"Data Privacy Policy - About Qwant"</a>. <i>About Qwant</i><span class="reference-accessdate">. Retrieved <span class="nowrap">26 October</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=About+Qwant&amp;rft.atitle=Data+Privacy+Policy+-+About+Qwant&amp;rft_id=https%3A%2F%2Fwww.qwant.com%2Fprivacy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.similarweb.com/fr/website/qwant.com">"Qwant.com Analytics - Market Share Stats &amp; Traffic Ranking"</a>. <i>www.similarweb.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.similarweb.com&amp;rft.atitle=Qwant.com+Analytics+-+Market+Share+Stats+%26+Traffic+Ranking&amp;rft_id=https%3A%2F%2Fwww.similarweb.com%2Ffr%2Fwebsite%2Fqwant.com&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-:0-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.nrc.nl/nieuws/2014/06/13/google-schaadt-misschien-je-privacy-maar-overstappen-is-ook-weer-zon-werk-a1501371">"Google schendt misschien je privacy, maar overstappen is ook weer zo'n werk"</a>. <i>nrc.nl</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=nrc.nl&amp;rft.atitle=Google+schendt+misschien+je+privacy%2C+maar+overstappen+is+ook+weer+zo%E2%80%99n+werk&amp;rft_id=https%3A%2F%2Fwww.nrc.nl%2Fnieuws%2F2014%2F06%2F13%2Fgoogle-schaadt-misschien-je-privacy-maar-overstappen-is-ook-weer-zon-werk-a1501371&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://lite.qwant.com">"Qwant Lite"</a>. <i>Qwant Lite</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Qwant+Lite&amp;rft.atitle=Qwant+Lite&amp;rft_id=https%3A%2F%2Flite.qwant.com&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-auto-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-auto_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-auto_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Marc Rees (2017-03-13). <a rel="nofollow" class="external text" href="https://www.nextinpact.com/news/103652-les-liens-moteur-qwant-avec-microsoft-bing.htm">"Les liens du moteur Qwant avec Microsoft Bing"</a> (in French)<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Les+liens+du+moteur+Qwant+avec+Microsoft+Bing&amp;rft.date=2017-03-13&amp;rft.au=Marc+Rees&amp;rft_id=https%3A%2F%2Fwww.nextinpact.com%2Fnews%2F103652-les-liens-moteur-qwant-avec-microsoft-bing.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.qwant.com/about">"About"</a>. <i>Qwant</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 19,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Qwant&amp;rft.atitle=About&amp;rft_id=http%3A%2F%2Fwww.qwant.com%2Fabout&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.atlantico.fr/pepites/qwant-nouveau-moteur-recherche-francais-est-officiellement-lance-778409.html">"Qwant&#160;: le nouveau moteur de recherche français est officiellement lancé"</a>. <i>Atlantico</i> (in French)<span class="reference-accessdate">. Retrieved <span class="nowrap">August 19,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Atlantico&amp;rft.atitle=Qwant+%3A+le+nouveau+moteur+de+recherche+fran%C3%A7ais+est+officiellement+lanc%C3%A9&amp;rft_id=http%3A%2F%2Fwww.atlantico.fr%2Fpepites%2Fqwant-nouveau-moteur-recherche-francais-est-officiellement-lance-778409.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://blog.qwant.com/en/welcome-to-the-new-qwant-2/">"Welcome to the new Qwant! – Blog Qwant"</a>. <i>Blog Qwant</i>. 17 April 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">26 October</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Blog+Qwant&amp;rft.atitle=Welcome+to+the+new+Qwant%21+%E2%80%93+Blog+Qwant&amp;rft.date=2015-04-17&amp;rft_id=https%3A%2F%2Fblog.qwant.com%2Fen%2Fwelcome-to-the-new-qwant-2%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.atlantico.fr/atlantico-light/qwant-nouveau-moteur-recherche-made-france-fait-bons-debuts-641312.html">"Qwant&#160;: le nouveau moteur de recherche made in France fait de bons débuts"</a>. <i>Atlantico</i> (in French)<span class="reference-accessdate">. Retrieved <span class="nowrap">August 19,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Atlantico&amp;rft.atitle=Qwant+%3A+le+nouveau+moteur+de+recherche+made+in+France+fait+de+bons+d%C3%A9buts&amp;rft_id=http%3A%2F%2Fwww.atlantico.fr%2Fatlantico-light%2Fqwant-nouveau-moteur-recherche-made-france-fait-bons-debuts-641312.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://archives.nicematin.com/derniere-minute/qwant-lite-est-specifiquement-adapte-aux-utilisateurs-danciennes-versions-de-navigat.2358540.html">"<span class="cs1-kern-left">"</span>Qwant Lite est spécifiquement adapté aux utilisateurs d'anciennes versions de navigateurs<span class="cs1-kern-right">"</span>"</a>. <i>archives.nicematin.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=archives.nicematin.com&amp;rft.atitle=%22Qwant+Lite+est+sp%C3%A9cifiquement+adapt%C3%A9+aux+utilisateurs+d%27anciennes+versions+de+navigateurs%22&amp;rft_id=http%3A%2F%2Farchives.nicematin.com%2Fderniere-minute%2Fqwant-lite-est-specifiquement-adapte-aux-utilisateurs-danciennes-versions-de-navigat.2358540.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://boards.qwant.com/">"Qwant Boards"</a>. <i>Qwant Boards</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Qwant+Boards&amp;rft.atitle=Qwant+Boards&amp;rft_id=https%3A%2F%2Fboards.qwant.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.clubic.com/navigateur-internet/mozilla-firefox/actualite-811228-mozilla-firefox-moteur-qwant-defaut.html">"Mozilla&#160;: une version de Firefox avec le moteur Qwant par défaut"</a>. 5 July 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mozilla+%3A+une+version+de+Firefox+avec+le+moteur+Qwant+par+d%C3%A9faut&amp;rft.date=2016-07-05&amp;rft_id=http%3A%2F%2Fwww.clubic.com%2Fnavigateur-internet%2Fmozilla-firefox%2Factualite-811228-mozilla-firefox-moteur-qwant-defaut.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://github.com/brave/browser-laptop">"Brave Browser Github page"</a>. <i>Github</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 August</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Github&amp;rft.atitle=Brave+Browser+Github+page&amp;rft_id=https%3A%2F%2Fgithub.com%2Fbrave%2Fbrowser-laptop&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Scott-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Scott_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Scott_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Scott, Mark. <a rel="nofollow" class="external text" href="https://bits.blogs.nytimes.com/2014/12/31/qwant-wants-to-be-alternative-to-google/?_r=0">"Qwant Wants to Be Alternative to Google"</a>. <i>Bits Blog</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bits+Blog&amp;rft.atitle=Qwant+Wants+to+Be+Alternative+to+Google&amp;rft.aulast=Scott&amp;rft.aufirst=Mark&amp;rft_id=https%3A%2F%2Fbits.blogs.nytimes.com%2F2014%2F12%2F31%2Fqwant-wants-to-be-alternative-to-google%2F%3F_r%3D0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">SE, Axel Springer. <a rel="nofollow" class="external text" href="http://www.axelspringer.de/en/presse/Axel-Springer-Digital-Ventures-is-participating-in-French-startup-Qwant.com_21308881.html">"Axel Springer Digital Ventures is participating in French startup Qwant.com"</a>. <i>www.axelspringer.de</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.axelspringer.de&amp;rft.atitle=Axel+Springer+Digital+Ventures+is+participating+in+French+startup+Qwant.com&amp;rft.aulast=SE&amp;rft.aufirst=Axel+Springer&amp;rft_id=http%3A%2F%2Fwww.axelspringer.de%2Fen%2Fpresse%2FAxel-Springer-Digital-Ventures-is-participating-in-French-startup-Qwant.com_21308881.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.eib.org/infocentre/press/releases/all/2015/2015-243-eib-provides-eur-25-million-for-start-up-qwant.htm">"France: EIB provides EUR 25 million for start-up Qwant: Innovative financing for a European search engine with strong growth potential"</a>. <i>www.eib.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.eib.org&amp;rft.atitle=France%3A+EIB+provides+EUR+25+million+for+start-up+Qwant%3A+Innovative+financing+for+a+European+search+engine+with+strong+growth+potential&amp;rft_id=http%3A%2F%2Fwww.eib.org%2Finfocentre%2Fpress%2Freleases%2Fall%2F2015%2F2015-243-eib-provides-eur-25-million-for-start-up-qwant.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.qwant.com/privacy">"Qwant"</a>. <i>Qwant</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Qwant&amp;rft.atitle=Qwant&amp;rft_id=https%3A%2F%2Fwww.qwant.com%2Fprivacy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.abondance.com/actualites/20130217-12274-qwant-moteur-de-recherche-ou-simple-agregateur-dinfos.html">"Qwant&#160;: moteur de recherche ou simple agrégateur d'infos&#160;?"</a>. <i>Abondance</i> (in French)<span class="reference-accessdate">. Retrieved <span class="nowrap">August 19,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Abondance&amp;rft.atitle=Qwant+%3A+moteur+de+recherche+ou+simple+agr%C3%A9gateur+d%27infos+%3F&amp;rft_id=http%3A%2F%2Fwww.abondance.com%2Factualites%2F20130217-12274-qwant-moteur-de-recherche-ou-simple-agregateur-dinfos.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://blog.qwant.com/qwant/?lang=en">"Qwant&#160;?"</a>. <i>Qwant</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 19,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Qwant&amp;rft.atitle=Qwant+%3F&amp;rft_id=http%3A%2F%2Fblog.qwant.com%2Fqwant%2F%3Flang%3Den&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://lite.qwant.com/terms-of-service/">"Terms of Service | Qwant lite"</a>. <i>Qwant Lite</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Qwant+Lite&amp;rft.atitle=Terms+of+Service+%7C+Qwant+lite&amp;rft_id=https%3A%2F%2Flite.qwant.com%2Fterms-of-service%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.lejournaldunumerique.com/02/2013/qwant-nouveau-moteur-de-recherche-francais-lassaut-de-google-bing-yahoo/">"Qwant, le nouveau moteur de recherche français à l'assaut de Google, Bing et Yahoo&#160;?! - Le Journal du Numérique"</a>. <i>Le Journal du Numérique</i> (in French). 2013-02-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Le+Journal+du+Num%C3%A9rique&amp;rft.atitle=Qwant%2C+le+nouveau+moteur+de+recherche+fran%C3%A7ais+%C3%A0+l%27assaut+de+Google%2C+Bing+et+Yahoo+%3F%21+-+Le+Journal+du+Num%C3%A9rique&amp;rft.date=2013-02-15&amp;rft_id=http%3A%2F%2Fwww.lejournaldunumerique.com%2F02%2F2013%2Fqwant-nouveau-moteur-de-recherche-francais-lassaut-de-google-bing-yahoo%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://tempsreel.nouvelobs.com/rue89/rue89-tech/20150414.RUE8667/macron-fait-la-pub-du-google-francais-vous-ne-connaissiez-pas.html">"Macron fait la pub du "Google français<span class="cs1-kern-right">"</span>"</a>. <i>L'Obs</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 11,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=L%27Obs&amp;rft.atitle=Macron+fait+la+pub+du+%22Google+fran%C3%A7ais%22&amp;rft_id=https%3A%2F%2Ftempsreel.nouvelobs.com%2Frue89%2Frue89-tech%2F20150414.RUE8667%2Fmacron-fait-la-pub-du-google-francais-vous-ne-connaissiez-pas.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AQwant" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Qwant&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Timeline_of_web_search_engines" title="Timeline of web search engines">Timeline of web search engines</a></li>
+<li><a href="/wiki/List_of_search_engines" title="List of search engines">List of search engines</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Qwant&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://www.qwant.com/web">Official website</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Web_search_engines" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Web_search_engines" title="Template:Web search engines"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Web_search_engines" title="Template talk:Web search engines"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_search_engines&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Web_search_engines" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_search_engine" title="Web search engine">Web search engines</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Active</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AOL" title="AOL">AOL</a></li>
+<li><a href="/wiki/Ahmia" title="Ahmia">Ahmia</a></li>
+<li><a href="/wiki/Ask.com" title="Ask.com">Ask.com</a></li>
+<li><a href="/wiki/Baidu" title="Baidu">Baidu</a></li>
+<li><a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a></li>
+<li><a href="/wiki/Blackle" title="Blackle">Blackle</a></li>
+<li><a href="/wiki/Dogpile" title="Dogpile">Dogpile</a></li>
+<li><a href="/wiki/DuckDuckGo" title="DuckDuckGo">DuckDuckGo</a></li>
+<li><a href="/wiki/Ecosia" title="Ecosia">Ecosia</a></li>
+<li><a href="/wiki/Exalead" title="Exalead">Exalead</a></li>
+<li><a href="/wiki/Excite" title="Excite">Excite</a></li>
+<li><a href="/wiki/GenieKnows" title="GenieKnows">GenieKnows</a></li>
+<li><a href="/wiki/Gigablast" title="Gigablast">Gigablast</a></li>
+<li><a href="/wiki/Google_Search" title="Google Search">Google</a></li>
+<li><a href="/wiki/Info.com" title="Info.com">Info.com</a></li>
+<li><a href="/wiki/Ixquick" title="Ixquick">Ixquick</a></li>
+<li><a href="/wiki/Lycos" title="Lycos">Lycos</a></li>
+<li><a href="/wiki/Naver" title="Naver">Naver</a></li>
+<li><a class="mw-selflink selflink">Qwant</a></li>
+<li><a href="/wiki/Parsijoo" title="Parsijoo">Parsijoo</a></li>
+<li><a href="/wiki/Picollator" title="Picollator">Picollator</a></li>
+<li><a href="/wiki/SAPO_(company)" title="SAPO (company)">SAPO</a></li>
+<li><a href="/wiki/Scout_(travel_website)" title="Scout (travel website)">Scout</a></li>
+<li><a href="/wiki/Searx" title="Searx">Searx</a></li>
+<li><a href="/wiki/Seznam.cz" title="Seznam.cz">Seznam.cz</a></li>
+<li><a href="/wiki/Sogou" title="Sogou">Sogou</a></li>
+<li><a href="/wiki/Sputnik_(search_engine)" title="Sputnik (search engine)">Sputnik</a></li>
+<li><a href="/wiki/Ixquick#Startpage.com" title="Ixquick">Startpage</a></li>
+<li><a href="/wiki/WebCrawler" title="WebCrawler">WebCrawler</a></li>
+<li><a href="/wiki/YaCy" title="YaCy">YaCy</a></li>
+<li><a href="/wiki/Yahoo!_Search" title="Yahoo! Search">Yahoo!</a></li>
+<li><a href="/wiki/Yandex_Search" title="Yandex Search">Yandex</a></li>
+<li><a href="/wiki/Yooz" title="Yooz">Yooz</a></li>
+<li><a href="/wiki/Youdao" title="Youdao">Youdao</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Inactive</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/123people" title="123people">123people</a></li>
+<li><a href="/wiki/A9.com" title="A9.com">A9.com</a></li>
+<li><a href="/wiki/Aliweb" title="Aliweb">Aliweb</a></li>
+<li><a href="/wiki/AlltheWeb" title="AlltheWeb">AlltheWeb</a></li>
+<li><a href="/wiki/AltaVista" title="AltaVista">AltaVista</a></li>
+<li><a href="/wiki/Blekko" title="Blekko">Blekko</a></li>
+<li><a href="/wiki/Boogami" title="Boogami">Boogami</a></li>
+<li><a href="/wiki/Cuil" title="Cuil">Cuil</a></li>
+<li><a href="/wiki/Empas" title="Empas">Empas</a></li>
+<li><a href="/wiki/Forestle" title="Forestle">Forestle</a></li>
+<li><a href="/wiki/Go.com" title="Go.com">Go.com</a></li>
+<li><a href="/wiki/Infoseek" title="Infoseek">Infoseek</a></li>
+<li><a href="/wiki/Inktomi" title="Inktomi">Inktomi</a></li>
+<li><a href="/wiki/JumpStation" title="JumpStation">JumpStation</a></li>
+<li><a href="/wiki/LeapFish" title="LeapFish">LeapFish</a></li>
+<li><a href="/wiki/Mugurdy" title="Mugurdy">Mugurdy</a></li>
+<li><a href="/wiki/Northern_Light_Group" title="Northern Light Group">Northern Light</a></li>
+<li><a href="/wiki/Powerset_(company)" title="Powerset (company)">Powerset</a></li>
+<li><a href="/wiki/Scroogle" class="mw-redirect" title="Scroogle">Scroogle</a></li>
+<li><a href="/wiki/SearchMe" title="SearchMe">SearchMe</a></li>
+<li><a href="/wiki/Soso.com" class="mw-redirect" title="Soso.com">Soso.com</a></li>
+<li><a href="/wiki/Teoma" title="Teoma">Teoma</a></li>
+<li><a href="/wiki/Viewzi" title="Viewzi">Viewzi</a></li>
+<li><a href="/wiki/Vivisimo" title="Vivisimo">Vivisimo</a></li>
+<li><a href="/wiki/Volunia" title="Volunia">Volunia</a></li>
+<li><a href="/wiki/W3Catalog" title="W3Catalog">W3Catalog</a></li>
+<li><a href="/wiki/Wikiseek" title="Wikiseek">Wikiseek</a></li>
+<li><a href="/wiki/Yebol" title="Yebol">Yebol</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/List_of_search_engines" title="List of search engines">Complete list</a></li>
+<li><a href="/wiki/Comparison_of_web_search_engines" title="Comparison of web search engines">Comparison</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Crystal_Clear_app_linneighborhood.svg" class="image"><img alt="Crystal Clear app linneighborhood.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/21px-Crystal_Clear_app_linneighborhood.svg.png" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/32px-Crystal_Clear_app_linneighborhood.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/42px-Crystal_Clear_app_linneighborhood.svg.png 2x" data-file-width="407" data-file-height="407" /></a></span><a href="/wiki/Portal:Internet" title="Portal:Internet">Internet portal</a></span></li></ul></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2258
+Cached time: 20180929144405
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.400 seconds
+Real time usage: 0.504 seconds
+Preprocessor visited node count: 1821/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 52006/2097152 bytes
+Template argument size: 1903/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 58685/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.209/10.000 seconds
+Lua memory usage: 5.33 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  443.877      1 -total
+ 41.56%  184.464      1 Template:Reflist
+ 30.87%  137.008     19 Template:Cite_web
+ 19.94%   88.499      1 Template:Infobox_company
+ 15.48%   68.724      1 Template:Infobox
+ 10.36%   46.003      1 Template:Short_description
+  9.94%   44.109      1 Template:Pagetype
+  9.41%   41.762      1 Template:Who
+  8.64%   38.347      1 Template:Fix
+  5.44%   24.131      1 Template:Use_dmy_dates
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:40288444-0!canonical and timestamp 20180929144405 and revision id 859532212
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Qwant&amp;oldid=859532212">https://en.wikipedia.org/w/index.php?title=Qwant&amp;oldid=859532212</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li><li><a href="/wiki/Category:French_websites" title="Category:French websites">French websites</a></li><li><a href="/wiki/Category:Companies_based_in_Paris" title="Category:Companies based in Paris">Companies based in Paris</a></li><li><a href="/wiki/Category:Multilingual_websites" title="Category:Multilingual websites">Multilingual websites</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_September_2016" title="Category:Use dmy dates from September 2016">Use dmy dates from September 2016</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_February_2018" title="Category:Articles with specifically marked weasel-worded phrases from February 2018">Articles with specifically marked weasel-worded phrases from February 2018</a></li><li><a href="/wiki/Category:Articles_with_French-language_external_links" title="Category:Articles with French-language external links">Articles with French-language external links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Qwant" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Qwant" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Qwant" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Qwant" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Qwant">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Qwant&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Qwant&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Qwant" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Qwant" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Qwant&amp;oldid=859532212" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Qwant&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14657870" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Qwant&amp;id=859532212" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Qwant">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Qwant&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Qwant&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Qwant" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Qwant" title="Qwant – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Qwant" title="Qwant – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Qwant" title="Qwant – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Qwant" title="Qwant – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Qwant" title="Qwant – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Qwant" title="Qwant – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Qwant" title="Qwant – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14657870#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 14 September 2018, at 16:48<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Qwant&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.400","walltime":"0.504","ppvisitednodes":{"value":1821,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":52006,"limit":2097152},"templateargumentsize":{"value":1903,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":58685,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  443.877      1 -total"," 41.56%  184.464      1 Template:Reflist"," 30.87%  137.008     19 Template:Cite_web"," 19.94%   88.499      1 Template:Infobox_company"," 15.48%   68.724      1 Template:Infobox"," 10.36%   46.003      1 Template:Short_description","  9.94%   44.109      1 Template:Pagetype","  9.41%   41.762      1 Template:Who","  8.64%   38.347      1 Template:Fix","  5.44%   24.131      1 Template:Use_dmy_dates"]},"scribunto":{"limitreport-timeusage":{"value":"0.209","limit":"10.000"},"limitreport-memusage":{"value":5593820,"limit":52428800}},"cachereport":{"origin":"mw2258","timestamp":"20180929144405","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":73,"wgHostname":"mw2234"});});</script>
+	</body>
+</html>

@@ -1,0 +1,1010 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Iterative method - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Iterative_method","wgTitle":"Iterative method","wgCurRevisionId":850027932,"wgRevisionId":850027932,"wgArticleId":15237,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Iterative methods","Numerical analysis"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Iterative_method","wgRelevantArticleId":15237,"wgRequestId":"W7ATOArAIDkAAAJ0tFwAAABB","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Iterative_algorithm","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgInternalRedirectTargetUrl":"/wiki/Iterative_method","wgWikibaseItemId":"Q2321565","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.view.redirect","ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Iterative_method"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Iterative_method&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Iterative_method&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Iterative_method"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Iterative_method rootpage-Iterative_method skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Iterative method</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Iterative_algorithm&amp;redirect=no" class="mw-redirect" title="Iterative algorithm">Iterative algorithm</a>)</span></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>In <a href="/wiki/Computational_mathematics" title="Computational mathematics">computational mathematics</a>, an <b>iterative method</b> is a <a href="/wiki/Algorithm" title="Algorithm">mathematical procedure</a> that uses an initial guess to generate a sequence of improving approximate solutions for a class of problems, in which the <i>n</i>-th approximation is derived from the previous ones. A specific implementation of an iterative method, including the <a href="/wiki/Algorithm#Termination" title="Algorithm">termination</a> criteria, is an <a href="/wiki/Algorithm" title="Algorithm">algorithm</a> of the iterative method. An iterative method is called <b>convergent</b> if the corresponding sequence converges for given initial approximations. A mathematically rigorous convergence analysis of an iterative method is usually performed; however, <a href="/wiki/Heuristic" title="Heuristic">heuristic</a>-based iterative methods are also common. 
+</p><p>In contrast, <b>direct methods</b> attempt to solve the problem by a finite  sequence of operations. In the absence of <a href="/wiki/Rounding_error" class="mw-redirect" title="Rounding error">rounding errors</a>, direct methods would deliver an exact solution (like solving a linear system of equations <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle A\mathbf {x} =\mathbf {b} }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>A</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">x</mi>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">b</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle A\mathbf {x} =\mathbf {b} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/45d894430af69e29d6dda5aacbf4bb19336226a0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:7.738ex; height:2.176ex;" alt="A\mathbf {x} =\mathbf {b} "/></span> by <a href="/wiki/Gaussian_elimination" title="Gaussian elimination">Gaussian elimination</a>). Iterative methods are often the only choice for <a href="/wiki/Nonlinear_equation" class="mw-redirect" title="Nonlinear equation">nonlinear equations</a>. However, iterative methods are often useful even for linear problems involving a large number of variables (sometimes of the order of millions), where direct methods would be prohibitively expensive (and in some cases impossible) even with the best available computing power.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Attractive_fixed_points"><span class="tocnumber">1</span> <span class="toctext">Attractive fixed points</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Linear_systems"><span class="tocnumber">2</span> <span class="toctext">Linear systems</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Stationary_iterative_methods"><span class="tocnumber">2.1</span> <span class="toctext">Stationary iterative methods</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Introduction"><span class="tocnumber">2.1.1</span> <span class="toctext">Introduction</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Definition"><span class="tocnumber">2.1.2</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Examples"><span class="tocnumber">2.1.3</span> <span class="toctext">Examples</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Krylov_subspace_methods"><span class="tocnumber">2.2</span> <span class="toctext">Krylov subspace methods</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Convergence_of_Krylov_subspace_methods"><span class="tocnumber">2.3</span> <span class="toctext">Convergence of Krylov subspace methods</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Preconditioners"><span class="tocnumber">2.4</span> <span class="toctext">Preconditioners</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#History"><span class="tocnumber">2.5</span> <span class="toctext">History</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Attractive_fixed_points">Attractive fixed points</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Iterative_method&amp;action=edit&amp;section=1" title="Edit section: Attractive fixed points">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>If an equation can be put into the form <i>f</i>(<i>x</i>) = <i>x</i>, and a solution <b>x</b> is an attractive <a href="/wiki/Fixed_point_(mathematics)" title="Fixed point (mathematics)">fixed point</a> of the function <i>f</i>, then one may begin with a point <i>x</i><sub>1</sub> in the <a href="/wiki/Basin_of_attraction" class="mw-redirect" title="Basin of attraction">basin of attraction</a> of <b>x</b>, and let <i>x</i><sub><i>n</i>+1</sub> = <i>f</i>(<i>x</i><sub><i>n</i></sub>) for <i>n</i>&#160;≥&#160;1, and the sequence {<i>x</i><sub><i>n</i></sub>}<sub><i>n</i>&#160;≥&#160;1</sub> will converge to the solution <b>x</b>. Here <i>x</i><sub><i>n</i></sub> is the <i>n</i>th approximation or iteration of <i>x</i> and <i>x</i><sub><i>n</i>+1</sub> is the next or <i>n</i> + 1 iteration of <i>x</i>.  Alternately, superscripts in parentheses are often used in numerical methods, so as not to interfere with subscripts with other meanings.  (For example, <i>x</i><sup>(<i>n</i>+1)</sup> = <i>f</i>(<i>x</i><sup>(<i>n</i>)</sup>).) If the function <i>f</i> is <a href="/wiki/Continuously_differentiable" class="mw-redirect" title="Continuously differentiable">continuously differentiable</a>, a sufficient condition for convergence is that the <a href="/wiki/Spectral_radius" title="Spectral radius">spectral radius</a> of the derivative is strictly bounded by one in a neighborhood of the fixed point.  If this condition holds at the fixed point, then a sufficiently small neighborhood (basin of attraction) must exist.
+</p>
+<h2><span class="mw-headline" id="Linear_systems">Linear systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Iterative_method&amp;action=edit&amp;section=2" title="Edit section: Linear systems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the case of a <a href="/wiki/System_of_linear_equations" title="System of linear equations">system of linear equations</a>, the two main classes of iterative methods are the <b>stationary iterative methods</b>, and the more general <a href="/wiki/Krylov_subspace" title="Krylov subspace">Krylov subspace</a> methods.
+</p>
+<h3><span class="mw-headline" id="Stationary_iterative_methods">Stationary iterative methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Iterative_method&amp;action=edit&amp;section=3" title="Edit section: Stationary iterative methods">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Introduction">Introduction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Iterative_method&amp;action=edit&amp;section=4" title="Edit section: Introduction">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Stationary iterative methods solve a linear system with an <a href="/wiki/Operator_(mathematics)" title="Operator (mathematics)">operator</a> approximating the original one; and based on a measurement of the error in the result (<a href="/wiki/Residual_(numerical_analysis)" title="Residual (numerical analysis)">the residual</a>), form a "correction equation" for which this process is repeated. While these methods are simple to derive, implement, and analyze, convergence is only guaranteed for a limited class of matrices. 
+</p>
+<h4><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Iterative_method&amp;action=edit&amp;section=5" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>An <i>iterative method</i> is defined by
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathbf {x} ^{k+1}:=\Psi (\mathbf {x} ^{k})\,,\quad k\geq 0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">x</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+        </msup>
+        <mo>:=</mo>
+        <mi mathvariant="normal">&#x03A8;<!-- Ψ --></mi>
+        <mo stretchy="false">(</mo>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">x</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+        </msup>
+        <mo stretchy="false">)</mo>
+        <mspace width="thinmathspace" />
+        <mo>,</mo>
+        <mspace width="1em" />
+        <mi>k</mi>
+        <mo>&#x2265;<!-- ≥ --></mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbf {x} ^{k+1}:=\Psi (\mathbf {x} ^{k})\,,\quad k\geq 0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8af8d4bf79d5c843ddee71b03886a4e2453fd034" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:23.678ex; height:3.176ex;" alt="{\displaystyle \mathbf {x} ^{k+1}:=\Psi (\mathbf {x} ^{k})\,,\quad k\geq 0}"/></span></dd></dl>
+<p>and for a given linear system <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle A\mathbf {x} =\mathbf {b} }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>A</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">x</mi>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">b</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle A\mathbf {x} =\mathbf {b} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/45d894430af69e29d6dda5aacbf4bb19336226a0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:7.738ex; height:2.176ex;" alt="{\displaystyle A\mathbf {x} =\mathbf {b} }"/></span> with exact solution <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathbf {x} ^{*}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">x</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2217;<!-- ∗ --></mo>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbf {x} ^{*}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7854cd1cbbc521a6d45d17d621a9e4286ced0ddf" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.465ex; height:2.343ex;" alt="{\displaystyle \mathbf {x} ^{*}}"/></span> the <i>error</i> by
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathbf {e} ^{k}:=\mathbf {x} ^{k}-\mathbf {x} ^{*}\,,\quad k\geq 0\,.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">e</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+        </msup>
+        <mo>:=</mo>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">x</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+        </msup>
+        <mo>&#x2212;<!-- − --></mo>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">x</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2217;<!-- ∗ --></mo>
+          </mrow>
+        </msup>
+        <mspace width="thinmathspace" />
+        <mo>,</mo>
+        <mspace width="1em" />
+        <mi>k</mi>
+        <mo>&#x2265;<!-- ≥ --></mo>
+        <mn>0</mn>
+        <mspace width="thinmathspace" />
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbf {e} ^{k}:=\mathbf {x} ^{k}-\mathbf {x} ^{*}\,,\quad k\geq 0\,.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2026c72f2288e498972120f31a61c2e658a20910" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:24.114ex; height:3.009ex;" alt="{\displaystyle \mathbf {e} ^{k}:=\mathbf {x} ^{k}-\mathbf {x} ^{*}\,,\quad k\geq 0\,.}"/></span></dd></dl>
+<p>An iterative method is called <i>linear</i> if there exists a matrix <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle C\in \mathbb {R} ^{n\times x}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+        <mo>&#x2208;<!-- ∈ --></mo>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="double-struck">R</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mo>&#x00D7;<!-- × --></mo>
+            <mi>x</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle C\in \mathbb {R} ^{n\times x}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/062b1795f342057cd77023add07521162c82aca5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:9.722ex; height:2.343ex;" alt="{\displaystyle C\in \mathbb {R} ^{n\times x}}"/></span> s.t.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathbf {e} ^{k+1}=C\mathbf {e} ^{k}\quad \forall \,k\geq 0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">e</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <mi>C</mi>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">e</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+        </msup>
+        <mspace width="1em" />
+        <mi mathvariant="normal">&#x2200;<!-- ∀ --></mi>
+        <mspace width="thinmathspace" />
+        <mi>k</mi>
+        <mo>&#x2265;<!-- ≥ --></mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbf {e} ^{k+1}=C\mathbf {e} ^{k}\quad \forall \,k\geq 0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3723c41b08310913c6122095a1c905af9882ab06" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:21.067ex; height:2.843ex;" alt="{\displaystyle \mathbf {e} ^{k+1}=C\mathbf {e} ^{k}\quad \forall \,k\geq 0}"/></span></dd></dl>
+<p>and this matrix is called <i>iteration matrix</i>.
+An iterative method with a given iteration matrix <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle C}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle C}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4fc55753007cd3c18576f7933f6f089196732029" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.766ex; height:2.176ex;" alt="C"/></span> is called <i>convergent</i> if the following holds
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \lim _{k\rightarrow \infty }C^{k}=0\,.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munder>
+          <mo movablelimits="true" form="prefix">lim</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+            <mo stretchy="false">&#x2192;<!-- → --></mo>
+            <mi mathvariant="normal">&#x221E;<!-- ∞ --></mi>
+          </mrow>
+        </munder>
+        <msup>
+          <mi>C</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <mn>0</mn>
+        <mspace width="thinmathspace" />
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lim _{k\rightarrow \infty }C^{k}=0\,.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5b20e99201f1efae30670b03d4b800ff455fe53e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:12.711ex; height:4.343ex;" alt="{\displaystyle \lim _{k\rightarrow \infty }C^{k}=0\,.}"/></span></dd></dl>
+<p>An important theorem states that for a given iterative method and its iteration matrix <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle C}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle C}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4fc55753007cd3c18576f7933f6f089196732029" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.766ex; height:2.176ex;" alt="C"/></span> it is convergent if and only if its <a href="/wiki/Spectral_radius" title="Spectral radius">spectral radius</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \rho (C)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C1;<!-- ρ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>C</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \rho (C)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b3502886d455ab1f5536b4a3444bd7af7fddaf12" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:4.778ex; height:2.843ex;" alt="{\displaystyle \rho (C)}"/></span>  is smaller than unity, i.e.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \rho (C)&lt;1\,.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03C1;<!-- ρ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>C</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&lt;</mo>
+        <mn>1</mn>
+        <mspace width="thinmathspace" />
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \rho (C)&lt;1\,.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f2b918cadc635aa15a35a6e7f9571834890b8b08" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:10.072ex; height:2.843ex;" alt="{\displaystyle \rho (C)&lt;1\,.}"/></span></dd></dl>
+<p>The basic iterative methods work by a splitting up the matrix <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle A}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>A</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.743ex; height:2.176ex;" alt="A"/></span> into
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle A=M-N}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>A</mi>
+        <mo>=</mo>
+        <mi>M</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>N</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle A=M-N}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c9c26fb458b97dfa0014f6a57d59be1b4cd59194" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:12.188ex; height:2.343ex;" alt="{\displaystyle A=M-N}"/></span></dd></dl>
+<p>and here the matrix <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle M}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>M</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle M}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f82cade9898ced02fdd08712e5f0c0151758a0dd" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.442ex; height:2.176ex;" alt="M"/></span> should be easily <a href="/wiki/Invertible_matrix" title="Invertible matrix">invertible</a>.
+The iterative methods are now defined as
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle M\mathbf {x} ^{k+1}=N\mathbf {x} ^{k}+b\,,\quad k\geq 0\,.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>M</mi>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">x</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <mi>N</mi>
+        <msup>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="bold">x</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+          </mrow>
+        </msup>
+        <mo>+</mo>
+        <mi>b</mi>
+        <mspace width="thinmathspace" />
+        <mo>,</mo>
+        <mspace width="1em" />
+        <mi>k</mi>
+        <mo>&#x2265;<!-- ≥ --></mo>
+        <mn>0</mn>
+        <mspace width="thinmathspace" />
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle M\mathbf {x} ^{k+1}=N\mathbf {x} ^{k}+b\,,\quad k\geq 0\,.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3d97348cde84efcadb299cd95d021bee7473e481" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:28.792ex; height:3.009ex;" alt="{\displaystyle M\mathbf {x} ^{k+1}=N\mathbf {x} ^{k}+b\,,\quad k\geq 0\,.}"/></span></dd></dl>
+<p>From this follows that the iteration matrix is given by
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle C=I-M^{-1}A=M^{-1}N\,.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+        <mo>=</mo>
+        <mi>I</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <msup>
+          <mi>M</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </msup>
+        <mi>A</mi>
+        <mo>=</mo>
+        <msup>
+          <mi>M</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </msup>
+        <mi>N</mi>
+        <mspace width="thinmathspace" />
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle C=I-M^{-1}A=M^{-1}N\,.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/141a76165486e97317fbbecf39adf8d2d8a2602e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:26.479ex; height:2.843ex;" alt="{\displaystyle C=I-M^{-1}A=M^{-1}N\,.}"/></span></dd></dl>
+<h4><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Iterative_method&amp;action=edit&amp;section=6" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Basic examples of stationary iterative methods use a splitting of the matrix <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle A}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>A</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.743ex; height:2.176ex;" alt="A"/></span> such as
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle A=D-L-U\,,\quad D:={\text{diag}}((a_{ii})_{i})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>A</mi>
+        <mo>=</mo>
+        <mi>D</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>L</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>U</mi>
+        <mspace width="thinmathspace" />
+        <mo>,</mo>
+        <mspace width="1em" />
+        <mi>D</mi>
+        <mo>:=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>diag</mtext>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <msub>
+          <mo stretchy="false">)</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle A=D-L-U\,,\quad D:={\text{diag}}((a_{ii})_{i})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f99343bc3516a5eab5c160cfe7fc0d719fc748c6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:36.505ex; height:2.843ex;" alt="{\displaystyle A=D-L-U\,,\quad D:={\text{diag}}((a_{ii})_{i})}"/></span></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle D}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>D</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle D}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f34a0c600395e5d4345287e21fb26efd386990e6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.924ex; height:2.176ex;" alt="D"/></span> is only the diagonal part of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle A}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>A</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.743ex; height:2.176ex;" alt="A"/></span>, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle L}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>L</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle L}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/103168b86f781fe6e9a4a87b8ea1cebe0ad4ede8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.583ex; height:2.176ex;" alt="L"/></span> is the strict lower <a href="/wiki/Triangular_matrix" title="Triangular matrix">triangular part</a> of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle A}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>A</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.743ex; height:2.176ex;" alt="A"/></span>.
+Respectively, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle U}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>U</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle U}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/458a728f53b9a0274f059cd695e067c430956025" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.783ex; height:2.176ex;" alt=" U "/></span> is the upper triangular part of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle A}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>A</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.743ex; height:2.176ex;" alt="A"/></span>.
+</p>
+<ul><li><a href="/wiki/Modified_Richardson_iteration" title="Modified Richardson iteration">Richardson method</a>: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle M:={\frac {1}{\omega }}I\quad (\omega \neq 0)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>M</mi>
+        <mo>:=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mi>&#x03C9;<!-- ω --></mi>
+          </mfrac>
+        </mrow>
+        <mi>I</mi>
+        <mspace width="1em" />
+        <mo stretchy="false">(</mo>
+        <mi>&#x03C9;<!-- ω --></mi>
+        <mo>&#x2260;<!-- ≠ --></mo>
+        <mn>0</mn>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle M:={\frac {1}{\omega }}I\quad (\omega \neq 0)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/162ad40e0c6264f72d40e3d2174c3fc57f112519" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:19.48ex; height:5.176ex;" alt="{\displaystyle M:={\frac {1}{\omega }}I\quad (\omega \neq 0)}"/></span></li>
+<li><a href="/wiki/Jacobi_method" title="Jacobi method">Jacobi method</a>: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle M:=D}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>M</mi>
+        <mo>:=</mo>
+        <mi>D</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle M:=D}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/67cb4b92e2d7c65ebab9da539b2f75e385d7dea3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:8.112ex; height:2.176ex;" alt="{\displaystyle M:=D}"/></span></li>
+<li><a href="/wiki/Jacobi_method#Weighted_Jacobi_method" title="Jacobi method">Damped Jacobi method</a>: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle M:={\frac {1}{\omega }}D\quad (\omega \neq 0)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>M</mi>
+        <mo>:=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mi>&#x03C9;<!-- ω --></mi>
+          </mfrac>
+        </mrow>
+        <mi>D</mi>
+        <mspace width="1em" />
+        <mo stretchy="false">(</mo>
+        <mi>&#x03C9;<!-- ω --></mi>
+        <mo>&#x2260;<!-- ≠ --></mo>
+        <mn>0</mn>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle M:={\frac {1}{\omega }}D\quad (\omega \neq 0)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/62e06315def635749dfc0835c20afec2a6260c3b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:20.232ex; height:5.176ex;" alt="{\displaystyle M:={\frac {1}{\omega }}D\quad (\omega \neq 0)}"/></span></li>
+<li><a href="/wiki/Gauss%E2%80%93Seidel_method" title="Gauss–Seidel method">Gauss–Seidel method</a>: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle M:=D-L}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>M</mi>
+        <mo>:=</mo>
+        <mi>D</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>L</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle M:=D-L}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/21d9c53163a4b47e73acae9379591c6a56184aa4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:12.535ex; height:2.343ex;" alt="{\displaystyle M:=D-L}"/></span></li>
+<li><a href="/wiki/Successive_over-relaxation" title="Successive over-relaxation">Successive over-relaxation method</a> (SOR): <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle M:={\frac {1}{\omega }}D-L\quad (\omega \neq 0)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>M</mi>
+        <mo>:=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mi>&#x03C9;<!-- ω --></mi>
+          </mfrac>
+        </mrow>
+        <mi>D</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>L</mi>
+        <mspace width="1em" />
+        <mo stretchy="false">(</mo>
+        <mi>&#x03C9;<!-- ω --></mi>
+        <mo>&#x2260;<!-- ≠ --></mo>
+        <mn>0</mn>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle M:={\frac {1}{\omega }}D-L\quad (\omega \neq 0)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/aeff656a85565d7a5aa60260d942b486719d368e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:24.656ex; height:5.176ex;" alt="{\displaystyle M:={\frac {1}{\omega }}D-L\quad (\omega \neq 0)}"/></span></li>
+<li><a href="/wiki/Symmetric_successive_over-relaxation" title="Symmetric successive over-relaxation">Symmetric successive over-relaxation</a> (SSOR): <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle M:={\frac {1}{\omega (2-\omega )}}(D-\omega L)D^{-1}(D-\omega U)\quad (\omega \neq \{0,2\})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>M</mi>
+        <mo>:=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mrow>
+              <mi>&#x03C9;<!-- ω --></mi>
+              <mo stretchy="false">(</mo>
+              <mn>2</mn>
+              <mo>&#x2212;<!-- − --></mo>
+              <mi>&#x03C9;<!-- ω --></mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>D</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>&#x03C9;<!-- ω --></mi>
+        <mi>L</mi>
+        <mo stretchy="false">)</mo>
+        <msup>
+          <mi>D</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </msup>
+        <mo stretchy="false">(</mo>
+        <mi>D</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>&#x03C9;<!-- ω --></mi>
+        <mi>U</mi>
+        <mo stretchy="false">)</mo>
+        <mspace width="1em" />
+        <mo stretchy="false">(</mo>
+        <mi>&#x03C9;<!-- ω --></mi>
+        <mo>&#x2260;<!-- ≠ --></mo>
+        <mo fence="false" stretchy="false">{</mo>
+        <mn>0</mn>
+        <mo>,</mo>
+        <mn>2</mn>
+        <mo fence="false" stretchy="false">}</mo>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle M:={\frac {1}{\omega (2-\omega )}}(D-\omega L)D^{-1}(D-\omega U)\quad (\omega \neq \{0,2\})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a547da7a11a2b2e0df6f1eee1c98916d9a3d66d5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:53.749ex; height:6.009ex;" alt="{\displaystyle M:={\frac {1}{\omega (2-\omega )}}(D-\omega L)D^{-1}(D-\omega U)\quad (\omega \neq \{0,2\})}"/></span></li></ul>
+<p>Linear stationary iterative methods are also called <a href="/wiki/Relaxation_(iterative_method)" title="Relaxation (iterative method)">relaxation methods</a>.
+</p>
+<h3><span class="mw-headline" id="Krylov_subspace_methods">Krylov subspace methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Iterative_method&amp;action=edit&amp;section=7" title="Edit section: Krylov subspace methods">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Krylov_subspace" title="Krylov subspace">Krylov subspace</a> methods work by forming a <a href="/wiki/Basis_(linear_algebra)" title="Basis (linear algebra)">basis</a> of the sequence of successive matrix powers times the initial residual (the <b>Krylov sequence</b>). 
+The approximations to the solution are then formed by minimizing the residual over the subspace formed. 
+The prototypical method in this class is the <a href="/wiki/Conjugate_gradient_method" title="Conjugate gradient method">conjugate gradient method</a> (CG) which assumes that the system matrix <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle A}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>A</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.743ex; height:2.176ex;" alt="A"/></span> is <a href="/wiki/Symmetric_matrix" title="Symmetric matrix">symmetric</a> <a href="/wiki/Positive-definite_matrix" title="Positive-definite matrix">positive-definite</a>.
+For symmetric (and possibly indefinite) <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle A}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>A</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.743ex; height:2.176ex;" alt="A"/></span> one works with the <a href="/wiki/Minimal_residual_method" class="mw-redirect" title="Minimal residual method">minimal residual method</a> (MINRES).
+In the case of not even symmetric matrices methods, such as the <a href="/wiki/Generalized_minimal_residual_method" title="Generalized minimal residual method">generalized minimal residual method</a> (GMRES) and the <a href="/wiki/Biconjugate_gradient_method" title="Biconjugate gradient method">biconjugate gradient method</a> (BiCG), have been derived.
+</p>
+<h3><span class="mw-headline" id="Convergence_of_Krylov_subspace_methods">Convergence of Krylov subspace methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Iterative_method&amp;action=edit&amp;section=8" title="Edit section: Convergence of Krylov subspace methods">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Since these methods form a basis, it is evident that the method converges in <i>N</i> iterations, where <i>N</i> is the system size. However, in the presence of rounding errors this statement does not hold; moreover, in practice <i>N</i> can be very large, and the iterative process reaches sufficient accuracy already far earlier. The analysis of these methods is hard, depending on a complicated function of the <a href="/wiki/Spectrum_of_an_operator" class="mw-redirect" title="Spectrum of an operator">spectrum</a> of the operator.
+</p>
+<h3><span class="mw-headline" id="Preconditioners">Preconditioners</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Iterative_method&amp;action=edit&amp;section=9" title="Edit section: Preconditioners">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The approximating operator that appears in stationary iterative methods can also be incorporated in <a href="/wiki/Krylov_subspace_methods" class="mw-redirect" title="Krylov subspace methods">Krylov subspace methods</a> such as <a href="/wiki/GMRES" class="mw-redirect" title="GMRES">GMRES</a> (alternatively, <a href="/wiki/Preconditioning" class="mw-redirect" title="Preconditioning">preconditioned</a> Krylov methods can be considered as accelerations of stationary iterative methods), where they become transformations of the original operator to a presumably better conditioned one. The construction of preconditioners is a large research area.
+</p>
+<h3><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Iterative_method&amp;action=edit&amp;section=10" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Probably the first iterative method for solving a linear system appeared in a letter of <a href="/wiki/Carl_Friedrich_Gauss" title="Carl Friedrich Gauss">Gauss</a> to a student of his.  He proposed solving a 4-by-4 system of equations by repeatedly solving the component in which the residual was the largest. 
+</p><p>The theory of stationary iterative methods was solidly established with the work of <a href="/wiki/D.M._Young" class="mw-redirect" title="D.M. Young">D.M. Young</a> starting in the 1950s. The Conjugate Gradient method was also invented in the 1950s, with independent developments by <a href="/wiki/Cornelius_Lanczos" title="Cornelius Lanczos">Cornelius Lanczos</a>, <a href="/wiki/Magnus_Hestenes" title="Magnus Hestenes">Magnus Hestenes</a> and <a href="/wiki/Eduard_Stiefel" title="Eduard Stiefel">Eduard Stiefel</a>, but its nature and applicability were misunderstood at the time. Only in the 1970s was it realized that conjugacy based methods work very well for <a href="/wiki/Partial_differential_equation" title="Partial differential equation">partial differential equations</a>, especially the elliptic type.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Iterative_method&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Nuvola_apps_edu_mathematics_blue-p.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg/28px-Nuvola_apps_edu_mathematics_blue-p.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg/42px-Nuvola_apps_edu_mathematics_blue-p.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg/56px-Nuvola_apps_edu_mathematics_blue-p.svg.png 2x" data-file-width="128" data-file-height="128" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Mathematics" title="Portal:Mathematics">Mathematics portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Matrix_splitting" title="Matrix splitting">Matrix splitting</a></li>
+<li><a href="/wiki/Non-linear_least_squares" title="Non-linear least squares">Non-linear least squares</a></li>
+<li><a href="/wiki/Root-finding_algorithm" title="Root-finding algorithm">Root-finding algorithm</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Iterative_method&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Amritkar, Amit; de Sturler, Eric; Świrydowicz, Katarzyna; Tafti, Danesh; Ahuja, Kapil (2015). "Recycling Krylov subspaces for CFD applications and a new hybrid recycling solver". <i>Journal of Computational Physics</i>. <b>303</b>: 222. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//arxiv.org/abs/1501.03358">1501.03358</a></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2015JCoPh.303..222A">2015JCoPh.303..222A</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.jcp.2015.09.040">10.1016/j.jcp.2015.09.040</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Computational+Physics&amp;rft.atitle=Recycling+Krylov+subspaces+for+CFD+applications+and+a+new+hybrid+recycling+solver&amp;rft.volume=303&amp;rft.pages=222&amp;rft.date=2015&amp;rft_id=info%3Aarxiv%2F1501.03358&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jcp.2015.09.040&amp;rft_id=info%3Abibcode%2F2015JCoPh.303..222A&amp;rft.aulast=Amritkar&amp;rft.aufirst=Amit&amp;rft.au=de+Sturler%2C+Eric&amp;rft.au=%C5%9Awirydowicz%2C+Katarzyna&amp;rft.au=Tafti%2C+Danesh&amp;rft.au=Ahuja%2C+Kapil&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIterative+method" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Iterative_method&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Iterative_methods" class="extiw" title="commons:Category:Iterative methods">Iterative methods</a></b></i>.</td></tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.netlib.org/linalg/html_templates/Templates.html">Templates for the Solution of Linear Systems</a></li>
+<li><a rel="nofollow" class="external text" href="http://www-users.cs.umn.edu/~saad/books.html">Y. Saad: <i>Iterative Methods for Sparse Linear Systems</i>, 1st edition, PWS 1996</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Optimization:_Algorithms,_methods,_and_heuristics" style="padding:3px"><table class="nowraplinks hlist collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Optimization_algorithms" title="Template:Optimization algorithms"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Optimization_algorithms" title="Template talk:Optimization algorithms"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Optimization_algorithms&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Optimization:_Algorithms,_methods,_and_heuristics" style="font-size:114%;margin:0 4em"><a href="/wiki/Mathematical_optimization" title="Mathematical optimization">Optimization</a>: <a href="/wiki/Optimization_algorithm" class="mw-redirect" title="Optimization algorithm">Algorithms</a>, <a class="mw-selflink selflink">methods</a>, and <a href="/wiki/Heuristic_algorithm" class="mw-redirect" title="Heuristic algorithm">heuristics</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Unconstrained_nonlinear:_Methods_calling_…" style="font-size:114%;margin:0 4em"><a href="/wiki/Nonlinear_programming" title="Nonlinear programming">Unconstrained nonlinear</a>: <a class="mw-selflink selflink">Methods</a> <a href="/wiki/Subroutine" title="Subroutine">calling …</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">… <a href="/wiki/Function_(mathematics)" title="Function (mathematics)">functions</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Golden-section_search" title="Golden-section search">Golden-section search</a></li>
+<li><a href="/wiki/Powell%27s_method" title="Powell&#39;s method">Interpolation methods</a></li>
+<li><a href="/wiki/Line_search" title="Line search">Line search</a></li>
+<li><a href="/wiki/Nelder%E2%80%93Mead_method" title="Nelder–Mead method">Nelder–Mead method</a></li>
+<li><a href="/wiki/Successive_parabolic_interpolation" title="Successive parabolic interpolation">Successive parabolic interpolation</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">… and <a href="/wiki/Gradient" title="Gradient">gradients</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Local_convergence" title="Local convergence">Convergence</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Trust_region" title="Trust region">Trust region</a></li>
+<li><a href="/wiki/Wolfe_conditions" title="Wolfe conditions">Wolfe conditions</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Quasi-Newton_method" title="Quasi-Newton method">Quasi–Newton</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Broyden%E2%80%93Fletcher%E2%80%93Goldfarb%E2%80%93Shanno_algorithm" title="Broyden–Fletcher–Goldfarb–Shanno algorithm">BFGS</a> and <a href="/wiki/Limited-memory_BFGS" title="Limited-memory BFGS">L-BFGS</a></li>
+<li><a href="/wiki/Davidon%E2%80%93Fletcher%E2%80%93Powell_formula" title="Davidon–Fletcher–Powell formula">DFP</a></li>
+<li><a href="/wiki/Symmetric_rank-one" title="Symmetric rank-one">Symmetric rank-one (SR1)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a class="mw-selflink selflink">Other methods</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Berndt%E2%80%93Hall%E2%80%93Hall%E2%80%93Hausman_algorithm" title="Berndt–Hall–Hall–Hausman algorithm">Berndt–Hall–Hall–Hausman</a></li>
+<li><a href="/wiki/Gauss%E2%80%93Newton_algorithm" title="Gauss–Newton algorithm">Gauss–Newton</a></li>
+<li><a href="/wiki/Gradient_descent" title="Gradient descent">Gradient</a></li>
+<li><a href="/wiki/Levenberg%E2%80%93Marquardt_algorithm" title="Levenberg–Marquardt algorithm">Levenberg–Marquardt</a></li>
+<li><a href="/wiki/Nonlinear_conjugate_gradient_method" title="Nonlinear conjugate gradient method">Conjugate gradient</a></li>
+<li><a href="/wiki/Truncated_Newton_method" title="Truncated Newton method">Truncated Newton</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">… and <a href="/wiki/Hessian_matrix" title="Hessian matrix">Hessians</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Newton%27s_method_in_optimization" title="Newton&#39;s method in optimization">Newton's method</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px"><div><div class="floatright"><a href="/wiki/File:Max_paraboloid.svg" class="image" title="Optimization computes maxima and minima."><img alt="Graph of a strictly concave quadratic function with unique maximum." src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Max_paraboloid.svg/150px-Max_paraboloid.svg.png" width="150" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Max_paraboloid.svg/225px-Max_paraboloid.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Max_paraboloid.svg/300px-Max_paraboloid.svg.png 2x" data-file-width="700" data-file-height="560" /></a></div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Constrained_nonlinear" style="font-size:114%;margin:0 4em"><a href="/wiki/Nonlinear_programming" title="Nonlinear programming">Constrained nonlinear</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Barrier_function" title="Barrier function">Barrier methods</a></li>
+<li><a href="/wiki/Penalty_method" title="Penalty method">Penalty methods</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Differentiable</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Augmented_Lagrangian_method" title="Augmented Lagrangian method">Augmented Lagrangian methods</a></li>
+<li><a href="/wiki/Sequential_quadratic_programming" title="Sequential quadratic programming">Sequential quadratic programming</a></li>
+<li><a href="/wiki/Successive_linear_programming" title="Successive linear programming">Successive linear programming</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Convex_optimization" style="font-size:114%;margin:0 4em"><a href="/wiki/Convex_optimization" title="Convex optimization">Convex optimization</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Convex_minimization" class="mw-redirect" title="Convex minimization">Convex<br /> minimization</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cutting-plane_method" title="Cutting-plane method">Cutting-plane method</a></li>
+<li><a href="/wiki/Frank%E2%80%93Wolfe_algorithm" title="Frank–Wolfe algorithm">Reduced gradient (Frank–Wolfe)</a></li>
+<li><a href="/wiki/Subgradient_method" title="Subgradient method">Subgradient method</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Linear_programming" title="Linear programming">Linear</a> and<br /><a href="/wiki/Quadratic_programming" title="Quadratic programming">quadratic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Linear_programming#Interior_point" title="Linear programming">Interior point</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Affine_scaling" title="Affine scaling">Affine scaling</a></li>
+<li><a href="/wiki/Ellipsoid_method" title="Ellipsoid method">Ellipsoid algorithm of Khachiyan</a></li>
+<li><a href="/wiki/Karmarkar%27s_algorithm" title="Karmarkar&#39;s algorithm">Projective algorithm of Karmarkar</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Matroid" title="Matroid">Basis-</a><a href="/wiki/Exchange_algorithm" class="mw-redirect" title="Exchange algorithm">exchange</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Simplex_algorithm" title="Simplex algorithm">Simplex algorithm of Dantzig</a></li>
+<li><a href="/wiki/Revised_simplex_method" title="Revised simplex method">Revised simplex algorithm</a></li>
+<li><a href="/wiki/Criss-cross_algorithm" title="Criss-cross algorithm">Criss-cross algorithm</a></li>
+<li><a href="/wiki/Lemke%27s_algorithm" title="Lemke&#39;s algorithm">Principal pivoting algorithm of Lemke</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Combinatorial" style="font-size:114%;margin:0 4em"><a href="/wiki/Combinatorial_optimization" title="Combinatorial optimization">Combinatorial</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Paradigms</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Approximation_algorithm" title="Approximation algorithm">Approximation algorithm</a></li>
+<li><a href="/wiki/Dynamic_programming" title="Dynamic programming">Dynamic programming</a></li>
+<li><a href="/wiki/Greedy_algorithm" title="Greedy algorithm">Greedy algorithm</a></li>
+<li><a href="/wiki/Integer_programming" title="Integer programming">Integer programming</a>
+<ul><li><a href="/wiki/Branch_and_bound" title="Branch and bound">Branch and bound</a>/<a href="/wiki/Branch_and_cut" title="Branch and cut">cut</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Graph_algorithm" class="mw-redirect" title="Graph algorithm">Graph<br /> algorithms</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Minimum_spanning_tree" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Minimum_spanning_tree" title="Minimum spanning tree">Minimum<br /> spanning tree</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bellman%E2%80%93Ford_algorithm" title="Bellman–Ford algorithm">Bellman–Ford</a></li>
+<li><a href="/wiki/Bor%C5%AFvka%27s_algorithm" title="Borůvka&#39;s algorithm">Borůvka</a></li>
+<li><a href="/wiki/Dijkstra%27s_algorithm" title="Dijkstra&#39;s algorithm">Dijkstra</a></li>
+<li><a href="/wiki/Floyd%E2%80%93Warshall_algorithm" title="Floyd–Warshall algorithm">Floyd–Warshall </a></li>
+<li><a href="/wiki/Johnson%27s_algorithm" title="Johnson&#39;s algorithm">Johnson</a></li>
+<li><a href="/wiki/Kruskal%27s_algorithm" title="Kruskal&#39;s algorithm">Kruskal</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Flow_network" title="Flow network">Network flows</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dinic%27s_algorithm" title="Dinic&#39;s algorithm">Dinic</a></li>
+<li><a href="/wiki/Edmonds%E2%80%93Karp_algorithm" title="Edmonds–Karp algorithm">Edmonds–Karp</a></li>
+<li><a href="/wiki/Ford%E2%80%93Fulkerson_algorithm" title="Ford–Fulkerson algorithm">Ford–Fulkerson</a></li>
+<li><a href="/wiki/Push%E2%80%93relabel_maximum_flow_algorithm" title="Push–relabel maximum flow algorithm">Push–relabel maximum flow</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Metaheuristics" style="font-size:114%;margin:0 4em"><a href="/wiki/Metaheuristic" title="Metaheuristic">Metaheuristics</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Evolutionary_algorithm" title="Evolutionary algorithm">Evolutionary algorithm</a></li>
+<li><a href="/wiki/Hill_climbing" title="Hill climbing">Hill climbing</a></li>
+<li><a href="/wiki/Local_search_(optimization)" title="Local search (optimization)">Local search</a></li>
+<li><a href="/wiki/Simulated_annealing" title="Simulated annealing">Simulated annealing</a></li>
+<li><a href="/wiki/Tabu_search" title="Tabu search">Tabu search</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><a href="/wiki/Comparison_of_optimization_software" title="Comparison of optimization software">Software</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2230
+Cached time: 20180929133138
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.284 seconds
+Real time usage: 0.969 seconds
+Preprocessor visited node count: 1209/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 81917/2097152 bytes
+Template argument size: 8671/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 4482/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.108/10.000 seconds
+Lua memory usage: 2.71 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  224.964      1 -total
+ 48.05%  108.093      1 Template:Reflist
+ 41.69%   93.791      1 Template:Cite_journal
+ 31.84%   71.626      1 Template:Optimization_algorithms
+ 30.24%   68.018      1 Template:Navbox_with_collapsible_groups
+ 12.09%   27.203      7 Template:Navbox
+ 11.22%   25.243      1 Template:Portal
+  8.76%   19.698      1 Template:Commonscat
+  5.45%   12.259      1 Template:Commons
+  4.72%   10.612      1 Template:Sister_project
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15237-0!canonical!math=5 and timestamp 20180929133137 and revision id 850027932
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Iterative_method&amp;oldid=850027932">https://en.wikipedia.org/w/index.php?title=Iterative_method&amp;oldid=850027932</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Iterative_methods" title="Category:Iterative methods">Iterative methods</a></li><li><a href="/wiki/Category:Numerical_analysis" title="Category:Numerical analysis">Numerical analysis</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Iterative+method" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Iterative+method" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Iterative_method" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Iterative_method" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Iterative_method">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Iterative_method&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Iterative_method&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Iterative_method" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Iterative_method" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Iterative_method&amp;oldid=850027932" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Iterative_method&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2321565" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Iterative_method&amp;id=850027932" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Iterative+method">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Iterative+method&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Iterative_method&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Iterative_methods" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Iteratiewe_metode" title="Iteratiewe metode – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9_%D8%AA%D9%83%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9" title="طريقة تكرارية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/M%C3%A8tode_iteratiu" title="Mètode iteratiu – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Itera%C4%8Dn%C3%AD_metoda" title="Iterační metoda – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Iteratsioonimeetod" title="Iteratsioonimeetod – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/M%C3%A9todo_iterativo" title="Método iterativo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/M%C3%A9thode_it%C3%A9rative" title="Méthode itérative – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A4%BE%E0%A4%B5%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AE%E0%A5%82%E0%A4%B2%E0%A4%95_%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF" title="पुनरावृत्तिमूलक विधि – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Metodo_iterativo" title="Metodo iterativo – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A9%D7%99%D7%98%D7%94_%D7%90%D7%99%D7%98%D7%A8%D7%98%D7%99%D7%91%D7%99%D7%AA" title="שיטה איטרטיבית – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%8F%8D%E5%BE%A9%E6%B3%95_(%E6%95%B0%E5%80%A4%E8%A8%88%E7%AE%97)" title="反復法 (数値計算) – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/M%C3%A9todo_iterativo" title="Método iterativo – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Метод итерации – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Itera%C4%8Dn%C3%A1_met%C3%B3da" title="Iteračná metóda – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D1%96%D1%82%D0%B5%D1%80%D0%B0%D1%86%D1%96%D1%97" title="Метод ітерації – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%BF%AD%E4%BB%A3%E6%B3%95" title="迭代法 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2321565#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 13 July 2018, at 02:45<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Iterative_method&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.284","walltime":"0.969","ppvisitednodes":{"value":1209,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":81917,"limit":2097152},"templateargumentsize":{"value":8671,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":4482,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  224.964      1 -total"," 48.05%  108.093      1 Template:Reflist"," 41.69%   93.791      1 Template:Cite_journal"," 31.84%   71.626      1 Template:Optimization_algorithms"," 30.24%   68.018      1 Template:Navbox_with_collapsible_groups"," 12.09%   27.203      7 Template:Navbox"," 11.22%   25.243      1 Template:Portal","  8.76%   19.698      1 Template:Commonscat","  5.45%   12.259      1 Template:Commons","  4.72%   10.612      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.108","limit":"10.000"},"limitreport-memusage":{"value":2838272,"limit":52428800}},"cachereport":{"origin":"mw2230","timestamp":"20180929133138","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":68,"wgHostname":"mw2169"});});</script>
+	</body>
+</html>

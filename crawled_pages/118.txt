@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Federated search - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Federated_search","wgTitle":"Federated search","wgCurRevisionId":850455269,"wgRevisionId":850455269,"wgArticleId":2421086,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from June 2008","All articles needing additional references","Internet terminology","Internet search algorithms","Applications of distributed computing"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Federated_search","wgRelevantArticleId":2421086,"wgRequestId":"W6@MBwrAEDUAAEKrt50AAAAM","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5440717","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Federated_search"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Federated_search&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Federated_search&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Federated_search"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Federated_search rootpage-Federated_search skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Federated search</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Federated_search&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(June 2008)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p><b>Federated search</b> is an <a href="/wiki/Information_retrieval" title="Information retrieval">information retrieval</a> technology that allows the simultaneous search of multiple searchable resources.  A user makes a single query request which is distributed to the <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engines</a>, databases or other query engines participating in the federation.  The federated search then aggregates the results that are received from the search engines for presentation to the user. Federated search can be used to integrate disparate information resources within a single large organization ("enterprise") or for the entire web.
+</p><p>Federated search, unlike <a href="/wiki/Distributed_search_engine" title="Distributed search engine">distributed search</a>, requires centralized coordination of the searchable resources. This involves both coordination of the queries transmitted to the individual search engines and fusion of the search results returned by each of them. 
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Purpose"><span class="tocnumber">1</span> <span class="toctext">Purpose</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Process"><span class="tocnumber">2</span> <span class="toctext">Process</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Implementation"><span class="tocnumber">3</span> <span class="toctext">Implementation</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Challenges"><span class="tocnumber">4</span> <span class="toctext">Challenges</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Purpose">Purpose</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federated_search&amp;action=edit&amp;section=1" title="Edit section: Purpose">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Federated search came about to meet the need of searching multiple  disparate content sources with one query.  This allows a user to search multiple databases at once in real time, arrange the results from the various databases into a useful form and then present the results to the user.
+</p><p>As such, it is an information aggregation, or integration approach - it provides single point access to many information resources, and typically returns the data in a standard or partially homogenized form. Other approaches include constructing an <a href="/wiki/Enterprise_data_warehouse" class="mw-redirect" title="Enterprise data warehouse">Enterprise data warehouse</a>, <a href="/wiki/Data_lake" title="Data lake">Data lake</a>, or <a href="/wiki/Data_hub" title="Data hub">Data hub</a>. Federated Search queries many times in many ways (each source is queried separately) where other approaches import and transform data many times, typically in overnight batch processes. Federated search provides a real-time view of all sources (to the extent they are all online and available).
+</p><p>In industrial search engines, such as <a href="/wiki/LinkedIn" title="LinkedIn">LinkedIn</a>, federated search is used to personalize vertical preference for ambiguous queries.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">&#91;1&#93;</a></sup> For instance, when a user issues a query like "machine learning" on LinkedIn, he or she could mean to search for people with machine learning skill, jobs requiring machine learning skill or content about the topic. In such cases, federated search could exploit user intent (e.g., hiring, job seeking or content consuming) to personalize the vertical order for each individual user.
+</p>
+<h2><span class="mw-headline" id="Process">Process</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federated_search&amp;action=edit&amp;section=2" title="Edit section: Process">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As described by Peter Jacso (2004<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>), federated searching consists of (1) transforming a <a href="/wiki/Web_search_query" title="Web search query">query</a> and broadcasting it to a group of disparate databases or other web resources, with the appropriate syntax, (2) merging the results collected from the databases, (3) presenting them in a succinct and unified format with minimal duplication, and (4) providing a means, performed either automatically or by the portal user, to sort the merged result set.
+</p><p>Federated search portals, either commercial or <a href="/wiki/Open_access" title="Open access">open access</a>, generally search public access <a href="/wiki/Bibliographic_databases" class="mw-redirect" title="Bibliographic databases">bibliographic databases</a>, public access Web-based library catalogues (<a href="/wiki/OPAC" class="mw-redirect" title="OPAC">OPACs</a>), Web-based search engines like <a href="/wiki/Google" title="Google">Google</a> and/or open-access, government-operated or corporate data collections. These individual information sources send back to the portal's interface a list of results from the search query. The user can review this hit list.  Some portals will merely <a href="/wiki/Screen_scrape" class="mw-redirect" title="Screen scrape">screen scrape</a> the actual database results and not directly allow a user to enter the information source's application. More sophisticated ones will de-dupe the results list by merging and removing duplicates. There are additional features available in many portals, but the basic idea is the same: to improve the accuracy and relevance of individual searches as well as reduce the amount of time required to search for resources.
+</p><p>This process allows federated search some key advantages when compared with existing crawler-based search engines.  Federated search need not place any requirements or burdens on owners of the individual information sources, other than handling increased traffic.  Federated searches are inherently as current as the individual information sources, as they are searched in real time.
+</p>
+<h2><span class="mw-headline" id="Implementation">Implementation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federated_search&amp;action=edit&amp;section=3" title="Edit section: Implementation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Fed_search.png" class="image"><img alt="federated search engine" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Fed_search.png/220px-Fed_search.png" width="220" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Fed_search.png/330px-Fed_search.png 1.5x, //upload.wikimedia.org/wikipedia/commons/f/fe/Fed_search.png 2x" data-file-width="402" data-file-height="274" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Fed_search.png" class="internal" title="Enlarge"></a></div>Federating across three search engines</div></div></div>
+<p>One application of federated searching is the <a href="/wiki/Metasearch_engine" title="Metasearch engine">metasearch engine</a>. However, the metasearch approach does not overcome the shortcomings of the component search engines, such as incomplete indexes. Documents that are not indexed by search engines create what is known as the <a href="/wiki/Deep_Web_(search_indexing)" class="mw-redirect" title="Deep Web (search indexing)">deep Web</a>, or invisible Web. <a href="/wiki/Google_Scholar" title="Google Scholar">Google Scholar</a> is one example of many projects trying to address this, by indexing electronic documents that search engines ignore. And the metasearch approach, like the underlying search engine technology, only works with information sources stored in electronic form. 
+</p><p>One of the main challenges of metasearch, is ensuring that the search query is compatible with the component search engines that are being federated and combined. When the search vocabulary or <a href="/wiki/Data_model" title="Data model">data model</a> of the search system is different from the data model of one or more of the foreign target systems, the query must be translated into each of the foreign target systems.  This can be done using simple data-element translation or may require <a href="/wiki/Semantic_translation" title="Semantic translation">semantic translation</a>. For example, if one search engine allows for quoting of exact strings or n-grams and the another does not, the query must be translated to be compatible with each search engine. To translate a quoted exact string query, it can be broken down into a set of overlapping [N-gram|N-grams] that are most likely to give the desired search results in each search engine. 
+</p><p>Another challenge faced in the implementation of federated search engines is scalability. It is difficult to maintain the performance, the response speed, of a federated search engine as it combines more and more information sources together.  One implementation of federated search that has begun to address this issue is <a href="/wiki/WorldWideScience" title="WorldWideScience">WorldWideScience</a>, hosted by the <a href="/wiki/U.S._Department_of_Energy" class="mw-redirect" title="U.S. Department of Energy">U.S. Department of Energy</a>'s <a href="/wiki/Office_of_Scientific_and_Technical_Information" title="Office of Scientific and Technical Information">Office of Scientific and Technical Information</a>.  WorldWideScience <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> is composed of more than 40 information sources, several of which are federated search portals themselves.  One such portal is Science.gov <sup id="cite_ref-Science.gov_4-0" class="reference"><a href="#cite_note-Science.gov-4">&#91;4&#93;</a></sup> which itself federates more than 30 information sources representing most of the R&amp;D output of the U.S. Federal government.  Science.gov returns its highest ranked results to WorldWideScience, which then merges and ranks these results with the search returned by the other information sources that comprise WorldWideScience.<sup id="cite_ref-Science.gov_4-1" class="reference"><a href="#cite_note-Science.gov-4">&#91;4&#93;</a></sup> This approach of cascaded federated search enables large number of information sources to be searched via a single query.
+</p><p>Another application <a href="/wiki/Sesam" title="Sesam">Sesam</a> running in both Norway and Sweden has been built on top of an open sourced platform specialised for federated search solutions. Sesat,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> an acronym for <a href="/wiki/Sesam_Search_Application_Toolkit" class="mw-redirect" title="Sesam Search Application Toolkit">Sesam Search Application Toolkit</a>, is a platform that provides much of the framework and functionality required for handling parallel and pipelined searches and displaying them elegantly in a user interface, allowing engineers to focus on the index/database configuration tuning.
+</p><p>To personalize vertical orders in federated search, LinkedIn search engine <sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">&#91;1&#93;</a></sup> exploits the searcher's profile and recent activities to infer his or her intent, such as hiring, job seeking and content consuming, then uses the intent, along with many other signals, to rank vertical order that personally relevant to the individual searcher.
+</p>
+<h2><span class="mw-headline" id="Challenges">Challenges</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federated_search&amp;action=edit&amp;section=4" title="Edit section: Challenges">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When federated search is performed against secure data sources, the users' credentials must be passed on
+to each underlying search engine, so that appropriate security is maintained.  If the user has different
+login credentials for different systems, there must be a means to map their login ID to each search
+engine's security domain.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>Another challenge is mapping results list navigators into a common form.  Suppose 3 real-estate sites are searched, each provides a list of hyperlinked city names to click on, to see matches only in each city.  Ideally these facets would be combined into one set, but that presents additional technical challenges.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>  The system also needs to understand "next page" links if it's going to allow the user to page through the combined results.
+</p><p>Some of this challenge of mapping to a common form can be solved if the federated resources support <a href="/wiki/Linked_open_data" class="mw-redirect" title="Linked open data">linked open data</a> via <a href="/wiki/Resource_Description_Framework" title="Resource Description Framework">RDF</a>. Ontologies (rules) can be added to map results to common forms using that technology.
+</p><p>Another challenge is sorting and scoring results. Each web resource has its own notion of relevance score, and may support some sorted results orders. Relevance varies greatly among "federates" in the search, so knowing how to interleave results to show the most relevant is difficult or impossible.
+</p><p>Another challenge is robust query. Federated search may have to restrict itself to the minimal set of query capabilities that are common to all federates. E.g. if Google supports negation and quoted phrases, but science.gov does not, it will be impossible for the federated search to support negated, quoted phrases.
+</p><p>Another challenge is availability and timeout. As the number of federates (federated sources) grows, the likelihood of one or more slow or offline federates becomes high. The federated search must decide when to consider a federate offline, or wait for a slow response. Response times will be dictated by the slowest federate of the bunch.
+</p><p>Another challenge is development and testing within an enterprise (vs. on the public internet). Development groups should typically not hit live, production systems as they do regular work, much less intensive load testing. Also, some resources are secure, and should not be arbitrarily queried and exposed in development due to privacy and security concerns. Therefore, the development, testing and performance test environments must include installation and configuration for many sub-systems to allow safe, secure testing.
+</p><p>Another challenge within an enterprise is HA/DR (high-availability and disaster recovery). For the overall federated system to be HA/DR, every sub-system must be HA/DR.
+</p><p>Similarly, performance modeling and capacity planning for the federated system requires modeling, planning and sometimes expansion of all federates.
+</p><p>For the reasons above, within an enterprise, a <a href="/wiki/Data_hub" title="Data hub">data hub</a> or <a href="/wiki/Data_lake" title="Data lake">data lake</a> may be preferable, or a hybrid approach. Data hubs and lakes simplify development and access, but may incur some time lag before data is available (without special synchronizing logic). On the web, federation is more typical.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federated_search&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Search_aggregator" title="Search aggregator">Search aggregator</a></li>
+<li><a href="/wiki/Z39.50" title="Z39.50">Z39.50</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federated_search&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Arya, Dhruv; Ha-Thuc, Viet; Sinha, Shakti (2015). "Personalized Federated Search at LinkedIn". <a rel="nofollow" class="external text" href="https://arxiv.org/pdf/1602.04924.pdf"><i>Proceedings of the 24th ACM International on Conference on Information and Knowledge Management (CIKM)</i></a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//arxiv.org/abs/1602.04924">1602.04924</a></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F2806416.2806615">10.1145/2806416.2806615</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Personalized+Federated+Search+at+LinkedIn&amp;rft.btitle=Proceedings+of+the+24th+ACM+International+on+Conference+on+Information+and+Knowledge+Management+%28CIKM%29&amp;rft.date=2015&amp;rft_id=info%3Aarxiv%2F1602.04924&amp;rft_id=info%3Adoi%2F10.1145%2F2806416.2806615&amp;rft.aulast=Arya&amp;rft.aufirst=Dhruv&amp;rft.au=Ha-Thuc%2C+Viet&amp;rft.au=Sinha%2C+Shakti&amp;rft_id=https%3A%2F%2Farxiv.org%2Fpdf%2F1602.04924.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederated+search" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Thoughts About Federated Searching.  Jacsó, Péter, Information Today,  Oct 2004, Vol. 21, Issue 9</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.worldwidescience.org">WorldWideScience</a></span>
+</li>
+<li id="cite_note-Science.gov-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Science.gov_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Science.gov_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.science.gov">Science.gov</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://sesat.no">Sesat</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ideaeng.com/tabId/98/itemId/124/Mapping-Security-Requirements-to-Enterprise-Search.aspx">Mapping Security Requirements to Enterprise Search</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ideaeng.com/tabId/98/itemId/154/20-Differences-Between-Internet-vs-Enterprise-Se.aspx#fed_facets">20+ Differences Between Internet vs. Enterprise Search - part 1</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federated_search&amp;action=edit&amp;section=7" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100110060335/http://www.libraryjournal.com/article/CA6571320.html">Federated Search 101. Linoski, Alexis, Walczyk, Tine, Library Journal, Summer 2008 Net Connect, Vol. 133</a>. This content has been moved <a rel="nofollow" class="external text" href="http://www.accessmylibrary.com/article-1G1-182034526/federated-search-101-alexis.html">here</a>, but you will need a remote access account through your local library to get the whole article.</li>
+<li>Cox, Christopher N. Federated Search: Solution or Setback for Online Library Services. Binghamton, NY: Haworth Information Press, 2007. <a rel="nofollow" class="external text" href="http://lccn.loc.gov/2006101753">Table of Contents</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100327234118/http://www.altsearchengines.com/2009/01/11/federated-search-finds-content-that-google-cant-reach-part-i-of-iii/">Federated Search Primer. Lederman, S., AltSearchEngines, January 2009</a>. This material has been reposted <a rel="nofollow" class="external text" href="http://deepwebtechblog.com/federated-search-finds-content-that-google-can%E2%80%99t-reach-part-i-of-iii/">here</a>, on the blog of a commercial search engine company.</li>
+<li>Milad Shokouhi and Luo Si, Federated Search, Foundations and Trends® in Information Retrieval: Vol. 5: No 1, pp 1–102. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1561%2F1500000010">10.1561/1500000010</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Internet_search" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Internet_search" title="Template:Internet search"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Internet_search" title="Template talk:Internet search"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Internet_search&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Internet_search" style="font-size:114%;margin:0 4em"><a href="/wiki/Internet_search" class="mw-redirect" title="Internet search">Internet search</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Types</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Web_search_engine" title="Web search engine">Web search engine</a> (<a href="/wiki/List_of_search_engines" title="List of search engines">List</a>)</li>
+<li><a href="/wiki/Metasearch_engine" title="Metasearch engine">Metasearch engine</a></li>
+<li><a href="/wiki/Collaborative_search_engine" title="Collaborative search engine">Collaborative search engine</a></li>
+<li><a href="/wiki/Human_flesh_search_engine" title="Human flesh search engine">Human flesh search engine</a></li>
+<li><a href="/wiki/Local_search_(Internet)" title="Local search (Internet)">Local search</a></li>
+<li><a href="/wiki/Vertical_search" title="Vertical search">Vertical search</a></li>
+<li><a href="/wiki/Social_search" title="Social search">Social search</a></li>
+<li><a href="/wiki/Image_retrieval" title="Image retrieval">Image search</a></li>
+<li><a href="/wiki/Video_search_engine" title="Video search engine">Video search engine</a></li>
+<li><a href="/wiki/Enterprise_search" title="Enterprise search">Enterprise search</a></li>
+<li><a href="/wiki/Semantic_search" title="Semantic search">Semantic search</a></li>
+<li><a href="/wiki/Natural_language_search_engine" class="mw-redirect" title="Natural language search engine">Natural language search engine</a></li>
+<li><a href="/wiki/Voice_search" title="Voice search">Voice search</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Tools</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Search_engine_marketing" title="Search engine marketing">Search engine marketing</a></li>
+<li><a href="/wiki/Search_engine_optimization" title="Search engine optimization">Search engine optimization</a></li>
+<li><a href="/wiki/Evaluation_measures_(information_retrieval)" title="Evaluation measures (information retrieval)">Evaluation measures</a></li>
+<li><a href="/wiki/Search_oriented_architecture" class="mw-redirect" title="Search oriented architecture">Search oriented architecture</a></li>
+<li><a href="/wiki/Selection-based_search" title="Selection-based search">Selection-based search</a></li></ul>
+<ul><li><a href="/wiki/Document_retrieval" title="Document retrieval">Document retrieval</a></li>
+<li><a href="/wiki/Text_mining" title="Text mining">Text mining</a></li>
+<li><a href="/wiki/Web_crawler" title="Web crawler">Web crawler</a></li>
+<li><a href="/wiki/Multisearch" title="Multisearch">Multisearch</a></li>
+<li><a class="mw-selflink selflink">Federated search</a></li>
+<li><a href="/wiki/Search_aggregator" title="Search aggregator">Search aggregator</a></li>
+<li><a href="/wiki/Index_(search_engine)" class="mw-redirect" title="Index (search engine)">Index</a>/<a href="/wiki/Web_indexing" title="Web indexing">Web indexing</a></li>
+<li><a href="/wiki/Focused_crawler" title="Focused crawler">Focused crawler</a></li>
+<li><a href="/wiki/Spider_trap" title="Spider trap">Spider trap</a></li>
+<li><a href="/wiki/Robots_exclusion_standard" title="Robots exclusion standard">Robots exclusion standard</a></li>
+<li><a href="/wiki/Distributed_web_crawling" title="Distributed web crawling">Distributed web crawling</a></li>
+<li><a href="/wiki/Web_archiving" title="Web archiving">Web archiving</a></li>
+<li><a href="/wiki/Website_mirroring_software" class="mw-redirect" title="Website mirroring software">Website mirroring software</a></li>
+<li><a href="/wiki/Web_search_query" title="Web search query">Web search query</a></li>
+<li><a href="/wiki/Web_query_classification" title="Web query classification">Web query classification</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Protocols<br />and standards</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Z39.50" title="Z39.50">Z39.50</a></li>
+<li><a href="/wiki/Search/Retrieve_Web_Service" title="Search/Retrieve Web Service">Search/Retrieve Web Service</a></li>
+<li><a href="/wiki/Search/Retrieve_via_URL" title="Search/Retrieve via URL">Search/Retrieve via URL</a></li>
+<li><a href="/wiki/OpenSearch" title="OpenSearch">OpenSearch</a></li>
+<li><a href="/wiki/Representational_State_Transfer" class="mw-redirect" title="Representational State Transfer">Representational State Transfer</a></li>
+<li><a href="/w/index.php?title=Website_Parse_Template&amp;action=edit&amp;redlink=1" class="new" title="Website Parse Template (page does not exist)">Website Parse Template</a></li>
+<li><a href="/wiki/Wide_area_information_server" title="Wide area information server">Wide area information server</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">See also</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Search_engine_(computing)" title="Search engine (computing)">Search engine</a></li>
+<li><a href="/wiki/Desktop_search" title="Desktop search">Desktop search</a></li>
+<li><a href="/wiki/Online_search" title="Online search">Online search</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2254
+Cached time: 20180929142824
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.160 seconds
+Real time usage: 0.238 seconds
+Preprocessor visited node count: 391/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 17211/2097152 bytes
+Template argument size: 270/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 5719/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.083/10.000 seconds
+Lua memory usage: 2.27 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  191.155      1 -total
+ 55.16%  105.443      1 Template:Reflist
+ 46.52%   88.932      1 Template:Cite_book
+ 29.26%   55.932      1 Template:Refimprove
+ 19.33%   36.949      1 Template:Ambox
+  8.68%   16.587      1 Template:Internet_search
+  6.86%   13.122      1 Template:Navbox
+  4.20%    8.023      1 Template:Doi
+  1.84%    3.522      2 Template:Hide_in_print
+  1.43%    2.740      1 Template:Only_in_print
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2421086-0!canonical and timestamp 20180929142823 and revision id 850455269
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Federated_search&amp;oldid=850455269">https://en.wikipedia.org/w/index.php?title=Federated_search&amp;oldid=850455269</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Internet_terminology" title="Category:Internet terminology">Internet terminology</a></li><li><a href="/wiki/Category:Internet_search_algorithms" title="Category:Internet search algorithms">Internet search algorithms</a></li><li><a href="/wiki/Category:Applications_of_distributed_computing" title="Category:Applications of distributed computing">Applications of distributed computing</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_June_2008" title="Category:Articles needing additional references from June 2008">Articles needing additional references from June 2008</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Federated+search" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Federated+search" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Federated_search" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Federated_search" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Federated_search">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Federated_search&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Federated_search&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Federated_search" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Federated_search" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Federated_search&amp;oldid=850455269" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Federated_search&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5440717" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Federated_search&amp;id=850455269" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Federated+search">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Federated+search&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Federated_search&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Cerca_federada" title="Cerca federada – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5440717#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 16 July 2018, at 00:06<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Federated_search&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.160","walltime":"0.238","ppvisitednodes":{"value":391,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":17211,"limit":2097152},"templateargumentsize":{"value":270,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5719,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  191.155      1 -total"," 55.16%  105.443      1 Template:Reflist"," 46.52%   88.932      1 Template:Cite_book"," 29.26%   55.932      1 Template:Refimprove"," 19.33%   36.949      1 Template:Ambox","  8.68%   16.587      1 Template:Internet_search","  6.86%   13.122      1 Template:Navbox","  4.20%    8.023      1 Template:Doi","  1.84%    3.522      2 Template:Hide_in_print","  1.43%    2.740      1 Template:Only_in_print"]},"scribunto":{"limitreport-timeusage":{"value":"0.083","limit":"10.000"},"limitreport-memusage":{"value":2377314,"limit":52428800}},"cachereport":{"origin":"mw2254","timestamp":"20180929142824","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":337,"wgHostname":"mw2254"});});</script>
+	</body>
+</html>

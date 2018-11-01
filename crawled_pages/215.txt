@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Yahoo! Search Marketing - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Yahoo!_Search_Marketing","wgTitle":"Yahoo! Search Marketing","wgCurRevisionId":858441139,"wgRevisionId":858441139,"wgArticleId":1025942,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: BOT: original-url status unknown","Wikipedia articles in need of updating from April 2017","All Wikipedia articles in need of updating","Articles with broken or outdated citations from May 2012","All articles with broken or outdated citations","All articles with unsourced statements","Articles with unsourced statements from April 2015","Official website different in Wikidata and Wikipedia","Yahoo! Advertising","Pay per click search engines"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Yahoo!_Search_Marketing","wgRelevantArticleId":1025942,"wgRequestId":"W6@m1wrAIEkAALyMTUAAAAAD","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1778702","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Yahoo!_Search_Marketing"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Yahoo!_Search_Marketing&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Yahoo!_Search_Marketing&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Yahoo!_Search_Marketing"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Yahoo_Search_Marketing rootpage-Yahoo_Search_Marketing skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Yahoo! Search Marketing</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Update" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="Ambox current red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/42px-Ambox_current_red.svg.png" width="42" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/63px-Ambox_current_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/84px-Ambox_current_red.svg.png 2x" data-file-width="360" data-file-height="290" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article needs to be <b>updated</b>.<span class="hide-when-compact"> Please update this article to reflect recent events or newly available information.</span>  <small><i>(April 2017)</i></small></div></td></tr></tbody></table>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">Yahoo Search Marketing</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center">
+<a href="/wiki/File:YahooSearchMarketing_logo.png" class="image"><img alt="YahooSearchMarketing logo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/YahooSearchMarketing_logo.png/220px-YahooSearchMarketing_logo.png" width="220" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/0/0c/YahooSearchMarketing_logo.png 1.5x" data-file-width="307" data-file-height="34" /></a></td></tr><tr><th scope="row" style="padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height:1.35em;">
+subsidiary</td></tr><tr><th scope="row" style="padding-right:0.5em;">Industry</th><td class="category" style="line-height:1.35em;">
+Internet</td></tr><tr><th scope="row" style="padding-right:0.5em;">Founded</th><td style="line-height:1.35em;">
+1996<span class="noprint">&#59;&#32;22&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1996</span>)</span></td></tr><tr><th scope="row" style="padding-right:0.5em;">Headquarters</th><td class="adr" style="line-height:1.35em;">
+<span class="locality"><a href="/wiki/Burbank,_California" title="Burbank, California">Burbank</a>, <a href="/wiki/California" title="California">California</a></span>, <span class="country-name"><a href="/wiki/United_States" title="United States">U.S.</a></span></td></tr><tr><th scope="row" style="padding-right:0.5em;"><a href="/wiki/Parent_company" title="Parent company">Parent</a></th><td style="line-height:1.35em;">
+<a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a></td></tr><tr><th scope="row" style="padding-right:0.5em;">Website</th><td style="line-height:1.35em;">
+<a rel="nofollow" class="external text" href="http://searchmarketing.yahoo.com/">searchmarketing.yahoo.com</a></td></tr></tbody></table>
+<p><b>Yahoo Search Marketing</b> is a keyword-based "<a href="/wiki/Pay_per_click" class="mw-redirect" title="Pay per click">Pay per click</a>" or "<a href="/wiki/Search_engine_marketing" title="Search engine marketing">Sponsored search</a>" Internet advertising service provided by <a href="/wiki/Yahoo" class="mw-redirect" title="Yahoo">Yahoo</a>.
+</p><p>Yahoo began offering this service after acquiring <b>Overture Services, Inc.</b>  (formerly <b>GoTo.com</b>). GoTo.com was an <a href="/wiki/Idealab" title="Idealab">Idealab</a> spin off and was the first company to successfully provide a pay-for-placement search service following previous attempts that were not well received.<sup id="cite_ref-goto_strong_1-0" class="reference"><a href="#cite_note-goto_strong-1">&#91;1&#93;</a></sup><sup id="cite_ref-cnet_p4p_2-0" class="reference"><a href="#cite_note-cnet_p4p-2">&#91;2&#93;</a></sup><sup id="cite_ref-glaser_3-0" class="reference"><a href="#cite_note-glaser-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Origins_of_GoTo.com"><span class="tocnumber">1</span> <span class="toctext">Origins of GoTo.com</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Acquisition_by_Yahoo"><span class="tocnumber">2</span> <span class="toctext">Acquisition by Yahoo</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Patent_litigation"><span class="tocnumber">3</span> <span class="toctext">Patent litigation</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Trademark_Issues"><span class="tocnumber">4</span> <span class="toctext">Trademark Issues</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Adware_partnership"><span class="tocnumber">5</span> <span class="toctext">Adware partnership</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Origins_of_GoTo.com">Origins of GoTo.com</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Search_Marketing&amp;action=edit&amp;section=1" title="Edit section: Origins of GoTo.com">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>GoTo.com was an <a href="/wiki/Idealab" title="Idealab">Idealab</a> <a href="/wiki/Corporate_spin-off" title="Corporate spin-off">spin off</a> and was the first company to successfully provide a pay-for-placement search service.<sup id="cite_ref-goto_strong_1-1" class="reference"><a href="#cite_note-goto_strong-1">&#91;1&#93;</a></sup><sup id="cite_ref-cnet_p4p_2-1" class="reference"><a href="#cite_note-cnet_p4p-2">&#91;2&#93;</a></sup><sup id="cite_ref-glaser_3-1" class="reference"><a href="#cite_note-glaser-3">&#91;3&#93;</a></sup>
+</p><p>In February 1998, GoTo offered advertisers the option of bidding on how much they would be willing to pay to appear at the top of results in response to specific searches. The bid amount was paid by the advertiser to GoTo every time a searcher clicked on a link to the advertiser's website. By July 1998, advertisers were paying anything up to a dollar per click. In June 1999, GoTo launched a tool set <i>direct traffic centre</i> (dtc) to enable advertisers access to keywords and real time bidding.
+</p><p>GoTo's business model was based on the idea that its paid listings would make it more relevant than other services, especially for general searches, and web sites that pay more are probably better sites. A similar service had been offered by Open Text in 1996, but this precipitated outcries and bad publicity because searchers at the time did not want the search process more commercialized.
+</p><p>In contrast, GoTo's pay-for-placement model was very successful. Commentors theorised that the web had matured in the intervening two years, and these type of economic models were more acceptable since the web was no longer just a place for academic research, but also a place for buying products. GoTo founder <a href="/wiki/Bill_H._Gross" title="Bill H. Gross">Bill Gross</a> speculated at the launch that GoTo would succeed because, as a relatively new service, it had no reputation to taint with paid listings, unlike Open Text.
+</p><p>On October 8, 2001, GoTo.com, Inc. renamed itself Overture Services, Inc.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> GoTo's chief operating officer Jaynie Studenmund said "We also felt it was a sophisticated enough name, in case our products expand."
+</p><p>Through partnerships, Overture enabled portals such as <a href="/wiki/MSN" title="MSN">MSN</a> and <a href="/wiki/Yahoo" class="mw-redirect" title="Yahoo">Yahoo</a> to monetize the hundreds of millions of web searches made each day on their sites.  Indeed, these partnerships proved highly lucrative, and in a period otherwise marked by dot-com failures, Overture became a substantial profit driver for portals like Yahoo<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>This success enabled Overture to acquire web sites such as <a href="/wiki/AltaVista" title="AltaVista">AltaVista</a> and <a href="/wiki/AlltheWeb" title="AlltheWeb">AlltheWeb</a>.<sup id="cite_ref-yahoo_press_6-0" class="reference"><a href="#cite_note-yahoo_press-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Acquisition_by_Yahoo">Acquisition by Yahoo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Search_Marketing&amp;action=edit&amp;section=2" title="Edit section: Acquisition by Yahoo">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On October 7, 2003, Overture was acquired by its biggest customer, <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a>, for $1.63 billion.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-yahoo_press_6-1" class="reference"><a href="#cite_note-yahoo_press-6">&#91;6&#93;</a></sup> The old brand name of Overture has now been phased out as Yahoo re-brands many of its products under the Yahoo name. The exception to this is in <a href="/wiki/Japan" title="Japan">Japan</a> and <a href="/wiki/Korea" title="Korea">Korea</a> where the local businesses continue to use the Overture brand.
+</p>
+<h2><span class="mw-headline" id="Patent_litigation">Patent litigation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Search_Marketing&amp;action=edit&amp;section=3" title="Edit section: Patent litigation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In May 1999, GoTo.com filed a patent application titled "System and method for influencing a position on a search result list generated by a computer network search engine". The patent was granted as <span class="citation patent"><a rel="nofollow" class="external text" href="https://worldwide.espacenet.com/textdoc?DB=EPODOC&amp;IDX=US6269361">US 6269361</a></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Apatent&amp;rft.number=6269361&amp;rft.cc=US&amp;rft.title="><span style="display: none;">&#160;</span></span> in July 2001. A related patent has also been granted in Australia and other patent applications remain pending.
+</p><p>Prior to its acquisition by Yahoo, Overture initiated infringement proceedings under this patent against FindWhat.com in January 2002 and <a href="/wiki/Google" title="Google">Google</a> in April 2002.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>The lawsuit against Google related to its <a href="/wiki/AdWords" title="AdWords">AdWords</a> service. In February 2002, Google introduced a service called AdWords Select that allowed marketers to bid for higher placement in marked sections - a tactic that had some similarities to Overture's search-listing auctions.
+</p><p>Following Yahoo's acquisition of Overture, the lawsuit was settled with <a href="/wiki/Google" title="Google">Google</a> agreeing to issue 2.7 million shares of <a href="/wiki/Common_stock" title="Common stock">common stock</a> to Yahoo in exchange for a perpetual license.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Trademark_Issues">Trademark Issues</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Search_Marketing&amp;action=edit&amp;section=4" title="Edit section: Trademark Issues">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 2013, the Tenth Circuit Court of Appeals held in <a href="/wiki/Lens.com,_Inc._v._1-800_Contacts,_Inc." title="Lens.com, Inc. v. 1-800 Contacts, Inc.">Lens.com, Inc. v. 1-800 Contacts, Inc.</a> that online contact lens seller Lens.com did not commit <a href="/wiki/Trademark_infringement" title="Trademark infringement">trademark infringement</a> when it purchased Yahoo and Google AdWords search advertisements using competitor <a href="/wiki/1-800_Contacts" title="1-800 Contacts">1-800 Contacts</a>' federally registered 1800 CONTACTS trademark as a keyword.  In August 2016, the <a href="/wiki/Federal_Trade_Commission" title="Federal Trade Commission">Federal Trade Commission</a> filed an administrative complaint against 1-800 Contacts alleging, among other things, that its search advertising trademark enforcement practices have unreasonably restrained competition in violation of the FTC Act.  1-800 Contacts has denied all wrongdoing and is scheduled to appear before an FTC <a href="/wiki/Administrative_law_judge" title="Administrative law judge">administrative law judge</a> in April 2017.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Adware_partnership">Adware partnership</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Search_Marketing&amp;action=edit&amp;section=5" title="Edit section: Adware partnership">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Text_document_with_red_question_mark.svg" class="image"><img alt="Text document with red question mark.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>uses <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> that <a href="/wiki/Wikipedia:LR" class="mw-redirect" title="Wikipedia:LR">link to broken or outdated sources</a></b>.<span class="hide-when-compact"> Please <span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Yahoo!_Search_Marketing&amp;action=edit">improve the article</a></span> or discuss this issue on the <a href="/wiki/Talk:Yahoo!_Search_Marketing" title="Talk:Yahoo! Search Marketing">talk page</a>. <a href="/wiki/Wikipedia:Footnotes#How_to_use" class="mw-redirect" title="Wikipedia:Footnotes">Help</a> on using footnotes is available.</span>  <small><i>(May 2012)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>In April 2003, Overture announced a three-year partnership with Gator Corporation, (now <a href="/wiki/Claria_Corporation" title="Claria Corporation">Claria Corporation</a>) an <a href="/wiki/Adware" title="Adware">adware</a> company. Under the partnership, Gator's software monitored a web-user's activity on web sites and search engines (even sites such as Google that are not affiliated with Overture) and grabbed search keywords. These keywords were submitted to the Overture search engine. As a result, advertisers who paid for listings in Overture found their products advertised through Gator's Search Scout software, even if they wanted nothing to do with Gator. Overture faced a great deal of criticism for entering into this partnership.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>When Yahoo acquired Overture, the Claria software impaired the operation of Yahoo's services. For example, when a user with a Claria application installed used Yahoo Search, they received a standard set of Yahoo results with sponsored listings at the top supplied by Overture. The user would then receive a full-screen pop-under window from Search Scout. Since Search Scout uses Overture's paid listings as well, Claria's window has exactly the same listings as the Yahoo search results.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p><p>Subsequently, Yahoo came out with the <i>Yahoo Toolbar</i>, which allows users to remove <a href="/wiki/Adware" title="Adware">adware</a> and <a href="/wiki/Spyware" title="Spyware">spyware</a> from their system.  The toolbar affected the operation of Claria's software and may have put stress on the relationship between the two companies.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> Claria's website does not list Yahoo as a partner and a March 2006 press release states that they are exiting the adware business.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2015)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Search_Marketing&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/42px-Industry5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/56px-Industry5.svg.png 2x" data-file-width="512" data-file-height="512" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Companies" title="Portal:Companies">Companies portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Ad_serving" title="Ad serving">Ad serving</a></li>
+<li><a href="/w/index.php?title=Espotting&amp;action=edit&amp;redlink=1" class="new" title="Espotting (page does not exist)">Espotting</a></li>
+<li><a href="/wiki/Google_AdWords" class="mw-redirect" title="Google AdWords">Google AdWords</a></li>
+<li><a href="/wiki/List_of_search_engines" title="List of search engines">List of search engines</a></li>
+<li><a href="/wiki/Microsoft_adCenter" class="mw-redirect" title="Microsoft adCenter">Microsoft adCenter</a></li>
+<li><a href="/wiki/Pay_per_click" class="mw-redirect" title="Pay per click">Pay per click</a></li>
+<li><a href="/wiki/Search_engine_marketing" title="Search engine marketing">Search engine marketing</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Search_Marketing&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-goto_strong-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-goto_strong_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-goto_strong_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><i><a rel="nofollow" class="external text" href="http://searchenginewatch.com/showPage.html?page=2166331">GoTo Going Strong</a></i>, Danny Sullivan, The Search Engine Report, July 1, 1998</span>
+</li>
+<li id="cite_note-cnet_p4p-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-cnet_p4p_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cnet_p4p_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://archive.is/20121208124417/http://news.com.com/Pay-for-placement+gets+another+shot/2100-1023_3-208309.html">Pay-for-placement gets another shot</a>, Jeff Pelline, CNET News.com, February 19, 1998</span>
+</li>
+<li id="cite_note-glaser-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-glaser_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-glaser_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><i>Who Will GoTo.com?</i>, Ken Glaser, OnlinePress.com, Feb. 20, 1998</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://searchenginewatch.com/showPage.html?page=2164231">GoTo Makes Overture To New Name</a> Danny Sullivan, The Search Engine Report, October 2, 2001</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://archive.is/20120712052424/http://news.com.com/Yahoo!+reports+profit+on+higher+revenue/2100-1023_3-961453.html">Yahoo reports profit on higher revenue</a>, Jim Hu, CNET News.com, October 9, 2002 - estimating that Overture contributed $25 million to Yahoo's revenue in Q3 2002</span>
+</li>
+<li id="cite_note-yahoo_press-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-yahoo_press_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-yahoo_press_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://docs.yahoo.com/docs/pr/release1102.html">Yahoo to Acquire Overture</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070708055621/http://docs.yahoo.com/docs/pr/release1102.html">Archived</a> 2007-07-08 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Yahoo press release, July 14, 2003</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080713214826/http://yhoo.client.shareholder.com/press/timeline.cfm">"Yahoo! Inc. - Company Timeline"</a>. <i><a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></i>. 2008-07-13. Archived from the original on 2008-07-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-07-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Wayback+Machine&amp;rft.atitle=Yahoo%21+Inc.+-+Company+Timeline&amp;rft.date=2008-07-13&amp;rft_id=http%3A%2F%2Fyhoo.client.shareholder.com%2Fpress%2Ftimeline.cfm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Search+Marketing" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: BOT: original-url status unknown (<a href="/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown">link</a>) </span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://archive.is/20120716230949/http://news.com.com/2100-1023-876861.html">Overture sues Google over search patent</a>, Stefanie Olsen and Gwendolyn Mariano, CNet news.com, April 5, 2002</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.cnet.com/Google,-Yahoo-bury-the-legal-hatchet/2100-1024_3-5302421.html?tag=mncol">Google, Yahoo bury the legal hatchet</a>, Stefanie Olsen, CNET News.com, August 9, 2004</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">David O. Klein &amp; Joshua R. Wueller, <a rel="nofollow" class="external text" href="http://papers.ssrn.com/abstract=2897528"><i>Trademark Enforcement and Internet Search Advertising: A Regulatory Risk for Brand Owners</i></a>, IP Litigator, Nov./Dec. 2016.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.pcpitstop.com/gator/Overture.asp">Overture and Gator</a> summary of the agreement and objections by pcpitstop.com</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.pcpitstop.com/gator/Yahoo.asp">Yahoo and Claria</a> analysis by pcpitstop.com</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://archive.is/20120713144955/http://news.com.com/Yahoo+clamps+down+on+Claria+adware/2100-1024_3-5300287.html">Yahoo clamps down on Claria adware</a>, Stefanie Olsen, CNET News.com, August 6, 2004</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Search_Marketing&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://advertising.yahoo.com/">Official website</a></span></span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Yahoo!" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Yahoo!_Inc." title="Template:Yahoo! Inc."><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Yahoo!_Inc." title="Template talk:Yahoo! Inc."><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Yahoo!_Inc.&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Yahoo!" style="font-size:114%;margin:0 4em"><a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Websites</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Yahoo.com" class="mw-redirect" title="Yahoo.com">Yahoo.com</a>
+<ul><li><a href="/wiki/Yahoo!_Entertainment" class="mw-redirect" title="Yahoo! Entertainment">Entertainment</a></li>
+<li><a href="/wiki/Yahoo!_Finance" title="Yahoo! Finance">Finance</a></li>
+<li><a href="/wiki/Yahoo!_News" title="Yahoo! News">News</a></li>
+<li><a href="/wiki/Yahoo!_Search" title="Yahoo! Search">Search</a></li>
+<li><a href="/wiki/Yahoo!_Shopping" class="mw-redirect" title="Yahoo! Shopping">Shopping</a></li>
+<li><a href="/wiki/Yahoo!_Small_Business" class="mw-redirect" title="Yahoo! Small Business">Small Business</a></li>
+<li><a href="/wiki/Yahoo!_Sports" class="mw-redirect" title="Yahoo! Sports">Sports</a></li>
+<li><a href="/wiki/Yahoo!_Lifestyle" class="mw-redirect" title="Yahoo! Lifestyle">Lifestyle</a></li>
+<li><a href="/wiki/Yahoo!_View" title="Yahoo! View">View</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Communication</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Yahoo!_Answers" title="Yahoo! Answers">Answers</a></li>
+<li><a href="/wiki/Yahoo!_Groups" title="Yahoo! Groups">Groups</a></li>
+<li><a href="/wiki/Yahoo!_Mail" title="Yahoo! Mail">Mail</a></li>
+<li><a href="/wiki/Tumblr" title="Tumblr">Tumblr</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Software</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Yahoo!_Smart_TV" title="Yahoo! Smart TV">Smart TV</a></li>
+<li><a href="/wiki/Yahoo_Squirrel" title="Yahoo Squirrel">Squirrel</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Development</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Yahoo!_Developer_Network" class="mw-redirect" title="Yahoo! Developer Network">Developer Network</a>
+<ul><li><a href="/wiki/Yahoo!_Query_Language" title="Yahoo! Query Language">Query Language</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Corporate</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Verizon_Communications" title="Verizon Communications">Verizon</a>
+<ul><li><a href="/wiki/Oath_Inc." title="Oath Inc.">Oath</a></li></ul></li>
+<li><a href="/wiki/Criticism_of_Yahoo!" title="Criticism of Yahoo!">Criticism</a></li>
+<li><a href="/wiki/History_of_Yahoo!" title="History of Yahoo!">History</a></li>
+<li><a href="/wiki/List_of_Yahoo!-owned_sites_and_services" title="List of Yahoo!-owned sites and services">Products</a></li>
+<li><a href="/wiki/Timeline_of_Yahoo!" title="Timeline of Yahoo!">Timeline</a></li>
+<li><a href="/wiki/List_of_mergers_and_acquisitions_by_Yahoo!" title="List of mergers and acquisitions by Yahoo!">Acquisitions</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related People</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/David_Filo" title="David Filo">David Filo</a></li>
+<li><a href="/wiki/Marissa_Mayer" title="Marissa Mayer">Marissa Mayer</a></li>
+<li><a href="/wiki/Jerry_Yang" title="Jerry Yang">Jerry Yang</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AOL" title="AOL">AOL</a></li>
+<li><a href="/wiki/Altaba" title="Altaba">Altaba</a>
+<ul><li><a href="/wiki/Yahoo!_China" class="mw-redirect" title="Yahoo! China">Yahoo! China</a></li></ul></li>
+<li><a href="/wiki/Koprol" title="Koprol">Koprol</a></li>
+<li><a href="/wiki/Maktoob" title="Maktoob">Maktoob</a>
+<ul><li><a href="/wiki/Sport4ever" title="Sport4ever">Sport4ever</a></li></ul></li>
+<li><a href="/wiki/Yahoo7" title="Yahoo7">Yahoo7</a></li>
+<li><a href="/wiki/Yahoo!_Japan" title="Yahoo! Japan">Yahoo! Japan</a></li>
+<li><a href="/wiki/Yahoo!_Korea" title="Yahoo! Korea">Yahoo! Korea</a></li>
+<li><a href="/wiki/Yahoo!Xtra" title="Yahoo!Xtra">Yahoo!Xtra</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2226
+Cached time: 20180929134343
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.252 seconds
+Real time usage: 0.394 seconds
+Preprocessor visited node count: 1555/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 32896/2097152 bytes
+Template argument size: 2368/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 8998/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.113/10.000 seconds
+Lua memory usage: 2.9 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  337.948      1 -total
+ 28.71%   97.010      1 Template:Reflist
+ 19.20%   64.883      1 Template:Cite_web
+ 15.30%   51.721      1 Template:Infobox_company
+ 14.33%   48.413      1 Template:Update
+ 13.10%   44.277      1 Template:Official_website
+ 12.21%   41.273      1 Template:Infobox
+ 10.97%   37.085      2 Template:Ambox
+  9.72%   32.841      4 Template:Main_other
+  9.16%   30.961      1 Template:Yahoo!_Inc.
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1025942-0!canonical and timestamp 20180929134343 and revision id 858441139
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Yahoo!_Search_Marketing&amp;oldid=858441139">https://en.wikipedia.org/w/index.php?title=Yahoo!_Search_Marketing&amp;oldid=858441139</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Yahoo!_Advertising" title="Category:Yahoo! Advertising">Yahoo! Advertising</a></li><li><a href="/wiki/Category:Pay_per_click_search_engines" title="Category:Pay per click search engines">Pay per click search engines</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown">CS1 maint: BOT: original-url status unknown</a></li><li><a href="/wiki/Category:Wikipedia_articles_in_need_of_updating_from_April_2017" title="Category:Wikipedia articles in need of updating from April 2017">Wikipedia articles in need of updating from April 2017</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_in_need_of_updating" title="Category:All Wikipedia articles in need of updating">All Wikipedia articles in need of updating</a></li><li><a href="/wiki/Category:Articles_with_broken_or_outdated_citations_from_May_2012" title="Category:Articles with broken or outdated citations from May 2012">Articles with broken or outdated citations from May 2012</a></li><li><a href="/wiki/Category:All_articles_with_broken_or_outdated_citations" title="Category:All articles with broken or outdated citations">All articles with broken or outdated citations</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2015" title="Category:Articles with unsourced statements from April 2015">Articles with unsourced statements from April 2015</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Yahoo%21+Search+Marketing" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Yahoo%21+Search+Marketing" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Yahoo!_Search_Marketing" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Yahoo!_Search_Marketing" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Yahoo!_Search_Marketing">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Yahoo!_Search_Marketing&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Yahoo!_Search_Marketing&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Yahoo!_Search_Marketing" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Yahoo!_Search_Marketing" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Yahoo!_Search_Marketing&amp;oldid=858441139" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Yahoo!_Search_Marketing&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1778702" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Yahoo%21_Search_Marketing&amp;id=858441139" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Yahoo%21+Search+Marketing">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Yahoo%21+Search+Marketing&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Yahoo!_Search_Marketing&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B9%E0%A7%81!_%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9A_%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%9F%E0%A6%BF%E0%A6%82" title="ইয়াহু! সার্চ মার্কেটিং – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Yahoo_Search_Marketing" title="Yahoo Search Marketing – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Yahoo_search_marketing" title="Yahoo search marketing – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Yahoo!_Search_Marketing" title="Yahoo! Search Marketing – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Overture" title="Overture – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%9B%85%E8%99%8E%E6%90%9C%E5%B0%8B%E8%A1%8C%E9%8A%B7" title="雅虎搜尋行銷 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1778702#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 7 September 2018, at 06:11<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Yahoo!_Search_Marketing&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.252","walltime":"0.394","ppvisitednodes":{"value":1555,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":32896,"limit":2097152},"templateargumentsize":{"value":2368,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":8998,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  337.948      1 -total"," 28.71%   97.010      1 Template:Reflist"," 19.20%   64.883      1 Template:Cite_web"," 15.30%   51.721      1 Template:Infobox_company"," 14.33%   48.413      1 Template:Update"," 13.10%   44.277      1 Template:Official_website"," 12.21%   41.273      1 Template:Infobox"," 10.97%   37.085      2 Template:Ambox","  9.72%   32.841      4 Template:Main_other","  9.16%   30.961      1 Template:Yahoo!_Inc."]},"scribunto":{"limitreport-timeusage":{"value":"0.113","limit":"10.000"},"limitreport-memusage":{"value":3044573,"limit":52428800}},"cachereport":{"origin":"mw2226","timestamp":"20180929134343","ttl":86400,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":75,"wgHostname":"mw2185"});});</script>
+	</body>
+</html>

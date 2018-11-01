@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ecosia - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ecosia","wgTitle":"Ecosia","wgCurRevisionId":861823827,"wgRevisionId":861823827,"wgArticleId":45138227,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from July 2018","Articles with a promotional tone from September 2017","All articles with a promotional tone","Articles containing potentially dated statements from January 2018","All articles containing potentially dated statements","All articles with unsourced statements","Articles with unsourced statements from July 2018","Official website different in Wikidata and Wikipedia","Internet search engines","Social economy","Social enterprises","Public economics","Benefit corporations"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ecosia","wgRelevantArticleId":45138227,"wgRequestId":"W7CKGQrAAD0AAJak1WkAAABO","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1282139","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/1/11/Ecosia_logo.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ecosia"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ecosia&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ecosia&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ecosia"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ecosia rootpage-Ecosia skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Ecosia</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="plainlinks metadata ambox ambox-content ambox-Advert" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>contains content that is written like <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_soapbox_or_means_of_promotion" title="Wikipedia:What Wikipedia is not">an advertisement</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Ecosia&amp;action=edit">improve it</a> by removing <a href="/wiki/Wikipedia:Spam" title="Wikipedia:Spam">promotional content</a> and inappropriate <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, and by adding encyclopedic content written from a <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>.</span>  <small><i>(September 2017)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">Ecosia</caption><tbody><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Ecosia_logo.png" class="image" title="Ecosia logo"><img alt="Ecosia logo" src="//upload.wikimedia.org/wikipedia/en/thumb/1/11/Ecosia_logo.png/250px-Ecosia_logo.png" width="250" height="182" srcset="//upload.wikimedia.org/wikipedia/en/1/11/Ecosia_logo.png 1.5x" data-file-width="370" data-file-height="270" /></a></td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Type of site</div></th><td>
+Private company</td></tr><tr><th scope="row">Available&#160;in</th><td>
+<a href="/wiki/English_language" title="English language">English</a> and 26 others</td></tr><tr><th scope="row">Owner</th><td>
+Christian Kroll</td></tr><tr><th scope="row">Created&#160;by</th><td>
+Christian Kroll</td></tr><tr><th scope="row">CEO</th><td>
+Christian Kroll</td></tr><tr><th scope="row"><a href="/wiki/Revenue" title="Revenue">Revenue</a></th><td>
+€8.1M (2017)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row">Website</th><td class="url">
+<span class="url"><a rel="nofollow" class="external text" href="https://ecosia.org">ecosia<wbr />.org</a></span></td></tr><tr><th scope="row"><a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa</a> rank</th><td>
+<img alt="Positive decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/11px-Decrease_Positive.svg.png" title="Positive decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/17px-Decrease_Positive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/22px-Decrease_Positive.svg.png 2x" data-file-width="300" data-file-height="300" /> 758 <small>(January 2018<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Ecosia&amp;action=edit">&#91;update&#93;</a></sup>)</small><sup id="cite_ref-alexa_2-0" class="reference"><a href="#cite_note-alexa-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row">Commercial</th><td>
+Yes</td></tr><tr><th scope="row"><a href="/wiki/Registered_user" title="Registered user">Users</a></th><td>
+7,000,000+</td></tr><tr><th scope="row">Launched</th><td>
+7&#160;December 2009<span class="noprint">&#59;&#32;8 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2009-12-07</span>)</span></td></tr><tr><th scope="row">Current&#160;status</th><td class="category">
+Active</td></tr></tbody></table>
+<p><b>Ecosia</b> is a <a href="/wiki/Web_search_engine" title="Web search engine">web search engine</a> based in <a href="/wiki/Berlin" title="Berlin">Berlin</a>, <a href="/wiki/Germany" title="Germany">Germany</a>, which donates 80% of its surplus income to <a href="/wiki/Nonprofit_organization" title="Nonprofit organization">non-profit</a> <a href="/wiki/Conservation_movement" title="Conservation movement">conservationist</a> organizations, with a focus on tree planting. Ecosia considers itself a "social business", is CO<sub>2</sub>-neutral<sup id="cite_ref-TC_3-0" class="reference"><a href="#cite_note-TC-3">&#91;3&#93;</a></sup> and claims to support full <a href="/wiki/Transparency_(social)" class="mw-redirect" title="Transparency (social)">financial transparency</a>,<sup id="cite_ref-G2_4-0" class="reference"><a href="#cite_note-G2-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> and is certified by <a href="/wiki/B_Lab" title="B Lab">B-Lab</a> as a <a href="/wiki/Benefit_corporation" title="Benefit corporation">benefit corporation</a>.<sup id="cite_ref-BLabs_6-0" class="reference"><a href="#cite_note-BLabs-6">&#91;6&#93;</a></sup> According to Ecosia, over 37 million trees have been planted with its support as of 12 September 2018.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Search_engine"><span class="tocnumber">1</span> <span class="toctext">Search engine</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Impact"><span class="tocnumber">3</span> <span class="toctext">Impact</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Browser_integration"><span class="tocnumber">4</span> <span class="toctext">Browser integration</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Search_engine">Search engine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecosia&amp;action=edit&amp;section=1" title="Edit section: Search engine">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ecosia can be searched using a web browser or a mobile app on Android and iOS devices;<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> results are powered by Microsoft <a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a> and Ecosia's own search algorithms.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>Ecosia shows <a href="/wiki/Advertising" title="Advertising">advertisements</a> next to its search results, and are paid by their partners at Bing for every click on a sponsored link for having directed users to their advertisers. Considering that not every Ecosia user clicks on an ad every time they search, Ecosia states that on average a search raises around half a Euro cent (0.005 EUR).
+</p><p>Ecosia also raises funds through its second product EcoLinks, a Browser Extension that allows users to donate for free to Ecosia through their online purchases. Operators of online shops pay a commission to Ecosia (usually a rate between 2 to 10%) if a user lands on their shop through clicking on an EcoLink and purchases an item or any service.
+</p><p>Ecosia supports country-based country filtering but does not support the displaying of worldwide information as of July 2016.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecosia&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In September 2009, Ecosia received $21,500 in seed capital,<sup id="cite_ref-TC_3-1" class="reference"><a href="#cite_note-TC-3">&#91;3&#93;</a></sup> and the search engine launched on 7 December 2009, to coincide with UN climate talks in Copenhagen.<sup id="cite_ref-TWE_11-0" class="reference"><a href="#cite_note-TWE-11">&#91;11&#93;</a></sup> Over time, Ecosia has donated to different tree-planting programs. Until December 2010 Ecosia’s donations went to a program by <a href="/wiki/World_Wide_Fund_for_Nature" title="World Wide Fund for Nature">WWF</a> Germany that protected the <a href="/wiki/Juruena_National_Park" title="Juruena National Park">Juruena National Park</a> in the <a href="/wiki/Amazon_basin" title="Amazon basin">Amazon basin</a>. In order to make sure the protection was kept up, the program also drew up and financed plans with timber companies and the local communities.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2018)">citation needed</span></a></i>&#93;</sup>
+</p><p>Between December 2009 and August 2013, Ecosia donated to the Plant a Billion Trees program run by the Nature Conservancy, which the program aimed to restore the Brazilian Atlantic Forest by planting one billion native trees by 2015. By 2011, the search engine had raised over €250,000.<sup id="cite_ref-G2_4-1" class="reference"><a href="#cite_note-G2-4">&#91;4&#93;</a></sup> In 2013, about 200,000 people were using Ecosia, and 116,000 seedlings had been funded by Ecosia's donations.<sup id="cite_ref-SA_12-0" class="reference"><a href="#cite_note-SA-12">&#91;12&#93;</a></sup><sup id="cite_ref-What_13-0" class="reference"><a href="#cite_note-What-13">&#91;13&#93;</a></sup>
+</p><p>In spring 2013 Ecosia announced an improvement of its donation model as well as the quality of the search results. However, due to technical difficulties, the company temporarily had to use a feed subject to charges. At the same time, an Ecolink partner had suddenly terminated their partnership. As a result Ecosia made an agreement with WWF whereby donations from November 2012 until February 2013 were restricted to 20,000 Euros per month. Once the financial bottleneck had been overcome, the normal donation model was immediately restored.
+</p><p>With a relaunch of the search engine on December 14, 2013 came the switch to a new reforestation program by <a href="/wiki/The_Nature_Conservancy" title="The Nature Conservancy">The Nature Conservancy</a> (TNC). The switch signified a slight change of paradigm since the company was no longer protecting forested areas but rather financing a reforestation program. TNC's program "Plant a Billion Trees" aimed at reforesting the Mata Atlântica, the Atlantic Forest of Brazil.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2018)">citation needed</span></a></i>&#93;</sup>
+</p><p>In 2015 Ecosia began funding <a href="/wiki/Reforestation" title="Reforestation">reforestation</a> in <a href="/wiki/Burkina_Faso" title="Burkina Faso">Burkina Faso</a> as part of the <a href="/wiki/Great_Green_Wall" title="Great Green Wall">Great Green Wall</a> project, backed by the <a href="/wiki/African_Union" title="African Union">African Union</a> and the <a href="/wiki/World_Bank" title="World Bank">World Bank</a>, that aims to prevent desertification.<sup id="cite_ref-What_13-1" class="reference"><a href="#cite_note-What-13">&#91;13&#93;</a></sup>
+</p><p>According to B-labs, as of January 2015, "In donating 80 percent of its ad revenue, the search engine has raised over $1.5 million for rainforest protection since its founding in December 2009."<sup id="cite_ref-BLabs_6-1" class="reference"><a href="#cite_note-BLabs-6">&#91;6&#93;</a></sup> According to Ecosia, by 2015, the search engine had almost 2.5 million active users, and searches through it had resulted in more than 2 million trees being planted.<sup id="cite_ref-What_13-2" class="reference"><a href="#cite_note-What-13">&#91;13&#93;</a></sup>
+</p><p>In May 2015, Ecosia was shortlisted for The Europas, the European Tech Startups Awards, under the category Best European Startup Aimed At Improving Society.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p><p>As of 27 April 2016, Ecosia ranks in the top 2 start-up for Germany in the StartupRanking.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+Ecosia reached the milestone of 5 million trees planted on 7 September 2016,<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> 10 million on 29 July 2017 and over 5.5 million active users,<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> and 15 million on October 16 2017 and 17.5 million on 4 December 2017 and over 7 million active users on 10 December 2017. 21 million trees planted as of 24 February 2018. 30 million on 12 June 2018. 38 million trees planted on 22nd September 2018. <sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Impact">Impact</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecosia&amp;action=edit&amp;section=3" title="Edit section: Impact">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ecosia actively plants trees in 10 countries throughout <a href="/wiki/Europe" title="Europe">Europe</a>, <a href="/wiki/Latin_America" title="Latin America">Central &amp; South America</a>, <a href="/wiki/Africa" title="Africa">Africa</a>, and <a href="/wiki/Asia" title="Asia">Asia</a>.
+</p><p>As of August 2018, Ecosia had planted over 35 million trees throughout the world.<sup id="cite_ref-TC_3-2" class="reference"><a href="#cite_note-TC-3">&#91;3&#93;</a></sup> About two-thirds of these trees were planted in the previous year.
+</p>
+<h2><span class="mw-headline" id="Browser_integration">Browser integration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecosia&amp;action=edit&amp;section=4" title="Edit section: Browser integration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>With the first release on July 21, 2017, <a href="/wiki/Brave_(web_browser)" title="Brave (web browser)">Brave</a> web browser features Ecosia as one of its default search engines.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> With the release of version 26 (on January 26, 2016), the <a href="/wiki/Pale_Moon_(web_browser)" title="Pale Moon (web browser)">Pale Moon</a> web browser adds Ecosia as one of the default search engines. As of version 8 (on February 15, 2016), Polarity web browser switched to Ecosia as its default search engine.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> Since version 44.0.2, Ecosia is the default search engine of the <a href="/wiki/Waterfox" title="Waterfox">Waterfox</a> web browser.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> Since version 1.9, <a href="/wiki/Vivaldi_(web_browser)" title="Vivaldi (web browser)">Vivaldi browser</a> includes Ecosia as a default search engine option.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> In March 2018, <a href="/wiki/Firefox" title="Firefox">Firefox</a> 59.0 added Ecosia as a search engine option for the German version.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecosia&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Community_interest_company" title="Community interest company">Community interest company</a></li>
+<li><a href="/wiki/Comparison_of_web_search_engines" title="Comparison of web search engines">Comparison of web search engines</a></li>
+<li><a href="/wiki/Impact_investing" title="Impact investing">Impact investing</a></li>
+<li><a href="/wiki/List_of_search_engines" title="List of search engines">List of search engines</a></li>
+<li><a href="/wiki/Public-benefit_corporation" title="Public-benefit corporation">Public-benefit corporation</a></li>
+<li><a href="/wiki/Social_purpose_corporation" title="Social purpose corporation">Social purpose corporation</a></li>
+<li><a href="/wiki/Socially_responsible_investing" title="Socially responsible investing">Socially responsible investing</a></li>
+<li><a href="/wiki/Stakeholder_theory" title="Stakeholder theory">Stakeholder theory</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecosia&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ecosia.dropmark.com/369415">"Ecosia business reports"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ecosia+business+reports&amp;rft_id=http%3A%2F%2Fecosia.dropmark.com%2F369415&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-alexa-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-alexa_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.alexa.com/siteinfo/ecosia.org">"Ecosia Site Info"</a>. <a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa Internet</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 3,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ecosia+Site+Info&amp;rft.pub=Alexa+Internet&amp;rft_id=http%3A%2F%2Fwww.alexa.com%2Fsiteinfo%2Fecosia.org&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-TC-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-TC_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-TC_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-TC_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.crunchbase.com/organization/ecosia">"Ecosia"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">23 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ecosia&amp;rft_id=https%3A%2F%2Fwww.crunchbase.com%2Forganization%2Fecosia&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-G2-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-G2_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-G2_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Carrington, Damian (3 June 2011). <a rel="nofollow" class="external text" href="https://www.theguardian.com/environment/damian-carrington-blog/2011/jun/03/green-economy-searchengines">"Green search engine means you click and save the rainforest"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">23 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Green+search+engine+means+you+click+and+save+the+rainforest&amp;rft.date=2011-06-03&amp;rft.aulast=Carrington&amp;rft.aufirst=Damian&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2Fdamian-carrington-blog%2F2011%2Fjun%2F03%2Fgreen-economy-searchengines&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://docs.google.com/a/ecosia.org/document/d/13-p39IfNkxi71ercV3sb7f81HsFQf31EZsllezcy60s/edit?usp=sharing">"Donation Statements, Ecosia"</a>. Google, Ecosia<span class="reference-accessdate">. Retrieved <span class="nowrap">20 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Donation+Statements%2C+Ecosia&amp;rft.pub=Google%2C+Ecosia&amp;rft_id=https%3A%2F%2Fdocs.google.com%2Fa%2Fecosia.org%2Fdocument%2Fd%2F13-p39IfNkxi71ercV3sb7f81HsFQf31EZsllezcy60s%2Fedit%3Fusp%3Dsharing&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-BLabs-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-BLabs_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BLabs_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bcorporation.net/community/ecosia-gmbh">"Ecosia GmbH, B Corporation"</a>. B-labs<span class="reference-accessdate">. Retrieved <span class="nowrap">20 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ecosia+GmbH%2C+B+Corporation&amp;rft.pub=B-labs&amp;rft_id=http%3A%2F%2Fwww.bcorporation.net%2Fcommunity%2Fecosia-gmbh&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ecosia.org/">"Ecosia - the search engine that plants trees"</a>. <i>www.ecosia.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-06-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.ecosia.org&amp;rft.atitle=Ecosia+-+the+search+engine+that+plants+trees&amp;rft_id=https%3A%2F%2Fwww.ecosia.org%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://info.ecosia.org/mobile">"Download Ecosia for your mobile"</a>. <i>info.ecosia.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-09-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=info.ecosia.org&amp;rft.atitle=Download+Ecosia+for+your+mobile&amp;rft_id=https%3A%2F%2Finfo.ecosia.org%2Fmobile&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://ecosia.zendesk.com/hc/en-us/articles/206153381-Where-do-Ecosia-s-search-results-come-from-">"Where do Ecosia's search results come from?"</a>. <i>Ecosia Knowledge Base</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ecosia+Knowledge+Base&amp;rft.atitle=Where+do+Ecosia%27s+search+results+come+from%3F&amp;rft_id=https%3A%2F%2Fecosia.zendesk.com%2Fhc%2Fen-us%2Farticles%2F206153381-Where-do-Ecosia-s-search-results-come-from-&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://twitter.com/Ecosia/status/750313333128060928">"Ecosia on Twitter"</a>. <i><a href="/wiki/Twitter" title="Twitter">Twitter</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">5 July</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Twitter&amp;rft.atitle=Ecosia+on+Twitter&amp;rft_id=https%3A%2F%2Ftwitter.com%2FEcosia%2Fstatus%2F750313333128060928&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-TWE-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-TWE_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Donoghue, Andrew (4 December 2009). <a rel="nofollow" class="external text" href="http://www.techweekeurope.co.uk/e-innovation/microsoft-backed-green-search-engine-attacks-google-2661">"Microsoft-Backed Green Search Engine Attacks Google"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">23 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Microsoft-Backed+Green+Search+Engine+Attacks+Google&amp;rft.date=2009-12-04&amp;rft.aulast=Donoghue&amp;rft.aufirst=Andrew&amp;rft_id=http%3A%2F%2Fwww.techweekeurope.co.uk%2Fe-innovation%2Fmicrosoft-backed-green-search-engine-attacks-google-2661&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-SA-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-SA_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Fischetti, Mark (26 November 2013). <a rel="nofollow" class="external text" href="http://blogs.scientificamerican.com/observations/search-the-web-plant-a-treeevery-minute/">"Search the Web, Plant a Tree—Every Minute"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">23 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Search+the+Web%2C+Plant+a+Tree%E2%80%94Every+Minute&amp;rft.date=2013-11-26&amp;rft.aulast=Fischetti&amp;rft.aufirst=Mark&amp;rft_id=http%3A%2F%2Fblogs.scientificamerican.com%2Fobservations%2Fsearch-the-web-plant-a-treeevery-minute%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-What-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-What_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-What_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-What_13-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://info.ecosia.org/what">"What is Ecosia?"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">23 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=What+is+Ecosia%3F&amp;rft_id=https%3A%2F%2Finfo.ecosia.org%2Fwhat&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Butcher, Mike (18 May 2015). <a rel="nofollow" class="external text" href="https://techcrunch.com/2015/05/18/vote-now-in-the-europas-awards-for-european-tech-startups/">"The Shortlist Is Out — Vote Now In The Europas Awards For European Tech Startups"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">23 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Shortlist+Is+Out+%E2%80%94+Vote+Now+In+The+Europas+Awards+For+European+Tech+Startups&amp;rft.date=2015-05-18&amp;rft.aulast=Butcher&amp;rft.aufirst=Mike&amp;rft_id=https%3A%2F%2Ftechcrunch.com%2F2015%2F05%2F18%2Fvote-now-in-the-europas-awards-for-european-tech-startups%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.startupranking.com/top/germany">"Germany Top Startups – Adblock Plus, Ecosia, Dawanda | Startup Ranking"</a>. <i>StartupRanking</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=StartupRanking&amp;rft.atitle=Germany+Top+Startups+%E2%80%93+Adblock+Plus%2C+Ecosia%2C+Dawanda+%7C+Startup+Ranking&amp;rft_id=http%3A%2F%2Fwww.startupranking.com%2Ftop%2Fgermany&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://blog.ecosia.org/post/150078263486/today-we-reached-astonishing-5-million-planted">"Ecosia Blog (English) — Today we reached astonishing 5 Million planted..."</a> <i>Ecosia Blog (English)</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-09-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ecosia+Blog+%28English%29&amp;rft.atitle=Ecosia+Blog+%28English%29+%E2%80%94+Today+we+reached+astonishing+5+Million+planted...&amp;rft_id=http%3A%2F%2Fblog.ecosia.org%2Fpost%2F150078263486%2Ftoday-we-reached-astonishing-5-million-planted&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=neB5nSOipUY">"Announcement by Ecosia"</a>. <i>Ecosia (English)</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-07-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ecosia+%28English%29&amp;rft.atitle=Announcement+by+Ecosia&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DneB5nSOipUY&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=fmZ4IMxLpXg">"Announcement by Ecosia"</a>. <i>Ecosia (English)</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-10-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ecosia+%28English%29&amp;rft.atitle=Announcement+by+Ecosia&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfmZ4IMxLpXg&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://github.com/brave/browser-laptop">"Brave Browser Github page"</a>. <i>Github</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 August</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Github&amp;rft.atitle=Brave+Browser+Github+page&amp;rft_id=https%3A%2F%2Fgithub.com%2Fbrave%2Fbrowser-laptop&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://polarityweb.weebly.com/windows.html">"Polarity – Windows"</a>. <i>Polarity</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 March</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Polarity&amp;rft.atitle=Polarity+%E2%80%93+Windows&amp;rft_id=http%3A%2F%2Fpolarityweb.weebly.com%2Fwindows.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.waterfoxproject.org/support-waterfox">"Waterfox – Help Waterfox"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Waterfox+%E2%80%93+Help+Waterfox&amp;rft_id=https%3A%2F%2Fwww.waterfoxproject.org%2Fsupport-waterfox&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web">Nestor, Marius. <a rel="nofollow" class="external text" href="http://news.softpedia.com/news/vivaldi-1-9-browser-is-out-with-ecosia-search-engine-to-help-reforest-the-planet-515201.shtml">"Vivaldi 1.9 Browser Is Out with Ecosia Search Engine to Help Reforest the Planet"</a>. Softpedia.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Vivaldi+1.9+Browser+Is+Out+with+Ecosia+Search+Engine+to+Help+Reforest+the+Planet&amp;rft.pub=Softpedia&amp;rft.aulast=Nestor&amp;rft.aufirst=Marius&amp;rft_id=http%3A%2F%2Fnews.softpedia.com%2Fnews%2Fvivaldi-1-9-browser-is-out-with-ecosia-search-engine-to-help-reforest-the-planet-515201.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.mozilla.org/en-US/firefox/59.0/releasenotes/">"Release Notes for Firefox 59"</a>. Mozilla Foundation.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Release+Notes+for+Firefox+59&amp;rft.pub=Mozilla+Foundation&amp;rft_id=https%3A%2F%2Fwww.mozilla.org%2Fen-US%2Ffirefox%2F59.0%2Freleasenotes%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://documents.ecosia.org/369423/13865960">"March 2018 Mozilla makes Ecosia a Firefox search option in Germany"</a>. <i>documents.ecosia.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 August</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=documents.ecosia.org&amp;rft.atitle=March+2018+Mozilla+makes+Ecosia+a+Firefox+search+option+in+Germany&amp;rft_id=http%3A%2F%2Fdocuments.ecosia.org%2F369423%2F13865960&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEcosia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ecosia&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://ecosia.org">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://info.ecosia.org/about">Official information homepage</a></li>
+<li><a rel="nofollow" class="external text" href="https://blog.ecosia.org/">Ecosia Blog (English)</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.crunchbase.com/organization/ecosia">Company profile</a> at Crunchbase</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Web_search_engines" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Web_search_engines" title="Template:Web search engines"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Web_search_engines" title="Template talk:Web search engines"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_search_engines&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Web_search_engines" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_search_engine" title="Web search engine">Web search engines</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Active</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AOL" title="AOL">AOL</a></li>
+<li><a href="/wiki/Ahmia" title="Ahmia">Ahmia</a></li>
+<li><a href="/wiki/Ask.com" title="Ask.com">Ask.com</a></li>
+<li><a href="/wiki/Baidu" title="Baidu">Baidu</a></li>
+<li><a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a></li>
+<li><a href="/wiki/Blackle" title="Blackle">Blackle</a></li>
+<li><a href="/wiki/Dogpile" title="Dogpile">Dogpile</a></li>
+<li><a href="/wiki/DuckDuckGo" title="DuckDuckGo">DuckDuckGo</a></li>
+<li><a class="mw-selflink selflink">Ecosia</a></li>
+<li><a href="/wiki/Exalead" title="Exalead">Exalead</a></li>
+<li><a href="/wiki/Excite" title="Excite">Excite</a></li>
+<li><a href="/wiki/GenieKnows" title="GenieKnows">GenieKnows</a></li>
+<li><a href="/wiki/Gigablast" title="Gigablast">Gigablast</a></li>
+<li><a href="/wiki/Google_Search" title="Google Search">Google</a></li>
+<li><a href="/wiki/Info.com" title="Info.com">Info.com</a></li>
+<li><a href="/wiki/Ixquick" title="Ixquick">Ixquick</a></li>
+<li><a href="/wiki/Lycos" title="Lycos">Lycos</a></li>
+<li><a href="/wiki/Naver" title="Naver">Naver</a></li>
+<li><a href="/wiki/Qwant" title="Qwant">Qwant</a></li>
+<li><a href="/wiki/Parsijoo" title="Parsijoo">Parsijoo</a></li>
+<li><a href="/wiki/Picollator" title="Picollator">Picollator</a></li>
+<li><a href="/wiki/SAPO_(company)" title="SAPO (company)">SAPO</a></li>
+<li><a href="/wiki/Scout_(travel_website)" title="Scout (travel website)">Scout</a></li>
+<li><a href="/wiki/Searx" title="Searx">Searx</a></li>
+<li><a href="/wiki/Seznam.cz" title="Seznam.cz">Seznam.cz</a></li>
+<li><a href="/wiki/Sogou" title="Sogou">Sogou</a></li>
+<li><a href="/wiki/Sputnik_(search_engine)" title="Sputnik (search engine)">Sputnik</a></li>
+<li><a href="/wiki/Ixquick#Startpage.com" title="Ixquick">Startpage</a></li>
+<li><a href="/wiki/WebCrawler" title="WebCrawler">WebCrawler</a></li>
+<li><a href="/wiki/YaCy" title="YaCy">YaCy</a></li>
+<li><a href="/wiki/Yahoo!_Search" title="Yahoo! Search">Yahoo!</a></li>
+<li><a href="/wiki/Yandex_Search" title="Yandex Search">Yandex</a></li>
+<li><a href="/wiki/Yooz" title="Yooz">Yooz</a></li>
+<li><a href="/wiki/Youdao" title="Youdao">Youdao</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Inactive</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/123people" title="123people">123people</a></li>
+<li><a href="/wiki/A9.com" title="A9.com">A9.com</a></li>
+<li><a href="/wiki/Aliweb" title="Aliweb">Aliweb</a></li>
+<li><a href="/wiki/AlltheWeb" title="AlltheWeb">AlltheWeb</a></li>
+<li><a href="/wiki/AltaVista" title="AltaVista">AltaVista</a></li>
+<li><a href="/wiki/Blekko" title="Blekko">Blekko</a></li>
+<li><a href="/wiki/Boogami" title="Boogami">Boogami</a></li>
+<li><a href="/wiki/Cuil" title="Cuil">Cuil</a></li>
+<li><a href="/wiki/Empas" title="Empas">Empas</a></li>
+<li><a href="/wiki/Forestle" title="Forestle">Forestle</a></li>
+<li><a href="/wiki/Go.com" title="Go.com">Go.com</a></li>
+<li><a href="/wiki/Infoseek" title="Infoseek">Infoseek</a></li>
+<li><a href="/wiki/Inktomi" title="Inktomi">Inktomi</a></li>
+<li><a href="/wiki/JumpStation" title="JumpStation">JumpStation</a></li>
+<li><a href="/wiki/LeapFish" title="LeapFish">LeapFish</a></li>
+<li><a href="/wiki/Mugurdy" title="Mugurdy">Mugurdy</a></li>
+<li><a href="/wiki/Northern_Light_Group" title="Northern Light Group">Northern Light</a></li>
+<li><a href="/wiki/Powerset_(company)" title="Powerset (company)">Powerset</a></li>
+<li><a href="/wiki/Scroogle" class="mw-redirect" title="Scroogle">Scroogle</a></li>
+<li><a href="/wiki/SearchMe" title="SearchMe">SearchMe</a></li>
+<li><a href="/wiki/Soso.com" class="mw-redirect" title="Soso.com">Soso.com</a></li>
+<li><a href="/wiki/Teoma" title="Teoma">Teoma</a></li>
+<li><a href="/wiki/Viewzi" title="Viewzi">Viewzi</a></li>
+<li><a href="/wiki/Vivisimo" title="Vivisimo">Vivisimo</a></li>
+<li><a href="/wiki/Volunia" title="Volunia">Volunia</a></li>
+<li><a href="/wiki/W3Catalog" title="W3Catalog">W3Catalog</a></li>
+<li><a href="/wiki/Wikiseek" title="Wikiseek">Wikiseek</a></li>
+<li><a href="/wiki/Yebol" title="Yebol">Yebol</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/List_of_search_engines" title="List of search engines">Complete list</a></li>
+<li><a href="/wiki/Comparison_of_web_search_engines" title="Comparison of web search engines">Comparison</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2177
+Cached time: 20180930083127
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.392 seconds
+Real time usage: 0.480 seconds
+Preprocessor visited node count: 2484/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 54756/2097152 bytes
+Template argument size: 2703/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 60173/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.202/10.000 seconds
+Lua memory usage: 5.81 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  409.697      1 -total
+ 42.73%  175.075      1 Template:Reflist
+ 36.03%  147.605     24 Template:Cite_web
+ 24.19%   99.101      1 Template:Infobox_website
+ 20.61%   84.449      1 Template:Infobox
+  7.37%   30.215      1 Template:Use_dmy_dates
+  7.31%   29.953      2 Template:Fact
+  7.23%   29.641      1 Template:Advert
+  6.65%   27.236      1 Template:Ambox
+  6.16%   25.247      2 Template:Fix
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:45138227-0!canonical and timestamp 20180930083127 and revision id 861823827
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ecosia&amp;oldid=861823827">https://en.wikipedia.org/w/index.php?title=Ecosia&amp;oldid=861823827</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li><li><a href="/wiki/Category:Social_economy" title="Category:Social economy">Social economy</a></li><li><a href="/wiki/Category:Social_enterprises" title="Category:Social enterprises">Social enterprises</a></li><li><a href="/wiki/Category:Public_economics" title="Category:Public economics">Public economics</a></li><li><a href="/wiki/Category:Benefit_corporations" title="Category:Benefit corporations">Benefit corporations</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_July_2018" title="Category:Use dmy dates from July 2018">Use dmy dates from July 2018</a></li><li><a href="/wiki/Category:Articles_with_a_promotional_tone_from_September_2017" title="Category:Articles with a promotional tone from September 2017">Articles with a promotional tone from September 2017</a></li><li><a href="/wiki/Category:All_articles_with_a_promotional_tone" title="Category:All articles with a promotional tone">All articles with a promotional tone</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_January_2018" title="Category:Articles containing potentially dated statements from January 2018">Articles containing potentially dated statements from January 2018</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2018" title="Category:Articles with unsourced statements from July 2018">Articles with unsourced statements from July 2018</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ecosia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ecosia" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ecosia" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Ecosia" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Ecosia">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Ecosia&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ecosia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ecosia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ecosia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ecosia&amp;oldid=861823827" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ecosia&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1282139" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ecosia&amp;id=861823827" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ecosia">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ecosia&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ecosia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Ecosia" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A5%D9%83%D9%88%D8%B3%D9%8A%D8%A7" title="إكوسيا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Ecosia" title="Ecosia – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Ecosia" title="Ecosia – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Ecosia" title="Ecosia – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/Ecosia" title="Ecosia – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ecosia" title="Ecosia – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%DA%A9%D9%88%D8%B2%DB%8C%D8%A7" title="اکوزیا – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ecosia" title="Ecosia – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Ecosia" title="Ecosia – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ecosia" title="Ecosia – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Ecosia" title="Ecosia – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ecosia" title="Ecosia – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Ecosia" title="Ecosia – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Ecosia" title="Ecosia – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B5%E0%B9%82%E0%B8%84%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2" title="อีโคเซีย – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Ecosia" title="Ecosia – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Ecosia" title="Ecosia – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1282139#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 30 September 2018, at 08:31<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ecosia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.392","walltime":"0.480","ppvisitednodes":{"value":2484,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":54756,"limit":2097152},"templateargumentsize":{"value":2703,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":60173,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  409.697      1 -total"," 42.73%  175.075      1 Template:Reflist"," 36.03%  147.605     24 Template:Cite_web"," 24.19%   99.101      1 Template:Infobox_website"," 20.61%   84.449      1 Template:Infobox","  7.37%   30.215      1 Template:Use_dmy_dates","  7.31%   29.953      2 Template:Fact","  7.23%   29.641      1 Template:Advert","  6.65%   27.236      1 Template:Ambox","  6.16%   25.247      2 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.202","limit":"10.000"},"limitreport-memusage":{"value":6090233,"limit":52428800}},"cachereport":{"origin":"mw2177","timestamp":"20180930083127","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw2235"});});</script>
+	</body>
+</html>

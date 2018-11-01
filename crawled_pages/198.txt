@@ -1,0 +1,933 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Mosaic (web browser) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mosaic_(web_browser)","wgTitle":"Mosaic (web browser)","wgCurRevisionId":861062973,"wgRevisionId":861062973,"wgArticleId":43303,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using Infobox software with unknown parameters","All articles with unsourced statements","Articles with unsourced statements from December 2007","Articles containing potentially dated statements from 1993","All articles containing potentially dated statements","Articles containing potentially dated statements from 2003","Articles to be expanded from November 2010","All articles to be expanded","Articles using small message boxes","Webarchive template wayback links","1993 software","Cross-platform software","Discontinued web browsers","Gopher clients","History of software","History of the Internet","History of web browsers","Mac OS web browsers","OS/2 web browsers","POSIX web browsers","Windows web browsers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mosaic_(web_browser)","wgRelevantArticleId":43303,"wgRequestId":"W7DDJwrAADIAAAlj0foAAABD","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q381047","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/b/b7/NCSA_Mosaic.PNG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Mosaic_(web_browser)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Mosaic_(web_browser)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Mosaic_(web_browser)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Mosaic_(web_browser)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mosaic_web_browser rootpage-Mosaic_web_browser skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Mosaic (web browser)</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the browser produced by NCSA. For the browser that was later renamed, see <a href="/wiki/Netscape_Navigator" title="Netscape Navigator">Netscape Navigator</a>.</div>
+<table class="infobox vevent" style="width:22em"><caption class="summary">NCSA Mosaic</caption><tbody><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:NCSA_Mosaic.PNG" class="image" title="NCSA Mosaic 3.0 for Microsoft Windows"><img alt="NCSA Mosaic 3.0 for Microsoft Windows" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b7/NCSA_Mosaic.PNG/300px-NCSA_Mosaic.PNG" width="300" height="217" srcset="//upload.wikimedia.org/wikipedia/en/b/b7/NCSA_Mosaic.PNG 1.5x" data-file-width="371" data-file-height="268" /></a><div>NCSA Mosaic 3.0 for Microsoft Windows</div></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" class="mw-redirect" title="Software developer">Developer(s)</a></th><td>
+<a href="/wiki/National_Center_for_Supercomputing_Applications" title="National Center for Supercomputing Applications">NCSA</a></td></tr><tr><th scope="row" style="white-space: nowrap;">Initial release</th><td>
+0.5 / January&#160;23, 1993<span class="noprint">&#59;&#32;25 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1993-01-23</span>)</span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr style="display: none;"><td colspan="2" style="text-align:center">
+</td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Last release</a></th><td>
+<div style="margin:0px;">3.0
+   / January&#160;7, 1997<span class="noprint">&#59;&#32;21 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1997-01-07</span>)</span></div></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><th scope="row" style="white-space: nowrap;">Written in</th><td>
+<a href="/wiki/C_(programming_language)" title="C (programming language)">C</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Computing_platform" title="Computing platform">Platform</a></th><td>
+<a href="/wiki/AmigaOS" title="AmigaOS">AmigaOS</a><br /><a href="/wiki/Classic_Mac_OS" title="Classic Mac OS">Classic Mac OS</a><br /><a href="/wiki/Unix" title="Unix">Unix</a><br /><a href="/wiki/OpenVMS" title="OpenVMS">OpenVMS</a><br /><a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a></td></tr><tr><th scope="row" style="white-space: nowrap;">Available in</th><td>
+English</td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_categories#Categorization_approaches" title="Software categories">Type</a></th><td>
+<a href="/wiki/Web_browser" title="Web browser">Web browser</a></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th><td>
+Proprietary</td></tr><tr><th scope="row" style="white-space: nowrap;">Website</th><td>
+<span class="url"><a rel="nofollow" class="external text" href="http://www.ncsa.illinois.edu/enabling/mosaic">www<wbr />.ncsa<wbr />.illinois<wbr />.edu<wbr />/enabling<wbr />/mosaic</a></span></td></tr></tbody></table>
+<p><b>NCSA Mosaic</b>, or simply <b>Mosaic</b>, is the <a href="/wiki/Web_browser" title="Web browser">web browser</a> that popularized the World Wide Web and the Internet. It was also a client for earlier internet <a href="/wiki/Communications_protocol" class="mw-redirect" title="Communications protocol">protocols</a> such as <a href="/wiki/File_Transfer_Protocol" title="File Transfer Protocol">File Transfer Protocol</a>, <a href="/wiki/Network_News_Transfer_Protocol" title="Network News Transfer Protocol">Network News Transfer Protocol</a>, and <a href="/wiki/Gopher_(protocol)" title="Gopher (protocol)">Gopher</a>. The browser was named for its support of multiple internet protocols.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Its intuitive interface, reliability, <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a> <a href="/wiki/Porting" title="Porting">port</a> and simple installation all contributed to its popularity within the web, as well as on Microsoft operating systems.<sup id="cite_ref-marc_4-0" class="reference"><a href="#cite_note-marc-4">&#91;4&#93;</a></sup> Mosaic was also the first browser to display images inline with text instead of displaying images in a separate window.<sup id="cite_ref-faq_5-0" class="reference"><a href="#cite_note-faq-5">&#91;5&#93;</a></sup> While often described as the first <a href="/wiki/Graphical_user_interface" title="Graphical user interface">graphical</a> web browser, Mosaic was preceded by <a href="/wiki/WorldWideWeb" title="WorldWideWeb">WorldWideWeb</a>, the lesser-known <a href="/wiki/Erwise" title="Erwise">Erwise</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> and <a href="/wiki/ViolaWWW" title="ViolaWWW">ViolaWWW</a>.
+</p><p>Mosaic was developed at the <a href="/wiki/National_Center_for_Supercomputing_Applications" title="National Center for Supercomputing Applications">National Center for Supercomputing Applications</a> (NCSA)<sup id="cite_ref-faq_5-1" class="reference"><a href="#cite_note-faq-5">&#91;5&#93;</a></sup> at the <a href="/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign" title="University of Illinois at Urbana–Champaign">University of Illinois at Urbana–Champaign</a> beginning in late 1992. NCSA released the browser in 1993,<sup id="cite_ref-mosaic_and_th_w3_7-0" class="reference"><a href="#cite_note-mosaic_and_th_w3-7">&#91;7&#93;</a></sup> and officially discontinued development and support on January 7, 1997.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> However, it can still be downloaded from NCSA.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p><a href="/wiki/Netscape_Navigator" title="Netscape Navigator">Netscape Navigator</a> was later developed by <a href="/wiki/Netscape" title="Netscape">Netscape</a> (originally known as Mosaic Communications Corporation), which employed many of the original Mosaic authors; however, it intentionally shared no code with Mosaic. Netscape Navigator's code descendant is <a href="/wiki/Firefox" title="Firefox">Mozilla Firefox</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> Starting in 1995 Mosaic lost market share to Netscape Navigator, and by 1997 only had a tiny fraction of users left, by which time the project was discontinued. <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> licensed Mosaic to create <a href="/wiki/Internet_Explorer" title="Internet Explorer">Internet Explorer</a> in 1995.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Licensing"><span class="tocnumber">2</span> <span class="toctext">Licensing</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Immediate_effect"><span class="tocnumber">3</span> <span class="toctext">Immediate effect</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Impact_of_Mosaic"><span class="tocnumber">4</span> <span class="toctext">Impact of Mosaic</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#End_of_Mosaic"><span class="tocnumber">5</span> <span class="toctext">End of Mosaic</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Features"><span class="tocnumber">6</span> <span class="toctext">Features</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mosaic_(web_browser)&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:NCSAMosaic1.0Mac.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a5/NCSAMosaic1.0Mac.png/200px-NCSAMosaic1.0Mac.png" width="200" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a5/NCSAMosaic1.0Mac.png/300px-NCSAMosaic1.0Mac.png 1.5x, //upload.wikimedia.org/wikipedia/en/a/a5/NCSAMosaic1.0Mac.png 2x" data-file-width="365" data-file-height="273" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:NCSAMosaic1.0Mac.png" class="internal" title="Enlarge"></a></div>Mosaic 1.0 running under <a href="/wiki/System_7" title="System 7">System 7.1</a>, displaying the Mosaic Communications Corporation (later <a href="/wiki/Netscape" title="Netscape">Netscape</a>) website.</div></div></div>
+<p>After trying ViolaWWW, David Thompson demonstrated it to the NCSA software design group; <a href="/wiki/Marc_Andreessen" title="Marc Andreessen">Marc Andreessen</a>.<sup id="cite_ref-timbl_11-0" class="reference"><a href="#cite_note-timbl-11">&#91;11&#93;</a></sup> Andreessen and <a href="/wiki/Eric_Bina" title="Eric Bina">Eric Bina</a> originally designed and programmed NCSA Mosaic for Unix's <a href="/wiki/X_Window_System" title="X Window System">X Window System</a> called <i>xmosaic</i>.<sup id="cite_ref-faq_5-2" class="reference"><a href="#cite_note-faq-5">&#91;5&#93;</a></sup><sup id="cite_ref-mosaic_and_th_w3_7-1" class="reference"><a href="#cite_note-mosaic_and_th_w3-7">&#91;7&#93;</a></sup><sup id="cite_ref-timbl_11-1" class="reference"><a href="#cite_note-timbl-11">&#91;11&#93;</a></sup><sup id="cite_ref-Andreessen+Bina_1994_12-0" class="reference"><a href="#cite_note-Andreessen+Bina_1994-12">&#91;12&#93;</a></sup> Then, in December 1991, the <a href="/wiki/High_Performance_Computing_Act_of_1991" title="High Performance Computing Act of 1991">Gore Bill</a> created and introduced by then Senator and future Vice President <a href="/wiki/Al_Gore" title="Al Gore">Al Gore</a> was passed, which provided the funding for the Mosaic project. Development began in December 1992. Marc Andreessen announced the project on January 23, 1993.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> The first alpha release (numbered 0.1a) was published in June 1993, and the first beta release (numbered 0.6b) followed quickly thereafter in September 1993. Ports to Microsoft Windows and <a href="/wiki/Macintosh" title="Macintosh">Macintosh</a> had been released in September.<sup id="cite_ref-timbl_11-2" class="reference"><a href="#cite_note-timbl-11">&#91;11&#93;</a></sup> A <a href="/wiki/AMosaic" title="AMosaic">port of Mosaic</a> to the <a href="/wiki/Commodore_Amiga" class="mw-redirect" title="Commodore Amiga">Commodore Amiga</a> was available by October 1993. NCSA Mosaic for Unix (X-Windows) version 2.0 was released on November 10, 1993.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> Version 1.0 for Microsoft Windows was released on November 11, 1993.<sup id="cite_ref-The_History_of_NCSA_Mosaic_15-0" class="reference"><a href="#cite_note-The_History_of_NCSA_Mosaic-15">&#91;15&#93;</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>  From 1994 to 1997, the <a href="/wiki/National_Science_Foundation" title="National Science Foundation">National Science Foundation</a> supported the further development of Mosaic.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p><p>Marc Andreessen, the leader of the team that developed Mosaic, left NCSA and, with <a href="/wiki/James_H._Clark" title="James H. Clark">James H. Clark</a>, one of the founders of <a href="/wiki/Silicon_Graphics,_Inc." class="mw-redirect" title="Silicon Graphics, Inc.">Silicon Graphics, Inc.</a> (SGI), and four other former students and staff of the <a href="/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign" title="University of Illinois at Urbana–Champaign">University of Illinois</a>, started Mosaic Communications Corporation. Mosaic Communications eventually became <a href="/wiki/Netscape_Communications_Corporation" class="mw-redirect" title="Netscape Communications Corporation">Netscape Communications Corporation</a>, producing <a href="/wiki/Netscape_Navigator" title="Netscape Navigator">Netscape Navigator</a>.
+</p><p>1994 saw the first commercial product to incorporate Mosaic: <a href="/wiki/Santa_Cruz_Operation" title="Santa Cruz Operation">SCO</a> Global Access, a modified version of its <a href="/wiki/SCO_OpenServer" class="mw-redirect" title="SCO OpenServer">Open Desktop</a> version of Unix that served as an Internet gateway.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p><p><a href="/wiki/Spyglass,_Inc." title="Spyglass, Inc.">Spyglass, Inc.</a> licensed the technology and trademarks from NCSA for producing their own web browser but never used any of the NCSA Mosaic source code.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> licensed Spyglass Mosaic in 1995 for <a href="/wiki/United_States_dollar" title="United States dollar">US$</a>2 million, modified it, and renamed it <a href="/wiki/Internet_Explorer" title="Internet Explorer">Internet Explorer</a>.<sup id="cite_ref-win_20-0" class="reference"><a href="#cite_note-win-20">&#91;20&#93;</a></sup> After a later auditing dispute, Microsoft paid Spyglass $8 million.<sup id="cite_ref-win_20-1" class="reference"><a href="#cite_note-win-20">&#91;20&#93;</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> The 1995 user guide <i>The HTML Sourcebook: The Complete Guide to HTML</i>, specifically states, in a section called <i>Coming Attractions</i>, that Internet Explorer "will be based on the Mosaic program".<sup id="cite_ref-The_HTML_Sourcebook_22-0" class="reference"><a href="#cite_note-The_HTML_Sourcebook-22">&#91;22&#93;</a></sup><sup class="reference" style="white-space:nowrap;">:<span>331</span></sup> Versions of Internet Explorer before <a href="/wiki/Internet_Explorer_7" title="Internet Explorer 7">version 7</a> stated "Based on NCSA Mosaic" in the About box. Internet Explorer 7 was audited by Microsoft<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2007)">citation needed</span></a></i>&#93;</sup> to ensure that it contained no Mosaic code, and thus no longer credits Spyglass or Mosaic.
+</p>
+<h2><span class="mw-headline" id="Licensing">Licensing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mosaic_(web_browser)&amp;action=edit&amp;section=2" title="Edit section: Licensing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The licensing terms for NCSA Mosaic were generous for a proprietary software program. In general, non-commercial use was free of charge for all versions (with certain limitations). Additionally, the X Window System/Unix version publicly provided <a href="/wiki/Source_code" title="Source code">source code</a> (source code for the other versions was available after agreements were signed). Despite persistent rumors to the contrary, however, Mosaic was never released as <a href="/wiki/Open_source_software" class="mw-redirect" title="Open source software">open source software</a> during its brief reign as a major browser; there were always constraints on permissible uses without payment.
+</p><p>As of  1993<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Mosaic_(web_browser)&amp;action=edit">&#91;update&#93;</a></sup>, license holders included these:<sup id="cite_ref-The_Second_Phase_23-0" class="reference"><a href="#cite_note-The_Second_Phase-23">&#91;23&#93;</a></sup>
+</p>
+<ul><li><a href="/wiki/Amdahl_Corporation" title="Amdahl Corporation">Amdahl Corporation</a></li>
+<li>Fujitsu Limited (Product: Infomosaic, a Japanese version of Mosaic. Price: Yen5,000 (approx US$50)</li>
+<li><a href="/wiki/Infoseek" title="Infoseek">Infoseek</a> Corporation (Product: No commercial Mosaic. May use Mosaic as part of a commercial database effort)</li>
+<li>Quadralay Corporation (Consumer version of Mosaic. Also using Mosaic in its online help and information product, GWHIS. Price: US$249)</li>
+<li><a href="/wiki/Quarterdeck_Office_Systems" title="Quarterdeck Office Systems">Quarterdeck</a> Office Systems Inc.</li>
+<li><a href="/wiki/The_Santa_Cruz_Operation" class="mw-redirect" title="The Santa Cruz Operation">The Santa Cruz Operation</a> Inc. (Product: Incorporating Mosaic into "SCO Global Access," a communications package for Unix machines that works with SCO's Open Server. Runs a graphical e-mail service and accesses newsgroups.)</li>
+<li>SPRY Inc. (Products: A communication suite: Air Mail, Air News, Air Mosaic, etc. Also producing Internet In a Box with O'Reilly &amp; Associates. Price: US$149–$399 for Air Series.)</li>
+<li><a href="/wiki/Spyglass,_Inc." title="Spyglass, Inc.">Spyglass, Inc.</a> (Product: Relicensing to other vendors. Signed deal with Digital Equipment Corp., which would ship Mosaic with all its machines.)</li></ul>
+<h2><span class="mw-headline" id="Immediate_effect">Immediate effect</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mosaic_(web_browser)&amp;action=edit&amp;section=3" title="Edit section: Immediate effect">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Other browsers existed during this period, notably <a href="/wiki/Erwise" title="Erwise">Erwise</a>, <a href="/wiki/ViolaWWW" title="ViolaWWW">ViolaWWW</a>, <a href="/wiki/MidasWWW" title="MidasWWW">MidasWWW</a> and <a href="/wiki/TkWWW" title="TkWWW">tkWWW</a>. These browsers, however, did not have the same effect as Mosaic on public use of the Internet.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p><p>In the October 1994 issue of Wired Magazine, Gary Wolfe notes in the article titled "The (Second Phase of the) Revolution Has Begun: Don't look now, but <a href="/wiki/Prodigy_(ISP)" class="mw-redirect" title="Prodigy (ISP)">Prodigy</a>, <a href="/wiki/AOL" title="AOL">AOL</a>, and <a href="/wiki/CompuServe" title="CompuServe">CompuServe</a> are all suddenly obsolete – and Mosaic is well on its way to becoming the world's standard interface":
+</p>
+<style data-mw-deduplicate="TemplateStyles:r856303468">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>When it comes to smashing a paradigm, pleasure is not the most important thing. It is the only thing. If this sounds wrong, consider Mosaic. Mosaic is the celebrated graphical "browser" that allows users to travel through the world of electronic information using a point-and-click interface. Mosaic's charming appearance encourages users to load their own documents onto the Net, including color photos, sound bites, video clips, and hypertext "links" to other documents. By following the links - click, and the linked document appears - you can travel through the online world along paths of whim and intuition. Mosaic is not the most direct way to find online information. Nor is it the most powerful. It is merely the most pleasurable way, and in the 18 months since it was released, Mosaic has incited a rush of excitement and commercial energy unprecedented in the history of the Net.<sup id="cite_ref-The_Second_Phase_23-1" class="reference"><a href="#cite_note-The_Second_Phase-23">&#91;23&#93;</a></sup>
+</p></blockquote>
+<h2><span class="mw-headline" id="Impact_of_Mosaic">Impact of Mosaic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mosaic_(web_browser)&amp;action=edit&amp;section=4" title="Edit section: Impact of Mosaic">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mosaic was the web browser that led to the <a href="/wiki/Internet_boom" class="mw-redirect" title="Internet boom">Internet boom</a> of the 1990s. Robert Reid underscores this importance stating, "while still an undergraduate, Marc wrote the Mosaic software&#160;... that made the web popularly relevant and touched off the revolution".<sup id="cite_ref-Architects_of_the_Web_25-0" class="reference"><a href="#cite_note-Architects_of_the_Web-25">&#91;25&#93;</a></sup><sup class="reference" style="white-space:nowrap;">:<span>xlii</span></sup> Reid notes that Andreessen's team hoped:
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r856303468"/><blockquote class="templatequote"><p>... to rectify many of the shortcomings of the very primitive prototypes then floating around the Internet. Most significantly, their work transformed the appeal of the Web from niche uses in the technical area to mass-market appeal. In particular, these University of Illinois students made two key changes to the Web browser, which hyper-boosted its appeal: they added graphics to what was otherwise boring text-based software, and, most importantly, they ported the software from so-called <a href="/wiki/Unix" title="Unix">Unix</a> computers that are popular only in technical and academic circles, to the [Microsoft] Windows operating system, which is used on more than 80 percent of the computers in the world, especially personal and commercial computers.<sup id="cite_ref-Architects_of_the_Web_25-1" class="reference"><a href="#cite_note-Architects_of_the_Web-25">&#91;25&#93;</a></sup><sup class="reference" style="white-space:nowrap;">:<span>xxv</span></sup>
+</p></blockquote>
+<p>Mosaic is not the first web browser for Microsoft Windows; this is <a href="/wiki/Thomas_R._Bruce" title="Thomas R. Bruce">Thomas R. Bruce</a>'s little-known <a href="/wiki/Cello_(web_browser)" title="Cello (web browser)">Cello</a>. The Unix version of Mosaic was already famous before the Microsoft Windows, Amiga, and Mac versions were released. Other than displaying images embedded in the text rather than in a separate window, Mosaic's original feature set is not greater than of the browsers on which it was modeled, such as ViolaWWW.<sup id="cite_ref-faq_5-3" class="reference"><a href="#cite_note-faq-5">&#91;5&#93;</a></sup> But Mosaic was the first browser written and supported by a team of full-time programmers, was reliable and easy enough for novices to install, and the inline graphics reportedly proved immensely appealing. Mosaic is said to have made the Web accessible to the ordinary person for the first time and already had 53% <a href="/wiki/Usage_share_of_web_browsers" title="Usage share of web browsers">market share</a> in 1995.<sup id="cite_ref-CiteSeerX_26-0" class="reference"><a href="#cite_note-CiteSeerX-26">&#91;26&#93;</a></sup>
+</p><p>Reid also refers to <a href="/w/index.php?title=Matthew_K._Gray&amp;action=edit&amp;redlink=1" class="new" title="Matthew K. Gray (page does not exist)">Matthew K. Gray</a>'s website, <a rel="nofollow" class="external text" href="http://www.mit.edu/~mkgray/net/">Internet Statistics: Growth and Usage of the Web and the Internet</a>, which indicates a dramatic leap in web use around the time of Mosaic's introduction.<sup id="cite_ref-Architects_of_the_Web_25-2" class="reference"><a href="#cite_note-Architects_of_the_Web-25">&#91;25&#93;</a></sup><sup class="reference" style="white-space:nowrap;">:<span>xxv</span></sup>
+</p><p>In addition, David Hudson concurs with Reid, noting that:
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r856303468"/><blockquote class="templatequote"><p>Marc Andreessen's realization of Mosaic, based on the work of <a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Berners-Lee</a> and the hypertext theorists before him, is generally recognized as the beginning of the web as it is now known. Mosaic, the first web browser to win over the Net masses, was released in 1993 and made freely accessible to the public. The adjective phenomenal, so often overused in this industry, is genuinely applicable to the... 'explosion' in the growth of the web after Mosaic appeared on the scene. Starting with next to nothing, the rates of the web growth (quoted in the press) hovering around tens of thousands of percent over ridiculously short periods of time were no real surprise.<sup id="cite_ref-Rewired_27-0" class="reference"><a href="#cite_note-Rewired-27">&#91;27&#93;</a></sup><sup class="reference" style="white-space:nowrap;">:<span>42</span></sup>
+</p></blockquote>
+<p>Ultimately, web browsers such as Mosaic became the <i><a href="/wiki/Killer_application" title="Killer application">killer applications</a></i> of the 1990s. Web browsers were the first to bring a graphical interface to search tools the Internet's burgeoning wealth of distributed information services. A mid-1994 guide lists Mosaic alongside the traditional, text-oriented information search tools of the time, <a href="/wiki/Archie_search_engine" title="Archie search engine">Archie</a> and <a href="/wiki/Veronica_(search_engine)" title="Veronica (search engine)">Veronica</a>, <a href="/wiki/Gopher_(protocol)" title="Gopher (protocol)">Gopher</a>, and <a href="/wiki/Wide_area_information_server" title="Wide area information server">WAIS</a><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup> but Mosaic quickly subsumed and displaced them all. Joseph Hardin, the director of the NCSA group within which Mosaic was developed, said downloads were up to 50,000 a month in mid-1994.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</p><p>In November 1992, there were twenty-six websites in the world<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> and each one attracted attention. In its release year of 1993, Mosaic had a What's New page, and about one new link was being added per day. This was a time when access to the Internet was expanding rapidly outside its previous domain of academia and large industrial research institutions. Yet it was the availability of Mosaic and Mosaic-derived graphical browsers themselves that drove the explosive growth of the Web to over 10,000 sites by Aug 1995 and millions by 1998.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup> Metcalfe expressed the pivotal role of Mosaic this way:
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r856303468"/><blockquote class="templatequote"><p>In the Web's first generation, Tim Berners-Lee launched the Uniform Resource Locator (URL), Hypertext Transfer Protocol (HTTP), and HTML standards with prototype Unix-based servers and browsers. A few people noticed that the Web might be better than Gopher.
+</p><p>In the second generation, Marc Andreessen and <a href="/wiki/Eric_Bina" title="Eric Bina">Eric Bina</a> developed NCSA Mosaic at the University of Illinois. Several million then suddenly noticed that the Web might be better than sex.
+</p><p>
+In the third generation, Andreessen and Bina left NCSA to found Netscape...</p><div class="templatequotecite">—&#8201;<cite>—Bob Metcalfe<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup><sup id="cite_ref-Web_33-0" class="reference"><a href="#cite_note-Web-33">&#91;33&#93;</a></sup></cite></div>
+</blockquote>
+<h2><span class="mw-headline" id="End_of_Mosaic">End of Mosaic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mosaic_(web_browser)&amp;action=edit&amp;section=5" title="Edit section: End of Mosaic">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mosaic's popularity as a separate browser began to lessen upon the release of Andreessen's <a href="/wiki/Netscape_Navigator" title="Netscape Navigator">Netscape Navigator</a> in 1994. This was noted at the time in <i>The HTML Sourcebook: The Complete Guide to HTML</i>: "Netscape Communications has designed an all-new WWW browser Netscape, that has significant enhancements over the original Mosaic program."<sup id="cite_ref-The_HTML_Sourcebook_22-1" class="reference"><a href="#cite_note-The_HTML_Sourcebook-22">&#91;22&#93;</a></sup><sup class="reference" style="white-space:nowrap;">:<span>332</span></sup>
+</p><p>By 1998 its user base had almost completely evaporated, being replaced by other web browsers. After NCSA stopped work on Mosaic, development of the NCSA Mosaic for the X Window System source code was continued by several independent groups. These independent development efforts include mMosaic (multicast Mosaic)<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup> which ceased development in early 2004, and Mosaic-CK and VMS Mosaic.
+</p><p><b>VMS Mosaic</b>, a version specifically targeting <a href="/wiki/OpenVMS" title="OpenVMS">OpenVMS</a> operating system, was one of the longest-lived efforts to maintain Mosaic. Using the VMS support already built-in in original version (Bjorn S. Nilsson ported Mosaic 1.2 to VMS in the summer of 1993),<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup> developers incorporated a substantial part of the HTML engine from mMosaic, another defunct flavor of the browser.<sup id="cite_ref-changehistory_36-0" class="reference"><a href="#cite_note-changehistory-36">&#91;36&#93;</a></sup> the last (4.2) release<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Mosaic_(web_browser)&amp;action=edit">&#91;update&#93;</a></sup>, VMS Mosaic supported <a href="/wiki/HTML" title="HTML">HTML</a> 4.0, <a href="/wiki/OpenSSL" title="OpenSSL">OpenSSL</a>, <a href="/wiki/HTTP_cookie" title="HTTP cookie">cookies</a>, and various image formats including <a href="/wiki/Graphics_Interchange_Format" class="mw-redirect" title="Graphics Interchange Format">GIF</a>, <a href="/wiki/JPEG" title="JPEG">JPEG</a>, <a href="/wiki/Portable_Network_Graphics" title="Portable Network Graphics">PNG</a>, <a href="/wiki/BMP_file_format" title="BMP file format">BMP</a>, <a href="/wiki/Truevision_TGA" title="Truevision TGA">TGA</a>, <a href="/wiki/Tagged_Image_File_Format" class="mw-redirect" title="Tagged Image File Format">TIFF</a> and <a href="/wiki/JPEG_2000" title="JPEG 2000">JPEG 2000</a> image formats.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup> The browser works on <a href="/wiki/VAX" title="VAX">VAX</a>, <a href="/wiki/DEC_Alpha" title="DEC Alpha">Alpha</a>, and <a href="/wiki/Itanium" title="Itanium">Itanium</a> platforms.<sup id="cite_ref-VMSMosaic_38-0" class="reference"><a href="#cite_note-VMSMosaic-38">&#91;38&#93;</a></sup>
+</p><p>Another long-lived version of Mosaic – <b>Mosaic-CK</b>, developed by <a href="/w/index.php?title=Cameron_Kaiser&amp;action=edit&amp;redlink=1" class="new" title="Cameron Kaiser (page does not exist)">Cameron Kaiser</a> – saw its last release (version 2.7ck9) on July 11, 2010; a maintenance release with minor compatibility fixes (version 2.7ck10) was released on 9 January 2015, followed by another one (2.7ck11) in October 2015.<sup id="cite_ref-CK_39-0" class="reference"><a href="#cite_note-CK-39">&#91;39&#93;</a></sup> The stated goal of the project is "<a href="/wiki/Lynx_(web_browser)" title="Lynx (web browser)">Lynx</a> with graphics" and runs on Mac OS X, Power <a href="/wiki/MachTen" title="MachTen">MachTen</a>, Linux and other compatible Unix-like <a href="/wiki/Operating_system" title="Operating system">OSs</a>.<sup id="cite_ref-CK_39-1" class="reference"><a href="#cite_note-CK-39">&#91;39&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Features">Features</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mosaic_(web_browser)&amp;action=edit&amp;section=6" title="Edit section: Features">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox mbox-small-left ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31" /></a></td><td class="mbox-text"><div class="mbox-text-span">This section <b>needs expansion</b>. <small>You can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Mosaic_(web_browser)&amp;action=edit&amp;section=">adding to it</a>.</small>  <small><i>(November 2010)</i></small></div></td></tr></tbody></table>
+<p>Mosaic is based on the <a href="/wiki/Libwww" title="Libwww">libwww</a> <a href="/wiki/Library_(computing)" title="Library (computing)">library</a><sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup> and thus supported a wide variety of <a href="/wiki/Communications_protocol" class="mw-redirect" title="Communications protocol">Internet protocols</a> included in the library: <a href="/wiki/Archie_search_engine" title="Archie search engine">Archie</a>, <a href="/wiki/File_Transfer_Protocol" title="File Transfer Protocol">FTP</a>, <a href="/wiki/Gopher_(protocol)" title="Gopher (protocol)">gopher</a>, <a href="/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol">HTTP</a>, <a href="/wiki/Network_News_Transfer_Protocol" title="Network News Transfer Protocol">NNTP</a>, <a href="/wiki/Telnet" title="Telnet">telnet</a>, <a href="/wiki/Wide_area_information_server" title="Wide area information server">WAIS</a>.<sup id="cite_ref-mosaic_and_th_w3_7-2" class="reference"><a href="#cite_note-mosaic_and_th_w3-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mosaic_(web_browser)&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Comparison_of_web_browsers" title="Comparison of web browsers">Comparison of web browsers</a></li>
+<li><a href="/wiki/History_of_the_World_Wide_Web" title="History of the World Wide Web">History of the World Wide Web</a></li>
+<li><a href="/wiki/List_of_web_browsers" title="List of web browsers">List of web browsers</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mosaic_(web_browser)&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Stewart, William. <a rel="nofollow" class="external text" href="http://www.livinginternet.com/w/wi_mosaic.htm">"Mosaic -- The First Global Web Browser"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 February</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mosaic+--+The+First+Global+Web+Browser&amp;rft.aulast=Stewart&amp;rft.aufirst=William&amp;rft_id=http%3A%2F%2Fwww.livinginternet.com%2Fw%2Fwi_mosaic.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="ftp://ftp.ncsa.uiuc.edu/Web/Mosaic/Unix/source/old/">"xmosaic 1.2 source code"</a>. NCSA. 1994-06-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-06-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=xmosaic+1.2+source+code&amp;rft.pub=NCSA&amp;rft.date=1994-06-29&amp;rft_id=ftp%3A%2F%2Fftp.ncsa.uiuc.edu%2FWeb%2FMosaic%2FUnix%2Fsource%2Fold%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation audio-visual"><a href="/wiki/Douglas_Crockford" title="Douglas Crockford">Douglas Crockford</a> (Sep 10, 2011). <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=JxAXlJEmNMg"><i>Crockford on JavaScript - Volume 1: The Early Years</i></a>. <a href="/wiki/YouTube" title="YouTube">YouTube</a>.  Event occurs at 1:35:50.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Crockford+on+JavaScript+-+Volume+1%3A+The+Early+Years&amp;rft.pub=YouTube&amp;rft.date=2011-09-10&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJxAXlJEmNMg&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-marc-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-marc_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Andreessen, Marc. <a rel="nofollow" class="external text" href="http://www.livinginternet.com/w/wi_mosaic.htm">"Mosaic -- The First Global Web Browser"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2006-12-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mosaic+--+The+First+Global+Web+Browser&amp;rft.aulast=Andreessen&amp;rft.aufirst=Marc&amp;rft_id=http%3A%2F%2Fwww.livinginternet.com%2Fw%2Fwi_mosaic.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-faq-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-faq_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-faq_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-faq_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-faq_5-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Berners-Lee, Tim. <a rel="nofollow" class="external text" href="http://www.w3.org/People/Berners-Lee/FAQ.html#browser">"What were the first WWW browsers?"</a>. <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">World Wide Web Consortium</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=What+were+the+first+WWW+browsers%3F&amp;rft.pub=World+Wide+Web+Consortium&amp;rft.aulast=Berners-Lee&amp;rft.aufirst=Tim&amp;rft_id=http%3A%2F%2Fwww.w3.org%2FPeople%2FBerners-Lee%2FFAQ.html%23browser&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Holwerda, Thom (3 Mar 2009). <a rel="nofollow" class="external text" href="http://www.osnews.com/story/21076/The_World_s_First_Graphical_Browser_Erwise">"The World's First Graphical Browser: Erwise"</a>. <a href="/wiki/OSNews" title="OSNews">OSNews</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-06-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+World%27s+First+Graphical+Browser%3A+Erwise&amp;rft.pub=OSNews&amp;rft.date=2009-03-03&amp;rft.aulast=Holwerda&amp;rft.aufirst=Thom&amp;rft_id=http%3A%2F%2Fwww.osnews.com%2Fstory%2F21076%2FThe_World_s_First_Graphical_Browser_Erwise&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-mosaic_and_th_w3-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-mosaic_and_th_w3_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mosaic_and_th_w3_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-mosaic_and_th_w3_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Vetter, Ronald J. (October 1994). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140824192903/http://vision.unipv.it/wdt-cim/articoli/00318591.pdf">"Mosaic and the World-Wide Web"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/North_Dakota_State_University" title="North Dakota State University">North Dakota State University</a>. Archived from <a rel="nofollow" class="external text" href="http://vision.unipv.it/wdt-cim/articoli/00318591.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 24 August 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">20 November</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mosaic+and+the+World-Wide+Web&amp;rft.pub=North+Dakota+State+University&amp;rft.date=1994-10&amp;rft.aulast=Vetter&amp;rft.aufirst=Ronald+J.&amp;rft_id=http%3A%2F%2Fvision.unipv.it%2Fwdt-cim%2Farticoli%2F00318591.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.computerhistory.org/exhibits/internet_history/internet_history_90s.shtml">"Exhibits - Internet History - 1990's"</a>. Computer History Museum. 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-12-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Exhibits+-+Internet+History+-+1990%27s&amp;rft.pub=Computer+History+Museum&amp;rft.date=2006&amp;rft_id=http%3A%2F%2Fwww.computerhistory.org%2Fexhibits%2Finternet_history%2Finternet_history_90s.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="ftp://ftp.ncsa.uiuc.edu/Web/Mosaic/">"Mosaic FTP"</a>. NCSA<span class="reference-accessdate">. Retrieved <span class="nowrap">30 May</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mosaic+FTP&amp;rft.pub=NCSA&amp;rft_id=ftp%3A%2F%2Fftp.ncsa.uiuc.edu%2FWeb%2FMosaic%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">Clark, Jim (1999). <i>Netscape Time</i>. St. Martin's Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Netscape+Time&amp;rft.pub=St.+Martin%27s+Press&amp;rft.date=1999&amp;rft.aulast=Clark&amp;rft.aufirst=Jim&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-timbl-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-timbl_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-timbl_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-timbl_11-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Berners-Lee, Tim. <a rel="nofollow" class="external text" href="http://www.w3.org/DesignIssues/TimBook-old/History.html">"A Brief History of the Web"</a>. <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">World Wide Web Consortium</a><span class="reference-accessdate">. Retrieved <span class="nowrap">16 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Brief+History+of+the+Web&amp;rft.pub=World+Wide+Web+Consortium&amp;rft.aulast=Berners-Lee&amp;rft.aufirst=Tim&amp;rft_id=http%3A%2F%2Fwww.w3.org%2FDesignIssues%2FTimBook-old%2FHistory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Andreessen+Bina_1994-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Andreessen+Bina_1994_12-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Andreessen, Marc; Bina, Eric (1994). "NCSA Mosaic: A Global Hypermedia System". <i>Internet Research</i>. Bingley, U.K.: Emerald Group Publishing Limited. <b>4</b> (1): 7–17. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1108%2F10662249410798803">10.1108/10662249410798803</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1066-2243">1066-2243</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Internet+Research&amp;rft.atitle=NCSA+Mosaic%3A+A+Global+Hypermedia+System&amp;rft.volume=4&amp;rft.issue=1&amp;rft.pages=7-17&amp;rft.date=1994&amp;rft_id=info%3Adoi%2F10.1108%2F10662249410798803&amp;rft.issn=1066-2243&amp;rft.aulast=Andreessen&amp;rft.aufirst=Marc&amp;rft.au=Bina%2C+Eric&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://1997.webhistory.org/www.lists/www-talk.1993q1/0099.html">"NCSA X Mosaic 0.5 released"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NCSA+X+Mosaic+0.5+released&amp;rft_id=http%3A%2F%2F1997.webhistory.org%2Fwww.lists%2Fwww-talk.1993q1%2F0099.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://1997.webhistory.org/www.lists/www-talk.1993q4/0447.html">"NCSA Mosaic for X 2.0 available"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NCSA+Mosaic+for+X+2.0+available&amp;rft_id=http%3A%2F%2F1997.webhistory.org%2Fwww.lists%2Fwww-talk.1993q4%2F0447.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-The_History_of_NCSA_Mosaic-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-The_History_of_NCSA_Mosaic_15-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="ftp://ftp.ncsa.uiuc.edu/Mosaic/Windows/Archive/MosaicHistory.html">"The History of NCSA Mosaic"</a>. NCSA.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+History+of+NCSA+Mosaic&amp;rft.pub=NCSA&amp;rft_id=ftp%3A%2F%2Fftp.ncsa.uiuc.edu%2FMosaic%2FWindows%2FArchive%2FMosaicHistory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130927225544/http://www.ncsa.illinois.edu/Projects/mosaic.html">"About NCSA Mosaic"</a>. NCSA. Archived from <a rel="nofollow" class="external text" href="http://www.ncsa.illinois.edu/Projects/mosaic.html">the original</a> on September 27, 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+NCSA+Mosaic&amp;rft.pub=NCSA&amp;rft_id=http%3A%2F%2Fwww.ncsa.illinois.edu%2FProjects%2Fmosaic.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://nsf.gov/discoveries/disc_summ.jsp?cntn_id=100274&amp;org=NSF">https://nsf.gov/discoveries/disc_summ.jsp?cntn_id=100274&amp;org=NSF</a></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation news">Mace, Scott (7 March 1994). <a rel="nofollow" class="external text" href="https://books.google.de/books?id=BTsEAAAAMBAJ&amp;pg=PA47">"SCO brings Internet access to PCs"</a>. <i>InfoWorld</i>. p.&#160;47.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=InfoWorld&amp;rft.atitle=SCO+brings+Internet+access+to+PCs&amp;rft.pages=47&amp;rft.date=1994-03-07&amp;rft.aulast=Mace&amp;rft.aufirst=Scott&amp;rft_id=https%3A%2F%2Fbooks.google.de%2Fbooks%3Fid%3DBTsEAAAAMBAJ%26pg%3DPA47&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web">Sink, Eric (2003-05-15). <a rel="nofollow" class="external text" href="http://ericsink.com/Browser_Wars.html">"Memoirs From the Browser Wars"</a>. <i>Eric Sink's Weblog</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2006-12-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Eric+Sink%27s+Weblog&amp;rft.atitle=Memoirs+From+the+Browser+Wars&amp;rft.date=2003-05-15&amp;rft.aulast=Sink&amp;rft.aufirst=Eric&amp;rft_id=http%3A%2F%2Fericsink.com%2FBrowser_Wars.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-win-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-win_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-win_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Paul_Thurrott" title="Paul Thurrott">Thurrott, Paul</a> (22 January 1997). <a rel="nofollow" class="external text" href="https://archive.is/20120919002551/http://www.windowsitpro.com/article/news2/microsoft-and-spyglass-kiss-and-make-up.aspx">"Microsoft and Spyglass kiss and make up"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.windowsitpro.com/article/news2/microsoft-and-spyglass-kiss-and-make-up.aspx">the original</a> on 19 September 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">9 February</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Microsoft+and+Spyglass+kiss+and+make+up&amp;rft.date=1997-01-22&amp;rft.aulast=Thurrott&amp;rft.aufirst=Paul&amp;rft_id=http%3A%2F%2Fwww.windowsitpro.com%2Farticle%2Fnews2%2Fmicrosoft-and-spyglass-kiss-and-make-up.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web">Elstrom, Peter (22 January 1997). <a rel="nofollow" class="external text" href="http://www.businessweek.com/bwdaily/dnflash/january/new0122d.htm">"MICROSOFT'S $8 MILLION GOODBYE TO SPYGLASS"</a>. <a href="/wiki/Bloomberg_Businessweek" title="Bloomberg Businessweek">Bloomberg Businessweek</a><span class="reference-accessdate">. Retrieved <span class="nowrap">9 February</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MICROSOFT%27S+%248+MILLION+GOODBYE+TO+SPYGLASS&amp;rft.pub=Bloomberg+Businessweek&amp;rft.date=1997-01-22&amp;rft.aulast=Elstrom&amp;rft.aufirst=Peter&amp;rft_id=http%3A%2F%2Fwww.businessweek.com%2Fbwdaily%2Fdnflash%2Fjanuary%2Fnew0122d.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-The_HTML_Sourcebook-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-The_HTML_Sourcebook_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-The_HTML_Sourcebook_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Graham, Ian S. (1995). <i>The HTML Sourcebook: The Complete Guide to HTML</i> (First ed.). New York: John Wiley &amp; Sons. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-471-11849-4" title="Special:BookSources/0-471-11849-4">0-471-11849-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+HTML+Sourcebook%3A+The+Complete+Guide+to+HTML&amp;rft.place=New+York&amp;rft.edition=First&amp;rft.pub=John+Wiley+%26+Sons&amp;rft.date=1995&amp;rft.isbn=0-471-11849-4&amp;rft.aulast=Graham&amp;rft.aufirst=Ian+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-The_Second_Phase-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-The_Second_Phase_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-The_Second_Phase_23-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Wolfe, Gary (October 1994). <a rel="nofollow" class="external text" href="https://www.wired.com/wired/archive/2.10/mosaic_pr.html">"The (Second Phase of the) Revolution Has Begun"</a>. <i>[[Wired (magazine)|]]</i>. <b>2</b>: 10<span class="reference-accessdate">. Retrieved <span class="nowrap">January 7,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=&amp;rft.atitle=The+%28Second+Phase+of+the%29+Revolution+Has+Begun&amp;rft.volume=2&amp;rft.pages=10&amp;rft.date=1994-10&amp;rft.aulast=Wolfe&amp;rft.aufirst=Gary&amp;rft_id=https%3A%2F%2Fwww.wired.com%2Fwired%2Farchive%2F2.10%2Fmosaic_pr.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ref.web.cern.ch/ref/CERN/CNL/2001/001/www-history/">"A Little History of the World Wide Web From 1960s to 1995"</a>. <a href="/wiki/CERN" title="CERN">CERN</a>. 2001-05-05<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-12-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Little+History+of+the+World+Wide+Web+From+1960s+to+1995&amp;rft.pub=CERN&amp;rft.date=2001-05-05&amp;rft_id=http%3A%2F%2Fref.web.cern.ch%2Fref%2FCERN%2FCNL%2F2001%2F001%2Fwww-history%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Architects_of_the_Web-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-Architects_of_the_Web_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Architects_of_the_Web_25-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Architects_of_the_Web_25-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Reid, Robert H. (1997). <i>Architects of the Web: 1000 Days That Built the Future of Business</i>. John Wiley and Sons. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-471-17187-5" title="Special:BookSources/0-471-17187-5">0-471-17187-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Architects+of+the+Web%3A+1000+Days+That+Built+the+Future+of+Business&amp;rft.pub=John+Wiley+and+Sons&amp;rft.date=1997&amp;rft.isbn=0-471-17187-5&amp;rft.aulast=Reid&amp;rft.aufirst=Robert+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-CiteSeerX-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-CiteSeerX_26-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Cockburn, Andy; Jones, Steve (6 December 2000). "Which Way Now? Analysing and Easing Inadequacies in WWW Navigation". <a href="/wiki/CiteSeerX" title="CiteSeerX">CiteSeerX</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.25.8504">10.1.1.25.8504</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Which+Way+Now%3F+Analysing+and+Easing+Inadequacies+in+WWW+Navigation&amp;rft.date=2000-12-06&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.25.8504&amp;rft.aulast=Cockburn&amp;rft.aufirst=Andy&amp;rft.au=Jones%2C+Steve&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Rewired-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rewired_27-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Hudson, David (1997). <i>Rewired: A Brief and Opinionated Net History</i>. Indianapolis: Macmillan Technical Publishing. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-57870-003-5" title="Special:BookSources/1-57870-003-5">1-57870-003-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Rewired%3A+A+Brief+and+Opinionated+Net+History&amp;rft.place=Indianapolis&amp;rft.pub=Macmillan+Technical+Publishing&amp;rft.date=1997&amp;rft.isbn=1-57870-003-5&amp;rft.aulast=Hudson&amp;rft.aufirst=David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lucey, Sean (9 May 1994). "Internet tools help navigate the busy virtual highway". <i>MacWeek</i>: 51.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=MacWeek&amp;rft.atitle=Internet+tools+help+navigate+the+busy+virtual+highway.&amp;rft.pages=51&amp;rft.date=1994-05-09&amp;rft.aulast=Lucey&amp;rft.aufirst=Sean&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation journal">Levitt, Jason (9 May 1994). "A Matter of Attribution: Can't Forget to Give Credit for Mosaic Where Credit is Due". <i>Open Systems Today</i>: 71.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Open+Systems+Today&amp;rft.atitle=A+Matter+of+Attribution%3A+Can%27t+Forget+to+Give+Credit+for+Mosaic+Where+Credit+is+Due&amp;rft.pages=71&amp;rft.date=1994-05-09&amp;rft.aulast=Levitt&amp;rft.aufirst=Jason&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://info.cern.ch/">"home of the first website"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-06-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=home+of+the+first+website&amp;rft_id=http%3A%2F%2Finfo.cern.ch%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.netcraft.com/archives/category/web-server-survey/">Web Server Survey | Netcraft</a>. News.netcraft.com. Retrieved on 2014-06-16.</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation journal">"InfoWorld". <b>17</b> (34). August 21, 1995.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=InfoWorld&amp;rft.volume=17&amp;rft.issue=34&amp;rft.date=1995-08-21&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Web-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-Web_33-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.netvalley.com/cgi-bin/intval/net_history.pl?chapter=4">Roads and Crossroads of Internet History</a> Chapter 4: Birth of the Web</span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web">dauphin, Gilles (1996). <a rel="nofollow" class="external text" href="http://www.w3.org/AudioVideo/9610_Workshop/paper05/paper05.html">"W3C mMosaic"</a>. World Wide Web Consortium<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=W3C+mMosaic&amp;rft.pub=World+Wide+Web+Consortium&amp;rft.date=1996&amp;rft.aulast=dauphin&amp;rft.aufirst=Gilles&amp;rft_id=http%3A%2F%2Fwww.w3.org%2FAudioVideo%2F9610_Workshop%2Fpaper05%2Fpaper05.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web">Nilsson, Bjorn (1993). <a rel="nofollow" class="external text" href="ftp://ftp.ncsa.uiuc.edu/Web/Mosaic/Contrib/README.VMS">"README.VMS"</a>. National Center for Supercomputing Applications<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=README.VMS&amp;rft.pub=National+Center+for+Supercomputing+Applications&amp;rft.date=1993&amp;rft.aulast=Nilsson&amp;rft.aufirst=Bjorn&amp;rft_id=ftp%3A%2F%2Fftp.ncsa.uiuc.edu%2FWeb%2FMosaic%2FContrib%2FREADME.VMS&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-changehistory-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-changehistory_36-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://wvnvms.wvnet.edu/vmswww/mosaic/versions.html">NCSA and VMS Mosaic Version Information</a></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.openvms.org/stories.php?story=07/09/03/1740114">"OpenVMS.org - OpenVMS Community Portal (VMS Mosaic V4.2)"</a>. OpenVMS.org. 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=OpenVMS.org+-+OpenVMS+Community+Portal+%28VMS+Mosaic+V4.2%29&amp;rft.pub=OpenVMS.org&amp;rft.date=2007&amp;rft_id=http%3A%2F%2Fwww.openvms.org%2Fstories.php%3Fstory%3D07%2F09%2F03%2F1740114&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-VMSMosaic-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-VMSMosaic_38-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://h71000.www7.hp.com/freeware/freeware80/mosaic40/freeware_readme.txt">"Mosaic 4.0 freeware_readme.txt"</a>. Hewlett-Packard Development Company, L.P. 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mosaic+4.0+freeware_readme.txt&amp;rft.pub=Hewlett-Packard+Development+Company%2C+L.P&amp;rft.date=2006&amp;rft_id=http%3A%2F%2Fh71000.www7.hp.com%2Ffreeware%2Ffreeware80%2Fmosaic40%2Ffreeware_readme.txt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-CK-39"><span class="mw-cite-backlink">^ <a href="#cite_ref-CK_39-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CK_39-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.floodgap.com/retrotech/machten/mosaic/">"Official Mosaic-CK homepage"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Official+Mosaic-CK+homepage&amp;rft_id=http%3A%2F%2Fwww.floodgap.com%2Fretrotech%2Fmachten%2Fmosaic%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web">Kahan, José (7 June 2002). <a rel="nofollow" class="external text" href="http://www.w3.org/Library/User/History.html">"Change History of libwww"</a>. <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">World Wide Web Consortium</a><span class="reference-accessdate">. Retrieved <span class="nowrap">30 May</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Change+History+of+libwww&amp;rft.pub=World+Wide+Web+Consortium&amp;rft.date=2002-06-07&amp;rft.aulast=Kahan&amp;rft.aufirst=Jos%C3%A9&amp;rft_id=http%3A%2F%2Fwww.w3.org%2FLibrary%2FUser%2FHistory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web">Petrie, Charles; <a href="/wiki/Robert_Cailliau" title="Robert Cailliau">Cailliau, Robert</a> (November 1997). <a rel="nofollow" class="external text" href="http://www.computer.org/portal/web/computingnow/ic-cailliau">"Interview Robert Cailliau on the WWW Proposal: "How It Really Happened.<span class="cs1-kern-right">"</span>"</a>. <a href="/wiki/Institute_of_Electrical_and_Electronics_Engineers" title="Institute of Electrical and Electronics Engineers">Institute of Electrical and Electronics Engineers</a><span class="reference-accessdate">. Retrieved <span class="nowrap">18 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Interview+Robert+Cailliau+on+the+WWW+Proposal%3A+%22How+It+Really+Happened.%22&amp;rft.pub=Institute+of+Electrical+and+Electronics+Engineers&amp;rft.date=1997-11&amp;rft.aulast=Petrie&amp;rft.aufirst=Charles&amp;rft.au=Cailliau%2C+Robert&amp;rft_id=http%3A%2F%2Fwww.computer.org%2Fportal%2Fweb%2Fcomputingnow%2Fic-cailliau&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation web">Kahan, José (5 August 1999). <a rel="nofollow" class="external text" href="http://www.w3.org/Library/Activity.html">"Why Libwww?"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">15 June</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Why+Libwww%3F&amp;rft.date=1999-08-05&amp;rft.aulast=Kahan&amp;rft.aufirst=Jos%C3%A9&amp;rft_id=http%3A%2F%2Fwww.w3.org%2FLibrary%2FActivity.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mosaic_(web_browser)&amp;action=edit&amp;section=9" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r853264625">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin" style="">
+<ul><li><cite class="citation web">Tikka, Juha-Pekka (March 3, 2009). <a rel="nofollow" class="external text" href="http://www.xconomy.com/national/2009/03/03/the-greatest-internet-pioneers-you-never-heard-of-the-story-of-erwise-and-four-finns-who-showed-the-way-to-the-web-browser/">"The Greatest Internet Pioneers You Never Heard Of: The Story of Erwise and Four Finns Who Showed the Way to the Web Browser"</a>. <i>Xconomy</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Xconomy&amp;rft.atitle=The+Greatest+Internet+Pioneers+You+Never+Heard+Of%3A+The+Story+of+Erwise+and+Four+Finns+Who+Showed+the+Way+to+the+Web+Browser&amp;rft.date=2009-03-03&amp;rft.aulast=Tikka&amp;rft.aufirst=Juha-Pekka&amp;rft_id=http%3A%2F%2Fwww.xconomy.com%2Fnational%2F2009%2F03%2F03%2Fthe-greatest-internet-pioneers-you-never-heard-of-the-story-of-erwise-and-four-finns-who-showed-the-way-to-the-web-browser%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMosaic+%28web+browser%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li></ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mosaic_(web_browser)&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.usc.edu/dept/raiders/paper">Beyond the Web: Excavating the Real World Via Mosaic</a> - early application of Mosaic</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/wtachi/ncsa-mosaic">NCSA Mosaic for modern Linux systems</a> at <a href="/wiki/GitHub" title="GitHub">GitHub</a></li>
+<li><a rel="nofollow" class="external text" href="ftp://ftp.ncsa.uiuc.edu/Web/Mosaic/">NCSA Mosaic Archive</a></li>
+<li><a rel="nofollow" class="external text" href="ftp://ftp.ncsa.uiuc.edu/Web/Mosaic/Windows/Archive/MosaicHistory.html">In The Beginning...</a> - A history of the development effort for the Microsoft Windows version.</li>
+<li><a rel="nofollow" class="external text" href="http://browsers.evolt.org/?mosaic-ncsa/">Mosaic archive</a> on <i>evolt.org</i></li>
+<li><a rel="nofollow" class="external text" href="http://wvnvms.wvnet.edu/vmswww/vms_mosaic.html">Mosaic for OpenVMS systems</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131117023556/http://vaxa.wvnet.edu/vmswww/vms_mosaic.html">VMS Mosaic home page</a> at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>&#32;(archived November 17, 2013)</li>
+<li><a rel="nofollow" class="external text" href="http://www.floodgap.com/retrotech/machten/mosaic/">Mosaic-CK home page</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Gopher" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Gopher_clients" title="Template:Gopher clients"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Gopher_clients" title="Template talk:Gopher clients"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Gopher_clients&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Gopher" style="font-size:114%;margin:0 4em"><a href="/wiki/Gopher_(protocol)" title="Gopher (protocol)">Gopher</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="A_protocol_for_document_search_and_retrieval_on_the_Internet">A <a href="/wiki/Communications_protocol" class="mw-redirect" title="Communications protocol">protocol</a> for document search and retrieval on the <a href="/wiki/Internet" title="Internet">Internet</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Active clients</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Free/open-source</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arachne_(web_browser)" title="Arachne (web browser)">Arachne</a></li>
+<li><a href="/wiki/Classilla" title="Classilla">Classilla</a></li>
+<li><a href="/wiki/Conkeror" title="Conkeror">Conkeror</a></li>
+<li><a href="/wiki/ELinks" title="ELinks">ELinks</a></li>
+<li><a href="/wiki/Gnuzilla" title="Gnuzilla">Gnuzilla</a></li>
+<li><a href="/wiki/K-Meleon" title="K-Meleon">K-Meleon</a></li>
+<li><a href="/wiki/Kazehakase" title="Kazehakase">Kazehakase</a></li>
+<li><a href="/wiki/Line_Mode_Browser" title="Line Mode Browser">Line Mode Browser</a></li>
+<li><a href="/wiki/Lynx_(web_browser)" title="Lynx (web browser)">Lynx</a></li>
+<li><a href="/wiki/Mothra_(web_browser)" class="mw-redirect" title="Mothra (web browser)">Mothra</a></li>
+<li><a href="/wiki/W3m" title="W3m">W3m</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Proprietary</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/OmniWeb" title="OmniWeb">OmniWeb</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Discontinued clients</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agora_(web_browser)" title="Agora (web browser)">Agora</a></li>
+<li><a href="/wiki/Amaya_(web_editor)" title="Amaya (web editor)">Amaya</a></li>
+<li><a href="/wiki/Arena_(web_browser)" title="Arena (web browser)">Arena</a></li>
+<li><a href="/wiki/AT%26T_Pogo" title="AT&amp;T Pogo">AT&amp;T Pogo</a></li>
+<li><a href="/wiki/Beonex_Communicator" title="Beonex Communicator">Beonex Communicator</a></li>
+<li><a href="/wiki/Camino_(web_browser)" title="Camino (web browser)">Camino</a></li>
+<li><a href="/wiki/Cello_(web_browser)" title="Cello (web browser)">Cello</a></li>
+<li><a href="/wiki/Cyberjack" title="Cyberjack">Cyberjack</a></li>
+<li><a href="/wiki/Galeon" title="Galeon">Galeon</a></li>
+<li><a href="/wiki/GopherVR" title="GopherVR">GopherVR</a></li>
+<li><a href="/wiki/IBrowse" title="IBrowse">IBrowse</a></li>
+<li><a href="/wiki/Internet_Explorer_for_Mac" title="Internet Explorer for Mac">Internet Explorer for Mac</a></li>
+<li><a href="/wiki/Libwww" title="Libwww">libwww</a></li>
+<li><a href="/wiki/Minimo" title="Minimo">Minimo</a></li>
+<li><a href="/wiki/Minnesota_Internet_Users_Essential_Tool" title="Minnesota Internet Users Essential Tool">Minuet</a></li>
+<li><a class="mw-selflink selflink">Mosaic</a></li>
+<li><a href="/wiki/Mozilla_Application_Suite" title="Mozilla Application Suite">Mozilla Application Suite</a></li>
+<li><a href="/wiki/Netscape_(web_browser)" title="Netscape (web browser)">Netscape</a></li>
+<li><a href="/wiki/SlipKnot_(web_browser)" title="SlipKnot (web browser)">SlipKnot</a></li>
+<li><a href="/wiki/Songbird_(software)" title="Songbird (software)">Songbird</a></li>
+<li><a href="/wiki/TkWWW" title="TkWWW">tkWWW</a></li>
+<li><a href="/wiki/UdiWWW" title="UdiWWW">UdiWWW</a></li>
+<li><a href="/wiki/XB_Browser" title="XB Browser">xB Browser</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Previously supported</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/GNOME_Web" title="GNOME Web">Epiphany</a></li>
+<li><a href="/wiki/Firefox" title="Firefox">Firefox</a></li>
+<li><a href="/wiki/Flock_(web_browser)" title="Flock (web browser)">Flock</a></li>
+<li><a href="/wiki/Internet_Explorer" title="Internet Explorer">Internet Explorer</a></li>
+<li><a href="/wiki/SeaMonkey" title="SeaMonkey">SeaMonkey</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Server software</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bucktooth" title="Bucktooth">Bucktooth</a></li>
+<li><a href="/wiki/NetPresenz" title="NetPresenz">NetPresenz</a></li>
+<li><a href="/wiki/PyGopherd" title="PyGopherd">PyGopherd</a></li>
+<li><a href="/wiki/Squid_(software)" title="Squid (software)">Squid</a></li>
+<li><a href="/wiki/Synchronet" title="Synchronet">Synchronet</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Search engines</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jughead_(search_engine)" title="Jughead (search engine)">Jughead</a></li>
+<li><a href="/wiki/Veronica_(search_engine)" title="Veronica (search engine)">Veronica</a></li>
+<li><a href="/wiki/Wide_area_information_server" title="Wide area information server">Wide area information server</a> (WAIS)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Content</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AllMusic" title="AllMusic">AllMusic</a></li>
+<li><a href="/wiki/CCSO_Nameserver" title="CCSO Nameserver">CCSO Nameserver</a></li>
+<li><a href="/wiki/Gophermap" class="mw-redirect" title="Gophermap">Gophermap</a></li>
+<li><a href="/wiki/Phlog" title="Phlog">Phlog</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Hosts</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/SDF_Public_Access_Unix_System" title="SDF Public Access Unix System">SDF Public Access Unix System</a></li>
+<li><a href="/wiki/The_WELL" title="The WELL">The WELL</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/John_Goerzen" title="John Goerzen">John Goerzen</a></li>
+<li><a href="/wiki/Mark_P._McCahill" title="Mark P. McCahill">Mark P. McCahill</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a href="/wiki/Gopher%2B" title="Gopher+">Gopher+</a></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Timeline_of_web_browsers" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Timeline_of_web_browsers" title="Template:Timeline of web browsers"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Timeline_of_web_browsers" title="Template talk:Timeline of web browsers"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Timeline_of_web_browsers&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Timeline_of_web_browsers" style="font-size:114%;margin:0 4em"><a href="/wiki/Timeline_of_web_browsers" title="Timeline of web browsers">Timeline</a> of <a href="/wiki/Web_browser" title="Web browser">web browsers</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="General" style="font-size:114%;margin:0 4em">General</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Comparison_of_web_browsers" title="Comparison of web browsers">Comparison</a>
+<ul><li><a href="/wiki/Comparison_of_lightweight_web_browsers" title="Comparison of lightweight web browsers">lightweight</a></li></ul></li>
+<li><a href="/wiki/History_of_the_web_browser" title="History of the web browser">History</a></li>
+<li><a href="/wiki/List_of_web_browsers" title="List of web browsers">List</a>
+<ul><li><a href="/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems" title="List of web browsers for Unix and Unix-like operating systems">for Unix</a></li></ul></li>
+<li><a href="/wiki/Usage_share_of_web_browsers" title="Usage share of web browsers">Usage share</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="1990s" style="font-size:114%;margin:0 4em">1990s</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">1990</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/WorldWideWeb" title="WorldWideWeb">WorldWideWeb (Nexus)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1991</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Line_Mode_Browser" title="Line Mode Browser">Line Mode Browser</a>
+<ul><li><a href="/wiki/Libwww" title="Libwww">libwww</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1992</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Erwise" title="Erwise">Erwise</a></li>
+<li><a href="/wiki/MacWWW" title="MacWWW">MacWWW (Samba)</a></li>
+<li><a href="/wiki/MidasWWW" title="MidasWWW">MidasWWW</a></li>
+<li><a href="/wiki/TkWWW" title="TkWWW">tkWWW</a></li>
+<li><a href="/wiki/ViolaWWW" title="ViolaWWW">ViolaWWW</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1993</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AMosaic" title="AMosaic">AMosaic</a></li>
+<li><a href="/wiki/Arena_(web_browser)" title="Arena (web browser)">Arena</a></li>
+<li><a href="/wiki/Cello_(web_browser)" title="Cello (web browser)">Cello</a></li>
+<li><a href="/wiki/Emacs/W3" class="mw-redirect" title="Emacs/W3">Emacs/W3</a></li>
+<li><a href="/wiki/Lynx_(web_browser)" title="Lynx (web browser)">Lynx 2</a></li>
+<li><a class="mw-selflink selflink">NCSA Mosaic</a></li>
+<li><a href="/wiki/VMS_Mosaic" class="mw-redirect" title="VMS Mosaic">VMS Mosaic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1994</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AirMosaic" title="AirMosaic">AirMosaic</a>
+<ul><li><a href="/wiki/IBox" title="IBox">Internet in a Box</a></li></ul></li>
+<li><a href="/wiki/Fresco_(web_browser)" title="Fresco (web browser)">ANT Fresco</a></li>
+<li><a href="/wiki/Argo_(web_browser)" title="Argo (web browser)">Argo</a></li>
+<li><a href="/wiki/IBM_WebExplorer" title="IBM WebExplorer">IBM WebExplorer</a></li>
+<li><a href="/wiki/SlipKnot_(web_browser)" title="SlipKnot (web browser)">SlipKnot</a></li>
+<li><a href="/wiki/Minnesota_Internet_Users_Essential_Tool" title="Minnesota Internet Users Essential Tool">Minuet</a></li>
+<li><a href="/wiki/AOLpress" title="AOLpress">Navipress</a></li>
+<li><a href="/wiki/Netscape_(web_browser)#Netscape_Navigator_.28versions_1.0.E2.80.933.0.29" title="Netscape (web browser)">Mosaic/Mosaic Netscape/Netscape Navigator</a></li>
+<li><a href="/wiki/Spyglass,_Inc." title="Spyglass, Inc.">Spyglass Mosaic</a></li>
+<li><a href="/wiki/InterCon_Systems_Corporation#TCP.2FConnect_II" title="InterCon Systems Corporation">TCP/Connect II</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1995</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agora_(web_browser)" title="Agora (web browser)">Agora</a></li>
+<li><a href="/wiki/ALynx" class="mw-redirect" title="ALynx">ALynx</a></li>
+<li><a href="/wiki/AMSD_Ariadna" title="AMSD Ariadna">AMSD Ariadna</a></li>
+<li><a href="/wiki/Cyberjack" title="Cyberjack">Cyberjack</a></li>
+<li><a href="/wiki/InterCon_Systems_Corporation#WebShark" title="InterCon Systems Corporation">eWorld Web Browser</a></li>
+<li><a href="/wiki/Grail_(web_browser)" title="Grail (web browser)">Grail</a></li>
+<li><a href="/wiki/Internet_Explorer_1" class="mw-redirect" title="Internet Explorer 1">Internet Explorer 1</a></li>
+<li><a href="/wiki/Internet_Explorer_2" title="Internet Explorer 2">Internet Explorer 2</a></li>
+<li><a href="/wiki/Netscape_(web_browser)#Netscape_Navigator_.28versions_1.0.E2.80.933.0.29" title="Netscape (web browser)">Netscape Navigator 2</a></li>
+<li><a href="/wiki/InterCon_Systems_Corporation#NetShark" title="InterCon Systems Corporation">NetShark</a></li>
+<li><a href="/wiki/OmniWeb" title="OmniWeb">OmniWeb</a></li>
+<li><a href="/wiki/HotJava" title="HotJava">HotJava</a></li>
+<li><a href="/wiki/UdiWWW" title="UdiWWW">UdiWWW</a></li>
+<li><a href="/wiki/InterCon_Systems_Corporation#WebShark" title="InterCon Systems Corporation">WebShark</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1996</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cyberdog" title="Cyberdog">Cyberdog</a></li>
+<li><a href="/wiki/Arachne_(web_browser)" title="Arachne (web browser)">Arachne</a></li>
+<li><a href="/wiki/AWeb" title="AWeb">AWeb</a></li>
+<li><a href="/wiki/IBrowse" title="IBrowse">IBrowse</a></li>
+<li><a href="/wiki/Amaya_(web_editor)" title="Amaya (web editor)">Amaya</a></li>
+<li><a href="/wiki/Internet_Explorer_3" title="Internet Explorer 3">Internet Explorer 3</a></li>
+<li><a href="/wiki/Netscape_(web_browser)#Netscape_Navigator_.28versions_1.0.E2.80.933.0.29" title="Netscape (web browser)">Netscape Navigator 3</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_2" title="History of the Opera web browser">Opera 2</a></li>
+<li><a href="/wiki/Oracle_PowerBrowser" title="Oracle PowerBrowser">Oracle PowerBrowser</a></li>
+<li><a href="/wiki/InterCon_Systems_Corporation" title="InterCon Systems Corporation">tcpCONNECT4</a></li>
+<li><a href="/wiki/Voyager_(web_browser)" title="Voyager (web browser)">Voyager</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1997</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Netscape_Communicator" title="Netscape Communicator">Netscape Communicator</a></li>
+<li><a href="/wiki/Internet_Explorer_4" title="Internet Explorer 4">Internet Explorer 4</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_2" title="History of the Opera web browser">Opera 2.1</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1998</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/NeoPlanet" title="NeoPlanet">NeoPlanet</a></li>
+<li><a href="/wiki/Mozilla_Application_Suite" title="Mozilla Application Suite">Mozilla Application Suite</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_3" title="History of the Opera web browser">Opera 3–3.21</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1999</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ICab" title="ICab">iCab</a></li>
+<li><a href="/wiki/Internet_Explorer_5" title="Internet Explorer 5">Internet Explorer 5</a></li>
+<li><a href="/wiki/Omniweb" class="mw-redirect" title="Omniweb">Omniweb 3</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_3" title="History of the Opera web browser">Opera 3.5–3.62</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="2000s" style="font-size:114%;margin:0 4em">2000s</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">2000</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Beonex_Communicator" title="Beonex Communicator">Beonex Communicator</a></li>
+<li><a href="/wiki/Galeon" title="Galeon">Galeon</a></li>
+<li><a href="/wiki/K-Meleon" title="K-Meleon">K-Meleon</a></li>
+<li><a href="/wiki/MediaBrowser" title="MediaBrowser">MediaBrowser</a></li>
+<li><a href="/wiki/Netscape_6" title="Netscape 6">Netscape 6</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_4" title="History of the Opera web browser">Opera 4–4.02</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2001</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ICab" title="ICab">iCab 2.5</a></li>
+<li><a href="/wiki/Internet_Explorer_6" title="Internet Explorer 6">Internet Explorer 6</a></li>
+<li><a href="/wiki/Omniweb" class="mw-redirect" title="Omniweb">Omniweb 4</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_5" title="History of the Opera web browser">Opera 5–5.12</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2002</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Avant_Browser" title="Avant Browser">Avant Browser 7</a></li>
+<li><a href="/wiki/Camino_(web_browser)" title="Camino (web browser)">Camino</a></li>
+<li><a href="/wiki/GNOME_Web" title="GNOME Web">Epiphany</a></li>
+<li><a href="/wiki/Netscape_7" title="Netscape 7">Netscape 7</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_6" title="History of the Opera web browser">Opera 6–6.1</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2003</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/GreenBrowser" title="GreenBrowser">GreenBrowser</a></li>
+<li><a href="/wiki/Maxthon#Browser_versions" title="Maxthon">Maxthon</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_7" title="History of the Opera web browser">Opera 7–7.3</a></li>
+<li><a href="/wiki/Safari_(web_browser)" title="Safari (web browser)">Safari</a></li>
+<li><a href="/wiki/SlimBrowser" title="SlimBrowser">SlimBrowser</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2004</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Avant_Browser" title="Avant Browser">Avant Browser 9</a></li>
+<li><a href="/wiki/History_of_Firefox" title="History of Firefox">Phoenix/Firebird/Firefox</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_7" title="History of the Opera web browser">Opera 7.5–7.55</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2005</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AOL_Explorer" title="AOL Explorer">AOL Explorer</a></li>
+<li><a href="/wiki/Deepnet_Explorer" title="Deepnet Explorer">Deepnet Explorer</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 1.5</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_8" title="History of the Opera web browser">Opera 8–8.54</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_2" title="Safari (web browser)">Safari 2</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2006</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Avant_Browser" title="Avant Browser">Avant Browser 11</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 2</a></li>
+<li><a href="/wiki/Internet_Explorer_7" title="Internet Explorer 7">Internet Explorer 7</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_9" title="History of the Opera web browser">Opera 9–9.27</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2007</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Maxthon#Browser_versions" title="Maxthon">Maxthon 2</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_9" title="History of the Opera web browser">Opera 9.5–9.64</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_3" title="Safari (web browser)">Safari 3</a></li>
+<li><a href="/wiki/SeaMonkey#Release_history" title="SeaMonkey">SeaMonkey 1.1</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2008</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 3</a></li>
+<li><a href="/wiki/Netscape_Browser" title="Netscape Browser">Netscape Browser</a></li>
+<li><a href="/wiki/Netscape_Navigator_9" title="Netscape Navigator 9">Netscape Navigator 9</a></li>
+<li><a href="/wiki/NetSurf#Release" title="NetSurf">NetSurf 1.2</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2009</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Avant_Browser" title="Avant Browser">Avant Browser 11.7</a></li>
+<li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 2–3</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 3.5</a></li>
+<li><a href="/wiki/Internet_Explorer_8" title="Internet Explorer 8">Internet Explorer 8</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_10" title="History of the Opera web browser">Opera 10–10.63</a></li>
+<li><a href="/wiki/Pale_Moon_(web_browser)" title="Pale Moon (web browser)">Pale Moon</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_4" title="Safari (web browser)">Safari 4</a></li>
+<li><a href="/wiki/SeaMonkey#Release_history" title="SeaMonkey">SeaMonkey 2.0</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="2010s" style="font-size:114%;margin:0 4em">2010s</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">2010</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 4–8</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 3.6</a></li>
+<li><a href="/wiki/Lunascape#History" title="Lunascape">Lunascape 6.0.1</a></li>
+<li><a href="/wiki/Maxthon#Browser_versions" title="Maxthon">Maxthon 3</a></li>
+<li><a href="/wiki/NetSurf#Release" title="NetSurf">NetSurf 2.5</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_11" title="History of the Opera web browser">Opera 11–11.64</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_5" title="Safari (web browser)">Safari 5</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2011</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 9–16</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 4–9</a></li>
+<li><a href="/wiki/Internet_Explorer_9" title="Internet Explorer 9">Internet Explorer 9</a></li>
+<li><a href="/wiki/Lunascape#History" title="Lunascape">Lunascape 6.5</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_12" title="History of the Opera web browser">Opera 12–12.17</a></li>
+<li><a href="/wiki/SeaMonkey#Release_history" title="SeaMonkey">SeaMonkey 2.1–2.4</a></li>
+<li><a href="/wiki/Waterfox" title="Waterfox">Waterfox</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2012</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 17–23</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 10–17</a></li>
+<li><a href="/wiki/Internet_Explorer_10" title="Internet Explorer 10">Internet Explorer 10</a></li>
+<li><a href="/wiki/Lunascape#History" title="Lunascape">Lunascape 6.7</a></li>
+<li><a href="/wiki/Maxthon#Browser_versions" title="Maxthon">Maxthon 3.4</a></li>
+<li><a href="/wiki/NetSurf#Release" title="NetSurf">NetSurf 2.9</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_6" title="Safari (web browser)">Safari 6</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2013</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 24–31</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 18–26</a></li>
+<li><a href="/wiki/Internet_Explorer_11" title="Internet Explorer 11">Internet Explorer 11</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser" title="History of the Opera web browser">Opera 15–18</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_7" title="Safari (web browser)">Safari 7</a></li>
+<li><a href="/wiki/SeaMonkey#Release_history" title="SeaMonkey">SeaMonkey 2.15–2.22</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2014</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 32–39</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 27–34</a></li>
+<li><a href="/wiki/Lunascape#History" title="Lunascape">Lunascape 6.9</a></li>
+<li><a href="/wiki/NetSurf#Release" title="NetSurf">NetSurf 3.1</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser" title="History of the Opera web browser">Opera 19–26</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_8" title="Safari (web browser)">Safari 8</a></li>
+<li><a href="/wiki/SeaMonkey#Release_history" title="SeaMonkey">SeaMonkey 2.23–2.31</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2015</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 40–47</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 35–43</a></li>
+<li><a href="/wiki/Lunascape#History" title="Lunascape">Lunascape 6.10–6.12</a></li>
+<li><a href="/wiki/Microsoft_Edge" title="Microsoft Edge">Microsoft Edge 20, 25</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser" title="History of the Opera web browser">Opera 27–34</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_9" title="Safari (web browser)">Safari 9</a></li>
+<li><a href="/wiki/SeaMonkey#Release_history" title="SeaMonkey">SeaMonkey 2.32–2.39</a></li>
+<li><a href="/wiki/Vivaldi_(web_browser)" title="Vivaldi (web browser)">Vivaldi</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2016</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 48–55</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 44–50</a></li>
+<li><a href="/wiki/Lunascape#History" title="Lunascape">Lunascape 6.13–6.15</a></li>
+<li><a href="/wiki/Microsoft_Edge" title="Microsoft Edge">Microsoft Edge 38</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser" title="History of the Opera web browser">Opera 35–42</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_10" title="Safari (web browser)">Safari 10</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2017</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Basilisk_(web_browser)" title="Basilisk (web browser)">Basilisk</a></li>
+<li><a href="/wiki/Brave_(web_browser)" title="Brave (web browser)">Brave</a></li>
+<li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 56–63</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 51–57</a></li>
+<li><a href="/wiki/Microsoft_Edge" title="Microsoft Edge">Microsoft Edge 40, 41</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser" title="History of the Opera web browser">Opera 43–49</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_11" title="Safari (web browser)">Safari 11</a></li>
+<li><a href="/wiki/SeaMonkey#Release_history" title="SeaMonkey">SeaMonkey 2.46–2.49</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2018</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 64–</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 58–</a></li>
+<li><a href="/wiki/Microsoft_Edge" title="Microsoft Edge">Microsoft Edge 42-</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser" title="History of the Opera web browser">Opera 50-</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Related_topics" style="font-size:114%;margin:0 4em">Related topics</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/3DMLW" title="3DMLW">3D Markup Language for Web</a></i></li>
+<li><a href="/wiki/Aliweb" title="Aliweb">Aliweb</a></li>
+<li><i><a href="/wiki/ARPANET" title="ARPANET">ARPANET</a></i></li>
+<li><a href="/wiki/ASCII" title="ASCII">ASCII</a></li>
+<li><i><a href="/wiki/BITNET" title="BITNET">BITNET</a></i></li>
+<li><a href="/wiki/Browser_wars" title="Browser wars">Browser wars</a></li>
+<li><i><a href="/wiki/CompuServe" title="CompuServe">CompuServe</a></i></li>
+<li><a href="/wiki/Elm_(email_client)" title="Elm (email client)">Elm</a></li>
+<li><a href="/wiki/Email" title="Email">Email</a></li>
+<li><a href="/wiki/File_Transfer_Protocol" title="File Transfer Protocol">File Transfer Protocol</a></li>
+<li><a href="/wiki/Gopher_(protocol)" title="Gopher (protocol)">Gopher</a></li>
+<li><a href="/wiki/HTML" title="HTML">HTML</a></li>
+<li><i><a href="/wiki/HyperCard" title="HyperCard">HyperCard</a></i></li>
+<li><i><a href="/wiki/HyTelnet" title="HyTelnet">HyTelnet</a></i></li>
+<li><i><a href="/wiki/NCSA_Telnet" title="NCSA Telnet">NCSA Telnet</a></i></li>
+<li><a href="/wiki/NLS_(computer_system)" title="NLS (computer system)">NLS</a></li>
+<li><i><a href="/wiki/Prodigy_(online_service)" title="Prodigy (online service)">Prodigy</a></i></li>
+<li><a href="/wiki/Teletext" title="Teletext">Teletext</a></li>
+<li><a href="/wiki/Telnet" title="Telnet">Telnet</a></li>
+<li><a href="/wiki/Usenet" title="Usenet">Usenet</a></li>
+<li><i><a href="/wiki/UUCP" title="UUCP">UUCP</a></i></li>
+<li><i><a href="/wiki/Videotex" title="Videotex">Videotex</a></i></li>
+<li><a href="/wiki/Viewdata" title="Viewdata">Viewdata</a></li>
+<li><i><a href="/wiki/VRML" title="VRML">Virtual Reality Markup Language</a></i></li>
+<li><a href="/wiki/Web_page" title="Web page">Web page</a></li>
+<li><a href="/wiki/Whole_Internet_User%27s_Guide_and_Catalog" title="Whole Internet User&#39;s Guide and Catalog">Whole Internet User's Guide and Catalog</a></li>
+<li><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a></li>
+<li><i><a href="/wiki/X.25" title="X.25">X.25</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Web_browsers" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Web_browsers" title="Template:Web browsers"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Web_browsers" title="Template talk:Web browsers"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_browsers&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Web_browsers" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_browser" title="Web browser">Web browsers</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Comparison&amp;#10;**lightweight&amp;#10;*History&amp;#10;*List&amp;#10;**Unix_&amp;amp;_Unix-like&amp;#10;*Timeline&amp;#10;*Usage_share">
+<ul><li><a href="/wiki/Comparison_of_web_browsers" title="Comparison of web browsers">Comparison</a>
+<ul><li><a href="/wiki/Comparison_of_lightweight_web_browsers" title="Comparison of lightweight web browsers">lightweight</a></li></ul></li>
+<li><a href="/wiki/History_of_the_web_browser" title="History of the web browser">History</a></li>
+<li><a href="/wiki/List_of_web_browsers" title="List of web browsers">List</a>
+<ul><li><a href="/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems" title="List of web browsers for Unix and Unix-like operating systems">Unix &amp; Unix-like</a></li></ul></li>
+<li><a href="/wiki/Timeline_of_web_browsers" title="Timeline of web browsers">Timeline</a></li>
+<li><a href="/wiki/Usage_share_of_web_browsers" title="Usage share of web browsers">Usage share</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:10em">Features</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ad_filtering" class="mw-redirect" title="Ad filtering">Ad filtering</a></li>
+<li><a href="/wiki/Augmented_browsing" title="Augmented browsing">Augmented browsing</a></li>
+<li><a href="/wiki/Bookmark_(World_Wide_Web)" title="Bookmark (World Wide Web)">Bookmarks</a>
+<ul><li><a href="/wiki/Bookmarklet" title="Bookmarklet">Bookmarklet</a></li>
+<li><a href="/wiki/Features_of_Firefox#Live_bookmarks" title="Features of Firefox">Live bookmark</a></li>
+<li><a href="/wiki/Smart_Bookmarks" title="Smart Bookmarks">Smart Bookmarks</a></li></ul></li>
+<li><a href="/wiki/Browser_extension" title="Browser extension">Browser extension</a></li>
+<li><a href="/wiki/Browser_security" title="Browser security">Browser security</a></li>
+<li><a href="/wiki/Browser_synchronizer" title="Browser synchronizer">Browser synchronizer</a>
+<ul><li><a href="/wiki/Comparison_of_browser_synchronizers" title="Comparison of browser synchronizers">comparison</a></li></ul></li>
+<li><a href="/wiki/HTTP_cookie" title="HTTP cookie">Cookies</a></li>
+<li><a href="/wiki/Download_manager" title="Download manager">Download manager</a></li>
+<li><a href="/wiki/Favicon" title="Favicon">Favicon</a></li>
+<li><a href="/wiki/Incremental_search" title="Incremental search">Incremental search</a></li>
+<li><a href="/wiki/Plug-in_(computing)" title="Plug-in (computing)">Plug-in</a></li>
+<li><a href="/wiki/Private_browsing" title="Private browsing">Private browsing</a></li>
+<li><a href="/wiki/Tab_(GUI)" title="Tab (GUI)">Tabs</a></li>
+<li><a href="/wiki/Universal_Edit_Button" title="Universal Edit Button">Universal Edit Button</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em">Web standards</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Web_Standards_Project" title="Web Standards Project">Acid tests</a></li>
+<li><a href="/wiki/Cascading_Style_Sheets" title="Cascading Style Sheets">Cascading Style Sheets</a></li>
+<li><a href="/wiki/HTML" title="HTML">HTML</a></li>
+<li><a href="/wiki/HTML5" title="HTML5">HTML5</a></li>
+<li><a href="/wiki/JavaScript" title="JavaScript">JavaScript</a></li>
+<li><a href="/wiki/MathML" title="MathML">MathML</a></li>
+<li><a href="/wiki/Scalable_Vector_Graphics" title="Scalable Vector Graphics">SVG</a></li>
+<li><a href="/wiki/WebGL" title="WebGL">WebGL</a></li>
+<li><a href="/wiki/XHTML" title="XHTML">XHTML</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em">Protocols</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol">HTTP</a></li>
+<li><a href="/wiki/HTTPS" title="HTTPS">HTTPS</a></li>
+<li><a href="/wiki/Online_Certificate_Status_Protocol" title="Online Certificate Status Protocol">OCSP</a></li>
+<li><a href="/wiki/SPDY" title="SPDY">SPDY</a></li>
+<li><a href="/wiki/Transport_Layer_Security" title="Transport Layer Security">SSL/TLS</a></li>
+<li><a href="/wiki/WebSocket" title="WebSocket">WebSocket</a></li>
+<li><a href="/wiki/Web_Proxy_Autodiscovery_Protocol" class="mw-redirect" title="Web Proxy Autodiscovery Protocol">WPAD</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em">Related topics</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/BrowserChoice.eu" title="BrowserChoice.eu">BrowserChoice.eu</a></li>
+<li><a href="/wiki/Revocation_list" class="mw-redirect" title="Revocation list">CRL</a></li>
+<li><a href="/wiki/ILoo" title="ILoo">iLoo</a></li>
+<li><a href="/wiki/Internet_suite" title="Internet suite">Internet suite</a></li>
+<li><a href="/wiki/Man-in-the-browser" title="Man-in-the-browser">Man-in-the-browser</a></li>
+<li><a href="/wiki/Mobile_Web" title="Mobile Web">Mobile Web</a></li>
+<li><a href="/wiki/Offline_reader" title="Offline reader">Offline reader</a></li>
+<li><a href="/wiki/Proxy_auto-config" title="Proxy auto-config">PAC</a></li>
+<li><a href="/wiki/Pwn2Own" title="Pwn2Own">Pwn2Own</a></li>
+<li><a href="/wiki/Rich_Internet_application" title="Rich Internet application">Rich Internet application</a></li>
+<li><a href="/wiki/Site-specific_browser" title="Site-specific browser">Site-specific browser</a></li>
+<li><a href="/wiki/Graphical_control_element" class="mw-redirect" title="Graphical control element">Widget</a></li>
+<li><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a></li>
+<li><a href="/wiki/XML" title="XML">XML</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Desktop" style="font-size:114%;margin:0 4em"><a href="/wiki/Desktop_computer" title="Desktop computer">Desktop</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Blink_(web_engine)" class="mw-redirect" title="Blink (web engine)">Blink</a>-based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brave_(web_browser)" title="Brave (web browser)">Brave</a></li>
+<li><a href="/wiki/Google_Chrome" title="Google Chrome">Chrome</a></li>
+<li><a href="/wiki/Chromium_(web_browser)" title="Chromium (web browser)">Chromium</a></li>
+<li><a href="/wiki/Comodo_Dragon" title="Comodo Dragon">Dragon</a></li>
+<li><a href="/wiki/Falkon" title="Falkon">Falkon</a></li>
+<li><a href="/wiki/Opera_(web_browser)" title="Opera (web browser)">Opera</a></li>
+<li><a href="/wiki/Sleipnir_(web_browser)" title="Sleipnir (web browser)">Sleipnir</a></li>
+<li><a href="/wiki/SlimBrowser" title="SlimBrowser">Slimjet</a></li>
+<li><a href="/wiki/SRWare_Iron" title="SRWare Iron">SRWare Iron</a></li>
+<li><a href="/wiki/UC_Browser" title="UC Browser">UC Browser</a></li>
+<li><a href="/wiki/Vivaldi_(web_browser)" title="Vivaldi (web browser)">Vivaldi</a></li>
+<li><a href="/wiki/Yandex_Browser" title="Yandex Browser">Yandex Browser</a></li>
+<li><a href="/wiki/Sputnik_(search_engine)" title="Sputnik (search engine)">Sputnik</a></li>
+<li><a href="/wiki/SafeZone" class="mw-redirect" title="SafeZone">SafeZone</a></li>
+<li><a href="/wiki/Naver_Whale" title="Naver Whale">Whale</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Gecko_(software)" title="Gecko (software)">Gecko</a>-based</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/AT%26T_Pogo" title="AT&amp;T Pogo">AT&amp;T Pogo</a></i></li>
+<li><a href="/wiki/Avant_Browser" title="Avant Browser">Avant</a></li>
+<li><i><a href="/wiki/Camino_(web_browser)" title="Camino (web browser)">Camino</a></i></li>
+<li><a href="/wiki/Firefox" title="Firefox">Firefox</a>
+<ul><li><a href="/wiki/Conkeror" title="Conkeror">Conkeror</a></li>
+<li><a href="/wiki/GNU_IceCat" title="GNU IceCat">GNU IceCat</a></li>
+<li><a href="/wiki/Comodo_IceDragon" title="Comodo IceDragon">IceDragon</a></li>
+<li><i><a href="/wiki/Swiftfox" title="Swiftfox">Swiftfox</a></i></li>
+<li><i><a href="/wiki/Swiftweasel" title="Swiftweasel">Swiftweasel</a></i></li>
+<li><a href="/wiki/TenFourFox" title="TenFourFox">TenFourFox</a></li>
+<li><a href="/wiki/Timberwolf_(web_browser)" title="Timberwolf (web browser)">Timberwolf</a></li>
+<li><a href="/wiki/Tor_(anonymity_network)#Tor_Browser" title="Tor (anonymity network)">Tor Browser</a></li>
+<li><a href="/wiki/Waterfox" title="Waterfox">Waterfox</a></li>
+<li><i><a href="/wiki/XB_Browser" title="XB Browser">xB Browser</a></i></li></ul></li>
+<li><i><a href="/wiki/Galeon" title="Galeon">Galeon</a></i></li>
+<li><i><a href="/wiki/Ghostzilla" title="Ghostzilla">Ghostzilla</a></i></li>
+<li><a href="/wiki/K-Meleon" title="K-Meleon">K-Meleon</a></li>
+<li><i><a href="/wiki/Kazehakase" title="Kazehakase">Kazehakase</a></i></li>
+<li><a href="/wiki/Kirix_Strata" title="Kirix Strata">Kirix Strata</a></li>
+<li><i><a href="/wiki/IBM_Lotus_Symphony" title="IBM Lotus Symphony">Lotus Symphony</a></i></li>
+<li><a href="/wiki/Lunascape" title="Lunascape">Lunascape</a></li>
+<li><i><a href="/wiki/Mozilla_Application_Suite" title="Mozilla Application Suite">Mozilla</a></i>
+<ul><li><i><a href="/wiki/Beonex_Communicator" title="Beonex Communicator">Beonex Communicator</a></i></li>
+<li><a href="/wiki/Classilla" title="Classilla">Classilla</a></li>
+<li><i><a href="/wiki/Netscape_(web_browser)" title="Netscape (web browser)">Netscape</a></i></li>
+<li><a href="/wiki/SeaMonkey" title="SeaMonkey">SeaMonkey</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Trident_(layout_engine)" class="mw-redirect" title="Trident (layout engine)">Trident</a>-based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/AOL_Explorer" title="AOL Explorer">AOL Explorer</a></i></li>
+<li><a href="/wiki/Avant_Browser" title="Avant Browser">Avant</a></li>
+<li><i><a href="/wiki/Deepnet_Explorer" title="Deepnet Explorer">Deepnet Explorer</a></i></li>
+<li><a href="/wiki/GreenBrowser" title="GreenBrowser">GreenBrowser</a></li>
+<li><i><a href="/wiki/Internet_Explorer" title="Internet Explorer">Internet Explorer</a></i></li>
+<li><a href="/wiki/Lunascape" title="Lunascape">Lunascape</a></li>
+<li><a href="/wiki/Maxthon" title="Maxthon">Maxthon</a></li>
+<li><i><a href="/wiki/MediaBrowser" title="MediaBrowser">MediaBrowser</a></i></li>
+<li><a href="/wiki/MenuBox" title="MenuBox">MenuBox</a></li>
+<li><i><a href="/wiki/NeoPlanet" title="NeoPlanet">NeoPlanet</a></i></li>
+<li><i><a href="/wiki/NetCaptor" title="NetCaptor">NetCaptor</a></i></li>
+<li><a href="/wiki/SlimBrowser" title="SlimBrowser">SlimBrowser</a></li>
+<li><a href="/wiki/SpaceTime_(software)#SpaceTime_Browser" title="SpaceTime (software)"><i>SpaceTime</i></a></li>
+<li><i><a href="/wiki/UltraBrowser" title="UltraBrowser">UltraBrowser</a></i></li>
+<li><a href="/wiki/WebbIE" title="WebbIE">WebbIE</a></li>
+<li><a href="/wiki/ZAC_Browser" title="ZAC Browser">ZAC Browser</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/WebKit" title="WebKit">WebKit</a>-based</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Arora_(web_browser)" title="Arora (web browser)">Arora</a></i></li>
+<li><a href="/wiki/Avant_Browser" title="Avant Browser">Avant</a></li>
+<li><a href="/wiki/Dooble" title="Dooble">Dooble</a></li>
+<li><a href="/wiki/Epic_(web_browser)" title="Epic (web browser)">Epic</a></li>
+<li><i><a href="/wiki/Flock_(web_browser)" title="Flock (web browser)">Flock</a></i></li>
+<li><a href="/wiki/Fluid_(web_browser)" title="Fluid (web browser)">Fluid</a></li>
+<li><a href="/wiki/ICab" title="ICab">iCab</a></li>
+<li><a href="/wiki/Konqueror" title="Konqueror">Konqueror</a></li>
+<li><a href="/wiki/Lunascape" title="Lunascape">Lunascape</a></li>
+<li><a href="/wiki/Maxthon" title="Maxthon">Maxthon</a></li>
+<li><a href="/wiki/Midori_(web_browser)" title="Midori (web browser)">Midori</a></li>
+<li><a href="/wiki/OmniWeb" title="OmniWeb">OmniWeb</a></li>
+<li><i><a href="/wiki/Origyn_Web_Browser" title="Origyn Web Browser">Origyn Web Browser</a></i></li>
+<li><a href="/wiki/Otter_Browser" title="Otter Browser">Otter Browser</a></li>
+<li><a href="/wiki/QtWeb" title="QtWeb">QtWeb</a></li>
+<li><a href="/wiki/Rekonq" title="Rekonq">rekonq</a></li>
+<li><a href="/wiki/Safari_(web_browser)" title="Safari (web browser)">Safari</a></li>
+<li><i><a href="/wiki/Shiira" title="Shiira">Shiira</a></i></li>
+<li><a href="/wiki/SlimBrowser" title="SlimBrowser">SlimBoat</a></li>
+<li><a href="/wiki/Surf_(web_browser)" title="Surf (web browser)">surf</a></li>
+<li><a href="/wiki/Torch_(browser)" title="Torch (browser)">Torch</a></li>
+<li><a href="/wiki/Uzbl" title="Uzbl">Uzbl</a></li>
+<li><a href="/wiki/Vimb" title="Vimb">vimb</a></li>
+<li><a href="/wiki/Epiphany_(GNOME)" class="mw-redirect" title="Epiphany (GNOME)">Epiphany</a></li>
+<li><a href="/wiki/WebPositive" title="WebPositive">WebPositive</a></li>
+<li><a href="/wiki/Xombrero" title="Xombrero">xombrero</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Text-based_web_browser" title="Text-based web browser">Text</a>-based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ELinks" title="ELinks">ELinks</a></li>
+<li><i><a href="/wiki/Emacs/W3" class="mw-redirect" title="Emacs/W3">Emacs/W3</a></i></li>
+<li><i><a href="/wiki/Line_Mode_Browser" title="Line Mode Browser">Line Mode Browser</a></i></li>
+<li><a href="/wiki/Links_(web_browser)" title="Links (web browser)">Links</a></li>
+<li><a href="/wiki/Lynx_(web_browser)" title="Lynx (web browser)">Lynx</a></li>
+<li><a href="/wiki/W3m" title="W3m">w3m</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abaco_(web_browser)" title="Abaco (web browser)">abaco</a></li>
+<li><i><a href="/wiki/Amaya_(web_editor)" title="Amaya (web editor)">Amaya</a></i></li>
+<li><i><a href="/wiki/Arachne_(web_browser)" title="Arachne (web browser)">Arachne</a></i></li>
+<li><i><a href="/wiki/Arena_(web_browser)" title="Arena (web browser)">Arena</a></i></li>
+<li><a href="/wiki/Basilisk_(web_browser)" title="Basilisk (web browser)">Basilisk</a></li>
+<li><a href="/wiki/Charon_(web_browser)" title="Charon (web browser)">Charon</a></li>
+<li><a href="/wiki/Dillo" title="Dillo">Dillo</a></li>
+<li><a href="/wiki/Eww_(web_browser)" title="Eww (web browser)">eww</a></li>
+<li><i><a href="/wiki/Gazelle_(web_browser)" title="Gazelle (web browser)">Gazelle</a></i></li>
+<li><i><a href="/wiki/HotJava" title="HotJava">HotJava</a></i></li>
+<li><i><a href="/wiki/IBM_Home_Page_Reader" title="IBM Home Page Reader">IBM Home Page Reader</a></i></li>
+<li><i><a href="/wiki/IBrowse" title="IBrowse">IBrowse</a></i></li>
+<li><a href="/wiki/KidZui" title="KidZui">KidZui</a></li>
+<li><a href="/wiki/Microsoft_Edge" title="Microsoft Edge">Microsoft Edge</a></li>
+<li><i><a class="mw-selflink selflink">Mosaic</a></i></li>
+<li><i><a href="/wiki/Mothra_(web_browser)" class="mw-redirect" title="Mothra (web browser)">Mothra</a></i></li>
+<li><i><a href="/wiki/NetPositive" title="NetPositive">NetPositive</a></i></li>
+<li><a href="/wiki/NetSurf" title="NetSurf">NetSurf</a></li>
+<li><a href="/wiki/Pale_Moon_(web_browser)" title="Pale Moon (web browser)">Pale Moon</a></li>
+<li><a href="/wiki/360_Secure_Browser" title="360 Secure Browser">Qihoo 360 Secure Browser</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Mobile" style="font-size:114%;margin:0 4em"><a href="/wiki/Mobile_browser" title="Mobile browser">Mobile</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Blink_(layout_engine)" class="mw-redirect" title="Blink (layout engine)">Blink</a>-based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Android_Browser" class="mw-redirect" title="Android Browser">Android Browser</a></li>
+<li><a href="/wiki/Chromium_(web_browser)" title="Chromium (web browser)">Chromium</a>
+<ul><li><a href="/wiki/Brave_(web_browser)" title="Brave (web browser)">Brave</a></li>
+<li><a href="/wiki/Google_Chrome_for_Android" title="Google Chrome for Android">Chrome for Android</a></li>
+<li><a href="/wiki/Opera_Mobile" title="Opera Mobile">Opera Mobile</a></li>
+<li><a href="/wiki/Samsung_Internet_for_Android" title="Samsung Internet for Android">Samsung Internet</a></li>
+<li><a href="/wiki/Amazon_Silk" title="Amazon Silk">Silk</a></li></ul></li>
+<li><a href="/wiki/Firefox_Focus" title="Firefox Focus">Firefox Focus for Android</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Gecko_(software)" title="Gecko (software)">Gecko</a>-based</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Firefox_for_Android" title="Firefox for Android">Firefox for Android</a></li>
+<li><i><a href="/wiki/MicroB" title="MicroB">MicroB</a></i></li>
+<li><i><a href="/wiki/Minimo" title="Minimo">Minimo</a></i></li>
+<li><a href="/wiki/Waterfox" title="Waterfox">Waterfox</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/WebKit" title="WebKit">WebKit</a>-based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Bolt_(web_browser)" title="Bolt (web browser)">BOLT</a></i></li>
+<li><a href="/wiki/Dolphin_Browser" title="Dolphin Browser">Dolphin Browser</a></li>
+<li><a href="/wiki/Google_Chrome#iOS_version" title="Google Chrome">Chrome for iOS</a></li>
+<li><a href="/wiki/Firefox_for_iOS" title="Firefox for iOS">Firefox for iOS</a></li>
+<li><a href="/wiki/Firefox_Focus" title="Firefox Focus">Firefox Focus for iOS</a></li>
+<li><a href="/wiki/Maxthon" title="Maxthon">Maxthon</a></li>
+<li><a href="/wiki/Mercury_Browser" title="Mercury Browser">Mercury Browser</a></li>
+<li><i><a href="/wiki/Nokia_Browser_for_Symbian" title="Nokia Browser for Symbian">Nokia Browser for Symbian</a></i></li>
+<li><i><a href="/wiki/Opera_Coast" title="Opera Coast">Opera Coast</a></i></li>
+<li><i><a href="/wiki/Rockmelt" title="Rockmelt">Rockmelt</a></i></li>
+<li><a href="/wiki/Safari_(web_browser)" title="Safari (web browser)">Safari</a></li>
+<li><i><a href="/wiki/Steel_(web_browser)" title="Steel (web browser)">Steel</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Blazer_(web_browser)" title="Blazer (web browser)">Blazer</a></i></li>
+<li><a href="/wiki/CM_Browser" class="mw-redirect" title="CM Browser">CM Browser</a></li>
+<li><i><a href="/wiki/Microsoft_Live_Labs_Deepfish" title="Microsoft Live Labs Deepfish">Deepfish</a></i></li>
+<li><i><a href="/wiki/Internet_Explorer_Mobile" title="Internet Explorer Mobile">Internet Explorer Mobile</a></i></li>
+<li><i><a href="/wiki/Iris_Browser" title="Iris Browser">Iris Browser</a></i></li>
+<li><i><a href="/wiki/Konqueror#Konqueror_Embedded" title="Konqueror">Konqueror Embedded</a></i></li>
+<li><a href="/wiki/Microsoft_Edge" title="Microsoft Edge">Microsoft Edge</a></li>
+<li><a href="/wiki/NetFront" title="NetFront">NetFront</a></li>
+<li><a href="/wiki/Opera_Mini" title="Opera Mini">Opera Mini</a></li>
+<li><i><a href="/wiki/Skweezer" title="Skweezer">Skweezer</a></i></li>
+<li><i><a href="/wiki/Skyfire_(company)" title="Skyfire (company)">Skyfire</a></i></li>
+<li><i><a href="/wiki/Teashark" title="Teashark">Teashark</a></i></li>
+<li><i><a href="/wiki/ThunderHawk" title="ThunderHawk">ThunderHawk</a></i></li>
+<li><a href="/wiki/UC_Browser" title="UC Browser">UC Browser</a></li>
+<li><i><a href="/wiki/Vision_Mobile_Browser" title="Vision Mobile Browser">Vision</a></i></li>
+<li><i><a href="/wiki/WinWAP" title="WinWAP">WinWAP</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Television_and_video_game_console" style="font-size:114%;margin:0 4em"><a href="/wiki/Television_set" title="Television set">Television</a> and <a href="/wiki/Video_game_console" title="Video game console">video game console</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Gecko_(software)" title="Gecko (software)">Gecko</a>-based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kylo_(web_browser)" title="Kylo (web browser)">Kylo</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/Presto_(layout_engine)" class="mw-redirect" title="Presto (layout engine)">Presto</a>-based</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Internet_Channel" title="Internet Channel">Internet Channel</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em"><a href="/wiki/WebKit" title="WebKit">WebKit</a>-based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Google_TV" title="Google TV">Google TV</a></i></li>
+<li><a href="/wiki/Internet_Browser_(Nintendo_3DS)" title="Internet Browser (Nintendo 3DS)">Nintendo 3DS Internet Browser</a></li>
+<li><i><a href="/wiki/Nintendo_DS_%26_DSi_Browser" title="Nintendo DS &amp; DSi Browser">Nintendo DS &amp; DSi Browser</a></i></li>
+<li><a href="/wiki/NetFront" title="NetFront">NetFront</a></li>
+<li><a href="/wiki/Steam_(software)#User_interface" title="Steam (software)">Steam Overlay</a></li>
+<li><a href="/wiki/Nintendo_Network#Wii_U_2" title="Nintendo Network">Wii U Internet Browser</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:10em">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/MSN_TV" title="MSN TV">MSN TV</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li>Software no longer in development shown in <i>italics</i></li></ul>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Web_browsers" title="Category:Web browsers">Category</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Web_browsers" class="extiw" title="commons:Category:Web browsers">Commons</a></li>
+<li><a href="/wiki/File:Crystal_Clear_app_linneighborhood.svg" class="image"><img alt="Crystal Clear app linneighborhood.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/16px-Crystal_Clear_app_linneighborhood.svg.png" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/24px-Crystal_Clear_app_linneighborhood.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/32px-Crystal_Clear_app_linneighborhood.svg.png 2x" data-file-width="407" data-file-height="407" /></a> <a href="/wiki/Portal:Internet" title="Portal:Internet">Internet&#32;portal</a></li>
+<li><a href="/wiki/File:Crystal_Clear_device_cdrom_unmount.png" class="image"><img alt="Crystal Clear device cdrom unmount.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Crystal_Clear_device_cdrom_unmount.png/16px-Crystal_Clear_device_cdrom_unmount.png" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Crystal_Clear_device_cdrom_unmount.png/24px-Crystal_Clear_device_cdrom_unmount.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Crystal_Clear_device_cdrom_unmount.png/32px-Crystal_Clear_device_cdrom_unmount.png 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Portal:Software" title="Portal:Software">Software&#32;portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2225
+Cached time: 20180930123552
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.792 seconds
+Real time usage: 0.927 seconds
+Preprocessor visited node count: 4896/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 299593/2097152 bytes
+Template argument size: 33602/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 9/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 103328/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.353/10.000 seconds
+Lua memory usage: 6.86 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  712.649      1 -total
+ 44.32%  315.836      1 Template:Reflist
+ 26.17%  186.466     27 Template:Cite_web
+ 13.15%   93.718      2 Template:Infobox
+ 12.76%   90.927      1 Template:Infobox_software
+ 11.90%   84.840      2 Template:Navbox_with_collapsible_groups
+  7.66%   54.613      6 Template:Cite_journal
+  6.85%   48.815      1 Template:Web_browsers
+  6.09%   43.382      1 Template:Early_web_browsers
+  5.18%   36.920      1 Template:Citation_needed
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:43303-0!canonical and timestamp 20180930123551 and revision id 861062973
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mosaic_(web_browser)&amp;oldid=861062973">https://en.wikipedia.org/w/index.php?title=Mosaic_(web_browser)&amp;oldid=861062973</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1993_software" title="Category:1993 software">1993 software</a></li><li><a href="/wiki/Category:Cross-platform_software" title="Category:Cross-platform software">Cross-platform software</a></li><li><a href="/wiki/Category:Discontinued_web_browsers" title="Category:Discontinued web browsers">Discontinued web browsers</a></li><li><a href="/wiki/Category:Gopher_clients" title="Category:Gopher clients">Gopher clients</a></li><li><a href="/wiki/Category:History_of_software" title="Category:History of software">History of software</a></li><li><a href="/wiki/Category:History_of_the_Internet" title="Category:History of the Internet">History of the Internet</a></li><li><a href="/wiki/Category:History_of_web_browsers" title="Category:History of web browsers">History of web browsers</a></li><li><a href="/wiki/Category:Mac_OS_web_browsers" title="Category:Mac OS web browsers">Mac OS web browsers</a></li><li><a href="/wiki/Category:OS/2_web_browsers" title="Category:OS/2 web browsers">OS/2 web browsers</a></li><li><a href="/wiki/Category:POSIX_web_browsers" title="Category:POSIX web browsers">POSIX web browsers</a></li><li><a href="/wiki/Category:Windows_web_browsers" title="Category:Windows web browsers">Windows web browsers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_Infobox_software_with_unknown_parameters" title="Category:Pages using Infobox software with unknown parameters">Pages using Infobox software with unknown parameters</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2007" title="Category:Articles with unsourced statements from December 2007">Articles with unsourced statements from December 2007</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_1993" title="Category:Articles containing potentially dated statements from 1993">Articles containing potentially dated statements from 1993</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2003" title="Category:Articles containing potentially dated statements from 2003">Articles containing potentially dated statements from 2003</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_November_2010" title="Category:Articles to be expanded from November 2010">Articles to be expanded from November 2010</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mosaic+%28web+browser%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Mosaic+%28web+browser%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Mosaic_(web_browser)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Mosaic_(web_browser)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Mosaic_(web_browser)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Mosaic_(web_browser)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Mosaic_(web_browser)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Mosaic_(web_browser)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Mosaic_(web_browser)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Mosaic_(web_browser)&amp;oldid=861062973" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Mosaic_(web_browser)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q381047" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Mosaic_%28web_browser%29&amp;id=861062973" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Mosaic+%28web+browser%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Mosaic+%28web+browser%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Mosaic_(web_browser)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D9%88%D8%B2%D8%A7%D9%8A%D9%83_(%D9%85%D8%AA%D8%B5%D9%81%D8%AD_%D9%88%D9%8A%D8%A8)" title="موزايك (متصفح ويب) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AE%E0%A7%8B%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%95_(%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%89%E0%A6%9C%E0%A6%BE%E0%A6%B0)" title="মোজাইক (ব্রাউজার) – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Mosaic_(inform%C3%A0tica)" title="Mosaic (informàtica) – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Mosaic_(prohl%C3%AD%C5%BEe%C4%8D)" title="Mosaic (prohlížeč) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Mosaic" title="Mosaic – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/NCSA_Mosaic" title="NCSA Mosaic – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Mosaic" title="Mosaic – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Mosaic" title="Mosaic – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/NCSA_Mosaic" title="NCSA Mosaic – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Mosaic" title="Mosaic – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%AA%A8%EC%9E%90%EC%9D%B4%ED%81%AC_(%EC%9B%B9_%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80)" title="모자이크 (웹 브라우저) – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Mosaic" title="Mosaic – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/NCSA_Mosaic" title="NCSA Mosaic – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Mosaic_(b%C3%B6ng%C3%A9sz%C5%91)" title="Mosaic (böngésző) – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Mosaic_(pelayar_web)" title="Mosaic (pelayar web) – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Mosaic_(browser)" title="Mosaic (browser) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/NCSA_Mosaic" title="NCSA Mosaic – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Mosaic_(nettleser)" title="Mosaic (nettleser) – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Mosaic" title="Mosaic – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Mosaic" title="Mosaic – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Mosaic" title="Mosaic – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/NCSA_Mosaic" title="NCSA Mosaic – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Mosaic" title="Mosaic – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/NCSA_Mosaic" title="NCSA Mosaic – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Mosaic" title="Mosaic – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Mosaic" title="Mosaic – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%81_(%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%80%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B9%8C%E0%B9%80%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C)" title="โมเสก (เว็บเบราว์เซอร์) – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Mosaic" title="Mosaic – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/NCSA_Mosaic" title="NCSA Mosaic – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/Mosaic" title="Mosaic – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/Mosaic" title="Mosaic – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Mosaic" title="Mosaic – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q381047#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 24 September 2018, at 20:51<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Mosaic_(web_browser)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.792","walltime":"0.927","ppvisitednodes":{"value":4896,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":299593,"limit":2097152},"templateargumentsize":{"value":33602,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":103328,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  712.649      1 -total"," 44.32%  315.836      1 Template:Reflist"," 26.17%  186.466     27 Template:Cite_web"," 13.15%   93.718      2 Template:Infobox"," 12.76%   90.927      1 Template:Infobox_software"," 11.90%   84.840      2 Template:Navbox_with_collapsible_groups","  7.66%   54.613      6 Template:Cite_journal","  6.85%   48.815      1 Template:Web_browsers","  6.09%   43.382      1 Template:Early_web_browsers","  5.18%   36.920      1 Template:Citation_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.353","limit":"10.000"},"limitreport-memusage":{"value":7193337,"limit":52428800}},"cachereport":{"origin":"mw2225","timestamp":"20180930123552","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1025,"wgHostname":"mw2225"});});</script>
+	</body>
+</html>

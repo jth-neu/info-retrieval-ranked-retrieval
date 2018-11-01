@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Powerset (company) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Powerset_(company)","wgTitle":"Powerset (company)","wgCurRevisionId":833189358,"wgRevisionId":833189358,"wgArticleId":13336054,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Wikipedia articles in need of updating from December 2015","All Wikipedia articles in need of updating","Pages using deprecated image syntax","Internet search engines","Companies based in San Francisco","Natural language processing"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Powerset_(company)","wgRelevantArticleId":13336054,"wgRequestId":"W7AS-QrAADoAAE2SZlcAAAAG","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q224599","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Powerset_(company)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Powerset_(company)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Powerset_(company)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Powerset_(company)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Powerset_company rootpage-Powerset_company skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Powerset (company)</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing (search engine)</a></div>
+<table class="plainlinks metadata ambox ambox-content ambox-Update" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="Ambox current red.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/42px-Ambox_current_red.svg.png" width="42" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/63px-Ambox_current_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ambox_current_red.svg/84px-Ambox_current_red.svg.png 2x" data-file-width="360" data-file-height="290" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article needs to be <b>updated</b>.<span class="hide-when-compact"> Please update this article to reflect recent events or newly available information.</span>  <small><i>(December 2015)</i></small></div></td></tr></tbody></table>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">Powerset</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center">
+<a href="/wiki/File:Powerset_logo.png" class="image"><img alt="Powerset logo." src="//upload.wikimedia.org/wikipedia/en/0/02/Powerset_logo.png" width="231" height="59" data-file-width="231" data-file-height="59" /></a></td></tr><tr><th scope="row" style="padding-right:0.5em;">Founded</th><td style="line-height:1.35em;">
+<a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a>, <a href="/wiki/United_States" title="United States">U.S.</a> (2005)</td></tr><tr><th scope="row" style="padding-right:0.5em;">Headquarters</th><td class="adr" style="line-height:1.35em;">
+<span class="locality"><a href="/wiki/San_Francisco" title="San Francisco">San Francisco, California</a></span>, <span class="country-name"><a href="/wiki/United_States" title="United States">U.S.</a></span></td></tr><tr><th scope="row" style="padding-right:0.5em;"><a href="/wiki/Parent_company" title="Parent company">Parent</a></th><td style="line-height:1.35em;">
+<a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> (as of August 1, 2008)</td></tr><tr><th scope="row" style="padding-right:0.5em;">Website</th><td style="line-height:1.35em;">
+<span class="url"><a rel="nofollow" class="external text" href="http://www.powerset.com">www<wbr />.powerset<wbr />.com</a></span></td></tr></tbody></table>
+<p><b>Powerset</b> was an American company based in <a href="/wiki/San_Francisco,_California" class="mw-redirect" title="San Francisco, California">San Francisco, California</a>, that, in 2006, was developing a <a href="/wiki/Natural_language_search_engine" class="mw-redirect" title="Natural language search engine">natural language search engine</a> for the <a href="/wiki/Internet" title="Internet">Internet</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> On July 1, 2008, Powerset was acquired by <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> for an estimated $100 million.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>Powerset was working on building a  <a href="/wiki/Natural_language" title="Natural language">natural language</a> search engine that could find targeted answers to user questions (as opposed to keyword based search). For example, when confronted with a question like "Which <a href="/wiki/United_States" title="United States">U.S.</a> state has the highest <a href="/wiki/Income_tax" title="Income tax">income tax</a>?", conventional search engines ignore the question phrasing and instead do a search on the <a href="/wiki/Keyword_(Internet_search)" class="mw-redirect" title="Keyword (Internet search)">keywords</a> "state", "highest", "income", and "tax". Powerset on the other hand, attempts to use natural language processing to understand the nature of the question and return pages containing the answer.
+</p><p>The company was in the process of "building a natural language search engine that reads and understands every sentence on the Web".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> The company has licensed natural language technology from <a href="/wiki/PARC_(company)" title="PARC (company)">PARC</a>, the former <a href="/wiki/Xerox" title="Xerox">Xerox</a> <a href="/wiki/Palo_Alto_Research_Center" class="mw-redirect" title="Palo Alto Research Center">Palo Alto Research Center</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>On May 11, 2008, the company unveiled a tool for searching a fixed subset of <a href="/wiki/English_Wikipedia" title="English Wikipedia">English Wikipedia</a> using conversational phrases rather than keywords.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Powerlabs"><span class="tocnumber">1</span> <span class="toctext">Powerlabs</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#People"><span class="tocnumber">2</span> <span class="toctext">People</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Investors"><span class="tocnumber">3</span> <span class="toctext">Investors</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Powerlabs">Powerlabs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Powerset_(company)&amp;action=edit&amp;section=1" title="Edit section: Powerlabs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In a form of <a href="/wiki/Beta_test" class="mw-redirect" title="Beta test">beta testing</a>, Powerset opened an online community called <a href="/wiki/Powerlabs" class="mw-redirect" title="Powerlabs">Powerlabs</a> on September 17, 2007. <i><a href="/wiki/Business_Week" class="mw-redirect" title="Business Week">Business Week</a></i> said: "The company hopes the site will marshal thousands of people to help build and improve its search engine before it goes public next year."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Said <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>: "[Powerset Labs] goes far beyond the 'alpha' or 'beta' testing involved in most software projects, when users put a new product through rigorous testing to find its flaws. Powerset doesn’t have a product yet, but rather a collection of promising natural language technologies, which are the fruit of years of research at Xerox PARC."<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>Powerlabs' initial search results are taken from <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="People">People</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Powerset_(company)&amp;action=edit&amp;section=2" title="Edit section: People">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Barney Pell</b> (born March 18, 1968, in <a href="/wiki/Hollywood" title="Hollywood">Hollywood</a>, <a href="/wiki/California" title="California">California</a>)<sup id="cite_ref-nasa_9-0" class="reference"><a href="#cite_note-nasa-9">&#91;9&#93;</a></sup> is co-founder and CTO of Powerset. Pell received his <a href="/wiki/Bachelor_of_science" class="mw-redirect" title="Bachelor of science">bachelor of science</a> degree in symbolic systems from <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a> in 1989, where he graduated <a href="/wiki/Phi_Beta_Kappa" title="Phi Beta Kappa">Phi Beta Kappa</a> and was a <a href="/wiki/National_Merit_Scholar" class="mw-redirect" title="National Merit Scholar">National Merit Scholar</a>. Pell received a <a href="/wiki/PhD" class="mw-redirect" title="PhD">PhD</a> in <a href="/wiki/Computer_science" title="Computer science">computer science</a> from <a href="/wiki/Cambridge_University" class="mw-redirect" title="Cambridge University">Cambridge University</a> in 1993, where he was a <a href="/wiki/Marshall_Scholar" class="mw-redirect" title="Marshall Scholar">Marshall Scholar</a>.<sup id="cite_ref-pellblog_10-0" class="reference"><a href="#cite_note-pellblog-10">&#91;10&#93;</a></sup> He has worked at <a href="/wiki/NASA" title="NASA">NASA</a>, as chief strategist and vice president of business development at StockMaster.com (acquired by <a href="/wiki/Red_Herring_(magazine)" title="Red Herring (magazine)">Red Herring</a> in March, 2000) and at Whizbang! Labs. Prior to joining Powerset, Pell was an Entrepreneur-in-Residence at <a href="/wiki/Mayfield_Fund" title="Mayfield Fund">Mayfield Fund</a>, a venture capital firm in Silicon Valley.<sup id="cite_ref-team_11-0" class="reference"><a href="#cite_note-team-11">&#91;11&#93;</a></sup>
+Pell is also a founder of <a href="/wiki/Moon_Express" title="Moon Express">Moon Express</a>, Inc., a U.S. company awarded a $10M commercial lunar contract by NASA and a competitor in the <a href="/wiki/Google_Lunar_X_PRIZE" class="mw-redirect" title="Google Lunar X PRIZE">Google Lunar X PRIZE</a>.<sup id="cite_ref-lat20110408_12-0" class="reference"><a href="#cite_note-lat20110408-12">&#91;12&#93;</a></sup>
+</p><p><b>Steve Newcomb</b> was the COO and co-founder of Powerset.  Prior to joining Powerset, he was a co-founder of Loudfire, General Manager at Promptu, and was on the board of directors at <a href="/wiki/Jaxtr" title="Jaxtr">Jaxtr</a>.  He left Powerset in October 2007 to form Virgance, a social startup incubator.
+</p><p><b>Lorenzo Thione</b> (born in <a href="/wiki/Como,_Italy" class="mw-redirect" title="Como, Italy">Como, Italy</a>) was the product architect and co-founder of Powerset. Prior to joining Powerset, he worked at <a href="/wiki/FXPAL" class="mw-redirect" title="FXPAL">FXPAL</a><sup id="cite_ref-team_11-1" class="reference"><a href="#cite_note-team-11">&#91;11&#93;</a></sup> in natural language processing and related research fields. Thione earned his <a href="/wiki/Master%27s_degree" title="Master&#39;s degree">master's degree</a> in software engineering from the <a href="/wiki/University_of_Texas_at_Austin" title="University of Texas at Austin">University of Texas at Austin</a>.<sup id="cite_ref-team_11-2" class="reference"><a href="#cite_note-team-11">&#91;11&#93;</a></sup>
+</p><p><a href="/wiki/Ronald_Kaplan" title="Ronald Kaplan">Ronald Kaplan</a>, former manager of research in Natural Language Theory and Technology at PARC, served as the company's CTO and CSO.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p><b>Ryan Ferrier</b> is a member of the founding team of Powerset. He managed personnel and internal operations. After 2008 he went on to co-found Serious Business, which made Facebook applications and was later bought by <a href="/wiki/Zynga" title="Zynga">Zynga</a>.
+</p><p>Another Powerset alumnus, <b>Alex Le</b>, became CTO of Serious Business and went on to become an executive producer at Zynga when it bought the company. <b>Siqi Chen</b> founded a stealth startup in mobile computing after leaving Powerset.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Investors">Investors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Powerset_(company)&amp;action=edit&amp;section=3" title="Edit section: Investors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Powerset attracted a wide range of investors, many of whom had considerable experience in the <a href="/wiki/Venture_capital" title="Venture capital">venture capital</a> field.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> The company received $12.5 million in Series A funding during November 2007, co-led by the venture capital firms <a href="/wiki/Foundation_Capital" title="Foundation Capital">Foundation Capital</a> and <a href="/wiki/The_Founders_Fund" class="mw-redirect" title="The Founders Fund">The Founders Fund</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p><p>Among the better-known investors:
+</p>
+<ul><li><a href="/wiki/Esther_Dyson" title="Esther Dyson">Esther Dyson</a>, founding chairman of <a href="/wiki/ICANN" title="ICANN">ICANN</a>, founder of the <a href="/wiki/Newsletter" title="Newsletter">newsletter</a> <i>Release 1.0</i> and editor at <a href="/wiki/Cnet" class="mw-redirect" title="Cnet">Cnet</a></li>
+<li><a href="/wiki/Peter_Thiel" title="Peter Thiel">Peter Thiel</a>, founder and former <a href="/wiki/CEO" class="mw-redirect" title="CEO">CEO</a> of <a href="/wiki/PayPal" title="PayPal">PayPal</a></li>
+<li><a href="/wiki/Luke_Nosek" title="Luke Nosek">Luke Nosek</a>, founder of PayPal</li>
+<li><a href="/wiki/Reid_Hoffman" title="Reid Hoffman">Reid Hoffman</a>, executive vice president of PayPal and founder of <a href="/wiki/LinkedIn" title="LinkedIn">LinkedIn</a></li>
+<li><a href="/wiki/First_Round_Capital" title="First Round Capital">First Round Capital</a>, seed-stage venture firm</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Powerset_(company)&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing (search engine)</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Powerset_(company)&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news">Helft, Miguel (2007-01-01). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2007/01/01/technology/01search.html?ex=1168232400&amp;en=ad47077c00fe61f4&amp;ei=5099&amp;partner=TOPIXNEWS">"In Silicon Valley, the Race Is On to Trump Google"</a>. The New York Times.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=In+Silicon+Valley%2C+the+Race+Is+On+to+Trump+Google&amp;rft.date=2007-01-01&amp;rft.aulast=Helft&amp;rft.aufirst=Miguel&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2007%2F01%2F01%2Ftechnology%2F01search.html%3Fex%3D1168232400%26en%3Dad47077c00fe61f4%26ei%3D5099%26partner%3DTOPIXNEWS&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APowerset+%28company%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.powerset.com/blog/articles/2008/07/01/microsoft-to-acquire-powerset">Powerset Blog&#160;: Microsoft to Acquire Powerset</a>  <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080702204958/http://www.powerset.com/blog/articles/2008/07/01/microsoft-to-acquire-powerset">Archived</a> July 2, 2008, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20071030095833/http://blog.powerset.com/2007/9/17/powerset-launches-powerset-labs-at-techcrunch40">"Powerset Blog: Powerset launches Powerset Labs at TechCrunch40"</a>. Archived from <a rel="nofollow" class="external text" href="http://blog.powerset.com/2007/9/17/powerset-launches-powerset-labs-at-techcrunch40">the original</a> on October 30, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-03-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Powerset+Blog%3A+Powerset+launches+Powerset+Labs+at+TechCrunch40&amp;rft_id=http%3A%2F%2Fblog.powerset.com%2F2007%2F9%2F17%2Fpowerset-launches-powerset-labs-at-techcrunch40&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APowerset+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news">Helft, Miguel (2007-02-09). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2007/02/09/technology/09license.html?_r=1&amp;oref=slogin">"In a Search Refinement, a Chance to Rival Google"</a>. The New York Times.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=In+a+Search+Refinement%2C+a+Chance+to+Rival+Google&amp;rft.date=2007-02-09&amp;rft.aulast=Helft&amp;rft.aufirst=Miguel&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2007%2F02%2F09%2Ftechnology%2F09license.html%3F_r%3D1%26oref%3Dslogin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APowerset+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://bits.blogs.nytimes.com/2008/05/12/powerset-debuts-with-search-of-wikipedia/">Powerset Debuts With Search of Wikipedia - NYTimes.com</a>. Bits.blogs.nytimes.com. Retrieved on 2013-07-21.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news">Hof, Robert (2007-09-17). <a rel="nofollow" class="external text" href="http://www.businessweek.com/technology/content/sep2007/tc20070917_676790.htm?chan=top+news_top+news+index_businessweek+exclusives">"Powerset: Move Over, Google"</a>. <a href="/wiki/Business_Week" class="mw-redirect" title="Business Week">Business Week</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Powerset%3A+Move+Over%2C+Google&amp;rft.date=2007-09-17&amp;rft.aulast=Hof&amp;rft.aufirst=Robert&amp;rft_id=http%3A%2F%2Fwww.businessweek.com%2Ftechnology%2Fcontent%2Fsep2007%2Ftc20070917_676790.htm%3Fchan%3Dtop%2Bnews_top%2Bnews%2Bindex_businessweek%2Bexclusives&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APowerset+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news">Helft, Miguel (2007-09-17). <a rel="nofollow" class="external text" href="http://bits.blogs.nytimes.com/2007/09/17/powerset-to-skeptics-try-us/">"Powerset to Skeptics: Try Us"</a>. The New York Times.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Powerset+to+Skeptics%3A+Try+Us&amp;rft.date=2007-09-17&amp;rft.aulast=Helft&amp;rft.aufirst=Miguel&amp;rft_id=http%3A%2F%2Fbits.blogs.nytimes.com%2F2007%2F09%2F17%2Fpowerset-to-skeptics-try-us%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APowerset+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news">Kopytoff, Verne (2007-09-17). <a rel="nofollow" class="external text" href="http://www.sfgate.com/cgi-bin/blogs/sfgate/detail?blogid=19&amp;entry_id=20341">"Power is turned on, a bit, at Powerset"</a>. SFgate.com <i>(<a href="/wiki/San_Francisco_Chronicle" title="San Francisco Chronicle">San Francisco Chronicle</a>)</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Power+is+turned+on%2C+a+bit%2C+at+Powerset&amp;rft.date=2007-09-17&amp;rft.aulast=Kopytoff&amp;rft.aufirst=Verne&amp;rft_id=http%3A%2F%2Fwww.sfgate.com%2Fcgi-bin%2Fblogs%2Fsfgate%2Fdetail%3Fblogid%3D19%26entry_id%3D20341&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APowerset+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-nasa-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-nasa_9-0">^</a></b></span> <span class="reference-text">
+<cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061014112552/http://ic.arc.nasa.gov/projects/Executive/team/barney/history.html">"Barney Pell's Personal History"</a>. Archived from <a rel="nofollow" class="external text" href="http://ic.arc.nasa.gov/projects/Executive/team/barney/history.html">the original</a> on October 14, 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-02-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Barney+Pell%27s+Personal+History&amp;rft_id=http%3A%2F%2Fic.arc.nasa.gov%2Fprojects%2FExecutive%2Fteam%2Fbarney%2Fhistory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APowerset+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-pellblog-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-pellblog_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080228164051/http://www.barneypell.com/">"Barney Pell's Weblog"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.barneypell.com/">the original</a> on 2008-02-28<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-02-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Barney+Pell%27s+Weblog&amp;rft_id=http%3A%2F%2Fwww.barneypell.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APowerset+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-team-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-team_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-team_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-team_11-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">
+<cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20071027074129/http://www.powerset.com/team">"Powerset Founders"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.powerset.com/team">the original</a> on 2007-10-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-02-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Powerset+Founders&amp;rft_id=http%3A%2F%2Fwww.powerset.com%2Fteam&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APowerset+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-lat20110408-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-lat20110408_12-0">^</a></b></span> <span class="reference-text">
+<cite class="citation news"><a rel="nofollow" class="external text" href="http://www.latimes.com/business/la-fi-moon-venture-20110408,0,1715396.story">"MoonEx aims to scour moon for rare materials"</a>. <i>Los Angeles Times</i>. 2011-04-08<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-04-10</span></span>. <q><i>MoonEx's machines are designed to look for materials that are scarce on Earth but found in everything from a Toyota Prius car battery to guidance systems on cruise missiles. ... The company is among several teams hoping to someday win the Google Lunar X Prize competition, a $30-million race to the moon in which a privately-funded team must successfully place a robot on the moon's surface and have it explore at least 1/3 of a mile. It also must transmit high definition video and images back to Earth before 2016. ... should be ready to land on the lunar surface by 2013</i></q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Los+Angeles+Times&amp;rft.atitle=MoonEx+aims+to+scour+moon+for+rare+materials&amp;rft.date=2011-04-08&amp;rft_id=http%3A%2F%2Fwww.latimes.com%2Fbusiness%2Fla-fi-moon-venture-20110408%2C0%2C1715396.story&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APowerset+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.powerset.com/press/kaplan">Powerset press release, 2007-03-17</a>  <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071028061111/http://www.powerset.com/press/kaplan">Archived</a> October 28, 2007, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Robin Wauters (2010-02-11). <a rel="nofollow" class="external text" href="https://techcrunch.com/2010/02/11/zynga-serious-business">"Zynga Buys Social Gaming Startup Serious Business"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Zynga+Buys+Social+Gaming+Startup+Serious+Business&amp;rft.date=2010-02-11&amp;rft.au=Robin+Wauters&amp;rft_id=https%3A%2F%2Ftechcrunch.com%2F2010%2F02%2F11%2Fzynga-serious-business&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APowerset+%28company%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.powerset.com/press/angel">Powerset press release, 2006-11-02</a>  <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080420141434/http://www.powerset.com/press/angel">Archived</a> April 20, 2008, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.powerset.com/press/seriesa">Powerset press release, November 2007</a>  <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080420141456/http://www.powerset.com/press/seriesa">Archived</a> April 20, 2008, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.parc.com/about/pressroom/news/2007-02-09-powerset.html">PARC press release, 2007</a>  <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080512092513/http://www.parc.com/about/pressroom/news/2007-02-09-powerset.html">Archived</a> May 12, 2008, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Powerset_(company)&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080409210043/http://www.powerset.com/">Powerset main web site</a> - redirects to <a rel="nofollow" class="external text" href="http://www.bing.com">Bing</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Microsoft" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Microsoft" title="Template:Microsoft"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Microsoft" title="Template talk:Microsoft"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Microsoft&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Microsoft" style="font-size:114%;margin:0 4em"><a href="/wiki/Microsoft" title="Microsoft">Microsoft</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_History&amp;#10;*_Outline">
+<ul><li><a href="/wiki/History_of_Microsoft" title="History of Microsoft">History</a></li>
+<li><a href="/wiki/Outline_of_Microsoft" title="Outline of Microsoft">Outline</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Founders</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bill_Gates" title="Bill Gates">Bill Gates</a></li>
+<li><a href="/wiki/Paul_Allen" title="Paul Allen">Paul Allen</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Board of directors</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/John_W._Thompson" title="John W. Thompson">John W. Thompson</a> (Chairman)</li>
+<li><a href="/wiki/Satya_Nadella" title="Satya Nadella">Satya Nadella</a> (CEO)</li>
+<li><a href="/wiki/Bill_Gates" title="Bill Gates">Bill Gates</a></li>
+<li><a href="/wiki/Charles_Noski" title="Charles Noski">Charles Noski</a></li>
+<li><a href="/wiki/Helmut_Panke" title="Helmut Panke">Helmut Panke</a></li>
+<li><a href="/wiki/John_W._Stanton" title="John W. Stanton">John W. Stanton</a></li>
+<li><a href="/wiki/Reid_Hoffman" title="Reid Hoffman">Reid Hoffman</a></li>
+<li><a href="/wiki/Sandi_Peterson" title="Sandi Peterson">Sandi Peterson</a></li>
+<li><a href="/wiki/Penny_Pritzker" title="Penny Pritzker">Penny Pritzker</a></li>
+<li><a href="/wiki/Charles_Scharf" title="Charles Scharf">Charles Scharf</a></li>
+<li><a href="/wiki/Arne_Sorenson" title="Arne Sorenson">Arne Sorenson</a></li>
+<li><a href="/wiki/Padmasree_Warrior" title="Padmasree Warrior">Padmasree Warrior</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Senior leadership team</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Satya_Nadella" title="Satya Nadella">Satya Nadella</a> (CEO)</li>
+<li><a href="/wiki/Scott_Guthrie" title="Scott Guthrie">Scott Guthrie</a></li>
+<li><a href="/wiki/Amy_Hood" title="Amy Hood">Amy Hood</a> (CFO)</li>
+<li><a href="/wiki/Terry_Myerson" title="Terry Myerson">Terry Myerson</a></li>
+<li><a href="/wiki/Harry_Shum" title="Harry Shum">Harry Shum</a></li>
+<li><a href="/wiki/Phil_Spencer_(business_executive)" title="Phil Spencer (business executive)">Phil Spencer</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Corporate VPs</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gabe_Aul" title="Gabe Aul">Gabe Aul</a> (VP)</li>
+<li><a href="/wiki/Joe_Belfiore" title="Joe Belfiore">Joe Belfiore</a></li>
+<li><a href="/wiki/Richard_Rashid" title="Richard Rashid">Richard Rashid</a> (SVP)</li>
+<li><a href="/wiki/S._Somasegar" title="S. Somasegar">S. Somasegar</a> (SVP)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Divisions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Microsoft_engineering_groups" title="Microsoft engineering groups">Engineering groups</a>
+<ul><li><a href="/wiki/Microsoft_Mobile" title="Microsoft Mobile">Mobile</a></li>
+<li><a href="/wiki/Skype_Technologies" title="Skype Technologies">Skype unit</a></li></ul></li>
+<li><a href="/wiki/Microsoft_Digital_Crimes_Unit" title="Microsoft Digital Crimes Unit">Digital Crimes Unit</a></li>
+<li><a href="/wiki/Microsoft_Garage" title="Microsoft Garage">Garage</a></li>
+<li><a href="/wiki/Microsoft_Press" title="Microsoft Press">Press</a></li>
+<li><a href="/wiki/Microsoft_Research" title="Microsoft Research">Research</a></li>
+<li><a href="/wiki/Microsoft_Studios" title="Microsoft Studios">Studios</a></li>
+<li><a href="/wiki/.NET_Foundation" title=".NET Foundation">.NET Foundation</a></li>
+<li><a href="/wiki/Outercurve_Foundation" title="Outercurve Foundation">Outercurve Foundation</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Estates</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Microsoft_Redmond_campus" title="Microsoft Redmond campus">Microsoft Redmond campus</a></li>
+<li><a href="/wiki/Tieto_Keilalahti_Campus" title="Tieto Keilalahti Campus">Microsoft Talo</a></li>
+<li><a href="/wiki/Microsoft_Algeria" title="Microsoft Algeria">Microsoft Algeria</a></li>
+<li><a href="/wiki/Microsoft_Egypt" title="Microsoft Egypt">Microsoft Egypt</a></li>
+<li><a href="/wiki/Microsoft_India" title="Microsoft India">Microsoft India</a></li>
+<li><a href="/wiki/Microsoft_Japan" title="Microsoft Japan">Microsoft Japan</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Product families</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Microsoft_operating_systems" title="List of Microsoft operating systems">Operating systems</a>
+<ul><li><a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a></li></ul></li>
+<li><a href="/wiki/List_of_Microsoft_software" title="List of Microsoft software">Software</a>
+<ul><li><a href="/wiki/Microsoft_Office" title="Microsoft Office">Office</a></li>
+<li><a href="/wiki/Microsoft_Servers" title="Microsoft Servers">Servers</a></li>
+<li><a href="/wiki/Microsoft_Visual_Studio" title="Microsoft Visual Studio">Visual Studio</a></li></ul></li>
+<li><a href="/wiki/Microsoft_hardware" title="Microsoft hardware">Hardware</a>
+<ul><li><a href="/wiki/Microsoft_HoloLens" title="Microsoft HoloLens">HoloLens</a></li>
+<li><a href="/wiki/Microsoft_Surface" title="Microsoft Surface">Surface</a></li>
+<li><a href="/wiki/Xbox" title="Xbox">Xbox</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Web properties</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Microsoft_Azure" title="Microsoft Azure">Azure</a></li>
+<li><a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a></li>
+<li><a href="/wiki/Channel_9_(Microsoft)" title="Channel 9 (Microsoft)">Channel 9</a></li>
+<li><a href="/wiki/CodePlex" title="CodePlex">CodePlex</a></li>
+<li><a href="/wiki/Microsoft_Developer_Network" title="Microsoft Developer Network">Developer Network</a></li>
+<li><a href="/wiki/MSN" title="MSN">MSN</a></li>
+<li><a href="/wiki/Mixer_(website)" title="Mixer (website)">Mixer</a></li>
+<li><a href="/wiki/Microsoft_Office" title="Microsoft Office">Office.com</a></li>
+<li><a href="/wiki/OneDrive" title="OneDrive">OneDrive</a></li>
+<li><a href="/wiki/Outlook.com" title="Outlook.com">Outlook.com</a></li>
+<li><a href="/wiki/Microsoft_Store_(digital)" title="Microsoft Store (digital)">Store</a></li>
+<li><a href="/wiki/Microsoft_TechNet" title="Microsoft TechNet">TechNet</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Conferences</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Build_(developer_conference)" title="Build (developer conference)">Build</a></li>
+<li><a href="/wiki/Microsoft_Inspire" title="Microsoft Inspire">Inspire</a></li>
+<li><a href="/wiki/MIX_(Microsoft)" title="MIX (Microsoft)">MIX</a></li>
+<li><a href="/wiki/Professional_Developers_Conference" title="Professional Developers Conference">PDC</a></li>
+<li><a href="/wiki/Microsoft_Ignite" title="Microsoft Ignite">TechEd</a></li>
+<li><a href="/wiki/Windows_Hardware_Engineering_Conference" title="Windows Hardware Engineering Conference">WinHEC</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Campaigns</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Where_do_you_want_to_go_today%3F" title="Where do you want to go today?">Where do you want to go today?</a></i> (1994)</li>
+<li><a href="/wiki/Champagne_(advertisement)" title="Champagne (advertisement)"><i>Champagne</i></a> (2002)</li>
+<li><i><a href="/wiki/Mojave_Experiment" title="Mojave Experiment">Mojave Experiment</a></i> (2006)</li>
+<li><i><a href="/wiki/I%27m_a_PC" title="I&#39;m a PC">I'm a PC</a></i> (2008)</li>
+<li><i><a href="/wiki/Scroogled" title="Scroogled">Scroogled</a></i> (2012)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Criticism_of_Microsoft" title="Criticism of Microsoft">Criticism</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bundling_of_Microsoft_Windows" title="Bundling of Microsoft Windows">Bundling of Microsoft Windows</a></li>
+<li><a href="/wiki/Office_Assistant" title="Office Assistant">Clippy</a></li>
+<li><a href="/wiki/ILoo#Reaction" title="ILoo">iLoo</a></li>
+<li><a href="/wiki/Internet_Explorer#Security_vulnerabilities" title="Internet Explorer">Internet Explorer</a></li>
+<li><a href="/wiki/Microsoft_Bob" title="Microsoft Bob">Microsoft Bob</a></li>
+<li><a href="/wiki/NSAKEY" title="NSAKEY">_NSAKEY</a></li>
+<li><a href="/wiki/Criticism_of_Microsoft_Windows" title="Criticism of Microsoft Windows">Windows</a>
+<ul><li><a href="/wiki/Criticism_of_Windows_XP" title="Criticism of Windows XP">XP</a></li>
+<li><a href="/wiki/Criticism_of_Windows_Vista" title="Criticism of Windows Vista">Vista</a></li>
+<li><a href="/wiki/Criticism_of_Windows_10" title="Criticism of Windows 10">10</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Microsoft_litigation" title="Microsoft litigation">Litigation</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Alcatel-Lucent_v._Microsoft_Corp." title="Alcatel-Lucent v. Microsoft Corp.">Alcatel-Lucent v. Microsoft</a></i></li>
+<li><i><a href="/wiki/Apple_Computer,_Inc._v._Microsoft_Corp." title="Apple Computer, Inc. v. Microsoft Corp."><i>Apple v. Microsoft</i></a></i></li>
+<li><a href="/wiki/Microsoft_Corp._v._Commission" title="Microsoft Corp. v. Commission">European Union Microsoft competition case</a></li>
+<li><i><a href="/wiki/Microsoft_Corp._v._Lindows.com,_Inc." title="Microsoft Corp. v. Lindows.com, Inc.">Microsoft v. Lindows</a></i></li>
+<li><i><a href="/wiki/Microsoft_v._MikeRoweSoft" title="Microsoft v. MikeRoweSoft">Microsoft v. MikeRoweSoft</a></i></li>
+<li><i><a href="/wiki/Microsoft_Corp._v._Shah" title="Microsoft Corp. v. Shah">Microsoft v. Shah</a></i></li>
+<li><i><a href="/wiki/United_States_v._Microsoft_Corp." title="United States v. Microsoft Corp.">United States v. Microsoft</a></i> (2001 antitrust case)</li>
+<li><a href="/wiki/Microsoft_Corp._v._United_States" title="Microsoft Corp. v. United States"><i>Microsoft Ireland</i> case</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_mergers_and_acquisitions_by_Microsoft" title="List of mergers and acquisitions by Microsoft">Acquisitions</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wunderlist" title="Wunderlist">6Wunderkinder</a></li>
+<li><a href="/wiki/Altamira_Software" title="Altamira Software">Altamira Software</a></li>
+<li><a href="/wiki/AltspaceVR" title="AltspaceVR">AltspaceVR</a></li>
+<li><a href="/wiki/AQuantive" title="AQuantive">aQuantive</a></li>
+<li><a href="/wiki/Microsoft_Amalga" title="Microsoft Amalga">Azyxxi</a></li>
+<li><a href="/wiki/The_Blue_Ribbon_SoundWorks" title="The Blue Ribbon SoundWorks">The Blue Ribbon SoundWorks</a></li>
+<li><a href="/wiki/Mixer_(website)" title="Mixer (website)">Beam</a></li>
+<li><a href="/wiki/Bungie" title="Bungie">Bungie</a></li>
+<li><a href="/wiki/Calista_Technologies" title="Calista Technologies">Calista Technologies</a></li>
+<li><a href="/wiki/Colloquis" title="Colloquis">Colloquis</a></li>
+<li><a href="/wiki/Connectix" title="Connectix">Connectix</a></li>
+<li><a href="/wiki/Consumers_Software" title="Consumers Software">Consumers Software</a></li>
+<li><a href="/wiki/Danger_Inc." title="Danger Inc.">Danger</a></li>
+<li><a href="/wiki/MSN_Travel" title="MSN Travel">Farecast</a></li>
+<li><a href="/wiki/FASA_Studio" title="FASA Studio">FASA Studio</a></li>
+<li><a href="/wiki/Microsoft_Development_Center_Norway" title="Microsoft Development Center Norway">Fast Search &amp; Transfer</a></li>
+<li><a href="/wiki/Firefly_(website)" title="Firefly (website)">Firefly</a></li>
+<li><a href="/wiki/Forethought,_Inc." title="Forethought, Inc.">Forethought</a></li>
+<li><a href="/wiki/Windows_Defender" title="Windows Defender">GIANT Company Software</a></li>
+<li><a href="/wiki/GreenButton" title="GreenButton">GreenButton</a></li>
+<li><a href="/wiki/Groove_Networks" title="Groove Networks">Groove Networks</a></li>
+<li><a href="/wiki/High_Heat_Major_League_Baseball" title="High Heat Major League Baseball">High Heat Major League Baseball</a></li>
+<li><a href="/wiki/Outlook.com" title="Outlook.com">Hotmail</a></li>
+<li><a href="/wiki/Jellyfish.com" title="Jellyfish.com">Jellyfish.com</a></li>
+<li><a href="/wiki/LinkedIn" title="LinkedIn">LinkedIn</a></li>
+<li><a href="/wiki/LinkExchange" title="LinkExchange">LinkExchange</a></li>
+<li><a href="/wiki/Lionhead_Studios" title="Lionhead Studios">Lionhead Studios</a></li>
+<li><a href="/wiki/Maluuba" title="Maluuba">Maluuba</a></li>
+<li><a href="/wiki/Massive_Incorporated" title="Massive Incorporated">Massive Incorporated</a></li>
+<li><a href="/wiki/MileIQ" title="MileIQ">Mobile Data Labs</a></li>
+<li><a href="/wiki/Mojang" title="Mojang">Mojang</a></li>
+<li><a href="/wiki/Microsoft_Mobile" title="Microsoft Mobile">Nokia Devices and Services</a></li>
+<li><a href="/wiki/Windows_Live_Toolbar#Onfolio" title="Windows Live Toolbar">Onfolio</a></li>
+<li><a href="/wiki/Pando_Networks" title="Pando Networks">Pando Networks</a></li>
+<li><a href="/wiki/Perceptive_Pixel" title="Perceptive Pixel">Perceptive Pixel</a></li>
+<li><a href="/wiki/PlaceWare" title="PlaceWare">PlaceWare</a></li>
+<li><a class="mw-selflink selflink">Powerset</a></li>
+<li><a href="/wiki/ProClarity" title="ProClarity">ProClarity</a></li>
+<li><a href="/wiki/Rare_(company)" title="Rare (company)">Rare</a></li>
+<li><a href="/wiki/Revolution_Analytics" title="Revolution Analytics">Revolution Analytics</a></li>
+<li><a href="/wiki/ScreenTonic" title="ScreenTonic">ScreenTonic</a></li>
+<li><a href="/wiki/Secure_Islands" title="Secure Islands">Secure Islands</a></li>
+<li><a href="/wiki/Simplygon" title="Simplygon">Simplygon</a></li>
+<li><a href="/wiki/Skype_Technologies" title="Skype Technologies">Skype</a></li>
+<li><a href="/wiki/Sunrise_Calendar" title="Sunrise Calendar">Sunrise Atelier</a></li>
+<li><a href="/wiki/SwiftKey" title="SwiftKey">SwiftKey</a></li>
+<li><a href="/wiki/Sysinternals" title="Sysinternals">Winternals Software</a></li>
+<li><a href="/wiki/Teleo" title="Teleo">Teleo</a></li>
+<li><a href="/wiki/Havok_(company)" title="Havok (company)">Telekinesys Research</a></li>
+<li><a href="/wiki/Tellme_Networks" title="Tellme Networks">Tellme Networks</a></li>
+<li><a href="/wiki/Twisted_Pixel_Games" title="Twisted Pixel Games">Twisted Pixel Games</a></li>
+<li><a href="/wiki/Vermeer_Technologies" title="Vermeer Technologies">Vermeer Technologies</a></li>
+<li><a href="/wiki/Visio_Corporation" title="Visio Corporation">Visio Corporation</a></li>
+<li><a href="/wiki/Flux_(software)" title="Flux (software)">Vivaty</a></li>
+<li><a href="/wiki/VoloMetrix" title="VoloMetrix">VoloMetrix</a></li>
+<li><a href="/wiki/NetShow" title="NetShow">VXtreme</a></li>
+<li><a href="/wiki/MSN_TV" title="MSN TV">WebTV Networks</a></li>
+<li><a href="/wiki/Xamarin" title="Xamarin">Xamarin</a></li>
+<li><a href="/wiki/Yammer" title="Yammer">Yammer</a></li>
+<li><a href="/wiki/Yupi" title="Yupi">Yupi</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Microsoft" title="Category:Microsoft">Category</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Microsoft" title="Portal:Microsoft">Portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2272
+Cached time: 20180929142852
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.356 seconds
+Real time usage: 0.432 seconds
+Preprocessor visited node count: 1425/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 60348/2097152 bytes
+Template argument size: 1171/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 32486/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.173/10.000 seconds
+Lua memory usage: 4.6 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  347.694      1 -total
+ 50.10%  174.197      1 Template:Reflist
+ 29.79%  103.591      6 Template:Cite_news
+ 19.91%   69.231      1 Template:Infobox_company
+ 16.27%   56.583      1 Template:Infobox
+ 11.82%   41.090      1 Template:Update
+ 10.00%   34.781      3 Template:Main_other
+  9.09%   31.606      1 Template:Ambox
+  8.48%   29.476      1 Template:See_also
+  8.20%   28.520      5 Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:13336054-0!canonical and timestamp 20180929142851 and revision id 833189358
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Powerset_(company)&amp;oldid=833189358">https://en.wikipedia.org/w/index.php?title=Powerset_(company)&amp;oldid=833189358</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li><li><a href="/wiki/Category:Companies_based_in_San_Francisco" title="Category:Companies based in San Francisco">Companies based in San Francisco</a></li><li><a href="/wiki/Category:Natural_language_processing" title="Category:Natural language processing">Natural language processing</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Wikipedia_articles_in_need_of_updating_from_December_2015" title="Category:Wikipedia articles in need of updating from December 2015">Wikipedia articles in need of updating from December 2015</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_in_need_of_updating" title="Category:All Wikipedia articles in need of updating">All Wikipedia articles in need of updating</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Powerset+%28company%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Powerset+%28company%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Powerset_(company)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Powerset_(company)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Powerset_(company)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Powerset_(company)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Powerset_(company)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Powerset_(company)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Powerset_(company)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Powerset_(company)&amp;oldid=833189358" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Powerset_(company)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q224599" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Powerset_%28company%29&amp;id=833189358" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Powerset+%28company%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Powerset+%28company%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Powerset_(company)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Powerset" title="Powerset – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Powerset" title="Powerset – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Powerset" title="Powerset – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Powerset" title="Powerset – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Powerset" title="Powerset – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q224599#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 30 March 2018, at 04:17<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Powerset_(company)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.356","walltime":"0.432","ppvisitednodes":{"value":1425,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":60348,"limit":2097152},"templateargumentsize":{"value":1171,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":32486,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  347.694      1 -total"," 50.10%  174.197      1 Template:Reflist"," 29.79%  103.591      6 Template:Cite_news"," 19.91%   69.231      1 Template:Infobox_company"," 16.27%   56.583      1 Template:Infobox"," 11.82%   41.090      1 Template:Update"," 10.00%   34.781      3 Template:Main_other","  9.09%   31.606      1 Template:Ambox","  8.48%   29.476      1 Template:See_also","  8.20%   28.520      5 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.173","limit":"10.000"},"limitreport-memusage":{"value":4825034,"limit":52428800}},"cachereport":{"origin":"mw2272","timestamp":"20180929142852","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":65,"wgHostname":"mw2232"});});</script>
+	</body>
+</html>

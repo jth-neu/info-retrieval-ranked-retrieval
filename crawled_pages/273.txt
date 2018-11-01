@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Document retrieval - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Document_retrieval","wgTitle":"Document retrieval","wgCurRevisionId":857336258,"wgRevisionId":857336258,"wgArticleId":731640,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Information retrieval genres","Electronic documents","Substring indices","Search engine software"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Document_retrieval","wgRelevantArticleId":731640,"wgRequestId":"W6-3AArAIDoAAGJwVzUAAAAD","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1638872","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Document_retrieval"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Document_retrieval&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Document_retrieval&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Document_retrieval"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Document_retrieval rootpage-Document_retrieval skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Document retrieval</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Document retrieval</b> is defined as the matching of some stated user query against a set of <a href="/wiki/Free-text" class="mw-redirect" title="Free-text">free-text</a> records. These records could be any type of mainly <a href="/wiki/Natural_language" title="Natural language">unstructured text</a>, such as <a href="/wiki/Newspaper_article" class="mw-redirect" title="Newspaper article">newspaper articles</a>, real estate records or paragraphs in a manual. User queries can range from multi-sentence full descriptions of an information need to a few words.
+</p><p>Document retrieval is sometimes referred to as, or as a branch of, <b>text retrieval</b>. Text retrieval is a branch of <a href="/wiki/Information_retrieval" title="Information retrieval">information retrieval</a> where the information is stored primarily in the form of <a href="/wiki/Natural_language" title="Natural language">text</a>. Text databases became decentralized thanks to the <a href="/wiki/Personal_computer" title="Personal computer">personal computer</a> and the <a href="/wiki/CD-ROM" title="CD-ROM">CD-ROM</a>. Text retrieval is a critical area of study today, since it is the fundamental basis of all <a href="/wiki/Internet" title="Internet">internet</a> <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engines</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Variations"><span class="tocnumber">2</span> <span class="toctext">Variations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Form_based"><span class="tocnumber">2.1</span> <span class="toctext">Form based</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Content_based"><span class="tocnumber">2.2</span> <span class="toctext">Content based</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Example:_PubMed"><span class="tocnumber">3</span> <span class="toctext">Example: PubMed</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Document_retrieval&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Document retrieval systems find information to given criteria by matching text records (<i>documents</i>) against user queries, as opposed to <a href="/wiki/Expert_system" title="Expert system">expert systems</a> that answer questions by <a href="/wiki/Inference" title="Inference">inferring</a> over a logical <a href="/wiki/Knowledge_base" title="Knowledge base">knowledge database</a>. A document retrieval system consists of a database of documents, a <a href="/wiki/Classification_algorithm" class="mw-redirect" title="Classification algorithm">classification algorithm</a> to build a full text index, and a user interface to access the database.
+</p><p>A document retrieval system has two main tasks:
+</p>
+<ol><li>Find relevant documents to user queries</li>
+<li>Evaluate the matching results and sort them according to relevance, using algorithms such as <a href="/wiki/PageRank" title="PageRank">PageRank</a>.</li></ol>
+<p>Internet <a href="/wiki/Search_engines" class="mw-redirect" title="Search engines">search engines</a> are classical applications of document retrieval. The vast majority of retrieval systems currently in use range from simple Boolean systems through to systems using <a href="/wiki/Statistical" class="mw-redirect" title="Statistical">statistical</a> or <a href="/wiki/Natural_language_processing" title="Natural language processing">natural language processing</a> techniques.
+</p>
+<h2><span class="mw-headline" id="Variations">Variations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Document_retrieval&amp;action=edit&amp;section=2" title="Edit section: Variations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are two main classes of indexing schemata for document retrieval systems: <i>form based</i> (or <i>word based</i>), and <i>content based</i> indexing. The document classification scheme (or <a href="/wiki/Search_engine_indexing" title="Search engine indexing">indexing algorithm</a>) in use determines the nature of the document retrieval system.
+</p>
+<h3><span class="mw-headline" id="Form_based">Form based</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Document_retrieval&amp;action=edit&amp;section=3" title="Edit section: Form based">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Form based document retrieval addresses the exact syntactic properties of a text, comparable to substring matching in string searches. The text is generally unstructured and not necessarily in a natural language, the system could for example be used to process large sets of chemical representations in molecular biology. A <a href="/wiki/Suffix_tree" title="Suffix tree">suffix tree</a> algorithm is an example for form based indexing.
+</p>
+<h3><span class="mw-headline" id="Content_based">Content based</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Document_retrieval&amp;action=edit&amp;section=4" title="Edit section: Content based">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The content based approach exploits semantic connections between documents and parts thereof, and semantic connections between queries and documents. Most content based document retrieval systems use an <a href="/wiki/Inverted_index" title="Inverted index">inverted index</a> algorithm.
+</p><p>A <i>signature file</i> is a technique that creates a <i>quick and dirty</i> filter, for example a <a href="/wiki/Bloom_filter" title="Bloom filter">Bloom filter</a>, that will keep all the documents that match to the query and <i>hopefully</i> a few ones that do not. The way this is done is by creating for each file a signature, typically a hash coded version. One method is superimposed coding. A post-processing step is done to discard the false alarms. Since in most cases this structure is inferior to <a href="/wiki/Inverted_file" class="mw-redirect" title="Inverted file">inverted files</a> in terms of speed, size and functionality, it is not used widely. However, with proper parameters it can beat the inverted files in certain environments.
+</p>
+<h2><span class="mw-headline" id="Example:_PubMed">Example: PubMed</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Document_retrieval&amp;action=edit&amp;section=5" title="Edit section: Example: PubMed">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/PubMed" title="PubMed">PubMed</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> form interface features the "related articles" search which works through a comparison of words from the documents' title, abstract, and <a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">MeSH</a> terms using a word-weighted algorithm.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Document_retrieval&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Compound_term_processing" title="Compound term processing">Compound term processing</a></li>
+<li><a href="/wiki/Document_classification" title="Document classification">Document classification</a></li>
+<li><a href="/wiki/Enterprise_search" title="Enterprise search">Enterprise search</a></li>
+<li><a href="/wiki/Evaluation_measures_(information_retrieval)" title="Evaluation measures (information retrieval)">Evaluation measures (information retrieval)</a></li>
+<li><a href="/wiki/Full_text_search" class="mw-redirect" title="Full text search">Full text search</a></li>
+<li><a href="/wiki/Information_retrieval" title="Information retrieval">Information retrieval</a></li>
+<li><a href="/wiki/Latent_semantic_indexing" class="mw-redirect" title="Latent semantic indexing">Latent semantic indexing</a></li>
+<li><a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">Search engine</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Document_retrieval&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kim W, Aronson AR, Wilbur WJ (2001). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2243528">"Automatic MeSH term assignment and quality assessment"</a>. <i>Proc AMIA Symp</i>: 319–23. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2243528">2243528</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11825203">11825203</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proc+AMIA+Symp&amp;rft.atitle=Automatic+MeSH+term+assignment+and+quality+assessment&amp;rft.pages=319-23&amp;rft.date=2001&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2243528&amp;rft_id=info%3Apmid%2F11825203&amp;rft.aulast=Kim&amp;rft.aufirst=W&amp;rft.au=Aronson%2C+AR&amp;rft.au=Wilbur%2C+WJ&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2243528&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADocument+retrieval" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/books/NBK3827/#pubmedhelp.Computation_of_Related_Citati">"Computation of Related Citations"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Computation+of+Related+Citations&amp;rft_id=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fbooks%2FNBK3827%2F%23pubmedhelp.Computation_of_Related_Citati&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADocument+retrieval" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lin J1, Wilbur WJ (Oct 30, 2007). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2212667">"PubMed related articles: a probabilistic topic-based model for content similarity"</a>. <i>BMC Bioinformatics</i>. <b>8</b>: 423. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1186%2F1471-2105-8-423">10.1186/1471-2105-8-423</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2212667">2212667</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17971238">17971238</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BMC+Bioinformatics&amp;rft.atitle=PubMed+related+articles%3A+a+probabilistic+topic-based+model+for+content+similarity&amp;rft.volume=8&amp;rft.pages=423&amp;rft.date=2007-10-30&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2212667&amp;rft_id=info%3Apmid%2F17971238&amp;rft_id=info%3Adoi%2F10.1186%2F1471-2105-8-423&amp;rft.au=Lin+J1%2C+Wilbur+WJ&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2212667&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADocument+retrieval" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Document_retrieval&amp;action=edit&amp;section=8" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation journal">Faloutsos, Christos; Christodoulakis, Stavros (1984). "Signature files: An access method for documents and its analytical performance evaluation". <i>ACM Transactions on Information Systems</i>. <b>2</b> (4): 267–288. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F2275.357411">10.1145/2275.357411</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ACM+Transactions+on+Information+Systems&amp;rft.atitle=Signature+files%3A+An+access+method+for+documents+and+its+analytical+performance+evaluation&amp;rft.volume=2&amp;rft.issue=4&amp;rft.pages=267-288&amp;rft.date=1984&amp;rft_id=info%3Adoi%2F10.1145%2F2275.357411&amp;rft.aulast=Faloutsos&amp;rft.aufirst=Christos&amp;rft.au=Christodoulakis%2C+Stavros&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADocument+retrieval" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite class="citation journal">Justin Zobel; Alistair Moffat; Kotagiri Ramamohanarao (1998). <a rel="nofollow" class="external text" href="http://www.cs.columbia.edu/~gravano/Qual/Papers/19%20-%20Inverted%20files%20versus%20signature%20files%20for%20text%20indexing.pdf">"Inverted files versus signature files for text indexing"</a> <span class="cs1-format">(PDF)</span>. <i>ACM Transactions on Database Systems</i>. <b>23</b> (4): 453–490. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F296854.277632">10.1145/296854.277632</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ACM+Transactions+on+Database+Systems&amp;rft.atitle=Inverted+files+versus+signature+files+for+text+indexing&amp;rft.volume=23&amp;rft.issue=4&amp;rft.pages=453-490&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1145%2F296854.277632&amp;rft.au=Justin+Zobel&amp;rft.au=Alistair+Moffat&amp;rft.au=Kotagiri+Ramamohanarao&amp;rft_id=http%3A%2F%2Fwww.cs.columbia.edu%2F~gravano%2FQual%2FPapers%2F19%2520-%2520Inverted%2520files%2520versus%2520signature%2520files%2520for%2520text%2520indexing.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADocument+retrieval" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite class="citation journal">Ben Carterette; Fazli Can (2005). <a rel="nofollow" class="external text" href="http://www.users.miamioh.edu/canf/papers/ipm04b.pdf">"Comparing inverted files and signature files for searching a large lexicon"</a> <span class="cs1-format">(PDF)</span>. <i>Information Processing and Management</i>. <b>41</b> (3): 613–633. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.ipm.2003.12.003">10.1016/j.ipm.2003.12.003</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Information+Processing+and+Management&amp;rft.atitle=Comparing+inverted+files+and+signature+files+for+searching+a+large+lexicon&amp;rft.volume=41&amp;rft.issue=3&amp;rft.pages=613-633&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ipm.2003.12.003&amp;rft.au=Ben+Carterette&amp;rft.au=Fazli+Can&amp;rft_id=http%3A%2F%2Fwww.users.miamioh.edu%2Fcanf%2Fpapers%2Fipm04b.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADocument+retrieval" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Document_retrieval&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Document_retrieval" class="extiw" title="commons:Category:Document retrieval">Document retrieval</a> at Wikimedia Commons</li>
+<li><a rel="nofollow" class="external text" href="http://cir.dcs.uni-pannon.hu/cikkek/FINAL_DOMINICH.pdf">Formal Foundation of Information Retrieval</a>, Buckinghamshire Chilterns University College</li></ul>
+
+<!-- 
+NewPP limit report
+Parsed by mw2236
+Cached time: 20180929143911
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.152 seconds
+Real time usage: 0.180 seconds
+Preprocessor visited node count: 344/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 12442/2097152 bytes
+Template argument size: 78/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 13242/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.101/10.000 seconds
+Lua memory usage: 2.43 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  152.034      1 -total
+ 85.73%  130.335      5 Template:Cite_journal
+  7.07%   10.750      1 Template:Commonscatinline
+  4.82%    7.334      1 Template:Sister-inline
+  4.28%    6.512      1 Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:731640-0!canonical and timestamp 20180929143911 and revision id 857336258
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Document_retrieval&amp;oldid=857336258">https://en.wikipedia.org/w/index.php?title=Document_retrieval&amp;oldid=857336258</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Information_retrieval_genres" title="Category:Information retrieval genres">Information retrieval genres</a></li><li><a href="/wiki/Category:Electronic_documents" title="Category:Electronic documents">Electronic documents</a></li><li><a href="/wiki/Category:Substring_indices" title="Category:Substring indices">Substring indices</a></li><li><a href="/wiki/Category:Search_engine_software" title="Category:Search engine software">Search engine software</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Document+retrieval" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Document+retrieval" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Document_retrieval" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Document_retrieval" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Document_retrieval">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Document_retrieval&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Document_retrieval&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Document_retrieval" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Document_retrieval" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Document_retrieval&amp;oldid=857336258" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Document_retrieval&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1638872" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Document_retrieval&amp;id=857336258" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Document+retrieval">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Document+retrieval&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Document_retrieval&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Document_retrieval" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%A7%D8%B9_%D8%A7%D9%84%D9%88%D8%AB%D8%A7%D8%A6%D9%82" title="استرجاع الوثائق – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Dokumentenretrieval" title="Dokumentenretrieval – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Recuperaci%C3%B3n_de_documentos" title="Recuperación de documentos – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%96%87%E6%9B%B8%E6%A4%9C%E7%B4%A2" title="文書検索 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2" title="文献检索 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1638872#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 31 August 2018, at 02:20<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Document_retrieval&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.152","walltime":"0.180","ppvisitednodes":{"value":344,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12442,"limit":2097152},"templateargumentsize":{"value":78,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13242,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  152.034      1 -total"," 85.73%  130.335      5 Template:Cite_journal","  7.07%   10.750      1 Template:Commonscatinline","  4.82%    7.334      1 Template:Sister-inline","  4.28%    6.512      1 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.101","limit":"10.000"},"limitreport-memusage":{"value":2546346,"limit":52428800}},"cachereport":{"origin":"mw2236","timestamp":"20180929143911","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw2170"});});</script>
+	</body>
+</html>

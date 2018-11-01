@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Search engine results page - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Search_engine_results_page","wgTitle":"Search engine results page","wgCurRevisionId":860740411,"wgRevisionId":860740411,"wgArticleId":4555947,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Articles needing additional references from May 2012","All articles needing additional references","Search engine optimization","Internet search engines","Internet terminology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Search_engine_results_page","wgRelevantArticleId":4555947,"wgRequestId":"W6@DzgrAIFAAADAmAtAAAABC","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q2704141","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Search_engine_results_page"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Search_engine_results_page&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Search_engine_results_page&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Search_engine_results_page"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Search_engine_results_page rootpage-Search_engine_results_page skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Search engine results page</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Search_engine_results_page&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(May 2012)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p><b>Search Engine Results Pages</b> (<b>SERP</b>) are the pages displayed by <a href="/wiki/Search_engines" class="mw-redirect" title="Search engines">search engines</a> in response to a query by a searcher. The main component of the SERP is the listing of results that are returned by the <a href="/wiki/Search_engine_(computing)" title="Search engine (computing)">search engine</a> in response to a <a href="/wiki/Keyword_(Internet_search)" class="mw-redirect" title="Keyword (Internet search)">keyword</a> <a href="/wiki/Web_search_query" title="Web search query">query</a>, although the pages may also contain other results such as advertisements.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>The results are of two general types, organic search and paid search (i.e., retrieved by the search engine's algorithm) and sponsored (i.e., advertisements). The results are normally ranked by relevance to the query. Each result displayed on the SERP normally includes a title, a link that points to the actual page on the Web and a short <a href="/wiki/Meta_element#The_description_attribute" title="Meta element">description</a> showing where the <a href="/wiki/Meta_element#The_keywords_attribute" title="Meta element">keywords</a> have matched content within the page for organic results. For sponsored results, the advertiser chooses what to display.
+</p><p>Due to the huge number of items that are available or related to the query 
+there usually are several pages in response to a single search query as the search engine or the user's preferences restrict viewing to a subset of results per page. Each succeeding page will tend to have lower ranking or lower relevancy results. Just like the world of traditional print media and its advertising, this enables competitive pricing for page real estate, but compounded by the dynamics of consumer expectations and intent&#8212; unlike static print media where the content and the advertising on every page is the same all of the time for all viewers, despite such hard copy being localized to some degree, usually geographic, like state, metro-area, city, or neighborhoods.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Components"><span class="tocnumber">1</span> <span class="toctext">Components</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Search_query"><span class="tocnumber">1.1</span> <span class="toctext">Search query</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Organic_results"><span class="tocnumber">1.2</span> <span class="toctext">Organic results</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Sponsored_results"><span class="tocnumber">1.3</span> <span class="toctext">Sponsored results</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Rich_snippets"><span class="tocnumber">1.4</span> <span class="toctext">Rich snippets</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Knowledge_Graph"><span class="tocnumber">1.5</span> <span class="toctext">Knowledge Graph</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Generation"><span class="tocnumber">2</span> <span class="toctext">Generation</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Scraping_and_automated_access"><span class="tocnumber">3</span> <span class="toctext">Scraping and automated access</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Components">Components</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Search_engine_results_page&amp;action=edit&amp;section=1" title="Edit section: Components">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are basically three type of components in the SERP, which are 
+</p>
+<ul><li>the search query contained within a query box</li>
+<li>the organic results</li>
+<li>the ads</li></ul>
+<p>However, the SERP of major search engines, like <a href="/wiki/Google" title="Google">Google</a>, <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a>, and <a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a>, may include many different types of enhanced results (<a href="/wiki/Organic_search" title="Organic search">organic search</a> and sponsored) such as rich snippets, images, maps, definitions, answer boxes, videos or suggested search refinements. A recent study revealed that 97% of queries in Google returned at least one rich feature.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>The major search engines visually differentiate specific content types such as images, <a href="/wiki/News" title="News">news</a>, and <a href="/wiki/Blog" title="Blog">blogs</a>. Many content types have specialized SERP templates and visual enhancements on the first search results page.
+</p>
+<h3><span class="mw-headline" id="Search_query">Search query</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Search_engine_results_page&amp;action=edit&amp;section=2" title="Edit section: Search query">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Also known as 'user search string', this is the word or set of words that are typed by the user in the search bar of the search engine. The search box is located on all major search engines like Google, Yahoo, and Bing. Users indicate the topic desired based on the keywords they enter into the search box in the search engine.
+</p><p>In the competition between search engines to draw the attention of more users and advertisers, consumer satisfaction has been a driving force in the evolution of the search algorithm applied to better filter the results by relevancy.
+</p><p>Search queries are no longer successful based upon merely finding words that match purely by spelling. Intent and expectations have to be derived to determine whether the appropriate result is a match based upon the broader meanings drawn from context.
+</p><p>And that sense of context has grown from simple matching of words, and then of phrases, to the matching of ideas. And the meanings of those ideas change over time and context. Successful matching can be crowd sourced, what are others currently searching for and clicking on, when one enters keywords related to those other searches. And the crowd sourcing may be focused based upon one's own social networking.
+</p><p>With the advent of portable devices, smartphones, and wearable devices, watches and various sensors, these provide ever more contextual dimensions for consumer and advertiser to refine and maximize relevancy using such additional factors that may be gleaned like: a person's relative health, wealth, and various other status, time of day, personal habits, mobility, location, weather, and nearby services and opportunities, whether urban or suburban, like events, food, recreation, and business. Social context and crowd sourcing influences can also be pertinent factors.
+</p><p>The move away from keyboard input and the search box to voice access, aside from convenience, also makes other factors available to varying degrees of accuracy and pertinence, like: a person's character, intonation, mood, accent, ethnicity, and even elements overheard from nearby people and the background environment.
+</p><p>Searching is changing from explicit keywords: <code>on TV show w, did x marry y or z</code>, or <code>election results for candidate x in county y for this date z</code>, or <code>final scores for team x in game y for this date z</code> to vocalizing from a particular time and location: <code>hey, so who won</code>. And getting the results that one expects.
+</p>
+<h3><span class="mw-headline" id="Organic_results">Organic results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Search_engine_results_page&amp;action=edit&amp;section=3" title="Edit section: Organic results">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Web_search_query" title="Web search query">Web search query</a></div>
+<p>Organic SERP listings are the natural listings generated by <a href="/wiki/Web_search_engine" title="Web search engine">search engines</a> based on a series of metrics that determines their relevance to the searched term. Webpages that score well on a search engine's algorithmic test show in this list. These algorithms are generally based upon factors such as the content of a webpage, the trustworthiness of the website, and external factors such as <a href="/wiki/Backlink" title="Backlink">backlinks</a>, <a href="/wiki/Social_media" title="Social media">social media</a>, news, advertising, etc.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-IM_4-0" class="reference"><a href="#cite_note-IM-4">&#91;4&#93;</a></sup>
+</p><p>People tend to view the first results on the first page.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Each page of search engine results usually contains 10 organic listings (however some results pages may have fewer organic listings). The listings, which are on the first page are the most important ones, because those get 91% of the <a href="/wiki/Click-through_rate" title="Click-through rate">click through rates (CTR)</a> from a particular search. According to a 2013 study,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> the CTR's for the first page goes as:
+</p>
+<ul><li>TOP 1: 32.5%</li>
+<li>TOP 2: 17.6%</li>
+<li>TOP 3: 11.4%</li>
+<li>TOP 4: 8.1%</li>
+<li>TOP 5: 6.1%</li>
+<li>TOP 6: 4.4%</li>
+<li>TOP 7: 3.5%</li>
+<li>TOP 8: 3.1%</li>
+<li>TOP 9: 2.6%</li>
+<li>TOP 10: 2.4%</li></ul>
+<h3><span class="mw-headline" id="Sponsored_results">Sponsored results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Search_engine_results_page&amp;action=edit&amp;section=4" title="Edit section: Sponsored results">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Search_engine_marketing#Paid_inclusion" title="Search engine marketing">Search engine marketing §&#160;Paid inclusion</a></div>
+<p>Every major search engine with significant market share accepts paid listings. This unique form of search engine advertising guarantees that your site will appear in the top results for the keyword terms you target within a day or less. Paid search listings are also called sponsored listings and/or <a href="/wiki/Pay_Per_Click" class="mw-redirect" title="Pay Per Click">Pay Per Click (PPC)</a> listings.
+</p>
+<h3><span class="mw-headline" id="Rich_snippets">Rich snippets</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Search_engine_results_page&amp;action=edit&amp;section=5" title="Edit section: Rich snippets">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Rich snippets are displayed by Google in the search results pages when a website contains content in structured data markup. Structured data markup helps the Google algorithm to index and understand the content better.
+Google supports rich snippets for the following data types:
+</p>
+<ul><li>Product – Information about a product, including price, availability, and review ratings.</li>
+<li>Recipe – Recipes that can be displayed in web searches and Recipe View.</li>
+<li>Review – A review of an item such as a restaurant, movie, or store.</li>
+<li>Event – An organized event, such as musical concerts or art festivals, that people may attend at a particular time and place.</li>
+<li>SoftwareApplication – Information about a software app, including its URL, review ratings, and price.</li>
+<li>Video – An online video, including a description and thumbnail.</li>
+<li>News article – A news article, including headline, images, and publisher info.</li>
+<li>Science datasets</li></ul>
+<h3><span class="mw-headline" id="Knowledge_Graph">Knowledge Graph</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Search_engine_results_page&amp;action=edit&amp;section=6" title="Edit section: Knowledge Graph">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Search engines like Google or Bing have started to expand their data into encyclopedias and other rich sources of information.
+</p><p>Google for example calls this sort of information "<a href="/wiki/Knowledge_Graph" title="Knowledge Graph">Knowledge Graph</a>", if a search query matches it will display an additional sub-window on right hand side with information from its sources.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>Information about product (example Nike), hotels, events, flights, places, businesses, people, books and movies, countries, sport groups, architecture and more can be obtained that way.
+</p>
+<h2><span class="mw-headline" id="Generation">Generation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Search_engine_results_page&amp;action=edit&amp;section=7" title="Edit section: Generation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Major search engines like <a href="/wiki/Google" title="Google">Google</a>, <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a>, and <a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a> primarily use content contained within the page and fallback to <a href="/wiki/Metadata" title="Metadata">metadata</a> tags of a <a href="/wiki/Web_page" title="Web page">web page</a> to generate the content that makes up a search snippet.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> Generally, the <a href="/wiki/HTML" title="HTML">HTML</a> title tag will be used as the title of the snippet while the most relevant or useful contents of the web page (description tag or page copy) will be used for the description.
+</p>
+<h2><span class="mw-headline" id="Scraping_and_automated_access">Scraping and automated access</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Search_engine_results_page&amp;action=edit&amp;section=8" title="Edit section: Scraping and automated access">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Search engine result pages are protected from automated access by a range of defensive mechanisms and the terms of service.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> These result pages are the primary data source for <a href="/wiki/Search_engine_optimization" title="Search engine optimization">SEO</a> companies, the website placement for competitive keywords became an important field of business and interest. Google has even used Twitter to warn users against this practice<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>The sponsored (creative) results on Google can cost a large amount of money for advertisers. The most expensive keywords are for legal services, especially personal injury lawyers in highly competitive markets. These keywords range in the hundreds of USD, while the most expensive is nearly 1000 USD for each sponsored click.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p><p>The process of harvesting search engine result pages data is usually called "<a href="/wiki/Search_Engine_Scraping" class="mw-redirect" title="Search Engine Scraping">search engine scraping</a>" or in a general form "<a href="/wiki/Web_crawling" class="mw-redirect" title="Web crawling">web crawling</a>" and generates the data SEO related companies need to evaluate website competitive organic and sponsored rankings. This data can be used to track the position of websites and show the effectiveness of SEO as well as keywords that may need more SEO investment to rank higher.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Search_engine_results_page&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/User_intent" title="User intent">User intent</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Search_engine_results_page&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">BJ Jansen, A Spink (2008) <a rel="nofollow" class="external text" href="https://faculty.ist.psu.edu/jjansen/academic/jansen_click_through_sponsored_links.pdf">Investigating customer click through behaviour with integrated sponsored and nonsponsored results</a>. International Journal of Internet Marketing and Advertising 5 (1-2), 74-94.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://moz.com/blog/google-glossary">"Google Glossary: Revenge of Mega-SERP"</a>. <i>Moz</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Moz&amp;rft.atitle=Google+Glossary%3A+Revenge+of+Mega-SERP&amp;rft_id=https%3A%2F%2Fmoz.com%2Fblog%2Fgoogle-glossary&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearch+engine+results+page" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.searchenginejournal.com/facebook-seo-beastrank-ranking-factors-facebook-search-engine/49696/">Facebook SEO and BeastRank: 12 Potential Ranking Factors for the Upcoming Facebook Search Engine</a>. Search Engine Journal. 9 October 2012</span>
+</li>
+<li id="cite_note-IM-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-IM_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Catherine Juon, Dunrie Greiling, Catherine Buerkle (10 August 2011). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=7etaQThgkEQC&amp;pg=PA178"><i>Internet Marketing Start to Finish: Drive measurable, repeatable online sales with search marketing, usability, CRM, and analytics</i></a>. Que Publishing<span class="reference-accessdate">. Retrieved <span class="nowrap">22 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Internet+Marketing+Start+to+Finish%3A+Drive+measurable%2C+repeatable+online+sales+with+search+marketing%2C+usability%2C+CRM%2C+and+analytics&amp;rft.pub=Que+Publishing&amp;rft.date=2011-08-10&amp;rft.au=Catherine+Juon%2C+Dunrie+Greiling%2C+Catherine+Buerkle&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D7etaQThgkEQC%26pg%3DPA178&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearch+engine+results+page" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>) </span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Jansen, B. J. and Spink, A. 2004. <a rel="nofollow" class="external text" href="https://faculty.ist.psu.edu/jjansen/academic/pubs/jansen_web_mining.pdf">An Analysis of Documents Viewing Patterns of Web Search Engine Users</a>. In Web Mining: Applications and Techniques. Editor: Anthony Scime. p. 339-354.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://chitika.com/google-positioning-value">The Value of Google Result Positioning</a>. Chitika. 7 June 2013.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.google.com/intl/es419/insidesearch/features/search/knowledge.html">"Knowledge – Inside Search – Google"</a>. <i>www.google.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.google.com&amp;rft.atitle=Knowledge+%E2%80%93+Inside+Search+%E2%80%93+Google&amp;rft_id=https%3A%2F%2Fwww.google.com%2Fintl%2Fes419%2Finsidesearch%2Ffeatures%2Fsearch%2Fknowledge.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearch+engine+results+page" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bing.com/partners/knowledgegraph">"Bing for Partners helps businesses and developers succeed"</a>. <i>www.bing.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.bing.com&amp;rft.atitle=Bing+for+Partners+helps+businesses+and+developers+succeed&amp;rft_id=https%3A%2F%2Fwww.bing.com%2Fpartners%2Fknowledgegraph&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearch+engine+results+page" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Cutts, M. (2007) <a rel="nofollow" class="external text" href="http://www.mattcutts.com/blog/video-anatomy-of-a-search-snippet">Video: anatomy of a search snippet</a>. Matt Cutts: Gadgets, Google, and SEO.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.google.com/policies/terms/">"Google Terms of Service – Privacy &amp; Terms – Google"</a>. <i>www.google.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.google.com&amp;rft.atitle=Google+Terms+of+Service+%E2%80%93+Privacy+%26+Terms+%E2%80%93+Google&amp;rft_id=https%3A%2F%2Fwww.google.com%2Fpolicies%2Fterms%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearch+engine+results+page" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.seroundtable.com/google-warns-automated-queries-23135.html">"Google Warns: Automated Queries On Google Is Against The Terms Of Service"</a>. <i>seroundtable.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=seroundtable.com&amp;rft.atitle=Google+Warns%3A+Automated+Queries+On+Google+Is+Against+The+Terms+Of+Service&amp;rft_id=https%3A%2F%2Fwww.seroundtable.com%2Fgoogle-warns-automated-queries-23135.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearch+engine+results+page" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://searchenginewatch.com/2016/05/31/the-most-expensive-100-google-adwords-keywords-in-the-us/">"The most expensive 100 Google Adwords keywords in the US | Search Engine Watch"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+most+expensive+100+Google+Adwords+keywords+in+the+US+%7C+Search+Engine+Watch&amp;rft_id=https%3A%2F%2Fsearchenginewatch.com%2F2016%2F05%2F31%2Fthe-most-expensive-100-google-adwords-keywords-in-the-us%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearch+engine+results+page" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2192
+Cached time: 20180929135318
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.156 seconds
+Real time usage: 0.224 seconds
+Preprocessor visited node count: 473/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 15265/2097152 bytes
+Template argument size: 98/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 20572/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.083/10.000 seconds
+Lua memory usage: 2.64 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  185.218      1 -total
+ 61.44%  113.799      1 Template:Reflist
+ 42.33%   78.394      5 Template:Cite_web
+ 28.15%   52.134      1 Template:More_citations_needed
+ 18.95%   35.096      1 Template:Ambox
+  6.45%   11.954      2 Template:Main_article
+  3.76%    6.967      1 Template:Cite_book
+  2.97%    5.501      1 Template:Cite_news
+  1.11%    2.047      1 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4555947-0!canonical and timestamp 20180929135318 and revision id 860740411
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Search_engine_results_page&amp;oldid=860740411">https://en.wikipedia.org/w/index.php?title=Search_engine_results_page&amp;oldid=860740411</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Search_engine_optimization" title="Category:Search engine optimization">Search engine optimization</a></li><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li><li><a href="/wiki/Category:Internet_terminology" title="Category:Internet terminology">Internet terminology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2012" title="Category:Articles needing additional references from May 2012">Articles needing additional references from May 2012</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Search+engine+results+page" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Search+engine+results+page" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Search_engine_results_page" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Search_engine_results_page" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Search_engine_results_page">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Search_engine_results_page&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Search_engine_results_page&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Search_engine_results_page" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Search_engine_results_page" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Search_engine_results_page&amp;oldid=860740411" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Search_engine_results_page&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2704141" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Search_engine_results_page&amp;id=860740411" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Search+engine+results+page">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Search+engine+results+page&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Search_engine_results_page&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/SERP" title="SERP – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/P%C3%A1gina_de_resultados_del_buscador" title="Página de resultados del buscador – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Page_de_r%C3%A9sultats_d%27un_moteur_de_recherche" title="Page de résultats d&#039;un moteur de recherche – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Search_engine_results_page" title="Search engine results page – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Halaman_hasil_enjin_gelintar" title="Halaman hasil enjin gelintar – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/SERP" title="SERP – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/P%C3%A1gina_de_resultados_do_mecanismo_de_pesquisa" title="Página de resultados do mecanismo de pesquisa – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0" title="Страница результатов поиска – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Serp_(internet)" title="Serp (internet) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%96%D0%B2_%D0%BF%D0%BE%D1%88%D1%83%D0%BA%D1%83" title="Сторінка результатів пошуку – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C%E9%A1%B5" title="搜索结果页 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2704141#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 22 September 2018, at 18:26<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Search_engine_results_page&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.156","walltime":"0.224","ppvisitednodes":{"value":473,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":15265,"limit":2097152},"templateargumentsize":{"value":98,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":20572,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  185.218      1 -total"," 61.44%  113.799      1 Template:Reflist"," 42.33%   78.394      5 Template:Cite_web"," 28.15%   52.134      1 Template:More_citations_needed"," 18.95%   35.096      1 Template:Ambox","  6.45%   11.954      2 Template:Main_article","  3.76%    6.967      1 Template:Cite_book","  2.97%    5.501      1 Template:Cite_news","  1.11%    2.047      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.083","limit":"10.000"},"limitreport-memusage":{"value":2770805,"limit":52428800}},"cachereport":{"origin":"mw2192","timestamp":"20180929135318","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":332,"wgHostname":"mw2192"});});</script>
+	</body>
+</html>

@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Local education authority - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Local_education_authority","wgTitle":"Local education authority","wgCurRevisionId":841269949,"wgRevisionId":841269949,"wgArticleId":1037558,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Incomplete lists from February 2011","Use dmy dates from February 2011","Education in the United Kingdom","Local government services in the United Kingdom","Local education authorities"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Local_education_authority","wgRelevantArticleId":1037558,"wgRequestId":"W6@NQwrAIEMAALdXgEEAAAAW","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q6664350","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Local_education_authority"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Local_education_authority&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Local_education_authority&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Local_education_authority"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Local_education_authority rootpage-Local_education_authority skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Local education authority</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/Local_Education_Agency" title="Local Education Agency">Local Education Agency</a>.</div>
+<p><b>Local education authorities</b> (<b>LEAs</b>) are the local councils in <a href="/wiki/England" title="England">England</a> and <a href="/wiki/Wales" title="Wales">Wales</a> that are responsible for education within their jurisdiction. The term is used to identify which council (district or county) is locally responsible for education in a system with several layers of local government. Local education authorities are not usually ad hoc or standalone authorities, although the former <a href="/wiki/Inner_London_Education_Authority" title="Inner London Education Authority">Inner London Education Authority</a> was one example of this. 
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Responsible_local_authority"><span class="tocnumber">1</span> <span class="toctext">Responsible local authority</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#England"><span class="tocnumber">1.1</span> <span class="toctext">England</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Wales"><span class="tocnumber">1.2</span> <span class="toctext">Wales</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Functions"><span class="tocnumber">2</span> <span class="toctext">Functions</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Creation"><span class="tocnumber">3.1</span> <span class="toctext">Creation</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Reform"><span class="tocnumber">3.2</span> <span class="toctext">Reform</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#List_of_local_authorities_responsible_for_education"><span class="tocnumber">4</span> <span class="toctext">List of local authorities responsible for education</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Responsible_local_authority">Responsible local authority</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Local_education_authority&amp;action=edit&amp;section=1" title="Edit section: Responsible local authority">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="England">England</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Local_education_authority&amp;action=edit&amp;section=2" title="Edit section: England">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>England has several tiers of local government and the relevant local authority varies. Within <a href="/wiki/Greater_London" title="Greater London">Greater London</a> the 32 <a href="/wiki/London_Borough_Councils" class="mw-redirect" title="London Borough Councils">London Borough Councils</a> and the <a href="/wiki/Common_Council_of_the_City_of_London" class="mw-redirect" title="Common Council of the City of London">Common Council of the City of London</a> are the local authorities responsible for education; in the metropolitan counties it is the 36 <a href="/wiki/Metropolitan_borough" title="Metropolitan borough">metropolitan borough councils</a>; and in the non-metropolitan counties it is the 27 <a href="/wiki/County_council" title="County council">county councils</a> or, where there is no county council, the councils of the 55 <a href="/wiki/Unitary_authorities_of_England" title="Unitary authorities of England">unitary authorities</a>. The <a href="/wiki/Council_of_the_Isles_of_Scilly" title="Council of the Isles of Scilly">Council of the Isles of Scilly</a> is an education authority.<sup id="cite_ref-2004_Act_1-0" class="reference"><a href="#cite_note-2004_Act-1">&#91;1&#93;</a></sup> Since the <a href="/wiki/Children_Act_2004" title="Children Act 2004">Children Act 2004</a> each local education authority is also a children's services authority and responsibility for both functions is held by the director of children's services.<sup id="cite_ref-2004_Act_1-1" class="reference"><a href="#cite_note-2004_Act-1">&#91;1&#93;</a></sup> There are 152 local education authorities in England.
+</p>
+<h3><span class="mw-headline" id="Wales">Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Local_education_authority&amp;action=edit&amp;section=3" title="Edit section: Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Wales the councils of the counties and county boroughs are responsible for education. Since 5 May 2010, the terms local education authority and children's services authority have been repealed and replaced by the single term 'local authority' in both primary and secondary legislation.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Functions">Functions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Local_education_authority&amp;action=edit&amp;section=4" title="Edit section: Functions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Local education authorities have some responsibility for all state schools in their area.
+</p>
+<div role="note" class="hatnote navigation-not-searchable plainlinks">This list is <a href="/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">incomplete</a>; you can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Local_education_authority&amp;action=edit">expanding it</a>.</div>
+<ul><li>They are responsible for distribution and monitoring of funding for the schools</li>
+<li>They are responsible for co-ordination of admissions, including allocation of the number of places available at each school</li>
+<li>They are the direct employers of  all staff in <a href="/wiki/Community_school_(England_and_Wales)" title="Community school (England and Wales)">community</a> and <a href="/wiki/Voluntary_controlled" class="mw-redirect" title="Voluntary controlled">VC</a> schools</li>
+<li>They have a responsibility for the educational achievement of looked-after children, i.e. children in their care<sup id="cite_ref-gttl_LAC_3-0" class="reference"><a href="#cite_note-gttl_LAC-3">&#91;3&#93;</a></sup></li>
+<li>They have attendance and advisory rights in relation to the employment of teachers, and in relation to the dismissal of any staff<sup id="cite_ref-gttl_HR_4-0" class="reference"><a href="#cite_note-gttl_HR-4">&#91;4&#93;</a></sup></li>
+<li>They are the owners of school land and premises in community schools.<sup id="cite_ref-gttl_land_5-0" class="reference"><a href="#cite_note-gttl_land-5">&#91;5&#93;</a></sup></li></ul>
+<p>Until recently, local education authorities were responsible for the funding of students in <a href="/wiki/Higher_education" title="Higher education">higher education</a> (for example <a href="/wiki/Undergraduate_education" title="Undergraduate education">undergraduate courses</a> and <a href="/wiki/Professional_Graduate_Certificate_in_Education" title="Professional Graduate Certificate in Education">PGCE</a>) whose permanent address is in their area, regardless of the place of study. Based on an assessment of individual circumstances they offer grants or access to <a href="/wiki/Student_loan" title="Student loan">student loans</a> through the <a href="/wiki/Student_Loans_Company" title="Student Loans Company">Student Loans Company</a>.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Local_education_authority&amp;action=edit&amp;section=5" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Creation">Creation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Local_education_authority&amp;action=edit&amp;section=6" title="Edit section: Creation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The term was introduced by the <a href="/wiki/Education_Act_1902" title="Education Act 1902">Education Act 1902</a> (2 Edw.7, c. 42). The Act designated each local authority; either <a href="/wiki/County_council" title="County council">county council</a> and <a href="/wiki/County_borough" title="County borough">county borough council</a>; would set up a committee known as a <i>local education authority</i> (LEA).<sup id="cite_ref-bryne_6-0" class="reference"><a href="#cite_note-bryne-6">&#91;6&#93;</a></sup> The councils took over the powers and responsibilities of the <a href="/wiki/School_board_(England_%26_Wales)" class="mw-redirect" title="School board (England &amp; Wales)">school boards</a> and <a href="/w/index.php?title=Technical_instruction_committee&amp;action=edit&amp;redlink=1" class="new" title="Technical instruction committee (page does not exist)">technical instruction committees</a> in their area. <a href="/wiki/Municipal_borough" title="Municipal borough">Municipal boroughs</a> with a population of 10,000 and <a href="/wiki/Urban_district_(Great_Britain_and_Ireland)" title="Urban district (Great Britain and Ireland)">urban districts</a> with a population of 20,000 were to be local education authorities in their areas for elementary education only. The LEAs' role was further expanded with the introduction of school meals in 1906 and medical inspection in 1907.<sup id="cite_ref-bryne_6-1" class="reference"><a href="#cite_note-bryne-6">&#91;6&#93;</a></sup>
+</p><p>In 1904 the <a href="/wiki/London_County_Council" title="London County Council">London County Council</a> became a local education authority, with the abolition of the <a href="/wiki/London_School_Board" title="London School Board">London School Board</a>. The <a href="/wiki/Metropolitan_borough" title="Metropolitan borough">metropolitan boroughs</a> were not education authorities, although they were given the power to decide on the site for new schools in their areas, and provided the majority of members on boards of management.
+</p>
+<h3><span class="mw-headline" id="Reform">Reform</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Local_education_authority&amp;action=edit&amp;section=7" title="Edit section: Reform">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The system continued unchanged until 1965, when the <a href="/wiki/London_County_Council" title="London County Council">London County Council</a> was replaced by the <a href="/wiki/Greater_London_Council" title="Greater London Council">Greater London Council</a>. The twenty outer <a href="/wiki/London_borough" class="mw-redirect" title="London borough">London boroughs</a> became local education authorities, while a new <a href="/wiki/Inner_London_Education_Authority" title="Inner London Education Authority">Inner London Education Authority</a>, consisting of the members of the GLC elected for the inner boroughs covering the former <a href="/wiki/County_of_London" title="County of London">County of London</a> was created.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>In 1974 local government outside London was completely reorganised. In the new metropolitan counties of <a href="/wiki/England" title="England">England</a>, <a href="/wiki/Metropolitan_borough" title="Metropolitan borough">metropolitan boroughs</a> became LEAs. In the non-metropolitan counties the <a href="/wiki/County_council" title="County council">county councils</a> were the education authorities,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> as they were throughout <a href="/wiki/Wales" title="Wales">Wales</a>.
+</p><p>In 1986, with the abolition of the Greater London Council, a directly elected <a href="/wiki/Inner_London_Education_Authority" title="Inner London Education Authority">Inner London Education Authority</a> was formed. This however only existed until 1990, when the twelve inner <a href="/wiki/London_borough" class="mw-redirect" title="London borough">London boroughs</a> assumed responsibility for education.
+</p><p>In 1989, under the <a href="/wiki/Education_Reform_Act_1988" title="Education Reform Act 1988">Education Reform Act 1988</a>, the LEAs lost responsibility for higher education, with all <a href="/wiki/Polytechnic_(United_Kingdom)" title="Polytechnic (United Kingdom)">polytechnics</a> and colleges of higher education becoming independent corporations.
+</p><p>A further wave of local government reorganisation during the 1990s led to the formation of <a href="/wiki/Unitary_authority" title="Unitary authority">unitary authorities</a> in parts of England and throughout <a href="/wiki/Wales" title="Wales">Wales</a>, which became local education authorities.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>A local educational authority award is an award given <i>to</i> the local educational authority, as opposed to an award given <i>by</i> the LEA.
+</p>
+<h2><span class="mw-headline" id="List_of_local_authorities_responsible_for_education">List of local authorities responsible for education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Local_education_authority&amp;action=edit&amp;section=8" title="Edit section: List of local authorities responsible for education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are currently 152 local education authorities in England and 22 in Wales. Below they are listed alphabetically by region.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<table class="wikitable" width="100%">
+<tbody><tr>
+<th><a href="/wiki/Greater_London" title="Greater London">London</a>
+</th></tr>
+<tr>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Barking_and_Dagenham_London_Borough_Council" title="Barking and Dagenham London Borough Council">Barking and Dagenham London Borough Council</a></li>
+<li><a href="/wiki/Barnet_London_Borough_Council" title="Barnet London Borough Council">Barnet London Borough Council</a></li>
+<li><a href="/wiki/Bexley_London_Borough_Council" title="Bexley London Borough Council">Bexley London Borough Council</a></li>
+<li><a href="/wiki/Brent_London_Borough_Council" title="Brent London Borough Council">Brent London Borough Council</a></li>
+<li><a href="/wiki/Bromley_London_Borough_Council" title="Bromley London Borough Council">Bromley London Borough Council</a></li>
+<li><a href="/wiki/Camden_London_Borough_Council" title="Camden London Borough Council">Camden London Borough Council</a></li>
+<li><a href="/wiki/City_of_London_Corporation" title="City of London Corporation">City of London Corporation</a></li>
+<li><a href="/wiki/Croydon_London_Borough_Council" title="Croydon London Borough Council">Croydon London Borough Council</a></li>
+<li><a href="/wiki/Ealing_London_Borough_Council" title="Ealing London Borough Council">Ealing London Borough Council</a></li>
+<li><a href="/wiki/Enfield_London_Borough_Council" title="Enfield London Borough Council">Enfield London Borough Council</a></li>
+<li><a href="/wiki/Greenwich_London_Borough_Council" title="Greenwich London Borough Council">Greenwich London Borough Council</a></li>
+<li><a href="/wiki/Hackney_London_Borough_Council" title="Hackney London Borough Council">Hackney London Borough Council</a></li>
+<li><a href="/wiki/Hammersmith_and_Fulham_London_Borough_Council" title="Hammersmith and Fulham London Borough Council">Hammersmith and Fulham London Borough Council</a></li>
+<li><a href="/wiki/Haringey_London_Borough_Council" title="Haringey London Borough Council">Haringey London Borough Council</a></li>
+<li><a href="/wiki/Harrow_London_Borough_Council" title="Harrow London Borough Council">Harrow London Borough Council</a></li>
+<li><a href="/wiki/Havering_London_Borough_Council" title="Havering London Borough Council">Havering London Borough Council</a></li>
+<li><a href="/wiki/Hillingdon_London_Borough_Council" title="Hillingdon London Borough Council">Hillingdon London Borough Council</a></li>
+<li><a href="/wiki/Hounslow_London_Borough_Council" title="Hounslow London Borough Council">Hounslow London Borough Council</a></li>
+<li><a href="/wiki/Islington_London_Borough_Council" title="Islington London Borough Council">Islington London Borough Council</a></li>
+<li><a href="/wiki/Kensington_and_Chelsea_London_Borough_Council" title="Kensington and Chelsea London Borough Council">Kensington and Chelsea London Borough Council</a></li>
+<li><a href="/wiki/Kingston_upon_Thames_London_Borough_Council" title="Kingston upon Thames London Borough Council">Kingston upon Thames London Borough Council</a></li>
+<li><a href="/wiki/Lambeth_London_Borough_Council" title="Lambeth London Borough Council">Lambeth London Borough Council</a></li>
+<li><a href="/wiki/Lewisham_London_Borough_Council" title="Lewisham London Borough Council">Lewisham London Borough Council</a></li>
+<li><a href="/wiki/Merton_London_Borough_Council" title="Merton London Borough Council">Merton London Borough Council</a></li>
+<li><a href="/wiki/Newham_London_Borough_Council" title="Newham London Borough Council">Newham London Borough Council</a></li>
+<li><a href="/wiki/Redbridge_London_Borough_Council" title="Redbridge London Borough Council">Redbridge London Borough Council</a></li>
+<li><a href="/wiki/Richmond_upon_Thames_London_Borough_Council" title="Richmond upon Thames London Borough Council">Richmond upon Thames London Borough Council</a></li>
+<li><a href="/wiki/Southwark_London_Borough_Council" title="Southwark London Borough Council">Southwark London Borough Council</a></li>
+<li><a href="/wiki/Sutton_London_Borough_Council" title="Sutton London Borough Council">Sutton London Borough Council</a></li>
+<li><a href="/wiki/Tower_Hamlets_London_Borough_Council" title="Tower Hamlets London Borough Council">Tower Hamlets London Borough Council</a></li>
+<li><a href="/wiki/Waltham_Forest_London_Borough_Council" title="Waltham Forest London Borough Council">Waltham Forest London Borough Council</a></li>
+<li><a href="/wiki/Wandsworth_London_Borough_Council" title="Wandsworth London Borough Council">Wandsworth London Borough Council</a></li>
+<li><a href="/wiki/Westminster_City_Council" title="Westminster City Council">Westminster City Council</a></li></ul>
+</div>
+</td></tr>
+<tr>
+<th><a href="/wiki/South_West_England" title="South West England">South West</a>
+</th></tr>
+<tr>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Bath_and_North_East_Somerset_Council" title="Bath and North East Somerset Council">Bath and North East Somerset Council</a></li>
+<li><a href="/wiki/Bournemouth_Borough_Council" title="Bournemouth Borough Council">Bournemouth Borough Council</a></li>
+<li><a href="/wiki/Bristol_City_Council" title="Bristol City Council">Bristol City Council</a></li>
+<li><a href="/wiki/Cornwall_Council" title="Cornwall Council">Cornwall Council</a></li>
+<li><a href="/wiki/Devon_County_Council" title="Devon County Council">Devon County Council</a></li>
+<li><a href="/wiki/Dorset_County_Council" title="Dorset County Council">Dorset County Council</a></li>
+<li><a href="/wiki/Gloucestershire_County_Council" title="Gloucestershire County Council">Gloucestershire County Council</a></li>
+<li><a href="/wiki/Council_of_the_Isles_of_Scilly" title="Council of the Isles of Scilly">Council of the Isles of Scilly</a></li>
+<li><a href="/wiki/North_Somerset_Council" title="North Somerset Council">North Somerset Council</a></li>
+<li><a href="/wiki/Plymouth_City_Council" title="Plymouth City Council">Plymouth City Council</a></li>
+<li><a href="/wiki/Poole_Borough_Council" title="Poole Borough Council">Poole Borough Council</a></li>
+<li><a href="/wiki/Somerset_County_Council" title="Somerset County Council">Somerset County Council</a></li>
+<li><a href="/wiki/South_Gloucestershire_Council" title="South Gloucestershire Council">South Gloucestershire Council</a></li>
+<li><a href="/wiki/Swindon_Borough_Council" title="Swindon Borough Council">Swindon Borough Council</a></li>
+<li><a href="/wiki/Torbay_Council" title="Torbay Council">Torbay Council</a></li>
+<li><a href="/wiki/Wiltshire_Council" title="Wiltshire Council">Wiltshire Council</a></li></ul>
+</div></td></tr>
+<tr>
+<th><a href="/wiki/South_East_England" title="South East England">South East</a>
+</th></tr>
+<tr>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Bracknell_Forest_Borough_Council" class="mw-redirect" title="Bracknell Forest Borough Council">Bracknell Forest Borough Council</a></li>
+<li><a href="/wiki/Brighton_and_Hove_City_Council" title="Brighton and Hove City Council">Brighton and Hove City Council</a></li>
+<li><a href="/wiki/Buckinghamshire_County_Council" title="Buckinghamshire County Council">Buckinghamshire County Council</a></li>
+<li><a href="/wiki/East_Sussex_County_Council" title="East Sussex County Council">East Sussex County Council</a></li>
+<li><a href="/wiki/Hampshire_County_Council" title="Hampshire County Council">Hampshire County Council</a></li>
+<li><a href="/wiki/Isle_of_Wight_Council" title="Isle of Wight Council">Isle of Wight Council</a></li>
+<li><a href="/wiki/Kent_County_Council" title="Kent County Council">Kent County Council</a></li>
+<li><a href="/wiki/Medway_Council" title="Medway Council">Medway Council</a></li>
+<li><a href="/wiki/Milton_Keynes_Borough_Council" class="mw-redirect" title="Milton Keynes Borough Council">Milton Keynes Borough Council</a></li>
+<li><a href="/wiki/Oxfordshire_County_Council" title="Oxfordshire County Council">Oxfordshire County Council</a></li>
+<li><a href="/wiki/Portsmouth_City_Council" title="Portsmouth City Council">Portsmouth City Council</a></li>
+<li><a href="/wiki/Reading_Borough_Council" title="Reading Borough Council">Reading Borough Council</a></li>
+<li><a href="/wiki/Slough_Borough_Council" title="Slough Borough Council">Slough Borough Council</a></li>
+<li><a href="/wiki/Southampton_City_Council" title="Southampton City Council">Southampton City Council</a></li>
+<li><a href="/wiki/Surrey_County_Council" title="Surrey County Council">Surrey County Council</a></li>
+<li><a href="/wiki/West_Berkshire_District_Council" class="mw-redirect" title="West Berkshire District Council">West Berkshire District Council</a></li>
+<li><a href="/wiki/West_Sussex_County_Council" title="West Sussex County Council">West Sussex County Council</a></li>
+<li><a href="/wiki/Windsor_and_Maidenhead_Borough_Council" title="Windsor and Maidenhead Borough Council">Windsor and Maidenhead Borough Council</a></li>
+<li><a href="/wiki/Wokingham_Borough_Council" title="Wokingham Borough Council">Wokingham Borough Council</a></li></ul>
+</div></td></tr>
+<tr>
+<th><a href="/wiki/East_of_England" title="East of England">East</a>
+</th></tr>
+<tr>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Bedford_Borough_Council" title="Bedford Borough Council">Bedford Borough Council</a></li>
+<li><a href="/wiki/Cambridgeshire_County_Council" title="Cambridgeshire County Council">Cambridgeshire County Council</a></li>
+<li><a href="/wiki/Central_Bedfordshire_Council" title="Central Bedfordshire Council">Central Bedfordshire Council</a></li>
+<li><a href="/wiki/Essex_County_Council" title="Essex County Council">Essex County Council</a></li>
+<li><a href="/wiki/Hertfordshire_County_Council" title="Hertfordshire County Council">Hertfordshire County Council</a></li>
+<li><a href="/wiki/Luton_Borough_Council" title="Luton Borough Council">Luton Borough Council</a></li>
+<li><a href="/wiki/Norfolk_County_Council" title="Norfolk County Council">Norfolk County Council</a></li>
+<li><a href="/wiki/Peterborough_City_Council" title="Peterborough City Council">Peterborough City Council</a></li>
+<li><a href="/wiki/Southend-on-Sea" title="Southend-on-Sea">Southend-on-Sea</a> Borough Council</li>
+<li><a href="/wiki/Suffolk_County_Council" title="Suffolk County Council">Suffolk County Council</a></li>
+<li><a href="/wiki/Thurrock_Borough_Council" class="mw-redirect" title="Thurrock Borough Council">Thurrock Borough Council</a></li></ul>
+</div></td></tr>
+<tr>
+<th><a href="/wiki/West_Midlands_(region)" title="West Midlands (region)">West Midlands</a>
+</th></tr>
+<tr>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Birmingham" title="Birmingham">Birmingham</a> City Council</li>
+<li><a href="/wiki/Coventry_City_Council" title="Coventry City Council">Coventry City Council</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Dudley" title="Metropolitan Borough of Dudley">Dudley</a> Metropolitan Borough Council</li>
+<li><a href="/wiki/Herefordshire_Council" title="Herefordshire Council">County of Herefordshire District Council</a></li>
+<li><a href="/wiki/Sandwell" title="Sandwell">Sandwell</a> Metropolitan Borough Council</li>
+<li><a href="/wiki/Shropshire_Council" title="Shropshire Council">Shropshire Council</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Solihull" title="Metropolitan Borough of Solihull">Solihull</a> Metropolitan Borough Council</li>
+<li><a href="/wiki/Staffordshire_County_Council" title="Staffordshire County Council">Staffordshire County Council</a></li>
+<li><a href="/wiki/Stoke-on-Trent" title="Stoke-on-Trent">Stoke-on-Trent</a> City Council</li>
+<li><a href="/wiki/Telford_and_Wrekin" title="Telford and Wrekin">Telford and Wrekin</a> Borough Council</li>
+<li><a href="/wiki/Metropolitan_Borough_of_Walsall" title="Metropolitan Borough of Walsall">Walsall</a> Metropolitan Borough Council</li>
+<li><a href="/wiki/Warwickshire_County_Council" title="Warwickshire County Council">Warwickshire County Council</a></li>
+<li><a href="/wiki/Wolverhampton" title="Wolverhampton">Wolverhampton</a> City Council</li>
+<li><a href="/wiki/Worcestershire_County_Council" title="Worcestershire County Council">Worcestershire County Council</a></li></ul>
+</div></td></tr>
+<tr>
+<th><a href="/wiki/East_Midlands" title="East Midlands">East Midlands</a>
+</th></tr>
+<tr>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Derby" title="Derby">Derby</a> <a href="/wiki/Derby_City_Council" title="Derby City Council">City Council</a></li>
+<li><a href="/wiki/Derbyshire" title="Derbyshire">Derbyshire</a> <a href="/wiki/Derbyshire_County_Council" title="Derbyshire County Council">County Council</a></li>
+<li><a href="/wiki/Leicester" title="Leicester">Leicester</a> City Council</li>
+<li><a href="/wiki/Leicestershire_County_Council" title="Leicestershire County Council">Leicestershire County Council</a></li>
+<li><a href="/wiki/Lincolnshire_County_Council" title="Lincolnshire County Council">Lincolnshire County Council</a></li>
+<li><a href="/wiki/Northamptonshire_County_Council" title="Northamptonshire County Council">Northamptonshire County Council</a></li>
+<li><a href="/wiki/Nottingham" title="Nottingham">Nottingham</a> City Council</li>
+<li><a href="/wiki/Nottinghamshire_County_Council" title="Nottinghamshire County Council">Nottinghamshire County Council</a></li>
+<li><a href="/wiki/Rutland_County_Council" title="Rutland County Council">Rutland County Council</a></li></ul>
+</div></td></tr>
+<tr>
+<th colspan="2"><a href="/wiki/Yorkshire_and_the_Humber" title="Yorkshire and the Humber">Yorkshire and the Humber</a>
+</th></tr>
+<tr>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Metropolitan_Borough_of_Barnsley" title="Metropolitan Borough of Barnsley">Barnsley</a> Metropolitan Borough Council</li>
+<li><a href="/wiki/City_of_Bradford" title="City of Bradford">City of Bradford</a> Metropolitan District Council</li>
+<li><a href="/wiki/Calderdale" title="Calderdale">Calderdale</a> Metropolitan Borough Council</li>
+<li><a href="/wiki/Metropolitan_Borough_of_Doncaster" title="Metropolitan Borough of Doncaster">Doncaster</a> Metropolitan Borough Council</li>
+<li><a href="/wiki/East_Riding_of_Yorkshire" title="East Riding of Yorkshire">East Riding of Yorkshire</a> Council</li>
+<li><a href="/wiki/Hull_City_Council" title="Hull City Council">Hull City Council</a></li>
+<li><a href="/wiki/Kirklees" title="Kirklees">Kirklees</a> Metropolitan Borough Council</li>
+<li><a href="/wiki/Leeds_City_Council" title="Leeds City Council">Leeds City Council</a></li>
+<li><a href="/wiki/North_East_Lincolnshire" title="North East Lincolnshire">North East Lincolnshire</a> Borough Council</li>
+<li><a href="/wiki/North_Lincolnshire" title="North Lincolnshire">North Lincolnshire</a> Borough Council</li>
+<li><a href="/wiki/North_Yorkshire_County_Council" title="North Yorkshire County Council">North Yorkshire County Council</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Rotherham" title="Metropolitan Borough of Rotherham">Rotherham</a> Metropolitan Borough Council</li>
+<li><a href="/wiki/City_of_Sheffield" class="mw-redirect" title="City of Sheffield">Sheffield</a> City Council</li>
+<li><a href="/wiki/Wakefield_Metropolitan_District_Council" class="mw-redirect" title="Wakefield Metropolitan District Council">Wakefield Metropolitan District Council</a></li>
+<li><a href="/wiki/City_of_York" class="mw-redirect" title="City of York">York</a> City Council</li></ul>
+</div></td></tr>
+<tr>
+<th><a href="/wiki/North_West_England" title="North West England">North West</a>
+</th></tr>
+<tr>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Blackburn_with_Darwen" title="Blackburn with Darwen">Blackburn with Darwen</a> Borough Council</li>
+<li><a href="/wiki/Blackpool" title="Blackpool">Blackpool</a> Borough Council</li>
+<li><a href="/wiki/Bolton_(borough)" class="mw-redirect" title="Bolton (borough)">Bolton</a> Metropolitan Borough Council</li>
+<li><a href="/wiki/Bury_(borough)" class="mw-redirect" title="Bury (borough)">Bury</a> Metropolitan Borough Council</li>
+<li><a href="/wiki/Cheshire_East" title="Cheshire East">Cheshire East</a> Council</li>
+<li><a href="/wiki/Cheshire_West_and_Chester" title="Cheshire West and Chester">Cheshire West and Chester</a> Council</li>
+<li><a href="/wiki/Cumbria_County_Council" title="Cumbria County Council">Cumbria County Council</a></li>
+<li><a href="/wiki/Halton_(borough)" class="mw-redirect" title="Halton (borough)">Halton</a> Borough Council</li>
+<li><a href="/wiki/Metropolitan_Borough_of_Knowsley" title="Metropolitan Borough of Knowsley">Knowsley</a> Metropolitan Borough Council</li>
+<li><a href="/wiki/Lancashire_County_Council" title="Lancashire County Council">Lancashire County Council</a></li>
+<li><a href="/wiki/Liverpool" title="Liverpool">Liverpool</a> City Council</li>
+<li><a href="/wiki/Manchester" title="Manchester">Manchester</a> City Council</li>
+<li><a href="/wiki/Oldham_(borough)" class="mw-redirect" title="Oldham (borough)">Oldham</a> Metropolitan Borough Council</li>
+<li><a href="/wiki/Rochdale_(borough)" class="mw-redirect" title="Rochdale (borough)">Rochdale</a> Metropolitan Borough Council</li>
+<li><a href="/wiki/City_of_Salford" title="City of Salford">Salford</a> City Council</li>
+<li><a href="/wiki/Metropolitan_Borough_of_Sefton" title="Metropolitan Borough of Sefton">Sefton</a> Metropolitan Borough Council</li>
+<li><a href="/wiki/St_Helens_(borough)" class="mw-redirect" title="St Helens (borough)">St Helens</a> Metropolitan Borough Council</li>
+<li><a href="/wiki/Stockport_(borough)" class="mw-redirect" title="Stockport (borough)">Stockport</a> Metropolitan Borough Council</li>
+<li><a href="/wiki/Tameside" title="Tameside">Tameside</a> Metropolitan Borough Council</li>
+<li><a href="/wiki/Trafford" title="Trafford">Trafford</a> Metropolitan Borough Council</li>
+<li><a href="/wiki/Warrington_(borough)" class="mw-redirect" title="Warrington (borough)">Warrington</a> Borough Council</li>
+<li><a href="/wiki/Wigan_Council" class="mw-redirect" title="Wigan Council">Wigan Metropolitan Borough Council</a></li>
+<li><a href="/wiki/Wirral_(borough)" class="mw-redirect" title="Wirral (borough)">Wirral</a> Metropolitan Borough Council</li></ul>
+</div></td></tr>
+<tr>
+<th><a href="/wiki/North_East_England" title="North East England">North East</a>
+</th></tr>
+<tr>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Darlington_(borough)" class="mw-redirect" title="Darlington (borough)">Darlington</a> Borough Council</li>
+<li><a href="/wiki/County_Durham" title="County Durham">Durham County Council</a></li>
+<li><a href="/wiki/Gateshead_(borough)" class="mw-redirect" title="Gateshead (borough)">Gateshead</a> Metropolitan Borough Council</li>
+<li><a href="/wiki/Hartlepool_(borough)" class="mw-redirect" title="Hartlepool (borough)">Hartlepool</a> Borough Council</li>
+<li><a href="/wiki/Middlesbrough_Borough_Council" class="mw-redirect" title="Middlesbrough Borough Council">Middlesbrough Borough Council</a></li>
+<li><a href="/wiki/North_Tyneside" title="North Tyneside">North Tyneside</a> Metropolitan Borough Council</li>
+<li><a href="/wiki/Northumberland_County_Council" title="Northumberland County Council">Northumberland County Council</a></li>
+<li><a href="/wiki/Newcastle_upon_Tyne" title="Newcastle upon Tyne">Newcastle upon Tyne</a> City Council</li>
+<li><a href="/wiki/Redcar_and_Cleveland" title="Redcar and Cleveland">Redcar and Cleveland</a> Borough Council</li>
+<li><a href="/wiki/South_Tyneside" title="South Tyneside">South Tyneside</a> Metropolitan Borough Council</li>
+<li><a href="/wiki/Stockton-on-Tees_(borough)" class="mw-redirect" title="Stockton-on-Tees (borough)">Stockton-on-Tees</a> Borough Council</li>
+<li><a href="/wiki/City_of_Sunderland" title="City of Sunderland">Sunderland</a> City Council</li></ul>
+</div></td></tr>
+<tr>
+<th><a href="/wiki/Wales" title="Wales">Wales</a>
+</th></tr>
+<tr>
+<td>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Isle_of_Anglesey_County_Council" title="Isle of Anglesey County Council">Isle of Anglesey County Council</a></li>
+<li><a href="/wiki/Blaenau_Gwent_County_Borough_Council" title="Blaenau Gwent County Borough Council">Blaenau Gwent County Borough Council</a></li>
+<li><a href="/wiki/Bridgend_County_Borough_Council" title="Bridgend County Borough Council">Bridgend County Borough Council</a></li>
+<li><a href="/wiki/Caerphilly_County_Borough_Council" title="Caerphilly County Borough Council">Caerphilly County Borough Council</a></li>
+<li><a href="/wiki/Cardiff_Council" class="mw-redirect" title="Cardiff Council">Cardiff Council</a></li>
+<li><a href="/wiki/Carmarthenshire_County_Council" title="Carmarthenshire County Council">Carmarthenshire County Council</a></li>
+<li><a href="/wiki/Ceredigion_County_Council" title="Ceredigion County Council">Ceredigion County Council</a></li>
+<li><a href="/wiki/Conwy_County_Borough_Council" title="Conwy County Borough Council">Conwy County Borough Council</a></li>
+<li><a href="/wiki/Denbighshire_County_Council" title="Denbighshire County Council">Denbighshire County Council</a></li>
+<li><a href="/wiki/Flintshire_County_Council" title="Flintshire County Council">Flintshire County Council</a></li>
+<li><a href="/wiki/Gwynedd_Council" title="Gwynedd Council">Gwynedd Council</a></li>
+<li><a href="/wiki/Merthyr_Tydfil_County_Borough_Council" title="Merthyr Tydfil County Borough Council">Merthyr Tydfil County Borough Council</a></li>
+<li><a href="/wiki/Monmouthshire_County_Council" title="Monmouthshire County Council">Monmouthshire County Council</a></li>
+<li><a href="/wiki/Neath_Port_Talbot_County_Borough_Council" title="Neath Port Talbot County Borough Council">Neath Port Talbot County Borough Council</a></li>
+<li><a href="/wiki/Newport_City_Council" title="Newport City Council">Newport City Council</a></li>
+<li><a href="/wiki/Pembrokeshire_County_Council" title="Pembrokeshire County Council">Pembrokeshire County Council</a></li>
+<li><a href="/wiki/Powys_County_Council" title="Powys County Council">Powys County Council</a></li>
+<li><a href="/wiki/Rhondda_Cynon_Taf_County_Borough_Council" title="Rhondda Cynon Taf County Borough Council">Rhondda Cynon Taf County Borough Council</a></li>
+<li><a href="/wiki/City_and_County_of_Swansea_council" class="mw-redirect" title="City and County of Swansea council">City and County of Swansea council</a></li>
+<li><a href="/wiki/Torfaen_County_Borough_Council" title="Torfaen County Borough Council">Torfaen County Borough Council</a></li>
+<li><a href="/wiki/Vale_of_Glamorgan_Council" title="Vale of Glamorgan Council">Vale of Glamorgan Council</a></li>
+<li><a href="/wiki/Wrexham_County_Borough_Council" title="Wrexham County Borough Council">Wrexham County Borough Council</a></li></ul>
+</div></td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Local_education_authority&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Special_education" title="Special education">Special education</a></li>
+<li><a href="/wiki/Dyslexia_support_in_the_United_Kingdom" title="Dyslexia support in the United Kingdom">Dyslexia support in the United Kingdom</a></li>
+<li><a href="/wiki/Forced_adoption_in_the_United_Kingdom" title="Forced adoption in the United Kingdom">Forced adoption in the United Kingdom</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Local_education_authority&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-2004_Act-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-2004_Act_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-2004_Act_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Children Act 2004 c. 31</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://wales.gov.uk/topics/educationandskills/publications/guidance/childrensservices/?lang=en">'Open letter regarding the term changes to ‘Local Education Authority’ and ‘Children’s Services Authority’ '.</a></span>
+</li>
+<li id="cite_note-gttl_LAC-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-gttl_LAC_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://dera.ioe.ac.uk/8971/1/GTTL_FINAL.pdf">"A Guide to the Law for School Governors"</a> <span class="cs1-format">(PDF)</span>. Department for Children, Schools and Families. p.&#160;67<span class="reference-accessdate">. Retrieved <span class="nowrap">19 March</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Guide+to+the+Law+for+School+Governors&amp;rft.pages=67&amp;rft.pub=Department+for+Children%2C+Schools+and+Families&amp;rft_id=http%3A%2F%2Fdera.ioe.ac.uk%2F8971%2F1%2FGTTL_FINAL.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+education+authority" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-gttl_HR-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-gttl_HR_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://dera.ioe.ac.uk/8971/1/GTTL_FINAL.pdf">"A Guide to the Law for School Governors"</a> <span class="cs1-format">(PDF)</span>. Department for Children, Schools and Families. p.&#160;86<span class="reference-accessdate">. Retrieved <span class="nowrap">19 March</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Guide+to+the+Law+for+School+Governors&amp;rft.pages=86&amp;rft.pub=Department+for+Children%2C+Schools+and+Families&amp;rft_id=http%3A%2F%2Fdera.ioe.ac.uk%2F8971%2F1%2FGTTL_FINAL.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+education+authority" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-gttl_land-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-gttl_land_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://dera.ioe.ac.uk/8971/1/GTTL_FINAL.pdf">"A Guide to the Law for School Governors"</a> <span class="cs1-format">(PDF)</span>. Department for Children, Schools and Families. p.&#160;79<span class="reference-accessdate">. Retrieved <span class="nowrap">19 March</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Guide+to+the+Law+for+School+Governors&amp;rft.pages=79&amp;rft.pub=Department+for+Children%2C+Schools+and+Families&amp;rft_id=http%3A%2F%2Fdera.ioe.ac.uk%2F8971%2F1%2FGTTL_FINAL.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALocal+education+authority" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-bryne-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-bryne_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bryne_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Bryne, T., <i>Local Government in Britain</i>, (1994)</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Saint, A., <i>Politics and the people of London: the London County Council (1889-1965)</i>, (1989)</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Redcliffe-Maud &amp; Wood, B., <i>English Local Government Reformed</i>, (1974)</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Jones, B. et al., <i>Politics UK</i>, (2004)</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dcsf.gov.uk/localauthorities/index.cfm?action=authority">Department for Education and Skills</a> - LA Contact Details</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Local_education_authority&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20041013142537/http://www.dfes.gov.uk/learole/policypaper/">DfES: The Role of the Local Education Authority in School Education</a></li></ul>
+<p class="mw-empty-elt">
+</p>
+<div role="navigation" class="navbox" aria-labelledby="Local_government_services_in_the_United_Kingdom" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Local_government_services_in_the_United_Kingdom" title="Template:Local government services in the United Kingdom"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/w/index.php?title=Template_talk:Local_government_services_in_the_United_Kingdom&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Local government services in the United Kingdom (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Local_government_services_in_the_United_Kingdom&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Local_government_services_in_the_United_Kingdom" style="font-size:114%;margin:0 4em">Local government services in the United Kingdom</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Education</a></li>
+<li><a href="/wiki/Fire_authority" title="Fire authority">Fire</a></li>
+<li><a href="/wiki/Highway_authority" title="Highway authority">Highways</a></li>
+<li><a href="/w/index.php?title=Library_authority&amp;action=edit&amp;redlink=1" class="new" title="Library authority (page does not exist)">Libraries</a></li>
+<li><a href="/wiki/Local_planning_authority" title="Local planning authority">Planning</a></li>
+<li><a href="/wiki/Police_authority" title="Police authority">Police</a></li>
+<li><a href="/wiki/Social_care_in_the_United_Kingdom" title="Social care in the United Kingdom">Social care</a></li>
+<li><a href="/wiki/Passenger_transport_executive" title="Passenger transport executive">Transport</a></li>
+<li><a href="/wiki/Waste_collection_authority" title="Waste collection authority">Waste collection</a></li>
+<li><a href="/wiki/Waste_disposal_authority" title="Waste disposal authority">Waste disposal</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2235
+Cached time: 20180929134455
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.220 seconds
+Real time usage: 0.356 seconds
+Preprocessor visited node count: 1357/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 17121/2097152 bytes
+Template argument size: 1419/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 10610/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.085/10.000 seconds
+Lua memory usage: 2.22 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  291.441      1 -total
+ 33.66%   98.103     10 Template:Div_col
+ 30.50%   88.894      1 Template:Reflist
+ 25.53%   74.401      3 Template:Cite_web
+ 17.65%   51.452     10 Template:Column-width
+ 14.61%   42.568      1 Template:Expand_list
+ 13.02%   37.947      1 Template:Hatnote
+ 12.05%   35.106      2 Template:DMCA
+ 12.00%   34.985      1 Template:TDMCA
+ 11.07%   32.266      2 Template:Dated_maintenance_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1037558-0!canonical and timestamp 20180929134455 and revision id 841269949
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Local_education_authority&amp;oldid=841269949">https://en.wikipedia.org/w/index.php?title=Local_education_authority&amp;oldid=841269949</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Education_in_the_United_Kingdom" title="Category:Education in the United Kingdom">Education in the United Kingdom</a></li><li><a href="/wiki/Category:Local_government_services_in_the_United_Kingdom" title="Category:Local government services in the United Kingdom">Local government services in the United Kingdom</a></li><li><a href="/wiki/Category:Local_education_authorities" title="Category:Local education authorities">Local education authorities</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Incomplete_lists_from_February_2011" title="Category:Incomplete lists from February 2011">Incomplete lists from February 2011</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_February_2011" title="Category:Use dmy dates from February 2011">Use dmy dates from February 2011</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Local+education+authority" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Local+education+authority" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Local_education_authority" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Local_education_authority" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Local_education_authority">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Local_education_authority&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Local_education_authority&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Local_education_authority" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Local_education_authority" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Local_education_authority&amp;oldid=841269949" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Local_education_authority&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6664350" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Local_education_authority&amp;id=841269949" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Local+education+authority">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Local+education+authority&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Local_education_authority&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Local_education_authorities" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Awdurdod_Addysg_Lleol" title="Awdurdod Addysg Lleol – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6664350#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 14 May 2018, at 21:27<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Local_education_authority&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.220","walltime":"0.356","ppvisitednodes":{"value":1357,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":17121,"limit":2097152},"templateargumentsize":{"value":1419,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":10610,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  291.441      1 -total"," 33.66%   98.103     10 Template:Div_col"," 30.50%   88.894      1 Template:Reflist"," 25.53%   74.401      3 Template:Cite_web"," 17.65%   51.452     10 Template:Column-width"," 14.61%   42.568      1 Template:Expand_list"," 13.02%   37.947      1 Template:Hatnote"," 12.05%   35.106      2 Template:DMCA"," 12.00%   34.985      1 Template:TDMCA"," 11.07%   32.266      2 Template:Dated_maintenance_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.085","limit":"10.000"},"limitreport-memusage":{"value":2331921,"limit":52428800}},"cachereport":{"origin":"mw2235","timestamp":"20180929134455","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw2179"});});</script>
+	</body>
+</html>

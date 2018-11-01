@@ -1,0 +1,2255 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Evaluation measures (information retrieval) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Evaluation_measures_(information_retrieval)","wgTitle":"Evaluation measures (information retrieval)","wgCurRevisionId":856374880,"wgRevisionId":856374880,"wgArticleId":50716473,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from July 2016","Articles with permanently dead external links","Webarchive template wayback links","All articles with unsourced statements","Articles with unsourced statements from June 2015","Information retrieval","Information retrieval evaluation","Internet search engines"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Evaluation_measures_(information_retrieval)","wgRelevantArticleId":50716473,"wgRequestId":"W6@UxQrAADsAAGKZ2a4AAADA","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q25211005","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Evaluation_measures_(information_retrieval)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Evaluation_measures_information_retrieval rootpage-Evaluation_measures_information_retrieval skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Evaluation measures (information retrieval)</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Evaluation measures</b> for an <a href="/wiki/Information_retrieval_system" class="mw-redirect" title="Information retrieval system">information retrieval system</a> are used to assess how well the search results satisfied the user's query intent. Such metrics are often split into kinds: online metrics look at users' interactions with the search system, while offline metrics measure relevance, in other words how likely each result, or <a href="/wiki/Search_engine_results_page" title="Search engine results page">search engine results page</a> (SERP) page as a whole, is to meet the information needs of the user.
+</p><p>The mathematical symbols used in the formulas below mean:
+</p>
+<ul><li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle X\cap Y}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>X</mi>
+        <mo>&#x2229;<!-- ∩ --></mo>
+        <mi>Y</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle X\cap Y}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/42662a2f723ebac734e46526430305f58b0404be" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:6.336ex; height:2.176ex;" alt="X\cap Y"/></span> - <a href="/wiki/Intersection_(set_theory)" title="Intersection (set theory)">Intersection</a> - in this case, specifying the documents in <i>both</i> sets X and Y</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle |X|}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>X</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle |X|}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffa803ac0386dbd3c04054a71776b4edc435151c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:3.274ex; height:2.843ex;" alt="|X|"/></span> - <a href="/wiki/Cardinality" title="Cardinality">Cardinality</a> - in this case, the number of documents in set X</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \int }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x222B;<!-- ∫ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \int }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ca732e5519cd2210bd59f1ab281b4e8f5a6a4413" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:2.194ex; height:5.676ex;" alt="\int "/></span> - <a href="/wiki/Integral" title="Integral">Integral</a></li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \sum }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>&#x2211;<!-- ∑ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sum }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f1d4e06539576633987e902f402ed46728d573b6" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.338ex; width:3.355ex; height:3.843ex;" alt="\sum "/></span> - <a href="/wiki/Summation" title="Summation">Summation</a></li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \Delta }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \Delta }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/32769037c408874e1890f77554c65f39c523ebe2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.936ex; height:2.176ex;" alt="\Delta "/></span> - <a href="/wiki/Symmetric_difference" title="Symmetric difference">Symmetric difference</a></li></ul>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Online_metrics"><span class="tocnumber">1</span> <span class="toctext">Online metrics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Session_abandonment_rate"><span class="tocnumber">1.1</span> <span class="toctext">Session abandonment rate</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Click-through_rate"><span class="tocnumber">1.2</span> <span class="toctext">Click-through rate</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Session_success_rate"><span class="tocnumber">1.3</span> <span class="toctext">Session success rate</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Zero_result_rate"><span class="tocnumber">1.4</span> <span class="toctext">Zero result rate</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Offline_metrics"><span class="tocnumber">2</span> <span class="toctext">Offline metrics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Precision"><span class="tocnumber">2.1</span> <span class="toctext">Precision</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Recall"><span class="tocnumber">2.2</span> <span class="toctext">Recall</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Fall-out"><span class="tocnumber">2.3</span> <span class="toctext">Fall-out</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#F-score_/_F-measure"><span class="tocnumber">2.4</span> <span class="toctext">F-score / F-measure</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Average_precision"><span class="tocnumber">2.5</span> <span class="toctext">Average precision</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Precision_at_K"><span class="tocnumber">2.6</span> <span class="toctext">Precision at K</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#R-Precision"><span class="tocnumber">2.7</span> <span class="toctext">R-Precision</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Mean_average_precision"><span class="tocnumber">2.8</span> <span class="toctext">Mean average precision</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Discounted_cumulative_gain"><span class="tocnumber">2.9</span> <span class="toctext">Discounted cumulative gain</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Other_measures"><span class="tocnumber">2.10</span> <span class="toctext">Other measures</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Visualization"><span class="tocnumber">2.11</span> <span class="toctext">Visualization</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Non-metrics"><span class="tocnumber">3</span> <span class="toctext">Non-metrics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="#Top_queries_list"><span class="tocnumber">3.1</span> <span class="toctext">Top queries list</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#Non-relevance_metrics"><span class="tocnumber">4</span> <span class="toctext">Non-relevance metrics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Queries_per_time"><span class="tocnumber">4.1</span> <span class="toctext">Queries per time</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Online_metrics">Online metrics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit&amp;section=1" title="Edit section: Online metrics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Online metrics are generally created from data mined from search logs. The metrics are often used to determine the success of an <a href="/wiki/A/B_testing" title="A/B testing">A/B test</a>.
+</p>
+<h3><span class="mw-headline" id="Session_abandonment_rate">Session abandonment rate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit&amp;section=2" title="Edit section: Session abandonment rate">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Session abandonment rate is a ratio of search session which do not result in a click.
+</p>
+<h3><span class="mw-headline" id="Click-through_rate">Click-through rate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit&amp;section=3" title="Edit section: Click-through rate">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Click-through_rate" title="Click-through rate">Click-through rate</a> (CTR) is the ratio of users who click on a specific link to the number of total users who view a page, email, or advertisement. It is commonly used to measure the success of an <a href="/wiki/Online_advertising" title="Online advertising">online advertising</a> campaign for a particular website as well as the effectiveness of email campaigns.<sup id="cite_ref-AMA_1-0" class="reference"><a href="#cite_note-AMA-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Session_success_rate">Session success rate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit&amp;section=4" title="Edit section: Session success rate">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Session success rate measures the ratio of user sessions that lead to a success. Defining "success" is often dependent on context, but for search a successful result is often measured using <a href="/wiki/Dwell_time_(information_retrieval)" title="Dwell time (information retrieval)">dwell time</a> as a primary factor along with secondary user interaction, for instance, the user copying the result URL is considered a successful result, as is copy/pasting from the snippet.
+</p>
+<h3><span class="mw-headline" id="Zero_result_rate">Zero result rate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit&amp;section=5" title="Edit section: Zero result rate">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Zero result rate</i> (<i>ZRR</i>) is the ratio of SERPs which returned with zero results. The metric either indicates a <a href="/wiki/Precision_and_recall" title="Precision and recall">recall</a> issue, or that the information being searched for is not in the index.
+</p>
+<h2><span class="mw-headline" id="Offline_metrics">Offline metrics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit&amp;section=6" title="Edit section: Offline metrics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Offline metrics are generally created from relevance judgment sessions where the judges score the quality of the search results. Both binary (relevant/non-relevant) and multi-level (e.g., relevance from 0 to 5) scales can be used to score each document returned in response to a query. In practice, queries may be <a href="/wiki/Ill-posed" class="mw-redirect" title="Ill-posed">ill-posed</a>, and there may be different shades of relevance. For instance, there is ambiguity in the query "mars": the judge does not know if the user is searching for the planet <a href="/wiki/Mars" title="Mars">Mars</a>, the <a href="/wiki/Mars_(chocolate_bar)" title="Mars (chocolate bar)">Mars</a> chocolate bar, or the singer <a href="/wiki/Bruno_Mars" title="Bruno Mars">Bruno Mars</a>.
+</p>
+<h3><span class="mw-headline" id="Precision">Precision</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit&amp;section=7" title="Edit section: Precision">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Precision_and_recall" title="Precision and recall">Precision and recall</a></div>
+<p>Precision is the fraction of the documents retrieved that are <a href="/wiki/Relevance_(information_retrieval)" title="Relevance (information retrieval)">relevant</a> to the user's information need.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\mbox{precision}}={\frac {|\{{\mbox{relevant documents}}\}\cap \{{\mbox{retrieved documents}}\}|}{|\{{\mbox{retrieved documents}}\}|}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="false" scriptlevel="0">
+            <mtext>precision</mtext>
+          </mstyle>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+              <mo fence="false" stretchy="false">{</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="false" scriptlevel="0">
+                  <mtext>relevant documents</mtext>
+                </mstyle>
+              </mrow>
+              <mo fence="false" stretchy="false">}</mo>
+              <mo>&#x2229;<!-- ∩ --></mo>
+              <mo fence="false" stretchy="false">{</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="false" scriptlevel="0">
+                  <mtext>retrieved documents</mtext>
+                </mstyle>
+              </mrow>
+              <mo fence="false" stretchy="false">}</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+              <mo fence="false" stretchy="false">{</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="false" scriptlevel="0">
+                  <mtext>retrieved documents</mtext>
+                </mstyle>
+              </mrow>
+              <mo fence="false" stretchy="false">}</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\mbox{precision}}={\frac {|\{{\mbox{relevant documents}}\}\cap \{{\mbox{retrieved documents}}\}|}{|\{{\mbox{retrieved documents}}\}|}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/95eeb143dd5ded21c882eaa4530ec69739a3a218" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:61.481ex; height:6.509ex;" alt=" \mbox{precision}=\frac{|\{\mbox{relevant documents}\}\cap\{\mbox{retrieved documents}\}|}{|\{\mbox{retrieved documents}\}|} "/></span></dd></dl>
+<p>In <a href="/wiki/Binary_classification" title="Binary classification">binary classification</a>, precision is analogous to <a href="/wiki/Positive_predictive_value" class="mw-redirect" title="Positive predictive value">positive predictive value</a>. Precision takes all retrieved documents into account. It can also be evaluated at a given cut-off rank, considering only the topmost results returned by the system. This measure is called <i>precision at n</i> or <i>P@n</i>.
+</p><p>Note that the meaning and usage of "precision" in the field of information retrieval differs from the definition of <a href="/wiki/Accuracy_and_precision" title="Accuracy and precision">accuracy and precision</a> within other branches of science and <a href="/wiki/Statistics" title="Statistics">statistics</a>.
+</p>
+<h3><span class="mw-headline" id="Recall">Recall</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit&amp;section=8" title="Edit section: Recall">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Precision_and_recall" title="Precision and recall">Precision and recall</a></div>
+<p>Recall is the fraction of the documents that are relevant to the query that are successfully retrieved.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\mbox{recall}}={\frac {|\{{\mbox{relevant documents}}\}\cap \{{\mbox{retrieved documents}}\}|}{|\{{\mbox{relevant documents}}\}|}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="false" scriptlevel="0">
+            <mtext>recall</mtext>
+          </mstyle>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+              <mo fence="false" stretchy="false">{</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="false" scriptlevel="0">
+                  <mtext>relevant documents</mtext>
+                </mstyle>
+              </mrow>
+              <mo fence="false" stretchy="false">}</mo>
+              <mo>&#x2229;<!-- ∩ --></mo>
+              <mo fence="false" stretchy="false">{</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="false" scriptlevel="0">
+                  <mtext>retrieved documents</mtext>
+                </mstyle>
+              </mrow>
+              <mo fence="false" stretchy="false">}</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+              <mo fence="false" stretchy="false">{</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="false" scriptlevel="0">
+                  <mtext>relevant documents</mtext>
+                </mstyle>
+              </mrow>
+              <mo fence="false" stretchy="false">}</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\mbox{recall}}={\frac {|\{{\mbox{relevant documents}}\}\cap \{{\mbox{retrieved documents}}\}|}{|\{{\mbox{relevant documents}}\}|}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9e515b3488090271b8b8b998fe58ddecb3c08f1b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:57.98ex; height:6.509ex;" alt="\mbox{recall}=\frac{|\{\mbox{relevant documents}\}\cap\{\mbox{retrieved documents}\}|}{|\{\mbox{relevant documents}\}|} "/></span></dd></dl>
+<p>In binary classification, recall is often called <a href="/wiki/Sensitivity_and_specificity" title="Sensitivity and specificity">sensitivity</a>. So it can be looked at as <i>the probability that a relevant document is retrieved by the query</i>.
+</p><p>It is trivial to achieve recall of 100% by returning all documents in response to any query. Therefore, recall alone is not enough but one needs to measure the number of non-relevant documents also, for example by computing the precision.
+</p>
+<h3><span class="mw-headline" id="Fall-out">Fall-out</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit&amp;section=9" title="Edit section: Fall-out">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The proportion of non-relevant documents that are retrieved, out of all non-relevant documents available:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\mbox{fall-out}}={\frac {|\{{\mbox{non-relevant documents}}\}\cap \{{\mbox{retrieved documents}}\}|}{|\{{\mbox{non-relevant documents}}\}|}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="false" scriptlevel="0">
+            <mtext>fall-out</mtext>
+          </mstyle>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+              <mo fence="false" stretchy="false">{</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="false" scriptlevel="0">
+                  <mtext>non-relevant documents</mtext>
+                </mstyle>
+              </mrow>
+              <mo fence="false" stretchy="false">}</mo>
+              <mo>&#x2229;<!-- ∩ --></mo>
+              <mo fence="false" stretchy="false">{</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="false" scriptlevel="0">
+                  <mtext>retrieved documents</mtext>
+                </mstyle>
+              </mrow>
+              <mo fence="false" stretchy="false">}</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+              <mo fence="false" stretchy="false">{</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mstyle displaystyle="false" scriptlevel="0">
+                  <mtext>non-relevant documents</mtext>
+                </mstyle>
+              </mrow>
+              <mo fence="false" stretchy="false">}</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo stretchy="false">|</mo>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\mbox{fall-out}}={\frac {|\{{\mbox{non-relevant documents}}\}\cap \{{\mbox{retrieved documents}}\}|}{|\{{\mbox{non-relevant documents}}\}|}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/05d76d27132f3aad6c40d3c8f15015827605ceaf" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:64.372ex; height:6.509ex;" alt=" \mbox{fall-out}=\frac{|\{\mbox{non-relevant documents}\}\cap\{\mbox{retrieved documents}\}|}{|\{\mbox{non-relevant documents}\}|} "/></span></dd></dl>
+<p>In binary classification, fall-out is closely related to <a href="/wiki/Sensitivity_and_specificity" title="Sensitivity and specificity">specificity</a> and is equal to <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle (1-{\mbox{specificity}})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="false" scriptlevel="0">
+            <mtext>specificity</mtext>
+          </mstyle>
+        </mrow>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (1-{\mbox{specificity}})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9d449910eb56048b6f97409d041b1efc27054fbf" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:15.903ex; height:2.843ex;" alt="(1-\mbox{specificity})"/></span>. It can be looked at as <i>the probability that a non-relevant document is retrieved by the query</i>.
+</p><p>It is trivial to achieve fall-out of 0% by returning zero documents in response to any query.
+</p>
+<h3><span id="F-score_.2F_F-measure"></span><span class="mw-headline" id="F-score_/_F-measure">F-score / F-measure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit&amp;section=10" title="Edit section: F-score / F-measure">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/F-score" class="mw-redirect" title="F-score">F-score</a></div>
+<p>The weighted <a href="/wiki/Harmonic_mean" title="Harmonic mean">harmonic mean</a> of precision and recall, the traditional F-measure or balanced F-score is:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle F={\frac {2\cdot \mathrm {precision} \cdot \mathrm {recall} }{(\mathrm {precision} +\mathrm {recall} )}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>F</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mn>2</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">p</mi>
+                <mi mathvariant="normal">r</mi>
+                <mi mathvariant="normal">e</mi>
+                <mi mathvariant="normal">c</mi>
+                <mi mathvariant="normal">i</mi>
+                <mi mathvariant="normal">s</mi>
+                <mi mathvariant="normal">i</mi>
+                <mi mathvariant="normal">o</mi>
+                <mi mathvariant="normal">n</mi>
+              </mrow>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">r</mi>
+                <mi mathvariant="normal">e</mi>
+                <mi mathvariant="normal">c</mi>
+                <mi mathvariant="normal">a</mi>
+                <mi mathvariant="normal">l</mi>
+                <mi mathvariant="normal">l</mi>
+              </mrow>
+            </mrow>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">p</mi>
+                <mi mathvariant="normal">r</mi>
+                <mi mathvariant="normal">e</mi>
+                <mi mathvariant="normal">c</mi>
+                <mi mathvariant="normal">i</mi>
+                <mi mathvariant="normal">s</mi>
+                <mi mathvariant="normal">i</mi>
+                <mi mathvariant="normal">o</mi>
+                <mi mathvariant="normal">n</mi>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">r</mi>
+                <mi mathvariant="normal">e</mi>
+                <mi mathvariant="normal">c</mi>
+                <mi mathvariant="normal">a</mi>
+                <mi mathvariant="normal">l</mi>
+                <mi mathvariant="normal">l</mi>
+              </mrow>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F={\frac {2\cdot \mathrm {precision} \cdot \mathrm {recall} }{(\mathrm {precision} +\mathrm {recall} )}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/10003aa2f2213d76aa2910de65074d6410af08dc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:24.691ex; height:6.176ex;" alt="F={\frac  {2\cdot {\mathrm  {precision}}\cdot {\mathrm  {recall}}}{({\mathrm  {precision}}+{\mathrm  {recall}})}}"/></span></dd></dl>
+<p>This is also known as the <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle F_{1}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>F</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F_{1}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/100c7fbf174fe8b06eacc2a6b0bb2e1badd1c7ce" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.549ex; height:2.509ex;" alt="F_{1}"/></span> measure, because recall and precision are evenly weighted.
+</p><p>The general formula for non-negative real <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \beta }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03B2;<!-- β --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \beta }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7ed48a5e36207156fb792fa79d29925d2f7901e8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.332ex; height:2.509ex;" alt="\beta "/></span> is:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle F_{\beta }={\frac {(1+\beta ^{2})\cdot (\mathrm {precision} \cdot \mathrm {recall} )}{(\beta ^{2}\cdot \mathrm {precision} +\mathrm {recall} )}}\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>F</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03B2;<!-- β --></mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <mn>1</mn>
+              <mo>+</mo>
+              <msup>
+                <mi>&#x03B2;<!-- β --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mo stretchy="false">)</mo>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mo stretchy="false">(</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">p</mi>
+                <mi mathvariant="normal">r</mi>
+                <mi mathvariant="normal">e</mi>
+                <mi mathvariant="normal">c</mi>
+                <mi mathvariant="normal">i</mi>
+                <mi mathvariant="normal">s</mi>
+                <mi mathvariant="normal">i</mi>
+                <mi mathvariant="normal">o</mi>
+                <mi mathvariant="normal">n</mi>
+              </mrow>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">r</mi>
+                <mi mathvariant="normal">e</mi>
+                <mi mathvariant="normal">c</mi>
+                <mi mathvariant="normal">a</mi>
+                <mi mathvariant="normal">l</mi>
+                <mi mathvariant="normal">l</mi>
+              </mrow>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <msup>
+                <mi>&#x03B2;<!-- β --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">p</mi>
+                <mi mathvariant="normal">r</mi>
+                <mi mathvariant="normal">e</mi>
+                <mi mathvariant="normal">c</mi>
+                <mi mathvariant="normal">i</mi>
+                <mi mathvariant="normal">s</mi>
+                <mi mathvariant="normal">i</mi>
+                <mi mathvariant="normal">o</mi>
+                <mi mathvariant="normal">n</mi>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">r</mi>
+                <mi mathvariant="normal">e</mi>
+                <mi mathvariant="normal">c</mi>
+                <mi mathvariant="normal">a</mi>
+                <mi mathvariant="normal">l</mi>
+                <mi mathvariant="normal">l</mi>
+              </mrow>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F_{\beta }={\frac {(1+\beta ^{2})\cdot (\mathrm {precision} \cdot \mathrm {recall} )}{(\beta ^{2}\cdot \mathrm {precision} +\mathrm {recall} )}}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ef5fac27bb45466ea16ce81d602d6f0e52dd5ed3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.671ex; width:34.728ex; height:6.676ex;" alt="F_\beta = \frac{(1 + \beta^2) \cdot (\mathrm{precision} \cdot \mathrm{recall})}{(\beta^2 \cdot \mathrm{precision} + \mathrm{recall})}\,"/></span></dd></dl>
+<p>Two other commonly used F measures are the <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle F_{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>F</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F_{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0fd17e0779153d765b40ebef91533489b87b2e37" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.549ex; height:2.509ex;" alt="F_{2}"/></span> measure, which weights recall twice as much as precision, and the <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle F_{0.5}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>F</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0.5</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F_{0.5}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f9709537931fdd8af9c100ef8fc9ef1caa0efcd7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.828ex; height:2.509ex;" alt="F_{0.5}"/></span> measure, which weights precision twice as much as recall.
+</p><p>The F-measure was derived by van Rijsbergen (1979) so that <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle F_{\beta }}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>F</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03B2;<!-- β --></mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F_{\beta }}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eb39f5958eb83bc3c28cd8b1a5397d3bb14fecdf" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.669ex; height:2.843ex;" alt="F_{\beta }"/></span> "measures the effectiveness of retrieval with respect to a user who attaches <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \beta }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03B2;<!-- β --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \beta }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7ed48a5e36207156fb792fa79d29925d2f7901e8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.332ex; height:2.509ex;" alt="\beta "/></span> times as much importance to recall as precision".  It is based on van Rijsbergen's effectiveness measure <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle E=1-{\frac {1}{{\frac {\alpha }{P}}+{\frac {1-\alpha }{R}}}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>E</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                  <mi>&#x03B1;<!-- α --></mi>
+                  <mi>P</mi>
+                </mfrac>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                  <mrow>
+                    <mn>1</mn>
+                    <mo>&#x2212;<!-- − --></mo>
+                    <mi>&#x03B1;<!-- α --></mi>
+                  </mrow>
+                  <mi>R</mi>
+                </mfrac>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle E=1-{\frac {1}{{\frac {\alpha }{P}}+{\frac {1-\alpha }{R}}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b8a4e7d6c34935cd2e07c81f44cc0136b9908924" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.671ex; width:18.612ex; height:7.009ex;" alt="E=1-{\frac {1}{{\frac {\alpha }{P}}+{\frac {1-\alpha }{R}}}}"/></span>.  Their relationship is:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle F_{\beta }=1-E}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>F</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03B2;<!-- β --></mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>E</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F_{\beta }=1-E}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/588a56674a39e59ba281d71e792a2a702326ecec" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:11.546ex; height:2.843ex;" alt="F_{\beta }=1-E"/></span> where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \alpha ={\frac {1}{1+\beta ^{2}}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03B1;<!-- α --></mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mrow>
+              <mn>1</mn>
+              <mo>+</mo>
+              <msup>
+                <mi>&#x03B2;<!-- β --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \alpha ={\frac {1}{1+\beta ^{2}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/db630a6a3c5f1561bd101535d7cba0512de48b0f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:11.816ex; height:5.843ex;" alt="\alpha ={\frac {1}{1+\beta ^{2}}}"/></span></dd></dl>
+<p>F-measure can be a better single metric when compared to precision and recall; both precision and recall give different information that can complement each other when combined. If one of them excels more than the other, F-measure will reflect it.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2015)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h3><span class="mw-headline" id="Average_precision">Average precision</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit&amp;section=11" title="Edit section: Average precision">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Precision and recall are single-value metrics based on the whole list of documents returned by the system. For systems that return a ranked sequence of documents, it is desirable to also consider the order in which the returned documents are presented. By computing a precision and recall at every position in the ranked sequence of documents, one can plot a precision-recall curve, plotting precision <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle p(r)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+        <mo stretchy="false">(</mo>
+        <mi>r</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p(r)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/62a0b6c3f80917fa2e46f00b9bcf4a71b37bbec3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; margin-left: -0.089ex; width:4.117ex; height:2.843ex;" alt="p(r)"/></span> as a function of recall <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle r}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>r</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0d1ecb613aa2984f0576f70f86650b7c2a132538" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.049ex; height:1.676ex;" alt="r"/></span>. Average precision computes the average value of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle p(r)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+        <mo stretchy="false">(</mo>
+        <mi>r</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p(r)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/62a0b6c3f80917fa2e46f00b9bcf4a71b37bbec3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; margin-left: -0.089ex; width:4.117ex; height:2.843ex;" alt="p(r)"/></span> over the interval from <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle r=0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>r</mi>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/894a83e863728b4ee2e12f3a999a09f5f2bf1c89" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:5.31ex; height:2.176ex;" alt="r=0"/></span> to <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle r=1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>r</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r=1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2e6584ba3b7843583b757896c2f0686efc0489e5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:5.31ex; height:2.176ex;" alt="r=1"/></span>:<sup id="cite_ref-zhu2004_2-0" class="reference"><a href="#cite_note-zhu2004-2">&#91;2&#93;</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \operatorname {AveP} =\int _{0}^{1}p(r)dr}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>AveP</mi>
+        <mo>=</mo>
+        <msubsup>
+          <mo>&#x222B;<!-- ∫ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msubsup>
+        <mi>p</mi>
+        <mo stretchy="false">(</mo>
+        <mi>r</mi>
+        <mo stretchy="false">)</mo>
+        <mi>d</mi>
+        <mi>r</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \operatorname {AveP} =\int _{0}^{1}p(r)dr}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1cff0cc58e4629105e6066df9e07d567a1784d44" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:18.882ex; height:6.176ex;" alt="\operatorname{AveP} = \int_0^1 p(r)dr"/></span></dd></dl>
+<p>That is the area under the precision-recall curve.
+This integral is in practice replaced with a finite sum over every position in the ranked sequence of documents:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \operatorname {AveP} =\sum _{k=1}^{n}P(k)\Delta r(k)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>AveP</mi>
+        <mo>=</mo>
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>k</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </munderover>
+        <mi>P</mi>
+        <mo stretchy="false">(</mo>
+        <mi>k</mi>
+        <mo stretchy="false">)</mo>
+        <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+        <mi>r</mi>
+        <mo stretchy="false">(</mo>
+        <mi>k</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \operatorname {AveP} =\sum _{k=1}^{n}P(k)\Delta r(k)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cc693ba3c12eb8968ce6ebec3c9ede84e14bd0e3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:23.197ex; height:6.843ex;" alt="\operatorname{AveP} = \sum_{k=1}^n P(k) \Delta r(k)"/></span></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle k}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>k</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle k}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3c9a2c7b599b37105512c5d570edc034056dd40" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.211ex; height:2.176ex;" alt="k"/></span> is the rank in the sequence of retrieved documents, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle n}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>n</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;" alt="n"/></span> is the number of retrieved documents, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle P(k)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo stretchy="false">(</mo>
+        <mi>k</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P(k)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b41614fb84549b21f2c7f2793bbd8a87a2105027" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:4.766ex; height:2.843ex;" alt="P(k)"/></span> is the precision at cut-off <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle k}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>k</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle k}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3c9a2c7b599b37105512c5d570edc034056dd40" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.211ex; height:2.176ex;" alt="k"/></span> in the list, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \Delta r(k)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">&#x0394;<!-- Δ --></mi>
+        <mi>r</mi>
+        <mo stretchy="false">(</mo>
+        <mi>k</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \Delta r(k)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6e1d314ac3ed8c89ae2083c35ea89b65c0780e7a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:6.005ex; height:2.843ex;" alt="\Delta r(k)"/></span> is the change in recall from items <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle k-1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>k</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle k-1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/21363ebd7038c93aae93127e7d910fc1b2e2c745" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:5.214ex; height:2.343ex;" alt="k-1"/></span> to <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle k}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>k</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle k}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3c9a2c7b599b37105512c5d570edc034056dd40" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.211ex; height:2.176ex;" alt="k"/></span>.<sup id="cite_ref-zhu2004_2-1" class="reference"><a href="#cite_note-zhu2004-2">&#91;2&#93;</a></sup>
+</p><p>This finite sum is equivalent to:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \operatorname {AveP} ={\frac {\sum _{k=1}^{n}(P(k)\times \operatorname {rel} (k))}{\mbox{number of relevant documents}}}\!}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>AveP</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <munderover>
+                <mo>&#x2211;<!-- ∑ --></mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>k</mi>
+                  <mo>=</mo>
+                  <mn>1</mn>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>n</mi>
+                </mrow>
+              </munderover>
+              <mo stretchy="false">(</mo>
+              <mi>P</mi>
+              <mo stretchy="false">(</mo>
+              <mi>k</mi>
+              <mo stretchy="false">)</mo>
+              <mo>&#x00D7;<!-- × --></mo>
+              <mi>rel</mi>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mo stretchy="false">(</mo>
+              <mi>k</mi>
+              <mo stretchy="false">)</mo>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mstyle displaystyle="false" scriptlevel="0">
+              <mtext>number of relevant documents</mtext>
+            </mstyle>
+          </mfrac>
+        </mrow>
+        <mspace width="negativethinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \operatorname {AveP} ={\frac {\sum _{k=1}^{n}(P(k)\times \operatorname {rel} (k))}{\mbox{number of relevant documents}}}\!}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/64788ba190d585f3837f9d10fe24f3b9689dba4b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; margin-right: -0.108ex; width:39.687ex; height:6.009ex;" alt=" \operatorname{AveP} = \frac{\sum_{k=1}^n (P(k) \times \operatorname{rel}(k))}{\mbox{number of relevant documents}} \!"/></span></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \operatorname {rel} (k)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>rel</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>k</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \operatorname {rel} (k)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b44cbf8cf005a53f5c828094fd5583c351ae8642" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:5.611ex; height:2.843ex;" alt="\operatorname{rel}(k)"/></span> is an indicator function equaling 1 if the item at rank <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle k}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>k</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle k}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3c9a2c7b599b37105512c5d570edc034056dd40" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.211ex; height:2.176ex;" alt="k"/></span> is a relevant document, zero otherwise.<sup id="cite_ref-Turpin2006_3-0" class="reference"><a href="#cite_note-Turpin2006-3">&#91;3&#93;</a></sup> Note that the average is over all relevant documents and the relevant documents not retrieved get a precision score of zero.
+</p><p>Some authors choose to interpolate the <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle p(r)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+        <mo stretchy="false">(</mo>
+        <mi>r</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p(r)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/62a0b6c3f80917fa2e46f00b9bcf4a71b37bbec3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; margin-left: -0.089ex; width:4.117ex; height:2.843ex;" alt="p(r)"/></span> function to reduce the impact of "wiggles" in the curve.<sup id="cite_ref-voc2010_4-0" class="reference"><a href="#cite_note-voc2010-4">&#91;4&#93;</a></sup><sup id="cite_ref-nlpbook_5-0" class="reference"><a href="#cite_note-nlpbook-5">&#91;5&#93;</a></sup> For example, the PASCAL Visual Object Classes challenge (a benchmark for computer vision object detection) computes average precision by averaging the precision over a set of evenly spaced recall levels {0, 0.1, 0.2, ... 1.0}:<sup id="cite_ref-voc2010_4-1" class="reference"><a href="#cite_note-voc2010-4">&#91;4&#93;</a></sup><sup id="cite_ref-nlpbook_5-1" class="reference"><a href="#cite_note-nlpbook-5">&#91;5&#93;</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \operatorname {AveP} ={\frac {1}{11}}\sum _{r\in \{0,0.1,\ldots ,1.0\}}p_{\operatorname {interp} }(r)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>AveP</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mn>11</mn>
+          </mfrac>
+        </mrow>
+        <munder>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>r</mi>
+            <mo>&#x2208;<!-- ∈ --></mo>
+            <mo fence="false" stretchy="false">{</mo>
+            <mn>0</mn>
+            <mo>,</mo>
+            <mn>0.1</mn>
+            <mo>,</mo>
+            <mo>&#x2026;<!-- … --></mo>
+            <mo>,</mo>
+            <mn>1.0</mn>
+            <mo fence="false" stretchy="false">}</mo>
+          </mrow>
+        </munder>
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>interp</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>r</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \operatorname {AveP} ={\frac {1}{11}}\sum _{r\in \{0,0.1,\ldots ,1.0\}}p_{\operatorname {interp} }(r)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eac451b6fddf367a1b6437682247e0bcc62b9175" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.505ex; width:32.983ex; height:6.843ex;" alt="\operatorname{AveP} = \frac{1}{11} \sum_{r \in \{0, 0.1, \ldots, 1.0\}} p_{\operatorname{interp}}(r)"/></span></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle p_{\operatorname {interp} }(r)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>interp</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>r</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p_{\operatorname {interp} }(r)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/aaee6ad75cdbf6b951ad7b81218365daf81a8836" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; margin-left: -0.089ex; width:8.649ex; height:3.009ex;" alt="p_{\operatorname{interp}}(r)"/></span> is an interpolated precision that takes the maximum precision over all recalls greater than <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle r}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>r</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0d1ecb613aa2984f0576f70f86650b7c2a132538" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.049ex; height:1.676ex;" alt="r"/></span>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle p_{\operatorname {interp} }(r)=\operatorname {max} _{{\tilde {r}}:{\tilde {r}}\geq r}p({\tilde {r}})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>p</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>interp</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>r</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <msub>
+          <mi>max</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mrow class="MJX-TeXAtom-ORD">
+              <mrow class="MJX-TeXAtom-ORD">
+                <mover>
+                  <mi>r</mi>
+                  <mo stretchy="false">&#x007E;<!-- ~ --></mo>
+                </mover>
+              </mrow>
+            </mrow>
+            <mo>:</mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mrow class="MJX-TeXAtom-ORD">
+                <mover>
+                  <mi>r</mi>
+                  <mo stretchy="false">&#x007E;<!-- ~ --></mo>
+                </mover>
+              </mrow>
+            </mrow>
+            <mo>&#x2265;<!-- ≥ --></mo>
+            <mi>r</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mi>p</mi>
+        <mo stretchy="false">(</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>r</mi>
+              <mo stretchy="false">&#x007E;<!-- ~ --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p_{\operatorname {interp} }(r)=\operatorname {max} _{{\tilde {r}}:{\tilde {r}}\geq r}p({\tilde {r}})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/84dfd3b4ca8c7bd7388bb2f929c643b981510fcd" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.171ex; margin-left: -0.089ex; width:25.342ex; height:3.176ex;" alt="p_{\operatorname{interp}}(r) = \operatorname{max}_{\tilde{r}:\tilde{r} \geq r} p(\tilde{r})"/></span>.</dd></dl>
+<p>An alternative is to derive an analytical <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle p(r)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+        <mo stretchy="false">(</mo>
+        <mi>r</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p(r)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/62a0b6c3f80917fa2e46f00b9bcf4a71b37bbec3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; margin-left: -0.089ex; width:4.117ex; height:2.843ex;" alt="p(r)"/></span> function by assuming a particular parametric distribution for the underlying decision values. For example, a <i>binormal precision-recall curve</i> can be obtained by assuming decision values in both classes to follow a Gaussian distribution.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Precision_at_K">Precision at K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit&amp;section=12" title="Edit section: Precision at K">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>For modern (web-scale) information retrieval, recall is no longer a meaningful metric, as many queries have thousands of relevant documents, and few users will be interested in reading all of them. <a href="/wiki/Precision_and_recall#Precision" title="Precision and recall">Precision</a> at k documents (P@k) is still a useful metric (e.g., P@10 or "Precision at 10" corresponds to the number of relevant results on the first search results page), but fails to take into account the positions of the relevant documents among the top k.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2015)">citation needed</span></a></i>&#93;</sup>  Another shortcoming is that on a query with fewer relevant results than k, even a perfect system will have a score less than 1.<sup id="cite_ref-stanford_7-0" class="reference"><a href="#cite_note-stanford-7">&#91;7&#93;</a></sup>  It is easier to score manually since only the top k results need to be examined to determine if they are relevant or not.
+</p>
+<h3><span class="mw-headline" id="R-Precision">R-Precision</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit&amp;section=13" title="Edit section: R-Precision">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>R-precision requires knowing all documents that are relevant to a query.  The number of relevant documents, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle R}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>R</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle R}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b0bfb3769bf24d80e15374dc37b0441e2616e33" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.764ex; height:2.176ex;" alt="R"/></span>, is used as the cutoff for calculation, and this varies from query to query.  For example, if there are 15 documents relevant to "red" in a corpus (R=15), R-precision for "red" looks at the top 15 documents returned, counts the number that are relevant <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle r}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>r</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0d1ecb613aa2984f0576f70f86650b7c2a132538" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.049ex; height:1.676ex;" alt="r"/></span> turns that into a relevancy fraction: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle r/R=r/15}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>r</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mi>R</mi>
+        <mo>=</mo>
+        <mi>r</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mn>15</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r/R=r/15}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5f27f7b2b20b01dcc73da1b8ee3cc40ff53ff21c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:11.61ex; height:2.843ex;" alt="r/R=r/15"/></span>.<sup id="cite_ref-trec15_8-0" class="reference"><a href="#cite_note-trec15-8">&#91;8&#93;</a></sup>
+</p><p>Precision is equal to recall at the <b>R</b>-th position.<sup id="cite_ref-stanford_7-1" class="reference"><a href="#cite_note-stanford-7">&#91;7&#93;</a></sup>
+</p><p>Empirically, this measure is often highly correlated to mean average precision.<sup id="cite_ref-stanford_7-2" class="reference"><a href="#cite_note-stanford-7">&#91;7&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Mean_average_precision">Mean average precision</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit&amp;section=14" title="Edit section: Mean average precision">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Mean average precision for a set of queries is the mean of the average precision scores for each query.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \operatorname {MAP} ={\frac {\sum _{q=1}^{Q}\operatorname {AveP(q)} }{Q}}\!}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>MAP</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <munderover>
+                <mo>&#x2211;<!-- ∑ --></mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>q</mi>
+                  <mo>=</mo>
+                  <mn>1</mn>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>Q</mi>
+                </mrow>
+              </munderover>
+              <mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+                <mi mathvariant="normal">A</mi>
+                <mi mathvariant="normal">v</mi>
+                <mi mathvariant="normal">e</mi>
+                <mi mathvariant="normal">P</mi>
+                <mo stretchy="false">(</mo>
+                <mi mathvariant="normal">q</mi>
+                <mo stretchy="false">)</mo>
+              </mrow>
+            </mrow>
+            <mi>Q</mi>
+          </mfrac>
+        </mrow>
+        <mspace width="negativethinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \operatorname {MAP} ={\frac {\sum _{q=1}^{Q}\operatorname {AveP(q)} }{Q}}\!}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/decf93706ec7c8632fdfabe41470962101f9bcd8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; margin-right: -0.108ex; width:23.682ex; height:7.176ex;" alt=" \operatorname{MAP} = \frac{\sum_{q=1}^Q \operatorname{AveP(q)}}{Q} \!"/></span></dd></dl>
+<p>where <i>Q</i> is the number of queries.
+</p>
+<h3><span class="mw-headline" id="Discounted_cumulative_gain">Discounted cumulative gain</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit&amp;section=15" title="Edit section: Discounted cumulative gain">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Discounted_cumulative_gain" title="Discounted cumulative gain">Discounted cumulative gain</a></div>
+<table class="wikitable" width="35%" style="float:right;font-size:98%; margin-left:0.5em; padding:0.25em; background:#f1f5fc;">
+<caption>Terminology and derivations<br />from a <a href="/wiki/Confusion_matrix" title="Confusion matrix">confusion matrix</a>
+</caption>
+<tbody><tr style="vertical-align:top;">
+<td>
+<dl><dt>condition positive (P)</dt>
+<dd>the number of real positive cases in the data</dd>
+<dt>condition negative (N)</dt>
+<dd>the number of real negative cases in the data</dd></dl>
+<hr />
+<dl><dt>true positive (TP)</dt>
+<dd>eqv. with hit</dd>
+<dt>true negative (TN)</dt>
+<dd>eqv. with correct rejection</dd>
+<dt>false positive (FP)</dt>
+<dd>eqv. with <a href="/wiki/False_alarm" title="False alarm">false alarm</a>, <a href="/wiki/Type_I_error" class="mw-redirect" title="Type I error">Type I error</a></dd>
+<dt>false negative (FN)</dt>
+<dd>eqv. with miss, <a href="/wiki/Type_II_error" class="mw-redirect" title="Type II error">Type II error</a></dd></dl>
+<hr />
+<dl><dt><a href="/wiki/Sensitivity_(test)" class="mw-redirect" title="Sensitivity (test)">sensitivity</a>, <a href="/wiki/Information_retrieval#Recall" title="Information retrieval">recall</a>, <a href="/wiki/Hit_rate" title="Hit rate">hit rate</a>, or <a href="/wiki/Sensitivity_(test)" class="mw-redirect" title="Sensitivity (test)">true positive rate (TPR)</a></dt>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {TPR} ={\frac {\mathrm {TP} }{P}}={\frac {\mathrm {TP} }{\mathrm {TP} +\mathrm {FN} }}=1-\mathrm {FNR} }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">T</mi>
+          <mi mathvariant="normal">P</mi>
+          <mi mathvariant="normal">R</mi>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">T</mi>
+              <mi mathvariant="normal">P</mi>
+            </mrow>
+            <mi>P</mi>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">T</mi>
+              <mi mathvariant="normal">P</mi>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">P</mi>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">F</mi>
+                <mi mathvariant="normal">N</mi>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">F</mi>
+          <mi mathvariant="normal">N</mi>
+          <mi mathvariant="normal">R</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {TPR} ={\frac {\mathrm {TP} }{P}}={\frac {\mathrm {TP} }{\mathrm {TP} +\mathrm {FN} }}=1-\mathrm {FNR} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/73004d7856898ebe0bb1d1acd9e87b4be39b91a2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:37.537ex; height:5.343ex;" alt="{\displaystyle \mathrm {TPR} ={\frac {\mathrm {TP} }{P}}={\frac {\mathrm {TP} }{\mathrm {TP} +\mathrm {FN} }}=1-\mathrm {FNR} }"/></span></dd>
+<dt><a href="/wiki/Specificity_(tests)" class="mw-redirect" title="Specificity (tests)">specificity</a>, <a href="/wiki/Specificity_(tests)" class="mw-redirect" title="Specificity (tests)">selectivity</a> or <a href="/wiki/Specificity_(tests)" class="mw-redirect" title="Specificity (tests)">true negative rate (TNR)</a></dt>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {TNR} ={\frac {\mathrm {TN} }{N}}={\frac {\mathrm {TN} }{\mathrm {TN} +\mathrm {FP} }}=1-\mathrm {FPR} }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">T</mi>
+          <mi mathvariant="normal">N</mi>
+          <mi mathvariant="normal">R</mi>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">T</mi>
+              <mi mathvariant="normal">N</mi>
+            </mrow>
+            <mi>N</mi>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">T</mi>
+              <mi mathvariant="normal">N</mi>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">N</mi>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">F</mi>
+                <mi mathvariant="normal">P</mi>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">F</mi>
+          <mi mathvariant="normal">P</mi>
+          <mi mathvariant="normal">R</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {TNR} ={\frac {\mathrm {TN} }{N}}={\frac {\mathrm {TN} }{\mathrm {TN} +\mathrm {FP} }}=1-\mathrm {FPR} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/67c35d27c765b463c514f44b0c654b30f4a1afb0" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:37.697ex; height:5.343ex;" alt="{\displaystyle \mathrm {TNR} ={\frac {\mathrm {TN} }{N}}={\frac {\mathrm {TN} }{\mathrm {TN} +\mathrm {FP} }}=1-\mathrm {FPR} }"/></span></dd>
+<dt><a href="/wiki/Information_retrieval#Precision" title="Information retrieval">precision</a> or <a href="/wiki/Positive_predictive_value" class="mw-redirect" title="Positive predictive value">positive predictive value</a> (PPV)</dt>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {PPV} ={\frac {\mathrm {TP} }{\mathrm {TP} +\mathrm {FP} }}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">P</mi>
+          <mi mathvariant="normal">P</mi>
+          <mi mathvariant="normal">V</mi>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">T</mi>
+              <mi mathvariant="normal">P</mi>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">P</mi>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">F</mi>
+                <mi mathvariant="normal">P</mi>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {PPV} ={\frac {\mathrm {TP} }{\mathrm {TP} +\mathrm {FP} }}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/182739deae177ac621efeb81391559f21e48300d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:18.045ex; height:5.343ex;" alt="{\displaystyle \mathrm {PPV} ={\frac {\mathrm {TP} }{\mathrm {TP} +\mathrm {FP} }}}"/></span></dd>
+<dt><a href="/wiki/Negative_predictive_value" class="mw-redirect" title="Negative predictive value">negative predictive value</a> (NPV)</dt>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {NPV} ={\frac {\mathrm {TN} }{\mathrm {TN} +\mathrm {FN} }}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">N</mi>
+          <mi mathvariant="normal">P</mi>
+          <mi mathvariant="normal">V</mi>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">T</mi>
+              <mi mathvariant="normal">N</mi>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">N</mi>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">F</mi>
+                <mi mathvariant="normal">N</mi>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {NPV} ={\frac {\mathrm {TN} }{\mathrm {TN} +\mathrm {FN} }}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3ab3809b1d1c9de032b61bb6d255c18a7a2de369" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:18.526ex; height:5.343ex;" alt="{\displaystyle \mathrm {NPV} ={\frac {\mathrm {TN} }{\mathrm {TN} +\mathrm {FN} }}}"/></span></dd>
+<dt>miss rate or <a href="/wiki/Type_I_and_type_II_errors#False_positive_and_false_negative_rates" title="Type I and type II errors">false negative rate</a> (FNR)</dt>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {FNR} ={\frac {\mathrm {FN} }{P}}={\frac {\mathrm {FN} }{\mathrm {FN} +\mathrm {TP} }}=1-\mathrm {TPR} }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">F</mi>
+          <mi mathvariant="normal">N</mi>
+          <mi mathvariant="normal">R</mi>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">F</mi>
+              <mi mathvariant="normal">N</mi>
+            </mrow>
+            <mi>P</mi>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">F</mi>
+              <mi mathvariant="normal">N</mi>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">F</mi>
+                <mi mathvariant="normal">N</mi>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">P</mi>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">T</mi>
+          <mi mathvariant="normal">P</mi>
+          <mi mathvariant="normal">R</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {FNR} ={\frac {\mathrm {FN} }{P}}={\frac {\mathrm {FN} }{\mathrm {FN} +\mathrm {TP} }}=1-\mathrm {TPR} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e6e0dccc1d8d0c5ca66a5584b13014ae0d55994d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:37.537ex; height:5.343ex;" alt="{\displaystyle \mathrm {FNR} ={\frac {\mathrm {FN} }{P}}={\frac {\mathrm {FN} }{\mathrm {FN} +\mathrm {TP} }}=1-\mathrm {TPR} }"/></span></dd>
+<dt><a href="/wiki/Information_retrieval#Fall-out" title="Information retrieval">fall-out</a> or <a href="/wiki/Information_retrieval#Fall-out" title="Information retrieval">false positive rate (FPR)</a></dt>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {FPR} ={\frac {\mathrm {FP} }{N}}={\frac {\mathrm {FP} }{\mathrm {FP} +\mathrm {TN} }}=1-\mathrm {TNR} }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">F</mi>
+          <mi mathvariant="normal">P</mi>
+          <mi mathvariant="normal">R</mi>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">F</mi>
+              <mi mathvariant="normal">P</mi>
+            </mrow>
+            <mi>N</mi>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">F</mi>
+              <mi mathvariant="normal">P</mi>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">F</mi>
+                <mi mathvariant="normal">P</mi>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">N</mi>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">T</mi>
+          <mi mathvariant="normal">N</mi>
+          <mi mathvariant="normal">R</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {FPR} ={\frac {\mathrm {FP} }{N}}={\frac {\mathrm {FP} }{\mathrm {FP} +\mathrm {TN} }}=1-\mathrm {TNR} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5664e51f3eee1ae83210d6d2fcf3db8809301bf2" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:37.376ex; height:5.343ex;" alt="{\displaystyle \mathrm {FPR} ={\frac {\mathrm {FP} }{N}}={\frac {\mathrm {FP} }{\mathrm {FP} +\mathrm {TN} }}=1-\mathrm {TNR} }"/></span></dd>
+<dt><a href="/wiki/False_discovery_rate" title="False discovery rate">false discovery rate</a> (FDR)</dt>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {FDR} ={\frac {\mathrm {FP} }{\mathrm {FP} +\mathrm {TP} }}=1-\mathrm {PPV} }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">F</mi>
+          <mi mathvariant="normal">D</mi>
+          <mi mathvariant="normal">R</mi>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">F</mi>
+              <mi mathvariant="normal">P</mi>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">F</mi>
+                <mi mathvariant="normal">P</mi>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">P</mi>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">P</mi>
+          <mi mathvariant="normal">P</mi>
+          <mi mathvariant="normal">V</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {FDR} ={\frac {\mathrm {FP} }{\mathrm {FP} +\mathrm {TP} }}=1-\mathrm {PPV} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bbf60523d63befc2537b39d4a0316d3945efe341" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:30.151ex; height:5.343ex;" alt="{\displaystyle \mathrm {FDR} ={\frac {\mathrm {FP} }{\mathrm {FP} +\mathrm {TP} }}=1-\mathrm {PPV} }"/></span></dd>
+<dt><a href="/wiki/Positive_and_negative_predictive_values" title="Positive and negative predictive values">false omission rate</a> (FOR)</dt>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {FOR} ={\frac {\mathrm {FN} }{\mathrm {FN} +\mathrm {TN} }}=1-\mathrm {NPV} }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">F</mi>
+          <mi mathvariant="normal">O</mi>
+          <mi mathvariant="normal">R</mi>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">F</mi>
+              <mi mathvariant="normal">N</mi>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">F</mi>
+                <mi mathvariant="normal">N</mi>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">N</mi>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">N</mi>
+          <mi mathvariant="normal">P</mi>
+          <mi mathvariant="normal">V</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {FOR} ={\frac {\mathrm {FN} }{\mathrm {FN} +\mathrm {TN} }}=1-\mathrm {NPV} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/13c18dbde910630a908207ce7c72a94cf67ce942" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:30.664ex; height:5.343ex;" alt="{\displaystyle \mathrm {FOR} ={\frac {\mathrm {FN} }{\mathrm {FN} +\mathrm {TN} }}=1-\mathrm {NPV} }"/></span></dd>
+<dt><a href="/wiki/Accuracy" class="mw-redirect" title="Accuracy">accuracy</a> (ACC)</dt>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {ACC} ={\frac {\mathrm {TP} +\mathrm {TN} }{P+N}}={\frac {\mathrm {TP} +\mathrm {TN} }{\mathrm {TP} +\mathrm {TN} +\mathrm {FP} +\mathrm {FN} }}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">A</mi>
+          <mi mathvariant="normal">C</mi>
+          <mi mathvariant="normal">C</mi>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">P</mi>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">N</mi>
+              </mrow>
+            </mrow>
+            <mrow>
+              <mi>P</mi>
+              <mo>+</mo>
+              <mi>N</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">P</mi>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">N</mi>
+              </mrow>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">P</mi>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">N</mi>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">F</mi>
+                <mi mathvariant="normal">P</mi>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">F</mi>
+                <mi mathvariant="normal">N</mi>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {ACC} ={\frac {\mathrm {TP} +\mathrm {TN} }{P+N}}={\frac {\mathrm {TP} +\mathrm {TN} }{\mathrm {TP} +\mathrm {TN} +\mathrm {FP} +\mathrm {FN} }}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/be4377041f6e6226f0235bcc163db409f146090f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:44.056ex; height:5.343ex;" alt="{\displaystyle \mathrm {ACC} ={\frac {\mathrm {TP} +\mathrm {TN} }{P+N}}={\frac {\mathrm {TP} +\mathrm {TN} }{\mathrm {TP} +\mathrm {TN} +\mathrm {FP} +\mathrm {FN} }}}"/></span></dd></dl>
+<hr />
+<dl><dt><a href="/wiki/F1_score" title="F1 score">F1 score</a></dt>
+<dd>is the <a href="/wiki/Harmonic_mean#Harmonic_mean_of_two_numbers" title="Harmonic mean">harmonic mean</a> of <a href="/wiki/Information_retrieval#Precision" title="Information retrieval">precision</a> and <a href="/wiki/Sensitivity_(test)" class="mw-redirect" title="Sensitivity (test)">sensitivity</a></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle F_{1}=2\cdot {\frac {\mathrm {PPV} \cdot \mathrm {TPR} }{\mathrm {PPV} +\mathrm {TPR} }}={\frac {2\mathrm {TP} }{2\mathrm {TP} +\mathrm {FP} +\mathrm {FN} }}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>F</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mn>2</mn>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">P</mi>
+                <mi mathvariant="normal">P</mi>
+                <mi mathvariant="normal">V</mi>
+              </mrow>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">P</mi>
+                <mi mathvariant="normal">R</mi>
+              </mrow>
+            </mrow>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">P</mi>
+                <mi mathvariant="normal">P</mi>
+                <mi mathvariant="normal">V</mi>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">P</mi>
+                <mi mathvariant="normal">R</mi>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mn>2</mn>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">P</mi>
+              </mrow>
+            </mrow>
+            <mrow>
+              <mn>2</mn>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">P</mi>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">F</mi>
+                <mi mathvariant="normal">P</mi>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">F</mi>
+                <mi mathvariant="normal">N</mi>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle F_{1}=2\cdot {\frac {\mathrm {PPV} \cdot \mathrm {TPR} }{\mathrm {PPV} +\mathrm {TPR} }}={\frac {2\mathrm {TP} }{2\mathrm {TP} +\mathrm {FP} +\mathrm {FN} }}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2c1b789c877bcc32a7a317c723638b14857b7966" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:42.446ex; height:5.343ex;" alt="{\displaystyle F_{1}=2\cdot {\frac {\mathrm {PPV} \cdot \mathrm {TPR} }{\mathrm {PPV} +\mathrm {TPR} }}={\frac {2\mathrm {TP} }{2\mathrm {TP} +\mathrm {FP} +\mathrm {FN} }}}"/></span></dd>
+<dt><a href="/wiki/Matthews_correlation_coefficient" title="Matthews correlation coefficient">Matthews correlation coefficient</a> (MCC)</dt>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {MCC} ={\frac {\mathrm {TP} \times \mathrm {TN} -\mathrm {FP} \times \mathrm {FN} }{\sqrt {(\mathrm {TP} +\mathrm {FP} )(\mathrm {TP} +\mathrm {FN} )(\mathrm {TN} +\mathrm {FP} )(\mathrm {TN} +\mathrm {FN} )}}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">M</mi>
+          <mi mathvariant="normal">C</mi>
+          <mi mathvariant="normal">C</mi>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">P</mi>
+              </mrow>
+              <mo>&#x00D7;<!-- × --></mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">N</mi>
+              </mrow>
+              <mo>&#x2212;<!-- − --></mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">F</mi>
+                <mi mathvariant="normal">P</mi>
+              </mrow>
+              <mo>&#x00D7;<!-- × --></mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">F</mi>
+                <mi mathvariant="normal">N</mi>
+              </mrow>
+            </mrow>
+            <msqrt>
+              <mo stretchy="false">(</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">P</mi>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">F</mi>
+                <mi mathvariant="normal">P</mi>
+              </mrow>
+              <mo stretchy="false">)</mo>
+              <mo stretchy="false">(</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">P</mi>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">F</mi>
+                <mi mathvariant="normal">N</mi>
+              </mrow>
+              <mo stretchy="false">)</mo>
+              <mo stretchy="false">(</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">N</mi>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">F</mi>
+                <mi mathvariant="normal">P</mi>
+              </mrow>
+              <mo stretchy="false">)</mo>
+              <mo stretchy="false">(</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">T</mi>
+                <mi mathvariant="normal">N</mi>
+              </mrow>
+              <mo>+</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="normal">F</mi>
+                <mi mathvariant="normal">N</mi>
+              </mrow>
+              <mo stretchy="false">)</mo>
+            </msqrt>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {MCC} ={\frac {\mathrm {TP} \times \mathrm {TN} -\mathrm {FP} \times \mathrm {FN} }{\sqrt {(\mathrm {TP} +\mathrm {FP} )(\mathrm {TP} +\mathrm {FN} )(\mathrm {TN} +\mathrm {FP} )(\mathrm {TN} +\mathrm {FN} )}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6b556899b23f4222eca9ff369dac34f9ddc40a76" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.171ex; width:56.432ex; height:6.509ex;" alt="{\displaystyle \mathrm {MCC} ={\frac {\mathrm {TP} \times \mathrm {TN} -\mathrm {FP} \times \mathrm {FN} }{\sqrt {(\mathrm {TP} +\mathrm {FP} )(\mathrm {TP} +\mathrm {FN} )(\mathrm {TN} +\mathrm {FP} )(\mathrm {TN} +\mathrm {FN} )}}}}"/></span></dd>
+<dt><a href="/wiki/Informedness" class="mw-redirect" title="Informedness">Informedness</a> or Bookmaker Informedness (BM)</dt>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {BM} =\mathrm {TPR} +\mathrm {TNR} -1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">B</mi>
+          <mi mathvariant="normal">M</mi>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">T</mi>
+          <mi mathvariant="normal">P</mi>
+          <mi mathvariant="normal">R</mi>
+        </mrow>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">T</mi>
+          <mi mathvariant="normal">N</mi>
+          <mi mathvariant="normal">R</mi>
+        </mrow>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {BM} =\mathrm {TPR} +\mathrm {TNR} -1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d22a2922619a6c89d44d035af67633b8d17f24f3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:23.822ex; height:2.343ex;" alt="{\displaystyle \mathrm {BM} =\mathrm {TPR} +\mathrm {TNR} -1}"/></span></dd>
+<dt>Markedness (MK)</dt>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {MK} =\mathrm {PPV} +\mathrm {NPV} -1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">M</mi>
+          <mi mathvariant="normal">K</mi>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">P</mi>
+          <mi mathvariant="normal">P</mi>
+          <mi mathvariant="normal">V</mi>
+        </mrow>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">N</mi>
+          <mi mathvariant="normal">P</mi>
+          <mi mathvariant="normal">V</mi>
+        </mrow>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {MK} =\mathrm {PPV} +\mathrm {NPV} -1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5437f65a40714949105525ad5f8217d654299bca" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:23.859ex; height:2.343ex;" alt="{\displaystyle \mathrm {MK} =\mathrm {PPV} +\mathrm {NPV} -1}"/></span></dd></dl>
+<p><span style="font-size:90%;"><i>Sources: Fawcett (2006), Powers (2011), and Ting (2011)</i>
+<sup id="cite_ref-Fawcett2006_9-0" class="reference"><a href="#cite_note-Fawcett2006-9">&#91;9&#93;</a></sup>
+<sup id="cite_ref-Powers2011_10-0" class="reference"><a href="#cite_note-Powers2011-10">&#91;10&#93;</a></sup>
+<sup id="cite_ref-ting2011precision_11-0" class="reference"><a href="#cite_note-ting2011precision-11">&#91;11&#93;</a></sup>
+</span>
+</p>
+</td></tr></tbody></table>
+<p>DCG uses a graded relevance scale of documents from the result set to evaluate the usefulness, or gain, of a document based on its position in the result list. The premise of DCG is that highly relevant documents appearing lower in a search result list should be penalized as the graded relevance value is reduced logarithmically proportional to the position of the result.
+</p><p>The DCG accumulated at a particular rank position <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle p}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.089ex; width:1.259ex; height:2.009ex;" alt="p"/></span> is defined as:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {DCG_{p}} =\sum _{i=1}^{p}{\frac {rel_{i}}{\log _{2}(i+1)}}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">D</mi>
+          <mi mathvariant="normal">C</mi>
+          <msub>
+            <mi mathvariant="normal">G</mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">p</mi>
+            </mrow>
+          </msub>
+        </mrow>
+        <mo>=</mo>
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </munderover>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>r</mi>
+              <mi>e</mi>
+              <msub>
+                <mi>l</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>i</mi>
+                </mrow>
+              </msub>
+            </mrow>
+            <mrow>
+              <msub>
+                <mi>log</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msub>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mo stretchy="false">(</mo>
+              <mi>i</mi>
+              <mo>+</mo>
+              <mn>1</mn>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {DCG_{p}} =\sum _{i=1}^{p}{\frac {rel_{i}}{\log _{2}(i+1)}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8a09a3773f4c8edbc72251dbf46b136c31e8da2a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:25.388ex; height:7.009ex;" alt="{\displaystyle \mathrm {DCG_{p}} =\sum _{i=1}^{p}{\frac {rel_{i}}{\log _{2}(i+1)}}.}"/></span></dd></dl>
+<p>Since result set may vary in size among different queries or systems, to compare performances the normalised version of DCG uses an ideal DCG. To this end, it sorts documents of a result list by relevance, producing an ideal DCG at position p (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle IDCG_{p}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>I</mi>
+        <mi>D</mi>
+        <mi>C</mi>
+        <msub>
+          <mi>G</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle IDCG_{p}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/61a3a7ae80590708b279b7a7d22279db10544706" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:7.748ex; height:2.843ex;" alt="IDCG_p"/></span>), which normalizes the score:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \mathrm {nDCG_{p}} ={\frac {DCG_{p}}{IDCG{p}}}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">n</mi>
+          <mi mathvariant="normal">D</mi>
+          <mi mathvariant="normal">C</mi>
+          <msub>
+            <mi mathvariant="normal">G</mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">p</mi>
+            </mrow>
+          </msub>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>D</mi>
+              <mi>C</mi>
+              <msub>
+                <mi>G</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>p</mi>
+                </mrow>
+              </msub>
+            </mrow>
+            <mrow>
+              <mi>I</mi>
+              <mi>D</mi>
+              <mi>C</mi>
+              <mi>G</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>p</mi>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {nDCG_{p}} ={\frac {DCG_{p}}{IDCG{p}}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7f28a12199cde773a6897d5f3021d4e2d3b2f0fe" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:20.157ex; height:6.176ex;" alt=" \mathrm{nDCG_{p}} = \frac{DCG_{p}}{IDCG{p}}. "/></span></dd></dl>
+<p>The nDCG values for all queries can be averaged to obtain a measure of the average performance of a ranking algorithm. Note that in a perfect ranking algorithm, the <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle DCG_{p}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>D</mi>
+        <mi>C</mi>
+        <msub>
+          <mi>G</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle DCG_{p}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7b8f2232a0de1712fc4ecc166a599570c9759efb" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:6.576ex; height:2.843ex;" alt="DCG_p"/></span> will be the same as the <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle IDCG_{p}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>I</mi>
+        <mi>D</mi>
+        <mi>C</mi>
+        <msub>
+          <mi>G</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle IDCG_{p}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/61a3a7ae80590708b279b7a7d22279db10544706" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:7.748ex; height:2.843ex;" alt="IDCG_p"/></span> producing an nDCG of 1.0. All nDCG calculations are then relative values on the interval 0.0 to 1.0 and so are cross-query comparable.
+</p>
+<h3><span class="mw-headline" id="Other_measures">Other measures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit&amp;section=16" title="Edit section: Other measures">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Mean_reciprocal_rank" title="Mean reciprocal rank">Mean reciprocal rank</a></li>
+<li><a href="/wiki/Spearman%27s_rank_correlation_coefficient" title="Spearman&#39;s rank correlation coefficient">Spearman's rank correlation coefficient</a></li>
+<li>bpref - a summation-based measure of how many relevant documents are ranked before irrelevant documents<sup id="cite_ref-trec15_8-1" class="reference"><a href="#cite_note-trec15-8">&#91;8&#93;</a></sup></li>
+<li>GMAP - geometric mean of (per-topic) average precision<sup id="cite_ref-trec15_8-2" class="reference"><a href="#cite_note-trec15-8">&#91;8&#93;</a></sup></li>
+<li>Measures based on marginal relevance and document diversity - see <a href="/wiki/Relevance_(information_retrieval)#Problems_and_alternatives" title="Relevance (information retrieval)">Relevance (information retrieval) §&#160;Problems and alternatives</a></li>
+<li>Measures of both relevance and credibility (for fake news in search results)<sup id="cite_ref-ictir17_12-0" class="reference"><a href="#cite_note-ictir17-12">&#91;12&#93;</a></sup></li></ul>
+<h3><span class="mw-headline" id="Visualization">Visualization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit&amp;section=17" title="Edit section: Visualization">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Visualizations of information retrieval performance include:
+</p>
+<ul><li>Graphs which chart precision on one axis and recall on the other<sup id="cite_ref-trec15_8-3" class="reference"><a href="#cite_note-trec15-8">&#91;8&#93;</a></sup></li>
+<li>Histograms of average precision over various topics<sup id="cite_ref-trec15_8-4" class="reference"><a href="#cite_note-trec15-8">&#91;8&#93;</a></sup></li>
+<li><a href="/wiki/Receiver_operating_characteristic" title="Receiver operating characteristic">Receiver operating characteristic</a> (ROC curve)</li>
+<li><a href="/wiki/Confusion_matrix" title="Confusion matrix">Confusion matrix</a></li></ul>
+<h2><span class="mw-headline" id="Non-metrics">Non-metrics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit&amp;section=18" title="Edit section: Non-metrics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Top_queries_list">Top queries list</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit&amp;section=19" title="Edit section: Top queries list">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Top queries is noting the most common queries over a fixed amount of time. The top queries list assists in knowing the style of queries entered by users.
+</p>
+<h2><span class="mw-headline" id="Non-relevance_metrics">Non-relevance metrics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit&amp;section=20" title="Edit section: Non-relevance metrics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Queries_per_time">Queries per time</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit&amp;section=21" title="Edit section: Queries per time">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Measuring how many queries are performed on the search system per (month/day/hour/minute/sec) tracks the utilization of the search system. It can be used for diagnostics to indicate an unexpected spike in queries, or simply as a baseline when comparing with other metrics, like query latency. For example, a spike in query traffic, may be used to explain a spike in query latency.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit&amp;section=22" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-AMA-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-AMA_1-0">^</a></b></span> <span class="reference-text"><a href="/wiki/American_Marketing_Association" title="American Marketing Association">American Marketing Association</a> Dictionary. <a rel="nofollow" class="external free" href="http://www.marketingpower.com/_layouts/Dictionary.aspx">http://www.marketingpower.com/_layouts/Dictionary.aspx</a>.<sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since July 2016">permanent dead link</span></a></i>&#93;</span></sup> Retrieved 2012-11-02. The <a href="/wiki/Marketing_Accountability_Standards_Board_(MASB)" class="mw-redirect" title="Marketing Accountability Standards Board (MASB)">Marketing Accountability Standards Board (MASB)</a> endorses this definition as part of its ongoing <a rel="nofollow" class="external text" href="http://www.commonlanguage.wikispaces.net/">Common Language in Marketing Project</a>.</span>
+</li>
+<li id="cite_note-zhu2004-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-zhu2004_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-zhu2004_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Zhu, Mu (2004). <a rel="nofollow" class="external text" href="http://sas.uwaterloo.ca/stats_navigation/techreports/04WorkingPapers/2004-09.pdf">"Recall, Precision and Average Precision"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Recall%2C+Precision+and+Average+Precision&amp;rft.date=2004&amp;rft.aulast=Zhu&amp;rft.aufirst=Mu&amp;rft_id=http%3A%2F%2Fsas.uwaterloo.ca%2Fstats_navigation%2Ftechreports%2F04WorkingPapers%2F2004-09.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEvaluation+measures+%28information+retrieval%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Turpin2006-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Turpin2006_3-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Turpin, Andrew; Scholer, Falk (2006). "User performance versus precision measures for simple search tasks". <i>Proceedings of the 29th Annual international ACM SIGIR Conference on Research and Development in information Retrieval (Seattle, WA, August 06–11, 2006)</i>. New York, NY: ACM: 11–18. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F1148170.1148176">10.1145/1148170.1148176</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-59593-369-7" title="Special:BookSources/1-59593-369-7">1-59593-369-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+29th+Annual+international+ACM+SIGIR+Conference+on+Research+and+Development+in+information+Retrieval+%28Seattle%2C+WA%2C+August+06%E2%80%9311%2C+2006%29&amp;rft.atitle=User+performance+versus+precision+measures+for+simple+search+tasks&amp;rft.pages=11-18&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1145%2F1148170.1148176&amp;rft.isbn=1-59593-369-7&amp;rft.aulast=Turpin&amp;rft.aufirst=Andrew&amp;rft.au=Scholer%2C+Falk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEvaluation+measures+%28information+retrieval%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-voc2010-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-voc2010_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-voc2010_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Everingham, Mark; Van Gool, Luc; Williams, Christopher K. I.; Winn, John; Zisserman, Andrew (June 2010). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20111120074515/http://pascallin.ecs.soton.ac.uk/challenges/VOC/pubs/everingham10.pdf">"The PASCAL Visual Object Classes (VOC) Challenge"</a> <span class="cs1-format">(PDF)</span>. <i>International Journal of Computer Vision</i>. Springer. <b>88</b> (2): 303–338. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1007%2Fs11263-009-0275-4">10.1007/s11263-009-0275-4</a>. Archived from <a rel="nofollow" class="external text" href="http://pascallin.ecs.soton.ac.uk/challenges/VOC/pubs/everingham10.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2011-11-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-08-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+Computer+Vision&amp;rft.atitle=The+PASCAL+Visual+Object+Classes+%28VOC%29+Challenge&amp;rft.volume=88&amp;rft.issue=2&amp;rft.pages=303-338&amp;rft.date=2010-06&amp;rft_id=info%3Adoi%2F10.1007%2Fs11263-009-0275-4&amp;rft.aulast=Everingham&amp;rft.aufirst=Mark&amp;rft.au=Van+Gool%2C+Luc&amp;rft.au=Williams%2C+Christopher+K.+I.&amp;rft.au=Winn%2C+John&amp;rft.au=Zisserman%2C+Andrew&amp;rft_id=http%3A%2F%2Fpascallin.ecs.soton.ac.uk%2Fchallenges%2FVOC%2Fpubs%2Feveringham10.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEvaluation+measures+%28information+retrieval%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-nlpbook-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-nlpbook_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nlpbook_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Manning, Christopher D.; Raghavan, Prabhakar; Schütze, Hinrich (2008). <a rel="nofollow" class="external text" href="http://nlp.stanford.edu/IR-book/html/htmledition/evaluation-of-ranked-retrieval-results-1.html"><i>Introduction to Information Retrieval</i></a>. Cambridge University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+Information+Retrieval&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2008&amp;rft.aulast=Manning&amp;rft.aufirst=Christopher+D.&amp;rft.au=Raghavan%2C+Prabhakar&amp;rft.au=Sch%C3%BCtze%2C+Hinrich&amp;rft_id=http%3A%2F%2Fnlp.stanford.edu%2FIR-book%2Fhtml%2Fhtmledition%2Fevaluation-of-ranked-retrieval-results-1.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEvaluation+measures+%28information+retrieval%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">K.H. Brodersen, C.S. Ong, K.E. Stephan, J.M. Buhmann (2010). <a rel="nofollow" class="external text" href="http://icpr2010.org/pdfs/icpr2010_ThBCT8.28.pdf">The binormal assumption on precision-recall curves</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20121208201457/http://icpr2010.org/pdfs/icpr2010_ThBCT8.28.pdf">Archived</a> December 8, 2012, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.. <i>Proceedings of the 20th International Conference on Pattern Recognition</i>, 4263-4266.</span>
+</li>
+<li id="cite_note-stanford-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-stanford_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-stanford_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-stanford_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Christopher D. Manning; Prabhakar Raghavan &amp; Hinrich Schütze (2009). <a rel="nofollow" class="external text" href="http://nlp.stanford.edu/IR-book/pdf/08eval.pdf">"Chapter 8: Evaluation in information retrieval"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-06-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chapter+8%3A+Evaluation+in+information+retrieval&amp;rft.date=2009&amp;rft.au=Christopher+D.+Manning&amp;rft.au=Prabhakar+Raghavan&amp;rft.au=Hinrich+Sch%C3%BCtze&amp;rft_id=http%3A%2F%2Fnlp.stanford.edu%2FIR-book%2Fpdf%2F08eval.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEvaluation+measures+%28information+retrieval%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/>  Part of <i>Introduction to Information Retrieval</i> <a rel="nofollow" class="external autonumber" href="http://nlp.stanford.edu/IR-book/">[1]</a></span>
+</li>
+<li id="cite_note-trec15-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-trec15_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-trec15_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-trec15_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-trec15_8-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-trec15_8-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://trec.nist.gov/pubs/trec15/appendices/CE.MEASURES06.pdf">http://trec.nist.gov/pubs/trec15/appendices/CE.MEASURES06.pdf</a></span>
+</li>
+<li id="cite_note-Fawcett2006-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fawcett2006_9-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Fawcett, Tom (2006). <a rel="nofollow" class="external text" href="http://people.inf.elte.hu/kiss/11dwhdm/roc.pdf">"An Introduction to ROC Analysis"</a> <span class="cs1-format">(PDF)</span>. <i>Pattern Recognition Letters</i>. <b>27</b> (8): 861–874. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.patrec.2005.10.010">10.1016/j.patrec.2005.10.010</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Pattern+Recognition+Letters&amp;rft.atitle=An+Introduction+to+ROC+Analysis&amp;rft.volume=27&amp;rft.issue=8&amp;rft.pages=861-874&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1016%2Fj.patrec.2005.10.010&amp;rft.aulast=Fawcett&amp;rft.aufirst=Tom&amp;rft_id=http%3A%2F%2Fpeople.inf.elte.hu%2Fkiss%2F11dwhdm%2Froc.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEvaluation+measures+%28information+retrieval%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Powers2011-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Powers2011_10-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Powers, David M W (2011). <a rel="nofollow" class="external text" href="http://www.flinders.edu.au/science_engineering/fms/School-CSEM/publications/tech_reps-research_artfcts/TRRA_2007.pdf">"Evaluation: From Precision, Recall and F-Measure  to ROC, Informedness, Markedness &amp; Correlation"</a> <span class="cs1-format">(PDF)</span>. <i>Journal of Machine Learning Technologies</i>. <b>2</b> (1): 37–63.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Machine+Learning+Technologies&amp;rft.atitle=Evaluation%3A+From+Precision%2C+Recall+and+F-Measure++to+ROC%2C+Informedness%2C+Markedness+%26+Correlation&amp;rft.volume=2&amp;rft.issue=1&amp;rft.pages=37-63&amp;rft.date=2011&amp;rft.aulast=Powers&amp;rft.aufirst=David+M+W&amp;rft_id=http%3A%2F%2Fwww.flinders.edu.au%2Fscience_engineering%2Ffms%2FSchool-CSEM%2Fpublications%2Ftech_reps-research_artfcts%2FTRRA_2007.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEvaluation+measures+%28information+retrieval%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-ting2011precision-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-ting2011precision_11-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Ting, Kai Ming (2011). <a rel="nofollow" class="external text" href="https://link.springer.com/referencework/10.1007%2F978-0-387-30164-8"><i>Encyclopedia of machine learning</i></a>. Springer. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-387-30164-8" title="Special:BookSources/978-0-387-30164-8">978-0-387-30164-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclopedia+of+machine+learning&amp;rft.pub=Springer&amp;rft.date=2011&amp;rft.isbn=978-0-387-30164-8&amp;rft.aulast=Ting&amp;rft.aufirst=Kai+Ming&amp;rft_id=https%3A%2F%2Flink.springer.com%2Freferencework%2F10.1007%252F978-0-387-30164-8&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEvaluation+measures+%28information+retrieval%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-ictir17-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-ictir17_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web">C. Lioma; J. G. Simonsen; B. Larsen (2017). <a rel="nofollow" class="external text" href="http://main.cl-lab.dk/www/publications/2017/pdf/a66.pdf">"Evaluation Measures for Relevance and Credibility in Ranked Lists"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Evaluation+Measures+for+Relevance+and+Credibility+in+Ranked+Lists&amp;rft.date=2017&amp;rft.au=C.+Lioma&amp;rft.au=J.+G.+Simonsen&amp;rft.au=B.+Larsen&amp;rft_id=http%3A%2F%2Fmain.cl-lab.dk%2Fwww%2Fpublications%2F2017%2Fpdf%2Fa66.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEvaluation+measures+%28information+retrieval%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/> <i>Proceedings of the ACM SIGIR International Conference on Theory of Information Retrieval</i>, 91-98.</span>
+</li>
+</ol></div></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2233
+Cached time: 20180929150542
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.404 seconds
+Real time usage: 0.965 seconds
+Preprocessor visited node count: 1342/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 26512/2097152 bytes
+Template argument size: 1574/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 32001/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.165/10.000 seconds
+Lua memory usage: 3.56 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  302.668      1 -total
+ 68.01%  205.840      1 Template:Reflist
+ 41.48%  125.536      5 Template:Cite_journal
+ 16.14%   48.848      2 Template:Citation_needed
+ 15.14%   45.830      3 Template:Fix
+  9.38%   28.388      6 Template:Category_handler
+  7.53%   22.782      4 Template:Main
+  5.20%   15.741      2 Template:Cite_book
+  4.96%   15.002      2 Template:Cite_web
+  4.42%   13.367      2 Template:Delink
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:50716473-0!canonical!math=5 and timestamp 20180929150541 and revision id 856374880
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;oldid=856374880">https://en.wikipedia.org/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;oldid=856374880</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Information_retrieval" title="Category:Information retrieval">Information retrieval</a></li><li><a href="/wiki/Category:Information_retrieval_evaluation" title="Category:Information retrieval evaluation">Information retrieval evaluation</a></li><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_July_2016" title="Category:Articles with dead external links from July 2016">Articles with dead external links from July 2016</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2015" title="Category:Articles with unsourced statements from June 2015">Articles with unsourced statements from June 2015</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Evaluation+measures+%28information+retrieval%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Evaluation+measures+%28information+retrieval%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Evaluation_measures_(information_retrieval)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Evaluation_measures_(information_retrieval)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Evaluation_measures_(information_retrieval)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Evaluation_measures_(information_retrieval)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Evaluation_measures_(information_retrieval)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;oldid=856374880" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q25211005" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Evaluation_measures_%28information_retrieval%29&amp;id=856374880" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Evaluation+measures+%28information+retrieval%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Evaluation+measures+%28information+retrieval%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q25211005#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 24 August 2018, at 19:13<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Evaluation_measures_(information_retrieval)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.404","walltime":"0.965","ppvisitednodes":{"value":1342,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":26512,"limit":2097152},"templateargumentsize":{"value":1574,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":32001,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  302.668      1 -total"," 68.01%  205.840      1 Template:Reflist"," 41.48%  125.536      5 Template:Cite_journal"," 16.14%   48.848      2 Template:Citation_needed"," 15.14%   45.830      3 Template:Fix","  9.38%   28.388      6 Template:Category_handler","  7.53%   22.782      4 Template:Main","  5.20%   15.741      2 Template:Cite_book","  4.96%   15.002      2 Template:Cite_web","  4.42%   13.367      2 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.165","limit":"10.000"},"limitreport-memusage":{"value":3735418,"limit":52428800}},"cachereport":{"origin":"mw2233","timestamp":"20180929150542","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1084,"wgHostname":"mw2233"});});</script>
+	</body>
+</html>

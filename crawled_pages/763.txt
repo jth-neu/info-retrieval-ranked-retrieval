@@ -1,0 +1,882 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Informal empire - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Informal_empire","wgTitle":"Informal empire","wgCurRevisionId":843227853,"wgRevisionId":843227853,"wgArticleId":23286227,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Extra text: authors list","CS1 maint: Archived copy as title","All articles with unsourced statements","Articles with unsourced statements from September 2010","British Empire","Free trade imperialism","History of the British Empire","Overseas empires"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Informal_empire","wgRelevantArticleId":23286227,"wgRequestId":"W7DnHArAID8AADiSVWkAAAFB","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Informal_Empire","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgInternalRedirectTargetUrl":"/wiki/Informal_empire","wgWikibaseItemId":"Q6030562","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Informal_empire"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Informal_empire&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Informal_empire&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Informal_empire"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Informal_empire rootpage-Informal_empire skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Informal empire</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Informal_Empire&amp;redirect=no" class="mw-redirect" title="Informal Empire">Informal Empire</a>)</span></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Informal empire</b> describes the <a href="/wiki/Spheres_of_influence" class="mw-redirect" title="Spheres of influence">spheres of influence</a> which an <a href="/wiki/Empire" title="Empire">empire</a> may develop that  translate into a degree of influence over a region or country, which is not a formal colony in the empire,  as a result of the extension of commercial, strategic or military interests of the empire.
+</p><p>In a 2010 article, Gregory Barton and Brett Bennett defined informal empire as:
+</p>
+<dl><dd>a willing and successful attempt by commercial and political elites to control a foreign region, resource, or people. The means of control included the enforcement of extra-territorial privileges and the threat of economic and political sanctions, often coupled with the attempt to keep other would-be imperial powers at bay. For the term "informal empire" to be applicable, we argue, historians have to show that one nation’s elite or government exerted extraterritorial legal control, de facto economic domination, and was able to strongly influence policies in a foreign country critical to the more powerful country’s interests.</dd></dl>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#British_Empire"><span class="tocnumber">1</span> <span class="toctext">British Empire</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes"><span class="tocnumber">4</span> <span class="toctext">Notes</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="British_Empire">British Empire</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Informal_empire&amp;action=edit&amp;section=1" title="Edit section: British Empire">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The term is most commonly associated with the <a href="/wiki/British_Empire" title="British Empire">British Empire</a>, where it is used to describe the extensive reach of British interests into regions and nations which were not formal parts of the Empire, in that they were not <a href="/wiki/Colonies" class="mw-redirect" title="Colonies">colonies</a> and were not directly ruled by the British.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>Among the most notable elements of the British informal empire was China, which played an important, if unwilling, role in British imperial trade, and South America, which was a significant region for British commercial interests and investments.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>Informal empire, like many imperial relationships, is difficult to classify and reduce to a prescriptive definition.  In the instance of the British informal empire, the character of the relationship varied widely.  Chinese inclusion in the sphere of British informal empire was unwilling, and was maintained by the use of direct military coercion – the <a href="/wiki/First_Opium_War" title="First Opium War">First</a> and <a href="/wiki/Second_Opium_War" title="Second Opium War">Second Opium Wars</a> – and through the exertion of great diplomatic pressure.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>  South American governments were often willing partners in the extension of British commercial ventures, but force was sometimes used against those who tried to apply <a href="/wiki/Protectionism" title="Protectionism">protectionist</a> policies (see for example, the <a href="/wiki/Anglo-French_blockade_of_the_R%C3%ADo_de_la_Plata" title="Anglo-French blockade of the Río de la Plata">Anglo-French blockade of the River Plate</a>).
+</p><p>Informal empire is an important concept required to adequately explain the reach and influence of empire, and in the case of the British Empire, is vital to any holistic account of the British Imperial experience and intrinsic to describing the interests and purposes of the Empire as a whole.  Informal empire, far from being distinctive and separate from formal empire, is often bound up with formal imperial interests.  For example, British informal empire in China was a product of British formal control of India, resulting from the need to finance the activities of the British <a href="/wiki/East_India_Company" title="East India Company">East India Company</a> through the sale of <a href="/wiki/Opium" title="Opium">opium</a> to the Chinese.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2010)">citation needed</span></a></i>&#93;</sup>
+</p><p>In the economic sphere, British informal empire was driven by the <a href="/wiki/Free_trade" title="Free trade">free trade</a> economic system of the Empire.  In the so-called "<a href="/wiki/The_Imperialism_of_Free_Trade" title="The Imperialism of Free Trade">Imperialism of Free Trade</a>" thesis, as articulated by historians <a href="/wiki/Ronald_Robinson" title="Ronald Robinson">Ronald Robinson</a> and <a href="/wiki/John_Andrew_Gallagher" title="John Andrew Gallagher">John Gallagher</a>, the British Empire expanded as much by the growth of informal empire as it did by acquiring formal dominion over colonies.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>  Furthermore, British investment in empire was to be found not only in the formal Empire, but also in the informal empire – and, by Robinson and Gallagher's account, was indeed predominantly located in the informal empire.  It is estimated that between 1815 and 1880, £1,187,000,000 in credit had accumulated abroad, but no more than one-sixth was placed in the formal empire. Even by 1913, less than half of the £3,975,000,000 of foreign investment lay inside the formal Empire.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>Challenges to British dominance in China from other Europeans, as well as by the US, led to a shift from informal to formal imperialism at the turn of the century.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>British <a href="/wiki/Historian" title="Historian">historian</a> <a href="/wiki/David_Reynolds_(British_historian)" title="David Reynolds (British historian)">David Reynolds</a> claims that during the process of <a href="/wiki/Decolonization" title="Decolonization">decolonisation</a>, it was hoped that as an alternative to the declining formal empire, informal influence, sealed by economic ties and defense treaties would be swayed over the former colonies. The <a href="/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">Commonwealth</a> is suggested to have been an attempt by Britain to maintain some indirect influence over the newly independent countries.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>Informal empire may assume a primarily economic guise.  However, this is not the exclusive definition or requirement of the term.  Strategic considerations or other concerns may bring about the creation of an imperial influence over a region not formally a component of the empire.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Informal_empire&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/British_Empire_1897.jpg/32px-British_Empire_1897.jpg" width="32" height="24" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/British_Empire_1897.jpg/48px-British_Empire_1897.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/British_Empire_1897.jpg/64px-British_Empire_1897.jpg 2x" data-file-width="1116" data-file-height="849" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:British_Empire" title="Portal:British Empire">British Empire portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/P_history.svg/31px-P_history.svg.png" width="31" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/P_history.svg/47px-P_history.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/P_history.svg/62px-P_history.svg.png 2x" data-file-width="400" data-file-height="360" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:History" title="Portal:History">History portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/PithHelmetTruman.jpg/32px-PithHelmetTruman.jpg" width="32" height="21" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/PithHelmetTruman.jpg/48px-PithHelmetTruman.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/PithHelmetTruman.jpg/64px-PithHelmetTruman.jpg 2x" data-file-width="432" data-file-height="280" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Colonialism" title="Portal:Colonialism">Colonialism portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Historiography_of_the_British_Empire" title="Historiography of the British Empire">Historiography of the British Empire</a></li>
+<li><a href="/wiki/History_of_the_foreign_relations_of_the_United_Kingdom" title="History of the foreign relations of the United Kingdom">History of the foreign relations of the United Kingdom</a></li>
+<li><a href="/wiki/The_British_Empire" class="mw-redirect" title="The British Empire">The British Empire</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Informal_empire&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Barton, G.A. and B.M. Bennett. (2010) <a rel="nofollow" class="external text" href="http://journals.cambridge.org/action/displayFulltext?type=1&amp;fid=7857978&amp;jid=ITI&amp;volumeId=34&amp;issueId=02&amp;aid=7857977">Forestry as Foreign Policy: Anglo-Siamese Relations and the Origins of Britain's Informal Empire in the Teak Forests of Northern Siam, 1883–1925  34 (1): 65-86</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Informal_empire&amp;action=edit&amp;section=4" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Encyclopaedia Britannica. <a rel="nofollow" class="external text" href="https://www.britannica.com/place/British-Empire">"British Empire"</a>. <i>Encyclopaedia Britannica</i>. <q>Hong Kong island became British in 1841, and an 'informal empire' operated in China by way of British treaty ports and the great trading city of Shanghai.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Encyclopaedia+Britannica&amp;rft.atitle=British+Empire&amp;rft.au=Encyclopaedia+Britannica&amp;rft_id=https%3A%2F%2Fwww.britannica.com%2Fplace%2FBritish-Empire&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInformal+empire" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Porter, Andrew, ed. (1999). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=UyMSDAAAQBAJ&amp;printsec=frontcover&amp;dq=british+empire+colony.+china&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwj-9LaC6J7bAhUOzlkKHeK3AncQ6AEIQDAE#v=onepage&amp;q=british%20empire%20colony.%20china&amp;f=false"><i>The Oxford History of the British Empire: The nineteenth century</i></a>. Oxford University Press. pp.&#160;146–155. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780198205654" title="Special:BookSources/9780198205654">9780198205654</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Oxford+History+of+the+British+Empire%3A+The+nineteenth+century&amp;rft.pages=146-155&amp;rft.pub=Oxford+University+Press&amp;rft.date=1999&amp;rft.isbn=9780198205654&amp;rft.aulast=Porter&amp;rft.aufirst=Andrew%2C+ed.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DUyMSDAAAQBAJ%26printsec%3Dfrontcover%26dq%3Dbritish%2Bempire%2Bcolony.%2Bchina%26hl%3Den%26sa%3DX%26ved%3D0ahUKEwj-9LaC6J7bAhUOzlkKHeK3AncQ6AEIQDAE%23v%3Donepage%26q%3Dbritish%2520empire%2520colony.%2520china%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInformal+empire" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Extra text: authors list (<a href="/wiki/Category:CS1_maint:_Extra_text:_authors_list" title="Category:CS1 maint: Extra text: authors list">link</a>) </span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://asiapacificcurriculum.ca/learning-module/opium-wars-china#overview">"The Opium Wars in China | Asia Pacific Curriculum"</a>. <i>asiapacificcurriculum.ca</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-05-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=asiapacificcurriculum.ca&amp;rft.atitle=The+Opium+Wars+in+China+%7C+Asia+Pacific+Curriculum&amp;rft_id=https%3A%2F%2Fasiapacificcurriculum.ca%2Flearning-module%2Fopium-wars-china%23overview&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInformal+empire" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">John Gallagher and Ronald Robinson, "The Imperialism of Free Trade",  The Economic History Review, Second series, Vol. VI, no. 1 (1953)  An online version of this seminal article is available at: <cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081221073828/http://www.mtholyoke.edu/acad/intrel/ipe/gallagher.htm">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.mtholyoke.edu/acad/intrel/ipe/gallagher.htm">the original</a> on 2008-12-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-12-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.mtholyoke.edu%2Facad%2Fintrel%2Fipe%2Fgallagher.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInformal+empire" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Archived copy as title (<a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">link</a>) </span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">A.. H. Imlah, 'British Balance of Payments and Exports of Capital, 1816-1913', Econ. Hist. Rev. 2nd ser. V (1952), pp. 237, 239; Hancock, op. cit. p. 27.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=XJc-CgAAQBAJ&amp;pg=PA289&amp;dq=britain+informal+imperial+china.+opium.+qing&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjQsKWxqKXbAhUO0VMKHYSPCaoQ6AEINzAD#v=onepage&amp;q=informal%20to%20more%20formal%20empire&amp;f=false">Encyclopedia of Chinese-American Relations</a> (McFarland, 2015)
+edited by Yuwu Song, p.288-289</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.e-ir.info/2015/06/22/was-british-decolonization-after-1945-a-voluntary-process/">"Was British Decolonization after 1945 a Voluntary Process?"</a>. <i>E-International Relations</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-09-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=E-International+Relations&amp;rft.atitle=Was+British+Decolonization+after+1945+a+Voluntary+Process%3F&amp;rft_id=http%3A%2F%2Fwww.e-ir.info%2F2015%2F06%2F22%2Fwas-british-decolonization-after-1945-a-voluntary-process%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInformal+empire" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<p><br />
+</p>
+<div role="navigation" class="navbox" aria-labelledby="Empires" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Empires" title="Template:Empires"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Empires" title="Template talk:Empires"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Empires&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Empires" style="font-size:114%;margin:0 4em"><a href="/wiki/Empire" title="Empire">Empires</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ancient_history" title="Ancient history">Ancient</a><br />(<a href="/wiki/Colonies_in_antiquity" title="Colonies in antiquity">Colonies</a>)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akkadian_Empire" title="Akkadian Empire">Akkadian</a></li>
+<li><a href="/wiki/New_Kingdom_of_Egypt" title="New Kingdom of Egypt">Egyptian</a></li>
+<li><a href="/wiki/Neo-Assyrian_Empire" title="Neo-Assyrian Empire">Assyrian</a></li>
+<li><a href="/wiki/Neo-Babylonian_Empire" title="Neo-Babylonian Empire">Babylonian</a></li>
+<li><a href="/wiki/Ancient_Carthage" title="Ancient Carthage">Carthaginian</a></li>
+<li><a href="/wiki/History_of_China#Imperial_era" title="History of China">Chinese</a>
+<ul><li><a href="/wiki/Qin_dynasty" title="Qin dynasty">Qin</a></li>
+<li><a href="/wiki/Han_dynasty" title="Han dynasty">Han</a></li>
+<li><a href="/wiki/Three_Kingdoms" title="Three Kingdoms">Three Kingdoms</a></li>
+<li><a href="/wiki/Jin_dynasty_(265%E2%80%93420)" title="Jin dynasty (265–420)">Jin</a></li>
+<li><a href="/wiki/Northern_and_Southern_dynasties" title="Northern and Southern dynasties">North and South</a></li></ul></li>
+<li><a href="/wiki/Hellenistic_period" title="Hellenistic period">Hellenistic</a>
+<ul><li><a href="/wiki/Macedonia_(ancient_kingdom)#Empire" title="Macedonia (ancient kingdom)">Macedonian</a></li>
+<li><a href="/wiki/Seleucid_Empire" title="Seleucid Empire">Seleucid</a></li></ul></li>
+<li><a href="/wiki/Hittites" title="Hittites">Hittite</a></li>
+<li><a href="/wiki/History_of_India" title="History of India">Indian</a>
+<ul><li><a href="/wiki/Nanda_Empire" title="Nanda Empire">Nanda</a></li>
+<li><a href="/wiki/Maurya_Empire" title="Maurya Empire">Maurya</a></li>
+<li><a href="/wiki/Satavahana_dynasty" title="Satavahana dynasty">Satavahana</a></li>
+<li><a href="/wiki/Shunga_Empire" title="Shunga Empire">Shunga </a></li>
+<li><a href="/wiki/Gupta_Empire" title="Gupta Empire">Gupta</a></li>
+<li><a href="/wiki/Empire_of_Harsha" class="mw-redirect" title="Empire of Harsha">Harsha</a></li></ul></li>
+<li><a href="/wiki/Persian_Empire" title="Persian Empire">Iranian</a>
+<ul><li><a href="/wiki/Elamite_Empire" class="mw-redirect" title="Elamite Empire">Elamite</a></li>
+<li><a href="/wiki/Medes" title="Medes">Median</a></li>
+<li><a href="/wiki/Achaemenid_Empire" title="Achaemenid Empire">Achaemenid</a></li>
+<li><a href="/wiki/Parthian_Empire" title="Parthian Empire">Parthian</a></li>
+<li><a href="/wiki/Sasanian_Empire" title="Sasanian Empire">Sasanian</a></li></ul></li>
+<li><a href="/wiki/Kushan_Empire" title="Kushan Empire">Kushan</a></li>
+<li><a href="/wiki/History_of_Mongolia" title="History of Mongolia">Mongol</a>
+<ul><li><a href="/wiki/Xianbei_state" title="Xianbei state">Xianbei</a></li>
+<li><a href="/wiki/Xiongnu" title="Xiongnu">Xiongnu</a></li></ul></li>
+<li><a href="/wiki/Roman_Empire" title="Roman Empire">Roman</a>
+<ul><li><a href="/wiki/Western_Roman_Empire" title="Western Roman Empire">Western</a></li>
+<li><a href="/wiki/Byzantine_Empire" title="Byzantine Empire">Eastern</a></li></ul></li>
+<li><a href="/wiki/Teotihuacan" title="Teotihuacan">Teotihuacan</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Post-classical_history" title="Post-classical history">Post-classical</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Caliphate" title="Caliphate">Arab</a>
+<ul><li><a href="/wiki/Rashidun_Caliphate" title="Rashidun Caliphate">Rashidun</a></li>
+<li><a href="/wiki/Umayyad_Caliphate" title="Umayyad Caliphate">Umayyad</a></li>
+<li><a href="/wiki/Abbasid_Caliphate" title="Abbasid Caliphate">Abbasid</a></li>
+<li><a href="/wiki/Fatimid_Caliphate" title="Fatimid Caliphate">Fatimid</a></li>
+<li><a href="/wiki/Caliphate_of_C%C3%B3rdoba" title="Caliphate of Córdoba">Córdoba</a></li></ul></li>
+<li><a href="/wiki/Crown_of_Aragon" title="Crown of Aragon">Aragonese</a></li>
+<li><a href="/wiki/Angevin_Empire" title="Angevin Empire">Angevin</a></li>
+<li><a href="/wiki/Aztec_Empire" title="Aztec Empire">Aztec</a></li>
+<li><a href="/wiki/Benin_Empire" class="mw-redirect" title="Benin Empire">Benin</a></li>
+<li><a href="/wiki/Bornu_Empire" class="mw-redirect" title="Bornu Empire">Bornu</a></li>
+<li><a href="/wiki/Bruneian_Empire" title="Bruneian Empire">Bruneian</a></li>
+<li><a href="/wiki/Bulgarian_Empire" title="Bulgarian Empire">Bulgarian</a>
+<ul><li><a href="/wiki/First_Bulgarian_Empire" title="First Bulgarian Empire">First</a></li>
+<li><a href="/wiki/Second_Bulgarian_Empire" title="Second Bulgarian Empire">Second</a></li></ul></li>
+<li><a href="/wiki/Byzantine_Empire" title="Byzantine Empire">Byzantine</a>
+<ul><li><a href="/wiki/Empire_of_Nicaea" title="Empire of Nicaea">Nicaea</a></li>
+<li><a href="/wiki/Empire_of_Trebizond" title="Empire of Trebizond">Trebizond</a></li></ul></li>
+<li><a href="/wiki/History_of_China#Imperial_era" title="History of China">Chinese</a>
+<ul><li><a href="/wiki/Sui_dynasty" title="Sui dynasty">Sui</a></li>
+<li><a href="/wiki/Tang_dynasty" title="Tang dynasty">Tang</a></li>
+<li><a href="/wiki/Song_dynasty" title="Song dynasty">Song</a></li>
+<li><a href="/wiki/Yuan_dynasty" title="Yuan dynasty">Yuan</a></li></ul></li>
+<li><a href="/wiki/Ethiopian_Empire" title="Ethiopian Empire">Ethiopian</a>
+<ul><li><a href="/wiki/Zagwe_dynasty" title="Zagwe dynasty">Zagwe</a></li>
+<li><a href="/wiki/Solomonic_dynasty" title="Solomonic dynasty">Solomonic</a></li></ul></li>
+<li><a href="/wiki/Empire_of_Georgia" class="mw-redirect" title="Empire of Georgia">Georgian</a></li>
+<li><a href="/wiki/Hunnic_Empire" class="mw-redirect" title="Hunnic Empire">Hunnic</a></li>
+<li><a href="/wiki/Inca_Empire" title="Inca Empire">Inca</a></li>
+<li><a href="/wiki/History_of_India" title="History of India">Indian</a>
+<ul><li><a href="/wiki/Chola_dynasty" title="Chola dynasty">Chola</a></li>
+<li><a href="/wiki/Gurjara-Pratihara" class="mw-redirect" title="Gurjara-Pratihara">Gurjara-Pratihara</a></li>
+<li><a href="/wiki/Pala_Empire" title="Pala Empire">Pala</a></li>
+<li><a href="/wiki/Eastern_Ganga_dynasty" title="Eastern Ganga dynasty">Eastern Ganga dynasty</a></li>
+<li><a href="/wiki/Delhi_Sultanate" title="Delhi Sultanate">Delhi</a></li>
+<li><a href="/wiki/Vijayanagara_Empire" title="Vijayanagara Empire">Vijayanagara</a></li></ul></li>
+<li><a href="/wiki/Persian_Empire" title="Persian Empire">Iranian</a>
+<ul><li><a href="/wiki/Samanid_Empire" title="Samanid Empire">Samanid</a></li></ul></li>
+<li><a href="/wiki/Kanem_Empire" class="mw-redirect" title="Kanem Empire">Kanem</a></li>
+<li><a href="/wiki/Khmer_Empire" title="Khmer Empire">Khmer</a></li>
+<li><a href="/wiki/Latin_Empire" title="Latin Empire">Latin</a></li>
+<li><a href="/wiki/Majapahit" title="Majapahit">Majapahit</a></li>
+<li><a href="/wiki/Malacca_Sultanate" title="Malacca Sultanate">Malaccan</a></li>
+<li><a href="/wiki/Mali_Empire" title="Mali Empire">Mali</a></li>
+<li><a href="/wiki/Mongol_Empire" title="Mongol Empire">Mongol</a>
+<ul><li><a href="/wiki/Yuan_dynasty" title="Yuan dynasty">Yuan</a></li>
+<li><a href="/wiki/Golden_Horde" title="Golden Horde">Golden Horde</a></li>
+<li><a href="/wiki/Chagatai_Khanate" title="Chagatai Khanate">Chagatai Khanate</a></li>
+<li><a href="/wiki/Ilkhanate" title="Ilkhanate">Ilkhanate</a></li></ul></li>
+<li><a href="/wiki/History_of_Morocco" title="History of Morocco">Moroccan</a>
+<ul><li><a href="/wiki/Idrisid_dynasty" title="Idrisid dynasty">Idrisid</a></li>
+<li><a href="/wiki/Almoravid_dynasty" title="Almoravid dynasty">Almoravid</a></li>
+<li><a href="/wiki/Almohad_Caliphate" title="Almohad Caliphate">Almohad</a></li>
+<li><a href="/wiki/Marinid_dynasty" title="Marinid dynasty">Marinid</a></li></ul></li>
+<li><a href="/wiki/North_Sea_Empire" title="North Sea Empire">North Sea</a></li>
+<li><a href="/wiki/Oyo_Empire" title="Oyo Empire">Oyo</a></li>
+<li><a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy-Roman</a>
+<ul><li><a href="/wiki/Carolingian_Empire" title="Carolingian Empire">Carolingian</a></li></ul></li>
+<li><a href="/wiki/Serbian_Empire" title="Serbian Empire">Serbian</a></li>
+<li><a href="/wiki/History_of_Somalia" title="History of Somalia">Somali</a>
+<ul><li><a href="/wiki/Ajuran_Sultanate" title="Ajuran Sultanate">Ajuran</a></li>
+<li><a href="/wiki/Sultanate_of_Ifat" title="Sultanate of Ifat">Ifatite</a></li>
+<li><a href="/wiki/Adal_Sultanate" title="Adal Sultanate">Adalite</a></li>
+<li><a href="/wiki/Sultanate_of_Mogadishu" title="Sultanate of Mogadishu">Mogadishan</a></li>
+<li><a href="/wiki/Warsangali_Sultanate" title="Warsangali Sultanate">Warsangali</a></li></ul></li>
+<li><a href="/wiki/Songhai_Empire" title="Songhai Empire">Songhai</a></li>
+<li><a href="/wiki/Srivijaya" title="Srivijaya">Srivijaya</a></li>
+<li><a href="/wiki/Tibetan_Empire" title="Tibetan Empire">Tibetan</a></li>
+<li><a href="/wiki/Turko-Persian_tradition" class="mw-redirect" title="Turko-Persian tradition">Turko-Persian</a>
+<ul><li><a href="/wiki/Ghaznavids" title="Ghaznavids">Ghaznavid</a></li>
+<li><a href="/wiki/Seljuk_Empire" title="Seljuk Empire">Great Seljuk</a></li>
+<li><a href="/wiki/Khwarazmian_dynasty" title="Khwarazmian dynasty">Khwarezmian</a></li>
+<li><a href="/wiki/Timurid_Empire" title="Timurid Empire">Timurid</a></li></ul></li>
+<li><a href="/wiki/History_of_Vietnam" title="History of Vietnam">Vietnamese</a>
+<ul><li><a href="/wiki/Ly_Dynasty" class="mw-redirect" title="Ly Dynasty">Ly</a></li>
+<li><a href="/wiki/Tran_Dynasty" class="mw-redirect" title="Tran Dynasty">Tran</a></li>
+<li><a href="/wiki/Later_Le_Dynasty" class="mw-redirect" title="Later Le Dynasty">Le</a></li></ul></li>
+<li><a href="/wiki/Ghana_Empire" title="Ghana Empire">Wagadou</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Modern_history" title="Modern history">Modern</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ashanti_Empire" title="Ashanti Empire">Ashanti</a></li>
+<li><a href="/wiki/Austrian_Empire" title="Austrian Empire">Austrian</a></li>
+<li><a href="/wiki/Austria-Hungary" title="Austria-Hungary">Austro-Hungarian</a></li>
+<li><a href="/wiki/Empire_of_Brazil" title="Empire of Brazil">Brazilian</a></li>
+<li><a href="/wiki/Central_African_Empire" title="Central African Empire">Central African</a></li>
+<li><a href="/wiki/History_of_China#Imperial_era" title="History of China">Chinese</a>
+<ul><li><a href="/wiki/Ming_dynasty" title="Ming dynasty">Ming</a></li>
+<li><a href="/wiki/Qing_dynasty" title="Qing dynasty">Qing</a></li>
+<li><a href="/wiki/Empire_of_China_(1915%E2%80%931916)" title="Empire of China (1915–1916)">China</a></li>
+<li><a href="/wiki/Manchukuo" title="Manchukuo">Manchukuo</a></li></ul></li>
+<li><a href="/wiki/Ethiopian_Empire" title="Ethiopian Empire">Ethiopian</a></li>
+<li><a href="/wiki/History_of_Haiti" title="History of Haiti">Haitian</a></li>
+<li><a href="/wiki/History_of_France" title="History of France">French</a>
+<ul><li><a href="/wiki/First_French_Empire" title="First French Empire">First</a></li>
+<li><a href="/wiki/Second_French_Empire" title="Second French Empire">Second</a></li></ul></li>
+<li><a href="/wiki/History_of_Germany" title="History of Germany">German</a>
+<ul><li><a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">First/Old Reich</a></li>
+<li><a href="/wiki/German_Empire" title="German Empire">Second Reich</a></li>
+<li><a href="/wiki/Nazi_Germany" title="Nazi Germany">Third Reich</a></li></ul></li>
+<li><a href="/wiki/History_of_India" title="History of India">Indian</a>
+<ul><li><a href="/wiki/Maratha_Empire" title="Maratha Empire">Maratha</a></li>
+<li><a href="/wiki/Sikh_Empire" title="Sikh Empire">Sikh</a></li>
+<li><a href="/wiki/Mughal_Empire" title="Mughal Empire">Mughal</a></li>
+<li><a href="/wiki/British_Raj" title="British Raj">British Raj</a></li></ul></li>
+<li><a href="/wiki/Persian_Empire" title="Persian Empire">Iranian</a>
+<ul><li><a href="/wiki/Safavid_dynasty" title="Safavid dynasty">Safavid</a></li>
+<li><a href="/wiki/Afsharid_dynasty" title="Afsharid dynasty">Afsharid</a></li></ul></li>
+<li><a href="/wiki/Empire_of_Japan" title="Empire of Japan">Japanese</a></li>
+<li><a href="/wiki/Johor_Sultanate" title="Johor Sultanate">Johor</a></li>
+<li><a href="/wiki/Korean_Empire" title="Korean Empire">Korean</a></li>
+<li><a href="/wiki/History_of_Mexico" title="History of Mexico">Mexican</a>
+<ul><li><a href="/wiki/First_Mexican_Empire" title="First Mexican Empire">First</a></li>
+<li><a href="/wiki/Second_Mexican_Empire" title="Second Mexican Empire">Second</a></li></ul></li>
+<li><a href="/wiki/History_of_Morocco" title="History of Morocco">Moroccan</a>
+<ul><li><a href="/wiki/Saadi_dynasty" title="Saadi dynasty">Saadi</a></li>
+<li><a href="/wiki/Alaouite_dynasty" title="Alaouite dynasty">Alaouite</a></li></ul></li>
+<li><a href="/wiki/Russian_Empire" title="Russian Empire">Russian</a></li>
+<li><a href="/wiki/History_of_Somalia" title="History of Somalia">Somali</a>
+<ul><li><a href="/wiki/Sultanate_of_the_Geledi" title="Sultanate of the Geledi">Gobroon</a></li>
+<li><a href="/wiki/Majeerteen_Sultanate" title="Majeerteen Sultanate">Majeerteen</a></li>
+<li><a href="/wiki/Sultanate_of_Hobyo" title="Sultanate of Hobyo">Hobyo</a></li></ul></li>
+<li><a href="/wiki/Soviet_Empire" title="Soviet Empire">Soviet</a></li>
+<li><a href="/wiki/Swedish_Empire" title="Swedish Empire">Swedish</a></li>
+<li><a href="/wiki/Tu%CA%BBi_Tonga_Empire" title="Tuʻi Tonga Empire">Tongan</a></li>
+<li><a href="/wiki/History_of_Turkey" title="History of Turkey">Turkish</a>
+<ul><li><a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman</a></li>
+<li><a href="/wiki/Karamanids" title="Karamanids">Karaman</a></li>
+<li><a href="/wiki/Ramadanids" class="mw-redirect" title="Ramadanids">Ramazan</a></li></ul></li>
+<li><a href="/wiki/History_of_Vietnam" title="History of Vietnam">Vietnamese</a>
+<ul><li><a href="/wiki/Tay_Son_Dynasty" class="mw-redirect" title="Tay Son Dynasty">Tay Son</a></li>
+<li><a href="/wiki/Nguyen_Dynasty" class="mw-redirect" title="Nguyen Dynasty">Nguyen</a></li>
+<li><a href="/wiki/Empire_of_Vietnam" title="Empire of Vietnam">Vietnam</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Colonial_empire" title="Colonial empire">Colonial</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/United_States_territorial_acquisitions" title="United States territorial acquisitions">American</a></li>
+<li><a href="/wiki/Belgian_colonial_empire" title="Belgian colonial empire">Belgian</a></li>
+<li><a href="/wiki/British_Empire" title="British Empire">British</a>
+<ul><li><a href="/wiki/English_overseas_possessions" title="English overseas possessions">English</a></li></ul></li>
+<li><a href="/wiki/Danish_colonial_empire" class="mw-redirect" title="Danish colonial empire">Danish</a></li>
+<li><a href="/wiki/Dutch_Empire" title="Dutch Empire">Dutch</a></li>
+<li><a href="/wiki/French_colonial_empire" title="French colonial empire">French</a></li>
+<li><a href="/wiki/German_colonial_empire" title="German colonial empire">German</a></li>
+<li><a href="/wiki/Italian_Empire" title="Italian Empire">Italian</a></li>
+<li><a href="/wiki/Japanese_colonial_empire" title="Japanese colonial empire">Japanese</a></li>
+<li><a href="/wiki/Muscat_and_Oman" title="Muscat and Oman">Omani</a></li>
+<li><a href="/wiki/Polish%E2%80%93Lithuanian_Commonwealth" title="Polish–Lithuanian Commonwealth">Polish–Lithuanian</a>
+<ul><li><a href="/wiki/Couronian_colonization" title="Couronian colonization">Couronian</a></li></ul></li>
+<li><a href="/wiki/Portuguese_Empire" title="Portuguese Empire">Portuguese</a></li>
+<li><a href="/wiki/Sovereign_Military_Order_of_Malta" title="Sovereign Military Order of Malta">Sovereign Military Order of Malta</a></li>
+<li><a href="/wiki/Spanish_Empire" title="Spanish Empire">Spanish</a></li>
+<li><a href="/wiki/Swedish_overseas_colonies" title="Swedish overseas colonies">Swedish</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Lists</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_empires" title="List of empires">Empires</a>
+<ul><li><a href="/wiki/List_of_largest_empires" title="List of largest empires">largest</a></li></ul></li>
+<li><a href="/wiki/List_of_ancient_great_powers" title="List of ancient great powers">ancient great powers</a></li>
+<li><a href="/wiki/List_of_medieval_great_powers" title="List of medieval great powers">medieval great powers</a></li>
+<li><a href="/wiki/List_of_modern_great_powers" title="List of modern great powers">modern great powers</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="British_Empire" style="padding:3px"><table class="nowraplinks plainlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:British_overseas_territories" title="Template:British overseas territories"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:British_overseas_territories" title="Template talk:British overseas territories"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:British_overseas_territories&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="British_Empire" style="font-size:114%;margin:0 4em"><a href="/wiki/British_Empire" title="British Empire">British Empire</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id=";_Legend&amp;#10;:_Current_territory&amp;#10;:_Former_territory&amp;#10;:_Now_a_Commonwealth_realm&amp;#10;:_Now_a_member_of_the_Commonwealth_of_Nations&amp;#10;:_Historical_flags_of_the_British_Empire"><div class="hlist">
+<dl><dt><span style="font-weight:normal;">Legend</span></dt>
+<dd><u>Current territory</u></dd>
+<dd>Former territory</dd>
+<dd>*&#160;Now a <a href="/wiki/Commonwealth_realm" title="Commonwealth realm">Commonwealth realm</a></dd>
+<dd><i>Now a member of the <a href="/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">Commonwealth of Nations</a></i></dd>
+<dd><i><a href="/wiki/Historical_flags_of_the_British_Empire" class="mw-redirect" title="Historical flags of the British Empire">Historical flags of the British Empire</a></i></dd></dl>
+</div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Europe" style="font-size:114%;margin:0 4em">Europe</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>1542–1800 <a href="/wiki/Kingdom_of_Ireland" title="Kingdom of Ireland">Ireland</a> <small>(integrated into UK)</small></li>
+<li>1708–1757, 1763–1782 and 1798–1802 <a href="/wiki/Menorca" title="Menorca">Minorca</a></li>
+<li>Since 1713 <u><a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a></u></li>
+<li>1800–1813 <i><a href="/wiki/Malta_Protectorate" title="Malta Protectorate">Malta (Protectorate)</a></i></li>
+<li>1813–1964 <i><a href="/wiki/Crown_Colony_of_Malta" title="Crown Colony of Malta">Malta (Colony)</a></i></li>
+<li>1807–1890 <a href="/wiki/Heligoland" title="Heligoland">Heligoland</a></li>
+<li>1809–1864 <a href="/wiki/United_States_of_the_Ionian_Islands" title="United States of the Ionian Islands">Ionian Islands</a></li>
+<li>1878–1960 <i><a href="/wiki/British_Cyprus" title="British Cyprus">Cyprus</a></i></li>
+<li>1921–1937 <a href="/wiki/Irish_Free_State" title="Irish Free State">Irish Free State</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="North_America" style="font-size:114%;margin:0 4em">North America</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;color:inherit;"><div style="padding:0px;"><table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:100%;"><tbody><tr><td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">17th century and before</td><td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;">18th century</td><td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;">19th and 20th century</td></tr><tr style="vertical-align:top;"><td class="navbox-list" style="padding:0px;;;;width:10em;"><div>
+<ul><li>1579 <a href="/wiki/New_Albion" title="New Albion">New Albion</a></li>
+<li>1583–1907 <a href="/wiki/History_of_Newfoundland_and_Labrador" title="History of Newfoundland and Labrador">Newfoundland</a></li>
+<li>1605–1979 *<i><a href="/wiki/British_Saint_Lucia" class="mw-redirect" title="British Saint Lucia">Saint Lucia</a></i></li>
+<li>1607–1776 <a href="/wiki/Colony_of_Virginia" title="Colony of Virginia">Virginia</a></li>
+<li>Since 1619 <u><a href="/wiki/Bermuda" title="Bermuda">Bermuda</a></u></li>
+<li>1620–1691 <a href="/wiki/Plymouth_Colony" title="Plymouth Colony">Plymouth</a></li>
+<li>1623–1883 <a href="/wiki/Saint_Kitts" title="Saint Kitts">Saint Kitts</a></li>
+<li>1624–1966 *<i><a href="/wiki/History_of_Barbados" title="History of Barbados">Barbados</a></i></li>
+<li>1625–1650 <a href="/wiki/Saint_Croix,_U.S._Virgin_Islands" class="mw-redirect" title="Saint Croix, U.S. Virgin Islands">Saint Croix</a></li>
+<li>1627–1979 *<i><a href="/wiki/History_of_Saint_Vincent_and_the_Grenadines" title="History of Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</a></i></li>
+<li>1628–1883 <a href="/wiki/Nevis" title="Nevis">Nevis</a></li>
+<li>1629–1691 <a href="/wiki/Massachusetts_Bay_Colony" title="Massachusetts Bay Colony">Massachusetts Bay</a></li>
+<li>1632–1776 <a href="/wiki/Province_of_Maryland" title="Province of Maryland">Maryland</a></li>
+<li>since 1632 <u><a href="/wiki/Montserrat" title="Montserrat">Montserrat</a></u></li>
+<li>1632–1860 <a href="/wiki/Antigua" title="Antigua">Antigua</a></li>
+<li>1635–1644 <a href="/wiki/Saybrook_Colony" title="Saybrook Colony">Saybrook</a></li>
+<li>1636–1776 <a href="/wiki/Connecticut_Colony" title="Connecticut Colony">Connecticut</a></li>
+<li>1636–1776 <a href="/wiki/Colony_of_Rhode_Island_and_Providence_Plantations" title="Colony of Rhode Island and Providence Plantations">Rhode Island</a></li>
+<li>1637–1662 <a href="/wiki/New_Haven_Colony" title="New Haven Colony">New Haven</a></li></ul>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;"><div>
+<ul><li>1643–1860 <a href="/wiki/Bay_Islands_Department" title="Bay Islands Department">Bay Islands</a></li>
+<li>Since 1650 <u><a href="/wiki/Anguilla" title="Anguilla">Anguilla</a></u></li>
+<li>1655–1850 <a href="/wiki/Mosquito_Coast" title="Mosquito Coast">Mosquito Coast</a></li>
+<li>1655–1962 *<i><a href="/wiki/Colony_of_Jamaica" title="Colony of Jamaica">Jamaica</a></i></li>
+<li>1663–1712 <a href="/wiki/Province_of_Carolina" title="Province of Carolina">Carolina</a></li>
+<li>1664–1776 <a href="/wiki/Province_of_New_York" title="Province of New York">New York</a></li>
+<li>1665–1674 and 1702–1776 <a href="/wiki/Province_of_New_Jersey" title="Province of New Jersey">New Jersey</a></li>
+<li>Since 1666 <u><a href="/wiki/British_Virgin_Islands" title="British Virgin Islands">Virgin Islands</a></u></li>
+<li>Since 1670 <u><a href="/wiki/Cayman_Islands" title="Cayman Islands">Cayman Islands</a></u></li>
+<li>1670–1973 *<i><a href="/wiki/History_of_the_Bahamas" title="History of the Bahamas">Bahamas</a></i></li>
+<li>1670–1870 <a href="/wiki/Rupert%27s_Land" title="Rupert&#39;s Land">Rupert's Land</a></li>
+<li>1671–1816 <a href="/wiki/British_Leeward_Islands" title="British Leeward Islands">Leeward Islands</a></li>
+<li>1674–1702 <a href="/wiki/East_Jersey" title="East Jersey">East Jersey</a></li>
+<li>1674–1702 <a href="/wiki/West_Jersey" title="West Jersey">West Jersey</a></li>
+<li>1680–1776 <a href="/wiki/Province_of_New_Hampshire" title="Province of New Hampshire">New Hampshire</a></li>
+<li>1681–1776 <a href="/wiki/Province_of_Pennsylvania" title="Province of Pennsylvania">Pennsylvania</a></li>
+<li>1686–1689 <a href="/wiki/Dominion_of_New_England" title="Dominion of New England">New England</a></li>
+<li>1691–1776 <a href="/wiki/Province_of_Massachusetts_Bay" title="Province of Massachusetts Bay">Massachusetts Bay</a></li></ul>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;"><div>
+<ul><li>1701–1776 <a href="/wiki/Delaware_Colony" title="Delaware Colony">Delaware</a></li>
+<li>1712–1776 <a href="/wiki/Province_of_North-Carolina" title="Province of North-Carolina">North-Carolina</a></li>
+<li>1712–1776 <a href="/wiki/Province_of_South_Carolina" title="Province of South Carolina">South-Carolina</a></li>
+<li>1713–1867 <a href="/wiki/History_of_Nova_Scotia" title="History of Nova Scotia">Nova Scotia</a></li>
+<li>1733–1776 <a href="/wiki/Province_of_Georgia" title="Province of Georgia">Georgia</a></li>
+<li>1754–1820 <a href="/wiki/Cape_Breton_Island" title="Cape Breton Island">Cape Breton Island</a></li>
+<li>1762–1974 *<i><a href="/wiki/History_of_Grenada" title="History of Grenada">Grenada</a></i></li>
+<li>1763–1978 <i><a href="/wiki/History_of_Dominica" title="History of Dominica">Dominica</a></i></li>
+<li>1763–1873 <a href="/wiki/History_of_Prince_Edward_Island" title="History of Prince Edward Island">Prince Edward Island</a></li>
+<li>1763–1791 <a href="/wiki/Province_of_Quebec_(1763%E2%80%9391)" class="mw-redirect" title="Province of Quebec (1763–91)">Quebec</a></li>
+<li>1763–1783 <a href="/wiki/East_Florida" title="East Florida">East Florida</a></li>
+<li>1763–1783 <a href="/wiki/British_West_Florida" title="British West Florida">West Florida</a></li>
+<li>1784–1867 <a href="/wiki/History_of_New_Brunswick" title="History of New Brunswick">New Brunswick</a></li>
+<li>1791–1841 <a href="/wiki/Lower_Canada" title="Lower Canada">Lower Canada</a></li>
+<li>1791–1841 <a href="/wiki/Upper_Canada" title="Upper Canada">Upper Canada</a></li>
+<li>Since 1799 <u><a href="/wiki/Turks_and_Caicos_Islands" title="Turks and Caicos Islands">Turks and Caicos Islands</a></u></li></ul>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;"><div>
+<ul><li>1818–1846 <a href="/wiki/Columbia_District" title="Columbia District">Columbia District</a>/<a href="/wiki/Oregon_Country" title="Oregon Country">Oregon Country</a><sup>1</sup></li>
+<li>1833–1960 <a href="/wiki/British_Windward_Islands" title="British Windward Islands">Windward Islands</a></li>
+<li>1833–1960 <a href="/wiki/British_Leeward_Islands" title="British Leeward Islands">Leeward Islands</a></li>
+<li>1841–1867 <a href="/wiki/Province_of_Canada" title="Province of Canada">Canada</a></li>
+<li>1849–1866 <a href="/wiki/Colony_of_Vancouver_Island" title="Colony of Vancouver Island">Vancouver Island</a></li>
+<li>1853–1863 <a href="/wiki/Colony_of_the_Queen_Charlotte_Islands" title="Colony of the Queen Charlotte Islands">Queen Charlotte Islands</a></li>
+<li>1858–1866 <a href="/wiki/Colony_of_British_Columbia_(1858%E2%80%9366)" class="mw-redirect" title="Colony of British Columbia (1858–66)">British Columbia</a></li>
+<li>1859–1870 <a href="/wiki/North-Western_Territory" title="North-Western Territory">North-Western Territory</a></li>
+<li>1860–1981 *<i><a href="/wiki/History_of_Antigua_and_Barbuda" title="History of Antigua and Barbuda">British Antigua and Barbuda</a></i></li>
+<li>1862–1863 <a href="/wiki/Stickeen_Territories" title="Stickeen Territories">Stickeen</a></li>
+<li>1866–1871 <a href="/wiki/Colony_of_British_Columbia_(1866%E2%80%9371)" class="mw-redirect" title="Colony of British Columbia (1866–71)">British Columbia</a></li>
+<li>1867–1931 *<i><a href="/wiki/Post-Confederation_Canada_(1867%E2%80%931914)" class="mw-redirect" title="Post-Confederation Canada (1867–1914)">Dominion of Canada</a></i><sup>2</sup></li>
+<li>1871–1964 <a href="/wiki/British_Honduras" title="British Honduras">Honduras</a></li>
+<li>1882–1983 *<i><a href="/wiki/History_of_Saint_Kitts_and_Nevis" title="History of Saint Kitts and Nevis">Saint Kitts and Nevis</a></i></li>
+<li>1889–1962 <i><a href="/wiki/History_of_Trinidad_and_Tobago" title="History of Trinidad and Tobago">Trinidad and Tobago</a></i></li>
+<li>1907–1949 <a href="/wiki/Dominion_of_Newfoundland" title="Dominion of Newfoundland">Newfoundland</a><sup>3</sup></li>
+<li>1958–1962 <a href="/wiki/West_Indies_Federation" title="West Indies Federation">West Indies Federation</a></li></ul>
+</div></td></tr></tbody></table></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li>1.&#160;<a href="/wiki/Condominium_(international_law)" title="Condominium (international law)">Occupied jointly</a> with the United States.</li>
+<li>2.&#160;In 1931, Canada and other British <a href="/wiki/Dominion" title="Dominion">dominions</a> obtained self-government through the <a href="/wiki/Statute_of_Westminster_1931" title="Statute of Westminster 1931">Statute of Westminster</a>. See <a href="/wiki/Name_of_Canada" title="Name of Canada">Name of Canada</a>.</li>
+<li>3.&#160;Gave up <a href="/wiki/Responsible_government" title="Responsible government">self-rule</a> in 1934, but remained a <i><a href="/wiki/De_jure" title="De jure">de jure</a></i> Dominion until it <a href="/wiki/Provinces_and_territories_of_Canada" title="Provinces and territories of Canada">joined Canada</a> in 1949.</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="South_America" style="font-size:114%;margin:0 4em">South America</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>1631–1641 <a href="/wiki/Providence_Island_colony" title="Providence Island colony">Providence Island</a></li>
+<li>1651–1667 <a href="/wiki/Willoughbyland" title="Willoughbyland">Willoughbyland</a></li>
+<li>1670–1688 <a href="/wiki/Archipelago_of_San_Andr%C3%A9s,_Providencia_and_Santa_Catalina" title="Archipelago of San Andrés, Providencia and Santa Catalina">Saint Andrew and Providence Islands</a><sup>4</sup></li>
+<li>1831–1966 <i><a href="/wiki/British_Guiana" title="British Guiana">Guiana</a></i></li>
+<li>Since 1833 <u><a href="/wiki/Falkland_Islands" title="Falkland Islands">Falkland Islands</a></u><sup>5</sup></li>
+<li>Since 1908 <u><a href="/wiki/South_Georgia_and_the_South_Sandwich_Islands" title="South Georgia and the South Sandwich Islands">South Georgia and the South Sandwich Islands</a></u><sup>5</sup></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li>4.&#160;Now a <a href="/wiki/Departments_of_Colombia" title="Departments of Colombia">department of Colombia</a>.</li>
+<li>5.&#160;Occupied by Argentina during the <a href="/wiki/Falklands_War" title="Falklands War">Falklands War</a> of April–June 1982.</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Africa" style="font-size:114%;margin:0 4em">Africa</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;color:inherit;"><div style="padding:0px;"><table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:100%;"><tbody><tr><td class="navbox-abovebelow" colspan="1" style="font-weight:bold;">17th and 18th centuries</td><td class="navbox-abovebelow" colspan="2" style="border-left:2px solid #fdfdfd;font-weight:bold;">19th century</td><td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;">20th century</td></tr><tr style="vertical-align:top;"><td class="navbox-list" style="padding:0px;;;;width:10em;"><div>
+<ul><li>Since 1658 <u><a href="/wiki/Saint_Helena" title="Saint Helena">Saint Helena</a></u><sup>14</sup></li>
+<li>1792–1961 <i><a href="/wiki/Sierra_Leone_Colony_and_Protectorate" title="Sierra Leone Colony and Protectorate">Sierra Leone</a></i></li>
+<li>1795–1803 <a href="/wiki/Cape_Colony" title="Cape Colony">Cape Colony</a></li></ul>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;"><div>
+<ul><li>Since 1815 <u><a href="/wiki/Ascension_Island" title="Ascension Island">Ascension Island</a></u><sup>14</sup></li>
+<li>Since 1816 <u><a href="/wiki/Tristan_da_Cunha" title="Tristan da Cunha">Tristan da Cunha</a></u><sup>14</sup></li>
+<li>1806–1910 <a href="/wiki/Cape_Colony" title="Cape Colony">Cape of Good Hope</a></li>
+<li>1807–1808 <a href="/wiki/History_of_Madeira" title="History of Madeira">Madeira</a></li>
+<li>1810–1968 <i><a href="/wiki/British_Mauritius" title="British Mauritius">Mauritius</a></i></li>
+<li>1816–1965 <a href="/wiki/Gambia_Colony_and_Protectorate" title="Gambia Colony and Protectorate">The Gambia</a></li>
+<li>1856–1910 <a href="/wiki/Colony_of_Natal" title="Colony of Natal">Natal</a></li>
+<li>1862–1906 <a href="/wiki/Lagos_Colony" title="Lagos Colony">Lagos</a></li>
+<li>1868–1966 <a href="/wiki/Basutoland" title="Basutoland">Basutoland</a></li>
+<li>1874–1957 <a href="/wiki/Gold_Coast_(British_colony)" title="Gold Coast (British colony)">Gold Coast</a></li>
+<li>1882–1922 <a href="/wiki/Sultanate_of_Egypt" title="Sultanate of Egypt">Egypt</a></li></ul>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;"><div>
+<ul><li>1884–1900 <a href="/wiki/Niger_Coast_Protectorate" title="Niger Coast Protectorate">Niger Coast</a></li>
+<li>1884–1966 <a href="/wiki/Bechuanaland_Protectorate" title="Bechuanaland Protectorate">Bechuanaland</a></li>
+<li>1884–1960 <a href="/wiki/British_Somaliland" title="British Somaliland">Somaliland</a></li>
+<li>1887–1897 <a href="/wiki/Zulu_Kingdom" title="Zulu Kingdom">Zululand</a></li>
+<li>1890–1962 <i><a href="/wiki/Uganda_Protectorate" title="Uganda Protectorate">Uganda</a></i></li>
+<li>1890–1963 <a href="/wiki/Zanzibar" title="Zanzibar">Zanzibar</a></li>
+<li>1891–1964 <a href="/wiki/Nyasaland" title="Nyasaland">Nyasaland</a></li>
+<li>1891–1907 <a href="/wiki/British_Central_Africa_Protectorate" title="British Central Africa Protectorate">Central Africa</a></li>
+<li>1893–1968 <i><a href="/wiki/History_of_Swaziland" title="History of Swaziland">Swaziland</a></i></li>
+<li>1895–1920 <a href="/wiki/East_Africa_Protectorate" title="East Africa Protectorate">East Africa</a></li>
+<li>1899–1956 <a href="/wiki/Anglo-Egyptian_Sudan" title="Anglo-Egyptian Sudan">Sudan</a></li></ul>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;"><div>
+<ul><li>1900–1914 <a href="/wiki/Northern_Nigeria_Protectorate" title="Northern Nigeria Protectorate">Northern Nigeria</a></li>
+<li>1900–1914 <a href="/wiki/Southern_Nigeria_Protectorate" title="Southern Nigeria Protectorate">Southern Nigeria</a></li>
+<li>1900–1910 <a href="/wiki/Orange_River_Colony" title="Orange River Colony">Orange River</a></li>
+<li>1900–1910 <a href="/wiki/Transvaal_Colony" title="Transvaal Colony">Transvaal</a></li>
+<li>1903–1976 <i><a href="/wiki/History_of_Seychelles" title="History of Seychelles">Seychelles</a></i></li>
+<li>1910–1931 <i><a href="/wiki/Union_of_South_Africa" title="Union of South Africa">South Africa</a></i></li>
+<li>1914–1960 <a href="/wiki/Colonial_Nigeria" title="Colonial Nigeria">Nigeria</a></li>
+<li>1915–1931 <a href="/wiki/South-West_Africa" class="mw-redirect" title="South-West Africa">South-West Africa</a></li>
+<li>1919–1961 <a href="/wiki/British_Cameroons" title="British Cameroons">Cameroons</a><sup>6</sup></li>
+<li>1920–1963 <i><a href="/wiki/Kenya_Colony" title="Kenya Colony">Kenya</a></i></li>
+<li>1922–1961 <a href="/wiki/Tanganyika_(territory)" title="Tanganyika (territory)">Tanganyika</a><sup>6</sup></li>
+<li>1923–1965 and 1979–1980 <a href="/wiki/Southern_Rhodesia" title="Southern Rhodesia">Southern Rhodesia</a><sup>7</sup></li>
+<li>1924–1964 <a href="/wiki/Northern_Rhodesia" title="Northern Rhodesia">Northern Rhodesia</a></li></ul>
+</div></td></tr></tbody></table></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li>6.&#160;<a href="/wiki/League_of_Nations_mandate" title="League of Nations mandate">League of Nations mandate</a>.</li>
+<li>7.&#160;<a href="/wiki/Responsible_government" title="Responsible government">Self-governing</a> Southern Rhodesia <a href="/wiki/Rhodesia%27s_Unilateral_Declaration_of_Independence" title="Rhodesia&#39;s Unilateral Declaration of Independence">unilaterally declared independence</a> in 1965 (as <a href="/wiki/Rhodesia" title="Rhodesia">Rhodesia</a>) and continued as an <a href="/wiki/Diplomatic_recognition" title="Diplomatic recognition">unrecognised</a> state until the 1979 <a href="/wiki/Lancaster_House_Agreement" title="Lancaster House Agreement">Lancaster House Agreement</a>. After recognised independence in 1980, Zimbabwe was a member of the Commonwealth until it withdrew in 2003.</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Asia" style="font-size:114%;margin:0 4em">Asia</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;color:inherit;"><div style="padding:0px;"><table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:100%;"><tbody><tr><td class="navbox-abovebelow" colspan="1" style="font-weight:bold;">17th and 18th century</td><td class="navbox-abovebelow" colspan="2" style="border-left:2px solid #fdfdfd;font-weight:bold;">19th century</td><td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;">20th century</td></tr><tr style="vertical-align:top;"><td class="navbox-list" style="padding:0px;;;;width:10em;"><div>
+<ul><li>1685–1824 <a href="/wiki/British_Bencoolen" title="British Bencoolen">Bencoolen</a></li>
+<li>1702–1705 <a href="/wiki/C%C3%B4n_S%C6%A1n_Island" title="Côn Sơn Island">Pulo Condore</a></li>
+<li>1757–1947 <a href="/wiki/Bengal_Presidency" title="Bengal Presidency">Bengal</a></li>
+<li>1762–1764 <a href="/wiki/British_invasion_of_Manila" class="mw-redirect" title="British invasion of Manila">Manila and Cavite</a></li>
+<li>1781–1784 and 1795–1819 <a href="/wiki/Padang" title="Padang">Padang</a></li>
+<li>1786–1946 <a href="/wiki/History_of_Penang" title="History of Penang">Penang</a></li>
+<li>1795–1948 <a href="/wiki/British_Ceylon" title="British Ceylon">Ceylon</a></li>
+<li>1796–1965 <i><a href="/wiki/History_of_the_Maldives" title="History of the Maldives">Maldives</a></i></li></ul>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;"><div>
+<ul><li>1811–1816 <a href="/wiki/Java_Island" class="mw-redirect" title="Java Island">Java</a></li>
+<li>1812–1824 <a href="/wiki/Bangka_Island" title="Bangka Island">Banka</a> and <a href="/wiki/Belitung" title="Belitung">Billiton</a></li>
+<li>1819–1826 <a href="/wiki/British_Malaya" title="British Malaya">Malaya</a></li>
+<li>1824–1948 <a href="/wiki/British_rule_in_Burma" title="British rule in Burma">Burma</a></li>
+<li>1826–1946 <a href="/wiki/Straits_Settlements" title="Straits Settlements">Straits Settlements</a></li>
+<li>1839–1967 <a href="/wiki/Colony_of_Aden" title="Colony of Aden">Aden</a></li>
+<li>1839–1842 <a href="/wiki/First_Anglo-Afghan_War" title="First Anglo-Afghan War">Afghanistan</a></li>
+<li>1841–1997 <a href="/wiki/British_Hong_Kong" title="British Hong Kong">Hong Kong</a></li>
+<li>1841–1946 <a href="/wiki/Kingdom_of_Sarawak" title="Kingdom of Sarawak">Sarawak</a></li>
+<li>1848–1946 <a href="/wiki/Crown_Colony_of_Labuan" title="Crown Colony of Labuan">Labuan</a></li>
+<li>1858–1947 <a href="/wiki/British_Raj" title="British Raj">India</a></li>
+<li>1874–1963 <a href="/wiki/British_Borneo" title="British Borneo">Borneo</a></li></ul>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;"><div>
+<ul><li>1879–1919 <a href="/wiki/European_influence_in_Afghanistan" title="European influence in Afghanistan">Afghanistan</a> (protectorate)</li>
+<li>1882–1963 <a href="/wiki/North_Borneo" title="North Borneo">North Borneo</a></li>
+<li>1885–1946 <a href="/wiki/Unfederated_Malay_States" title="Unfederated Malay States">Unfederated Malay States</a></li>
+<li>1888–1984 <i><a href="/wiki/Bruneian_Empire" title="Bruneian Empire">Brunei</a></i></li>
+<li>1891–1971 <a href="/wiki/Muscat_and_Oman" title="Muscat and Oman">Muscat and Oman</a></li>
+<li>1892–1971 <a href="/wiki/Trucial_States" title="Trucial States">Trucial States</a></li>
+<li>1895–1946 <a href="/wiki/Federated_Malay_States" title="Federated Malay States">Federated Malay States</a></li>
+<li>1898–1930 <a href="/wiki/Weihaiwei_under_British_rule" title="Weihaiwei under British rule">Weihai</a></li>
+<li>1878–1960 <i><a href="/wiki/British_Cyprus" title="British Cyprus">Cyprus</a></i></li></ul>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;"><div>
+<ul><li>1907–1949 <a href="/wiki/History_of_Bhutan" title="History of Bhutan">Bhutan</a> (protectorate)</li>
+<li>1918–1961 <a href="/wiki/Sheikhdom_of_Kuwait" title="Sheikhdom of Kuwait">Kuwait</a></li>
+<li>1920–1932 <a href="/wiki/British_Mandate_for_Mesopotamia_(legal_instrument)" title="British Mandate for Mesopotamia (legal instrument)">Mesopotamia</a><sup>8</sup></li>
+<li>1921–1946 <a href="/wiki/Emirate_of_Transjordan" title="Emirate of Transjordan">Transjordan</a><sup><small>8</small></sup></li>
+<li>1923–1948 <a href="/wiki/Mandatory_Palestine" title="Mandatory Palestine">Palestine</a><sup>8</sup></li>
+<li>1945–1946 <a href="/wiki/War_in_Vietnam_(1945%E2%80%9346)" title="War in Vietnam (1945–46)">South Vietnam</a></li>
+<li>1946–1963 <a href="/wiki/Crown_Colony_of_North_Borneo" title="Crown Colony of North Borneo">North Borneo</a></li>
+<li>1946–1963 <a href="/wiki/Crown_Colony_of_Sarawak" title="Crown Colony of Sarawak">Sarawak</a></li>
+<li>1946–1963 <i><a href="/wiki/Colony_of_Singapore" title="Colony of Singapore">Singapore</a></i></li>
+<li>1946–1948 <a href="/wiki/Malayan_Union" title="Malayan Union">Malayan Union</a></li>
+<li>1948–1957 <a href="/wiki/Federation_of_Malaya" title="Federation of Malaya">Federation of Malaya</a></li>
+<li>Since 1960 <u><a href="/wiki/Akrotiri_and_Dhekelia" title="Akrotiri and Dhekelia">Akrotiri and Dhekelia</a></u> (before as part of <a href="/wiki/Cyprus" title="Cyprus">Cyprus</a>)</li>
+<li>Since 1965 <u><a href="/wiki/British_Indian_Ocean_Territory" title="British Indian Ocean Territory">British Indian Ocean Territory</a></u> (before as part of <a href="/wiki/Mauritius" title="Mauritius">Mauritius</a> and the <a href="/wiki/Seychelles" title="Seychelles">Seychelles</a>)</li></ul>
+</div></td></tr></tbody></table></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><sup>8</sup>&#160;<a href="/wiki/League_of_Nations_mandate" title="League of Nations mandate">League of Nations mandate</a>. Iraq's mandate was not enacted and replaced by the <a href="/wiki/Anglo-Iraqi_Treaty" class="mw-redirect" title="Anglo-Iraqi Treaty">Anglo-Iraqi Treaty</a></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Oceania" style="font-size:114%;margin:0 4em">Oceania</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;color:inherit;"><div style="padding:0px;"><table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:100%;"><tbody><tr><td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">18th and 19th&#160;centuries</td><td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;">20th&#160;century</td></tr><tr style="vertical-align:top;"><td class="navbox-list" style="padding:0px;;;;width:10em;"><div>
+<ul><li>1788–1901 <a href="/wiki/Colony_of_New_South_Wales" title="Colony of New South Wales">New South Wales</a></li>
+<li>1803–1901 <a href="/wiki/Van_Diemen%27s_Land" title="Van Diemen&#39;s Land">Van Diemen's Land</a>/<a href="/wiki/Colony_of_Tasmania" title="Colony of Tasmania">Tasmania</a></li>
+<li>1807–1863 <a href="/wiki/Auckland_Islands" title="Auckland Islands">Auckland Islands</a><sup>9</sup></li>
+<li>1824–1980 <a href="/wiki/New_Hebrides" title="New Hebrides">New Hebrides</a></li>
+<li>1824–1901 <a href="/wiki/Colony_of_Queensland" title="Colony of Queensland">Queensland</a></li>
+<li>1829–1901 <a href="/wiki/Swan_River_Colony" title="Swan River Colony">Swan River</a>/<a href="/wiki/Colony_of_Western_Australia" class="mw-redirect" title="Colony of Western Australia">Western Australia</a></li>
+<li>1836–1901 <a href="/wiki/Colony_of_South_Australia" class="mw-redirect" title="Colony of South Australia">South Australia</a></li>
+<li>since 1838 <u><a href="/wiki/History_of_the_Pitcairn_Islands" title="History of the Pitcairn Islands">Pitcairn Islands</a></u></li></ul>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;"><div>
+<ul><li>1841–1907 <a href="/wiki/Colony_of_New_Zealand" title="Colony of New Zealand">New Zealand</a></li>
+<li>1846-1847 <a href="/wiki/North_Australia" title="North Australia">North Australia</a></li>
+<li>1851–1901 <a href="/wiki/Colony_of_Victoria" class="mw-redirect" title="Colony of Victoria">Victoria</a></li>
+<li>1874–1970 <i><a href="/wiki/Colony_of_Fiji" title="Colony of Fiji">Fiji</a></i><sup></sup></li>
+<li>1877–1976 <a href="/wiki/British_Western_Pacific_Territories" title="British Western Pacific Territories">Western Pacific Territories</a></li>
+<li>1884–1949 <a href="/wiki/Territory_of_Papua" title="Territory of Papua">Papua</a></li>
+<li>1888–1901 <a href="/wiki/Kingdom_of_Rarotonga" title="Kingdom of Rarotonga">Rarotonga</a>/<a href="/wiki/Cook_Islands_Federation" title="Cook Islands Federation">Cook Islands</a><sup>9</sup></li>
+<li>1889–1948 <a href="/wiki/Union_Islands" class="mw-redirect" title="Union Islands">Union Islands</a><sup>9</sup></li>
+<li>1892–1979 <a href="/wiki/Gilbert_and_Ellice_Islands" title="Gilbert and Ellice Islands">Gilbert and Ellice Islands</a><sup>11</sup></li>
+<li>1893–1978 <a href="/wiki/British_Solomon_Islands" title="British Solomon Islands">Solomon Islands</a><sup>12</sup></li></ul>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;"><div>
+<ul><li>1900–1970 <a href="/wiki/History_of_Tonga" title="History of Tonga">Tonga</a></li>
+<li>1900–1974 <a href="/wiki/History_of_Niue" title="History of Niue">Niue</a><sup>9</sup></li>
+<li>1901–1942 *<i><a href="/wiki/History_of_Australia_(1901%E2%80%9345)" title="History of Australia (1901–45)">Australia</a></i></li>
+<li>1907–1947 *<i><a href="/wiki/Dominion_of_New_Zealand" title="Dominion of New Zealand">New Zealand</a></i></li>
+<li>1919–1942 and 1945–1968 <a href="/wiki/History_of_Nauru" title="History of Nauru">Nauru</a></li>
+<li>1919–1949 <a href="/wiki/Territory_of_New_Guinea" title="Territory of New Guinea">New Guinea</a></li>
+<li>1949–1975 <i><a href="/wiki/Territory_of_Papua_and_New_Guinea" title="Territory of Papua and New Guinea">Papua and New Guinea</a></i><sup>13</sup></li></ul>
+</div></td></tr></tbody></table></div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li>9.&#160;Now part of the *<i><a href="/wiki/Realm_of_New_Zealand" title="Realm of New Zealand">Realm of New Zealand</a></i>.</li>
+<li>10.&#160;Suspended member.</li>
+<li>11.&#160;Now <i><a href="/wiki/Kiribati" title="Kiribati">Kiribati</a></i> and *<i><a href="/wiki/Tuvalu" title="Tuvalu">Tuvalu</a></i>.</li>
+<li>12.&#160;Now the *<i><a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomon Islands</a></i>.</li>
+<li>13.&#160;Now *<i><a href="/wiki/Papua_New_Guinea" title="Papua New Guinea">Papua New Guinea</a></i>.</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Antarctica_and_South_Atlantic" style="font-size:114%;margin:0 4em">Antarctica and South Atlantic</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Since 1658 <u><a href="/wiki/Saint_Helena" title="Saint Helena">Saint Helena</a></u><sup>14</sup></li>
+<li>Since 1815 <u><a href="/wiki/Ascension_Island" title="Ascension Island">Ascension Island</a></u><sup>14</sup></li>
+<li>Since 1816 <u><a href="/wiki/Tristan_da_Cunha" title="Tristan da Cunha">Tristan da Cunha</a></u><sup>14</sup></li>
+<li>Since 1908 <u><a href="/wiki/British_Antarctic_Territory" title="British Antarctic Territory">British Antarctic Territory</a></u><sup>15</sup></li>
+<li>1841–1933 <i><a href="/wiki/Australian_Antarctic_Territory" title="Australian Antarctic Territory">Australian Antarctic Territory</a></i> <small>(transferred to the <a href="/wiki/Commonwealth_of_Australia" class="mw-redirect" title="Commonwealth of Australia">Commonwealth of Australia</a>)</small></li>
+<li>1841–1947 <i><a href="/wiki/Ross_Dependency" title="Ross Dependency">Ross Dependency</a></i> <small>(transferred to the <a href="/wiki/Realm_of_New_Zealand" title="Realm of New Zealand">Realm of New Zealand</a>)</small></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li>14.&#160;Since 2009 part of <u><a href="/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha" title="Saint Helena, Ascension and Tristan da Cunha">Saint Helena, Ascension and Tristan da Cunha</a></u>; Ascension Island (1922–) and Tristan da Cunha (1938–) were previously dependencies of Saint Helena.</li>
+<li>15.&#160;Both claimed in 1908; territories formed in 1962 (British Antarctic Territory) and 1985 (South Georgia and the South Sandwich Islands).</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Empires" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Empires" title="Template:Empires"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Empires" title="Template talk:Empires"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Empires&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Empires" style="font-size:114%;margin:0 4em"><a href="/wiki/Empire" title="Empire">Empires</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ancient_history" title="Ancient history">Ancient</a><br />(<a href="/wiki/Colonies_in_antiquity" title="Colonies in antiquity">Colonies</a>)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akkadian_Empire" title="Akkadian Empire">Akkadian</a></li>
+<li><a href="/wiki/New_Kingdom_of_Egypt" title="New Kingdom of Egypt">Egyptian</a></li>
+<li><a href="/wiki/Neo-Assyrian_Empire" title="Neo-Assyrian Empire">Assyrian</a></li>
+<li><a href="/wiki/Neo-Babylonian_Empire" title="Neo-Babylonian Empire">Babylonian</a></li>
+<li><a href="/wiki/Ancient_Carthage" title="Ancient Carthage">Carthaginian</a></li>
+<li><a href="/wiki/History_of_China#Imperial_era" title="History of China">Chinese</a>
+<ul><li><a href="/wiki/Qin_dynasty" title="Qin dynasty">Qin</a></li>
+<li><a href="/wiki/Han_dynasty" title="Han dynasty">Han</a></li>
+<li><a href="/wiki/Three_Kingdoms" title="Three Kingdoms">Three Kingdoms</a></li>
+<li><a href="/wiki/Jin_dynasty_(265%E2%80%93420)" title="Jin dynasty (265–420)">Jin</a></li>
+<li><a href="/wiki/Northern_and_Southern_dynasties" title="Northern and Southern dynasties">North and South</a></li></ul></li>
+<li><a href="/wiki/Hellenistic_period" title="Hellenistic period">Hellenistic</a>
+<ul><li><a href="/wiki/Macedonia_(ancient_kingdom)#Empire" title="Macedonia (ancient kingdom)">Macedonian</a></li>
+<li><a href="/wiki/Seleucid_Empire" title="Seleucid Empire">Seleucid</a></li></ul></li>
+<li><a href="/wiki/Hittites" title="Hittites">Hittite</a></li>
+<li><a href="/wiki/History_of_India" title="History of India">Indian</a>
+<ul><li><a href="/wiki/Nanda_Empire" title="Nanda Empire">Nanda</a></li>
+<li><a href="/wiki/Maurya_Empire" title="Maurya Empire">Maurya</a></li>
+<li><a href="/wiki/Satavahana_dynasty" title="Satavahana dynasty">Satavahana</a></li>
+<li><a href="/wiki/Shunga_Empire" title="Shunga Empire">Shunga </a></li>
+<li><a href="/wiki/Gupta_Empire" title="Gupta Empire">Gupta</a></li>
+<li><a href="/wiki/Empire_of_Harsha" class="mw-redirect" title="Empire of Harsha">Harsha</a></li></ul></li>
+<li><a href="/wiki/Persian_Empire" title="Persian Empire">Iranian</a>
+<ul><li><a href="/wiki/Elamite_Empire" class="mw-redirect" title="Elamite Empire">Elamite</a></li>
+<li><a href="/wiki/Medes" title="Medes">Median</a></li>
+<li><a href="/wiki/Achaemenid_Empire" title="Achaemenid Empire">Achaemenid</a></li>
+<li><a href="/wiki/Parthian_Empire" title="Parthian Empire">Parthian</a></li>
+<li><a href="/wiki/Sasanian_Empire" title="Sasanian Empire">Sasanian</a></li></ul></li>
+<li><a href="/wiki/Kushan_Empire" title="Kushan Empire">Kushan</a></li>
+<li><a href="/wiki/History_of_Mongolia" title="History of Mongolia">Mongol</a>
+<ul><li><a href="/wiki/Xianbei_state" title="Xianbei state">Xianbei</a></li>
+<li><a href="/wiki/Xiongnu" title="Xiongnu">Xiongnu</a></li></ul></li>
+<li><a href="/wiki/Roman_Empire" title="Roman Empire">Roman</a>
+<ul><li><a href="/wiki/Western_Roman_Empire" title="Western Roman Empire">Western</a></li>
+<li><a href="/wiki/Byzantine_Empire" title="Byzantine Empire">Eastern</a></li></ul></li>
+<li><a href="/wiki/Teotihuacan" title="Teotihuacan">Teotihuacan</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Post-classical_history" title="Post-classical history">Post-classical</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Caliphate" title="Caliphate">Arab</a>
+<ul><li><a href="/wiki/Rashidun_Caliphate" title="Rashidun Caliphate">Rashidun</a></li>
+<li><a href="/wiki/Umayyad_Caliphate" title="Umayyad Caliphate">Umayyad</a></li>
+<li><a href="/wiki/Abbasid_Caliphate" title="Abbasid Caliphate">Abbasid</a></li>
+<li><a href="/wiki/Fatimid_Caliphate" title="Fatimid Caliphate">Fatimid</a></li>
+<li><a href="/wiki/Caliphate_of_C%C3%B3rdoba" title="Caliphate of Córdoba">Córdoba</a></li></ul></li>
+<li><a href="/wiki/Crown_of_Aragon" title="Crown of Aragon">Aragonese</a></li>
+<li><a href="/wiki/Angevin_Empire" title="Angevin Empire">Angevin</a></li>
+<li><a href="/wiki/Aztec_Empire" title="Aztec Empire">Aztec</a></li>
+<li><a href="/wiki/Benin_Empire" class="mw-redirect" title="Benin Empire">Benin</a></li>
+<li><a href="/wiki/Bornu_Empire" class="mw-redirect" title="Bornu Empire">Bornu</a></li>
+<li><a href="/wiki/Bruneian_Empire" title="Bruneian Empire">Bruneian</a></li>
+<li><a href="/wiki/Bulgarian_Empire" title="Bulgarian Empire">Bulgarian</a>
+<ul><li><a href="/wiki/First_Bulgarian_Empire" title="First Bulgarian Empire">First</a></li>
+<li><a href="/wiki/Second_Bulgarian_Empire" title="Second Bulgarian Empire">Second</a></li></ul></li>
+<li><a href="/wiki/Byzantine_Empire" title="Byzantine Empire">Byzantine</a>
+<ul><li><a href="/wiki/Empire_of_Nicaea" title="Empire of Nicaea">Nicaea</a></li>
+<li><a href="/wiki/Empire_of_Trebizond" title="Empire of Trebizond">Trebizond</a></li></ul></li>
+<li><a href="/wiki/History_of_China#Imperial_era" title="History of China">Chinese</a>
+<ul><li><a href="/wiki/Sui_dynasty" title="Sui dynasty">Sui</a></li>
+<li><a href="/wiki/Tang_dynasty" title="Tang dynasty">Tang</a></li>
+<li><a href="/wiki/Song_dynasty" title="Song dynasty">Song</a></li>
+<li><a href="/wiki/Yuan_dynasty" title="Yuan dynasty">Yuan</a></li></ul></li>
+<li><a href="/wiki/Ethiopian_Empire" title="Ethiopian Empire">Ethiopian</a>
+<ul><li><a href="/wiki/Zagwe_dynasty" title="Zagwe dynasty">Zagwe</a></li>
+<li><a href="/wiki/Solomonic_dynasty" title="Solomonic dynasty">Solomonic</a></li></ul></li>
+<li><a href="/wiki/Empire_of_Georgia" class="mw-redirect" title="Empire of Georgia">Georgian</a></li>
+<li><a href="/wiki/Hunnic_Empire" class="mw-redirect" title="Hunnic Empire">Hunnic</a></li>
+<li><a href="/wiki/Inca_Empire" title="Inca Empire">Inca</a></li>
+<li><a href="/wiki/History_of_India" title="History of India">Indian</a>
+<ul><li><a href="/wiki/Chola_dynasty" title="Chola dynasty">Chola</a></li>
+<li><a href="/wiki/Gurjara-Pratihara" class="mw-redirect" title="Gurjara-Pratihara">Gurjara-Pratihara</a></li>
+<li><a href="/wiki/Pala_Empire" title="Pala Empire">Pala</a></li>
+<li><a href="/wiki/Eastern_Ganga_dynasty" title="Eastern Ganga dynasty">Eastern Ganga dynasty</a></li>
+<li><a href="/wiki/Delhi_Sultanate" title="Delhi Sultanate">Delhi</a></li>
+<li><a href="/wiki/Vijayanagara_Empire" title="Vijayanagara Empire">Vijayanagara</a></li></ul></li>
+<li><a href="/wiki/Persian_Empire" title="Persian Empire">Iranian</a>
+<ul><li><a href="/wiki/Samanid_Empire" title="Samanid Empire">Samanid</a></li></ul></li>
+<li><a href="/wiki/Kanem_Empire" class="mw-redirect" title="Kanem Empire">Kanem</a></li>
+<li><a href="/wiki/Khmer_Empire" title="Khmer Empire">Khmer</a></li>
+<li><a href="/wiki/Latin_Empire" title="Latin Empire">Latin</a></li>
+<li><a href="/wiki/Majapahit" title="Majapahit">Majapahit</a></li>
+<li><a href="/wiki/Malacca_Sultanate" title="Malacca Sultanate">Malaccan</a></li>
+<li><a href="/wiki/Mali_Empire" title="Mali Empire">Mali</a></li>
+<li><a href="/wiki/Mongol_Empire" title="Mongol Empire">Mongol</a>
+<ul><li><a href="/wiki/Yuan_dynasty" title="Yuan dynasty">Yuan</a></li>
+<li><a href="/wiki/Golden_Horde" title="Golden Horde">Golden Horde</a></li>
+<li><a href="/wiki/Chagatai_Khanate" title="Chagatai Khanate">Chagatai Khanate</a></li>
+<li><a href="/wiki/Ilkhanate" title="Ilkhanate">Ilkhanate</a></li></ul></li>
+<li><a href="/wiki/History_of_Morocco" title="History of Morocco">Moroccan</a>
+<ul><li><a href="/wiki/Idrisid_dynasty" title="Idrisid dynasty">Idrisid</a></li>
+<li><a href="/wiki/Almoravid_dynasty" title="Almoravid dynasty">Almoravid</a></li>
+<li><a href="/wiki/Almohad_Caliphate" title="Almohad Caliphate">Almohad</a></li>
+<li><a href="/wiki/Marinid_dynasty" title="Marinid dynasty">Marinid</a></li></ul></li>
+<li><a href="/wiki/North_Sea_Empire" title="North Sea Empire">North Sea</a></li>
+<li><a href="/wiki/Oyo_Empire" title="Oyo Empire">Oyo</a></li>
+<li><a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy-Roman</a>
+<ul><li><a href="/wiki/Carolingian_Empire" title="Carolingian Empire">Carolingian</a></li></ul></li>
+<li><a href="/wiki/Serbian_Empire" title="Serbian Empire">Serbian</a></li>
+<li><a href="/wiki/History_of_Somalia" title="History of Somalia">Somali</a>
+<ul><li><a href="/wiki/Ajuran_Sultanate" title="Ajuran Sultanate">Ajuran</a></li>
+<li><a href="/wiki/Sultanate_of_Ifat" title="Sultanate of Ifat">Ifatite</a></li>
+<li><a href="/wiki/Adal_Sultanate" title="Adal Sultanate">Adalite</a></li>
+<li><a href="/wiki/Sultanate_of_Mogadishu" title="Sultanate of Mogadishu">Mogadishan</a></li>
+<li><a href="/wiki/Warsangali_Sultanate" title="Warsangali Sultanate">Warsangali</a></li></ul></li>
+<li><a href="/wiki/Songhai_Empire" title="Songhai Empire">Songhai</a></li>
+<li><a href="/wiki/Srivijaya" title="Srivijaya">Srivijaya</a></li>
+<li><a href="/wiki/Tibetan_Empire" title="Tibetan Empire">Tibetan</a></li>
+<li><a href="/wiki/Turko-Persian_tradition" class="mw-redirect" title="Turko-Persian tradition">Turko-Persian</a>
+<ul><li><a href="/wiki/Ghaznavids" title="Ghaznavids">Ghaznavid</a></li>
+<li><a href="/wiki/Seljuk_Empire" title="Seljuk Empire">Great Seljuk</a></li>
+<li><a href="/wiki/Khwarazmian_dynasty" title="Khwarazmian dynasty">Khwarezmian</a></li>
+<li><a href="/wiki/Timurid_Empire" title="Timurid Empire">Timurid</a></li></ul></li>
+<li><a href="/wiki/History_of_Vietnam" title="History of Vietnam">Vietnamese</a>
+<ul><li><a href="/wiki/Ly_Dynasty" class="mw-redirect" title="Ly Dynasty">Ly</a></li>
+<li><a href="/wiki/Tran_Dynasty" class="mw-redirect" title="Tran Dynasty">Tran</a></li>
+<li><a href="/wiki/Later_Le_Dynasty" class="mw-redirect" title="Later Le Dynasty">Le</a></li></ul></li>
+<li><a href="/wiki/Ghana_Empire" title="Ghana Empire">Wagadou</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Modern_history" title="Modern history">Modern</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ashanti_Empire" title="Ashanti Empire">Ashanti</a></li>
+<li><a href="/wiki/Austrian_Empire" title="Austrian Empire">Austrian</a></li>
+<li><a href="/wiki/Austria-Hungary" title="Austria-Hungary">Austro-Hungarian</a></li>
+<li><a href="/wiki/Empire_of_Brazil" title="Empire of Brazil">Brazilian</a></li>
+<li><a href="/wiki/Central_African_Empire" title="Central African Empire">Central African</a></li>
+<li><a href="/wiki/History_of_China#Imperial_era" title="History of China">Chinese</a>
+<ul><li><a href="/wiki/Ming_dynasty" title="Ming dynasty">Ming</a></li>
+<li><a href="/wiki/Qing_dynasty" title="Qing dynasty">Qing</a></li>
+<li><a href="/wiki/Empire_of_China_(1915%E2%80%931916)" title="Empire of China (1915–1916)">China</a></li>
+<li><a href="/wiki/Manchukuo" title="Manchukuo">Manchukuo</a></li></ul></li>
+<li><a href="/wiki/Ethiopian_Empire" title="Ethiopian Empire">Ethiopian</a></li>
+<li><a href="/wiki/History_of_Haiti" title="History of Haiti">Haitian</a></li>
+<li><a href="/wiki/History_of_France" title="History of France">French</a>
+<ul><li><a href="/wiki/First_French_Empire" title="First French Empire">First</a></li>
+<li><a href="/wiki/Second_French_Empire" title="Second French Empire">Second</a></li></ul></li>
+<li><a href="/wiki/History_of_Germany" title="History of Germany">German</a>
+<ul><li><a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">First/Old Reich</a></li>
+<li><a href="/wiki/German_Empire" title="German Empire">Second Reich</a></li>
+<li><a href="/wiki/Nazi_Germany" title="Nazi Germany">Third Reich</a></li></ul></li>
+<li><a href="/wiki/History_of_India" title="History of India">Indian</a>
+<ul><li><a href="/wiki/Maratha_Empire" title="Maratha Empire">Maratha</a></li>
+<li><a href="/wiki/Sikh_Empire" title="Sikh Empire">Sikh</a></li>
+<li><a href="/wiki/Mughal_Empire" title="Mughal Empire">Mughal</a></li>
+<li><a href="/wiki/British_Raj" title="British Raj">British Raj</a></li></ul></li>
+<li><a href="/wiki/Persian_Empire" title="Persian Empire">Iranian</a>
+<ul><li><a href="/wiki/Safavid_dynasty" title="Safavid dynasty">Safavid</a></li>
+<li><a href="/wiki/Afsharid_dynasty" title="Afsharid dynasty">Afsharid</a></li></ul></li>
+<li><a href="/wiki/Empire_of_Japan" title="Empire of Japan">Japanese</a></li>
+<li><a href="/wiki/Johor_Sultanate" title="Johor Sultanate">Johor</a></li>
+<li><a href="/wiki/Korean_Empire" title="Korean Empire">Korean</a></li>
+<li><a href="/wiki/History_of_Mexico" title="History of Mexico">Mexican</a>
+<ul><li><a href="/wiki/First_Mexican_Empire" title="First Mexican Empire">First</a></li>
+<li><a href="/wiki/Second_Mexican_Empire" title="Second Mexican Empire">Second</a></li></ul></li>
+<li><a href="/wiki/History_of_Morocco" title="History of Morocco">Moroccan</a>
+<ul><li><a href="/wiki/Saadi_dynasty" title="Saadi dynasty">Saadi</a></li>
+<li><a href="/wiki/Alaouite_dynasty" title="Alaouite dynasty">Alaouite</a></li></ul></li>
+<li><a href="/wiki/Russian_Empire" title="Russian Empire">Russian</a></li>
+<li><a href="/wiki/History_of_Somalia" title="History of Somalia">Somali</a>
+<ul><li><a href="/wiki/Sultanate_of_the_Geledi" title="Sultanate of the Geledi">Gobroon</a></li>
+<li><a href="/wiki/Majeerteen_Sultanate" title="Majeerteen Sultanate">Majeerteen</a></li>
+<li><a href="/wiki/Sultanate_of_Hobyo" title="Sultanate of Hobyo">Hobyo</a></li></ul></li>
+<li><a href="/wiki/Soviet_Empire" title="Soviet Empire">Soviet</a></li>
+<li><a href="/wiki/Swedish_Empire" title="Swedish Empire">Swedish</a></li>
+<li><a href="/wiki/Tu%CA%BBi_Tonga_Empire" title="Tuʻi Tonga Empire">Tongan</a></li>
+<li><a href="/wiki/History_of_Turkey" title="History of Turkey">Turkish</a>
+<ul><li><a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman</a></li>
+<li><a href="/wiki/Karamanids" title="Karamanids">Karaman</a></li>
+<li><a href="/wiki/Ramadanids" class="mw-redirect" title="Ramadanids">Ramazan</a></li></ul></li>
+<li><a href="/wiki/History_of_Vietnam" title="History of Vietnam">Vietnamese</a>
+<ul><li><a href="/wiki/Tay_Son_Dynasty" class="mw-redirect" title="Tay Son Dynasty">Tay Son</a></li>
+<li><a href="/wiki/Nguyen_Dynasty" class="mw-redirect" title="Nguyen Dynasty">Nguyen</a></li>
+<li><a href="/wiki/Empire_of_Vietnam" title="Empire of Vietnam">Vietnam</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Colonial_empire" title="Colonial empire">Colonial</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/United_States_territorial_acquisitions" title="United States territorial acquisitions">American</a></li>
+<li><a href="/wiki/Belgian_colonial_empire" title="Belgian colonial empire">Belgian</a></li>
+<li><a href="/wiki/British_Empire" title="British Empire">British</a>
+<ul><li><a href="/wiki/English_overseas_possessions" title="English overseas possessions">English</a></li></ul></li>
+<li><a href="/wiki/Danish_colonial_empire" class="mw-redirect" title="Danish colonial empire">Danish</a></li>
+<li><a href="/wiki/Dutch_Empire" title="Dutch Empire">Dutch</a></li>
+<li><a href="/wiki/French_colonial_empire" title="French colonial empire">French</a></li>
+<li><a href="/wiki/German_colonial_empire" title="German colonial empire">German</a></li>
+<li><a href="/wiki/Italian_Empire" title="Italian Empire">Italian</a></li>
+<li><a href="/wiki/Japanese_colonial_empire" title="Japanese colonial empire">Japanese</a></li>
+<li><a href="/wiki/Muscat_and_Oman" title="Muscat and Oman">Omani</a></li>
+<li><a href="/wiki/Polish%E2%80%93Lithuanian_Commonwealth" title="Polish–Lithuanian Commonwealth">Polish–Lithuanian</a>
+<ul><li><a href="/wiki/Couronian_colonization" title="Couronian colonization">Couronian</a></li></ul></li>
+<li><a href="/wiki/Portuguese_Empire" title="Portuguese Empire">Portuguese</a></li>
+<li><a href="/wiki/Sovereign_Military_Order_of_Malta" title="Sovereign Military Order of Malta">Sovereign Military Order of Malta</a></li>
+<li><a href="/wiki/Spanish_Empire" title="Spanish Empire">Spanish</a></li>
+<li><a href="/wiki/Swedish_overseas_colonies" title="Swedish overseas colonies">Swedish</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Lists</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_empires" title="List of empires">Empires</a>
+<ul><li><a href="/wiki/List_of_largest_empires" title="List of largest empires">largest</a></li></ul></li>
+<li><a href="/wiki/List_of_ancient_great_powers" title="List of ancient great powers">ancient great powers</a></li>
+<li><a href="/wiki/List_of_medieval_great_powers" title="List of medieval great powers">medieval great powers</a></li>
+<li><a href="/wiki/List_of_modern_great_powers" title="List of modern great powers">modern great powers</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2163
+Cached time: 20180929163207
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.340 seconds
+Real time usage: 0.404 seconds
+Preprocessor visited node count: 2269/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 195671/2097152 bytes
+Template argument size: 22959/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 14861/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.105/10.000 seconds
+Lua memory usage: 3.74 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  225.392      1 -total
+ 40.14%   90.462      1 Template:Reflist
+ 37.21%   83.860     10 Template:Navbox
+ 28.41%   64.025      4 Template:Cite_web
+ 23.51%   52.996      1 Template:Citation_needed
+ 21.56%   48.590      1 Template:Territories_of_the_British_Empire
+ 17.40%   39.210      1 Template:Fix
+ 13.83%   31.178      4 Template:Navbox_with_columns
+ 10.75%   24.228      2 Template:Category_handler
+  6.28%   14.161      1 Template:Colonialism
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23286227-0!canonical and timestamp 20180929163206 and revision id 843227853
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Informal_empire&amp;oldid=843227853">https://en.wikipedia.org/w/index.php?title=Informal_empire&amp;oldid=843227853</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:British_Empire" title="Category:British Empire">British Empire</a></li><li><a href="/wiki/Category:Free_trade_imperialism" title="Category:Free trade imperialism">Free trade imperialism</a></li><li><a href="/wiki/Category:History_of_the_British_Empire" title="Category:History of the British Empire">History of the British Empire</a></li><li><a href="/wiki/Category:Overseas_empires" title="Category:Overseas empires">Overseas empires</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Extra_text:_authors_list" title="Category:CS1 maint: Extra text: authors list">CS1 maint: Extra text: authors list</a></li><li><a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">CS1 maint: Archived copy as title</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2010" title="Category:Articles with unsourced statements from September 2010">Articles with unsourced statements from September 2010</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Informal+empire" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Informal+empire" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Informal_empire" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Informal_empire" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Informal_empire">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Informal_empire&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Informal_empire&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Informal_empire" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Informal_empire" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Informal_empire&amp;oldid=843227853" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Informal_empire&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6030562" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Informal_empire&amp;id=843227853" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Informal+empire">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Informal+empire&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Informal_empire&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E9%9D%9E%E5%85%AC%E5%BC%8F%E5%B8%9D%E5%9B%BD" title="非公式帝国 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3" title="จักรวรรดิไม่เป็นทางการ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Gayriresm%C3%AE_imparatorluk" title="Gayriresmî imparatorluk – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6030562#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 27 May 2018, at 19:22<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Informal_empire&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.340","walltime":"0.404","ppvisitednodes":{"value":2269,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":195671,"limit":2097152},"templateargumentsize":{"value":22959,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":14861,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  225.392      1 -total"," 40.14%   90.462      1 Template:Reflist"," 37.21%   83.860     10 Template:Navbox"," 28.41%   64.025      4 Template:Cite_web"," 23.51%   52.996      1 Template:Citation_needed"," 21.56%   48.590      1 Template:Territories_of_the_British_Empire"," 17.40%   39.210      1 Template:Fix"," 13.83%   31.178      4 Template:Navbox_with_columns"," 10.75%   24.228      2 Template:Category_handler","  6.28%   14.161      1 Template:Colonialism"]},"scribunto":{"limitreport-timeusage":{"value":"0.105","limit":"10.000"},"limitreport-memusage":{"value":3923072,"limit":52428800}},"cachereport":{"origin":"mw2163","timestamp":"20180929163207","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw2175"});});</script>
+	</body>
+</html>

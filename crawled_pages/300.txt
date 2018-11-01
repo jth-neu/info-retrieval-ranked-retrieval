@@ -1,0 +1,1000 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>University of Geneva - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"University_of_Geneva","wgTitle":"University of Geneva","wgCurRevisionId":858094953,"wgRevisionId":858094953,"wgArticleId":342348,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 French-language sources (fr)","CS1 maint: Archived copy as title","Articles needing additional references from February 2013","All articles needing additional references","Use dmy dates from March 2014","Articles containing Latin-language text","Instances of Infobox university using image size","Articles to be expanded from July 2013","All articles to be expanded","Articles using small message boxes","Articles with a promotional tone from October 2015","All articles with a promotional tone","All articles with unsourced statements","Articles with unsourced statements from May 2016","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with LNB identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLA identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with ULAN identifiers","Wikipedia articles with VIAF identifiers","University of Geneva","Universities in Switzerland","Business schools in Switzerland","Schools in Geneva","1559 establishments in Europe","Educational institutions established in the 1550s","16th-century establishments in the Old Swiss Confederacy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"University_of_Geneva","wgRelevantArticleId":342348,"wgRequestId":"W6@DvgrAIDMAAF87bmYAAAAI","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q503473","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/10/Universit%C3%A4tGenf.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/University_of_Geneva"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=University_of_Geneva&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=University_of_Geneva&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/University_of_Geneva"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-University_of_Geneva rootpage-University_of_Geneva skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">University of Geneva</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=University_of_Geneva&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(February 2013)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">University of Geneva</caption><tbody><tr><td colspan="2" style="text-align:center">
+<div class="nickname">Université de Genève</div></td></tr><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Uni_GE_logo.svg" class="image"><img alt="Uni GE logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Uni_GE_logo.svg/250px-Uni_GE_logo.svg.png" width="250" height="72" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Uni_GE_logo.svg/375px-Uni_GE_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Uni_GE_logo.svg/500px-Uni_GE_logo.svg.png 2x" data-file-width="250" data-file-height="72" /></a></td></tr><tr><td colspan="2" class="nickname" style="text-align:center">
+<a href="/wiki/Latin_language" class="mw-redirect" title="Latin language">Latin</a>: <i lang="la">Schola Genevensis</i></td></tr><tr><th scope="row" style="padding-right:0.65em;">Motto</th><td>
+<i>Post tenebras lux</i> (<a href="/wiki/Latin" title="Latin">Latin</a>)</td></tr><tr><th scope="row" style="padding-right:0.65em;"><div style="padding:0.1em 0;line-height:1.2em;">Motto in&#160;English</div></th><td>
+Light after darkness</td></tr><tr><th scope="row" style="padding-right:0.65em;">Type</th><td>
+<a href="/wiki/Public_university" title="Public university">Public university</a></td></tr><tr><th scope="row" style="padding-right:0.65em;">Established</th><td>
+1559<sup id="cite_ref-Geneva_1-0" class="reference"><a href="#cite_note-Geneva-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="padding-right:0.65em;"><a href="/wiki/Rector_(academia)" title="Rector (academia)">Rector</a></th><td>
+Prof. Yves Flückiger (since 2015)</td></tr><tr><th scope="row" style="padding-right:0.65em;"><div style="padding:0.1em 0;line-height:1.2em;">Administrative staff</div></th><td>
+approx. 6.500</td></tr><tr><th scope="row" style="padding-right:0.65em;">Students</th><td>
+16'530</td></tr><tr><th scope="row" style="padding-right:0.65em;">Location</th><td class="adr">
+<span class="locality"><a href="/wiki/Geneva" title="Geneva">Geneva</a></span>, <span class="country-name"><a href="/wiki/Switzerland" title="Switzerland">Switzerland</a></span></td></tr><tr><th scope="row" style="padding-right:0.65em;">Campus</th><td>
+<a href="/wiki/Urban_area" title="Urban area">Urban</a></td></tr><tr><th scope="row" style="padding-right:0.65em;">Language</th><td>
+French</td></tr><tr><th scope="row" style="padding-right:0.65em;">Affiliations</th><td>
+<a href="/wiki/Coimbra_Group" title="Coimbra Group">Coimbra Group</a><br /><a href="/wiki/League_of_European_Research_Universities" title="League of European Research Universities">LERU</a><br /><a href="/wiki/European_University_Association" title="European University Association">EUA</a><br /><a href="/wiki/International_Forum_of_Public_Universities" title="International Forum of Public Universities">IFPU</a></td></tr><tr><th scope="row" style="padding-right:0.65em;">Website</th><td>
+<a rel="nofollow" class="external text" href="http://www.unige.ch">www.unige.ch</a></td></tr><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Universit%C3%A4tGenf.jpg" class="image"><img alt="UniversitätGenf.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Universit%C3%A4tGenf.jpg/250px-Universit%C3%A4tGenf.jpg" width="250" height="169" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Universit%C3%A4tGenf.jpg/375px-Universit%C3%A4tGenf.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Universit%C3%A4tGenf.jpg/500px-Universit%C3%A4tGenf.jpg 2x" data-file-width="590" data-file-height="400" /></a></td></tr></tbody></table>
+<p>The <b>University of Geneva</b> (<a href="/wiki/French_language" title="French language">French</a>: <i>Université de Genève</i>) is a public research university located in <a href="/wiki/Geneva" title="Geneva">Geneva</a>, <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a>. 
+</p><p>It was founded in 1559 by <a href="/wiki/John_Calvin" title="John Calvin">John Calvin</a> as a <a href="/wiki/Theology" title="Theology">theological</a> <a href="/wiki/Seminary" title="Seminary">seminary</a> and <a href="/wiki/Law_school" title="Law school">law school</a>.<sup id="cite_ref-Geneva_1-1" class="reference"><a href="#cite_note-Geneva-1">&#91;1&#93;</a></sup> It remained focused on theology until the 17th century, when it became a center for <a href="/wiki/The_Enlightenment" class="mw-redirect" title="The Enlightenment">Enlightenment</a> scholarship. In 1873, it dropped its religious affiliations and became officially secular.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Today, the university is the third largest university in Switzerland by number of students.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> In 2009, the University of Geneva celebrated the 450th anniversary of its founding.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Almost 40% of the students come from foreign countries.
+</p><p>The university holds and actively pursues teaching, <a href="/wiki/Research_university" title="Research university">research</a>, and community service as its primary objectives. In 2016, it was ranked 53rd worldwide by the <a href="/wiki/Shanghai_ranking" class="mw-redirect" title="Shanghai ranking">Shanghai Academic Ranking of World Universities</a>,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> 89th by the <a href="/wiki/QS_World_University_Rankings" title="QS World University Rankings">QS World University Rankings</a>,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> and 131st in <a href="/wiki/Times_Higher_Education_World_University_Rankings" title="Times Higher Education World University Rankings">the TIMES Higher Education World University Ranking</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>UNIGE is a member of the <a href="/wiki/League_of_European_Research_Universities" title="League of European Research Universities">League of European Research Universities</a> (including academic institutions such as Amsterdam, Cambridge, Heidelberg, Helsinki and Milan) the <a href="/wiki/Coimbra_Group" title="Coimbra Group">Coimbra Group</a> and the <a href="/wiki/European_University_Association" title="European University Association">European University Association</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Location"><span class="tocnumber">2</span> <span class="toctext">Location</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Uni_Bastions"><span class="tocnumber">2.1</span> <span class="toctext"><i>Uni Bastions</i></span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Uni_Dufour"><span class="tocnumber">2.2</span> <span class="toctext"><i>Uni Dufour</i></span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Uni_Mail"><span class="tocnumber">2.3</span> <span class="toctext"><i>Uni Mail</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Organisation"><span class="tocnumber">3</span> <span class="toctext">Organisation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Faculties"><span class="tocnumber">3.1</span> <span class="toctext">Faculties</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Interfaculty_centers"><span class="tocnumber">3.1.1</span> <span class="toctext">Interfaculty centers</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Associated_institutions"><span class="tocnumber">3.1.2</span> <span class="toctext">Associated institutions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#Finances"><span class="tocnumber">3.2</span> <span class="toctext">Finances</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Libraries_and_press"><span class="tocnumber">4</span> <span class="toctext">Libraries and press</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Libraries"><span class="tocnumber">4.1</span> <span class="toctext">Libraries</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Press"><span class="tocnumber">4.2</span> <span class="toctext">Press</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Academics"><span class="tocnumber">5</span> <span class="toctext">Academics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Admission_and_fees"><span class="tocnumber">5.1</span> <span class="toctext">Admission and fees</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Academic_year"><span class="tocnumber">5.2</span> <span class="toctext">Academic year</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Teaching_and_degrees"><span class="tocnumber">5.3</span> <span class="toctext">Teaching and degrees</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#International_partnerships"><span class="tocnumber">5.4</span> <span class="toctext">International partnerships</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Research"><span class="tocnumber">5.5</span> <span class="toctext">Research</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Rankings"><span class="tocnumber">5.6</span> <span class="toctext">Rankings</span></a>
+<ul>
+<li class="toclevel-3 tocsection-21"><a href="#Global_rankings"><span class="tocnumber">5.6.1</span> <span class="toctext">Global rankings</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#Subject_rankings"><span class="tocnumber">5.6.2</span> <span class="toctext">Subject rankings</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#Other_rankings"><span class="tocnumber">5.6.3</span> <span class="toctext">Other rankings</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-24"><a href="#Student_body"><span class="tocnumber">6</span> <span class="toctext">Student body</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#Student_life"><span class="tocnumber">7</span> <span class="toctext">Student life</span></a>
+<ul>
+<li class="toclevel-2 tocsection-26"><a href="#Sports"><span class="tocnumber">7.1</span> <span class="toctext">Sports</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Associations"><span class="tocnumber">7.2</span> <span class="toctext">Associations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#Alumni"><span class="tocnumber">8</span> <span class="toctext">Alumni</span></a>
+<ul>
+<li class="toclevel-2 tocsection-29"><a href="#Notable_scholars"><span class="tocnumber">8.1</span> <span class="toctext">Notable scholars</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Notable_alumni"><span class="tocnumber">8.2</span> <span class="toctext">Notable alumni</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-31"><a href="#In_fiction"><span class="tocnumber">9</span> <span class="toctext">In fiction</span></a></li>
+<li class="toclevel-1 tocsection-32"><a href="#See_also"><span class="tocnumber">10</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-33"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-34"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox mbox-small-left ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31" /></a></td><td class="mbox-text"><div class="mbox-text-span">This section <b>needs expansion</b>. <small>You can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=">adding to it</a>.</small>  <small><i>(July 2013)</i></small></div></td></tr></tbody></table>
+<h2><span class="mw-headline" id="Location">Location</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=2" title="Edit section: Location">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The University of Geneva is located in several districts in the eastern part of the city and in the nearby city of <a href="/wiki/Carouge" title="Carouge">Carouge</a> (on the left bank of the <a href="/wiki/Lake_Geneva" title="Lake Geneva">Lake Léman</a> and the <a href="/wiki/Rhone" class="mw-redirect" title="Rhone">Rhône</a>), and the different buildings are sometimes very distant from each other (the Battelle buildings are for instance more than three kilometers away from the Bastions). The oldest building (1559) is the <a href="/wiki/Coll%C3%A8ge_Calvin" title="Collège Calvin">Collège Calvin</a>, and is not anymore a university building. Lectures are given in six different main locations, <i>Les Bastions</i>, <i>Uni Dufour</i>, <i>Sciences</i> <i>I</i>, <i>II</i> and <i>III</i>, <i>Uni Mail</i> and <i>Uni Pignon</i>, <i>Centre Médical Universitaire</i> (CMU), and <i>Battelle</i>;<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> as well as in other less important locations (for instance part of the Mathematics Section is located at the second and (partly) third and sixth storeys rented by the university in an office building in Carouge).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Uni_Bastions"><i>Uni Bastions</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=3" title="Edit section: Uni Bastions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Built between 1868 and 1871, <i>Uni Bastions</i> is the symbol of Geneva's academic life. It is located in the middle of a park and is host to the faculty of Protestant Theology and to the Faculty of Arts.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Uni_Dufour"><i>Uni Dufour</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=4" title="Edit section: Uni Dufour">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Its architecture was inspired by Le Corbusier. It hosts the <i>Rectorat</i> and the administration of the University.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:272px;"><a href="/wiki/File:1UNIGE.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/1UNIGE.jpg/270px-1UNIGE.jpg" width="270" height="222" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/1UNIGE.jpg/405px-1UNIGE.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/4/40/1UNIGE.jpg 2x" data-file-width="530" data-file-height="435" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:1UNIGE.jpg" class="internal" title="Enlarge"></a></div>Uni Dufour</div></div></div>
+<h3><span class="mw-headline" id="Uni_Mail"><i>Uni Mail</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=5" title="Edit section: Uni Mail">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is Switzerland's biggest building dedicated to social sciences. It currently hosts the Faculty of Law, of Economics and Management,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> of Psychology and Education and the <a href="/wiki/Faculty_of_Translation_and_Interpreting_of_the_University_of_Geneva" title="Faculty of Translation and Interpreting of the University of Geneva">Faculty of Translation and Interpreting</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> 
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:3UNIGE.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/3UNIGE.jpg/250px-3UNIGE.jpg" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/3UNIGE.jpg/375px-3UNIGE.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/3UNIGE.jpg/500px-3UNIGE.jpg 2x" data-file-width="640" data-file-height="480" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:3UNIGE.jpg" class="internal" title="Enlarge"></a></div>Uni Mail</div></div></div>
+<h2><span class="mw-headline" id="Organisation">Organisation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=6" title="Edit section: Organisation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The University of Geneva is structured in various faculties and interfaculty centers which are representing teaching, research and service to society in the various disciplines.
+</p>
+<h3><span class="mw-headline" id="Faculties">Faculties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=7" title="Edit section: Faculties">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="plainlinks metadata ambox ambox-content ambox-Advert" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>contains content that is written like <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_soapbox_or_means_of_promotion" title="Wikipedia:What Wikipedia is not">an advertisement</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=University_of_Geneva&amp;action=edit">improve it</a> by removing <a href="/wiki/Wikipedia:Spam" title="Wikipedia:Spam">promotional content</a> and inappropriate <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, and by adding encyclopedic content written from a <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>.</span>  <small><i>(October 2015)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>The University is composed of nine <a href="/wiki/Faculty_(division)" title="Faculty (division)">faculties</a>:<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://www.unige.ch/sciences/index_en.html">Faculty of Sciences</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.unige.ch/medecine/phdprogram/">Faculty of Medicine</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.unige.ch/lettres/en/">Faculty of Humanities</a></li>
+<li><a rel="nofollow" class="external text" href="http://masters.unige.ch/economics-and-management">Faculty Geneva School of Economics and Management (GSEM)</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.unige.ch/sciences-societe/en/presentation/">Faculty Geneva School of Social Sciences (G3S)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.unige.ch/droit/international_en.html">Faculty of Law (Geneva Law School)</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.unige.ch/theologie/faculte/theology/">Faculty of Theology</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.unige.ch/fapse/en/">Faculty of Psychology and School of Education</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.unige.ch/fti/en/">Faculty of Translation and Interpreting</a></li></ul>
+<h4><span class="mw-headline" id="Interfaculty_centers">Interfaculty centers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=8" title="Edit section: Interfaculty centers">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The university is composed of fourteen interfacultary centers. Amongst others: 
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170727160825/http://www.unige.ch/ihr/en/presentation/">Institute for Reformation History</a> (the <a href="/wiki/Protestant_Reformation" class="mw-redirect" title="Protestant Reformation">Reformation</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.cui.unige.ch/en/lecui/">Computer Science Department</a> (<a href="/wiki/Computer_science" title="Computer science">computer science</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.unige.ch/environnement/en/">Institute for Environmental Sciences</a> (<a href="/wiki/Energy_policy" title="Energy policy">energy policy</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.unige.ch/gsi/en/bienvenue/">The Global Studies Institute</a></li>
+<li><a rel="nofollow" class="external text" href="http://cigev.unige.ch/fr/">Interfaculty Center of Gerontology</a> (<a href="/wiki/Gerontology" title="Gerontology">gerontology</a>)</li>
+<li><a href="/wiki/Swiss_Center_for_Affective_Sciences" title="Swiss Center for Affective Sciences">Swiss Center for Affective Sciences</a> (<a href="/wiki/Affective_science" title="Affective science">affective science</a>)</li></ul>
+<h4><span class="mw-headline" id="Associated_institutions">Associated institutions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=9" title="Edit section: Associated institutions">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The university has also several partnerships with the nearby institutions, where students at the university may take courses.
+</p>
+<ul><li><a href="/wiki/Graduate_Institute_of_International_and_Development_Studies" title="Graduate Institute of International and Development Studies">Graduate Institute of International and Development Studies</a> (IHEID)</li>
+<li><a href="/wiki/Bossey_Ecumenical_Institute" title="Bossey Ecumenical Institute">Bossey Ecumenical Institute</a> (of the <a href="/wiki/World_Council_of_Churches" title="World Council of Churches">World Council of Churches</a>)</li>
+<li><a href="/wiki/Wyss_Center_for_Bio-_and_Neuro-engineering" class="mw-redirect" title="Wyss Center for Bio- and Neuro-engineering">Wyss Center for Bio- and Neuro-engineering</a></li>
+<li><a href="/wiki/Swiss_National_Supercomputing_Centre" title="Swiss National Supercomputing Centre">Swiss National Supercomputing Centre</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.art-law.org/centre_en.html">Art-Law Centre</a><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup></li>
+<li><a rel="nofollow" class="external text" href="http://www.cibm.ch/page-60442-en.html">Center for Biomedical Imaging</a>(CIBM)</li>
+<li><a rel="nofollow" class="external text" href="http://curml.ch/en">University Centre of Legal Medicine</a> (CURML)<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup></li>
+<li><a rel="nofollow" class="external text" href="http://www.i-s-t.ch/1/about-us/company-profile/">The Institute for Work and Health</a> (IST)</li></ul>
+<h3><span class="mw-headline" id="Finances">Finances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=10" title="Edit section: Finances">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The University of Geneva had a budget of roughly 760 million CHF for the year 2016.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> It mostly comes from the cantonal subventions, the other notable contributors being the federal state and the tuition fees.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Libraries_and_press">Libraries and press</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=11" title="Edit section: Libraries and press">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Libraries">Libraries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=12" title="Edit section: Libraries">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>UNIGE's library facilities are spread across four sites.
+</p><p><i>Uni Arve</i> is host to seven libraries: the <i>Bibliothèque Ernst &amp; Lucie Schmidheiny, the Bibliothèque d'Anthropologie</i>, the <i>Bibliothèque du Centre universitaire d'informatique</i>, the <i>Bibliothèque Georges de Rham (Mathematics)</i>, the <i>Bibliothèque de l'Institut des Sciences de l'environnement (ISE)</i>, <i>Bibliothèque de l'Observatoire (Astronomy)</i> and the <i>Bibliothèque des Sciences de la Terre et de l'environnement</i>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p><p><i>Uni Bastions</i> hosts the language libraries, as well as the university's libraries focused on history and musicology.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p><p><i>Uni CMU</i> is home to an extensive collection of medical issues. Besides, it is also hosts the <i>Centre de documentation en santé</i> (CDS) and the <i>Bibliothèque de l’Institut de la médecine et de la santé</i> et de l’<i>Institut d’éthique biomédicale</i> (IHMS - IEB).<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p><p><i>Uni Mail</i>'s collection is focused on the following themes: Economics and social sciences, Law, Psychology and Learning Sciences, Translation and Interpreting, European studies, French as a foreign language and Musicology. Besides, it also hosts UNIGE's multimedia library.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Press">Press</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=13" title="Edit section: Press">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>The journal de l'UNIGE</i> is released biweekly. Its purpose is to ease communication inside the university, to inform the students about the research being carried at UNIGE, to convey new opinions and to inform students and teachers of upcoming university events via <i>l'Agenda</i>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p><p><i>Campus</i> is released monthly with the objective to ease communication between the scientific community and the citizens and to be a "bridge between science and city".<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Academics">Academics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=14" title="Edit section: Academics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Admission_and_fees">Admission and fees</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=15" title="Edit section: Admission and fees">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>To be enrolled in a bachelor programme, one must hold a Swiss <a href="/wiki/Maturity_diploma" class="mw-redirect" title="Maturity diploma">maturity diploma</a> or a secondary diploma considered by the University of Geneva to be equivalent.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> If the degree was not pursued in French, applicants must pass an eliminatory French language test at the beginning of September, which consists of an oral and a written comprehension test and of a piece of argumentative writing.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> Tuition fees are of CHF 500 per semester.
+</p>
+<h3><span class="mw-headline" id="Academic_year">Academic year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=16" title="Edit section: Academic year">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>UNIGE's academic year runs from mid-September to mid-June. It is divided in two semesters, each one being concluded by an examination session, held respectively at the beginning of January and at the beginning of June. An examination session is held at the end of August and beginning of September as a retake for students who failed their January or June examinations.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</p><p>During the three days before the start of the new academic year, the <i>Journées d'accueil</i> (Welcome Days) are organized by the University to introduce the new students to the city and the facilities, tips are also given on how to succeed at university. A second chapter including city tours, outdoor concerts and animations is also organized by the student association UniAccueil (AUA) to celebrate the new academic year.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Teaching_and_degrees">Teaching and degrees</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=17" title="Edit section: Teaching and degrees">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Before 2005, the University applied various very different models, depending on Faculties, and sometimes even on Departments (or "Sections"). Some Faculties applied the <a href="/wiki/Academic_degree#France" title="Academic degree">French education model</a> of granting <a href="/wiki/Academic_degree" title="Academic degree">academic degrees</a>, with some minor differences: <i>demi-licence</i> (two years), <i>trois-quarts de licence</i> (three years), <i><a href="/wiki/Licentiate_(degree)" title="Licentiate (degree)">licence</a></i> (four years), <a href="/wiki/Master_of_Advanced_Studies" title="Master of Advanced Studies"><i>diplôme d'études approfondies</i> and <i>diplôme d'études superieures spécialisées</i></a> (DEA/DESS) (1–2 years), and <a href="/wiki/Doctorate" title="Doctorate">doctorate</a> (3–5 years).
+</p><p>The University now follows the requirements of the <a href="/wiki/Bologna_process" class="mw-redirect" title="Bologna process">Bologna process</a>: <a href="/wiki/Bachelor%27s_degree" title="Bachelor&#39;s degree">bachelor's</a> (three years), <a href="/wiki/Master%27s_degree" title="Master&#39;s degree">master's</a> (1–2 years), in some departments or sections Master of Advanced Studies (1–2 years), doctorate (3–5 years).<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>
+</p><p>UNIGE offers more than 240 types of diplomas: about 30 bachelor's degrees,<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup> 70 masters and 78 doctorates. It also provides more than 200 programmes of <a href="/wiki/Continuing_education" title="Continuing education">continuing education</a> in various sectors.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="International_partnerships">International partnerships</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=18" title="Edit section: International partnerships">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Students at UNIGE have the possibility to study abroad for a semester or a year during their degree. Partner universities include <a href="/wiki/Free_University_of_Berlin" title="Free University of Berlin">Free University of Berlin</a>, <a href="/wiki/Harvard_Law_School" title="Harvard Law School">Harvard Law School</a>, <a href="/wiki/%C3%89cole_Normale_Sup%C3%A9rieure" class="mw-redirect" title="École Normale Supérieure">École Normale Supérieure</a>, <a href="/wiki/Trinity_College_Dublin" title="Trinity College Dublin">Trinity College Dublin</a>, <a href="/wiki/Erasmus_University_of_Rotterdam" class="mw-redirect" title="Erasmus University of Rotterdam">Erasmus University of Rotterdam</a>, <a href="/wiki/Universit%C3%A9_Libre_de_Bruxelles" class="mw-redirect" title="Université Libre de Bruxelles">Université Libre de Bruxelles</a>, <a href="/wiki/King%27s_College_London" title="King&#39;s College London">King's College London</a>, <a href="/wiki/McGill_University" title="McGill University">McGill University</a>, <a href="/wiki/HEC_Montreal" class="mw-redirect" title="HEC Montreal">HEC Montreal</a>, <a href="/wiki/University_of_Ottawa" title="University of Ottawa">University of Ottawa</a>, <a href="/wiki/University_of_Oxford" title="University of Oxford">University of Oxford</a>, <a href="/wiki/Uppsala_University" title="Uppsala University">Uppsala University</a>, <a href="/wiki/Johns_Hopkins_University" title="Johns Hopkins University">Johns Hopkins University</a>, <a href="/wiki/University_of_Michigan" title="University of Michigan">University of Michigan</a>, <a href="/wiki/UCLA" class="mw-redirect" title="UCLA">UCLA</a>, <a href="/wiki/University_of_Southampton" title="University of Southampton">University of Southampton</a>, <a href="/wiki/University_of_Sydney" title="University of Sydney">University of Sydney</a>, <a href="/wiki/University_of_Tokyo" title="University of Tokyo">University of Tokyo</a>.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Research">Research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=19" title="Edit section: Research">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The key sectors of research at the University of Geneva are sciences (molecular biology, bio-informatics, etc.), elementary physics, astrophysics, economics, social sociences, psychology, chemistry, biochemistry and biophysics.
+</p><p>UNIGE is home to six national research centers: in genetics (Frontiers in Genetics), in material sciences (MaNEP), in study of emotions (Affective Sciences), in chemical biology (with EPFL), in study of mental illness (Synaptic, with EPFL and Unil), in study of life path (with Unil). UNIGE also carries research in international studies since the creation in 2013 of the Global Studies Institute, in finance with the Geneva Finance Research Institute,<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup> and in environmental studies, with the creation in 2009 of the <i>Institut des sciences de l'environnement</i>.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup>
+</p><p>Famous discoveries have been made by researcher working at UNIGE including the discoveries of extrasolar planets by <a href="/wiki/Michel_Mayor" title="Michel Mayor">Michel Mayor</a>, and of quantum teleportation by Nicolas Gisin.
+</p>
+<h3><span class="mw-headline" id="Rankings">Rankings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=20" title="Edit section: Rankings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="infobox vcard" style="width: 18em">
+<tbody><tr>
+<th colspan="2" class="n" style="text-align: center; font-size: 125%"><span class="fn"><a href="/wiki/College_and_university_rankings" title="College and university rankings">University rankings</a></span>
+</th></tr>
+
+<tr>
+<th colspan="2" style="background-color: lavender; text-align: center">Global
+</th></tr>
+<tr>
+<th><i><a href="/wiki/Academic_Ranking_of_World_Universities" title="Academic Ranking of World Universities">ARWU</a></i> World<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup>
+</th>
+<td>59
+</td></tr>
+
+
+<tr>
+<th><i><a href="/wiki/Times_Higher_Education_World_University_Rankings" title="Times Higher Education World University Rankings">Times</a></i> World<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup>
+</th>
+<td>130
+</td></tr>
+
+<tr>
+<th><i><a href="/wiki/U.S._News_%26_World_Report_Best_Colleges_Ranking" title="U.S. News &amp; World Report Best Colleges Ranking">USNWR</a></i> World<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup>
+</th>
+<td>88
+</td></tr>
+<tr>
+<th><i><a href="/wiki/QS_World_University_Rankings" title="QS World University Rankings">QS</a></i> World<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup>
+</th>
+<td>98
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<p>The University of Geneva is consistently ranked one of the top universities in the world.
+</p>
+<h4><span class="mw-headline" id="Global_rankings">Global rankings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=21" title="Edit section: Global rankings">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In 2016, the University of Geneva is ranked 53rd overall in the world according to the Shanghai Ranking. In 2012, it was ranked 69th overall in the world according to the Shanghai Ranking, 74th overall according to the QS ranking and 133rd overall according to the THE ranking. In 2006, <i><a href="/wiki/Newsweek" title="Newsweek">Newsweek</a></i> ranked the university 32nd in the world.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup>
+</p><p>The <a href="/wiki/QS_World_University_Rankings" title="QS World University Rankings">QS World University Rankings</a><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup> ranked the University of Geneva as follows:
+</p>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>Year
+</th>
+<th>In Switzerland
+</th>
+<th>In Europe
+</th>
+<th>In the World
+</th></tr>
+<tr>
+<td><b>2016</b>
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>89th
+</td></tr>
+<tr>
+<td><b>2015</b>
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>85th
+</td></tr>
+<tr>
+<td><b>2012</b>
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>74th
+</td></tr>
+<tr>
+<td><b>2011</b>
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>69th
+</td></tr></tbody></table>
+<p>The <a href="/wiki/Times_Higher_Education_World_University_Rankings" title="Times Higher Education World University Rankings">Times Higher Education World University Rankings</a><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup> ranked the University of Geneva as follows:
+</p>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>Year
+</th>
+<th>In Switzerland
+</th>
+<th>In Europe
+</th>
+<th>In the World
+</th></tr>
+<tr>
+<td><b>2015-2016</b>
+</td>
+<td>6th
+</td>
+<td>
+</td>
+<td>131st
+</td></tr>
+<tr>
+<td><b>2012-2013</b>
+</td>
+<td>5th
+</td>
+<td>52nd
+</td>
+<td>133rd
+</td></tr>
+<tr>
+<td><b>2011-2012</b>
+</td>
+<td>7th
+</td>
+<td>46th
+</td>
+<td>116th
+</td></tr>
+<tr>
+<td><b>2010-2011</b>
+</td>
+<td>5th
+</td>
+<td>34th
+</td>
+<td>118th
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Subject_rankings">Subject rankings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=22" title="Edit section: Subject rankings">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In molecular biology, the impact of the research carried in Geneva was ranked 4th in Europe by Times Higher Education for the period 1999-2009, directly behind the University of Oxford.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;43&#93;</a></sup> In physics, UNIGE was ranked sixth.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2016)">citation needed</span></a></i>&#93;</sup>
+</p><p>The QS 2013 subject ranking placed the University of Geneva at the 21st place in the field of Pharmacy and at the 49th place in Philosophy. In every subject, the University was ranked in the world's top 200.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Other_rankings">Other rankings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=23" title="Edit section: Other rankings">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the 2013 QS ranking, the University was ranked 24th in world for most international faculty and 20th in the world for most international student body.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;45&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Student_body">Student body</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=24" title="Edit section: Student body">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 2016, 16,530 students were studying at UNIGE, of whom 61% were female. 37% of the students were non-Swiss, originating from 151 countries. 
+4,449 teachers and collaborators, of whom 49% are female, are working for UNIGE.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;46&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Student_life">Student life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=25" title="Edit section: Student life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=26" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <i>Bureau des sports</i> organizes all the sports related activity at UNIGE. Free sports lessons are given everyday and it suffices to show one's student card to access. Other lessons organization with the university's partners demand a small fee.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup> UNIGE is home to the Geneva university championships in basketball, indoor football, rowing, badminton, outdoor football.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;48&#93;</a></sup> The university also sends teams to the Swiss university championship in badminton, indoor football, skiing, basketball, fencing, football, golf, ice-hockey, table tennis and volleyball.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">&#91;49&#93;</a></sup> UNIGE also provides special schedules for students wishing to pursue their high level sporting career and to study at the same time.<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">&#91;50&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Associations">Associations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=27" title="Edit section: Associations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Alumni UNIGE</i> is the alumni association of the University of Geneva, it offers a network of several thousand people to its members, as well as other advantages, such as discount prizes, special events, access to the official networking platform.<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">&#91;51&#93;</a></sup> <i>Atout-lettres</i> is the alumni association of the literature students of the University, founded in 1997. Its purpose is to prepare the professional insertion of the literature students, to establish links between literature student and the working world and to promote the formation given by the  <i>Faculté de Lettres</i>.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">&#91;52&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Alumni">Alumni</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=28" title="Edit section: Alumni">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:229px;"><a href="/wiki/File:Kofi_Annan_crop.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Kofi_Annan_crop.jpg/227px-Kofi_Annan_crop.jpg" width="227" height="269" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Kofi_Annan_crop.jpg/340px-Kofi_Annan_crop.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Kofi_Annan_crop.jpg/453px-Kofi_Annan_crop.jpg 2x" data-file-width="497" data-file-height="590" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Kofi_Annan_crop.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Kofi_Annan" title="Kofi Annan">Kofi Annan</a>, UNIGE alumnus, Nobel Peace Prize in 2001</div></div></div>
+<p>Over the course of its history, a sizeable number of UNIGE alumni have become notable in their fields, both academic, and in the wider world. Affiliates of the University of Geneva have won 10 Nobel prizes. Graduate alumni (<a href="/wiki/Martin_Hairer" title="Martin Hairer">Martin Hairer</a> and <a href="/wiki/Vaughan_Jones" title="Vaughan Jones">Vaughan Jones</a>) have won 2 Fields Medals.
+</p><p>The University has hosted several Nobel laureates as students, researchers and/or professors: <a href="/wiki/Norman_Angell" title="Norman Angell">Norman Angell</a> (1872–1967), Nobel Peace Prize 1933; <a href="/wiki/Karl_Gunnar_Myrdal" class="mw-redirect" title="Karl Gunnar Myrdal">Karl Gunnar Myrdal</a> (1898–1987) Nobel Prize in Economic Sciences 1974; <a href="/wiki/Daniel_Bovet" title="Daniel Bovet">Daniel Bovet</a> (1907–1992), Nobel Prize in Medicine 1957; <a href="/wiki/Niels_Kaj_Jerne" title="Niels Kaj Jerne">Niels Kaj Jerne</a> (1911–1994), Nobel Prize in Medicine 1984; <a href="/wiki/Maurice_Allais" title="Maurice Allais">Maurice Allais</a> (1911–2010), Nobel Prize in Economic Sciences 1988; <a href="/wiki/Edmond_H._Fischer" title="Edmond H. Fischer">Edmond H. Fischer</a> (1920–), Nobel Prize in Medicine 1992; <a href="/wiki/Martin_Rodbell" title="Martin Rodbell">Martin Rodbell</a> (1925–1998), Nobel Prize in Medicine 1994; <a href="/wiki/Alan_Jay_Heeger" class="mw-redirect" title="Alan Jay Heeger">Alan Jay Heeger</a> (1936- ), Nobel Prize in Chemistry 2000; <a href="/wiki/Werner_Arber" title="Werner Arber">Werner Arber</a> (1929– ), Nobel Prize in Medicine 1978; <a href="/wiki/Kofi_Annan" title="Kofi Annan">Kofi Annan</a> (1938– ), Nobel Peace Prize 2001.
+</p><p>It has also hosted or graduated three Fields medal laureates: <a href="/wiki/Vaughan_Jones" title="Vaughan Jones">Vaughan Jones</a> (1952– ), <a href="/wiki/Fields_Medal" title="Fields Medal">Fields Medal</a> laureate in 1990, <a href="/wiki/Stanislav_Smirnov" title="Stanislav Smirnov">Stanislav Smirnov</a> (1970– ), <a href="/wiki/Fields_Medal" title="Fields Medal">Fields Medal</a> laureate in 2010 and <a href="/wiki/Martin_Hairer" title="Martin Hairer">Martin Hairer</a> (1975- ), <a href="/wiki/Fields_Medal" title="Fields Medal">Fields Medal</a> laureate in 2014.
+</p>
+<h3><span class="mw-headline" id="Notable_scholars">Notable scholars</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=29" title="Edit section: Notable scholars">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="div-col columns column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em;">
+<ul><li><a href="/wiki/Werner_Arber" title="Werner Arber">Werner Arber</a> (1929-)</li>
+<li><a href="/wiki/Jonathan_Barnes" title="Jonathan Barnes">Jonathan Barnes</a> (1942-)</li>
+<li><a href="/wiki/Roland_Barthes" title="Roland Barthes">Roland Barthes</a> (1915–1980)</li>
+<li><a href="/wiki/Samuel_Baud-Bovy" title="Samuel Baud-Bovy">Samuel Baud-Bovy</a> (1906–1986)</li>
+<li><a href="/wiki/Yves_Bonnefoy" title="Yves Bonnefoy">Yves Bonnefoy</a> (1923-2016)</li>
+<li><a href="/wiki/Raymond_Boudon" title="Raymond Boudon">Raymond Boudon</a> (1934-)</li>
+<li><a href="/wiki/Jacques_Bouveresse" title="Jacques Bouveresse">Jacques Bouveresse</a> (1940-)</li>
+<li>Bernard Bouvier (1861–1941)</li>
+<li>Bertrand Bouvier (1929-)</li>
+<li><a href="/wiki/Fran%C3%A7ois_Bovon" title="François Bovon">François Bovon</a> (1938-)</li>
+<li><a href="/wiki/Michel_Butor" title="Michel Butor">Michel Butor</a> (1926-)</li>
+<li><a href="/wiki/Edouard_Clapar%C3%A8de" class="mw-redirect" title="Edouard Claparède">Edouard Claparède</a> (1873–1940)</li>
+<li><a href="/wiki/Georges_Cottier" title="Georges Cottier">Georges Cottier</a> (1922-2016)</li>
+<li><a href="/wiki/Gabriel_Cramer" title="Gabriel Cramer">Gabriel Cramer</a></li>
+<li><a href="/wiki/Victoria_Curzon-Price" title="Victoria Curzon-Price">Victoria Curzon-Price</a> (1942-)</li>
+<li>Waldemar Deonna (1880–1959)</li>
+<li><a href="/wiki/Kuppamuthu_Dharmalingam" title="Kuppamuthu Dharmalingam">Kuppamuthu Dharmalingam</a> (1949-)</li>
+<li>Alfred Dufour (1933-)</li>
+<li><a href="/wiki/Jean-Pierre_Eckmann" title="Jean-Pierre Eckmann">Jean-Pierre Eckmann</a> (1944-)</li>
+<li><a href="/wiki/Pascal_Engel" title="Pascal Engel">Pascal Engel</a> (1954-)</li>
+<li><a href="/wiki/Georges_Favon" title="Georges Favon">Georges Favon</a> (1843–1902)</li>
+<li><a href="/wiki/%C3%98ystein_Fischer" title="Øystein Fischer">Øystein Fischer</a> (1942-2013)</li>
+<li><a href="/wiki/Th%C3%A9odore_Flournoy" title="Théodore Flournoy">Théodore Flournoy</a> (1854–1920)</li>
+<li>Bernard Gagnebin (1915–1998)</li>
+<li>Orio Giarini (1936-)</li>
+<li>Marcel Golay (1927-)</li>
+<li><a href="/wiki/Jeanne_Hersch" title="Jeanne Hersch">Jeanne Hersch</a> (1910–2000)</li>
+<li><a href="/wiki/B%C3%A4rbel_Inhelder" title="Bärbel Inhelder">Bärbel Inhelder</a> (1913–1997)</li>
+<li><a href="/wiki/Albert_Jacquard" title="Albert Jacquard">Albert Jacquard</a> (1925-)</li>
+<li>Jean Kellerhals (1941-)</li>
+<li><a href="/wiki/Hans_Kelsen" title="Hans Kelsen">Hans Kelsen</a> (1881–1973)</li>
+<li><a href="/wiki/Stephan_Klapproth" title="Stephan Klapproth">Stephan Klapproth</a> (1958–)</li>
+<li><a href="/wiki/Ulrich_K._Laemmli" title="Ulrich K. Laemmli">Ulrich K. Laemmli</a></li>
+<li><a href="/wiki/Jan-Erik_Lane" title="Jan-Erik Lane">Jan-Erik Lane</a> (1946-)</li>
+<li>Michel Léonard (1949-)</li>
+<li>Alain de Libera (1948-)</li>
+<li><a href="/wiki/Giorgio_Malinverni" title="Giorgio Malinverni">Giorgio Malinverni</a> (1941-)</li>
+<li><a href="/wiki/Michel_Mayor" title="Michel Mayor">Michel Mayor</a> (1942-)</li>
+<li>Franklin Mendels (1943–1988)</li>
+<li><a href="/wiki/Hans_Morgenthau" title="Hans Morgenthau">Hans Morgenthau</a> (1904–1980)</li>
+<li><a href="/wiki/Kevin_Mulligan" title="Kevin Mulligan">Kevin Mulligan</a> (1951-)</li>
+<li><a href="/wiki/Robert_Mundell" title="Robert Mundell">Robert Mundell</a> (1932-)</li>
+<li><a href="/wiki/Joseph_Nye" title="Joseph Nye">Joseph Nye</a> (1937-)</li>
+<li><a href="/wiki/Douglass_North" title="Douglass North">Douglass North</a> (1920-)</li>
+<li>Carlo Ossola (1946-)</li>
+<li><a href="/wiki/Jean_Piaget" title="Jean Piaget">Jean Piaget</a> (1896–1980)</li>
+<li><a href="/wiki/Jean_Pictet" title="Jean Pictet">Jean Pictet</a> (1914–2002)</li>
+<li>Olivier Reverdin (1913–2000)</li>
+<li><a href="/wiki/Andr%C3%A9_Rey_(psychologist)" title="André Rey (psychologist)">André Rey</a> (1906–1965)</li>
+<li><a href="/wiki/Gonzague_de_Reynold" title="Gonzague de Reynold">Gonzague de Reynold</a> (1880–1970)</li>
+<li><a href="/wiki/Georges_de_Rham" title="Georges de Rham">Georges de Rham</a> (1903–1990)</li>
+<li>Anik de Ribaupierre (1946-)</li>
+<li><a href="/wiki/Denis_de_Rougemont" title="Denis de Rougemont">Denis de Rougemont</a>  (1906–1985)</li>
+<li><a href="/wiki/Jean_Rousset" title="Jean Rousset">Jean Rousset</a> (1910–2002)</li>
+<li><a href="/wiki/Ferdinand_de_Saussure" title="Ferdinand de Saussure">Ferdinand de Saussure</a> (1857–1913)</li>
+<li><a href="/wiki/Klaus_Scherer" title="Klaus Scherer">Klaus Scherer</a> (1943-)</li>
+<li><a href="/wiki/Klaus_Schwab" title="Klaus Schwab">Klaus Schwab</a> (1938-)</li>
+<li><a href="/wiki/Jean_de_Serres" title="Jean de Serres">Jean de Serres</a> (1540 - 1598)</li>
+<li><a href="/wiki/Stanislav_Smirnov" title="Stanislav Smirnov">Stanislav Smirnov</a> (1970-)</li>
+<li><a href="/wiki/Jean_Starobinski" title="Jean Starobinski">Jean Starobinski</a> (1920-)</li>
+<li><a href="/wiki/Maurice_Stroun" title="Maurice Stroun">Maurice Stroun</a> (1926-)</li>
+<li><a href="/wiki/George_Steiner" title="George Steiner">George Steiner</a> (1929-)</li>
+<li><a href="/wiki/Ernst_Stueckelberg" title="Ernst Stueckelberg">Ernst Stueckelberg</a> (1905-1984)</li>
+<li><a href="/wiki/Carsten_Peter_Thiede" title="Carsten Peter Thiede">Carsten Peter Thiede</a> (1952–2004)</li>
+<li><a href="/wiki/Pierre_Weiss" title="Pierre Weiss">Pierre Weiss</a> (1952-)</li>
+<li><a href="/wiki/Chaim_Weizmann" title="Chaim Weizmann">Chaim Weizmann</a> (1874–1952)</li>
+<li><a href="/wiki/%C3%89ric_Werner" title="Éric Werner">Éric Werner</a> (1940-)</li>
+<li><a href="/wiki/Jean_Ziegler" title="Jean Ziegler">Jean Ziegler</a> (1934-)</li></ul></div>
+<h3><span class="mw-headline" id="Notable_alumni">Notable alumni</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=30" title="Edit section: Notable alumni">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="div-col columns column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em;">
+<ul><li><a href="/wiki/Henri_of_Luxembourg" class="mw-redirect" title="Henri of Luxembourg">Henri of Luxembourg</a> (HEI)</li>
+<li><a href="/wiki/Maria_Teresa_Mestre" class="mw-redirect" title="Maria Teresa Mestre">Maria Teresa Mestre</a></li>
+<li><a href="/wiki/Princess_Astrid_of_Belgium,_Archduchess_of_Austria-Este" title="Princess Astrid of Belgium, Archduchess of Austria-Este">Astrid de Belgique</a> (IUEE)</li>
+<li><a href="/wiki/Princess_Jos%C3%A9phine-Charlotte_of_Belgium" class="mw-redirect" title="Princess Joséphine-Charlotte of Belgium">Joséphine-Charlotte de Belgique</a></li>
+<li><a href="/wiki/Princess_Nora_of_Liechtenstein" title="Princess Nora of Liechtenstein">Nora of Liechtenstein</a> (HEI)</li>
+<li><a href="/wiki/Elias_Farah" title="Elias Farah">Elias Farah</a></li>
+<li><a href="/wiki/Emanuele_Filiberto_di_Savoia" class="mw-redirect" title="Emanuele Filiberto di Savoia">Emanuele Filiberto di Savoia</a></li>
+<li><a href="/wiki/Bonaya_Adhi_Godana" class="mw-redirect" title="Bonaya Adhi Godana">Bonaya Adhi Godana</a></li>
+<li><a href="/wiki/Hartley_Shawcross,_Baron_Shawcross" class="mw-redirect" title="Hartley Shawcross, Baron Shawcross">Hartley Shawcross, Baron Shawcross</a></li>
+<li><a href="/wiki/Norman_Angell" title="Norman Angell">Sir Norman Angell</a></li>
+<li><a href="/wiki/Natalia_Aszkenazy" title="Natalia Aszkenazy">Natalia Aszkenazy</a></li>
+<li><a href="/wiki/Jos%C3%A9_Manuel_Dur%C3%A3o_Barroso" class="mw-redirect" title="José Manuel Durão Barroso">José Manuel Durão Barroso</a> (IUEE)</li>
+<li><a href="/wiki/Ferdinand_P._Beer" title="Ferdinand P. Beer">Ferdinand P. Beer</a></li>
+<li><a href="/wiki/Manolo_Blahnik" title="Manolo Blahnik">Manolo Blahnik</a></li>
+<li><a href="/wiki/Nicolas_Bouvier" title="Nicolas Bouvier">Nicolas Bouvier</a></li>
+<li><a href="/wiki/Micheline_Calmy-Rey" title="Micheline Calmy-Rey">Micheline Calmy-Rey</a> (HEI)</li>
+<li><a href="/wiki/Corinne_Chaponni%C3%A8re" title="Corinne Chaponnière">Corinne Chaponnière</a></li>
+<li><a href="/wiki/Albert_Cohen" title="Albert Cohen">Albert Cohen</a></li>
+<li><a href="/wiki/Ruth_Dreifuss" title="Ruth Dreifuss">Ruth Dreifuss</a></li>
+<li><a href="/wiki/Jacques_Dubochet" title="Jacques Dubochet">Jacques Dubochet</a></li>
+<li><a href="/wiki/Georges_Favon" title="Georges Favon">Georges Favon</a></li>
+<li><a href="/wiki/Ian_Fleming" title="Ian Fleming">Ian Fleming</a></li>
+<li><a href="/wiki/Claude_Goretta" title="Claude Goretta">Claude Goretta</a></li>
+<li>Christian Grobet</li>
+<li><a href="/wiki/Martin_Hairer" title="Martin Hairer">Martin Hairer</a></li>
+<li><a href="/wiki/Jean_Hoerni" title="Jean Hoerni">Jean Hoerni</a></li>
+<li><a href="/wiki/Afet_%C4%B0nan" title="Afet İnan">Afet İnan</a></li>
+<li><a href="/wiki/Sandra_Kalniete" title="Sandra Kalniete">Sandra Kalniete</a> (HEI)</li>
+<li><a href="/wiki/Sophie_Kanza" title="Sophie Kanza">Sophie Kanza</a></li>
+<li><a href="/wiki/Lazare_Kopelmanas" title="Lazare Kopelmanas">Lazare Kopelmanas</a></li>
+<li><a href="/wiki/Zygmunt_Krasi%C5%84ski" title="Zygmunt Krasiński">Zygmunt Krasiński</a></li>
+<li><a href="/wiki/Dominique_L%C3%A9vy" title="Dominique Lévy">Dominique Lévy</a><sup id="cite_ref-Levy_53-0" class="reference"><a href="#cite_note-Levy-53">&#91;53&#93;</a></sup></li>
+<li><a href="/wiki/Gilles_Marchand" title="Gilles Marchand">Gilles Marchand</a></li>
+<li>Alain Morisod</li>
+<li><a href="/wiki/Serge_Moscovici" title="Serge Moscovici">Serge Moscovici</a></li>
+<li><a href="/wiki/Placide_Nicod" title="Placide Nicod">Placide Nicod</a></li>
+<li><a href="/wiki/Claude_Nicollier" title="Claude Nicollier">Claude Nicollier</a></li>
+<li><a href="/wiki/Jean_Pictet" title="Jean Pictet">Jean Pictet</a></li>
+<li><a href="/wiki/Emma_Pieczynska-Reichenbach" title="Emma Pieczynska-Reichenbach">Emma Pieczynska-Reichenbach</a></li>
+<li><a href="/wiki/Claude_Piron" title="Claude Piron">Claude Piron</a></li>
+<li><a href="/wiki/Hans-Gert_P%C3%B6ttering" title="Hans-Gert Pöttering">Hans-Gert Pöttering</a></li>
+<li><a href="/wiki/Nasser_Mohammed_Al-Ahmed_Al-Sabah" class="mw-redirect" title="Nasser Mohammed Al-Ahmed Al-Sabah">Nasser Mohammed Al-Ahmed Al-Sabah</a></li>
+<li><a href="/wiki/Marco_Solari" title="Marco Solari">Marco Solari</a></li>
+<li><a href="/wiki/J%C3%BCrgen_W%C3%B6hler" title="Jürgen Wöhler">Jürgen Wöhler</a></li>
+<li><a href="/wiki/Ehsan_Naraghi" title="Ehsan Naraghi">Ehsan Naraghi</a></li>
+<li><a href="/wiki/Georg_Seelig" title="Georg Seelig">Georg Seelig</a></li>
+<li><a href="/wiki/Sigmund_Widmer" title="Sigmund Widmer">Sigmund Widmer</a></li>
+<li><a href="/wiki/Tariq_Ramadan" title="Tariq Ramadan">Tariq Ramadan</a></li>
+<li><a href="/wiki/Hani_Ramadan" title="Hani Ramadan">Hani Ramadan</a></li>
+<li><a href="/wiki/Elena_Aprile" title="Elena Aprile">Elena Aprile</a></li>
+<li><a href="/wiki/Paul_Dubrule" title="Paul Dubrule">Paul Dubrule</a></li>
+<li><a href="/wiki/Frank_Martin_(composer)" title="Frank Martin (composer)">Frank Martin</a></li>
+<li><a href="/wiki/Enrique_Moles_Ormella" title="Enrique Moles Ormella">Enrique Moles Ormella</a></li>
+<li><a href="/wiki/Riadh_Sidaoui" title="Riadh Sidaoui">Riadh Sidaoui</a></li>
+<li><a href="/wiki/Alain_Tanner" title="Alain Tanner">Alain Tanner</a></li></ul></div>
+<h2><span class="mw-headline" id="In_fiction">In fiction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=31" title="Edit section: In fiction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/James_Bond" title="James Bond">James Bond</a> briefly studied at the University of Geneva, as his creator, <a href="/wiki/Ian_Fleming" title="Ian Fleming">Ian Fleming</a> did.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">&#91;54&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=32" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_early_modern_universities_in_Europe" title="List of early modern universities in Europe">List of early modern universities in Europe</a></li>
+<li><a href="/wiki/List_of_largest_universities_by_enrollment_in_Switzerland" class="mw-redirect" title="List of largest universities by enrollment in Switzerland">List of largest universities by enrollment in Switzerland</a></li>
+<li><a href="/wiki/International_Academy_of_Sport_Science_and_Technology" class="mw-redirect" title="International Academy of Sport Science and Technology">International Academy of Sport Science and Technology</a> (AISTS)</li>
+<li><a href="/wiki/MyScience" title="MyScience">myScience.ch</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=33" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Geneva-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Geneva_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Geneva_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://www.mastersportal.eu/universities/525/university-of-geneva.html">"University of geneva"</a>. <i>Mastersportal</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mastersportal&amp;rft.atitle=University+of+geneva&amp;rft_id=http%3A%2F%2Fwww.mastersportal.eu%2Funiversities%2F525%2Funiversity-of-geneva.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://talloiresnetwork.tufts.edu/university-of-geneva-switzerland/">"University of Geneva"</a>. <i>Talloiresnetwork Tufts</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Talloiresnetwork+Tufts&amp;rft.atitle=University+of+Geneva&amp;rft_id=http%3A%2F%2Ftalloiresnetwork.tufts.edu%2Funiversity-of-geneva-switzerland%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="https://www.unige.ch/stat/fr/dernierepublication-1/">"University of Geneva (UNIGE)"</a>. <i>Studying in switzerland</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Studying+in+switzerland&amp;rft.atitle=University+of+Geneva+%28UNIGE%29&amp;rft_id=https%3A%2F%2Fwww.unige.ch%2Fstat%2Ffr%2Fdernierepublication-1%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://press.web.cern.ch/press-releases/2009/06/university-geneva-honours-lhc-project-leader-450th-anniversary-ceremony">"University of Geneva honors LHC project leader at 450th anniversary ceremony"</a>. <i>CERN</i>. 5 June 2009.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CERN&amp;rft.atitle=University+of+Geneva+honors+LHC+project+leader+at+450th+anniversary+ceremony&amp;rft.date=2009-06-05&amp;rft_id=http%3A%2F%2Fpress.web.cern.ch%2Fpress-releases%2F2009%2F06%2Funiversity-geneva-honours-lhc-project-leader-450th-anniversary-ceremony&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.shanghairanking.com/ARWU2016.html">"ARWU World University Rankings 2016 | Academic Ranking of World Universities 2016 | Top 500 universities | Shanghai Ranking - 2016"</a>. <i>Shanghairanking.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Shanghairanking.com&amp;rft.atitle=ARWU+World+University+Rankings+2016+%7C+Academic+Ranking+of+World+Universities+2016+%7C+Top+500+universities+%7C+Shanghai+Ranking+-+2016&amp;rft_id=http%3A%2F%2Fwww.shanghairanking.com%2FARWU2016.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.topuniversities.com/university-rankings/world-university-rankings/2015">"QS World University Rankings® 2015/16"</a>. <i>Top Universities</i>. 2015-09-11<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Top+Universities&amp;rft.atitle=QS+World+University+Rankings%C2%AE+2015%2F16&amp;rft.date=2015-09-11&amp;rft_id=https%3A%2F%2Fwww.topuniversities.com%2Funiversity-rankings%2Fworld-university-rankings%2F2015&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.timeshighereducation.com/world-university-rankings/2016/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats">"World University Rankings"</a>. <i>Times Higher Education (THE)</i>. 2015-09-30<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Times+Higher+Education+%28THE%29&amp;rft.atitle=World+University+Rankings&amp;rft.date=2015-09-30&amp;rft_id=https%3A%2F%2Fwww.timeshighereducation.com%2Fworld-university-rankings%2F2016%2Fworld-ranking%23%21%2Fpage%2F0%2Flength%2F25%2Fsort_by%2Frank%2Fsort_order%2Fasc%2Fcols%2Fstats&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://www.globalinksabroad.org/Quotes/QuoteID553/">"University in the Spotlight: University of Geneva"</a>. <i>Globalinksabroad</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Globalinksabroad&amp;rft.atitle=University+in+the+Spotlight%3A+University+of+Geneva&amp;rft_id=http%3A%2F%2Fwww.globalinksabroad.org%2FQuotes%2FQuoteID553%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150924094948/http://www.schenk-photos.ch/GENEVA_1/Geneve_Universite.html">"L'Université de Genève a fêté ses 450 ans en 2009"</a>. <i>Schenk photos</i>. Archived from <a rel="nofollow" class="external text" href="http://www.schenk-photos.ch/GENEVA_1/Geneve_Universite.html">the original</a> on 24 September 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">29 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Schenk+photos&amp;rft.atitle=L%27Universit%C3%A9+de+Gen%C3%A8ve+a+f%C3%AAt%C3%A9+ses+450+ans+en+2009&amp;rft_id=http%3A%2F%2Fwww.schenk-photos.ch%2FGENEVA_1%2FGeneve_Universite.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unige.ch/presse/static/plan/">"Accueil - Bâtiments: plans d'accès - UNIGE"</a>. <i>Unige.ch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Unige.ch&amp;rft.atitle=Accueil+-+B%C3%A2timents%3A+plans+d%27acc%C3%A8s+-+UNIGE&amp;rft_id=http%3A%2F%2Fwww.unige.ch%2Fpresse%2Fstatic%2Fplan%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unige.ch/presse/static/plan/bastions.html">"Accueil - Bâtiments: plans d'accès - UNIGE"</a>. <i>Unige.ch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Unige.ch&amp;rft.atitle=Accueil+-+B%C3%A2timents%3A+plans+d%27acc%C3%A8s+-+UNIGE&amp;rft_id=http%3A%2F%2Fwww.unige.ch%2Fpresse%2Fstatic%2Fplan%2Fbastions.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unige.ch/presse/static/plan/dufour.html">"Accueil - Bâtiments: plans d'accès - UNIGE"</a>. <i>Unige.ch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Unige.ch&amp;rft.atitle=Accueil+-+B%C3%A2timents%3A+plans+d%27acc%C3%A8s+-+UNIGE&amp;rft_id=http%3A%2F%2Fwww.unige.ch%2Fpresse%2Fstatic%2Fplan%2Fdufour.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170717073959/http://www.unige.ch/gsem/fr/service-aux-etudiants/service-aux-etudiants/">"GSEM"</a>. Archived from <a rel="nofollow" class="external text" href="https://www.unige.ch/gsem/fr/service-aux-etudiants/service-aux-etudiants/">the original</a> on 17 July 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">17 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=GSEM&amp;rft_id=https%3A%2F%2Fwww.unige.ch%2Fgsem%2Ffr%2Fservice-aux-etudiants%2Fservice-aux-etudiants%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unige.ch/presse/static/plan/mail.html">"Accueil - Bâtiments: plans d'accès - UNIGE"</a>. <i>Unige.ch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Unige.ch&amp;rft.atitle=Accueil+-+B%C3%A2timents%3A+plans+d%27acc%C3%A8s+-+UNIGE&amp;rft_id=http%3A%2F%2Fwww.unige.ch%2Fpresse%2Fstatic%2Fplan%2Fmail.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20140812070541/http://www.unige.ch/archives/adm/fonds/facultes.html">[1]</a></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unige.ch/cda">"Bienvenue - droit de l'art - UNIGE"</a>. <i>Unige.ch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Unige.ch&amp;rft.atitle=Bienvenue+-+droit+de+l%27art+-+UNIGE&amp;rft_id=http%3A%2F%2Fwww.unige.ch%2Fcda&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.curml.ch">"Centre Universitaire Romand - CURML"</a>. <i>Curml.ch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Curml.ch&amp;rft.atitle=Centre+Universitaire+Romand+-+CURML&amp;rft_id=http%3A%2F%2Fwww.curml.ch&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unige.ch/apropos/fr/rapport-financier/">"Rapport financier et budget - L'Université se présente - UNIGE"</a>. <i>Unige.ch</i> (in French)<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Unige.ch&amp;rft.atitle=Rapport+financier+et+budget+-+L%27Universit%C3%A9+se+pr%C3%A9sente+-+UNIGE&amp;rft_id=http%3A%2F%2Fwww.unige.ch%2Fapropos%2Ffr%2Frapport-financier%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unige.ch/rectorat/static/budget-2013.pdf">"Budget 2013"</a> <span class="cs1-format">(PDF)</span>. <i>Unige.ch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Unige.ch&amp;rft.atitle=Budget+2013&amp;rft_id=http%3A%2F%2Fwww.unige.ch%2Frectorat%2Fstatic%2Fbudget-2013.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unige.ch/biblio/infos/Sciences.html">"Site Uni Arve - Bibliothèque - UNIGE"</a>. <i>Unige.ch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Unige.ch&amp;rft.atitle=Site+Uni+Arve+-+Biblioth%C3%A8que+-+UNIGE&amp;rft_id=http%3A%2F%2Fwww.unige.ch%2Fbiblio%2Finfos%2FSciences.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unige.ch/biblio/infos/bastions.html">"Site Uni Bastions - Bibliothèque - UNIGE"</a>. <i>Unige.ch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Unige.ch&amp;rft.atitle=Site+Uni+Bastions+-+Biblioth%C3%A8que+-+UNIGE&amp;rft_id=http%3A%2F%2Fwww.unige.ch%2Fbiblio%2Finfos%2Fbastions.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unige.ch/biblio/infos/cmu.html">"Site Uni CMU - Bibliothèque - UNIGE"</a>. <i>Unige.ch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Unige.ch&amp;rft.atitle=Site+Uni+CMU+-+Biblioth%C3%A8que+-+UNIGE&amp;rft_id=http%3A%2F%2Fwww.unige.ch%2Fbiblio%2Finfos%2Fcmu.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unige.ch/biblio/infos/mail.html">"Site Uni Mail - Bibliothèque - UNIGE"</a>. <i>Unige.ch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Unige.ch&amp;rft.atitle=Site+Uni+Mail+-+Biblioth%C3%A8que+-+UNIGE&amp;rft_id=http%3A%2F%2Fwww.unige.ch%2Fbiblio%2Finfos%2Fmail.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unige.ch/communication/lejournal/journal77.html">"Journal n°77 - Le Journal - UNIGE"</a>. <i>Unige.ch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Unige.ch&amp;rft.atitle=Journal+n%C2%B077+-+Le+Journal+-+UNIGE&amp;rft_id=http%3A%2F%2Fwww.unige.ch%2Fcommunication%2Flejournal%2Fjournal77.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unige.ch/communication/Campus/campus100/edito.html">"Campus n°100, édition spéciale"</a>. <i>Unige.ch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Unige.ch&amp;rft.atitle=Campus+n%C2%B0100%2C+%C3%A9dition+sp%C3%A9ciale&amp;rft_id=http%3A%2F%2Fwww.unige.ch%2Fcommunication%2FCampus%2Fcampus100%2Fedito.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130718045336/http://www.unige.ch/dife/sinscrire/conditions-admissions/201314conditions_immatriculation.pdf">"Archived copy"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.unige.ch/dife/sinscrire/conditions-admissions/201314conditions_immatriculation.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 18 July 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">11 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.unige.ch%2Fdife%2Fsinscrire%2Fconditions-admissions%2F201314conditions_immatriculation.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Archived copy as title (<a href="/w/index.php?title=Category:CS1_maint:_Archived_copy_as_title&amp;action=edit&amp;redlink=1" class="new" title="Category:CS1 maint: Archived copy as title (page does not exist)">link</a>) </span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130803154914/http://www.unige.ch/dife/sinscrire/conditions-admissions/examens/francais.html">"Examen de français - Division de la formation et des étudiants - UNIGE"</a>. 3 August 2013. Archived from <a rel="nofollow" class="external text" href="http://www.unige.ch/dife/sinscrire/conditions-admissions/examens/francais.html">the original</a> on 3 August 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Examen+de+fran%C3%A7ais+-+Division+de+la+formation+et+des+%C3%A9tudiants+-+UNIGE&amp;rft.date=2013-08-03&amp;rft_id=http%3A%2F%2Fwww.unige.ch%2Fdife%2Fsinscrire%2Fconditions-admissions%2Fexamens%2Ffrancais.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20130304081939/http://www.unige.ch/international/Futuretudiant/etudiantregulier/etuderecherche_en.html">[2]</a></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130801065159/http://www.unige.ch/dife/boussole/nouveauxetudiants/WelcomeDays/programmeWD.html">"Programme des Welcome Days 2013 - Accueil et intégration - UNIGE"</a>. 1 August 2013. Archived from <a rel="nofollow" class="external text" href="http://www.unige.ch/dife/boussole/nouveauxetudiants/WelcomeDays/programmeWD.html">the original</a> on 1 August 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Programme+des+Welcome+Days+2013+-+Accueil+et+int%C3%A9gration+-+UNIGE&amp;rft.date=2013-08-01&amp;rft_id=http%3A%2F%2Fwww.unige.ch%2Fdife%2Fboussole%2Fnouveauxetudiants%2FWelcomeDays%2FprogrammeWD.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unige.ch/formev/Archives/bologne.html">"Enseigner et Apprendre - Division de la formation et des étudiants - UNIGE"</a>. <i>Unige.ch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Unige.ch&amp;rft.atitle=Enseigner+et+Apprendre+-+Division+de+la+formation+et+des+%C3%A9tudiants+-+UNIGE&amp;rft_id=http%3A%2F%2Fwww.unige.ch%2Fformev%2FArchives%2Fbologne.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20130303205450/http://www.unige.ch/futursetudiants/formation/bachelor.html">[3]</a></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unige.ch/formcont/index.html">"Centre pour la formation continue et à distance - Centre pour la formation continue et à distance - UNIGE"</a>. <i>Unige.ch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Unige.ch&amp;rft.atitle=Centre+pour+la+formation+continue+et+%C3%A0+distance+-+Centre+pour+la+formation+continue+et+%C3%A0+distance+-+UNIGE&amp;rft_id=http%3A%2F%2Fwww.unige.ch%2Fformcont%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20140111051821/http://129.194.40.25/fmi/iwp/cgi?-db=RI_Panorama&amp;-loadframes">[4]</a></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unige.ch/gufri/index.html">"Geneva Finance Research Institute - Faculté d'économie et de management - UNIGE"</a>. <i>Unige.ch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Unige.ch&amp;rft.atitle=Geneva+Finance+Research+Institute+-+Facult%C3%A9+d%27%C3%A9conomie+et+de+management+-+UNIGE&amp;rft_id=http%3A%2F%2Fwww.unige.ch%2Fgufri%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unige.ch/environnement/index.html">"Institut des Sciences de l'Environnement - Institut des Sciences de l'Environnement - UNIGE"</a>. <i>Unige.ch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Unige.ch&amp;rft.atitle=Institut+des+Sciences+de+l%27Environnement+-+Institut+des+Sciences+de+l%27Environnement+-+UNIGE&amp;rft_id=http%3A%2F%2Fwww.unige.ch%2Fenvironnement%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.shanghairanking.com/ARWU2018.html">Academic Ranking of World Universities 2018</a></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.topuniversities.com/university-rankings/world-university-rankings/2018">QS World University Rankings 2018</a></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.timeshighereducation.com/world-university-rankings/2018/world-ranking">World University Rankings 2018</a></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.usnews.com/education/best-global-universities/rankings?page=9">U.S. News Education: Best Global Universities 2018</a></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131029192122/http://monet.knu.ac.kr/~cktoh/Newsweek-top-100.pdf">"Archived copy"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://monet.knu.ac.kr/~cktoh/Newsweek-top-100.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 29 October 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">10 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fmonet.knu.ac.kr%2F~cktoh%2FNewsweek-top-100.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Archived copy as title (<a href="/w/index.php?title=Category:CS1_maint:_Archived_copy_as_title&amp;action=edit&amp;redlink=1" class="new" title="Category:CS1 maint: Archived copy as title (page does not exist)">link</a>) </span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.topuniversities.com/university-rankings/world-university-rankings/2010/results">"QS World University Rankings 2010 Results"</a>. <i>Topuniversities.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Topuniversities.com&amp;rft.atitle=QS+World+University+Rankings+2010+Results&amp;rft_id=http%3A%2F%2Fwww.topuniversities.com%2Funiversity-rankings%2Fworld-university-rankings%2F2010%2Fresults&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.timeshighereducation.co.uk/world-university-rankings/2010-2011/top-200.html">"Times Higher Education World University Rankings"</a>. <i>Timeshighereducation.co.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Timeshighereducation.co.uk&amp;rft.atitle=Times+Higher+Education+World+University+Rankings&amp;rft_id=http%3A%2F%2Fwww.timeshighereducation.co.uk%2Fworld-university-rankings%2F2010-2011%2Ftop-200.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.timeshighereducation.co.uk/411576.article">"Top European Institutions in Molecular Biology"</a>. <i>Times Higher Education</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Times+Higher+Education&amp;rft.atitle=Top+European+Institutions+in+Molecular+Biology&amp;rft_id=http%3A%2F%2Fwww.timeshighereducation.co.uk%2F411576.article&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.topuniversities.com/node/2453/ranking-details/university-subject-rankings/2013">"University of Geneva Rankings"</a>. <i>Top Universities</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Top+Universities&amp;rft.atitle=University+of+Geneva+Rankings&amp;rft_id=http%3A%2F%2Fwww.topuniversities.com%2Fnode%2F2453%2Franking-details%2Funiversity-subject-rankings%2F2013&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.topuniversities.com/node/2453/ranking-details/world-university-rankings/2012">"University of Geneva Rankings"</a>. <i>Top Universities</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Top+Universities&amp;rft.atitle=University+of+Geneva+Rankings&amp;rft_id=http%3A%2F%2Fwww.topuniversities.com%2Fnode%2F2453%2Franking-details%2Fworld-university-rankings%2F2012&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.unige.ch/stat/fr/dernierepublication-1/">"Publications"</a>. <i>Unige.ch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Unige.ch&amp;rft.atitle=Publications&amp;rft_id=https%3A%2F%2Fwww.unige.ch%2Fstat%2Ffr%2Fdernierepublication-1%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121228004133/http://www.sports.unige.ch/index.php/calendrier-a-horaires">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.sports.unige.ch/index.php/calendrier-a-horaires">the original</a> on 28 December 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">10 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.sports.unige.ch%2Findex.php%2Fcalendrier-a-horaires&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Archived copy as title (<a href="/w/index.php?title=Category:CS1_maint:_Archived_copy_as_title&amp;action=edit&amp;redlink=1" class="new" title="Category:CS1 maint: Archived copy as title (page does not exist)">link</a>) </span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130715031322/http://www.sports.unige.ch/index.php/championnats/20-championnats-universitaires-genevois">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.sports.unige.ch/index.php/championnats/20-championnats-universitaires-genevois">the original</a> on 15 July 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">10 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.sports.unige.ch%2Findex.php%2Fchampionnats%2F20-championnats-universitaires-genevois&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Archived copy as title (<a href="/w/index.php?title=Category:CS1_maint:_Archived_copy_as_title&amp;action=edit&amp;redlink=1" class="new" title="Category:CS1 maint: Archived copy as title (page does not exist)">link</a>) </span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130625100823/http://www.sports.unige.ch/index.php/championnats/38-championnats-universitaires-ch">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.sports.unige.ch/index.php/championnats/38-championnats-universitaires-ch">the original</a> on 25 June 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">10 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.sports.unige.ch%2Findex.php%2Fchampionnats%2F38-championnats-universitaires-ch&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Archived copy as title (<a href="/w/index.php?title=Category:CS1_maint:_Archived_copy_as_title&amp;action=edit&amp;redlink=1" class="new" title="Category:CS1 maint: Archived copy as title (page does not exist)">link</a>) </span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130717084727/http://www.sports.unige.ch/index.php/sport-etudes">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.sports.unige.ch/index.php/sport-etudes">the original</a> on 17 July 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">10 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.sports.unige.ch%2Findex.php%2Fsport-etudes&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Archived copy as title (<a href="/w/index.php?title=Category:CS1_maint:_Archived_copy_as_title&amp;action=edit&amp;redlink=1" class="new" title="Category:CS1 maint: Archived copy as title (page does not exist)">link</a>) </span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.is/20130811101843/http://alumni.unige.ch/services-avantages.html">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://alumni.unige.ch/services-avantages.html">the original</a> on 11 August 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">10 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Falumni.unige.ch%2Fservices-avantages.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Archived copy as title (<a href="/w/index.php?title=Category:CS1_maint:_Archived_copy_as_title&amp;action=edit&amp;redlink=1" class="new" title="Category:CS1 maint: Archived copy as title (page does not exist)">link</a>) </span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080623080951/http://www.asso-etud.unige.ch/atouts-lettres/pres.html">"Atouts Lettres - Présentation"</a>. <i>Asso-etud.unige.ch</i>. Archived from <a rel="nofollow" class="external text" href="http://www.asso-etud.unige.ch/atouts-lettres/pres.html">the original</a> on 23 June 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">20 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Asso-etud.unige.ch&amp;rft.atitle=Atouts+Lettres+-+Pr%C3%A9sentation&amp;rft_id=http%3A%2F%2Fwww.asso-etud.unige.ch%2Fatouts-lettres%2Fpres.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Levy-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-Levy_53-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130623064958/http://www.dominique-levy.com/contact">"Dominique Levy"</a>. <i>Dominique-levy.com</i>. Archived from <a rel="nofollow" class="external text" href="http://www.dominique-levy.com/contact">the original</a> on 23 June 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">8 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Dominique-levy.com&amp;rft.atitle=Dominique+Levy&amp;rft_id=http%3A%2F%2Fwww.dominique-levy.com%2Fcontact&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text">* <cite id="CITEREFPearson2008" class="citation book"><a href="/wiki/John_Pearson_(author)" title="John Pearson (author)">Pearson, John</a> (2008). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=WdBHOXLA6hYC&amp;lpg=PP1&amp;pg=PP1#v=onepage&amp;q&amp;f=false"><i>James Bond: The Authorised Biography</i></a>. <a href="/wiki/Random_House" title="Random House">Random House</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-09-950292-0" title="Special:BookSources/978-0-09-950292-0">978-0-09-950292-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=James+Bond%3A+The+Authorised+Biography&amp;rft.pub=Random+House&amp;rft.date=2008&amp;rft.isbn=978-0-09-950292-0&amp;rft.aulast=Pearson&amp;rft.aufirst=John&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DWdBHOXLA6hYC%26lpg%3DPP1%26pg%3DPP1%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUniversity+of+Geneva" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/>, p. 299</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit&amp;section=34" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:University_of_Geneva" class="extiw" title="commons:Category:University of Geneva">University of Geneva</a></b></i>.</td></tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.unige.ch/en/">Official website</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="23x16px&amp;#124;border_&amp;#124;alt=Switzerland&amp;#124;link=Switzerland_Universities_in_Switzerland" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Universities_in_Switzerland" title="Template:Universities in Switzerland"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Universities_in_Switzerland" title="Template talk:Universities in Switzerland"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Universities_in_Switzerland&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x16px&amp;#124;border_&amp;#124;alt=Switzerland&amp;#124;link=Switzerland_Universities_in_Switzerland" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="1000" data-file-height="1000" /></a></span> <a href="/wiki/List_of_universities_in_Switzerland" title="List of universities in Switzerland">Universities in Switzerland</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="according_Federal_Higher_Education_Act,_HEdA">according Federal Higher Education Act, HEdA</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Universities (HEdA)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/University_of_Basel" title="University of Basel">University of Basel</a></li>
+<li><a href="/wiki/University_of_Bern" title="University of Bern">University of Bern</a></li>
+<li><a href="/wiki/University_of_Fribourg" title="University of Fribourg">University of Fribourg</a></li>
+<li><a class="mw-selflink selflink">University of Geneva</a></li>
+<li><a href="/wiki/University_of_Neuch%C3%A2tel" title="University of Neuchâtel">University of Neuchâtel</a></li>
+<li><a href="/wiki/University_of_Lausanne" title="University of Lausanne">University of Lausanne</a></li>
+<li><a href="/wiki/University_of_Lucerne" title="University of Lucerne">University of Lucerne</a></li>
+<li><a href="/wiki/University_of_Lugano" class="mw-redirect" title="University of Lugano">Università della Svizzera Italiana (USI)</a></li>
+<li><a href="/wiki/University_of_St._Gallen" title="University of St. Gallen">University of St. Gallen (HSG)</a></li>
+<li><a href="/wiki/University_of_Zurich" title="University of Zurich">University of Zurich</a></li>
+<li><a href="/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne" title="École Polytechnique Fédérale de Lausanne">Swiss Federal Institute of Technology Lausanne (EPFL)</a></li>
+<li><a href="/wiki/ETH_Zurich" title="ETH Zurich">Swiss Federal Institute of Technology Zurich (ETHZ)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Public Universities of Applied Sciences (HEdA)</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bern_University_of_Applied_Sciences" title="Bern University of Applied Sciences">Bern University of Applied Sciences</a> (BFH)</li>
+<li><a href="/wiki/Lucerne_University_of_Applied_Sciences_and_Arts" title="Lucerne University of Applied Sciences and Arts">Lucerne University of Applied Sciences and Arts</a> (HSLU)</li>
+<li><a href="/w/index.php?title=University_of_Applied_Sciences_Northwestern_Switzerland&amp;action=edit&amp;redlink=1" class="new" title="University of Applied Sciences Northwestern Switzerland (page does not exist)">University of Applied Sciences Northwestern Switzerland</a> (FHNW)</li>
+<li><a href="/wiki/University_of_Applied_Sciences_of_Eastern_Switzerland" title="University of Applied Sciences of Eastern Switzerland">University of Applied Sciences of Eastern Switzerland</a> (FHO)</li>
+<li><a href="/wiki/University_of_Applied_Sciences_Western_Switzerland" title="University of Applied Sciences Western Switzerland">University of Applied Sciences Western Switzerland</a> (HES-SO)</li>
+<li><a href="/wiki/SUPSI" title="SUPSI">Scuola Universitaria Professionale della Svizzera Italiana (SUPSI)</a></li>
+<li><a href="/wiki/Zurich_University_of_Applied_Sciences" title="Zurich University of Applied Sciences">Zurich University of Applied Sciences</a> (ZFH)
+<ul><li><a href="/wiki/Zurich_University_of_Applied_Sciences/ZHAW" title="Zurich University of Applied Sciences/ZHAW">Zurich University of Applied Sciences/ZHAW</a> (ZHAW)</li>
+<li><a href="/wiki/Zurich_University_of_Applied_Sciences_in_Business_Administration" title="Zurich University of Applied Sciences in Business Administration">Zurich University of Applied Sciences in Business Administration</a> (HWZ)</li>
+<li><a href="/wiki/Zurich_University_of_the_Arts" title="Zurich University of the Arts">Zurich University of the Arts</a> (ZHdK)</li>
+<li><i>Zurich University of Teacher Education</i> (PHZH)</li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Private universities of applied sciences (HEdA)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kalaidos_University_of_Applied_Sciences" title="Kalaidos University of Applied Sciences">Kalaidos University of Applied Sciences</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a href="/wiki/Swiss_University_Conference" title="Swiss University Conference">Swiss University Conference</a></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Coimbra_Group_of_European_research_universities" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#4682b4;color:white;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Coimbra_Group" title="Template:Coimbra Group"><abbr title="View this template" style="background:#4682b4;color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Coimbra_Group" title="Template talk:Coimbra Group"><abbr title="Discuss this template" style="background:#4682b4;color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Coimbra_Group&amp;action=edit"><abbr title="Edit this template" style="background:#4682b4;color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Coimbra_Group_of_European_research_universities" style="font-size:114%;margin:0 4em"><a href="/wiki/Coimbra_Group" title="Coimbra Group"><span style="color:white">Coimbra Group</span></a> of European research universities</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aarhus_University" title="Aarhus University">Aarhus</a></li>
+<li><a href="/wiki/University_of_Barcelona" title="University of Barcelona">Barcelona</a></li>
+<li><a href="/wiki/University_of_Bergen" title="University of Bergen">Bergen</a></li>
+<li><a href="/wiki/University_of_Bologna" title="University of Bologna">Bologna</a></li>
+<li><a href="/wiki/University_of_Bristol" title="University of Bristol">Bristol</a></li>
+<li><a href="/wiki/E%C3%B6tv%C3%B6s_Lor%C3%A1nd_University" title="Eötvös Loránd University">Budapest</a></li>
+<li><a href="/wiki/University_of_Coimbra" title="University of Coimbra">Coimbra</a></li>
+<li><a href="/wiki/University_of_Dublin" title="University of Dublin">Dublin</a></li>
+<li><a href="/wiki/Durham_University" title="Durham University">Durham</a></li>
+<li><a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">Edinburgh</a></li>
+<li><a href="/wiki/NUI_Galway" title="NUI Galway">Galway</a></li>
+<li><a class="mw-selflink selflink">Geneva</a></li>
+<li><a href="/wiki/University_of_G%C3%B6ttingen" title="University of Göttingen">Göttingen</a></li>
+<li><a href="/wiki/University_of_Granada" title="University of Granada">Granada</a></li>
+<li><a href="/wiki/University_of_Graz" title="University of Graz">Graz</a></li>
+<li><a href="/wiki/University_of_Groningen" title="University of Groningen">Groningen</a></li>
+<li><a href="/wiki/Heidelberg_University" title="Heidelberg University">Heidelberg</a></li>
+<li><a href="/wiki/Alexandru_Ioan_Cuza_University" title="Alexandru Ioan Cuza University">Iași</a></li>
+<li><a href="/wiki/Istanbul_University" title="Istanbul University">Istanbul</a></li>
+<li><a href="/wiki/University_of_Jena" title="University of Jena">Jena</a></li>
+<li><a href="/wiki/Jagiellonian_University" title="Jagiellonian University">Kraków</a></li>
+<li><a href="/wiki/Leiden_University" title="Leiden University">Leiden</a></li>
+<li><a href="/wiki/Katholieke_Universiteit_Leuven" class="mw-redirect" title="Katholieke Universiteit Leuven">Leuven</a></li>
+<li><a href="/wiki/Universit%C3%A9_catholique_de_Louvain" title="Université catholique de Louvain">Louvain-la-Neuve</a></li>
+<li><a href="/wiki/University_of_Lyon" title="University of Lyon">Lyon</a></li>
+<li><a href="/wiki/University_of_Montpellier" title="University of Montpellier">Montpellier</a></li>
+<li><a href="/wiki/University_of_Padua" title="University of Padua">Padua</a></li>
+<li><a href="/wiki/University_of_Pavia" title="University of Pavia">Pavia</a></li>
+<li><a href="/wiki/University_of_Poitiers" title="University of Poitiers">Poitiers</a></li>
+<li><a href="/wiki/Charles_University_in_Prague" class="mw-redirect" title="Charles University in Prague">Prague</a></li>
+<li><a href="/wiki/Saint_Petersburg_State_University" title="Saint Petersburg State University">St. Petersburg</a></li>
+<li><a href="/wiki/University_of_Salamanca" title="University of Salamanca">Salamanca</a></li>
+<li><a href="/wiki/University_of_Siena" title="University of Siena">Siena</a></li>
+<li><a href="/wiki/University_of_Tartu" title="University of Tartu">Tartu</a></li>
+<li><a href="/wiki/University_of_Turku" title="University of Turku">Turku I</a></li>
+<li><a href="/wiki/%C3%85bo_Akademi_University" title="Åbo Akademi University">Turku II</a></li>
+<li><a href="/wiki/Uppsala_University" title="Uppsala University">Uppsala</a></li>
+<li><a href="/wiki/Vilnius_University" title="Vilnius University">Vilnius</a></li>
+<li><a href="/wiki/University_of_W%C3%BCrzburg" title="University of Würzburg">Würzburg</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="League_of_European_Research_Universities" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:League_of_European_Research_Universities" title="Template:League of European Research Universities"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:League_of_European_Research_Universities" title="Template talk:League of European Research Universities"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:League_of_European_Research_Universities&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="League_of_European_Research_Universities" style="font-size:114%;margin:0 4em"><a href="/wiki/League_of_European_Research_Universities" title="League of European Research Universities">League of European Research Universities</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/University_of_Amsterdam" title="University of Amsterdam">Amsterdam</a></li>
+<li><a href="/wiki/University_of_Barcelona" title="University of Barcelona">Barcelona</a></li>
+<li><a href="/wiki/University_of_Cambridge" title="University of Cambridge">Cambridge</a></li>
+<li><a href="/wiki/University_of_Copenhagen" title="University of Copenhagen">Copenhagen</a></li>
+<li><a href="/wiki/Trinity_College_Dublin" title="Trinity College Dublin">Dublin</a></li>
+<li><a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">Edinburgh</a></li>
+<li><a href="/wiki/University_of_Freiburg" title="University of Freiburg">Freiburg</a></li>
+<li><a class="mw-selflink selflink">Geneva</a></li>
+<li><a href="/wiki/Ruprecht_Karl_University_of_Heidelberg" class="mw-redirect" title="Ruprecht Karl University of Heidelberg">Heidelberg</a></li>
+<li><a href="/wiki/University_of_Helsinki" title="University of Helsinki">Helsinki</a></li>
+<li><a href="/wiki/Imperial_College_London" title="Imperial College London">Imperial College</a></li>
+<li><a href="/wiki/University_of_Leiden" class="mw-redirect" title="University of Leiden">Leiden</a></li>
+<li><a href="/wiki/Katholieke_Universiteit_Leuven" class="mw-redirect" title="Katholieke Universiteit Leuven">Leuven</a></li>
+<li><a href="/wiki/Lund_University" title="Lund University">Lund</a></li>
+<li><a href="/wiki/University_of_Milan" title="University of Milan">Milan</a></li>
+<li><a href="/wiki/Ludwig_Maximilian_University_of_Munich" title="Ludwig Maximilian University of Munich">LMU Munich</a></li>
+<li><a href="/wiki/University_of_Oxford" title="University of Oxford">Oxford</a></li>
+<li><a href="/wiki/Sorbonne_University" title="Sorbonne University">Sorbonne University</a></li>
+<li><a href="/wiki/Paris-Sud_11_University" class="mw-redirect" title="Paris-Sud 11 University">Paris XI</a></li>
+<li><a href="/wiki/University_of_Strasbourg" title="University of Strasbourg">Strasbourg</a></li>
+<li><a href="/wiki/University_College_London" title="University College London">University College London</a></li>
+<li><a href="/wiki/Utrecht_University" title="Utrecht University">Utrecht</a></li>
+<li><a href="/wiki/University_of_Zurich" title="University of Zurich">Zürich</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="International_Forum_of_Public_Universities_(IFPU)" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:International_Forum_of_Public_Universities" title="Template:International Forum of Public Universities"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:International_Forum_of_Public_Universities" title="Template talk:International Forum of Public Universities"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:International_Forum_of_Public_Universities&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="International_Forum_of_Public_Universities_(IFPU)" style="font-size:114%;margin:0 4em"><a href="/wiki/International_Forum_of_Public_Universities" title="International Forum of Public Universities">International Forum of Public Universities (IFPU)</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Europe</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Universit%C3%A9_libre_de_Bruxelles" title="Université libre de Bruxelles">Brussels</a></li>
+<li><a href="/wiki/Charles_University" title="Charles University">Charles</a></li>
+<li><a href="/wiki/University_of_Paris_III:_Sorbonne_Nouvelle" title="University of Paris III: Sorbonne Nouvelle">Paris III</a></li>
+<li><a href="/wiki/University_of_Freiburg" title="University of Freiburg">Freiburg</a></li>
+<li><a href="/wiki/University_of_Bologna" title="University of Bologna">Bologna</a></li>
+<li><a href="/wiki/University_of_Bucharest" title="University of Bucharest">Bucharest</a></li>
+<li><a href="/wiki/Moscow_State_University" title="Moscow State University">Lomonosov Moscow State</a></li>
+<li><a href="/wiki/University_of_Barcelona" title="University of Barcelona">Barcelona</a></li>
+<li><a class="mw-selflink selflink">Geneva</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Americas</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/University_of_California" title="University of California">California</a></li>
+<li><a href="/wiki/Universit%C3%A9_de_Montr%C3%A9al" title="Université de Montréal">Montréal</a></li>
+<li><a href="/wiki/University_of_S%C3%A3o_Paulo" title="University of São Paulo">São Paulo</a></li>
+<li><a href="/wiki/University_of_Buenos_Aires" title="University of Buenos Aires">Buenos Aires</a></li>
+<li><a href="/wiki/University_of_Chile" title="University of Chile">Chile</a></li>
+<li><a href="/wiki/Universit%C3%A9_d%27%C3%89tat_d%27Ha%C3%AFti" title="Université d&#39;État d&#39;Haïti">Haiti</a></li>
+<li><a href="/wiki/National_Autonomous_University_of_Mexico" title="National Autonomous University of Mexico">UNAM</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Asia</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Peking_University" title="Peking University">Peking</a></li>
+<li><a href="/wiki/Nankai_University" title="Nankai University">Nankai</a></li>
+<li><a href="/wiki/Jawaharlal_Nehru_University" title="Jawaharlal Nehru University">Jawaharlal Nehru</a></li>
+<li><a href="/wiki/Nagoya_University" title="Nagoya University">Nagoya</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Africa</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/University_of_Ouagadougou" title="University of Ouagadougou">Ouagadougou</a></li>
+<li><a href="/wiki/Cheikh_Anta_Diop_University" title="Cheikh Anta Diop University">Cheikh Anta Diop</a></li>
+<li><a href="/wiki/Mohammed_V_University_at_Agdal" title="Mohammed V University at Agdal">Mohammed V</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="European_Master_of_Public_Administration_Consortium" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#0F4D92; color:white;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:European_Masters_in_Public_Administration_Network" title="Template:European Masters in Public Administration Network"><abbr title="View this template" style=";background:#0F4D92; color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:European_Masters_in_Public_Administration_Network" title="Template talk:European Masters in Public Administration Network"><abbr title="Discuss this template" style=";background:#0F4D92; color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:European_Masters_in_Public_Administration_Network&amp;action=edit"><abbr title="Edit this template" style=";background:#0F4D92; color:white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="European_Master_of_Public_Administration_Consortium" style="font-size:114%;margin:0 4em"><a href="/wiki/European_Master_of_Public_Administration_Consortium" title="European Master of Public Administration Consortium"><span style="color:white">European Master of Public Administration Consortium</span></a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Corvinus_University_of_Budapest" title="Corvinus University of Budapest">Corvinus University of Budapest</a></li>
+<li><a class="mw-selflink selflink">University of Geneva</a></li>
+<li><a href="/wiki/Leiden_University" title="Leiden University">Leiden University</a></li>
+<li><a href="/wiki/KU_Leuven" title="KU Leuven">KU Leuven</a></li>
+<li><a href="/wiki/University_of_Limerick" title="University of Limerick">University of Limerick</a></li>
+<li><a href="/wiki/University_of_Liverpool" title="University of Liverpool">University of Liverpool</a></li>
+<li><a href="/wiki/Universit%C3%A9_catholique_de_Louvain" title="Université catholique de Louvain">Université catholique de Louvain</a></li>
+<li><a href="/wiki/Institut_d%27%C3%89tudes_Politiques_de_Lyon" class="mw-redirect" title="Institut d&#39;Études Politiques de Lyon">Institut d'Études Politiques de Lyon</a></li>
+<li><a href="/wiki/Sciences_Po_Paris" class="mw-redirect" title="Sciences Po Paris">Sciences Po Paris</a></li>
+<li><a href="/wiki/Erasmus_University_Rotterdam" title="Erasmus University Rotterdam">Erasmus University Rotterdam</a></li>
+<li><a href="/wiki/German_University_of_Administrative_Sciences_Speyer" class="mw-redirect" title="German University of Administrative Sciences Speyer">German University of Administrative Sciences Speyer</a></li>
+<li><a href="/wiki/Tallinn_University_of_Technology" title="Tallinn University of Technology">Tallinn University of Technology</a></li>
+<li><a href="/wiki/University_of_Vaasa" title="University of Vaasa">University of Vaasa</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Platopainting.jpg" class="image"><img alt="Platopainting.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Platopainting.jpg/17px-Platopainting.jpg" width="17" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Platopainting.jpg/26px-Platopainting.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Platopainting.jpg/34px-Platopainting.jpg 2x" data-file-width="328" data-file-height="400" /></a></span><a href="/wiki/Portal:University" title="Portal:University">University portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Wappen_Genf_matt.svg" class="image"><img alt="Wappen Genf matt.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Wappen_Genf_matt.svg/17px-Wappen_Genf_matt.svg.png" width="17" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Wappen_Genf_matt.svg/26px-Wappen_Genf_matt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Wappen_Genf_matt.svg/35px-Wappen_Genf_matt.svg.png 2x" data-file-width="407" data-file-height="493" /></a></span><a href="/wiki/Portal:Geneva" title="Portal:Geneva">Geneva portal</a></span></li></ul></div>
+<div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q503473&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q503473&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q503473" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"> <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/143949988">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/BIBSYS" class="mw-redirect" title="BIBSYS">BIBSYS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/90522498">90522498</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" title="Biblioteca Nacional de España">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX110116">XX110116</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb11868006x">cb11868006x</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb11868006x">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/1010450-1">1010450-1</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000121752154">0000 0001 2175 2154</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n79064813">n79064813</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_Latvia" title="National Library of Latvia">LNB</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://kopkatalogs.lv/F?func=direct&amp;local_base=lnc10&amp;doc_number=000176986&amp;P_CON_LNG=ENG">000176986</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=kn20101012008&amp;CON_LNG=ENG">kn20101012008</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_Australia" title="National Library of Australia">NLA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://nla.gov.au/anbd.aut-an36094675">36094675</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/02643136X">02643136X</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Union_List_of_Artist_Names" title="Union List of Artist Names">ULAN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;subjectid=500312894">500312894</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/143949988">143949988</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2182
+Cached time: 20180929134350
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.796 seconds
+Real time usage: 0.967 seconds
+Preprocessor visited node count: 4084/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 163400/2097152 bytes
+Template argument size: 17219/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 17/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 121365/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.420/10.000 seconds
+Lua memory usage: 18.61 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  769.089      1 -total
+ 38.04%  292.568      1 Template:Reflist
+ 25.81%  198.519      1 Template:Infobox_university
+ 23.15%  178.046      1 Template:Infobox
+ 20.02%  153.939     37 Template:Cite_web
+ 15.80%  121.500      1 Template:Lang-la
+  9.43%   72.533      6 Template:Cite_journal
+  5.01%   38.493      1 Template:More_citations_needed
+  4.55%   35.032      5 Template:Navbox
+  4.44%   34.129      1 Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:342348-0!canonical and timestamp 20180929134349 and revision id 858094953
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=University_of_Geneva&amp;oldid=858094953">https://en.wikipedia.org/w/index.php?title=University_of_Geneva&amp;oldid=858094953</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:University_of_Geneva" title="Category:University of Geneva">University of Geneva</a></li><li><a href="/wiki/Category:Universities_in_Switzerland" title="Category:Universities in Switzerland">Universities in Switzerland</a></li><li><a href="/wiki/Category:Business_schools_in_Switzerland" title="Category:Business schools in Switzerland">Business schools in Switzerland</a></li><li><a href="/wiki/Category:Schools_in_Geneva" title="Category:Schools in Geneva">Schools in Geneva</a></li><li><a href="/wiki/Category:1559_establishments_in_Europe" title="Category:1559 establishments in Europe">1559 establishments in Europe</a></li><li><a href="/wiki/Category:Educational_institutions_established_in_the_1550s" title="Category:Educational institutions established in the 1550s">Educational institutions established in the 1550s</a></li><li><a href="/wiki/Category:16th-century_establishments_in_the_Old_Swiss_Confederacy" title="Category:16th-century establishments in the Old Swiss Confederacy">16th-century establishments in the Old Swiss Confederacy</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">CS1 maint: Archived copy as title</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2013" title="Category:Articles needing additional references from February 2013">Articles needing additional references from February 2013</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_March_2014" title="Category:Use dmy dates from March 2014">Use dmy dates from March 2014</a></li><li><a href="/wiki/Category:Articles_containing_Latin-language_text" title="Category:Articles containing Latin-language text">Articles containing Latin-language text</a></li><li><a href="/wiki/Category:Instances_of_Infobox_university_using_image_size" title="Category:Instances of Infobox university using image size">Instances of Infobox university using image size</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_July_2013" title="Category:Articles to be expanded from July 2013">Articles to be expanded from July 2013</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li><li><a href="/wiki/Category:Articles_with_a_promotional_tone_from_October_2015" title="Category:Articles with a promotional tone from October 2015">Articles with a promotional tone from October 2015</a></li><li><a href="/wiki/Category:All_articles_with_a_promotional_tone" title="Category:All articles with a promotional tone">All articles with a promotional tone</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2016" title="Category:Articles with unsourced statements from May 2016">Articles with unsourced statements from May 2016</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BIBSYS_identifiers" title="Category:Wikipedia articles with BIBSYS identifiers">Wikipedia articles with BIBSYS identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNE_identifiers" title="Category:Wikipedia articles with BNE identifiers">Wikipedia articles with BNE identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LNB_identifiers" title="Category:Wikipedia articles with LNB identifiers">Wikipedia articles with LNB identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLA_identifiers" title="Category:Wikipedia articles with NLA identifiers">Wikipedia articles with NLA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ULAN_identifiers" title="Category:Wikipedia articles with ULAN identifiers">Wikipedia articles with ULAN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=University+of+Geneva" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=University+of+Geneva" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/University_of_Geneva" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:University_of_Geneva" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/University_of_Geneva">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=University_of_Geneva&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=University_of_Geneva&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/University_of_Geneva" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/University_of_Geneva" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=University_of_Geneva&amp;oldid=858094953" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=University_of_Geneva&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q503473" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=University_of_Geneva&amp;id=858094953" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=University+of+Geneva">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=University+of+Geneva&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=University_of_Geneva&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:University_of_Geneva" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Universit%C3%A4t_Genf" title="Universität Genf – Alemannisch" lang="als" hreflang="als" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9_%D8%AC%D9%86%D9%8A%D9%81" title="جامعة جنيف – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Cenevr%C9%99_Universiteti" title="Cenevrə Universiteti – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%DA%98%D9%86%D9%88_%D8%A8%DB%8C%D9%84%DB%8C%D9%85%E2%80%8C%DB%8C%D9%88%D8%B1%D8%AF%D9%88" title="ژنو بیلیم‌یوردو – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A3%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D1%96%D1%82%D1%8D%D1%82_%D0%96%D1%8D%D0%BD%D0%B5%D0%B2%D1%8B" title="Універсітэт Жэневы – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%96%D0%B5%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B8_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Женевски университет – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Universitat_de_Ginebra" title="Universitat de Ginebra – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/University_of_Geneva" title="University of Geneva – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/%C5%BDenevsk%C3%A1_univerzita" title="Ženevská univerzita – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Universit%C3%A9_de_Gen%C3%A8ve" title="Université de Genève – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Universit%C3%A4t_Genf" title="Universität Genf – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Genfi_%C3%9Clikool" title="Genfi Ülikool – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CE%BD%CE%B5%CF%80%CE%B9%CF%83%CF%84%CE%AE%CE%BC%CE%B9%CE%BF_%CF%84%CE%B7%CF%82_%CE%93%CE%B5%CE%BD%CE%B5%CF%8D%CE%B7%CF%82" title="Πανεπιστήμιο της Γενεύης – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Universidad_de_Ginebra" title="Universidad de Ginebra – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Universitato_de_%C4%9Cenevo" title="Universitato de Ĝenevo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%DA%98%D9%86%D9%88" title="دانشگاه ژنو – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Universit%C3%A9_de_Gen%C3%A8ve" title="Université de Genève – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%A0%9C%EB%84%A4%EB%B0%94_%EB%8C%80%ED%95%99%EA%B5%90" title="제네바 대학교 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BA%D5%B6%D6%87%D5%AB_%D5%B0%D5%A1%D5%B4%D5%A1%D5%AC%D5%BD%D5%A1%D6%80%D5%A1%D5%B6" title="Ժնևի համալսարան – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/%C5%BDenevsko_sveu%C4%8Dili%C5%A1te" title="Ženevsko sveučilište – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Universitas_Jenewa" title="Universitas Jenewa – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Universit%C3%A0_di_Ginevra" title="Università di Ginevra – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%96%D0%B5%D0%BD%D0%B5%D0%B2%D0%B0_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D1%96" title="Женева университеті – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%96%D0%B5%D0%BD%D0%B5%D0%B2%D0%B0_%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B8" title="Женева Университети – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Schola_Genevensis" title="Schola Genevensis – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/%C5%BDenevos_universitetas" title="Ženevos universitetas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Universiteit_van_Gen%C3%A8ve" title="Universiteit van Genève – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%8D%E3%83%BC%E3%83%B4%E5%A4%A7%E5%AD%A6" title="ジュネーヴ大学 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Universitetet_i_Gen%C3%A8ve" title="Universitetet i Genève – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Universitat_de_Gen%C3%A8va" title="Universitat de Genèva – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Uniwersytet_Genewski" title="Uniwersytet Genewski – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Universidade_de_Genebra" title="Universidade de Genebra – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Женевский университет – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Universit%C3%A9_de_Gen%C3%A8ve" title="Université de Genève – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Univerza_v_%C5%BDenevi" title="Univerza v Ženevi – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Geneven_yliopisto" title="Geneven yliopisto – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Universit%C3%A9_de_Gen%C3%A8ve" title="Université de Genève – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Unibersidad_ng_Geneva" title="Unibersidad ng Geneva – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%9C%E0%AF%86%E0%AE%A9%E0%AF%80%E0%AE%B5%E0%AE%BE_%E0%AE%AA%E0%AE%B2%E0%AF%8D%E0%AE%95%E0%AE%B2%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B4%E0%AE%95%E0%AE%AE%E0%AF%8D" title="ஜெனீவா பல்கலைக்கழகம் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Cenevre_%C3%9Cniversitesi" title="Cenevre Üniversitesi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%96%D0%B5%D0%BD%D0%B5%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Женевський університет – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D8%AC%DB%95%D9%86%DB%8B%DB%95_%D8%A6%DB%87%D9%86%D9%89%DB%8B%DB%90%D8%B1%D8%B3%D8%AA%DB%90%D8%AA%D9%89" title="جەنۋە ئۇنىۋېرستېتى – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Gen%C3%A8ve" title="Đại học Genève – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%97%A5%E5%86%85%E7%93%A6%E5%A4%A7%E5%AD%A6" title="日内瓦大学 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q503473#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 5 September 2018, at 01:07<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=University_of_Geneva&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.796","walltime":"0.967","ppvisitednodes":{"value":4084,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":163400,"limit":2097152},"templateargumentsize":{"value":17219,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":121365,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  769.089      1 -total"," 38.04%  292.568      1 Template:Reflist"," 25.81%  198.519      1 Template:Infobox_university"," 23.15%  178.046      1 Template:Infobox"," 20.02%  153.939     37 Template:Cite_web"," 15.80%  121.500      1 Template:Lang-la","  9.43%   72.533      6 Template:Cite_journal","  5.01%   38.493      1 Template:More_citations_needed","  4.55%   35.032      5 Template:Navbox","  4.44%   34.129      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.420","limit":"10.000"},"limitreport-memusage":{"value":19513367,"limit":52428800}},"cachereport":{"origin":"mw2182","timestamp":"20180929134350","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw2163"});});</script>
+	</body>
+</html>

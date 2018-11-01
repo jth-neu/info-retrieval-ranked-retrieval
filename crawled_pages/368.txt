@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>W3Catalog - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"W3Catalog","wgTitle":"W3Catalog","wgCurRevisionId":824754204,"wgRevisionId":824754204,"wgArticleId":25667050,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Defunct internet search engines","Internet properties disestablished in 1996"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"W3Catalog","wgRelevantArticleId":25667050,"wgRequestId":"W7ATNgrAADIAAJeEu1sAAABV","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7946197","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/W3Catalog"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=W3Catalog&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=W3Catalog&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/W3Catalog"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-W3Catalog rootpage-W3Catalog skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">W3Catalog</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>W3 Catalog</b> was a very early <a href="/wiki/Web_search_engine" title="Web search engine">web search engine</a>, first released on September 2, 1993<sup id="cite_ref-Announcement_1-0" class="reference"><a href="#cite_note-Announcement-1">&#91;1&#93;</a></sup> by developer <a href="/wiki/Oscar_Nierstrasz" title="Oscar Nierstrasz">Oscar Nierstrasz</a> at the <a href="/wiki/University_of_Geneva" title="University of Geneva">University of Geneva</a>.
+</p><p>Unlike later search engines, like <a href="/wiki/Aliweb" title="Aliweb">Aliweb</a>, which attempt to index the web by crawling over the accessible content of web sites, W3 Catalog exploited the fact that many high-quality, manually maintained lists of web resources were already available. W3 Catalog simply mirrored these pages, reformatted the contents into individual entries, and provided a <a href="/wiki/Perl" title="Perl">Perl</a>-based front-end to enable dynamic querying.<sup id="cite_ref-history_2-0" class="reference"><a href="#cite_note-history-2">&#91;2&#93;</a></sup><sup id="cite_ref-virtual_3-0" class="reference"><a href="#cite_note-virtual-3">&#91;3&#93;</a></sup>
+</p><p>At the time, <a href="/wiki/Common_Gateway_Interface" title="Common Gateway Interface">CGI</a> did not yet exist, so W3 Catalog was implemented as an extension to Tony Sander's Plexus web server, implemented in <a href="/wiki/Perl" title="Perl">Perl</a>.
+</p><p>W3 Catalog was retired on December 8 1996.<sup id="cite_ref-history_2-1" class="reference"><a href="#cite_note-history-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=W3Catalog&amp;action=edit&amp;section=1" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Announcement-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Announcement_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Oscar_Nierstrasz" title="Oscar Nierstrasz">Oscar Nierstrasz</a> (2 September 1993). <a rel="nofollow" class="external text" href="http://groups.google.com/group/comp.infosystems.www/browse_thread/thread/2176526a36dc8bd3/2718fd17812937ac?hl=en&amp;lnk=gst&amp;q=Oscar+Nierstrasz#2718fd17812937ac">"Searchable Catalog of WWW Resources (experimental)"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Searchable+Catalog+of+WWW+Resources+%28experimental%29&amp;rft.date=1993-09-02&amp;rft.au=Oscar+Nierstrasz&amp;rft_id=http%3A%2F%2Fgroups.google.com%2Fgroup%2Fcomp.infosystems.www%2Fbrowse_thread%2Fthread%2F2176526a36dc8bd3%2F2718fd17812937ac%3Fhl%3Den%26lnk%3Dgst%26q%3DOscar%2BNierstrasz%232718fd17812937ac&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AW3Catalog" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-history-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-history_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-history_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://scg.unibe.ch/archive/software/w3catalog/">"W3 Catalog History"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=W3+Catalog+History&amp;rft_id=http%3A%2F%2Fscg.unibe.ch%2Farchive%2Fsoftware%2Fw3catalog%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AW3Catalog" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-virtual-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-virtual_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Thomas R. Gruber, Sunil Vemuri and James Rice (December 1995). <a rel="nofollow" class="external text" href="http://www-ksl.stanford.edu/people/gruber/virtual-documents-htw/">"Virtual documents that explain How Things Work: Dynamically generated question-answering documents"</a>. Knowledge Systems Laboratory, Stanford University.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Virtual+documents+that+explain+How+Things+Work%3A+Dynamically+generated+question-answering+documents&amp;rft.pub=Knowledge+Systems+Laboratory%2C+Stanford+University&amp;rft.date=1995-12&amp;rft.au=Thomas+R.+Gruber%2C+Sunil+Vemuri+and+James+Rice&amp;rft_id=http%3A%2F%2Fwww-ksl.stanford.edu%2Fpeople%2Fgruber%2Fvirtual-documents-htw%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AW3Catalog" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Perl" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Perl" title="Template:Perl"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Perl" title="Template talk:Perl"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Perl&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Perl" style="font-size:114%;margin:0 4em"><a href="/wiki/Perl" title="Perl">Perl</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Larry_Wall" title="Larry Wall">Larry Wall</a></li>
+<li><a href="/wiki/Randal_L._Schwartz" title="Randal L. Schwartz">Randal L. Schwartz</a></li>
+<li><a href="/wiki/Damian_Conway" title="Damian Conway">Damian Conway</a></li>
+<li><a href="/wiki/Allison_Randal" title="Allison Randal">Allison Randal</a></li>
+<li><a href="/wiki/Audrey_Tang" title="Audrey Tang">Audrey Tang</a></li>
+<li><a href="/wiki/Sean_M._Burke" title="Sean M. Burke">Sean M. Burke</a></li>
+<li><a href="/wiki/Chromatic_(programmer)" title="Chromatic (programmer)">chromatic</a></li>
+<li><a href="/wiki/Adam_Kennedy_(programmer)" title="Adam Kennedy (programmer)">Adam Kennedy</a></li>
+<li><a href="/wiki/Brian_d_foy" title="Brian d foy">brian d foy</a></li>
+<li><a href="/wiki/Jesse_Vincent" title="Jesse Vincent">Jesse Vincent</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Things</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/CPAN" title="CPAN">CPAN</a></li>
+<li><a href="/wiki/Perl_Foundation" title="Perl Foundation">Perl Foundation</a>
+<ul><li><a href="/wiki/Perl_Mongers" title="Perl Mongers">Perl Mongers</a></li>
+<li><a href="/wiki/PerlMonks" title="PerlMonks">PerlMonks</a></li>
+<li><a href="/wiki/CPAN" title="CPAN">archives</a></li></ul></li>
+<li><a href="/wiki/Perl_module" title="Perl module">module</a></li>
+<li><a href="/wiki/Perl_virtual_machine" title="Perl virtual machine">Perl VM</a></li>
+<li><a href="/wiki/Parrot_virtual_machine" title="Parrot virtual machine">Parrot</a></li>
+<li><a href="/wiki/Rakudo_Perl_6" title="Rakudo Perl 6">Rakudo</a></li>
+<li><a href="/wiki/Yet_Another_Perl_Conference" title="Yet Another Perl Conference">YAPC</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Frameworks</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/BioPerl" title="BioPerl">Bioperl</a></li>
+<li><a href="/wiki/Catalyst_(software)" title="Catalyst (software)">Catalyst</a></li>
+<li><a href="/wiki/Dancer_(software)" title="Dancer (software)">Dancer</a></li>
+<li><a href="/wiki/Perl_DBI" title="Perl DBI">DBI</a></li>
+<li><a href="/wiki/DBIx::Class" title="DBIx::Class">DBIx::Class</a></li>
+<li><a href="/wiki/Library_for_WWW_in_Perl" title="Library for WWW in Perl">LWP</a></li>
+<li><a href="/wiki/Mason_(Perl)" title="Mason (Perl)">Mason</a></li>
+<li><a href="/wiki/Maypole_framework" class="mw-redirect" title="Maypole framework">Maypole</a></li>
+<li><a href="/wiki/Mojolicious" title="Mojolicious">Mojolicious</a></li>
+<li><a href="/wiki/Moose_(Perl)" title="Moose (Perl)">Moose</a></li>
+<li><a href="/wiki/Plack_(software)" title="Plack (software)">Plack</a></li>
+<li><a href="/wiki/PSGI" title="PSGI">PSGI</a></li>
+<li><a href="/wiki/Template_Toolkit" title="Template Toolkit">Template Toolkit</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Software</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amavis" title="Amavis">Amavis</a></li>
+<li><a href="/wiki/Argus_(monitoring_software)" title="Argus (monitoring software)">Argus</a></li>
+<li><a href="/wiki/Anti-Spam_SMTP_Proxy" title="Anti-Spam SMTP Proxy">@SSP</a></li>
+<li><a href="/wiki/AWStats" title="AWStats">AWStats</a></li>
+<li><a href="/wiki/BackupPC" title="BackupPC">BackupPC</a></li>
+<li><a href="/wiki/Bricolage_(software)" title="Bricolage (software)">Bricolage</a></li>
+<li><a href="/wiki/Bugzilla" title="Bugzilla">Bugzilla</a></li>
+<li><a href="/wiki/Dada_Mail" title="Dada Mail">Dada Mail</a></li>
+<li><a href="/wiki/Ikiwiki" title="Ikiwiki">ikiwiki</a></li>
+<li><a href="/wiki/Make_(software)#Modern_versions" title="Make (software)">Makepp</a></li>
+<li><a href="/wiki/Movable_Type" title="Movable Type">Movable Type</a></li>
+<li><a href="/wiki/Munin_(software)" title="Munin (software)">Munin</a></li>
+<li><a href="/wiki/OTRS" title="OTRS">OTRS</a></li>
+<li><a href="/wiki/SpamAssassin" class="mw-redirect" title="SpamAssassin">SpamAssassin</a></li>
+<li><a href="/wiki/TWiki" title="TWiki">TWiki</a>/<a href="/wiki/Foswiki" title="Foswiki">Foswiki</a></li>
+<li><a href="/wiki/W3Perl" title="W3Perl">W3Perl</a></li>
+<li><a href="/wiki/Webmin" title="Webmin">Webmin</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><b><a href="/wiki/Outline_of_Perl" title="Outline of Perl">Outline</a></b></li>
+<li><b><a href="/wiki/Category:Perl" title="Category:Perl">Category</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2232
+Cached time: 20180929143116
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.120 seconds
+Real time usage: 0.155 seconds
+Preprocessor visited node count: 218/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 14547/2097152 bytes
+Template argument size: 73/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 7999/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.062/10.000 seconds
+Lua memory usage: 1.98 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  121.261      1 -total
+ 87.83%  106.500      1 Template:Reflist
+ 68.72%   83.334      3 Template:Cite_web
+ 12.10%   14.670      1 Template:Perl
+ 10.03%   12.164      1 Template:Navbox
+  2.47%    2.999      1 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:25667050-0!canonical and timestamp 20180929143116 and revision id 824754204
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=W3Catalog&amp;oldid=824754204">https://en.wikipedia.org/w/index.php?title=W3Catalog&amp;oldid=824754204</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Defunct_internet_search_engines" title="Category:Defunct internet search engines">Defunct internet search engines</a></li><li><a href="/wiki/Category:Internet_properties_disestablished_in_1996" title="Category:Internet properties disestablished in 1996">Internet properties disestablished in 1996</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=W3Catalog" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=W3Catalog" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/W3Catalog" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:W3Catalog" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/W3Catalog">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=W3Catalog&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=W3Catalog&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/W3Catalog" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/W3Catalog" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=W3Catalog&amp;oldid=824754204" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=W3Catalog&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7946197" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=W3Catalog&amp;id=824754204" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=W3Catalog">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=W3Catalog&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=W3Catalog&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_W3" title="فهرست W3 – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/W3Catalog" title="W3Catalog – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7946197#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 9 February 2018, at 08:05<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=W3Catalog&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.120","walltime":"0.155","ppvisitednodes":{"value":218,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":14547,"limit":2097152},"templateargumentsize":{"value":73,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7999,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  121.261      1 -total"," 87.83%  106.500      1 Template:Reflist"," 68.72%   83.334      3 Template:Cite_web"," 12.10%   14.670      1 Template:Perl"," 10.03%   12.164      1 Template:Navbox","  2.47%    2.999      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.062","limit":"10.000"},"limitreport-memusage":{"value":2080658,"limit":52428800}},"cachereport":{"origin":"mw2232","timestamp":"20180929143116","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":65,"wgHostname":"mw2225"});});</script>
+	</body>
+</html>

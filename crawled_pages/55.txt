@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Overture - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Overture","wgTitle":"Overture","wgCurRevisionId":855218212,"wgRevisionId":855218212,"wgArticleId":44133,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing page number citations from June 2013","Wikipedia articles needing page number citations from November 2016","All articles with unsourced statements","Articles with unsourced statements from June 2013","All Wikipedia articles needing clarification","Wikipedia articles needing clarification from February 2013","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from February 2013","Overtures"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Overture","wgRelevantArticleId":44133,"wgRequestId":"W6szZArAIFAAAEBddBgAAAAT","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q202287","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.cite.a11y","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.22"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Overture"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Overture&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Overture&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Overture"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Overture rootpage-Overture skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Overture</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Overture_(disambiguation)" class="mw-disambig" title="Overture (disambiguation)">Overture (disambiguation)</a>.</div>
+<p><b>Overture</b> (from <a href="/wiki/French_language" title="French language">French</a> <i>ouverture</i>, <abbr title="literally">lit.</abbr> "opening") in <a href="/wiki/Music" title="Music">music</a> is the term originally applied to the <a href="/wiki/Instrumental" title="Instrumental">instrumental</a> introduction to an <a href="/wiki/Opera" title="Opera">opera</a>.<sup id="cite_ref-Blom_1954_1-0" class="reference"><a href="#cite_note-Blom_1954-1">&#91;1&#93;</a></sup> During the early <a href="/wiki/Romantic_era" class="mw-redirect" title="Romantic era">Romantic era</a>, composers such as <a href="/wiki/Ludwig_van_Beethoven" title="Ludwig van Beethoven">Beethoven</a> and <a href="/wiki/Felix_Mendelssohn" title="Felix Mendelssohn">Mendelssohn</a> began to use the term to refer to independent, self-existing instrumental, programmatic works that presaged genres such as the <a href="/wiki/Symphonic_poem" title="Symphonic poem">symphonic poem</a>. These were "at first undoubtedly intended to be played at the head of a programme".<sup id="cite_ref-Blom_1954_1-1" class="reference"><a href="#cite_note-Blom_1954-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#17th_century"><span class="tocnumber">1.1</span> <span class="toctext">17th century</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#French_overture"><span class="tocnumber">1.1.1</span> <span class="toctext">French overture</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Italian_overture"><span class="tocnumber">1.1.2</span> <span class="toctext">Italian overture</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-5"><a href="#18th_century"><span class="tocnumber">1.2</span> <span class="toctext">18th century</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#19th-century_opera"><span class="tocnumber">1.3</span> <span class="toctext">19th-century opera</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Concert_overture"><span class="tocnumber">2</span> <span class="toctext">Concert overture</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Early_19th_century"><span class="tocnumber">2.1</span> <span class="toctext">Early 19th century</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Later_19th_century"><span class="tocnumber">2.2</span> <span class="toctext">Later 19th century</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#20th_century"><span class="tocnumber">2.3</span> <span class="toctext">20th century</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Film"><span class="tocnumber">3</span> <span class="toctext">Film</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#List_of_standard_repertoire"><span class="tocnumber">4</span> <span class="toctext">List of standard repertoire</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Notes"><span class="tocnumber">5</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overture&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="17th_century">17th century</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overture&amp;action=edit&amp;section=2" title="Edit section: 17th century">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The idea of an instrumental opening to <a href="/wiki/Opera" title="Opera">opera</a> existed during the 17th century. <a href="/wiki/Jacopo_Peri" title="Jacopo Peri">Peri</a>'s <i><a href="/wiki/Euridice_(opera)" class="mw-redirect" title="Euridice (opera)">Euridice</a></i> opens with a brief instrumental <a href="/wiki/Ritornello" title="Ritornello">ritornello</a>, and <a href="/wiki/Claudio_Monteverdi" title="Claudio Monteverdi">Monteverdi</a>'s <i><a href="/wiki/L%27Orfeo" title="L&#39;Orfeo">L'Orfeo</a></i> (1607) opens with a <a href="/wiki/Toccata" title="Toccata">toccata</a>, in this case a <a href="/wiki/Fanfare" title="Fanfare">fanfare</a> for muted <a href="/wiki/Trumpet" title="Trumpet">trumpets</a>. More important, however, was the prologue, which comprised sung dialogue between <a href="/wiki/Allegory" title="Allegory">allegorical</a> characters which introduced the overarching themes of the stories depicted.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2013)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h4><span class="mw-headline" id="French_overture">French overture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overture&amp;action=edit&amp;section=3" title="Edit section: French overture">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>As a <a href="/wiki/Musical_form" title="Musical form">musical form</a>, however, the <a href="/wiki/French_overture" title="French overture">French overture</a> first appears in the court ballet and operatic overtures of <a href="/wiki/Jean-Baptiste_Lully" title="Jean-Baptiste Lully">Jean-Baptiste Lully</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> which he elaborated from a similar, two-section form called <i>Ouverture</i>, found in the French <a href="/wiki/Ballets_de_cour" title="Ballets de cour">ballets de cour</a> as early as 1640.<sup id="cite_ref-Temperley_2001_3-0" class="reference"><a href="#cite_note-Temperley_2001-3">&#91;3&#93;</a></sup> This French overture consists of a slow introduction in a marked "dotted rhythm" (i.e., exaggerated <a href="/wiki/Iamb_(foot)" class="mw-redirect" title="Iamb (foot)">iambic</a>, if the first chord is disregarded), followed by a lively movement in <a href="/wiki/Fugato" class="mw-redirect" title="Fugato">fugato</a> style. The overture was frequently followed by a series of dance tunes before the curtain rose, and would often<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Vagueness" title="Wikipedia:Vagueness"><span title="This information is too vague. (February 2013)">vague</span></a></i>&#93;</sup> return following the Prologue to introduce the action proper. This ouverture style was also used in English opera, most notably in <a href="/wiki/Henry_Purcell" title="Henry Purcell">Henry Purcell</a>'s <i><a href="/wiki/Dido_and_%C3%86neas" class="mw-redirect" title="Dido and Æneas">Dido and Æneas</a></i>. Its distinctive rhythmic profile and function thus led to the French overture style as found in the works of late Baroque composers such as <a href="/wiki/Johann_Sebastian_Bach" title="Johann Sebastian Bach">Johann Sebastian Bach</a>, <a href="/wiki/Georg_Friedrich_H%C3%A4ndel" class="mw-redirect" title="Georg Friedrich Händel">Georg Friedrich Händel</a>, and <a href="/wiki/Georg_Philipp_Telemann" title="Georg Philipp Telemann">Georg Philipp Telemann</a>. The style is most often used in <a href="/wiki/Prelude_(music)" title="Prelude (music)">preludes</a> to <a href="/wiki/Suite_(music)" title="Suite (music)">suites</a>, and can be found in non-staged vocal works such as <a href="/wiki/Cantata" title="Cantata">cantatas</a>, for example in the opening chorus of Bach's <a href="/wiki/Bach_cantata" title="Bach cantata">cantata</a> <i><a href="/wiki/Nun_komm,_der_Heiden_Heiland,_BWV_61" title="Nun komm, der Heiden Heiland, BWV 61">Nun komm, der Heiden Heiland, BWV 61</a></i>. <a href="/wiki/George_Frideric_Handel" title="George Frideric Handel">Handel</a> also uses the French overture form in some of his Italian operas such as <i><a href="/wiki/Giulio_Cesare" title="Giulio Cesare">Giulio Cesare</a></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Italian_overture">Italian overture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overture&amp;action=edit&amp;section=4" title="Edit section: Italian overture">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Italian_overture" title="Italian overture">Italian overture</a></div>
+<p>In Italy, a distinct form called "overture" arose in the 1680s, and became established particularly through the operas of <a href="/wiki/Alessandro_Scarlatti" title="Alessandro Scarlatti">Alessandro Scarlatti</a>, and spread throughout Europe, supplanting the French form as the standard operatic overture by the mid-18th century.<sup id="cite_ref-Fisher_2001_5-0" class="reference"><a href="#cite_note-Fisher_2001-5">&#91;5&#93;</a></sup> Its stereotypical form is in three generally <a href="/wiki/Homophony" title="Homophony">homophonic</a> <a href="/wiki/Movement_(music)" title="Movement (music)">movements</a>: fast–slow–fast. The opening movement was normally in duple metre and in a major key; the slow movement in earlier examples was usually quite<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Avoid_weasel_words" class="mw-redirect" title="Wikipedia:Avoid weasel words"><span title="Who says this? (February 2013)">weasel&#160;words</span></a></i>&#93;</sup> short, and could be in a contrasting key; the concluding movement was dance-like, most often with rhythms of the <a href="/wiki/Gigue" title="Gigue">gigue</a> or <a href="/wiki/Minuet" title="Minuet">minuet</a>, and returned to the key of the opening section. As the form evolved, the first movement often<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Vagueness" title="Wikipedia:Vagueness"><span title="This information is too vague. (February 2013)">vague</span></a></i>&#93;</sup> incorporated fanfare-like elements and took on the pattern of so-called "sonatina form" (<a href="/wiki/Sonata_form" title="Sonata form">sonata form</a> without a development section), and the slow section became more extended and lyrical.<sup id="cite_ref-Fisher_2001_5-1" class="reference"><a href="#cite_note-Fisher_2001-5">&#91;5&#93;</a></sup> Italian overtures were often detached from their operas and played as independent concert pieces.<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag may use weasel words or too-vague attribution. (February 2013)">by whom?</span></a></i>&#93;</sup> In this context, they became important in the early history of the <a href="/wiki/Symphony" title="Symphony">symphony</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="18th_century">18th century</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overture&amp;action=edit&amp;section=5" title="Edit section: 18th century">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Prior to the 18th century, the symphony and the overture were almost interchangeable, with overtures being extracted from operas to serve as stand alone instrumental works, and symphonies were tagged to the front of operas as overtures.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> With the reform of <i>opera seria,</i> the overture began to distinguish itself from the symphony, and composers began to link the content of overtures to their operas dramatically and emotionally.  Elements from the opera are foreshadowed in the overture, following the reform ideology that the music and every other element on stages serves to enhance the plot.  One such overture was that of <i><a href="/wiki/La_Magnifique" class="mw-redirect" title="La Magnifique">La Magnifique</a></i> by André-Ernest-Modeste Grétry, in which several of the arias are quoted.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="19th-century_opera">19th-century opera</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overture&amp;action=edit&amp;section=6" title="Edit section: 19th-century opera">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 19th-century opera the overture, <i>Vorspiel</i>, <i>Einleitung,</i> Introduction, or whatever else it may be called, is generally nothing more definite than that portion of the music which takes place before the curtain rises. <a href="/wiki/Richard_Wagner" title="Richard Wagner">Richard Wagner</a>'s <i>Vorspiel</i> to <i><a href="/wiki/Lohengrin_(opera)" title="Lohengrin (opera)">Lohengrin</a></i> is a short self-contained movement founded on the music of the Grail.
+</p><p>In Italian opera after about 1800, the "overture" became known as the <i>sinfonia</i>.<sup id="cite_ref-FISH_9-0" class="reference"><a href="#cite_note-FISH-9">&#91;9&#93;</a></sup>  Fisher also notes the term <i>Sinfonia avanti l'opera</i> (literally, the "symphony before the opera") was "an early term for a sinfonia used to begin an opera, that is, as an overture as opposed to one serving to begin a later section of the work".<sup id="cite_ref-FISH_9-1" class="reference"><a href="#cite_note-FISH-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Concert_overture">Concert overture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overture&amp;action=edit&amp;section=7" title="Edit section: Concert overture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_19th_century">Early 19th century</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overture&amp;action=edit&amp;section=8" title="Edit section: Early 19th century">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Although by the end of the eighteenth century opera overtures were already beginning to be performed as separate items in the concert hall,  the "concert overture", intended specifically as an individual concert piece without reference to stage performance and generally based  on some literary theme, began to appear early in the <a href="/wiki/Romantic_era" class="mw-redirect" title="Romantic era">Romantic era</a>. <a href="/wiki/Carl_Maria_von_Weber" title="Carl Maria von Weber">Carl Maria von Weber</a> wrote two concert overtures, <i>Der Beherrscher der Geister</i> ('The Ruler of the Spirits', 1811, a revision of the overture to his unfinished opera <i><a href="/wiki/R%C3%BCbezahl" title="Rübezahl">Rübezahl</a></i> of 1805), and <i>Jubel-Ouvertüre</i> ('Jubilee Overture', 1818, incorporating <i><a href="/wiki/God_Save_the_King" class="mw-redirect" title="God Save the King">God Save the King</a></i> at its climax). However, the overture <i><a href="/wiki/A_Midsummer_Night%27s_Dream_(Mendelssohn)" title="A Midsummer Night&#39;s Dream (Mendelssohn)">A Midsummer Night's Dream</a></i> (1826) by <a href="/wiki/Felix_Mendelssohn" title="Felix Mendelssohn">Felix Mendelssohn</a> is generally regarded as the first concert overture (Temperley 2001). Mendelssohn's other contributions to this genre include his <i><a href="/wiki/Calm_Sea_and_Prosperous_Voyage_(Mendelssohn)" title="Calm Sea and Prosperous Voyage (Mendelssohn)">Calm Sea and Prosperous Voyage</a></i> overture (1828), his overture <i><a href="/wiki/The_Hebrides_(overture)" title="The Hebrides (overture)">The Hebrides</a></i> (1830; also known as <i>Fingal's Cave</i>) and the overtures <i>Die schöne Melusine</i> (<i>The Fair Melusine</i>, 1834) and <i>Ruy Blas</i> (1839).  Other notable early concert overtures were written by <a href="/wiki/Hector_Berlioz" title="Hector Berlioz">Hector Berlioz</a> (e.g., <i><a href="/wiki/Les_francs-juges" title="Les francs-juges">Les Francs juges</a></i> (1826), and <i><a href="/wiki/Overtures_by_Hector_Berlioz#Le_corsaire" title="Overtures by Hector Berlioz">Le corsaire</a></i> (1828)).
+</p>
+<h3><span class="mw-headline" id="Later_19th_century">Later 19th century</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overture&amp;action=edit&amp;section=9" title="Edit section: Later 19th century">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the 1850s the concert overture began to be supplanted by the <a href="/wiki/Symphonic_poem" title="Symphonic poem">symphonic poem</a>, a form devised by <a href="/wiki/Franz_Liszt" title="Franz Liszt">Franz Liszt</a> in several works that began as dramatic overtures. The distinction between the two genres was the freedom to mould the musical form according to external <a href="/wiki/Program_music" title="Program music">programmatic</a> requirements (Temperley 2001). The symphonic poem became the preferred form for the more "progressive" composers, such as <a href="/wiki/C%C3%A9sar_Franck" title="César Franck">César Franck</a>, <a href="/wiki/Richard_Strauss" title="Richard Strauss">Richard Strauss</a>, <a href="/wiki/Alexander_Scriabin" title="Alexander Scriabin">Alexander Scriabin</a>, and <a href="/wiki/Arnold_Schoenberg" title="Arnold Schoenberg">Arnold Schoenberg</a>, while more conservative composers like <a href="/wiki/Anton_Rubinstein" title="Anton Rubinstein">Anton Rubinstein</a>, <a href="/wiki/Pyotr_Ilyich_Tchaikovsky" title="Pyotr Ilyich Tchaikovsky">Tchaikovsky</a>, <a href="/wiki/Johannes_Brahms" title="Johannes Brahms">Johannes Brahms</a>, <a href="/wiki/Robert_Schumann" title="Robert Schumann">Robert Schumann</a> and <a href="/wiki/Arthur_Sullivan" title="Arthur Sullivan">Arthur Sullivan</a> remained faithful to the overture.<sup id="cite_ref-Temperley_2001_3-1" class="reference"><a href="#cite_note-Temperley_2001-3">&#91;3&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><div class="mediaContainer" style="width:220px"><audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="999.144" data-startoffset="0" data-mwtitle="Pyotr_Ilyich_Tchaikovsky_-_1812_overture.ogg" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/0/04/Pyotr_Ilyich_Tchaikovsky_-_1812_overture.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (138 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="137751" /><source src="//upload.wikimedia.org/wikipedia/commons/transcoded/0/04/Pyotr_Ilyich_Tchaikovsky_-_1812_overture.ogg/Pyotr_Ilyich_Tchaikovsky_-_1812_overture.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="186744" /></audio></div>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Pyotr_Ilyich_Tchaikovsky_-_1812_overture.ogg" class="internal" title="Enlarge"></a></div>Tchaikovsky's <i>1812 Overture</i></div></div></div>
+<p>In the age when the symphonic poem had already become popular, Brahms wrote his <i><a href="/wiki/Academic_Festival_Overture" title="Academic Festival Overture">Academic Festival Overture</a></i>, Op. 80, as well as his <i><a href="/wiki/Tragic_Overture" class="mw-redirect" title="Tragic Overture">Tragic Overture</a></i>, Op. 81. An example clearly influenced by the symphonic poem is  Tchaikovsky's <i><a href="/wiki/1812_Overture" title="1812 Overture">1812 Overture</a></i>. His equally well-known <i><a href="/wiki/Romeo_and_Juliet_(Tchaikovsky)" title="Romeo and Juliet (Tchaikovsky)">Romeo and Juliet</a></i> is also labelled a 'fantasy-overture'.
+</p>
+<h3><span class="mw-headline" id="20th_century">20th century</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overture&amp;action=edit&amp;section=10" title="Edit section: 20th century">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In European music after 1900, an example of an overture displaying a connection with the traditional form is <a href="/wiki/Dmitri_Shostakovich" title="Dmitri Shostakovich">Dmitri Shostakovich</a>'s <i><a href="/wiki/Festive_Overture_(Shostakovich)" title="Festive Overture (Shostakovich)">Festive Overture</a></i>, Op. 96 (1954), which is in two linked sections, "Allegretto" and "Presto" (Temperely 2001).  <a href="/wiki/Malcolm_Arnold" title="Malcolm Arnold">Malcolm Arnold</a>'s <i>A Grand, Grand Overture</i>, Op. 57 (1956), is a 20th-century parody of the late 19th century concert overture, scored for an enormous orchestra with organ, additional <a href="/wiki/Brass_instrument" title="Brass instrument">brass instruments</a>, and <a href="/wiki/Obbligato" title="Obbligato">obbligato</a> parts for four <a href="/wiki/Rifle" title="Rifle">rifles</a>, three <a href="/wiki/The_Hoover_Company" title="The Hoover Company">Hoover</a> <a href="/wiki/Vacuum_cleaner" title="Vacuum cleaner">vacuum cleaners</a> (two uprights in B<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode;"><span class="music-flat">&#x266d;</span></span>, one horizontal with detachable sucker in C), and an electric <a href="/wiki/Floor_polisher" class="mw-redirect" title="Floor polisher">floor polisher</a> in E<span class="music-symbol" style="font-family: Arial Unicode MS, Lucida Sans Unicode;"><span class="music-flat">&#x266d;</span></span>; it is dedicated "to <a href="/wiki/Herbert_Hoover" title="Herbert Hoover">President Hoover</a>".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Film">Film</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overture&amp;action=edit&amp;section=11" title="Edit section: Film">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/Motion_pictures" class="mw-redirect" title="Motion pictures">motion pictures</a>, an overture is a piece of music setting the mood for the film before the <a href="/wiki/Opening_credits" title="Opening credits">opening credits</a> start. For a comprehensive list, see the <a href="/wiki/List_of_films_with_overtures" title="List of films with overtures">list of films with overtures</a>.
+</p>
+<h2><span class="mw-headline" id="List_of_standard_repertoire">List of standard repertoire</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overture&amp;action=edit&amp;section=12" title="Edit section: List of standard repertoire">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some well-known or commonly played overtures:
+</p>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; -moz-column-rule: 1px solid #AAA; -webkit-column-rule: 1px solid #AAA; column-rule: 1px solid #AAA;">
+<ul><li><a href="/wiki/Anton_Arensky" title="Anton Arensky">Anton Arensky</a>: <i>A Dream on the Volga</i></li>
+<li><a href="/wiki/Malcolm_Arnold" title="Malcolm Arnold">Malcolm Arnold</a>:
+<ul><li><i>Beckus the Dandipratt</i></li>
+<li><i>Peterloo</i></li>
+<li><i><a href="/wiki/Tam_O%27Shanter_Overture" title="Tam O&#39;Shanter Overture">Tam O'Shanter</a></i></li></ul></li>
+<li><a href="/wiki/Daniel_Auber" title="Daniel Auber">Daniel Auber</a>: <i><a href="/wiki/Fra_Diavolo_(opera)" title="Fra Diavolo (opera)">Fra Diavolo</a></i></li>
+<li><a href="/wiki/Samuel_Barber" title="Samuel Barber">Samuel Barber</a>: Overture to <i><a href="/wiki/The_School_for_Scandal_(Barber)" title="The School for Scandal (Barber)">The School for Scandal</a></i></li>
+<li><a href="/wiki/Arnold_Bax" title="Arnold Bax">Arnold Bax</a>: <i><a href="/wiki/Overture_to_a_Picaresque_Comedy" title="Overture to a Picaresque Comedy">Overture to a Picaresque Comedy</a></i></li>
+<li><a href="/wiki/Ludwig_van_Beethoven" title="Ludwig van Beethoven">Ludwig van Beethoven</a>:
+<ul><li><i>Leonora</i> Nr 1</li>
+<li><i>Leonora</i> Nr 2</li>
+<li><i>Leonora</i> Nr 3</li>
+<li><i><a href="/wiki/Fidelio" title="Fidelio">Fidelio</a></i></li>
+<li><i><a href="/wiki/Coriolan_Overture" title="Coriolan Overture">Coriolan Overture</a></i></li>
+<li><i><a href="/wiki/Egmont_(Beethoven)" title="Egmont (Beethoven)">Egmont</a></i></li>
+<li><i><a href="/wiki/The_Ruins_of_Athens" title="The Ruins of Athens">The Ruins of Athens</a></i></li></ul></li>
+<li><a href="/wiki/Hector_Berlioz" title="Hector Berlioz">Hector Berlioz</a>:
+<ul><li><i><a href="/wiki/Overtures_by_Hector_Berlioz#Benvenuto_Cellini" title="Overtures by Hector Berlioz">Benvenuto Cellini</a></i></li>
+<li><i><a href="/wiki/Le_carnaval_romain" class="mw-redirect" title="Le carnaval romain">Le carnaval romain</a></i></li>
+<li><i><a href="/wiki/Overtures_by_Hector_Berlioz#Le_corsair" title="Overtures by Hector Berlioz">Le corsair</a></i></li>
+<li><i>Les Francs-Juges</i></li>
+<li><i>King Lear</i></li>
+<li><i>Waverley</i></li></ul></li>
+<li><a href="/wiki/Leonard_Bernstein" title="Leonard Bernstein">Leonard Bernstein</a>: <i><a href="/wiki/Candide_(Bernstein)" class="mw-redirect" title="Candide (Bernstein)">Candide</a></i></li>
+<li><a href="/wiki/Georges_Bizet" title="Georges Bizet">Georges Bizet</a>: <i><a href="/wiki/Carmen" title="Carmen">Carmen</a></i></li>
+<li><a href="/wiki/Alexander_Borodin" title="Alexander Borodin">Alexander Borodin</a>: <i><a href="/wiki/Prince_Igor" title="Prince Igor">Prince Igor</a></i></li>
+<li><a href="/wiki/Johannes_Brahms" title="Johannes Brahms">Johannes Brahms</a>:
+<ul><li><i><a href="/wiki/Academic_Festival_Overture" title="Academic Festival Overture">Academic Festival Overture</a></i></li>
+<li><i><a href="/wiki/Tragic_Overture_(Brahms)" title="Tragic Overture (Brahms)">Tragic Overture</a></i></li></ul></li>
+<li><a href="/wiki/Anton_Bruckner" title="Anton Bruckner">Anton Bruckner</a>: <a href="/wiki/Overture_(Bruckner)" title="Overture (Bruckner)">Overture in G minor</a> (WAB 98)</li>
+<li><a href="/wiki/Aaron_Copland" title="Aaron Copland">Aaron Copland</a>: <i>An Outdoor Overture</i></li>
+<li><a href="/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k" title="Antonín Dvořák">Antonín Dvořák</a>: <a href="/wiki/Carnival_Overture" title="Carnival Overture">Carnival Overture</a></li>
+<li><a href="/wiki/Edward_Elgar" title="Edward Elgar">Edward Elgar</a>:
+<ul><li><i><a href="/wiki/In_the_South_(Alassio)" title="In the South (Alassio)">In the South (Alassio)</a></i></li>
+<li><i>Cockaigne</i></li>
+<li><i>Froissart</i></li></ul></li>
+<li><a href="/wiki/George_Gershwin" title="George Gershwin">George Gershwin</a>:
+<ul><li><i><a href="/wiki/Cuban_Overture" title="Cuban Overture">Cuban Overture</a></i></li>
+<li>Overture to <i><a href="/wiki/Strike_Up_the_Band_(musical)" title="Strike Up the Band (musical)">Strike Up the Band</a></i></li></ul></li>
+<li><a href="/wiki/Mikhail_Glinka" title="Mikhail Glinka">Mikhail Glinka</a>: <i><a href="/wiki/Ruslan_and_Lyudmila_(opera)" title="Ruslan and Lyudmila (opera)">Ruslan and Lyudmila</a></i></li>
+<li><a href="/wiki/Ant%C3%B4nio_Carlos_Gomes" title="Antônio Carlos Gomes">Antônio Carlos Gomes</a>: <i>Il Guarany</i></li>
+<li><a href="/wiki/Edvard_Grieg" title="Edvard Grieg">Edvard Grieg</a>: <i><a href="/wiki/In_Autumn" title="In Autumn">In Autumn</a></i></li>
+<li><a href="/wiki/George_Frideric_Handel" title="George Frideric Handel">George Frideric Handel</a>
+<ul><li>Overture to the <a href="/wiki/Music_for_the_Royal_Fireworks" title="Music for the Royal Fireworks">Music for the Royal Fireworks</a></li></ul></li>
+<li><a href="/wiki/Joseph_Haydn" title="Joseph Haydn">Joseph Haydn</a>: <i><a href="/wiki/Armida_(Haydn)" title="Armida (Haydn)">Armida</a></i></li>
+<li><a href="/wiki/Ferdinand_H%C3%A9rold" title="Ferdinand Hérold">Ferdinand Hérold</a>: <i>Zampa</i></li>
+<li><a href="/wiki/John_Ireland_(composer)" title="John Ireland (composer)">John Ireland</a>:
+<ul><li><i>A London Overture</i></li>
+<li><i>Satyricon</i> Overture</li></ul></li>
+<li><a href="/wiki/%C3%89douard_Lalo" title="Édouard Lalo">Édouard Lalo</a>: <i>Le roi d'Ys</i></li>
+<li><a href="/wiki/Franz_Leh%C3%A1r" title="Franz Lehár">Franz Lehár</a>: <i><a href="/wiki/The_Merry_Widow" title="The Merry Widow">The Merry Widow</a></i></li>
+<li><a href="/wiki/Hamish_MacCunn" title="Hamish MacCunn">Hamish MacCunn</a>: <i>The Land of the Mountain and the Flood</i></li>
+<li><a href="/wiki/Felix_Mendelssohn" title="Felix Mendelssohn">Felix Mendelssohn</a>:
+<ul><li><i><a href="/wiki/The_Hebrides_(overture)" title="The Hebrides (overture)">The Hebrides</a></i> (or <i>Fingal's Cave</i>)</li>
+<li><i><a href="/wiki/Calm_Sea_and_Prosperous_Voyage_(Mendelssohn)" title="Calm Sea and Prosperous Voyage (Mendelssohn)">Calm Sea and Prosperous Voyage</a></i></li>
+<li><i><a href="/wiki/A_Midsummer_Night%27s_Dream_(Mendelssohn)" title="A Midsummer Night&#39;s Dream (Mendelssohn)">A Midsummer Night's Dream</a></i></li>
+<li><i>Ruy Blas</i></li></ul></li>
+<li><a href="/wiki/Nikolai_Myaskovsky" title="Nikolai Myaskovsky">Nikolai Myaskovsky</a>:
+<ul><li><i>Pathetic Overture</i></li>
+<li><i>Salutation Overture</i></li></ul></li>
+<li><a href="/wiki/Wolfgang_Amadeus_Mozart" title="Wolfgang Amadeus Mozart">Wolfgang Amadeus Mozart</a>:
+<ul><li><i><a href="/wiki/The_Marriage_of_Figaro" title="The Marriage of Figaro">The Marriage of Figaro</a></i></li>
+<li><i><a href="/wiki/La_clemenza_di_Tito" title="La clemenza di Tito">La clemenza di Tito</a></i></li>
+<li><i><a href="/wiki/Cos%C3%AC_fan_tutte" title="Così fan tutte">Così fan tutte</a></i></li>
+<li><i><a href="/wiki/Don_Giovanni" title="Don Giovanni">Don Giovanni</a></i></li>
+<li><i><a href="/wiki/Idomeneo" title="Idomeneo">Idomeneo</a></i></li>
+<li><i><a href="/wiki/Die_Entf%C3%BChrung_aus_dem_Serail" title="Die Entführung aus dem Serail">Die Entführung aus dem Serail</a></i></li>
+<li><i><a href="/wiki/The_Magic_Flute" title="The Magic Flute">The Magic Flute</a></i></li></ul></li>
+<li><a href="/wiki/Otto_Nicolai" title="Otto Nicolai">Otto Nicolai</a>: <i><a href="/wiki/The_Merry_Wives_of_Windsor" title="The Merry Wives of Windsor">The Merry Wives of Windsor</a></i></li>
+<li><a href="/wiki/Carl_Nielsen" title="Carl Nielsen">Carl Nielsen</a>:
+<ul><li><i><a href="/wiki/Maskarade" title="Maskarade">Maskarade</a></i></li>
+<li><i><a href="/wiki/Helios_Overture" title="Helios Overture">Helios Overture</a></i></li></ul></li>
+<li><a href="/wiki/Jacques_Offenbach" title="Jacques Offenbach">Jacques Offenbach</a>:
+<ul><li><i><a href="/wiki/Orpheus_in_the_Underworld" title="Orpheus in the Underworld">Orpheus in the Underworld</a></i></li></ul></li>
+<li><a href="/wiki/Sergei_Prokofiev" title="Sergei Prokofiev">Sergei Prokofiev</a>: <a href="/wiki/Overture_on_Hebrew_Themes" title="Overture on Hebrew Themes">Overture on Hebrew Themes</a></li>
+<li><a href="/wiki/Emil_von_Rezni%C4%8Dek" class="mw-redirect" title="Emil von Rezniček">Emil von Rezniček</a>: <i>Donna Diana</i></li>
+<li><a href="/wiki/Nikolai_Rimsky-Korsakov" title="Nikolai Rimsky-Korsakov">Nikolai Rimsky-Korsakov</a>: <i><a href="/wiki/Russian_Easter_Festival_Overture" title="Russian Easter Festival Overture">Russian Easter Festival Overture</a></i></li>
+<li><a href="/wiki/Gioachino_Rossini" title="Gioachino Rossini">Gioachino Rossini</a>:
+<ul><li><i><a href="/wiki/La_cambiale_di_matrimonio" title="La cambiale di matrimonio">La cambiale di matrimonio</a></i></li>
+<li><i><a href="/wiki/Tancredi" title="Tancredi">Tancredi</a></i></li>
+<li><i><a href="/wiki/Il_signor_Bruschino" title="Il signor Bruschino">Il signor Bruschino</a></i></li>
+<li><i><a href="/wiki/Il_turco_in_Italia" title="Il turco in Italia">Il turco in Italia</a></i></li>
+<li><i><a href="/wiki/La_Cenerentola" title="La Cenerentola">La Cenerentola</a></i></li>
+<li><i><a href="/wiki/Semiramide" title="Semiramide">Semiramide</a></i></li>
+<li><i><a href="/wiki/Il_viaggio_a_Reims" title="Il viaggio a Reims">Il viaggio a Reims</a></i></li>
+<li><i><a href="/wiki/The_Barber_of_Seville" title="The Barber of Seville">The Barber of Seville</a></i></li>
+<li><i><a href="/wiki/La_gazza_ladra" title="La gazza ladra">La gazza ladra</a></i></li>
+<li><i><a href="/wiki/L%27italiana_in_Algeri" title="L&#39;italiana in Algeri">L'italiana in Algeri</a></i></li>
+<li><i><a href="/wiki/La_scala_di_seta" title="La scala di seta">La scala di seta</a></i></li>
+<li><i><a href="/wiki/William_Tell_(opera)" title="William Tell (opera)">William Tell</a></i></li></ul></li>
+<li><a href="/wiki/Franz_Schubert" title="Franz Schubert">Franz Schubert</a>:
+<ul><li><i>Overture in Italian Style</i>, D590</li>
+<li><i><a href="/wiki/Rosamunde" title="Rosamunde">Rosamunde</a></i></li></ul></li>
+<li><a href="/wiki/Robert_Schumann" title="Robert Schumann">Robert Schumann</a>:
+<ul><li><a href="/wiki/Overture,_Scherzo_and_Finale" title="Overture, Scherzo and Finale">Overture, Scherzo and Finale</a>, Op 52</li>
+<li><i><a href="/wiki/Manfred_(Schumann)" title="Manfred (Schumann)">Manfred</a></i></li>
+<li><i><a href="/wiki/Genoveva" title="Genoveva">Genoveva</a></i></li>
+<li><i>Faust</i></li>
+<li><i><a href="/wiki/Julius_Caesar_(overture)" title="Julius Caesar (overture)">Julius Caesar</a></i></li>
+<li><i>Hermann und Dorothea</i></li>
+<li><i>The Bride of Messina</i></li></ul></li>
+<li><a href="/wiki/Dmitri_Shostakovich" title="Dmitri Shostakovich">Dmitri Shostakovich</a>: <i><a href="/wiki/Festive_Overture_(Shostakovich)" title="Festive Overture (Shostakovich)">Festive Overture</a></i></li>
+<li><a href="/wiki/Bed%C5%99ich_Smetana" title="Bedřich Smetana">Bedřich Smetana</a>: <i><a href="/wiki/The_Bartered_Bride" title="The Bartered Bride">The Bartered Bride</a></i></li>
+<li><a href="/wiki/Johann_Strauss_II" title="Johann Strauss II">Johann Strauss</a>: <i><a href="/wiki/Die_Fledermaus" title="Die Fledermaus">Die Fledermaus</a></i></li>
+<li><a href="/wiki/Jean_Sibelius" title="Jean Sibelius">Jean Sibelius</a>: Overture to <i><a href="/wiki/The_Tempest_(Sibelius)" title="The Tempest (Sibelius)">The Tempest</a></i></li>
+<li><a href="/wiki/Arthur_Sullivan" title="Arthur Sullivan">Arthur Sullivan</a>:
+<ul><li><i><a href="/wiki/The_Mikado" title="The Mikado">The Mikado</a></i></li>
+<li><i><a href="/wiki/The_Gondoliers" title="The Gondoliers">The Gondoliers</a></i></li>
+<li><i><a href="/wiki/The_Yeomen_of_the_Guard" title="The Yeomen of the Guard">The Yeomen of the Guard</a></i></li></ul></li>
+<li><a href="/wiki/Franz_von_Supp%C3%A9" title="Franz von Suppé">Franz von Suppé</a>
+<ul><li><i><a href="/wiki/Light_Cavalry_Overture" title="Light Cavalry Overture">Light Cavalry Overture</a></i></li>
+<li><i>The Beautiful Galatea</i></li>
+<li><i>Poet and Peasant</i></li></ul></li>
+<li><a href="/wiki/Pyotr_Ilyich_Tchaikovsky" title="Pyotr Ilyich Tchaikovsky">Pyotr Ilyich Tchaikovsky</a>:
+<ul><li><i><a href="/wiki/1812_Overture" title="1812 Overture">1812 Overture</a></i></li>
+<li><i><a href="/wiki/Hamlet_(Tchaikovsky)" title="Hamlet (Tchaikovsky)">Hamlet</a></i> (Overture-Fantasy)</li>
+<li><i><a href="/wiki/Romeo_and_Juliet_(Tchaikovsky)" title="Romeo and Juliet (Tchaikovsky)">Romeo and Juliet</a></i> (Overture-Fantasy)</li>
+<li><i><a href="/wiki/The_Nutcracker" title="The Nutcracker">The Nutcracker</a></i> (Miniature Overture)</li></ul></li>
+<li><a href="/wiki/Giuseppe_Verdi" title="Giuseppe Verdi">Giuseppe Verdi</a>:
+<ul><li><i><a href="/wiki/La_forza_del_destino" title="La forza del destino">La forza del destino</a></i></li>
+<li><i><a href="/wiki/Nabucco" title="Nabucco">Nabucco</a></i></li>
+<li><i><a href="/wiki/I_vespri_siciliani" title="I vespri siciliani">I vespri siciliani</a></i></li></ul></li>
+<li><a href="/wiki/Richard_Wagner" title="Richard Wagner">Richard Wagner</a>:
+<ul><li><i><a href="/wiki/Faust_Overture" title="Faust Overture">Faust Overture</a></i></li>
+<li><i><a href="/wiki/Rienzi" title="Rienzi">Rienzi</a></i></li>
+<li><i><a href="/wiki/The_Flying_Dutchman_(opera)" title="The Flying Dutchman (opera)">The Flying Dutchman</a></i></li>
+<li><i><a href="/wiki/Tannh%C3%A4user_(opera)" title="Tannhäuser (opera)">Tannhäuser</a></i></li>
+<li><i><a href="/wiki/Die_Meistersinger_von_N%C3%BCrnberg" title="Die Meistersinger von Nürnberg">Die Meistersinger von Nürnberg</a></i></li></ul></li>
+<li><a href="/wiki/William_Walton" title="William Walton">William Walton</a>
+<ul><li><i><a href="/wiki/Johannesburg_Festival_Overture" title="Johannesburg Festival Overture">Johannesburg Festival Overture</a></i></li>
+<li><i>Scapino</i> Overture</li>
+<li><i><a href="/wiki/Portsmouth_Point_(Walton)" title="Portsmouth Point (Walton)">Portsmouth Point</a></i> Overture</li></ul></li>
+<li><a href="/wiki/Carl_Maria_von_Weber" title="Carl Maria von Weber">Carl Maria von Weber</a>:
+<ul><li><i><a href="/wiki/Euryanthe" title="Euryanthe">Euryanthe</a></i></li>
+<li><i><a href="/wiki/Der_Freisch%C3%BCtz" title="Der Freischütz">Der Freischütz</a></i></li>
+<li><i><a href="/wiki/Oberon_(Weber)" title="Oberon (Weber)">Oberon</a></i></li></ul></li></ul>
+</div>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overture&amp;action=edit&amp;section=13" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Blom_1954-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Blom_1954_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Blom_1954_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Blom 1954.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Waterman and Anthony 2001.</span>
+</li>
+<li id="cite_note-Temperley_2001-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Temperley_2001_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Temperley_2001_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Temperley 2001.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Burrows,<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources"><span title="This citation requires a reference to the specific page or range of pages in which the material appears. (June 2013)">page&#160;needed</span></a></i>&#93;</sup></span>
+</li>
+<li id="cite_note-Fisher_2001-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fisher_2001_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fisher_2001_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Fisher 2001.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a href="/w/index.php?title=Larue_2001.&amp;action=edit&amp;redlink=1" class="new" title="Larue 2001. (page does not exist)">Larue 2001.</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Taruskin,<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources"><span title="This citation requires a reference to the specific page or range of pages in which the material appears. (November 2016)">page&#160;needed</span></a></i>&#93;</sup>.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Charlton and Bartlet.</span>
+</li>
+<li id="cite_note-FISH-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-FISH_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FISH_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Fisher 1998.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Anon. 1957; Maycock 2009; Burton-Page [n.d.]; Anon. 1957 mistakenly says just three rifles, but publisher's website confirms four, as stated also in Maycock 2009.</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Overture&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Anon. 1957. "<a rel="nofollow" class="external text" href="http://www.time.com/time/magazine/article/0,9171,824825,00.html">Music: Op. I for Vacuum Cleaners</a>" <i>Time</i> (April 22).</li>
+<li>Blom, Eric. 1954. "Overture". <i>Grove's Dictionary of Music and Musicians</i>, fifth edition, edited by Eric Blom. London: Macmillan Publishers; Toronto, Canada: Macmillan Publishers.</li>
+<li>Burrows, Donald. 2012. <i>Handel</i>, second edition. Master Musicians Series. Oxford and New York: Oxford University Press.</li>
+<li>Burton-Page, Piers. [n.d.] "<a rel="nofollow" class="external text" href="http://www.chesternovello.com/Default.aspx?TabId=2432&amp;State_3041=2&amp;workId_3041=7041">Malcolm Arnold: <i>A Grand, Grand Overture</i>, Programme Note</a>". Chester-Novello publisher's website. (Accessed 6 November 2009)</li>
+<li>Charlton, David and M. Elizabeth C. Bartlet. "Grétry, André-Ernest-Modeste." <i>Grove Music Online</i>.<i>Oxford Music Online</i>. Oxford University Press, accessed March 29, 2016,http://www.oxfordmusiconline.com/subscriber/article/grove/music/43361.</li>
+<li>Fisher, Stephen C. 1998. "Sinfonia". <i><a href="/wiki/The_New_Grove_Dictionary_of_Opera" title="The New Grove Dictionary of Opera">The New Grove Dictionary of Opera</a></i>, four volumes, edited by <a href="/wiki/Stanley_Sadie" title="Stanley Sadie">Stanley Sadie</a>. London: Macmillan Publishers, Inc. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-333-73432-7" title="Special:BookSources/0-333-73432-7">0-333-73432-7</a>.</li>
+<li>Fisher, Stephen C. 2001. "Italian Overture." <i>The New Grove Dictionary of Music and Musicians</i>, second edition, edited by <a href="/wiki/Stanley_Sadie" title="Stanley Sadie">Stanley Sadie</a> and <a href="/wiki/John_Tyrrell_(professor_of_music)" class="mw-redirect" title="John Tyrrell (professor of music)">John Tyrrell</a>. London: Macmillan Publishers.</li>
+<li>Larue, Jan. 2001. "Sinfonia 2: After 1700". <i>The New Grove Dictionary of Music and Musicians</i>, second edition, edited by <a href="/wiki/Stanley_Sadie" title="Stanley Sadie">Stanley Sadie</a> and <a href="/wiki/John_Tyrrell_(professor_of_music)" class="mw-redirect" title="John Tyrrell (professor of music)">John Tyrrell</a>. London: Macmillan Publishers.</li>
+<li>Maycock, Robert. 2009. "<a rel="nofollow" class="external text" href="http://www.bbc.co.uk/proms/2009/whatson/notes/p76_arnold.shtml">What's On/Programme Notes, Malcolm Arnold (1921–2006), <i>A Grand, Grand Overture</i>, Op. 57 (1956)</a>" <a href="/wiki/BBC" title="BBC">BBC</a> <a href="/wiki/Proms" class="mw-redirect" title="Proms">Proms</a> programme, Prom 76: Last Night of the Proms (Saturday 12 September).</li>
+<li>Taruskin, Richard. n.d. Chapter 10: "<a rel="nofollow" class="external text" href="http://www.oxfordwesternmusic.com/view/Volume2/actrade-9780195384826-chapter-10.xml">Instrumental Music Lifts Off</a>." In his <i>Music In The Seventeenth And Eighteenth Centuries</i> (Oxford History of Western Music). New York: Oxford University Press. Retrieved 29 March 2016.</li>
+<li>Temperley, Nicholas. 2001. "Overture". <i>The New Grove Dictionary of Music and Musicians</i>, second edition, edited by <a href="/wiki/Stanley_Sadie" title="Stanley Sadie">Stanley Sadie</a> and <a href="/wiki/John_Tyrrell_(professor_of_music)" class="mw-redirect" title="John Tyrrell (professor of music)">John Tyrrell</a>. London: Macmillan Publishers.</li>
+<li>Waterman, George Gow, and James R. Anthony. 2001. "French Overture". <i>The New Grove Dictionary of Music and Musicians</i>, second edition, edited by <a href="/wiki/Stanley_Sadie" title="Stanley Sadie">Stanley Sadie</a> and <a href="/wiki/John_Tyrrell_(professor_of_music)" class="mw-redirect" title="John Tyrrell (professor of music)">John Tyrrell</a>. London: Macmillan Publishers.</li></ul>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Overtures_(music)" class="extiw" title="commons:Category:Overtures (music)">Overtures (music)</a></b></i>.</td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Parsed by mw2226
+Cached time: 20180926071051
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.244 seconds
+Real time usage: 0.374 seconds
+Preprocessor visited node count: 1679/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 17998/2097152 bytes
+Template argument size: 4310/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3803/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.072/10.000 seconds
+Lua memory usage: 2.44 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  297.363      1 -total
+ 35.29%  104.940      6 Template:Fix
+ 22.64%   67.328      1 Template:Citation_needed
+ 17.12%   50.916     10 Template:Category_handler
+ 15.19%   45.164      1 Template:Other_uses
+ 14.47%   43.035      6 Template:Delink
+ 10.65%   31.664      1 Template:Commonscat
+  8.58%   25.520      1 Template:ISBN
+  7.81%   23.232      2 Template:Page_needed
+  6.84%   20.333      2 Template:Vague
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:44133-0!canonical and timestamp 20180926071051 and revision id 855218212
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Overture&amp;oldid=855218212">https://en.wikipedia.org/w/index.php?title=Overture&amp;oldid=855218212</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Overtures" title="Category:Overtures">Overtures</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_needing_page_number_citations_from_June_2013" title="Category:Wikipedia articles needing page number citations from June 2013">Wikipedia articles needing page number citations from June 2013</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_page_number_citations_from_November_2016" title="Category:Wikipedia articles needing page number citations from November 2016">Wikipedia articles needing page number citations from November 2016</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2013" title="Category:Articles with unsourced statements from June 2013">Articles with unsourced statements from June 2013</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_needing_clarification" title="Category:All Wikipedia articles needing clarification">All Wikipedia articles needing clarification</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_February_2013" title="Category:Wikipedia articles needing clarification from February 2013">Wikipedia articles needing clarification from February 2013</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_February_2013" title="Category:Articles with specifically marked weasel-worded phrases from February 2013">Articles with specifically marked weasel-worded phrases from February 2013</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Overture" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Overture" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Overture" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Overture" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Overture">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Overture&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Overture&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Overture" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Overture" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Overture&amp;oldid=855218212" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Overture&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q202287" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Overture&amp;id=855218212" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Overture">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Overture&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Overture&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Overtures_(music)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Ouverture" title="Ouverture – Alemannisch" lang="als" hreflang="als" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD%D9%8A%D8%A9_(%D9%85%D8%B3%D8%B1%D8%AD)" title="افتتاحية (مسرح) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Obertura" title="Obertura – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Uvert%C3%BCra" title="Uvertüra – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/S%C5%AB-khek" title="Sū-khek – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A3%D0%B2%D0%B5%D1%80%D1%82%D1%8E%D1%80%D0%B0" title="Увертюра – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Obertura_(m%C3%BAsica)" title="Obertura (música) – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/P%C5%99edehra_(hudba)" title="Předehra (hudba) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Ouverture" title="Ouverture – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Ouvert%C3%BCre" title="Ouvertüre – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Avam%C3%A4ng" title="Avamäng – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9F%CF%85%CE%B2%CE%B5%CF%81%CF%84%CE%BF%CF%8D%CF%81%CE%B1" title="Ουβερτούρα – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Obertura" title="Obertura – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Uverturo" title="Uverturo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Obertura" title="Obertura – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%88%D9%88%D8%B1%D8%AA%D9%88%D8%B1" title="اوورتور – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ouverture_(musique)" title="Ouverture (musique) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%84%9C%EA%B3%A1" title="서곡 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ouverture" title="Ouverture – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%91%D7%A8%D7%98%D7%95%D7%A8%D7%94" title="אוברטורה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A3%D0%B2%D0%B5%D1%80%D1%82%D1%8E%D1%80%D0%B0" title="Увертюра – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Apertura_(musica)" title="Apertura (musica) – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Uvert%C4%ABra" title="Uvertīra – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Nyit%C3%A1ny" title="Nyitány – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Overtur" title="Overtur – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Ouverture_(muziekstuk)" title="Ouverture (muziekstuk) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%BA%8F%E6%9B%B2" title="序曲 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Ouverture" title="Ouverture – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Ouverture" title="Ouverture – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Uwertura" title="Uwertura – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Abertura_(m%C3%BAsica)" title="Abertura (música) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Uvertur%C4%83" title="Uvertură – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://ru.wikipedia.org/wiki/%D0%A3%D0%B2%D0%B5%D1%80%D1%82%D1%8E%D1%80%D0%B0" title="Увертюра – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Overture" title="Overture – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Predohra_(hudba)" title="Predohra (hudba) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Uvertura" title="Uvertura – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Alkusoitto" title="Alkusoitto – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Ouvertyr" title="Ouvertyr – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Uvert%C3%BCr" title="Uvertür – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A3%D0%B2%D0%B5%D1%80%D1%82%D1%8E%D1%80%D0%B0" title="Увертюра – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Nh%E1%BA%A1c_d%E1%BA%A1o_%C4%91%E1%BA%A7u" title="Nhạc dạo đầu – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%BA%8F%E6%9B%B2" title="序曲 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q202287#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 16 August 2018, at 18:59<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Overture&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.244","walltime":"0.374","ppvisitednodes":{"value":1679,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":17998,"limit":2097152},"templateargumentsize":{"value":4310,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3803,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  297.363      1 -total"," 35.29%  104.940      6 Template:Fix"," 22.64%   67.328      1 Template:Citation_needed"," 17.12%   50.916     10 Template:Category_handler"," 15.19%   45.164      1 Template:Other_uses"," 14.47%   43.035      6 Template:Delink"," 10.65%   31.664      1 Template:Commonscat","  8.58%   25.520      1 Template:ISBN","  7.81%   23.232      2 Template:Page_needed","  6.84%   20.333      2 Template:Vague"]},"scribunto":{"limitreport-timeusage":{"value":"0.072","limit":"10.000"},"limitreport-memusage":{"value":2561604,"limit":52428800}},"cachereport":{"origin":"mw2226","timestamp":"20180926071051","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw2192"});});</script>
+	</body>
+</html>

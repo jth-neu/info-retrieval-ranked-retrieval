@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Education in Wales - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Education_in_Wales","wgTitle":"Education in Wales","wgCurRevisionId":852630906,"wgRevisionId":852630906,"wgArticleId":355736,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Welsh-language sources (cy)","Webarchive template wayback links","All articles with dead external links","Articles with dead external links from September 2017","Articles with permanently dead external links","Education in Wales","Secondary education by country"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Education_in_Wales","wgRelevantArticleId":355736,"wgRequestId":"W6@NRArAADwAAAp3oLoAAABB","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5341180","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Education_in_Wales"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Education_in_Wales&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Education_in_Wales&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Education_in_Wales"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Education_in_Wales rootpage-Education_in_Wales skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Education in Wales</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><caption>Education in Wales</caption><tbody><tr><th colspan="2" class="navbox-title" style="text-align:center"><a href="/wiki/Department_for_Education_and_Skills_(Wales)" title="Department for Education and Skills (Wales)">Department for Education and Skills</a></th></tr><tr><th scope="row">Cabinet Secretary for Education</th><td>
+<a href="/wiki/Kirsty_Williams" title="Kirsty Williams">Kirsty Williams</a></td></tr><tr><th colspan="2" class="navbox-title" style="text-align:center">National education budget (2014/15)</th></tr><tr><th scope="row">Budget</th><td>
+£2,055.5 million</td></tr><tr><th colspan="2" class="navbox-title" style="text-align:center">General details</th></tr><tr><th scope="row">Primary languages</th><td>
+<a href="/wiki/Welsh_language" title="Welsh language">Welsh</a> and <a href="/wiki/English_language_in_England" title="English language in England">English</a></td></tr><tr><th scope="row">System type</th><td>
+National</td></tr><tr><th scope="row">Compulsory education</th><td>
+1997</td></tr><tr><th colspan="2" class="navbox-title" style="text-align:center">Literacy (2003<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>)</th></tr><tr><th scope="row">Total</th><td>
+99&#160;%</td></tr><tr><th scope="row">Male</th><td>
+99&#160;%</td></tr><tr><th scope="row">Female</th><td>
+99&#160;%</td></tr></tbody></table>
+<p><b>Education in Wales</b> differs in certain respects from education elsewhere in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>. For example, a significant minority of students all over <a href="/wiki/Wales" title="Wales">Wales</a> are educated either wholly or largely through the medium of <a href="/wiki/Welsh_language" title="Welsh language">Welsh</a>: in 2014/15, 15.7% of children and young people received Welsh-medium education - a drop from the 15.9% in 2010/11.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> And additional  10% attend schools which had a significant portion of the curriculum is bilingual. The study of the Welsh language is available to all age groups through nurseries, schools, colleges and universities and in adult education. The study of the language is compulsory for all pupils in State Schools until the age of 16.
+</p><p>Since <a href="/wiki/Devolution" title="Devolution">devolution</a>, education policy in the four constituent countries of the UK has diverged: for example, <a href="/wiki/Education_in_England" title="Education in England">England</a> has pursued reforms based on diversity of school types and parental choice; Wales (and <a href="/wiki/Education_in_Scotland" title="Education in Scotland">Scotland</a>) remain more committed to the concept of the community-based <a href="/wiki/Comprehensive_school" title="Comprehensive school">comprehensive school</a>. Systems of governance and regulation - the arrangements for planning, funding, quality-assuring and regulating learning, and for its local administration - are becoming increasingly differentiated across the four <a href="/wiki/Home_countries" class="mw-redirect" title="Home countries">home countries</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Education researcher David Reynolds claims that policy in Wales is driven by a "producerist" <a href="/wiki/Paradigm" title="Paradigm">paradigm</a> emphasising collaboration between educational partners. He also alludes to lower funding in Welsh schools compared to England, echoing similar concerns at university level. He concludes that performance data does not suggest that Wales has improved more rapidly than England, although there are considerable difficulties in making these kinds of assessments.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#The_structure_of_the_Welsh_educational_system"><span class="tocnumber">1</span> <span class="toctext">The structure of the Welsh educational system</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Compulsory_schooling"><span class="tocnumber">1.1</span> <span class="toctext">Compulsory schooling</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Primary_education"><span class="tocnumber">1.1.1</span> <span class="toctext">Primary education</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Secondary_education"><span class="tocnumber">1.1.2</span> <span class="toctext">Secondary education</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-5"><a href="#Further_education"><span class="tocnumber">1.2</span> <span class="toctext">Further education</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Adult_community_learning"><span class="tocnumber">1.3</span> <span class="toctext">Adult community learning</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Higher_education"><span class="tocnumber">1.4</span> <span class="toctext">Higher education</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="The_structure_of_the_Welsh_educational_system">The structure of the Welsh educational system</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Education_in_Wales&amp;action=edit&amp;section=1" title="Edit section: The structure of the Welsh educational system">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Compulsory_schooling">Compulsory schooling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Education_in_Wales&amp;action=edit&amp;section=2" title="Edit section: Compulsory schooling">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A child's age on 1 September determines the point of entry into the relevant stage of education.  Education is compulsory beginning with the term following the child's fifth birthday, but may take place at either <a href="/wiki/Home_education_in_the_United_Kingdom" title="Home education in the United Kingdom">home</a> or school.  Most parents choosing to educate through school-based provision, however, enrol their children in the reception year in September of that school year, with most children thus beginning school at age four or four and a half.  This age was traditionally  much earlier than in most other Western nations,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> but in recent years many European countries have lowered their age of compulsory education, usually by making one or more years of <a href="/wiki/Kindergarten" title="Kindergarten">kindergarten</a> compulsory.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Primary_education">Primary education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Education_in_Wales&amp;action=edit&amp;section=3" title="Edit section: Primary education">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Celebrating_St_David%27s_Day_in_Barmouth_(5450589413).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Celebrating_St_David%27s_Day_in_Barmouth_%285450589413%29.jpg/220px-Celebrating_St_David%27s_Day_in_Barmouth_%285450589413%29.jpg" width="220" height="168" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Celebrating_St_David%27s_Day_in_Barmouth_%285450589413%29.jpg/330px-Celebrating_St_David%27s_Day_in_Barmouth_%285450589413%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Celebrating_St_David%27s_Day_in_Barmouth_%285450589413%29.jpg/440px-Celebrating_St_David%27s_Day_in_Barmouth_%285450589413%29.jpg 2x" data-file-width="600" data-file-height="457" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Celebrating_St_David%27s_Day_in_Barmouth_(5450589413).jpg" class="internal" title="Enlarge"></a></div>Primary school pupils in 1960, in <a href="/wiki/Barmouth" title="Barmouth">Barmouth</a>, celebrating St David's Day</div></div></div>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Primary_education_in_Wales" title="Primary education in Wales">Primary education in Wales</a></div>
+<p>In 2014/15, there were 1,330 primary schools in Wales with 273,400 pupils and 12,240 full-time equivalent (FTE) teachers. The teacher/pupil ratio was 1:22 and the average class size was 26 pupils.<sup id="cite_ref-Key_Education_Statistics_2009_7-0" class="reference"><a href="#cite_note-Key_Education_Statistics_2009-7">&#91;7&#93;</a></sup> In the same year, there were 13 nursery schools in with 1,076 pupils and 43 full-time equivalent teachers.<sup id="cite_ref-Key_Education_Statistics_2009_7-1" class="reference"><a href="#cite_note-Key_Education_Statistics_2009-7">&#91;7&#93;</a></sup> In 2015/16, there were 276,950 pupils in 1,310 primary schools - a rise of 3,550 since 2014/15.<sup id="cite_ref-:0_8-0" class="reference"><a href="#cite_note-:0-8">&#91;8&#93;</a></sup>
+</p><p>In 2008 a unique new curriculum - the Foundation phase - was rolled out to all schools in Wales. It began for 3- to 4-year-olds and by 2011 is in place for 3- to 7-year-olds. It is based on experiential learning, in small groups, with a teacher ratio of 1:8 for the youngest ages.
+</p><p>In 2014/15, there were 435 Welsh-medium primary schools with 65,460 pupils, rising from 64,366 in 2013/14 but the number of Welsh-medium primary schools decreasing from 444<sup id="cite_ref-Key_Education_Statistics_2009_7-2" class="reference"><a href="#cite_note-Key_Education_Statistics_2009-7">&#91;7&#93;</a></sup> due primarily to the closure of small rural schools.
+</p>
+<h4><span class="mw-headline" id="Secondary_education">Secondary education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Education_in_Wales&amp;action=edit&amp;section=4" title="Edit section: Secondary education">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Secondary_education_in_Wales" title="Secondary education in Wales">Secondary education in Wales</a></div>
+<p>Pupils in <a href="/wiki/Secondary_school" title="Secondary school">secondary school</a> take part in the compulsory <a href="/wiki/GCSE" class="mw-redirect" title="GCSE">GCSE</a> and the non-compulsory <a href="/wiki/A-level" class="mw-redirect" title="A-level">A-level</a> or <a href="/wiki/Business_and_Technology_Education_Council" title="Business and Technology Education Council">BTEC</a> qualifications at age 16 and 18 respectively. Since 2007 the <a href="/wiki/Welsh_Baccalaureate_Qualification" title="Welsh Baccalaureate Qualification">Welsh Baccalaureate Qualification</a> has also been available as an option although it was ungraded until 2014.
+</p><p>In 2014/15 there were 207 secondary schools (a drop of six since 2013/14) in Wales with 182,408 pupils and 11,269 FTE teachers (a drop of 310 since 2013/14). The pupil/teacher ratio was 17:1, which has remained largely the same since 2000/01.<sup id="cite_ref-Key_Education_Statistics_2009_7-3" class="reference"><a href="#cite_note-Key_Education_Statistics_2009-7">&#91;7&#93;</a></sup> In 2015/16, there were 178,650 pupils in 205 secondary schools - a drop of 3,700 since 2014/15.<sup id="cite_ref-:0_8-1" class="reference"><a href="#cite_note-:0-8">&#91;8&#93;</a></sup> The same report found that in 2015/16, there were 8,000 pupils in 34 independent schools, 4,540 pupils in 32 independent special schools, and 730 pupils in 25 pupil referral units.
+</p><p>In 2014/15, there were 50 Welsh-medium secondary (a drop of 2 since 2013/14) schools with 36,485 pupils, dropping from 37,400 in 2013/14. In the same year, there were 4 Welsh-medium middle schools (a rise of 2 since 2013/14) with 2,448 pupils, a rise from 1,577 in 2013/14.<sup id="cite_ref-Key_Education_Statistics_2009_7-4" class="reference"><a href="#cite_note-Key_Education_Statistics_2009-7">&#91;7&#93;</a></sup>
+</p><p>In 2016, 60/3% of Year 11 pupils (aged 16) achieved the Level 2 inclusive threshold (Level 2 including a grade A*-C in English or Welsh first language and Mathematics). 35.6% of pupils eligible for FSM (free school meals) achieved the L2 inclusive threshold. 66.9% of pupils achieved A*-C in maths. 70.4% of pupils achieved A*-C in either English or Welsh first language.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>PISA results, by which the performance of Welsh pupils is compared to that of other countries, is also of enormous concern, with Wales lagging behind all other countries in the UK, leading to the then Minister of Education Leighton Andrews to describe the performance as "unacceptable".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p><b>Education Consortia</b>
+</p><p>There are four formal education consortia in Wales covering:
+</p>
+<ul><li>North Wales (Flintshire, Conwy, Wrexham, Gwynedd, Isle of Anglesey, Denbighshire)</li>
+<li>South West and Mid Wales (Swansea, Neath Port Talbot, Carmarthenshire, Pembrokeshire, Powys, Ceredigion)</li>
+<li>Central South Wales (Bridgend, Cardiff, Merthyr Tydfil, Rhondda Cynon Taff, Vale of Glamorgan)</li>
+<li>South East Wales (Caerphilly, Monmouthshire, Newport, Blaenau Gwent, Torfaen)</li></ul>
+<p>Each of the consortia are responsible for school improvement services throughout their respective local authorities and schools.  Whilst all aspects of school improvement are considered consortia roles, they are specifically targeted with addressing the three Ministerial priorities of; improving levels of literacy, numeracy and reducing the impact of poverty on education attainment.
+</p>
+<h3><span class="mw-headline" id="Further_education">Further education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Education_in_Wales&amp;action=edit&amp;section=5" title="Edit section: Further education">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/List_of_further_education_colleges_in_Wales" title="List of further education colleges in Wales">List of further education colleges in Wales</a></div>
+<p><a href="/wiki/Further_education" title="Further education">Further education</a> (FE) includes full- and part-time learning for people over compulsory school age, excluding higher education.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> FE and publicly funded training in Wales is provided by 15 FE institutions in 2014/15 and a range of public, private and voluntary sector training providers, such as the <a href="/wiki/Workers%27_Educational_Association" title="Workers&#39; Educational Association">Workers' Educational Association</a>. Colleges vary in size and mission, and include general FE, <a href="/wiki/Tertiary_education" title="Tertiary education">tertiary</a> and specialist institutions, including one <a href="/wiki/Roman_Catholic" class="mw-redirect" title="Roman Catholic">Roman Catholic</a> Sixth Form College and a residential <a href="/wiki/Adult_education" title="Adult education">adult education</a> college. Many colleges offer leisure learning and training programmes designed to meet the needs of business.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> In 2014/15 there were 263,315 FE students in Wales spanning the entire availability of FE at multiple placements, including FE, HE (higher education), LA (local authority) Community, and work-based learning.<sup id="cite_ref-Key_Education_Statistics_2009_7-5" class="reference"><a href="#cite_note-Key_Education_Statistics_2009-7">&#91;7&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Adult_community_learning">Adult community learning</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Education_in_Wales&amp;action=edit&amp;section=6" title="Edit section: Adult community learning">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Adult_education" title="Adult education">Adult Community learning</a> is a form of adult education or <a href="/wiki/Lifelong_learning" title="Lifelong learning">lifelong learning</a> delivered and supported by local authorities in Wales.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> Programmes can be formal or <a href="/wiki/Nonformal_learning" title="Nonformal learning">informal</a>, non-accredited or accredited, and vocational, academic or leisure orientated.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> In 2015/16 there were 28,710 learners in Local Authority Community Learning.<sup id="cite_ref-Key_Education_Statistics_2009_7-6" class="reference"><a href="#cite_note-Key_Education_Statistics_2009-7">&#91;7&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Higher_education">Higher education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Education_in_Wales&amp;action=edit&amp;section=7" title="Edit section: Higher education">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_universities_in_Wales" title="List of universities in Wales">List of universities in Wales</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:242px;"><a href="/wiki/File:Cardiff_University_main_building.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cardiff_University_main_building.jpg/240px-Cardiff_University_main_building.jpg" width="240" height="180" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cardiff_University_main_building.jpg/360px-Cardiff_University_main_building.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cardiff_University_main_building.jpg/480px-Cardiff_University_main_building.jpg 2x" data-file-width="1280" data-file-height="960" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Cardiff_University_main_building.jpg" class="internal" title="Enlarge"></a></div>Main Building of Cardiff University</div></div></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:242px;"><a href="/wiki/File:Uwlsdb.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Uwlsdb.jpg/240px-Uwlsdb.jpg" width="240" height="145" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Uwlsdb.jpg/360px-Uwlsdb.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Uwlsdb.jpg/480px-Uwlsdb.jpg 2x" data-file-width="1087" data-file-height="658" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Uwlsdb.jpg" class="internal" title="Enlarge"></a></div>St David's building of the University of Wales Lampeter - Wales' oldest University</div></div></div>
+<p>Students normally enter higher education (HE) from 18 onwards. All undergraduate education is largely state-financed (with Welsh students contributing £1,255), and students are generally entitled to student loans for maintenance. The state does not control syllabi, but it does influence admission procedures and monitors standards through the <a href="/wiki/Higher_Education_Funding_Council_for_Wales" title="Higher Education Funding Council for Wales">Higher Education Funding Council for Wales</a>.
+</p><p>The typical first degree offered at Welsh universities is the <a href="/wiki/Bachelor%27s_degree" title="Bachelor&#39;s degree">Bachelor's degree</a>, typically taking three years to complete full-time. Some institutions offer an undergraduate master's degree as a first degree, typically lasting four years. During a first degree students are known as undergraduates. Some universities offer a vocationally based <a href="/wiki/Foundation_degree" title="Foundation degree">Foundation degree</a>, typically two years in length.
+</p><p>Within Wales, medical undergraduate education is provided by only <a href="/wiki/Cardiff_University" title="Cardiff University">Cardiff University</a>, while graduate fast track route training is provided at <a href="/wiki/Swansea_University" title="Swansea University">Swansea University</a>. In recent years there has been an increase in the number of universities with their own degree awarding powers owing to the change in the <a href="/wiki/University_of_Wales" title="University of Wales">University of Wales</a> from a single awarding body for most of the Universities in Wales to a confederal structure, along with former institutes gaining university status. In 2014/15, there were 8 HE institutions in Wales including one music conservatoire, the <a href="/wiki/Royal_Welsh_College_of_Music_and_Drama" class="mw-redirect" title="Royal Welsh College of Music and Drama">Royal Welsh College of Music and Drama</a> in Cardiff which is part of the University of Glamorgan Group. The <a href="/wiki/University_of_Glamorgan" title="University of Glamorgan">University of Glamorgan</a>, the second largest university in Wales, has never been a member of the University of Wales and awards its own degrees: the Royal Welsh College of Music and Drama also awards University of Glamorgan degrees.
+</p><p>In 2014/15 there were 145,735 enrolments at HE institutions in Wales, including 97,900 first degree and other undergraduates and 27,780 postgraduates. Welsh HE institutions had a total of 10,140 full-time and part-time staff.<sup id="cite_ref-Key_Education_Statistics_2009_7-7" class="reference"><a href="#cite_note-Key_Education_Statistics_2009-7">&#91;7&#93;</a></sup>
+</p><p>In 2012, the minister with responsibility for education within Wales, Leighton Andrews, made a significant statement in relation to the merger of Cardiff Metropolitan University (CMU, formerly UWIC), the University of Glamorgan and University of Wales, Newport (UWN),<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> in which he proposed the dissolution of CMU and UN as part of the process towards merger. However significant such changes may seem, it is arguable that the effective imposition of an average undergraduate fee of £7.5 K pa for the three institutions (and others, but not to Cardiff, Swansea, Bangor and Aberystwyth all of whom will charge £9 K pa) will cause much more substantial long term damage to these universities and reinvent the 'binary divide' between universities and the former polytechnics and HE institutes.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Education_in_Wales&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="flag" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Wales_%281959%E2%80%93present%29.svg/32px-Flag_of_Wales_%281959%E2%80%93present%29.svg.png" width="32" height="19" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Wales_%281959%E2%80%93present%29.svg/48px-Flag_of_Wales_%281959%E2%80%93present%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Wales_%281959%E2%80%93present%29.svg/64px-Flag_of_Wales_%281959%E2%80%93present%29.svg.png 2x" data-file-width="830" data-file-height="498" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Wales" title="Portal:Wales">Wales portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Estyn" title="Estyn">Estyn</a>, the education and training inspectorate for Wales</li>
+<li><a href="/wiki/Music_education_in_Wales" title="Music education in Wales">Music education in Wales</a></li>
+<li><a href="/wiki/Primary_education_in_Wales" title="Primary education in Wales">Primary education in Wales</a></li>
+<li><a href="/wiki/Secondary_education_in_Wales" title="Secondary education in Wales">Secondary education in Wales</a></li>
+<li><a href="/wiki/Treachery_of_the_Blue_Books" title="Treachery of the Blue Books">Treachery of the Blue Books</a></li></ul>
+<ul><li><a href="/wiki/Education_in_England" title="Education in England">Education in England</a></li>
+<li><a href="/wiki/Education_in_Northern_Ireland" title="Education in Northern Ireland">Education in Northern Ireland</a></li>
+<li><a href="/wiki/Education_in_Scotland" title="Education in Scotland">Education in Scotland</a></li>
+<li><a href="/wiki/List_of_education_articles_by_country" title="List of education articles by country">List of education articles by country</a></li>
+<li><a href="/wiki/Home_education_in_the_United_Kingdom" title="Home education in the United Kingdom">Home education in the United Kingdom</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Education_in_Wales&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Estimate for the United Kingdom, from <a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/uk.html">United Kingdom</a>, <a href="/wiki/CIA_World_Factbook" class="mw-redirect" title="CIA World Factbook">CIA World Factbook</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/cymrufyw/36974022">"Comisiynydd: Nifer y plant mewn addysg Gymraeg yn 'sioc<span class="cs1-kern-right">'</span>"</a>. <i>BBC Cymru Fyw</i> (in Welsh). BBC. 4 August 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">24 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+Cymru+Fyw&amp;rft.atitle=Comisiynydd%3A+Nifer+y+plant+mewn+addysg+Gymraeg+yn+%27sioc%27&amp;rft.date=2016-08-04&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fcymrufyw%2F36974022&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEducation+in+Wales" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ces.ed.ac.uk/PDF%20Files/Brief034.pdf">"Raffe, D. and Byrne, D. (2005) Policy Learning From 'Home International' Comparisons. Centre for Educational Sociology briefing"</a> <span class="cs1-format">(PDF)</span>. <i>ed.ac.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ed.ac.uk&amp;rft.atitle=Raffe%2C+D.+and+Byrne%2C+D.+%282005%29+Policy+Learning+From+%E2%80%98Home+International%E2%80%99+Comparisons.+Centre+for+Educational+Sociology+briefing.&amp;rft_id=http%3A%2F%2Fwww.ces.ed.ac.uk%2FPDF%2520Files%2FBrief034.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEducation+in+Wales" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.eric.ed.gov/ERICWebPortal/custom/portlets/recordDetails/detailmini.jsp?_nfpb=true&amp;_&amp;ERICExtSearch_SearchValue_0=EJ818610&amp;ERICExtSearch_SearchType_0=no&amp;accno=EJ818610">Reynolds, D. (2008) "New Labour, Education and Wales: The Devolution Decade" in<i>Oxford Review of Education</i>, v34 n6 p753-765 Dec 2008</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/7234578.stm">"BBC NEWS - UK - Education - Is five too soon to start school?"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=BBC+NEWS+-+UK+-+Education+-+Is+five+too+soon+to+start+school%3F&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2F7234578.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEducation+in+Wales" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/images/2/24/Compulsory_Education_in_Europe_2016_2017.pdf">https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/images/2/24/Compulsory_Education_in_Europe_2016_2017.pdf</a></span>
+</li>
+<li id="cite_note-Key_Education_Statistics_2009-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Key_Education_Statistics_2009_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Key_Education_Statistics_2009_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Key_Education_Statistics_2009_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Key_Education_Statistics_2009_7-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Key_Education_Statistics_2009_7-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Key_Education_Statistics_2009_7-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Key_Education_Statistics_2009_7-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Key_Education_Statistics_2009_7-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://gov.wales/docs/statistics/2016/160427-key-education-statistics-2016-en.pdf">"Key Education Statistics Wales 2016"</a> <span class="cs1-format">(PDF)</span>. Welsh Government. 27 April 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">24 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Key+Education+Statistics+Wales+2016&amp;rft.pub=Welsh+Government&amp;rft.date=2016-04-27&amp;rft_id=http%3A%2F%2Fgov.wales%2Fdocs%2Fstatistics%2F2016%2F160427-key-education-statistics-2016-en.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEducation+in+Wales" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-:0-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.estyn.gov.wales/sites/default/files/documents/ESTYN_Annual%20Report%202015_2016_English.pdf">"The Annual Report of Her Majesty's Chief Inspector of Education and Training in Wales 2015-2016"</a> <span class="cs1-format">(PDF)</span>. <i>estyn.gov.wales</i>. ESTYN. 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">24 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=estyn.gov.wales&amp;rft.atitle=The+Annual+Report+of+Her+Majesty%27s+Chief+Inspector+of+Education+and+Training+in+Wales+2015-2016&amp;rft.date=2016&amp;rft_id=https%3A%2F%2Fwww.estyn.gov.wales%2Fsites%2Fdefault%2Ffiles%2Fdocuments%2FESTYN_Annual%2520Report%25202015_2016_English.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEducation+in+Wales" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://gov.wales/statistics-and-research/examination-results/?lang=en">"An annual report collated from examination bodies on the results of external examinations taken by pupils aged 15 or 17, which includes GCSE and A Levels by subject"</a>. <i>gov.wales</i>. 7 December 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=gov.wales&amp;rft.atitle=An+annual+report+collated+from+examination+bodies+on+the+results+of+external+examinations+taken+by+pupils+aged+15+or+17%2C+which+includes+GCSE+and+A+Levels+by+subject&amp;rft.date=2016-12-07&amp;rft_id=http%3A%2F%2Fgov.wales%2Fstatistics-and-research%2Fexamination-results%2F%3Flang%3Den&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEducation+in+Wales" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/uk-wales-11930257">"Pisa tests show pupils in Wales falling behind"</a>. <i>BBC News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+News&amp;rft.atitle=Pisa+tests+show+pupils+in+Wales+falling+behind&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fuk-wales-11930257&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEducation+in+Wales" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.opsi.gov.uk/ACTS/acts1996/ukpga_19960056_en_2#pt1-ch1-pb1-l1g2">Education Act 1996, Part 1, Chapter 1, Paragraph 2</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fforwm.ac.uk">Welcome to fforwm</a>  <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090228112011/http://www.fforwm.ac.uk/">Archived</a> February 28, 2009, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ntfw.org/index.php">"National Training Federation Wales"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=National+Training+Federation+Wales&amp;rft_id=http%3A%2F%2Fwww.ntfw.org%2Findex.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEducation+in+Wales" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110723043502/http://www.clwales.net/Introducing+CLW.htm">"Wayback Machine"</a>. <i>archive.org</i>. 23 July 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">23 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=archive.org&amp;rft.atitle=Wayback+Machine&amp;rft.date=2011-07-23&amp;rft_id=https%3A%2F%2Fweb.archive.org%2Fweb%2F20110723043502%2Fhttp%3A%2F%2Fwww.clwales.net%2FIntroducing%2BCLW.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEducation+in+Wales" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://new.wales.gov.uk/consultation/dells/2008/acl/aclconsultation-e.pdf;jsessionid=wPvGJZ6hkxSXLR9hg2kQTpzJQ5CWQ4dppwmyST0wDxZpthrQ2NGp!-582746490?lang=en">Delivering Skills that Work for Wales: A new approach to Adult Community Learning. Consultation document issued 29 September 2008</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since September 2017">permanent dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/uk-wales-south-east-wales-18877766">"Cardiff Metropolitan University included in merger plan"</a>. <i>BBC News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+News&amp;rft.atitle=Cardiff+Metropolitan+University+included+in+merger+plan&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fuk-wales-south-east-wales-18877766&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEducation+in+Wales" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.walesonline.co.uk/news/education-news/2012/04/12/welsh-university-fees-set-to-fall-after-hefcw-decision-to-reallocate-spaces-91466-30740433/">"Welsh university fees set to fall after Hefcw decision to reallocate spaces"</a>. <i>walesonline</i>. 11 April 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">31 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=walesonline&amp;rft.atitle=Welsh+university+fees+set+to+fall+after+Hefcw+decision+to+reallocate+spaces&amp;rft.date=2012-04-11&amp;rft_id=http%3A%2F%2Fwww.walesonline.co.uk%2Fnews%2Feducation-news%2F2012%2F04%2F12%2Fwelsh-university-fees-set-to-fall-after-hefcw-decision-to-reallocate-spaces-91466-30740433%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEducation+in+Wales" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Education_in_Wales&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.rcahmw.gov.uk">Royal Commission on the Ancient and Historical Monuments of Wales</a> in English and Welsh</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20051202092428/http://www.lifelonglearninguk.org/nationsregions/wales_links.html">Welsh FE Colleges</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Education_in_Europe" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Education_in_Europe" title="Template:Education in Europe"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Education_in_Europe" title="Template talk:Education in Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Education_in_Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Education_in_Europe" style="font-size:114%;margin:0 4em"><a href="/wiki/Education_in_Europe" class="mw-redirect" title="Education in Europe">Education in Europe </a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sovereign states</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Education_in_Albania" title="Education in Albania">Albania</a></li>
+<li><a href="/wiki/Education_in_Andorra" title="Education in Andorra">Andorra</a></li>
+<li><a href="/wiki/Education_in_Armenia" title="Education in Armenia">Armenia</a></li>
+<li><a href="/wiki/Education_in_Austria" title="Education in Austria">Austria</a></li>
+<li><a href="/wiki/Education_in_Azerbaijan" title="Education in Azerbaijan">Azerbaijan</a></li>
+<li><a href="/wiki/Education_in_Belarus" title="Education in Belarus">Belarus</a></li>
+<li><a href="/wiki/Education_in_Belgium" title="Education in Belgium">Belgium</a></li>
+<li><a href="/wiki/Education_in_Bosnia_and_Herzegovina" title="Education in Bosnia and Herzegovina">Bosnia and Herzegovina</a></li>
+<li><a href="/wiki/Education_in_Bulgaria" title="Education in Bulgaria">Bulgaria</a></li>
+<li><a href="/wiki/Education_in_Croatia" title="Education in Croatia">Croatia</a></li>
+<li><a href="/wiki/Education_in_Cyprus" title="Education in Cyprus">Cyprus</a></li>
+<li><a href="/wiki/Education_in_the_Czech_Republic" title="Education in the Czech Republic">Czech Republic</a></li>
+<li><a href="/wiki/Education_in_Denmark" title="Education in Denmark">Denmark</a></li>
+<li><a href="/wiki/Education_in_Estonia" title="Education in Estonia">Estonia</a></li>
+<li><a href="/wiki/Education_in_Finland" title="Education in Finland">Finland</a></li>
+<li><a href="/wiki/Education_in_France" title="Education in France">France</a></li>
+<li><a href="/wiki/Education_in_Georgia_(country)" title="Education in Georgia (country)">Georgia</a></li>
+<li><a href="/wiki/Education_in_Germany" title="Education in Germany">Germany</a></li>
+<li><a href="/wiki/Education_in_Greece" title="Education in Greece">Greece</a></li>
+<li><a href="/wiki/Education_in_Hungary" title="Education in Hungary">Hungary</a></li>
+<li><a href="/wiki/Education_in_Iceland" title="Education in Iceland">Iceland</a></li>
+<li><a href="/wiki/Education_in_the_Republic_of_Ireland" title="Education in the Republic of Ireland">Ireland</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Education_in_Italy" title="Education in Italy">Italy</a></li>
+<li><a href="/wiki/Education_in_Kazakhstan" title="Education in Kazakhstan">Kazakhstan</a></li>
+<li><a href="/wiki/Education_in_Latvia" title="Education in Latvia">Latvia</a></li>
+<li><a href="/wiki/Education_in_Liechtenstein" title="Education in Liechtenstein">Liechtenstein</a></li>
+<li><a href="/wiki/Education_in_Lithuania" title="Education in Lithuania">Lithuania</a></li>
+<li><a href="/wiki/Education_in_Luxembourg" title="Education in Luxembourg">Luxembourg</a></li>
+<li><a href="/wiki/Education_in_the_Republic_of_Macedonia" title="Education in the Republic of Macedonia">Macedonia</a></li>
+<li><a href="/wiki/Education_in_Malta" title="Education in Malta">Malta</a></li>
+<li><a href="/wiki/Education_in_Moldova" title="Education in Moldova">Moldova</a></li>
+<li><a href="/w/index.php?title=Education_in_Monaco&amp;action=edit&amp;redlink=1" class="new" title="Education in Monaco (page does not exist)">Monaco</a></li>
+<li><a href="/wiki/Education_in_Montenegro" title="Education in Montenegro">Montenegro</a></li>
+<li><a href="/wiki/Education_in_the_Netherlands" title="Education in the Netherlands">Netherlands</a></li>
+<li><a href="/wiki/Education_in_Norway" title="Education in Norway">Norway</a></li>
+<li><a href="/wiki/Education_in_Poland" title="Education in Poland">Poland</a></li>
+<li><a href="/wiki/Education_in_Portugal" title="Education in Portugal">Portugal</a></li>
+<li><a href="/wiki/Education_in_Romania" title="Education in Romania">Romania</a></li>
+<li><a href="/wiki/Education_in_Russia" title="Education in Russia">Russia</a></li>
+<li><a href="/w/index.php?title=Education_in_San_Marino&amp;action=edit&amp;redlink=1" class="new" title="Education in San Marino (page does not exist)">San Marino</a></li>
+<li><a href="/wiki/Education_in_Serbia" title="Education in Serbia">Serbia</a></li>
+<li><a href="/wiki/Education_in_Slovakia" title="Education in Slovakia">Slovakia</a></li>
+<li><a href="/wiki/Education_in_Slovenia" title="Education in Slovenia">Slovenia</a></li>
+<li><a href="/wiki/Education_in_Spain" title="Education in Spain">Spain</a></li>
+<li><a href="/wiki/Education_in_Sweden" title="Education in Sweden">Sweden</a></li>
+<li><a href="/wiki/Education_in_Switzerland" title="Education in Switzerland">Switzerland</a></li>
+<li><a href="/wiki/Education_in_Turkey" title="Education in Turkey">Turkey</a></li>
+<li><a href="/wiki/Education_in_Ukraine" title="Education in Ukraine">Ukraine</a></li>
+<li><a href="/wiki/Education_in_the_United_Kingdom" title="Education in the United Kingdom">United Kingdom</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">States with limited<br />recognition</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Education_in_Abkhazia&amp;action=edit&amp;redlink=1" class="new" title="Education in Abkhazia (page does not exist)">Abkhazia</a></li>
+<li><a href="/w/index.php?title=Education_in_the_Republic_of_Artsakh&amp;action=edit&amp;redlink=1" class="new" title="Education in the Republic of Artsakh (page does not exist)">Artsakh</a></li>
+<li><a href="/wiki/Education_in_Kosovo" title="Education in Kosovo">Kosovo</a></li>
+<li><a href="/wiki/Education_in_Northern_Cyprus" title="Education in Northern Cyprus">Northern Cyprus</a></li>
+<li><a href="/w/index.php?title=Education_in_South_Ossetia&amp;action=edit&amp;redlink=1" class="new" title="Education in South Ossetia (page does not exist)">South Ossetia</a></li>
+<li><a href="/w/index.php?title=Education_in_Transnistria&amp;action=edit&amp;redlink=1" class="new" title="Education in Transnistria (page does not exist)">Transnistria</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Dependencies and<br />other entities</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Education_in_%C3%85land" title="Education in Åland">Åland</a></li>
+<li><a href="/wiki/Education_in_the_Faroe_Islands" title="Education in the Faroe Islands">Faroe Islands</a></li>
+<li><a href="/wiki/Education_in_Gibraltar" title="Education in Gibraltar">Gibraltar</a></li>
+<li><a href="/wiki/Education_in_Guernsey" class="mw-redirect" title="Education in Guernsey">Guernsey</a></li>
+<li><a href="/wiki/Education_in_the_Isle_of_Man" title="Education in the Isle of Man">Isle of Man</a></li>
+<li><a href="/wiki/Education_in_Jersey" title="Education in Jersey">Jersey</a></li>
+<li><a href="/w/index.php?title=Education_in_Svalbard&amp;action=edit&amp;redlink=1" class="new" title="Education in Svalbard (page does not exist)">Svalbard</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other entities</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Education_in_the_European_Union" class="mw-redirect" title="Education in the European Union">European Union</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Education_in_the_United_Kingdom" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="color:black;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Education_in_the_United_Kingdom" title="Template:Education in the United Kingdom"><abbr title="View this template" style=";color:black;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/w/index.php?title=Template_talk:Education_in_the_United_Kingdom&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Education in the United Kingdom (page does not exist)"><abbr title="Discuss this template" style=";color:black;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Education_in_the_United_Kingdom&amp;action=edit"><abbr title="Edit this template" style=";color:black;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Education_in_the_United_Kingdom" style="font-size:114%;margin:0 4em"><a href="/wiki/Education_in_the_United_Kingdom" title="Education in the United Kingdom"><span style="color:black;">Education in the United Kingdom</span></a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Modern systems</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Education_in_England" title="Education in England">England</a></li>
+<li><a href="/wiki/Education_in_Northern_Ireland" title="Education in Northern Ireland">Northern Ireland</a></li>
+<li><a href="/wiki/Education_in_Scotland" title="Education in Scotland">Scotland</a></li>
+<li><a class="mw-selflink selflink">Wales</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">History</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_education_in_England" title="History of education in England">England</a></li>
+<li><a href="/wiki/Education_in_Northern_Ireland" title="Education in Northern Ireland">Northern Ireland</a></li>
+<li><a href="/wiki/History_of_education_in_Scotland" title="History of education in Scotland">Scotland</a></li>
+<li><a class="mw-selflink selflink">Wales</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Higher education</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_universities_in_England" title="List of universities in England">England</a></li>
+<li><a href="/wiki/List_of_universities_in_Northern_Ireland" title="List of universities in Northern Ireland">Northern Ireland</a></li>
+<li><a href="/wiki/List_of_universities_in_Scotland" title="List of universities in Scotland">Scotland</a></li>
+<li><a href="/wiki/List_of_universities_in_Wales" title="List of universities in Wales">Wales</a></li>
+<li><a href="/wiki/Universities_in_the_United_Kingdom" title="Universities in the United Kingdom">UK</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Topics</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Academy_(English_school)" title="Academy (English school)">Academies</a></li>
+<li><a href="/wiki/Comprehensive_school" title="Comprehensive school">Comprehensives</a></li>
+<li><a href="/wiki/English_medium_education" class="mw-redirect" title="English medium education">English medium education</a></li>
+<li><a href="/wiki/Free_school_(England)" title="Free school (England)">Free school (England)</a></li>
+<li><a href="/wiki/Gaelic_medium_education_in_Scotland" class="mw-redirect" title="Gaelic medium education in Scotland">Gaelic medium education in Scotland</a></li>
+<li><a href="/wiki/Irish_language_in_Northern_Ireland#Education" title="Irish language in Northern Ireland">Irish medium education in Northern Ireland</a></li>
+<li><a href="/wiki/Grammar_school" title="Grammar school">Grammar schools</a></li>
+<li><a href="/wiki/Studio_school" title="Studio school">Studio schools</a></li>
+<li><a href="/wiki/University_Technical_College" class="mw-redirect" title="University Technical College">UTCs</a></li>
+<li><a href="/wiki/Welsh_medium_education" title="Welsh medium education">Welsh medium education</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2237
+Cached time: 20180929134258
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.460 seconds
+Real time usage: 0.532 seconds
+Preprocessor visited node count: 11972/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 68665/2097152 bytes
+Template argument size: 6894/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 33516/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.162/10.000 seconds
+Lua memory usage: 4.51 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  419.829      1 -total
+ 40.72%  170.956      1 Template:Reflist
+ 36.04%  151.290      1 Template:Education_in_Europe
+ 35.68%  149.796      1 Template:Europe_topic
+ 33.45%  140.417      2 Template:Navbox
+ 28.41%  119.273     49 Template:Iso2country
+ 25.66%  107.717     11 Template:Cite_web
+  9.94%   41.722      1 Template:Infobox_Education
+  9.33%   39.176     49 Template:Iso2country/data
+  8.40%   35.271      1 Template:Infobox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:355736-0!canonical and timestamp 20180929134258 and revision id 852630906
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Education_in_Wales&amp;oldid=852630906">https://en.wikipedia.org/w/index.php?title=Education_in_Wales&amp;oldid=852630906</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Education_in_Wales" title="Category:Education in Wales">Education in Wales</a></li><li><a href="/wiki/Category:Secondary_education_by_country" title="Category:Secondary education by country">Secondary education by country</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Welsh-language_sources_(cy)" title="Category:CS1 Welsh-language sources (cy)">CS1 Welsh-language sources (cy)</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_September_2017" title="Category:Articles with dead external links from September 2017">Articles with dead external links from September 2017</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Education+in+Wales" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Education+in+Wales" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Education_in_Wales" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Education_in_Wales" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Education_in_Wales">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Education_in_Wales&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Education_in_Wales&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Education_in_Wales" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Education_in_Wales" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Education_in_Wales&amp;oldid=852630906" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Education_in_Wales&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5341180" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Education_in_Wales&amp;id=852630906" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Education+in+Wales">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Education+in+Wales&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Education_in_Wales&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Education_in_Wales" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85_%D9%81%D9%8A_%D9%88%D9%8A%D9%84%D8%B2" title="التعليم في ويلز – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Addysg_yng_Nghymru" title="Addysg yng Nghymru – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/%C3%89ducation_au_pays_de_Galles" title="Éducation au pays de Galles – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5341180#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 30 July 2018, at 09:23<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Education_in_Wales&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.460","walltime":"0.532","ppvisitednodes":{"value":11972,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":68665,"limit":2097152},"templateargumentsize":{"value":6894,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":33516,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  419.829      1 -total"," 40.72%  170.956      1 Template:Reflist"," 36.04%  151.290      1 Template:Education_in_Europe"," 35.68%  149.796      1 Template:Europe_topic"," 33.45%  140.417      2 Template:Navbox"," 28.41%  119.273     49 Template:Iso2country"," 25.66%  107.717     11 Template:Cite_web","  9.94%   41.722      1 Template:Infobox_Education","  9.33%   39.176     49 Template:Iso2country/data","  8.40%   35.271      1 Template:Infobox"]},"scribunto":{"limitreport-timeusage":{"value":"0.162","limit":"10.000"},"limitreport-memusage":{"value":4731825,"limit":52428800}},"cachereport":{"origin":"mw2237","timestamp":"20180929134258","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":79,"wgHostname":"mw2234"});});</script>
+	</body>
+</html>

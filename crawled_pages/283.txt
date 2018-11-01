@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Nate (web portal) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nate_(web_portal)","wgTitle":"Nate (web portal)","wgCurRevisionId":840515069,"wgRevisionId":840515069,"wgArticleId":2534418,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Articles needing additional references from March 2012","All articles needing additional references","Articles containing potentially dated statements from January 2018","All articles containing potentially dated statements","Articles containing Korean-language text","Articles with Korean-language external links","All stub articles","Blog hosting services","Webmail","Internet companies of South Korea","Internet properties established in 2001","Internet search engines","SK subsidiaries","Web portals","South Korean company stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nate_(web_portal)","wgRelevantArticleId":2534418,"wgRequestId":"W6@HMgrAIFQAAIPNcb4AAAAP","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q493129","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/b/b1/Middle_Class_in_Joseon.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nate_(web_portal)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Nate_(web_portal)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Nate_(web_portal)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Nate_(web_portal)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Nate_web_portal rootpage-Nate_web_portal skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Nate (web portal)</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">South Korean web portal</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Nate_(web_portal)&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(March 2012)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">Nate</caption><tbody><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Nate_2009_logo.svg" class="image"><img alt="Nate 2009 logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9c/Nate_2009_logo.svg/200px-Nate_2009_logo.svg.png" width="200" height="51" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9c/Nate_2009_logo.svg/300px-Nate_2009_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9c/Nate_2009_logo.svg/400px-Nate_2009_logo.svg.png 2x" data-file-width="172" data-file-height="44" /></a></td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Type of site</div></th><td>
+<a href="/wiki/Web_portal" title="Web portal">Web portal</a>, <a href="/wiki/Web_search_engine" title="Web search engine">web search engine</a></td></tr><tr><th scope="row">Available&#160;in</th><td>
+Korean</td></tr><tr><th scope="row">Owner</th><td>
+<a href="/wiki/SK_Communications" title="SK Communications">SK Communications</a></td></tr><tr><th scope="row">Website</th><td class="url">
+<span class="url"><a rel="nofollow" class="external text" href="http://www.nate.com">www<wbr />.nate<wbr />.com</a></span></td></tr><tr><th scope="row"><a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa</a> rank</th><td>
+<img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" />  1,230, 26 South Korea  (January 2018<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Nate_(web_portal)&amp;action=edit">&#91;update&#93;</a></sup>)<sup id="cite_ref-alexa_1-0" class="reference"><a href="#cite_note-alexa-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row">Commercial</th><td>
+Yes</td></tr></tbody></table>
+<table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding:0.4em 0"><a href="/wiki/File:Middle_Class_in_Joseon.jpg" class="image"><img alt="Middle Class in Joseon.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Middle_Class_in_Joseon.jpg/260px-Middle_Class_in_Joseon.jpg" width="260" height="118" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Middle_Class_in_Joseon.jpg/390px-Middle_Class_in_Joseon.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Middle_Class_in_Joseon.jpg/520px-Middle_Class_in_Joseon.jpg 2x" data-file-width="750" data-file-height="341" /></a></td></tr><tr><td style="padding-top:0.2em;line-height:1.2em">Part of <a href="/wiki/Category:Korea" title="Category:Korea">a series</a> on the</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;border-bottom: 1px solid #aaa"><span class="wraplinks"><a href="/wiki/Culture_of_Korea" title="Culture of Korea">Culture of Korea</a></span></th></tr><tr><th style="padding:0.1em">
+<a href="/wiki/History_of_Korea" title="History of Korea">History</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center"><a href="/wiki/Koreans" title="Koreans">People</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Demographics_of_South_Korea" title="Demographics of South Korea">Demographics of South Korea</a>&#160;/&#32;<a href="/wiki/Demographics_of_North_Korea" title="Demographics of North Korea">Demographics of North Korea</a></li>
+<li><a href="/wiki/Korean_diaspora" title="Korean diaspora">Diaspora</a></li>
+<li><a href="/wiki/South_Korean_nationality_law" title="South Korean nationality law">South Korean nationality law</a>&#160;/&#32;<a href="/wiki/Nationality_Law_of_the_Democratic_People%27s_Republic_of_Korea" title="Nationality Law of the Democratic People&#39;s Republic of Korea">Nationality Law(DPRK)</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center"><a href="/wiki/Korean_language" title="Korean language">Languages</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/History_of_the_Korean_language" class="mw-redirect" title="History of the Korean language">History</a></li>
+<li><a href="/wiki/Korean_dialects" title="Korean dialects">Dialects</a></li>
+<li><a href="/wiki/North%E2%80%93South_differences_in_the_Korean_language" title="North–South differences in the Korean language">North-South differences</a></li>
+<li><a href="/wiki/Korean_phonology" title="Korean phonology">Phonology</a></li>
+<li><a href="/wiki/Korean_grammar" title="Korean grammar">Grammar</a></li>
+<li><a href="/wiki/Korean_honorifics" title="Korean honorifics">Honorifics</a></li>
+<li><a href="/wiki/Hangul" title="Hangul">Hangul</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center"><a href="/wiki/Traditions" class="mw-redirect" title="Traditions">Traditions</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Korean_philosophy" title="Korean philosophy">Philosophy</a></li>
+<li><a href="/wiki/Etiquette_in_South_Korea" title="Etiquette in South Korea">Etiquette</a></li>
+<li><a href="/wiki/Marriage_in_South_Korea" title="Marriage in South Korea">Marriage</a></li>
+<li><a href="/wiki/Jesa" title="Jesa">Funerals</a></li>
+<li><a href="/wiki/Korean_tea_ceremony" title="Korean tea ceremony">Tea ceremony</a></li>
+<li><a href="/wiki/Korean_mask" title="Korean mask">Masks</a></li>
+<li><a href="/wiki/Kisaeng" title="Kisaeng">Kisaeng</a></li>
+<li><a href="/wiki/Hanjeungmak" title="Hanjeungmak">Hanjeungmak</a>&#160;/&#32;<a href="/wiki/Jjimjilbang" title="Jjimjilbang">Jjimjilbang</a></li>
+<li><a href="/wiki/Korean_court_music" title="Korean court music">Court music</a></li>
+<li><a href="/wiki/List_of_Korean_clothing" title="List of Korean clothing">Clothing</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center">Mythology and folklore</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Korean_mythology" title="Korean mythology">Mythology</a></li>
+<li><a href="/wiki/Korean_folklore" title="Korean folklore">folklore</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center"><a href="/wiki/Korean_cuisine" title="Korean cuisine">Cuisine</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Gimbap" title="Gimbap">Gimbap</a></li>
+<li><a href="/wiki/Patbingsu" title="Patbingsu">Patbingsu</a></li>
+<li><a href="/wiki/Bibimbap" title="Bibimbap">Bibimbap</a></li>
+<li><a href="/wiki/Seolleongtang" title="Seolleongtang">Seolleongtang</a></li>
+<li><a href="/wiki/Kimchi" title="Kimchi">Kimchi</a></li>
+<li><a href="/wiki/Korean_fried_chicken" title="Korean fried chicken">Korean fried chicken</a></li>
+<li><a href="/wiki/Tteok" title="Tteok">Tteok</a></li>
+<li><a href="/wiki/Banchan" title="Banchan">Banchan</a></li>
+<li><a href="/wiki/Gochujang" title="Gochujang">Gochujang</a></li>
+<li><a href="/wiki/Doenjang" title="Doenjang">Doenjang</a></li>
+<li><a href="/wiki/Anju_(food)" title="Anju (food)">Anju</a></li>
+<li><a href="/wiki/Makgeolli" title="Makgeolli">Makgeolli</a></li>
+<li><a href="/wiki/Soju" title="Soju">Soju</a></li>
+<li><a href="/wiki/Guk" title="Guk">Soups</a></li>
+<li><a href="/wiki/Jjigae" title="Jjigae">Stews</a></li>
+<li><a href="/wiki/Korean_noodles" title="Korean noodles">Noodles</a></li>
+<li><a href="/wiki/Korean_barbecue" title="Korean barbecue">Barbecue</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center"><a href="/wiki/Festivals_of_Korea" class="mw-redirect" title="Festivals of Korea">Festivals</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Korean_New_Year" title="Korean New Year">Korean New Year</a></li>
+<li><a href="/wiki/Victory_over_Japan_Day" title="Victory over Japan Day">National Liberation Day</a></li>
+<li><a href="/wiki/Chuseok" title="Chuseok">Chuseok</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center"><a href="/wiki/Religion_in_Korea" title="Religion in Korea">Religion</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Korean_shamanism" title="Korean shamanism">Shamanism</a></li>
+<li><a href="/wiki/Taoism_in_Korea" title="Taoism in Korea">Taoism</a></li>
+<li><a href="/wiki/Korean_Buddhism" title="Korean Buddhism">Buddhism</a></li>
+<li><a href="/wiki/Neo-Confucianism#Neo-Confucianism_in_Korea" title="Neo-Confucianism">Neo-Confucianism</a></li>
+<li><a href="/wiki/Cheondoism" title="Cheondoism">Cheondoism</a></li>
+<li><a href="/wiki/Christianity_in_Korea" title="Christianity in Korea">Christianity</a></li>
+<li><a href="/wiki/Unification_Church" class="mw-redirect" title="Unification Church">Unification Church</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center"><a href="/wiki/Korean_art" title="Korean art">Art</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Korean_calligraphy" title="Korean calligraphy">Calligraphy</a></li>
+<li><a href="/wiki/Buddhist_art#Korea" title="Buddhist art">Buddhist art</a></li>
+<li><a href="/wiki/Korean_painting" title="Korean painting">Paintings</a></li>
+<li><a href="/wiki/Korean_flower_arrangement" title="Korean flower arrangement">Flower arrangements</a></li>
+<li><a href="/wiki/Korean_garden" title="Korean garden">Gardens</a></li>
+<li><a href="/wiki/Korean_jade_carving" title="Korean jade carving">Jade carving</a></li>
+<li><a href="/wiki/Korean_knots" title="Korean knots">Knotting</a></li>
+<li><a href="/wiki/Korean_pottery_and_porcelain" title="Korean pottery and porcelain">Pottery and porcelain</a></li>
+<li><a href="/wiki/Korean_pagoda" title="Korean pagoda">Pagoda</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center"><a href="/wiki/Korean_literature" title="Korean literature">Literature</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Hyangga" title="Hyangga">Hyangga</a></li>
+<li><a href="/wiki/Sijo" title="Sijo">Sijo</a></li>
+<li><a href="/wiki/Chinese-language_literature_of_Korea" title="Chinese-language literature of Korea">Chinese-language literature</a></li>
+<li><a href="/wiki/Sinsoseol" title="Sinsoseol">Sinsoseol</a></li>
+<li><a href="/wiki/North_Korean_literature" title="North Korean literature">North Korean literature</a>&#160;/&#32;<a href="/wiki/South_Korean_literature" title="South Korean literature">South Korean literature</a></li>
+<li><a href="/wiki/Manhwa" title="Manhwa">Manhwa</a></li>
+<li><a href="/wiki/Korean_poetry" title="Korean poetry">Poetry</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center">Music and performing arts</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Music_of_Korea" title="Music of Korea">Music</a></li>
+<li><a href="/wiki/Korean_theatre" title="Korean theatre">Performing&#160;arts</a></li>
+<li><a href="/wiki/Korean_dance" title="Korean dance">Dancing</a></li>
+<li><a href="/wiki/Buchaechum" title="Buchaechum">Fan dancing</a></li>
+<li><a href="/wiki/Pansori" title="Pansori">Traditional oral literature</a></li>
+<li><a href="/wiki/Mass_Games" class="mw-redirect" title="Mass Games">Mass Games</a></li>
+<li><a href="/wiki/Korean_revolutionary_opera" title="Korean revolutionary opera">Korean revolutionary opera</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center"><a href="/wiki/Media_of_South_Korea" title="Media of South Korea">Media</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Cinema_of_Korea" title="Cinema of Korea">Cinema</a></li>
+<li><a href="/wiki/Internet_censorship_in_South_Korea" title="Internet censorship in South Korea">Internet censorship</a>&#160;/&#32;<a href="/wiki/Internet_censorship_in_North_Korea" class="mw-redirect" title="Internet censorship in North Korea">Internet censorship in North Korea</a></li>
+<li><a href="/wiki/Cinema_of_South_Korea" title="Cinema of South Korea">Cinema of South Korea</a>&#160;/&#32;<a href="/wiki/Cinema_of_North_Korea" title="Cinema of North Korea">Cinema of North Korea</a></li>
+<li><a href="/wiki/Music_of_South_Korea" title="Music of South Korea">Music of South Korea</a>&#160;/&#32;<a href="/wiki/Music_of_North_Korea" title="Music of North Korea">Music of North Korea</a></li>
+<li><a href="/wiki/The_Chosun_Ilbo" title="The Chosun Ilbo">Chosun Ilbo</a>&#160;/&#32;<a href="/wiki/The_Dong-a_Ilbo" title="The Dong-a Ilbo">Donga Ilbo</a>&#160;/&#32;<a href="/wiki/JoongAng_Ilbo" title="JoongAng Ilbo">JoongAng Ilbo</a>&#160;/&#32;<a href="/wiki/Hankook_Ilbo" title="Hankook Ilbo">Hankook Ilbo</a>&#160;/&#32;<a href="/wiki/Kyunghyang_Shinmun" title="Kyunghyang Shinmun">Kyunghyang Shinmun</a>&#160;/&#32;<a href="/wiki/The_Hankyoreh" title="The Hankyoreh">The Hankyoreh</a></li>
+<li><a href="/wiki/KBS1" title="KBS1">KBS1</a>&#160;/&#32;<a href="/wiki/KBS2" title="KBS2">KBS2</a>&#160;/&#32;<a href="/wiki/Munhwa_Broadcasting_Corporation" title="Munhwa Broadcasting Corporation">MBC</a>&#160;/&#32;<a href="/wiki/Educational_Broadcasting_System" title="Educational Broadcasting System">EBS</a>&#160;/&#32;<a href="/wiki/Seoul_Broadcasting_System" title="Seoul Broadcasting System">SBS</a></li>
+<li><a class="mw-selflink selflink">Nate</a>&#160;/&#32;<a href="/wiki/Naver" title="Naver">Naver</a>&#160;/&#32;<a href="/wiki/Daum_(web_portal)" title="Daum (web portal)">Daum</a>&#160;/&#32;<a href="/wiki/Cyworld" title="Cyworld">Cyworld</a></li>
+<li><a href="/wiki/Propaganda_in_North_Korea" title="Propaganda in North Korea">Propaganda</a></li>
+<li><a href="/wiki/K-pop" title="K-pop">K-pop</a>&#160;/&#32;<a href="/wiki/Korean_drama" title="Korean drama">K-drama</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center"><a href="/wiki/Sport_in_Korea" title="Sport in Korea">Sport</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Korean_martial_arts" title="Korean martial arts">Martial arts</a></li>
+<li><a href="/wiki/Video_gaming_in_South_Korea" title="Video gaming in South Korea">Video games</a>&#160;/&#32;<a href="/wiki/Esports" class="mw-redirect" title="Esports">Esports</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center">Monuments</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/List_of_World_Heritage_Sites_in_Korea" class="mw-redirect" title="List of World Heritage Sites in Korea">World Heritage Sites</a></li>
+<li><a href="/wiki/Korean_architecture" title="Korean architecture">Architecture</a></li>
+<li><a href="/wiki/Korean_fortress" title="Korean fortress">Fortress</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center">National symbols of Korea</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Flag_of_Korea" class="mw-redirect" title="Flag of Korea">Flag</a></li>
+<li><a href="/wiki/Coat_of_arms_of_Korea" class="mw-redirect" title="Coat of arms of Korea">Coat of arms</a></li>
+<li><a href="/wiki/National_symbols_of_North_Korea" title="National symbols of North Korea">National symbols of North Korea</a></li>
+<li><a href="/wiki/National_symbols_of_South_Korea" title="National symbols of South Korea">National symbols of South Korea</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center">Organisations</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Ministry_of_Culture,_Sports_and_Tourism" title="Ministry of Culture, Sports and Tourism">Ministry of Culture, Sports and Tourism</a></li>
+<li><a href="/wiki/List_of_museums_in_North_Korea" title="List of museums in North Korea">List of museums in North Korea</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;">
+<ul><li class="mw-empty-elt"></li>
+<li><a href="/wiki/File:Korea_Map.svg" class="image"><img alt="Korea Map.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Korea_Map.svg/16px-Korea_Map.svg.png" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Korea_Map.svg/24px-Korea_Map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Korea_Map.svg/32px-Korea_Map.svg.png 2x" data-file-width="64" data-file-height="64" /></a> <a href="/wiki/Portal:Korea" title="Portal:Korea">Korea  &#32;portal</a></li></ul></td></tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Culture_of_Korea" title="Template:Culture of Korea"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Culture_of_Korea" title="Template talk:Culture of Korea"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Culture_of_Korea&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Nate</b> (<a href="/wiki/Hangul" title="Hangul">Hangul</a>&#58;&#160;<span lang="ko-Hang" title="Korean language text">네이트</span>) is a South Korean <a href="/wiki/Web_portal" title="Web portal">web portal</a>, developed by <a href="/wiki/SK_Communications" title="SK Communications">SK Communications</a>. In 2003, Nate acquired <a href="/wiki/Social_media" title="Social media">social media</a> site <a href="/wiki/Cyworld" title="Cyworld">Cyworld</a>, and in 2004, it achieved first place in local page views with a total of 3.8 million, surpassing rival <a href="/wiki/Daum_Communications" class="mw-redirect" title="Daum Communications">Daum</a> for the first time.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#NateOn"><span class="tocnumber">1</span> <span class="toctext">NateOn</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="NateOn">NateOn</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nate_(web_portal)&amp;action=edit&amp;section=1" title="Edit section: NateOn">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>NateOn is an instant messaging client provided by Nate, which in 2005 first overtook <a href="/wiki/MSN_Messenger" class="mw-redirect" title="MSN Messenger">MSN Messenger</a> in terms of South Korean user numbers. During the 3rd week of May 2005, NateOn's South Korean users totalled 7.54 million, compared to 6.5 million for MSN Messenger.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nate_(web_portal)&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cyworld" title="Cyworld">Cyworld</a></li>
+<li><a href="/wiki/SK_Communications" title="SK Communications">SK Communications</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nate_(web_portal)&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-alexa-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-alexa_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.alexa.com/siteinfo/nate.com">"Nate.com Site Info"</a>. <a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa Internet</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-04-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nate.com+Site+Info&amp;rft.pub=Alexa+Internet&amp;rft_id=http%3A%2F%2Fwww.alexa.com%2Fsiteinfo%2Fnate.com&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANate+%28web+portal%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Yoon Chang-hee, <a rel="nofollow" class="external text" href="http://joongangdaily.joins.com/article/view.asp?aid=2434934">"Nate seen top portal; Daum begs to differ"</a>, <i>JoongAngDaily</i>, June 29, 2004. Retrieved on September 28, 2007.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Chang Chung-hoon and Wohn Dong-hee, <a rel="nofollow" class="external text" href="http://joongangdaily.joins.com/article/view.asp?aid=2575038">"Nate On increases lead over MSN Messenger"</a>, <i>JoongAng Daily</i>, May 30, 2005. Retrieved on September 28, 2007.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nate_(web_portal)&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.nate.com">www.nate.com</a> <span class="languageicon">(in Korean)</span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Instant_messaging" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Instant_messaging" title="Template:Instant messaging"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Instant_messaging" title="Template talk:Instant messaging"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Instant_messaging&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Instant_messaging" style="font-size:114%;margin:0 4em"><a href="/wiki/Instant_messaging" title="Instant messaging">Instant messaging</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Protocols<br />(<a href="/wiki/Comparison_of_instant_messaging_protocols" title="Comparison of instant messaging protocols">comparison</a>)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Open</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Instant_Messaging_and_Presence_Protocol" title="Instant Messaging and Presence Protocol">IMPP</a></li>
+<li><a href="/wiki/Internet_Relay_Chat" title="Internet Relay Chat">IRC</a></li>
+<li><a href="/wiki/Matrix_(communication_protocol)" title="Matrix (communication protocol)">Matrix</a></li>
+<li><a href="/wiki/Telegram_(service)#Encryption_scheme" title="Telegram (service)">MTProto</a></li>
+<li><a href="/wiki/RetroShare" title="RetroShare">RetroShare</a></li>
+<li><a href="/wiki/Signal_Protocol" title="Signal Protocol">Signal Protocol</a></li>
+<li><a href="/wiki/Session_Initiation_Protocol" title="Session Initiation Protocol">SIP</a>
+<ul><li><a href="/wiki/Message_Session_Relay_Protocol" title="Message Session Relay Protocol">MSRP</a></li>
+<li><a href="/wiki/SIMPLE_(instant_messaging_protocol)" title="SIMPLE (instant messaging protocol)">SIMPLE</a></li></ul></li>
+<li><a href="/wiki/Tox_(protocol)" title="Tox (protocol)">Tox</a></li>
+<li><a href="/wiki/XMPP" title="XMPP">XMPP</a>
+<ul><li><a href="/wiki/Jingle_(protocol)" title="Jingle (protocol)">Jingle</a></li>
+<li><a href="/wiki/Google_Wave_Federation_Protocol" title="Google Wave Federation Protocol">WFP</a></li></ul></li>
+<li><a href="/wiki/Zephyr_(protocol)" title="Zephyr (protocol)">Zephyr</a></li>
+<li><a href="/wiki/Distributed_Data_Protocol" title="Distributed Data Protocol">DDP</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Closed</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Microsoft_Notification_Protocol" title="Microsoft Notification Protocol">MSNP</a></li>
+<li><a href="/wiki/OSCAR_protocol" title="OSCAR protocol">OSCAR</a>
+<ul><li><a href="/wiki/TOC_protocol" title="TOC protocol">TOC</a></li></ul></li>
+<li><a href="/wiki/Skype_protocol" title="Skype protocol">Skype</a></li>
+<li><a href="/wiki/Yahoo!_Messenger_Protocol" title="Yahoo! Messenger Protocol">YMSG</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Services</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/BAND_(software)" title="BAND (software)">BAND</a></li>
+<li><a href="/wiki/BlackBerry_Messenger" title="BlackBerry Messenger">BlackBerry Messenger</a></li>
+<li><a href="/wiki/Discord_(software)" title="Discord (software)">Discord</a></li>
+<li><a href="/wiki/Facebook_Messenger" title="Facebook Messenger">Facebook Messenger</a></li>
+<li><a href="/wiki/FireChat" title="FireChat">FireChat</a></li>
+<li><a href="/wiki/Google_Allo" title="Google Allo">Google Allo</a></li>
+<li><a href="/wiki/Google_Hangouts" title="Google Hangouts">Google Hangouts</a></li>
+<li><a href="/wiki/GroupMe" title="GroupMe">GroupMe</a></li>
+<li><a href="/wiki/Hike_Messenger" title="Hike Messenger">Hike Messenger</a></li>
+<li><a href="/wiki/HipChat" title="HipChat">HipChat</a></li>
+<li><a href="/wiki/ICQ" title="ICQ">ICQ</a></li>
+<li><a href="/wiki/IGap" title="IGap">iGap</a></li>
+<li><a href="/wiki/IMessage" title="IMessage">iMessage</a></li>
+<li><a href="/wiki/Internet_Relay_Chat#Networks" title="Internet Relay Chat">IRC Networks</a></li>
+<li><a href="/wiki/KakaoTalk" title="KakaoTalk">KakaoTalk</a></li>
+<li><a href="/wiki/Kik_Messenger" title="Kik Messenger">Kik</a></li>
+<li><a href="/wiki/Libon_(service)" title="Libon (service)">Libon</a></li>
+<li><a href="/wiki/Line_(software)" title="Line (software)">Line</a></li>
+<li><a href="/wiki/Marco_Polo_(app)" title="Marco Polo (app)">Marco Polo</a></li>
+<li><a href="/wiki/Nimbuzz" title="Nimbuzz">Nimbuzz</a></li>
+<li><a href="/wiki/Palringo" title="Palringo">Palringo</a></li>
+<li><a href="/wiki/Signal_(software)" title="Signal (software)">Signal</a></li>
+<li><a href="/wiki/Skype" title="Skype">Skype</a></li>
+<li><a href="/wiki/Skype_Qik" title="Skype Qik">Skype Qik</a></li>
+<li><a href="/wiki/Slack_(software)" title="Slack (software)">Slack</a></li>
+<li><a href="/wiki/Snapchat" title="Snapchat">Snapchat</a></li>
+<li><a href="/wiki/Snow_(app)" title="Snow (app)">SNOW</a></li>
+<li><a href="/wiki/Tango_(software)" title="Tango (software)">Tango</a></li>
+<li><a href="/wiki/Telegram_(service)" title="Telegram (service)">Telegram</a></li>
+<li><a href="/wiki/Tencent_QQ" title="Tencent QQ">QQ</a></li>
+<li><a href="/wiki/Textfree" title="Textfree">Textfree</a></li>
+<li><a href="/wiki/The_Palace_(computer_program)" title="The Palace (computer program)">The Palace</a></li>
+<li><a href="/wiki/Threema" title="Threema">Threema</a></li>
+<li><a href="/wiki/Tox_(protocol)" title="Tox (protocol)">Tox</a></li>
+<li><a href="/wiki/Trillian_(software)" title="Trillian (software)">Trillian</a></li>
+<li><a href="/wiki/Upptalk" title="Upptalk">Upptalk</a></li>
+<li><a href="/wiki/VEON_(software)" title="VEON (software)">Veon</a></li>
+<li><a href="/wiki/Viber" title="Viber">Viber</a></li>
+<li><a href="/wiki/Virtual_Places_Chat" title="Virtual Places Chat">Virtual Places Chat</a></li>
+<li><a href="/wiki/WeChat" title="WeChat">WeChat</a></li>
+<li><a href="/wiki/WhatsApp" title="WhatsApp">WhatsApp</a></li>
+<li><a href="/wiki/Wickr" title="Wickr">Wickr</a></li>
+<li><a href="/wiki/Windows_Messenger_service" title="Windows Messenger service">Windows Messenger service</a></li>
+<li><a href="/wiki/Yahoo!_Messenger" title="Yahoo! Messenger">Yahoo! Messenger</a></li>
+<li><a href="/wiki/Zulip" title="Zulip">Zulip</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Clients<br />(<a href="/wiki/Comparison_of_instant_messaging_clients" title="Comparison of instant messaging clients">comparison</a>)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Single protocol</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Allo" title="Google Allo">Allo</a></li>
+<li><a href="/wiki/Baidu" title="Baidu">Baidu Hi</a></li>
+<li><a href="/wiki/BlackBerry_Messenger" title="BlackBerry Messenger">BlackBerry Messenger</a></li>
+<li><a href="/wiki/CSipSimple" title="CSipSimple">CSipSimple</a></li>
+<li><a href="/wiki/Facebook_Messenger" title="Facebook Messenger">Facebook Messenger</a></li>
+<li><a href="/wiki/FaceTime" title="FaceTime">FaceTime</a></li>
+<li><a href="/wiki/Fetion" title="Fetion">Fetion</a></li>
+<li><a href="/wiki/Gadu-Gadu" title="Gadu-Gadu">Gadu-Gadu</a></li>
+<li><a href="/wiki/GroupMe" title="GroupMe">GroupMe</a></li>
+<li><a href="/wiki/IBM_Sametime" title="IBM Sametime">IBM Sametime</a></li>
+<li><a href="/wiki/ICQ" title="ICQ">ICQ</a></li>
+<li><a href="/wiki/IMVU" title="IMVU">IMVU</a></li>
+<li><a href="/wiki/Linphone" title="Linphone">Linphone</a></li>
+<li><a href="/wiki/Palringo" title="Palringo">Palringo</a></li>
+<li><a href="/wiki/RetroShare" title="RetroShare">RetroShare</a></li>
+<li><a href="/wiki/Ricochet_(software)" title="Ricochet (software)">Ricochet</a></li>
+<li><a href="/wiki/Ring_(software)" title="Ring (software)">Ring</a></li>
+<li><a href="/wiki/Riot.im" title="Riot.im">Riot.im</a></li>
+<li><a href="/wiki/Signal_(software)" title="Signal (software)">Signal</a></li>
+<li><a href="/wiki/Skype" title="Skype">Skype</a></li>
+<li><a href="/wiki/Telegram_(service)" title="Telegram (service)">Telegram</a></li>
+<li><a href="/wiki/Tencent_QQ" title="Tencent QQ">Tencent QQ</a></li>
+<li><a href="/wiki/Tox_(protocol)" title="Tox (protocol)">Tox</a></li>
+<li><a href="/wiki/WeChat" title="WeChat">WeChat</a></li>
+<li><a href="/wiki/WhatsApp" title="WhatsApp">WhatsApp</a></li>
+<li><a href="/wiki/Wickr" title="Wickr">Wickr</a></li>
+<li><a href="/wiki/Wire_(software)" title="Wire (software)">Wire</a></li>
+<li><a href="/wiki/Yahoo!_Messenger" title="Yahoo! Messenger">Yahoo! Messenger</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Multi-protocol</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Adium" title="Adium">Adium</a></li>
+<li><a href="/wiki/Ayttm" title="Ayttm">Ayttm</a></li>
+<li><a href="/wiki/BitlBee" title="BitlBee">BitlBee</a></li>
+<li><a href="/wiki/Centericq" title="Centericq">Centericq</a></li>
+<li><a href="/wiki/EBuddy" title="EBuddy">eBuddy</a></li>
+<li><a href="/wiki/Empathy_(software)" title="Empathy (software)">Empathy</a></li>
+<li><a href="/wiki/Fire_(instant_messaging_client)" title="Fire (instant messaging client)">Fire</a></li>
+<li><a href="/wiki/Instantbird" title="Instantbird">Instantbird</a></li>
+<li><a href="/wiki/Jitsi" title="Jitsi">Jitsi</a></li>
+<li><a href="/wiki/Kopete" title="Kopete">Kopete</a></li>
+<li><a href="/wiki/Messages_(Apple)" title="Messages (Apple)">Messages</a>/<a href="/wiki/IChat" title="IChat">iChat</a></li>
+<li><a href="/wiki/Miranda_IM" title="Miranda IM">Miranda IM</a></li>
+<li><a href="/wiki/Nimbuzz" title="Nimbuzz">Nimbuzz</a></li>
+<li><a href="/wiki/Pidgin_(software)" title="Pidgin (software)">Pidgin</a></li>
+<li><a href="/wiki/Quiet_Internet_Pager" title="Quiet Internet Pager">QIP 2010</a></li>
+<li><a href="/wiki/Skype_for_Business" title="Skype for Business">Skype for Business</a></li>
+<li><a href="/wiki/Trillian_(software)" title="Trillian (software)">Trillian</a></li>
+<li><a href="/wiki/KDE_Telepathy" title="KDE Telepathy">Telepathy</a></li>
+<li><a href="/wiki/Upptalk" title="Upptalk">Upptalk</a></li>
+<li><a href="/wiki/Xfire" title="Xfire">Xfire</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/XMPP" title="XMPP">XMPP (Jabber)</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bombus_(software)" title="Bombus (software)">Bombus</a></li>
+<li><a href="/wiki/ChatSecure" title="ChatSecure">ChatSecure</a></li>
+<li><a href="/wiki/Conversations_(software)" title="Conversations (software)">Conversations</a></li>
+<li><a href="/wiki/Gajim" title="Gajim">Gajim</a></li>
+<li><a href="/wiki/Psi_(instant_messaging_client)" title="Psi (instant messaging client)">Psi</a></li>
+<li><a href="/wiki/Tkabber" title="Tkabber">Tkabber</a></li>
+<li><a href="/wiki/Spark_(XMPP_client)" title="Spark (XMPP client)">Spark</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Microsoft_Notification_Protocol" title="Microsoft Notification Protocol">MSNP</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AMSN" title="AMSN">aMSN</a></li>
+<li><a href="/wiki/Skype" title="Skype">Skype</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Defunct</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_defunct_instant_messaging_platforms" title="List of defunct instant messaging platforms">List of defunct instant messaging platforms</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">See also</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Backchannel" title="Backchannel">Backchannel</a></li>
+<li><a href="/wiki/Chat_log" title="Chat log">Chat log</a></li>
+<li><a href="/wiki/Chatbot" title="Chatbot">Chatbot</a></li>
+<li><a href="/wiki/Contact_list" title="Contact list">Contact list</a></li>
+<li><a href="/wiki/Emoticon" title="Emoticon">Emoticon</a></li>
+<li><a href="/wiki/File_sharing" title="File sharing">File sharing</a></li>
+<li><a href="/wiki/Instant_message_service_center" class="mw-redirect" title="Instant message service center">Instant message service center</a></li>
+<li><a href="/wiki/LAN_messenger" title="LAN messenger">LAN messenger</a></li>
+<li><a href="/wiki/Messaging_apps" title="Messaging apps">Messaging apps</a></li>
+<li><a href="/wiki/Presence_information" title="Presence information">Presence information</a></li>
+<li><a href="/wiki/Shoutbox" title="Shoutbox">Shoutbox</a></li>
+<li><a href="/wiki/SMS_language" title="SMS language">SMS language</a></li>
+<li><a href="/wiki/Status_message_(instant_messaging)" title="Status message (instant messaging)">Status message</a></li>
+<li><a href="/wiki/Videotelephony" title="Videotelephony">Videotelephony</a></li>
+<li><a href="/wiki/Voice_over_IP" title="Voice over IP">Voice over IP</a></li>
+<li><a href="/wiki/Webcam" title="Webcam">Webcam</a></li>
+<li><a href="/wiki/Web_chat" title="Web chat">Web chat</a></li>
+<li><a href="/wiki/Circuit_(software)" class="mw-redirect" title="Circuit (software)">Circuit</a></li>
+<li><a href="/wiki/FirstClass" title="FirstClass">FirstClass</a></li>
+<li><a href="/wiki/Flock_(messaging_service)" title="Flock (messaging service)">Flock</a></li>
+<li><a href="/wiki/Fuze_(company)" title="Fuze (company)">Fuze Box</a></li>
+<li><a href="/wiki/Glip" class="mw-redirect" title="Glip">Glip</a></li>
+<li><a href="/wiki/Hall.com" class="mw-redirect" title="Hall.com">Hall.com</a></li>
+<li><a href="/wiki/Yammer" title="Yammer">Yammer</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="SK" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:SK_Group" title="Template:SK Group"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:SK_Group" title="Template talk:SK Group"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:SK_Group&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="SK" style="font-size:114%;margin:0 4em"><a href="/wiki/SK_Group" title="SK Group">SK</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Subsidiaries</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Energy &amp; Chemicals</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=SK_Innvotion&amp;action=edit&amp;redlink=1" class="new" title="SK Innvotion (page does not exist)">SK Innvotion</a></li>
+<li><a href="/wiki/SK_Energy" class="mw-redirect" title="SK Energy">SK Energy</a></li>
+<li><a href="/w/index.php?title=SK_Global_Chemical&amp;action=edit&amp;redlink=1" class="new" title="SK Global Chemical (page does not exist)">SK Global Chemical</a></li>
+<li><a href="/w/index.php?title=SK_Lubricants&amp;action=edit&amp;redlink=1" class="new" title="SK Lubricants (page does not exist)">SK Lubricants</a></li>
+<li><a href="/w/index.php?title=SK_Incheon_Petrochem&amp;action=edit&amp;redlink=1" class="new" title="SK Incheon Petrochem (page does not exist)">SK Incheon Petrochem</a></li>
+<li><a href="/w/index.php?title=SK_Trading_International&amp;action=edit&amp;redlink=1" class="new" title="SK Trading International (page does not exist)">SK Trading International</a></li>
+<li><a href="/wiki/SK_Chemicals" class="mw-redirect" title="SK Chemicals">SK Chemicals</a></li>
+<li><a href="/wiki/SKC_Corporation" class="mw-redirect" title="SKC Corporation">SKC</a></li>
+<li><a href="/w/index.php?title=SK_E%26S&amp;action=edit&amp;redlink=1" class="new" title="SK E&amp;S (page does not exist)">SK E&amp;S</a></li>
+<li><a href="/w/index.php?title=SK_Gas&amp;action=edit&amp;redlink=1" class="new" title="SK Gas (page does not exist)">SK Gas</a></li>
+<li><a href="/w/index.php?title=SK_Biopharmaceuticals&amp;action=edit&amp;redlink=1" class="new" title="SK Biopharmaceuticals (page does not exist)">SK Biopharmaceuticals</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Information, Telecommunication &amp; Semiconductor</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/SK_Telecom" title="SK Telecom">SK Telecom</a>
+<ul><li><a href="/wiki/Iriver_Inc" title="Iriver Inc">Iriver Inc</a></li></ul></li>
+<li><a href="/w/index.php?title=SK_Holdings_C%26C&amp;action=edit&amp;redlink=1" class="new" title="SK Holdings C&amp;C (page does not exist)">SK Holdings C&amp;C</a></li>
+<li><a href="/w/index.php?title=SK_Siltron&amp;action=edit&amp;redlink=1" class="new" title="SK Siltron (page does not exist)">SK Siltron</a></li>
+<li><a href="/wiki/SK_Planet" title="SK Planet">SK Planet</a></li>
+<li><a href="/wiki/SK_Hynix" title="SK Hynix">SK Hynix</a></li>
+<li><a href="/wiki/SK_Broadband" title="SK Broadband">SK Broadband</a></li>
+<li><a href="/w/index.php?title=SK_Telesys&amp;action=edit&amp;redlink=1" class="new" title="SK Telesys (page does not exist)">SK Telesys</a></li>
+<li><a href="/wiki/SK_Telink" class="mw-redirect" title="SK Telink">SK Telink</a></li>
+<li><a href="/wiki/SK_Communications" title="SK Communications">SK Communications</a>
+<ul><li><a class="mw-selflink selflink">Nate</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Marketing &amp; Service</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/SK_Networks" class="mw-redirect" title="SK Networks">SK Networks</a></li>
+<li><a href="/w/index.php?title=SK_E%26C&amp;action=edit&amp;redlink=1" class="new" title="SK E&amp;C (page does not exist)">SK E&amp;C</a></li>
+<li><a href="/w/index.php?title=SK_Shipping&amp;action=edit&amp;redlink=1" class="new" title="SK Shipping (page does not exist)">SK Shipping</a></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:SK_logo.svg" class="image"><img alt="SK logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/SK_logo.svg/100px-SK_logo.svg.png" width="100" height="78" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/SK_logo.svg/150px-SK_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/SK_logo.svg/200px-SK_logo.svg.png 2x" data-file-width="163" data-file-height="127" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/w/index.php?title=SK_Sports&amp;action=edit&amp;redlink=1" class="new" title="SK Sports (page does not exist)">Sports</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/SK_Wyverns" title="SK Wyverns">SK Wyverns</a></li>
+<li><a href="/wiki/Jeju_United_FC" title="Jeju United FC">Jeju United</a></li>
+<li><a href="/wiki/Seoul_SK_Knights" title="Seoul SK Knights">Seoul SK Knights</a></li>
+<li><a href="/wiki/SK_Telecom_T1" title="SK Telecom T1">SK Telecom T1</a></li>
+<li><a href="/wiki/SK_Sugar_Gliders" title="SK Sugar Gliders">SK Sugar Gliders</a></li>
+<li><a href="/w/index.php?title=SK_Hawks&amp;action=edit&amp;redlink=1" class="new" title="SK Hawks (page does not exist)">SK Hawks</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Flag-map_of_South_Korea.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag-map_of_South_Korea.svg/30px-Flag-map_of_South_Korea.svg.png" width="30" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag-map_of_South_Korea.svg/45px-Flag-map_of_South_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag-map_of_South_Korea.svg/60px-Flag-map_of_South_Korea.svg.png 2x" data-file-width="988" data-file-height="1293" /></a></td><td><i>This article about a South Korean company is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Nate_(web_portal)&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:SouthKorea-company-stub" title="Template:SouthKorea-company-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:SouthKorea-company-stub" title="Template talk:SouthKorea-company-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:SouthKorea-company-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Parsed by mw2196
+Cached time: 20180929140747
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.540 seconds
+Real time usage: 0.743 seconds
+Preprocessor visited node count: 1923/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 91493/2097152 bytes
+Template argument size: 2115/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 17/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3419/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.283/10.000 seconds
+Lua memory usage: 11.38 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  592.959      1 -total
+ 30.51%  180.897      1 Template:Ko-hhrm
+ 28.83%  170.973      1 Template:Lang
+ 21.90%  129.884      1 Template:Infobox_website
+ 17.23%  102.160      1 Template:Infobox
+ 13.59%   80.559      1 Template:Reflist
+ 12.02%   71.303      1 Template:Cite_web
+ 11.07%   65.619      1 Template:Culture_of_Korea
+ 10.16%   60.227      1 Template:Sidebar_with_collapsible_lists
+  7.80%   46.240      1 Template:Short_description
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2534418-0!canonical and timestamp 20180929140746 and revision id 840515069
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nate_(web_portal)&amp;oldid=840515069">https://en.wikipedia.org/w/index.php?title=Nate_(web_portal)&amp;oldid=840515069</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Blog_hosting_services" title="Category:Blog hosting services">Blog hosting services</a></li><li><a href="/wiki/Category:Webmail" title="Category:Webmail">Webmail</a></li><li><a href="/wiki/Category:Internet_companies_of_South_Korea" title="Category:Internet companies of South Korea">Internet companies of South Korea</a></li><li><a href="/wiki/Category:Internet_properties_established_in_2001" title="Category:Internet properties established in 2001">Internet properties established in 2001</a></li><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li><li><a href="/wiki/Category:SK_subsidiaries" title="Category:SK subsidiaries">SK subsidiaries</a></li><li><a href="/wiki/Category:Web_portals" title="Category:Web portals">Web portals</a></li><li><a href="/wiki/Category:South_Korean_company_stubs" title="Category:South Korean company stubs">South Korean company stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_March_2012" title="Category:Articles needing additional references from March 2012">Articles needing additional references from March 2012</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_January_2018" title="Category:Articles containing potentially dated statements from January 2018">Articles containing potentially dated statements from January 2018</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Articles_containing_Korean-language_text" title="Category:Articles containing Korean-language text">Articles containing Korean-language text</a></li><li><a href="/wiki/Category:Articles_with_Korean-language_external_links" title="Category:Articles with Korean-language external links">Articles with Korean-language external links</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nate+%28web+portal%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Nate+%28web+portal%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Nate_(web_portal)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Nate_(web_portal)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Nate_(web_portal)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Nate_(web_portal)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Nate_(web_portal)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Nate_(web_portal)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Nate_(web_portal)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Nate_(web_portal)&amp;oldid=840515069" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Nate_(web_portal)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q493129" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nate_%28web_portal%29&amp;id=840515069" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nate+%28web+portal%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Nate+%28web+portal%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Nate_(web_portal)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Nate" title="Nate – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Nate_(Internetportal)" title="Nate (Internetportal) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Nate" title="Nate – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%84%A4%EC%9D%B4%ED%8A%B8" title="네이트 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Nate" title="Nate – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Nate" title="Nate – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Nate" title="Nate – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Nate" title="Nate – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Nate" title="Nate – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Nate" title="Nate – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Nate_(trang_web)" title="Nate (trang web) – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Nate" title="Nate – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q493129#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 10 May 2018, at 11:37<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Nate_(web_portal)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.540","walltime":"0.743","ppvisitednodes":{"value":1923,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":91493,"limit":2097152},"templateargumentsize":{"value":2115,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3419,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  592.959      1 -total"," 30.51%  180.897      1 Template:Ko-hhrm"," 28.83%  170.973      1 Template:Lang"," 21.90%  129.884      1 Template:Infobox_website"," 17.23%  102.160      1 Template:Infobox"," 13.59%   80.559      1 Template:Reflist"," 12.02%   71.303      1 Template:Cite_web"," 11.07%   65.619      1 Template:Culture_of_Korea"," 10.16%   60.227      1 Template:Sidebar_with_collapsible_lists","  7.80%   46.240      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.283","limit":"10.000"},"limitreport-memusage":{"value":11936211,"limit":52428800}},"cachereport":{"origin":"mw2196","timestamp":"20180929140747","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":865,"wgHostname":"mw2196"});});</script>
+	</body>
+</html>

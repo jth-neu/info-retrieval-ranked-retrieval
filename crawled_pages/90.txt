@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Infoseek - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Infoseek","wgTitle":"Infoseek","wgCurRevisionId":860424489,"wgRevisionId":860424489,"wgArticleId":1101513,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from March 2018","Defunct internet search engines","Internet properties established in 1994","Internet properties disestablished in 2001","Companies based in Sunnyvale, California","Disney acquisitions","Dot-com bubble","1998 mergers and acquisitions","1994 establishments in California"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Infoseek","wgRelevantArticleId":1101513,"wgRequestId":"W6@JTgrAADcAADxBi6QAAAAR","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q3150870","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/e/ee/Infoseeklogo.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Infoseek"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Infoseek&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Infoseek&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Infoseek"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Infoseek rootpage-Infoseek skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Infoseek</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><caption class="fn org">Infoseek</caption><tbody><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Infoseeklogo.png" class="image"><img alt="Infoseeklogo.png" src="//upload.wikimedia.org/wikipedia/en/e/ee/Infoseeklogo.png" width="150" height="150" data-file-width="82" data-file-height="82" /></a></td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Type of site</div></th><td>
+<a href="/wiki/Web_search_engine" title="Web search engine">Web search engine</a></td></tr><tr><th scope="row">Owner</th><td>
+<a href="/wiki/Disney_Interactive" title="Disney Interactive">Disney Interactive</a><br />(<a href="/wiki/The_Walt_Disney_Company" title="The Walt Disney Company">The Walt Disney Company</a>)</td></tr><tr><th scope="row">Website</th><td class="url">
+<span class="url"><a rel="nofollow" class="external text" href="http://www.infoseek.com">www<wbr />.infoseek<wbr />.com</a></span></td></tr><tr><th scope="row">Launched</th><td>
+January&#160;10, 1994<span class="noprint">&#59;&#32;24 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1994-01-10</span>)</span></td></tr><tr><th scope="row">Current&#160;status</th><td class="category">
+Closed</td></tr></tbody></table>
+<p><b>Infoseek</b> was a popular internet <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engine</a> founded in 1994 by <a href="/wiki/Steve_Kirsch" title="Steve Kirsch">Steve Kirsch</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>Infoseek was originally operated by the <b>Infoseek Corporation</b>, headquartered in <a href="/wiki/Sunnyvale,_California" title="Sunnyvale, California">Sunnyvale, California</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Infoseek was bought by <a href="/wiki/The_Walt_Disney_Company" title="The Walt Disney Company">The Walt Disney Company</a> in 1999,<sup id="cite_ref-:0_3-0" class="reference"><a href="#cite_note-:0-3">&#91;3&#93;</a></sup> and the technology was merged with that of the Disney-acquired <a href="/wiki/Starwave" title="Starwave">Starwave</a> to form the <a href="/wiki/Go.com" title="Go.com">Go.com</a> network.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Domain_name"><span class="tocnumber">2</span> <span class="toctext">Domain name</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Infoseek&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>By September 1997, Infoseek had 7.3 million visitors per month.<sup id="cite_ref-source_5-0" class="reference"><a href="#cite_note-source-5">&#91;5&#93;</a></sup> It bought out the <a href="/wiki/WebChat_Broadcasting_System" title="WebChat Broadcasting System">WebChat Broadcasting System</a> in April 1998.
+</p><p>In 1998, Disney purchased a 43% stake of Infoseek, and incorporated the site into its various media businesses. Around the same time, Disney acquired the <a href="/wiki/Starwave" title="Starwave">Starwave</a> Corporation, which included ESPN.com and ABCNews.com.<sup id="cite_ref-:1_6-0" class="reference"><a href="#cite_note-:1-6">&#91;6&#93;</a></sup> In 1999, Disney acquired the remaining Infoseek stock it didn't own. Disney bundled its Starwave properties and Infoseek and formed the GO.com portal.<sup id="cite_ref-:0_3-1" class="reference"><a href="#cite_note-:0-3">&#91;3&#93;</a></sup>
+</p><p>Infoseek was among the first search engines to sell advertising on a <a href="/wiki/Cost_per_impression" title="Cost per impression">CPM</a>, Cost Per Thousand Impressions, basis.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> In 1997, the first Cost Per Click programs, as well as the precursor to pop-ups called daughter windows, was sold by east coast sales executive Robert Formentin to <a href="/wiki/Grey_Global_Group" title="Grey Global Group">Grey Advertising</a> for a <a href="/wiki/Procter_%26_Gamble" title="Procter &amp; Gamble">Procter &amp; Gamble</a> <a href="/wiki/Pampers" title="Pampers">Pampers</a> campaign.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2018)">citation needed</span></a></i>&#93;</sup>
+</p><p>In 1998, Infoseek was the first internet company to develop and launch <a href="/wiki/Behavioral_targeting" class="mw-redirect" title="Behavioral targeting">behavioral targeting</a> via its UltraMatch targeting algorithms.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2018)">citation needed</span></a></i>&#93;</sup> In 1999, Infoseek engineer <a href="/wiki/Li_Yanhong" class="mw-redirect" title="Li Yanhong">Li Yanhong</a> moved to <a href="/wiki/Beijing" title="Beijing">Beijing</a>, <a href="/wiki/China" title="China">China</a> and co-founded the search engine <a href="/wiki/Baidu" title="Baidu">Baidu</a>.<sup id="cite_ref-:1_6-1" class="reference"><a href="#cite_note-:1-6">&#91;6&#93;</a></sup> In February 2001, Disney decided to cancel the service and lay off all staff.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> Also in 2001, Bernt Wahl, Andy Bensky and 15 software engineers, all Infoseek employees, led a management buyout attempt from Disney but were ultimately rebuffed.<sup id="cite_ref-:1_6-2" class="reference"><a href="#cite_note-:1-6">&#91;6&#93;</a></sup>
+</p><p>Infoseek's Ultraseek Server software technology, an enterprise search engine product, was sold in 2000 to <a href="/wiki/Inktomi" title="Inktomi">Inktomi</a>.<sup id="cite_ref-:1_6-3" class="reference"><a href="#cite_note-:1-6">&#91;6&#93;</a></sup> Under Inktomi, Ultraseek Server was renamed "Inktomi Enterprise Search". In December 2002 (prior to the <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a> acquisition of Inktomi), the Ultraseek product suite was sold to a competitor <a href="/w/index.php?title=Verity_Inc&amp;action=edit&amp;redlink=1" class="new" title="Verity Inc (page does not exist)">Verity Inc</a>, who re-established the Ultraseek brand name and continued development of the product.
+</p><p>In December 2005, Verity was acquired by <a href="/wiki/Autonomy_Corporation" class="mw-redirect" title="Autonomy Corporation">Autonomy PLC</a>. Under Autonomy, Ultraseek ceased to be a stand-alone product and became a modular component under the IDOL platform. It continued to be developed and marketed as Autonomy's entry-level keyword-based site search offering until after <a href="/wiki/Autonomy_Corporation" class="mw-redirect" title="Autonomy Corporation">Autonomy</a> was acquired by <a href="/wiki/Hewlett-Packard" title="Hewlett-Packard">Hewlett-Packard</a> (HP) in October 2011.
+</p>
+<h2><span class="mw-headline" id="Domain_name">Domain name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Infoseek&amp;action=edit&amp;section=2" title="Edit section: Domain name">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The "infoseek.com" <a href="/wiki/Domain_name" title="Domain name">domain name</a> redirects to the "go.com" website. The brand name Infoseek is only used in <a href="/wiki/Australia" title="Australia">Australia</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> and <a href="/wiki/Japan" title="Japan">Japan</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Infoseek&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/SF_From_Marin_Highlands3.jpg/32px-SF_From_Marin_Highlands3.jpg" width="32" height="23" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/SF_From_Marin_Highlands3.jpg/48px-SF_From_Marin_Highlands3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/SF_From_Marin_Highlands3.jpg/64px-SF_From_Marin_Highlands3.jpg 2x" data-file-width="2672" data-file-height="1885" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:San_Francisco_Bay_Area" title="Portal:San Francisco Bay Area">San Francisco Bay Area portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/42px-Industry5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/56px-Industry5.svg.png 2x" data-file-width="512" data-file-height="512" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Companies" title="Portal:Companies">Companies portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/List_of_search_engines" title="List of search engines">List of search engines</a></li>
+<li><a href="/wiki/List_of_assets_owned_by_Disney" title="List of assets owned by Disney">List of assets owned by Disney</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Infoseek&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.kirschfoundation.org/who/about.html">"Kirsch Foundation About the Founders"</a>. <i>www.kirschfoundation.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-03-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.kirschfoundation.org&amp;rft.atitle=Kirsch+Foundation+About+the+Founders&amp;rft_id=http%3A%2F%2Fwww.kirschfoundation.org%2Fwho%2Fabout.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfoseek" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="https://web.archive.org/web/19970702014416/http://info.infoseek.com/doc/contact.html">Contacting Infoseek</a>." Infoseek. July 2, 1997. Retrieved on January 20, 2010.</span>
+</li>
+<li id="cite_note-:0-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://money.cnn.com/1999/07/12/deals/disney/">"Disney absorbs Infoseek - Jul. 12, 1999"</a>. <i>money.cnn.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-03-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=money.cnn.com&amp;rft.atitle=Disney+absorbs+Infoseek+-+Jul.+12%2C+1999&amp;rft_id=http%3A%2F%2Fmoney.cnn.com%2F1999%2F07%2F12%2Fdeals%2Fdisney%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfoseek" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.internethistorypodcast.com/2016/09/mike-slade-on-80s-microsoft-next-starwave-and-steve-jobs-return-to-apple/">"Mike Slade on 80s Microsoft, NeXT, Starwave and Steve Jobs' Return to Apple"</a>. <i>Internet History Podcast</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-03-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Internet+History+Podcast&amp;rft.atitle=Mike+Slade+on+80s+Microsoft%2C+NeXT%2C+Starwave+and+Steve+Jobs%E2%80%99+Return+to+Apple&amp;rft_id=http%3A%2F%2Fwww.internethistorypodcast.com%2F2016%2F09%2Fmike-slade-on-80s-microsoft-next-starwave-and-steve-jobs-return-to-apple%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfoseek" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-source-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-source_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090501140446/http://www.clubi.ie/webserch/engines/infoseek/history.htm">"Infoseek - a history (from WebSerch)"</a>. 2009-05-01. Archived from <a rel="nofollow" class="external text" href="http://www.clubi.ie/webserch/engines/infoseek/history.htm">the original</a> on May 1, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-03-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Infoseek+-+a+history+%28from+WebSerch%29&amp;rft.date=2009-05-01&amp;rft_id=http%3A%2F%2Fwww.clubi.ie%2Fwebserch%2Fengines%2Finfoseek%2Fhistory.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfoseek" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-:1-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:1_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:1_6-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thehistoryofseo.com/The-Industry/Short_History_of_Early_Search_Engines.aspx">"Short History of Early Search Engines – The History of SEO"</a>. <i>www.thehistoryofseo.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-03-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.thehistoryofseo.com&amp;rft.atitle=Short+History+of+Early+Search+Engines+%E2%80%93+The+History+of+SEO&amp;rft_id=http%3A%2F%2Fwww.thehistoryofseo.com%2FThe-Industry%2FShort_History_of_Early_Search_Engines.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfoseek" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.mediaaudit.com/media-watchdog/the-media-transparency-standoff-20-years-in-the-making/">"Media Transparency Standoff: 20 Years In The Making - Media Management, Inc"</a>. <i>Media Management Inc</i>. 2016-09-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-03-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Media+Management+Inc.&amp;rft.atitle=Media+Transparency+Standoff%3A+20+Years+In+The+Making+-+Media+Management%2C+Inc.&amp;rft.date=2016-09-01&amp;rft_id=http%3A%2F%2Fwww.mediaaudit.com%2Fmedia-watchdog%2Fthe-media-transparency-standoff-20-years-in-the-making%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfoseek" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://searchenginewatch.com/sew/study/2064954/where-are-they-now-search-engines-weve-known-loved">"Where Are They Now? Search Engines We've Known &amp; Loved | Search Engine Watch"</a>. <i>searchenginewatch.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-03-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=searchenginewatch.com&amp;rft.atitle=Where+Are+They+Now%3F+Search+Engines+We%E2%80%99ve+Known+%26+Loved+%7C+Search+Engine+Watch&amp;rft_id=https%3A%2F%2Fsearchenginewatch.com%2Fsew%2Fstudy%2F2064954%2Fwhere-are-they-now-search-engines-weve-known-loved&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfoseek" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.infoseek.com.au/">"Infoseek Australia"</a>. <i>www.infoseek.com.au</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.infoseek.com.au&amp;rft.atitle=Infoseek+Australia&amp;rft_id=http%3A%2F%2Fwww.infoseek.com.au%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfoseek" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.infoseek.co.jp">"楽天が運営するポータルサイト ： 【インフォシーク】Infoseek"</a>. <i>www.infoseek.co.jp</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.infoseek.co.jp&amp;rft.atitle=%E6%A5%BD%E5%A4%A9%E3%81%8C%E9%81%8B%E5%96%B6%E3%81%99%E3%82%8B%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88+%EF%BC%9A+%E3%80%90%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%82%B7%E3%83%BC%E3%82%AF%E3%80%91Infoseek&amp;rft_id=http%3A%2F%2Fwww.infoseek.co.jp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfoseek" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Infoseek&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/*/http://www.infoseek.com">Infoseek</a> (Archive)</li>
+<li><a rel="nofollow" class="external text" href="http://www.infoseek.com.au/">Infoseek Australia</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.infoseek.co.jp/">Infoseek Japan</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Web_search_engines" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Web_search_engines" title="Template:Web search engines"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Web_search_engines" title="Template talk:Web search engines"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_search_engines&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Web_search_engines" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_search_engine" title="Web search engine">Web search engines</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Active</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AOL" title="AOL">AOL</a></li>
+<li><a href="/wiki/Ahmia" title="Ahmia">Ahmia</a></li>
+<li><a href="/wiki/Ask.com" title="Ask.com">Ask.com</a></li>
+<li><a href="/wiki/Baidu" title="Baidu">Baidu</a></li>
+<li><a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a></li>
+<li><a href="/wiki/Blackle" title="Blackle">Blackle</a></li>
+<li><a href="/wiki/Dogpile" title="Dogpile">Dogpile</a></li>
+<li><a href="/wiki/DuckDuckGo" title="DuckDuckGo">DuckDuckGo</a></li>
+<li><a href="/wiki/Ecosia" title="Ecosia">Ecosia</a></li>
+<li><a href="/wiki/Exalead" title="Exalead">Exalead</a></li>
+<li><a href="/wiki/Excite" title="Excite">Excite</a></li>
+<li><a href="/wiki/GenieKnows" title="GenieKnows">GenieKnows</a></li>
+<li><a href="/wiki/Gigablast" title="Gigablast">Gigablast</a></li>
+<li><a href="/wiki/Google_Search" title="Google Search">Google</a></li>
+<li><a href="/wiki/Info.com" title="Info.com">Info.com</a></li>
+<li><a href="/wiki/Ixquick" title="Ixquick">Ixquick</a></li>
+<li><a href="/wiki/Lycos" title="Lycos">Lycos</a></li>
+<li><a href="/wiki/Naver" title="Naver">Naver</a></li>
+<li><a href="/wiki/Qwant" title="Qwant">Qwant</a></li>
+<li><a href="/wiki/Parsijoo" title="Parsijoo">Parsijoo</a></li>
+<li><a href="/wiki/Picollator" title="Picollator">Picollator</a></li>
+<li><a href="/wiki/SAPO_(company)" title="SAPO (company)">SAPO</a></li>
+<li><a href="/wiki/Scout_(travel_website)" title="Scout (travel website)">Scout</a></li>
+<li><a href="/wiki/Searx" title="Searx">Searx</a></li>
+<li><a href="/wiki/Seznam.cz" title="Seznam.cz">Seznam.cz</a></li>
+<li><a href="/wiki/Sogou" title="Sogou">Sogou</a></li>
+<li><a href="/wiki/Sputnik_(search_engine)" title="Sputnik (search engine)">Sputnik</a></li>
+<li><a href="/wiki/Ixquick#Startpage.com" title="Ixquick">Startpage</a></li>
+<li><a href="/wiki/WebCrawler" title="WebCrawler">WebCrawler</a></li>
+<li><a href="/wiki/YaCy" title="YaCy">YaCy</a></li>
+<li><a href="/wiki/Yahoo!_Search" title="Yahoo! Search">Yahoo!</a></li>
+<li><a href="/wiki/Yandex_Search" title="Yandex Search">Yandex</a></li>
+<li><a href="/wiki/Yooz" title="Yooz">Yooz</a></li>
+<li><a href="/wiki/Youdao" title="Youdao">Youdao</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Inactive</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/123people" title="123people">123people</a></li>
+<li><a href="/wiki/A9.com" title="A9.com">A9.com</a></li>
+<li><a href="/wiki/Aliweb" title="Aliweb">Aliweb</a></li>
+<li><a href="/wiki/AlltheWeb" title="AlltheWeb">AlltheWeb</a></li>
+<li><a href="/wiki/AltaVista" title="AltaVista">AltaVista</a></li>
+<li><a href="/wiki/Blekko" title="Blekko">Blekko</a></li>
+<li><a href="/wiki/Boogami" title="Boogami">Boogami</a></li>
+<li><a href="/wiki/Cuil" title="Cuil">Cuil</a></li>
+<li><a href="/wiki/Empas" title="Empas">Empas</a></li>
+<li><a href="/wiki/Forestle" title="Forestle">Forestle</a></li>
+<li><a href="/wiki/Go.com" title="Go.com">Go.com</a></li>
+<li><a class="mw-selflink selflink">Infoseek</a></li>
+<li><a href="/wiki/Inktomi" title="Inktomi">Inktomi</a></li>
+<li><a href="/wiki/JumpStation" title="JumpStation">JumpStation</a></li>
+<li><a href="/wiki/LeapFish" title="LeapFish">LeapFish</a></li>
+<li><a href="/wiki/Mugurdy" title="Mugurdy">Mugurdy</a></li>
+<li><a href="/wiki/Northern_Light_Group" title="Northern Light Group">Northern Light</a></li>
+<li><a href="/wiki/Powerset_(company)" title="Powerset (company)">Powerset</a></li>
+<li><a href="/wiki/Scroogle" class="mw-redirect" title="Scroogle">Scroogle</a></li>
+<li><a href="/wiki/SearchMe" title="SearchMe">SearchMe</a></li>
+<li><a href="/wiki/Soso.com" class="mw-redirect" title="Soso.com">Soso.com</a></li>
+<li><a href="/wiki/Teoma" title="Teoma">Teoma</a></li>
+<li><a href="/wiki/Viewzi" title="Viewzi">Viewzi</a></li>
+<li><a href="/wiki/Vivisimo" title="Vivisimo">Vivisimo</a></li>
+<li><a href="/wiki/Volunia" title="Volunia">Volunia</a></li>
+<li><a href="/wiki/W3Catalog" title="W3Catalog">W3Catalog</a></li>
+<li><a href="/wiki/Wikiseek" title="Wikiseek">Wikiseek</a></li>
+<li><a href="/wiki/Yebol" title="Yebol">Yebol</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/List_of_search_engines" title="List of search engines">Complete list</a></li>
+<li><a href="/wiki/Comparison_of_web_search_engines" title="Comparison of web search engines">Comparison</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2273
+Cached time: 20180929135006
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.304 seconds
+Real time usage: 0.413 seconds
+Preprocessor visited node count: 1637/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 30573/2097152 bytes
+Template argument size: 1538/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 24133/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.158/10.000 seconds
+Lua memory usage: 4.4 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  360.263      1 -total
+ 38.34%  138.138      1 Template:Reflist
+ 32.29%  116.345      1 Template:Infobox_website
+ 30.22%  108.859      7 Template:Cite_web
+ 26.99%   97.239      1 Template:Infobox
+ 19.11%   68.829      2 Template:Citation_needed
+ 16.73%   60.277      2 Template:Fix
+  9.47%   34.123      4 Template:Category_handler
+  6.66%   24.004      1 Template:Start_date_and_age
+  5.99%   21.586      2 Template:Delink
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1101513-0!canonical and timestamp 20180929135005 and revision id 860424489
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Infoseek&amp;oldid=860424489">https://en.wikipedia.org/w/index.php?title=Infoseek&amp;oldid=860424489</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Defunct_internet_search_engines" title="Category:Defunct internet search engines">Defunct internet search engines</a></li><li><a href="/wiki/Category:Internet_properties_established_in_1994" title="Category:Internet properties established in 1994">Internet properties established in 1994</a></li><li><a href="/wiki/Category:Internet_properties_disestablished_in_2001" title="Category:Internet properties disestablished in 2001">Internet properties disestablished in 2001</a></li><li><a href="/wiki/Category:Companies_based_in_Sunnyvale,_California" title="Category:Companies based in Sunnyvale, California">Companies based in Sunnyvale, California</a></li><li><a href="/wiki/Category:Disney_acquisitions" title="Category:Disney acquisitions">Disney acquisitions</a></li><li><a href="/wiki/Category:Dot-com_bubble" title="Category:Dot-com bubble">Dot-com bubble</a></li><li><a href="/wiki/Category:1998_mergers_and_acquisitions" title="Category:1998 mergers and acquisitions">1998 mergers and acquisitions</a></li><li><a href="/wiki/Category:1994_establishments_in_California" title="Category:1994 establishments in California">1994 establishments in California</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2018" title="Category:Articles with unsourced statements from March 2018">Articles with unsourced statements from March 2018</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Infoseek" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Infoseek" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Infoseek" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Infoseek" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Infoseek">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Infoseek&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Infoseek&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Infoseek" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Infoseek" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Infoseek&amp;oldid=860424489" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Infoseek&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3150870" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Infoseek&amp;id=860424489" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Infoseek">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Infoseek&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Infoseek&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Infoseek" title="Infoseek – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%82%B7%E3%83%BC%E3%82%AF" title="インフォシーク – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Infoseek" title="Infoseek – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3150870#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 20 September 2018, at 15:59<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Infoseek&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.304","walltime":"0.413","ppvisitednodes":{"value":1637,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":30573,"limit":2097152},"templateargumentsize":{"value":1538,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":24133,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  360.263      1 -total"," 38.34%  138.138      1 Template:Reflist"," 32.29%  116.345      1 Template:Infobox_website"," 30.22%  108.859      7 Template:Cite_web"," 26.99%   97.239      1 Template:Infobox"," 19.11%   68.829      2 Template:Citation_needed"," 16.73%   60.277      2 Template:Fix","  9.47%   34.123      4 Template:Category_handler","  6.66%   24.004      1 Template:Start_date_and_age","  5.99%   21.586      2 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.158","limit":"10.000"},"limitreport-memusage":{"value":4614227,"limit":52428800}},"cachereport":{"origin":"mw2273","timestamp":"20180929135006","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw2230"});});</script>
+	</body>
+</html>

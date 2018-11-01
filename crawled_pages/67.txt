@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Youdao - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Youdao","wgTitle":"Youdao","wgCurRevisionId":810486645,"wgRevisionId":810486645,"wgArticleId":18720583,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with a promotional tone from April 2016","All articles with a promotional tone","Internet search engines","Chinese websites"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Youdao","wgRelevantArticleId":18720583,"wgRequestId":"W6@IWwrAADsAAClBBe4AAAAS","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q8057730","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Youdao"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Youdao&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Youdao&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Youdao"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Youdao rootpage-Youdao skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Youdao</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Advert" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>contains content that is written like <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_soapbox_or_means_of_promotion" title="Wikipedia:What Wikipedia is not">an advertisement</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Youdao&amp;action=edit">improve it</a> by removing <a href="/wiki/Wikipedia:Spam" title="Wikipedia:Spam">promotional content</a> and inappropriate <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, and by adding encyclopedic content written from a <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>.</span>  <small><i>(April 2016)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p><b>Youdao</b> (有道) is a <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engine</a> released by <a href="/wiki/China" title="China">Chinese</a> internet company <a href="/wiki/NetEase" title="NetEase">NetEase</a> (網易) in 2007. It is the featured search engine of its parent company's <a href="/wiki/Web_portal" title="Web portal">web portal</a>, <a href="/wiki/163.com" class="mw-redirect" title="163.com">163.com</a>, and lets users search for web pages, images, news, music, blogs, Chinese-to-English dictionary entries, and more.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Products"><span class="tocnumber">2</span> <span class="toctext">Products</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Youdao_dictionary"><span class="tocnumber">2.1</span> <span class="toctext">Youdao dictionary</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Youdao_Cloud_Note"><span class="tocnumber">2.2</span> <span class="toctext">Youdao Cloud Note</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Hui-hui_Shopping_Assistant"><span class="tocnumber">2.3</span> <span class="toctext">Hui-hui Shopping Assistant</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Youdao&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Youdao is the subsidiary of NetEase, developing mobile applications by using <a href="/wiki/Big_data" title="Big data">big data</a> technology. Youdao has launched Youdao dictionary, Youdao Cloud Notes, Hui Hui (meaning "affordable") Assistant, and Youdao Tuiguang (meaning of "promotion"). Youdao uses searching engine product as a starting point, goes further in the areas of large-scale <a href="/wiki/Computer_data_storage" title="Computer data storage">data storage</a>. Its technological accumulation is derived from language translation application services for years developing online dictionary products, individual cloud applications, and services such as <a href="/wiki/E-commerce" title="E-commerce">e-commerce</a>.
+</p><p>In December 2007, Youdao desktop dictionary was formally launched.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> In January 2009, the first mobile version of Youdao dictionary was pushed onto the market. Youdao dictionary is launched as an online dictionary-like software and other related services including whole-paragraph translation. Translation is based on the data from Youdao search engine and other massive web data generated by <a href="/wiki/Data_mining" title="Data mining">data mining</a> and <a href="/wiki/Natural_language_processing" title="Natural language processing">natural language processing</a>. A large number of Chinese parallel corpora and foreign language (including vocabulary and example sentences) were excavated to be process and displayed both on desktop and mobile application over the network in a way that users can easily accomplish queries. By the end of July 2012, NetEase Youdao dictionary (desktop + mobile version) had more than 200 million users globally.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>In June 2011, Youdao developed and launched cloud notes 1.0 Beta by using cloud storage technology. <a href="/wiki/Cloud_storage" title="Cloud storage">Cloud storage</a> technology aims to help users build a virtualized pools to access data easily and securely. It solves the <a href="/wiki/Cross-platform" title="Cross-platform">cross-platform</a> and cross-site issues of personal information and data management.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> On December 6, 2011, cloud notes 1.0 Beta was formally upgraded to the full version, and changed its name to "Youdao cloud notes". By June 2013, Youdao cloud notes has exceeded 15 million users.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>Youdao shopping products also have been developed. In September 2012, the original Youdao shopping search engine, Youdao shopping assistant, and Youdao shopping cash back were fully integrated into Hui-hui assistant with the purpose of "speaking for consumers".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Hui-hui assistant is a web <a href="/wiki/Browser_extension" title="Browser extension">browser extension</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> which compares products' previous consumer ratings and item historical price to online shoppers.  Currently, Hui Hui shopping Assistant has more than 30 million users.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>As a <a href="/wiki/Subsidiary" title="Subsidiary">subsidiary</a> of NetEase, Youdao has employees from more than 500 colleges and universities domestically and globally to contribute the rapid development.<sup id="cite_ref-topcoder_8-0" class="reference"><a href="#cite_note-topcoder-8">&#91;8&#93;</a></sup> 
+</p><p>On August 2, 2013, NetEase (Youdao Search) announced that it has cooperated with Qihoo Company (<a rel="nofollow" class="external text" href="http://www.so.com/">360 Search</a>) to provide technical support services to their search engine. Since then, Netease formally abandoned the search field competition to focus on other services such as Youdao dictionary etc. <sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Products">Products</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Youdao&amp;action=edit&amp;section=2" title="Edit section: Products">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Youdao_dictionary">Youdao dictionary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Youdao&amp;action=edit&amp;section=3" title="Edit section: Youdao dictionary">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>Off-line Version:</b> 
+</p>
+<dl><dd>Youdao dictionary off-line version uses its huge number of built-in vocabulary and example sentences to meet the needs of users who are unable to access the Internet.</dd></dl>
+<p><b>Desktop Version:</b>
+</p>
+<dl><dd>Youdao dictionary desktop version uses the same user interface as the offline version. However, it has very limited lexicon. Application only need to identify the word needed to search and some processes of logic controls in order to upload the word to the server precisely. While the corresponding server has maintained a massive dictionary data, in addition, to intelligently translate the words and example sentences as well as <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> search. Youdao dictionary has compact size and original interpretation feature using its own technology. It has typical acoustic translation, smart screen word identification, real-time synchronization with network up-to-date vocabulary, and other word look-up features. Youdao dictionary could also translate the text in the picture using <a href="/wiki/Optical_character_recognition_software" class="mw-redirect" title="Optical character recognition software">OCR</a> technology. It is compatible with <a href="/wiki/Windows" class="mw-redirect" title="Windows">Windows</a> XP/7/8, <a href="/wiki/OS_X" class="mw-redirect" title="OS X">OS X</a>. It also provides extensions for Firefox/Chrome/IE. Youdao dictionary 5.0 has integrated with <a href="/wiki/HarperCollins" title="HarperCollins">Collins</a> English-Chinese dictionary, which makes Youdao dictionary more authoritative and professional.</dd></dl>
+<p><b>Mobile Version:</b>
+</p>
+<dl><dd>Youdao dictionary mobile version is suitable for various platform. It supports <a href="/wiki/Symbian" title="Symbian">Symbian</a>, <a href="/wiki/Android_(operating_system)" title="Android (operating system)">Android</a>, <a href="/wiki/Windows_Phone_8" title="Windows Phone 8">Windows Phone 8</a>, <a href="/wiki/IOS" title="IOS">iOS</a>, and <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a> generic phones.</dd></dl>
+<h3><span class="mw-headline" id="Youdao_Cloud_Note">Youdao Cloud Note</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Youdao&amp;action=edit&amp;section=4" title="Edit section: Youdao Cloud Note">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Youdao Cloud Note (originally Youdao Note) was launched on June 28, 2011, by NetEase. It is a cloud base online notebook software which supports a variety attachment formats with initial free 2G storage capacity. Youdao Cloud Note uses "triple backup", which means storing data three times to improve the security, to protect users' data. In addition, it has integrated online Web clipping capabilities. Early in December 2012, Youdao Cloud Note launched the 3.0 version on PC, iPhone, Android, and Web-side application. Upgraded version adds a to-do feature, multiple version restore feature which improve the management of users' schedule and notes.
+</p>
+<h3><span class="mw-headline" id="Hui-hui_Shopping_Assistant">Hui-hui Shopping Assistant</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Youdao&amp;action=edit&amp;section=5" title="Edit section: Hui-hui Shopping Assistant">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Hui-hui Shopping Assistant is a NetEase product developed by Youdao. It is a comparison tool for online shopping and browsing which compares online items with prices automatically from multiple websites, and provides commodity price history.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Youdao&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.youdao.com/about/productlist.html/">"About Youdao"</a>, Youdao official website.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://qing.blog.sina.com.cn/tj/8bd3e84f330026gv.html">"Youdao dictionary users exceeded two hundred million Netease Technology</a>". Retrieved 3 September 2012.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.88dict.com/archivesub/687353/8073346/">"Youdao(NetEase products), on the road". China dictionary website.</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Steven Millward, <a rel="nofollow" class="external text" href="http://www.techinasia.com/evernote-biggest-china-rival-has-15-million-users/">"Evernote's Biggest Rival in China is Way Ahead With 15 Million Users"</a>, <i>Tech in Asia</i>, 1 July 2013.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.youdao.com/about/productlist.html/">"About Youdao" Paragraph five. Youdao official website.</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://chrome.google.com/webstore/detail/%E6%83%A0%E6%83%A0%E8%B4%AD%E7%89%A9%E5%8A%A9%E6%89%8B/ohjkicjidmohhfcjjlahfppkdblibkkb?hl=zh-CN">Google Chrome App Store. From zhushou.huihui.cn.</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.youdao.com/about/index.html">"About Youdao" Youdao official website statistics.</a></span>
+</li>
+<li id="cite_note-topcoder-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-topcoder_8-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://community.topcoder.com/tc?module=Static&amp;d1=pressroom&amp;d2=pr_050609">"Press Release: Search Engine Subsidiary of NetEase Selects TopCoder Competition Platform to Help Identify Best and Brightest Chinese Programmers for Recruitment"</a>. <i>TopCoder</i>. 6 May 2009.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=TopCoder&amp;rft.atitle=Press+Release%3A+Search+Engine+Subsidiary+of+NetEase+Selects+TopCoder+Competition+Platform+to+Help+Identify+Best+and+Brightest+Chinese+Programmers+for+Recruitment&amp;rft.date=2009-05-06&amp;rft_id=http%3A%2F%2Fcommunity.topcoder.com%2Ftc%3Fmodule%3DStatic%26d1%3Dpressroom%26d2%3Dpr_050609&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYoudao" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://digi.163.com/13/0805/07/95GFLDD200162OUT.html">"Domestic PC search engine market shuffling intensified: NetEase's Youdao knocked out"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Domestic+PC+search+engine+market+shuffling+intensified%3A+NetEase%27s+Youdao+knocked+out.&amp;rft_id=http%3A%2F%2Fdigi.163.com%2F13%2F0805%2F07%2F95GFLDD200162OUT.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYoudao" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Youdao&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.youdao.com/">Official website</a></li></ul>
+
+<!-- 
+NewPP limit report
+Parsed by mw2233
+Cached time: 20180929141243
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.112 seconds
+Real time usage: 0.151 seconds
+Preprocessor visited node count: 302/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 7313/2097152 bytes
+Template argument size: 80/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 8017/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.061/10.000 seconds
+Lua memory usage: 1.83 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  127.323      1 -total
+ 57.35%   73.017      1 Template:Reflist
+ 41.35%   52.644      1 Template:Cite_news
+ 38.59%   49.128      1 Template:Advert
+ 23.72%   30.204      1 Template:Ambox
+  4.15%    5.288      1 Template:Cite_web
+  1.59%    2.023      1 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18720583-0!canonical and timestamp 20180929141243 and revision id 810486645
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Youdao&amp;oldid=810486645">https://en.wikipedia.org/w/index.php?title=Youdao&amp;oldid=810486645</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li><li><a href="/wiki/Category:Chinese_websites" title="Category:Chinese websites">Chinese websites</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_a_promotional_tone_from_April_2016" title="Category:Articles with a promotional tone from April 2016">Articles with a promotional tone from April 2016</a></li><li><a href="/wiki/Category:All_articles_with_a_promotional_tone" title="Category:All articles with a promotional tone">All articles with a promotional tone</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Youdao" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Youdao" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Youdao" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Youdao" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Youdao">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Youdao&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Youdao&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Youdao" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Youdao" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Youdao&amp;oldid=810486645" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Youdao&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q8057730" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Youdao&amp;id=810486645" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Youdao">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Youdao&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Youdao&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%9C%89%E9%81%93_(%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88)" title="有道 (ポータルサイト) – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%9C%89%E9%81%93" title="有道 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q8057730#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 15 November 2017, at 15:27<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Youdao&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.112","walltime":"0.151","ppvisitednodes":{"value":302,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":7313,"limit":2097152},"templateargumentsize":{"value":80,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":8017,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  127.323      1 -total"," 57.35%   73.017      1 Template:Reflist"," 41.35%   52.644      1 Template:Cite_news"," 38.59%   49.128      1 Template:Advert"," 23.72%   30.204      1 Template:Ambox","  4.15%    5.288      1 Template:Cite_web","  1.59%    2.023      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.061","limit":"10.000"},"limitreport-memusage":{"value":1919877,"limit":52428800}},"cachereport":{"origin":"mw2233","timestamp":"20180929141243","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":257,"wgHostname":"mw2233"});});</script>
+	</body>
+</html>

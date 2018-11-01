@@ -1,0 +1,762 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Thomas Reid - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Thomas_Reid","wgTitle":"Thomas Reid","wgCurRevisionId":861255684,"wgRevisionId":861255684,"wgArticleId":29780,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from March 2012","Use British English from March 2012","Infobox person using alma mater","Articles with hCards","Articles with Internet Archive links","Articles with LibriVox links","Articles containing French-language text","Articles containing Hebrew-language text","Articles containing Latin-language text","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NDL identifiers","Wikipedia articles with NLA identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SNAC-ID identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","1710 births","1796 deaths","Founder Fellows of the Royal Society of Edinburgh","Scottish philosophers","Protestant philosophers","British Christian theologians","18th-century Scottish writers","18th-century philosophers","Enlightenment philosophers","David Hume","Alumni of the University of Aberdeen","Academics of the University of Aberdeen","Academics of the University of Glasgow","Fellows of the Royal Society of Edinburgh","Ministers of the Church of Scotland","People from Kincardine and Mearns","Scottish mathematicians","Scottish librarians","Critics of atheism"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Thomas_Reid","wgRelevantArticleId":29780,"wgRequestId":"W7EExQrAADoAAFW-Z34AAACM","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q316347","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/9/92/ThomasReid.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Thomas_Reid"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Thomas_Reid&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Thomas_Reid&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Thomas_Reid"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Thomas_Reid rootpage-Thomas_Reid skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Thomas Reid</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other people named Thomas Reid, see <a href="/wiki/Thomas_Reid_(disambiguation)" class="mw-disambig" title="Thomas Reid (disambiguation)">Thomas Reid (disambiguation)</a>.</div>
+<p class="mw-empty-elt">
+
+</p>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Thomas Reid</span><br /><span class="honorific-suffix" style="font-size: 77%; font-weight: normal;"><span class="noexcerpt" style="font-size:100%;"><a href="/wiki/Fellow_of_the_Royal_Society_of_Edinburgh" title="Fellow of the Royal Society of Edinburgh">FRSE</a></span></span></th></tr><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:ThomasReid.jpg" class="image"><img alt="ThomasReid.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/ThomasReid.jpg/220px-ThomasReid.jpg" width="220" height="266" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/ThomasReid.jpg/330px-ThomasReid.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/ThomasReid.jpg/440px-ThomasReid.jpg 2x" data-file-width="609" data-file-height="735" /></a><div>Reid as painted by <a href="/wiki/Henry_Raeburn" title="Henry Raeburn">Henry Raeburn</a> in 1796</div></td></tr><tr><th scope="row">Born</th><td>
+<span style="display:none">(<span class="bday">1710-05-07</span>)</span>7 May 1710<br /><span class="birthplace"><a href="/wiki/Strachan,_Aberdeenshire" title="Strachan, Aberdeenshire">Strachan</a>, Scotland, <a href="/wiki/Kingdom_of_Great_Britain" title="Kingdom of Great Britain">Great Britain</a></span></td></tr><tr><th scope="row">Died</th><td>
+7 October 1796<span style="display:none">(1796-10-07)</span> (aged&#160;86)<br /><span class="deathplace"><a href="/wiki/Glasgow" title="Glasgow">Glasgow</a>, Scotland, Great Britain</span></td></tr><tr><th scope="row">Alma&#160;mater</th><td>
+<a href="/wiki/University_of_Aberdeen" title="University of Aberdeen">University of Aberdeen</a></td></tr><tr><td colspan="2" style="text-align:center">
+</td></tr><tr><th scope="row">Era</th><td class="category">
+<a href="/wiki/18th-century_philosophy" class="mw-redirect" title="18th-century philosophy">18th-century philosophy</a></td></tr><tr><th scope="row">Region</th><td class="category">
+<a href="/wiki/Western_philosophy" title="Western philosophy">Western philosophy</a></td></tr><tr><th scope="row"><a href="/wiki/List_of_schools_of_philosophy" title="List of schools of philosophy">School</a></th><td class="category">
+<a href="/wiki/Scottish_Common_Sense_Realism" class="mw-redirect" title="Scottish Common Sense Realism">Scottish Common Sense Realism</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><br /><a href="/wiki/Scottish_Enlightenment" title="Scottish Enlightenment">Scottish Enlightenment</a><br /><a href="/wiki/Foundationalism" title="Foundationalism">Foundationalism</a><sup id="cite_ref-SEP-FTJ_2-0" class="reference"><a href="#cite_note-SEP-FTJ-2">&#91;2&#93;</a></sup><br /><a href="/wiki/Direct_realism" class="mw-redirect" title="Direct realism">Direct realism</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><br /><a href="/wiki/Correspondence_theory_of_truth" title="Correspondence theory of truth">Correspondence theory of truth</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></td></tr><tr class="note"><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Main interests</div></th><td>
+<a href="/wiki/Metaphysics" title="Metaphysics">Metaphysics</a>, <a href="/wiki/Epistemology" title="Epistemology">epistemology</a>, <a href="/wiki/Philosophy_of_perception" title="Philosophy of perception">philosophy of perception</a>, <a href="/wiki/Ethics" title="Ethics">ethics</a></td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Notable ideas</div></th><td>
+<a href="/wiki/Direct_realism" class="mw-redirect" title="Direct realism">Direct realism</a>, <a href="/wiki/Epistemological_externalism" class="mw-redirect" title="Epistemological externalism">epistemological externalism</a>, <a href="/wiki/Sense" title="Sense">sensation</a>–<a href="/wiki/Perception" title="Perception">perception</a> distinction</td></tr><tr class="note"><td colspan="2" style="text-align:center">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left;">Influences</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: left; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;"><a href="/wiki/David_Hume" title="David Hume">Hume</a>, <a href="/wiki/Cicero" title="Cicero">Cicero</a>, <a href="/wiki/Thomas_Aquinas" title="Thomas Aquinas">Aquinas</a>, <a href="/wiki/George_Berkeley" title="George Berkeley">Berkeley</a></div></li></ul>
+</div></td></tr><tr class="note"><td colspan="2" style="text-align:center">
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background: transparent; text-align: left;">Influenced</div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: left; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div class="center" style="width:auto; margin-left:auto; margin-right:auto;"><a href="/wiki/David_Hartley_(philosopher)" title="David Hartley (philosopher)">Hartley</a>, <a href="/wiki/James_Frederick_Ferrier" title="James Frederick Ferrier">Ferrier</a>, <a href="/wiki/Victor_Cousin" title="Victor Cousin">Cousin</a>, <a href="/wiki/Arthur_Schopenhauer" title="Arthur Schopenhauer">Schopenhauer</a>, <a href="/wiki/Charles_Sanders_Peirce" title="Charles Sanders Peirce">C.S. Peirce</a>, <a href="/wiki/William_James" title="William James">James</a>, <a href="/wiki/G.E._Moore" class="mw-redirect" title="G.E. Moore">Moore</a>, <a href="/wiki/William_Alston" title="William Alston">Alston</a>, <a href="/wiki/Alvin_Plantinga" title="Alvin Plantinga">Plantinga</a>, <a href="/wiki/Nicholas_Wolterstorff" title="Nicholas Wolterstorff">Wolterstorff</a>, <a href="/wiki/Roderick_Chisholm" title="Roderick Chisholm">Chisholm</a>, <a href="/wiki/George_Elder_Davie" title="George Elder Davie">George Davie</a>, <a href="/wiki/Keith_Lehrer" title="Keith Lehrer">Lehler</a>, <a href="/wiki/William_L._Rowe" title="William L. Rowe">Rowe</a>, <a href="/wiki/Keith_DeRose" title="Keith DeRose">DeRose</a>, <a href="/wiki/Michael_Bergmann_(philosopher)" title="Michael Bergmann (philosopher)">Bergmann</a>, <a href="/wiki/Michael_Huemer" title="Michael Huemer">Huemer</a></div></li></ul>
+</div></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:267px;"><a href="/wiki/File:Cameo_of_Thomas_Reid_by_James_Tassie,_Hunterian_Museum,_Glasgow.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Cameo_of_Thomas_Reid_by_James_Tassie%2C_Hunterian_Museum%2C_Glasgow.jpg/265px-Cameo_of_Thomas_Reid_by_James_Tassie%2C_Hunterian_Museum%2C_Glasgow.jpg" width="265" height="398" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Cameo_of_Thomas_Reid_by_James_Tassie%2C_Hunterian_Museum%2C_Glasgow.jpg/398px-Cameo_of_Thomas_Reid_by_James_Tassie%2C_Hunterian_Museum%2C_Glasgow.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Cameo_of_Thomas_Reid_by_James_Tassie%2C_Hunterian_Museum%2C_Glasgow.jpg/530px-Cameo_of_Thomas_Reid_by_James_Tassie%2C_Hunterian_Museum%2C_Glasgow.jpg 2x" data-file-width="2056" data-file-height="3088" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Cameo_of_Thomas_Reid_by_James_Tassie,_Hunterian_Museum,_Glasgow.jpg" class="internal" title="Enlarge"></a></div>Cameo of Thomas Reid by James Tassie, Hunterian Museum, Glasgow</div></div></div>
+<p><b>Thomas Reid</b> <span class="noexcerpt" style="font-size:85%;"><a href="/wiki/Fellow_of_the_Royal_Society_of_Edinburgh" title="Fellow of the Royal Society of Edinburgh">FRSE</a></span> (26 April 1710 <a href="/wiki/Old_Style" class="mw-redirect" title="Old Style">OS</a> – 7 October 1796) was a religiously trained British philosopher, a contemporary of <a href="/wiki/David_Hume" title="David Hume">David Hume</a> as well as "Hume's earliest and fiercest critic".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> He was the founder of the <a href="/wiki/Scottish_School_of_Common_Sense" class="mw-redirect" title="Scottish School of Common Sense">Scottish School of Common Sense</a> and played an integral role in the <a href="/wiki/Scottish_Enlightenment" title="Scottish Enlightenment">Scottish Enlightenment</a>. In 1783 he was a joint founder of the <a href="/wiki/Royal_Society_of_Edinburgh" title="Royal Society of Edinburgh">Royal Society of Edinburgh</a>. 
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Life"><span class="tocnumber">1</span> <span class="toctext">Life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Philosophical_work"><span class="tocnumber">2</span> <span class="toctext">Philosophical work</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Overview"><span class="tocnumber">2.1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Thomas_Reid&#39;s_theory_of_common_sense"><span class="tocnumber">2.2</span> <span class="toctext">Thomas Reid's theory of common sense</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Exploring_sense_and_language"><span class="tocnumber">2.2.1</span> <span class="toctext">Exploring sense and language</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Influences"><span class="tocnumber">2.2.2</span> <span class="toctext">Influences</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Other_philosophical_positions"><span class="tocnumber">2.3</span> <span class="toctext">Other philosophical positions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Works"><span class="tocnumber">3</span> <span class="toctext">Works</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Further_reading"><span class="tocnumber">5</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Life">Life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thomas_Reid&amp;action=edit&amp;section=1" title="Edit section: Life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He was born in the manse at <a href="/wiki/Strachan,_Aberdeenshire" title="Strachan, Aberdeenshire">Strachan, Aberdeenshire</a>, on 26 April 1710 <a href="/wiki/Old_Style" class="mw-redirect" title="Old Style">OS</a>, the son of Lewis Reid (1676–1762) and his wife Margaret Gregory, first cousin to <a href="/wiki/James_Gregory_(mathematician)" title="James Gregory (mathematician)">James Gregory</a>. He was educated at <a href="/wiki/Kincardine" title="Kincardine">Kincardine</a> Parish School then the O'Neil Grammar School in Kincardine.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>He went to the <a href="/wiki/University_of_Aberdeen" title="University of Aberdeen">University of Aberdeen</a> in 1723 and graduated MA in 1726 (the young age was normal at that time). He was licensed to preach by the <a href="/wiki/Church_of_Scotland" title="Church of Scotland">Church of Scotland</a> in 1731, when he came of age. He began his career as a <a href="/wiki/Minister_(Christianity)" title="Minister (Christianity)">minister</a> of the <a href="/wiki/Church_of_Scotland" title="Church of Scotland">Church of Scotland</a> but ceased to be a minister when he was given a professorship at <a href="/wiki/King%27s_College,_Aberdeen" title="King&#39;s College, Aberdeen">King's College, Aberdeen</a>, in 1752. He obtained his doctorate and wrote <i>An Inquiry Into the Human Mind on the Principles of Common Sense</i> (published in 1764). He and his colleagues founded the 'Aberdeen Philosophical Society' which was popularly known as the 'Wise Club' (a literary-philosophical association).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>  Shortly after the publication of his first book, he was given the prestigious <a href="/wiki/Professor_of_Moral_Philosophy,_Glasgow" class="mw-redirect" title="Professor of Moral Philosophy, Glasgow">Professorship of Moral Philosophy</a> at the <a href="/wiki/University_of_Glasgow" title="University of Glasgow">University of Glasgow</a> when he was called to replace <a href="/wiki/Adam_Smith" title="Adam Smith">Adam Smith</a>. He resigned from this position in 1781, after which he prepared his university lectures for publication in two books: <i>Essays on the Intellectual Powers of Man</i> (1785) and <i>Essays on the Active Powers of the Human Mind</i> (1788). Reid was buried at Blackfriars Church in the grounds of <a href="/wiki/Glasgow_University" class="mw-redirect" title="Glasgow University">Glasgow College</a> and when the university moved to Gilmorehill in the west of Glasgow, his tombstone was inserted in the main building. See separate article on <a href="/wiki/Thomas_Reid%27s_tombstone" title="Thomas Reid&#39;s tombstone">Thomas Reid's tombstone</a>.
+</p>
+<h2><span class="mw-headline" id="Philosophical_work">Philosophical work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thomas_Reid&amp;action=edit&amp;section=2" title="Edit section: Philosophical work">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thomas_Reid&amp;action=edit&amp;section=3" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Reid believed that <a href="/wiki/Common_sense" title="Common sense">common sense</a> (in a special philosophical sense of <i><a href="/wiki/Sensus_communis" class="mw-redirect" title="Sensus communis">sensus communis</a></i>) is, or at least should be, at the foundation of all philosophical inquiry.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> He disagreed with Hume, who asserted that we can never know what an external world consists of as our knowledge is limited to the ideas in the mind, and <a href="/wiki/George_Berkeley" title="George Berkeley">George Berkeley</a>, who asserted that the external world is merely ideas in the mind. By contrast, Reid claimed that the foundations upon which our <i>sensus communis</i> are built justify our belief that there is an external world.
+</p><p>In his day and for some years into the 19th century, he was regarded as more important than Hume.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> He advocated <a href="/wiki/Direct_realism" class="mw-redirect" title="Direct realism">direct realism</a>, or <a href="/wiki/Na%C3%AFve_realism" title="Naïve realism">common sense realism</a>, and argued strongly against the <a href="/wiki/Idealism" title="Idealism">Theory of Ideas</a> advocated by <a href="/wiki/John_Locke" title="John Locke">John Locke</a>, <a href="/wiki/Ren%C3%A9_Descartes" title="René Descartes">René Descartes</a>, and (in varying forms) nearly all <a href="/wiki/17th-century_philosophy" title="17th-century philosophy">Early Modern philosophers</a> who came after them. He had a great admiration for Hume and had a mutual friend send Hume an early manuscript of Reid's <i>Inquiry.</i> Hume responded that the "deeply philosophical" work "is wrote in a lively and entertaining matter," but that "there seems to be some defect in method," and criticized Reid for implying the presence of innate ideas.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h3><span id="Thomas_Reid.27s_theory_of_common_sense"></span><span class="mw-headline" id="Thomas_Reid's_theory_of_common_sense">Thomas Reid's theory of common sense</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thomas_Reid&amp;action=edit&amp;section=4" title="Edit section: Thomas Reid&#039;s theory of common sense">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>His theory of knowledge had a strong influence on his theory of morals. He thought <a href="/wiki/Epistemology" title="Epistemology">epistemology</a> was an introductory part to practical ethics: When we are confirmed in our common beliefs by philosophy, all we have to do is to act according to them, because we know what is right. His moral philosophy is reminiscent of Roman <a href="/wiki/Stoicism" title="Stoicism">stoicism</a> in its emphasis on the agency of the subject and self-control. He often quotes <a href="/wiki/Cicero" title="Cicero">Cicero</a>, from whom he adopted the term "<a href="/wiki/Sensus_communis" class="mw-redirect" title="Sensus communis">sensus communis</a>". Reid's answer to Hume's sceptical and naturalist arguments was to enumerate a set of principles of <i>common sense</i> (<i>sensus communis</i>) which constitute the foundations of rational thought. Anyone who undertakes a philosophical argument, for example, must implicitly presuppose certain beliefs like, "I am talking to a real person," and "There is an external world whose laws do not change," among many other positive, substantive claims. For Reid, the belief in the truth of these principles is not rational; rather, reason itself demands these principles as prerequisites, as does the innate "constitution" of the human mind. It is for this reason (and possibly a mocking attitude toward Hume and Berkeley) that Reid sees belief in the principles of common sense as a litmus test for sanity. For example, in <i>The Intellectual Powers of Man</i> he states, "For, before men can reason together, they must agree in first principles; and it is impossible to reason with a man who has no principles in common with you." One of the first principles he goes on to list is that "qualities must necessarily be in something that is figured, coloured, hard or soft, that moves or resists.  It is not to these qualities, but to that which is the subject of them, that we give the name body.  If any man should think fit to deny that these things are qualities, or that they require any subject, I leave him to enjoy his opinion as a man who denies first principles, and is not fit to be reasoned with."
+</p><p>Reid also made positive arguments based in phenomenological insight to put forth a novel mixture of <a href="/wiki/Direct_realism" class="mw-redirect" title="Direct realism">direct realism</a> and <a href="/wiki/Ordinary_language_philosophy" title="Ordinary language philosophy">ordinary language philosophy</a>. In a typical passage in the <i>Intellectual Powers</i> he asserts that when he has a conception of a centaur, the thing he conceives is an animal, and no idea is an animal; therefore, the thing he conceives is not an idea, but a centaur. This point relies both on an account of the subjective experience of conceiving an object and also on an account of what we mean when we use words. Because Reid saw his philosophy as publicly accessible knowledge, available both through introspection and the proper understanding of how language is used, he saw it as the philosophy of common sense.
+</p>
+<h4><span class="mw-headline" id="Exploring_sense_and_language">Exploring sense and language</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thomas_Reid&amp;action=edit&amp;section=5" title="Edit section: Exploring sense and language">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Reid started out with a 'common sense' based on a direct experience of an external reality but then proceeded to explore in two directions - external to the senses, and internal to human language - to find a more rational basis.
+</p><p>In the case of the latter, Reid saw this as based on an innate capacity pre-dating human consciousness, and acting as an instrument for that consciousness. Also, language then becomes a means of examining the original form of human cognition. Reid notes that current human language contains two distinct elements: first, the acoustic element and secondly the meanings which seem to have nothing to do with the sounds as such. This state of the language, which he calls 'artificial', cannot be the primeval one, which he terms 'natural', wherein sound was not an abstract sign, but a concrete gesture or natural sign. Reid looks to the way a child learns the language, by imitating sounds, becoming aware of them long before it understands the meaning accorded to the various groups of sounds in the artificial state of contemporary adult speech. If, says Reid, the child was to understand immediately the conceptual content of the words it hears, it would never learn to speak at all. Here Reid distinguishes between natural and artificial signs.
+</p>
+<dl><dd>'It is by natural signs chiefly that we give force and energy to language; and the less language has of them, it is the less expressive and persuasive. ... Artificial signs signify, but they do not express; they speak to the intellect, as algebraic characters may do, but the passions and the affections and the will hear them not: these continue dormant and inactive, till we speak to them in <i>the language of nature</i>, to which they are all attention and obedience.' (p. 52)<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup></dd></dl>
+<p>As regards the former, Reid was led to his critical distinction between '<a href="/wiki/Sense" title="Sense">sensation</a>' and '<a href="/wiki/Perception" title="Perception">perception</a>'. While we become aware of an object through the senses, the content of that perception is not identical with the sum total of the sensations caused in our consciousness. Thus, while we tend to focus on the object perceived, we pay no attention to the process leading from sensation to perception, which contains the knowledge of the thing as real. How, then, do we receive the conviction of the latter's existence? Reid's answer is, by entering into an immediate intuitive relationship with it, as a child does. In the case of the adult, the focus is on perceiving, but with the child, it is on receiving of the sensations in their living nature. For Reid, the perception of the child is different from the adult, and he states that man must become like a child to get past the artificial perception of the adult, which leads to <a href="/wiki/David_Hume_(philosopher)" class="mw-redirect" title="David Hume (philosopher)">Hume's</a> view that what we perceive is an illusion. Also, the artist provides a key to the true content of <a href="/wiki/Empirical_evidence" title="Empirical evidence">sense experience</a>, as he engages the 'language of nature'.
+</p>
+<dl><dd>'It were easy to show, that the fine arts of the musician, the painter, the actor, and the orator, so far as they are expressive... are nothing else but the language of nature, which we brought into the world with us, but have unlearned by disuse and so find the greatest difficulty in recovering it. (p. 53)<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup></dd></dl>
+<dl><dd>That without a natural knowledge of the connection between these [natural] signs and the things signified by them, the language could never have been invented and established among men; and, That the fine arts are all founded upon this connection, which we may call the natural language of mankind." (p. 59)<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup></dd></dl>
+<p>Thus, for Reid, common sense was based on the innate capacity of man in an earlier epoch to directly participate in nature, and one we find to some extent in the child and artist, but one that from a philosophical and scientific perspective, we must re-awaken at a higher level in the human mind above nature. Why does Reid believe that perception is the way to recognize? Well, to him “an experience is purely subjective and purely negative. It supports the validity of a proposition, only on the fact that I find that it is impossible for me not to hold it for true, to suppose it therefore not true” (Reid, 753). To understand this better, it is important to know that Reid divides his definition of perception into two categories: conception, and belief. “Conception is Reid’s way of saying to visualize an object, so then we can affirm or deny qualities about that thing. Reid believes that beliefs are our direct thoughts of an object, and what that object is” (Buras, The Functions of Sensations to Reid). So, to Reid, what we see, what we visualize, what we believe of an object, is that object’s true reality. Reid believes in direct objectivity, our senses guide us to what is right since we cannot trust our own thoughts. “The worlds of common sense and of philosophy are reciprocally the converse of each other” (Reid, 841). Reid believes that Philosophy overcomplicates the question of what is real. So, what does Common Sense actually mean then? Well, “common sense is the senses being pulled all together to form one idea” (Cambridge Companion to Thomas Reid, 164). Common sense (all the senses combined) is how we truly identify the reality of an object; since all that can be perceived about an object, are all pulled into one perception. How do people reach the point of accessing common sense? That’s the trick, everyone is born with the ability to access common sense, that is why it is called common sense. “The principles of common sense are common to all of humanity,” (Nichols, Ryan, Yaffe, and Gideon, Thomas Reid).
+Common sense works as such: If all men observe an item and believe the same qualities about that item, then the knowledge of that item is universally true. It is common knowledge, with without explanation is held true by other people; so, what is universally seen is universally believed. “The real, then, is that which, sooner or later, information and reasoning would finally result in, and which is therefore independent of the vagaries of me and you. Thus, the very origin of the conception of reality shows that this conception essentially involves the notion of a community, without definite limits, and capable of a definite increase of knowledge,” (Reid, 155). The combination of the same ideas, of a thing, by multiple people, is what confirms the reality of an object. Reid also believes that the philosophers of his time overexaggerated what is truly real. Where most philosophers believe that what we see is not fully what that thing is, for example, Descartes. Reid counters this argument simply by stating that this assumption “that such a hypothesis is no more likely to be true than the common-sensical belief that the world is much the way we perceive it to be,” (Nichols, Ryan, Yaffe, and Gideon, Thomas Reid). Reality is what we make it out to be, nothing more.
+</p><p>Reid also claimed that this discovery of the link between the natural sign and the thing signified was the basis of natural philosophy and science, as pointed out by <a href="/wiki/Francis_Bacon" title="Francis Bacon">Bacon</a> in his new method of discovery of the innate laws of nature.
+</p>
+<dl><dd>The great Lord Verulam had a perfect comprehension of this when we called it an interpretation of nature. No man ever more distinctly understood, or happily expressed the nature and foundation of the philosophic art. What is all we know of mechanics, astronomy, and optics, but connections established by nature and discovered by experience or observation, and consequences deduced from them? …What we commonly call natural causes might, with more propriety, be called natural signs, and what we call effects, the things signified…[as]all we can certainly affirm, is, that nature hath established a constant conjunction between them and the things called their effects." (p. 59)<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup></dd></dl>
+<h4><span class="mw-headline" id="Influences">Influences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thomas_Reid&amp;action=edit&amp;section=6" title="Edit section: Influences">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>It has been claimed that his reputation waned after attacks on the <a href="/wiki/Scottish_School_of_Common_Sense" class="mw-redirect" title="Scottish School of Common Sense">Scottish School of Common Sense</a> by <a href="/wiki/Immanuel_Kant" title="Immanuel Kant">Immanuel Kant</a> (although Kant, only 14 years Reid's junior, also bestowed much praise on Scottish philosophy - Kant attacked the work of Reid, but admitted he had never actually read the works of Thomas Reid) and by <a href="/wiki/John_Stuart_Mill" title="John Stuart Mill">John Stuart Mill</a>.  But Reid's was the philosophy taught in the colleges of North America during the 19th century and was championed by <a href="/wiki/Victor_Cousin" title="Victor Cousin">Victor Cousin</a>, a French philosopher. Justus Buchler has shown that Reid was an important influence on the American philosopher <a href="/wiki/Charles_Sanders_Peirce" title="Charles Sanders Peirce">Charles Sanders Peirce</a>, who shared Reid's concern to revalue common sense and whose work links Reid to <a href="/wiki/Pragmatism" title="Pragmatism">pragmatism</a>. To Peirce, conceptions of truth and the real involve the notion of a community without definite limits (and thus potentially self-correcting as far as needed), and capable of a definite increase of knowledge.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> Common sense is socially evolved, open to verification much like scientific method, and constantly evolving, as evidence, perception, and practice warrant, albeit with a slowness that Peirce came only in later years to see, at which point he owned his "adhesion, under inevitable modification, to the opinion of...Thomas Reid, in the matter of Common Sense"<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> (Peirce called his version "critical common-sensism"). By contrast, on Reid's concept, the <i>sensus communis</i> is not a social evolutionary product but rather a precondition of the possibility that humans could reason with each other. The work of Thomas Reid influenced the work of Noah Porter and James McCosh in the 19th century United States and is based upon the claim of universal principles of objective truth, Pragmatism is not the development of the work of the Scottish "Common Sense" School - it is the negation of it. There are clear links between the work of the Scottish Common Sense School and the work of the Oxford Realist philosophers Harold Prichard and Sir William David Ross in the 20th century.
+</p><p>Reid's reputation has revived in the wake of the advocacy of common sense as a philosophical method or criterion by <a href="/wiki/G._E._Moore" title="G. E. Moore">G. E. Moore</a> early in the 20th century, and more recently because of the attention given to Reid by contemporary philosophers, in particular philosophers of religion in the school of <a href="/wiki/Reformed_epistemology" title="Reformed epistemology">Reformed epistemology</a> such as <a href="/wiki/William_Alston" title="William Alston">William Alston</a>,<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> <a href="/wiki/Alvin_Plantinga" title="Alvin Plantinga">Alvin Plantinga</a>, and <a href="/wiki/Nicholas_Wolterstorff" title="Nicholas Wolterstorff">Nicholas Wolterstorff</a>,<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> seeking to rebut charges that theistic belief is irrational where it has no doxastic foundations (that is, where that belief is not inferred from other adequately grounded beliefs).
+</p><p>He wrote a number of important philosophical works, including <i>Inquiry into the Human Mind on the Principles of Common Sense</i> (1764, Glasgow &amp; London), <i>Essays on the Intellectual Powers of Man</i> (1785) and <i>Essays on the Active Powers of Man</i> (1788). In 1844, <a href="/wiki/Schopenhauer" class="mw-redirect" title="Schopenhauer">Schopenhauer</a> praised Reid for explaining that the perception of external objects does not result from the raw data that is received through the five senses:
+</p>
+<style data-mw-deduplicate="TemplateStyles:r856303468">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>Thomas Reid's excellent book, <i>Inquiry into the Human Mind</i>... affords us a very thorough conviction of the inadequacy of the <i><a href="/wiki/Sense" title="Sense">senses</a></i> for producing the objective <a href="/wiki/Perception" title="Perception">perception</a> of things, and also of the non-empirical origin of the intuition of <a href="/wiki/Space" title="Space">space</a> and <a href="/wiki/Time" title="Time">time</a>. Reid refutes Locke's teaching that perception is a product of the <i>senses</i>. This he does by a thorough and acute demonstration that the collective sensations of the senses do not bear the least resemblance to the world known through perception, and in particular by showing that Locke's five primary qualities (extension, figure, solidity, movement, number) cannot possibly be supplied to us by any sensation of the senses...</p><div class="templatequotecite">—&#8201;<cite><i><a href="/wiki/The_World_as_Will_and_Representation" title="The World as Will and Representation">The World as Will and Representation</a></i>, Vol. II, Ch. 2</cite></div>
+</blockquote>
+<h3><span class="mw-headline" id="Other_philosophical_positions">Other philosophical positions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thomas_Reid&amp;action=edit&amp;section=7" title="Edit section: Other philosophical positions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Though known mainly for his epistemology, Reid is also noted for his views in the <a href="/wiki/Action_theory_(philosophy)" title="Action theory (philosophy)">theory of action</a> and the metaphysics of <a href="/wiki/Personal_identity" title="Personal identity">personal identity</a>. Reid held an <a href="/wiki/Incompatibilism" title="Incompatibilism">incompatibilist</a> or libertarian notion of freedom, holding that we are capable of free actions of which we are the cause, and for which we are morally appraisable.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>  Regarding personal identity,  he rejected Locke's account that self-consciousness in the form of memory of one's experiences was the basis of a person's being identical with their self over time. Reid held that continuity of memory was neither necessary nor sufficient to make one numerically the same person at different times.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Works">Works</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thomas_Reid&amp;action=edit&amp;section=8" title="Edit section: Works">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>1764. <a rel="nofollow" class="external text" href="http://www.earlymoderntexts.com/pdfs/reid1764.pdf"><i>An Inquiry into the Human Mind on the Principles of Common Sense (translated to modern English)</i></a>. (<a rel="nofollow" class="external text" href="https://archive.org/download/inquiryintohuman00reidiala/inquiryintohuman00reidiala.pdf">Facsimile of the 1823 edition</a>)</li>
+<li>1785. <i>Essays on the Intellectual Powers of Man</i>. (<a rel="nofollow" class="external text" href="https://archive.org/download/essaysonintellec02reiduoft/essaysonintellec02reiduoft.pdf">Facsimile</a>)</li>
+<li>1788. <i>Essays on the Active Powers of the Human Mind</i>. <a rel="nofollow" class="external text" href="https://archive.org/download/essaysontheactiv00reiduoft/essaysontheactiv00reiduoft.pdf">Facsimile</a>)</li></ul>
+<p>Until recently the standard edition of the <i>Inquiry</i> and the <i>Essays</i> has been the sixth edition of William Hamilton (ed.), Edinburgh: Maclachlan and Stewart, 1863. A new critical edition of these titles, plus correspondence and other important material, is being brought out by Edinburgh University Press as The Edinburgh Edition of Thomas Reid. An accessible selection from Hamilton's 6th ed. is <i>Thomas Reid's Inquiry and Essays</i>, ed. Ronald Beanblossom and Keith Lehrer, Indianapolis, In: Hackett, 1983.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thomas_Reid&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><i>Selections from the Scottish Philosophy of Common Sense</i>, ed. by G. A. Johnston (1915), essays by Thomas Reid, <a href="/wiki/Adam_Ferguson" title="Adam Ferguson">Adam Ferguson</a>, James Beattie, and Dugald Stewart (<a rel="nofollow" class="external text" href="http://oll.libertyfund.org/index.php?option=com_staticxt&amp;staticfile=show.php%3Ftitle=2044&amp;Itemid=28">online version</a>).</span>
+</li>
+<li id="cite_note-SEP-FTJ-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-SEP-FTJ_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Fumerton, Richard (21 February 2000). <a rel="nofollow" class="external text" href="http://plato.stanford.edu/entries/justep-foundational/#4">"Foundationalist Theories of Epistemic Justification"</a>. Stanford Encyclopedia of Philosophy<span class="reference-accessdate">. Retrieved <span class="nowrap">August 19,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Foundationalist+Theories+of+Epistemic+Justification&amp;rft.pub=Stanford+Encyclopedia+of+Philosophy&amp;rft.date=2000-02-21&amp;rft.au=Fumerton%2C+Richard&amp;rft_id=http%3A%2F%2Fplato.stanford.edu%2Fentries%2Fjustep-foundational%2F%234&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThomas+Reid" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Patrick Rysiew, <i>New Essays on Thomas Reid</i>, Routledge, 2017, p. 18.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">M. T. Dalgarno, E. H. Matthews (eds.), <i>The Philosophy of Thomas Reid</i>, Springer, 2012, p. 195.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">See Craig G. Bartholomew and Michael W. Goheen, <i>Christian Philosophy</i> page 138 (Baker Academic, 2013).</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://www.royalsoced.org.uk/cms/files/fellows/biographical_index/fells_indexp2.pdf"><i>Biographical Index of Former Fellows of the Royal Society of Edinburgh 1783–2002</i></a> <span class="cs1-format">(PDF)</span>. The Royal Society of Edinburgh. July 2006. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0_902_198_84_X" title="Special:BookSources/0 902 198 84 X">0 902 198 84 X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Biographical+Index+of+Former+Fellows+of+the+Royal+Society+of+Edinburgh+1783%E2%80%932002&amp;rft.pub=The+Royal+Society+of+Edinburgh&amp;rft.date=2006-07&amp;rft.isbn=090219884X&amp;rft_id=https%3A%2F%2Fwww.royalsoced.org.uk%2Fcms%2Ffiles%2Ffellows%2Fbiographical_index%2Ffells_indexp2.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThomas+Reid" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">See H. Lewis Ulman, <i>The Minutes of the Aberdeen Philosophical Society 1758-1773</i> (Aberdeen University Press for Aberdeen University Studies Committee, 1990).</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://plato.stanford.edu/entries/reid/">"Thomas Reid"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Thomas+Reid&amp;rft_id=http%3A%2F%2Fplato.stanford.edu%2Fentries%2Freid%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThomas+Reid" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">See Craig G. Bartholomew and Michael W. Goheen, <i>Christian Philosophy</i> page 138 (Baker Academic, 2013).</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Thomas Reid. <i>An Inquiry into the Human Mind on the Principles of Common Sense.</i> Ed. Derek R Brookes. Edinburgh: <a href="/wiki/Edinburgh_University_Press" title="Edinburgh University Press">Edinburgh University Press</a>, 1997. p. 255</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Thomas Reid. <i>An Inquiry into the Human Mind on the Principles of Common Sense.</i> Ed. Derek R Brookes. Edinburgh: <a href="/wiki/Edinburgh_University_Press" title="Edinburgh University Press">Edinburgh University Press</a>, 1997</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Thomas Reid. <i>An Inquiry into the Human Mind on the Principles of Common Sense.</i> Ed. Derek R Brookes. Edinburgh: <a href="/wiki/Edinburgh_University_Press" title="Edinburgh University Press">Edinburgh University Press</a>, 1997</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Thomas Reid. <i>An Inquiry into the Human Mind on the Principles of Common Sense.</i> Ed. Derek R Brookes. Edinburgh: <a href="/wiki/Edinburgh_University_Press" title="Edinburgh University Press">Edinburgh University Press</a>, 1997</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Thomas Reid. <i>An Inquiry into the Human Mind on the Principles of Common Sense.</i> Ed. Derek R Brookes. Edinburgh: <a href="/wiki/Edinburgh_University_Press" title="Edinburgh University Press">Edinburgh University Press</a>, 1997</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Peirce, C. S. (1868), "Some Consequences of Four Incapacities", <i>Journal of Speculative Philosophy</i> 2, pp. 140–157, see <a rel="nofollow" class="external text" href="https://books.google.com/books?id=YHkqP2JHJ_IC&amp;pg=RA1-PA155">p. 155 via Google Books</a>. Reprinted, <i>Collected Papers</i> v. 5, paragraphs 264–317 (see 311), <i>Writings</i> v. 2, pp. 211–42 (see 239), <i>Essential Peirce</i> v. 1, pp. 28–55 (see 52).</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Peirce, C. S. (1905), "Issues of Pragmaticism", <i>The Monist</i>, v. XV, n. 4, pp. 481–99, see pp. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=j6oLAAAAIAAJ&amp;pg=RA1-PA501-IA3">484–5 via Google Books</a>. Reprinted, <i>Collected Papers</i> v. 5, paragraphs 438–63 (see 444), <i>Essential Peirce</i> v. 2, pp. 346–59 (see 349).</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Alston invokes Reid in his <i>Perceiving God: The Epistemology of Religious Experience</i> (Ithaca, NY: Cornell University Press, 19991) pp. 151–155; 162–165.</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">For Wolterstorff's use of Reid in aid of Reformed Epistemology, see his "Can Belief in God be Rational if it has no Foundations?" in <i>Faith and Rationality</i> (Notre Dame, IN: Notre Dame University Press, 1983)</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><i>Essays on the Active Powers</i>, "Essay Four: Of the Liberty of Moral Agents"</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><i>Essays on the Intellectual Powers</i>, "Essay Three: Of Memory".</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thomas_Reid&amp;action=edit&amp;section=10" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Stephen_Francis_Barker" class="mw-redirect" title="Stephen Francis Barker">Barker, Stephen</a> and Tom Beauchamp, eds., <i>Thomas Reid: Critical Interpretations</i>, University City Science Center, 1976.</li>
+<li>Terence Cuneo, René van Woudenberg (eds.), <i>The Cambridge Companion to Thomas Reid</i>, Cambridge: Cambridge University Press, 2004.</li>
+<li>Daniels, Norman. <i>Thomas Reid's</i> Inquiry:<i>The Geometry of Visibles and the Case for Realism</i>. Stanford, CA: Stanford University Press.</li>
+<li>Davis, William C., <i>Thomas Reid's Ethics: Moral Epistemology on Legal Foundations</i>. Continuum International, 2006. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8264-8809-9" title="Special:BookSources/0-8264-8809-9">0-8264-8809-9</a></li>
+<li>Ducheyne, Steffen. "Reid's Adaptation and Radicalization of Newton's Natural Philosophy". <i>History of European Ideas</i> 32 (2006) 173–189.</li>
+<li>Roger D. Gallie, <i>Thomas Reid and the Way of Ideas</i>, Dordrecht: Kluwer, 1989.</li>
+<li>Haldane, John. "Reid, Scholasticism, and Current Philosophy of Mind" in M. Delgano and E. Matthews, eds., <i>The Philosophy of Thomas Reid</i>. Dordrecht: Kluwer, 1989.</li>
+<li>Lehrer, Keith. <i>Thomas Reid</i>. London: Routledge, 1989.</li>
+<li>Rowe, William. <i>Thomas Reid on Freedom and Morality</i>. Ithaca, NY: Cornell University Press, 1991.</li>
+<li>Wolterstorff, N. <i>Thomas Reid and the Story of Epistemology</i>. Cambridge: Cambridge University Press, 2001.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thomas_Reid&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" width="38" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has the text of the <a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">1911 <i>Encyclopædia Britannica</i></a> article  <i><b><a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Reid,_Thomas" class="extiw" title="wikisource:1911 Encyclopædia Britannica/Reid, Thomas">Reid, Thomas</a></b></i>.</td></tr></tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Thomas_Reid_(philosopher)" class="extiw" title="commons:Category:Thomas Reid (philosopher)">Thomas Reid (philosopher)</a></b></i>.</td></tr></tbody></table>
+<ul><li><cite class="citation encyclopaedia"><a href="/wiki/Edward_N._Zalta" title="Edward N. Zalta">Zalta, Edward N.</a> (ed.). <a rel="nofollow" class="external text" href="https://plato.stanford.edu/entries/reid/">"Thomas Reid"</a>. <i><a href="/wiki/Stanford_Encyclopedia_of_Philosophy" title="Stanford Encyclopedia of Philosophy">Stanford Encyclopedia of Philosophy</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Thomas+Reid&amp;rft.btitle=Stanford+Encyclopedia+of+Philosophy&amp;rft_id=https%3A%2F%2Fplato.stanford.edu%2Fentries%2Freid%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThomas+Reid" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite class="citation encyclopaedia"><a rel="nofollow" class="external text" href="http://www.iep.utm.edu/reidmind">"Thomas Reid's Philosophy of Mind"</a>. <i><a href="/wiki/Internet_Encyclopedia_of_Philosophy" title="Internet Encyclopedia of Philosophy">Internet Encyclopedia of Philosophy</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Thomas+Reid%27s+Philosophy+of+Mind&amp;rft.btitle=Internet+Encyclopedia+of+Philosophy&amp;rft_id=http%3A%2F%2Fwww.iep.utm.edu%2Freidmind&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThomas+Reid" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite class="citation encyclopaedia"><a rel="nofollow" class="external text" href="http://www.iep.utm.edu/reid-act">"Thomas Reid's Theory of Action"</a>. <i><a href="/wiki/Internet_Encyclopedia_of_Philosophy" title="Internet Encyclopedia of Philosophy">Internet Encyclopedia of Philosophy</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Thomas+Reid%27s+Theory+of+Action&amp;rft.btitle=Internet+Encyclopedia+of+Philosophy&amp;rft_id=http%3A%2F%2Fwww.iep.utm.edu%2Freid-act&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThomas+Reid" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><a rel="nofollow" class="external text" href="http://www.abdn.ac.uk/historic/Thomas_Reid/">The Papers of Thomas Reid</a> at the <a href="/wiki/University_of_Aberdeen" title="University of Aberdeen">University of Aberdeen</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.euppublishing.com/series/eetr">The Edinburgh Edition of Thomas Reid</a> – critical edition of Reid's philosophical treatises and previously unpublished materials</li>
+<li><a rel="nofollow" class="external text" href="http://www.earlymoderntexts.com">Reid's Inquiry into the Human Mind, Essays on the Active Powers..., and Essays on the Intellectual powers...</a>, slightly modified for easier reading.</li>
+<li><a rel="nofollow" class="external text" href="https://books.google.com/books?q=inauthor%3Athomas+inauthor%3Areid">Thomas Reid at Google Books</a></li>
+<li><a rel="nofollow" class="external text" href="https://archive.org/search.php?query=%28%28subject%3A%22Reid%2C%20Thomas%22%20OR%20subject%3A%22Thomas%20Reid%22%20OR%20creator%3A%22Reid%2C%20Thomas%22%20OR%20creator%3A%22Thomas%20Reid%22%20OR%20creator%3A%22Reid%2C%20T%2E%22%20OR%20title%3A%22Thomas%20Reid%22%20OR%20description%3A%22Reid%2C%20Thomas%22%20OR%20description%3A%22Thomas%20Reid%22%29%20OR%20%28%221710-1796%22%20AND%20Reid%29%29%20AND%20%28-mediatype:software%29">Works by or about Thomas Reid</a> at <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a></li>
+<li><a rel="nofollow" class="external text" href="https://librivox.org/author/6149">Works by Thomas Reid</a> at <a href="/wiki/LibriVox" title="LibriVox">LibriVox</a> (public domain audiobooks) <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Speaker_Icon.svg/15px-Speaker_Icon.svg.png" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Speaker_Icon.svg/23px-Speaker_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Speaker_Icon.svg/30px-Speaker_Icon.svg.png 2x" data-file-width="500" data-file-height="500" /></li>
+<li><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/programmes/b007qhbn">Common Sense Philosophy</a>, BBC Radio 4 discussion with A.C. Grayling, Melissa Lane &amp; Alexander Broadie (<i>In Our Time</i>, June 21, 2007)</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="The_Age_of_Enlightenment" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Age_of_Enlightenment" title="Template:Age of Enlightenment"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Age_of_Enlightenment" title="Template talk:Age of Enlightenment"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Age_of_Enlightenment&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="The_Age_of_Enlightenment" style="font-size:114%;margin:0 4em">The <a href="/wiki/Age_of_Enlightenment" title="Age of Enlightenment">Age of Enlightenment</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Topics" style="font-size:114%;margin:0 4em">Topics</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Atheism_during_the_Age_of_Enlightenment" title="Atheism during the Age of Enlightenment">Atheism</a></li>
+<li><a href="/wiki/Capitalism" title="Capitalism">Capitalism</a></li>
+<li><a href="/wiki/Civil_liberties" title="Civil liberties">Civil liberties</a></li>
+<li><a href="/wiki/Counter-Enlightenment" title="Counter-Enlightenment">Counter-Enlightenment</a></li>
+<li><a href="/wiki/Critical_thinking" title="Critical thinking">Critical thinking</a></li>
+<li><a href="/wiki/Deism" title="Deism">Deism</a></li>
+<li><a href="/wiki/Democracy" title="Democracy">Democracy</a></li>
+<li><a href="/wiki/Empiricism" title="Empiricism">Empiricism</a></li>
+<li><i lang="fr" title="French language text"><a href="/wiki/Encyclop%C3%A9distes" title="Encyclopédistes">Encyclopédistes</a></i></li>
+<li><a href="/wiki/Enlightened_absolutism" title="Enlightened absolutism">Enlightened absolutism</a></li>
+<li><a href="/wiki/Free_market" title="Free market">Free markets</a></li>
+<li><i lang="he-Latn" title="Hebrew language text"><a href="/wiki/Haskalah" title="Haskalah">Haskalah</a></i></li>
+<li><a href="/wiki/Humanism" title="Humanism">Humanism</a></li>
+<li><a href="/wiki/Human_rights" title="Human rights">Human rights</a></li>
+<li><a href="/wiki/Classical_liberalism" title="Classical liberalism">Liberalism</a></li>
+<li><i lang="fr" title="French language text"><a href="/wiki/Libert%C3%A9,_%C3%A9galit%C3%A9,_fraternit%C3%A9" title="Liberté, égalité, fraternité">Liberté, égalité, fraternité</a></i></li>
+<li><a href="/wiki/Cartesian_doubt" title="Cartesian doubt">Methodological skepticism</a></li>
+<li><a href="/wiki/Nationalism" title="Nationalism">Nationalism</a></li>
+<li><a href="/wiki/Natural_philosophy" title="Natural philosophy">Natural philosophy</a></li>
+<li><a href="/wiki/Objectivity_(philosophy)" title="Objectivity (philosophy)">Objectivity</a></li>
+<li><a href="/wiki/Rationality" title="Rationality">Rationality</a></li>
+<li><a href="/wiki/Rationalism" title="Rationalism">Rationalism</a></li>
+<li><a href="/wiki/Reason" title="Reason">Reason</a></li>
+<li><a href="/wiki/Reductionism" title="Reductionism">Reductionism</a></li>
+<li><i lang="la" title="Latin language text"><a href="/wiki/Sapere_aude" title="Sapere aude">Sapere aude</a></i></li>
+<li><a href="/wiki/Science" title="Science">Science</a></li>
+<li><a href="/wiki/Scientific_method" title="Scientific method">Scientific method</a></li>
+<li><a href="/wiki/Socialism" title="Socialism">Socialism</a></li>
+<li><a href="/wiki/Universality_(philosophy)" title="Universality (philosophy)">Universality</a></li>
+<li><a href="/wiki/Weimar_Classicism" title="Weimar Classicism">Weimar Classicism</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Thinkers" style="font-size:114%;margin:0 4em">Thinkers</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">France</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jean_le_Rond_d%27Alembert" title="Jean le Rond d&#39;Alembert">Jean le Rond d'Alembert</a></li>
+<li><a href="/wiki/%C3%89tienne_Bonnot_de_Condillac" title="Étienne Bonnot de Condillac">Étienne Bonnot de Condillac</a></li>
+<li><a href="/wiki/Marquis_de_Condorcet" title="Marquis de Condorcet">Marquis de Condorcet</a></li>
+<li><a href="/wiki/Denis_Diderot" title="Denis Diderot">Denis Diderot</a></li>
+<li><a href="/wiki/Claude_Adrien_Helv%C3%A9tius" title="Claude Adrien Helvétius">Claude Adrien Helvétius</a></li>
+<li><a href="/wiki/Baron_d%27Holbach" title="Baron d&#39;Holbach">Baron d'Holbach</a></li>
+<li><a href="/wiki/Georges-Louis_Leclerc,_Comte_de_Buffon" title="Georges-Louis Leclerc, Comte de Buffon">Georges-Louis Leclerc</a></li>
+<li><a href="/wiki/Montesquieu" title="Montesquieu">Montesquieu</a></li>
+<li><a href="/wiki/Fran%C3%A7ois_Quesnay" title="François Quesnay">François Quesnay</a></li>
+<li><a href="/wiki/Jean-Jacques_Rousseau" title="Jean-Jacques Rousseau">Jean-Jacques Rousseau</a></li>
+<li><a href="/wiki/Marquis_de_Sade" title="Marquis de Sade">Marquis de Sade</a></li>
+<li><a href="/wiki/Voltaire" title="Voltaire">Voltaire</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Germany</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Johann_Wolfgang_von_Goethe" title="Johann Wolfgang von Goethe">Johann Wolfgang von Goethe</a></li>
+<li><a href="/wiki/Johann_Georg_Hamann" title="Johann Georg Hamann">Johann Georg Hamann</a></li>
+<li><a href="/wiki/Johann_Gottfried_Herder" title="Johann Gottfried Herder">Johann Gottfried von Herder</a></li>
+<li><a href="/wiki/Friedrich_Heinrich_Jacobi" title="Friedrich Heinrich Jacobi">Friedrich Heinrich Jacobi</a></li>
+<li><a href="/wiki/Immanuel_Kant" title="Immanuel Kant">Immanuel Kant</a></li>
+<li><a href="/wiki/Gotthold_Ephraim_Lessing" title="Gotthold Ephraim Lessing">Gotthold Ephraim Lessing</a></li>
+<li><a href="/wiki/Moses_Mendelssohn" title="Moses Mendelssohn">Moses Mendelssohn</a></li>
+<li><a href="/wiki/Friedrich_Schiller" title="Friedrich Schiller">Friedrich Schiller</a></li>
+<li><a href="/wiki/Thomas_Wizenmann" title="Thomas Wizenmann">Thomas Wizenmann</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Modern_Greek_Enlightenment" title="Modern Greek Enlightenment">Greece</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Neophytos_Doukas" title="Neophytos Doukas">Neophytos Doukas</a></li>
+<li><a href="/wiki/Theoklitos_Farmakidis" title="Theoklitos Farmakidis">Theoklitos Farmakidis</a></li>
+<li><a href="/wiki/Rigas_Feraios" title="Rigas Feraios">Rigas Feraios</a></li>
+<li><a href="/wiki/Theophilos_Kairis" title="Theophilos Kairis">Theophilos Kairis</a></li>
+<li><a href="/wiki/Adamantios_Korais" title="Adamantios Korais">Adamantios Korais</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Ireland</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Robert_Boyle" title="Robert Boyle">Robert Boyle</a></li>
+<li><a href="/wiki/Edmund_Burke" title="Edmund Burke">Edmund Burke</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Italy</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cesare_Beccaria" title="Cesare Beccaria">Cesare Beccaria</a></li>
+<li><a href="/wiki/Gaetano_Filangieri" title="Gaetano Filangieri">Gaetano Filangieri</a></li>
+<li><a href="/wiki/Antonio_Genovesi" title="Antonio Genovesi">Antonio Genovesi</a></li>
+<li><a href="/wiki/Pietro_Verri" title="Pietro Verri">Pietro Verri</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">The Netherlands</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baruch_Spinoza" title="Baruch Spinoza">Spinoza</a></li>
+<li><a href="/wiki/Hugo_Grotius" title="Hugo Grotius">Hugo Grotius</a></li>
+<li><a href="/wiki/Balthasar_Bekker" title="Balthasar Bekker">Balthasar Bekker</a></li>
+<li><a href="/wiki/Bernard_Nieuwentyt" title="Bernard Nieuwentyt">Bernard Nieuwentyt</a></li>
+<li><a href="/wiki/Frederik_van_Leenhof" title="Frederik van Leenhof">Frederik van Leenhof</a></li>
+<li><a href="/wiki/Christiaan_Huygens" title="Christiaan Huygens">Christiaan Huygens</a></li>
+<li><a href="/wiki/Antonie_van_Leeuwenhoek" title="Antonie van Leeuwenhoek">Antonie van Leeuwenhoek</a></li>
+<li><a href="/wiki/Jan_Swammerdam" title="Jan Swammerdam">Jan Swammerdam</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Enlightenment_in_Poland" title="Enlightenment in Poland">Poland</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tadeusz_Czacki" title="Tadeusz Czacki">Tadeusz Czacki</a></li>
+<li><a href="/wiki/Hugo_Ko%C5%82%C5%82%C4%85taj" title="Hugo Kołłątaj">Hugo Kołłątaj</a></li>
+<li><a href="/wiki/Stanis%C5%82aw_Konarski" title="Stanisław Konarski">Stanisław Konarski</a></li>
+<li><a href="/wiki/Ignacy_Krasicki" title="Ignacy Krasicki">Ignacy Krasicki</a></li>
+<li><a href="/wiki/Julian_Ursyn_Niemcewicz" title="Julian Ursyn Niemcewicz">Julian Ursyn Niemcewicz</a></li>
+<li><a href="/wiki/Stanis%C5%82aw_August_Poniatowski" title="Stanisław August Poniatowski">Stanisław August Poniatowski</a></li>
+<li><a href="/wiki/J%C4%99drzej_%C5%9Aniadecki" title="Jędrzej Śniadecki">Jędrzej Śniadecki</a></li>
+<li><a href="/wiki/Stanis%C5%82aw_Staszic" title="Stanisław Staszic">Stanisław Staszic</a></li>
+<li><a href="/wiki/J%C3%B3zef_Wybicki" title="Józef Wybicki">Józef Wybicki</a></li>
+<li><a href="/wiki/Andrzej_Stanis%C5%82aw_Za%C5%82uski" title="Andrzej Stanisław Załuski">Andrzej Stanisław Załuski</a></li>
+<li><a href="/wiki/J%C3%B3zef_Andrzej_Za%C5%82uski" title="Józef Andrzej Załuski">Józef Andrzej Załuski</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Portugal</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sebasti%C3%A3o_Jos%C3%A9_de_Carvalho_e_Melo,_1st_Marquis_of_Pombal" title="Sebastião José de Carvalho e Melo, 1st Marquis of Pombal">Sebastião José de Carvalho e Melo</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Russian_Enlightenment" title="Russian Enlightenment">Russia</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Catherine_the_Great" title="Catherine the Great">Catherine II</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Enlightenment_in_Spain" title="Enlightenment in Spain">Spain</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Charles_III_of_Spain" title="Charles III of Spain">Charles III</a></li>
+<li><a href="/wiki/Benito_Jer%C3%B3nimo_Feij%C3%B3o_y_Montenegro" title="Benito Jerónimo Feijóo y Montenegro">Benito Jerónimo Feijóo y Montenegro</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">United Kingdom<br />(<a href="/wiki/Scottish_Enlightenment" title="Scottish Enlightenment">Scotland</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Francis_Bacon" title="Francis Bacon">Francis Bacon</a></li>
+<li><a href="/wiki/Jeremy_Bentham" title="Jeremy Bentham">Jeremy Bentham</a></li>
+<li><a href="/wiki/Joseph_Black" title="Joseph Black">Joseph Black</a></li>
+<li><a href="/wiki/James_Boswell" title="James Boswell">James Boswell</a></li>
+<li><a href="/wiki/Adam_Ferguson" title="Adam Ferguson">Adam Ferguson</a></li>
+<li><a href="/wiki/Edward_Gibbon" title="Edward Gibbon">Edward Gibbon</a></li>
+<li><a href="/wiki/Robert_Hooke" title="Robert Hooke">Robert Hooke</a></li>
+<li><a href="/wiki/David_Hume" title="David Hume">David Hume</a></li>
+<li><a href="/wiki/Francis_Hutcheson_(philosopher)" title="Francis Hutcheson (philosopher)">Francis Hutcheson</a></li>
+<li><a href="/wiki/Samuel_Johnson" title="Samuel Johnson">Samuel Johnson</a></li>
+<li><a href="/wiki/John_Locke" title="John Locke">John Locke</a></li>
+<li><a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a></li>
+<li><a class="mw-selflink selflink">Thomas Reid</a></li>
+<li><a href="/wiki/Adam_Smith" title="Adam Smith">Adam Smith</a></li>
+<li><a href="/wiki/Mary_Wollstonecraft" title="Mary Wollstonecraft">Mary Wollstonecraft</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/American_Enlightenment" title="American Enlightenment">United States</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Benjamin_Franklin" title="Benjamin Franklin">Benjamin Franklin</a></li>
+<li><a href="/wiki/Thomas_Jefferson" title="Thomas Jefferson">Thomas Jefferson</a></li>
+<li><a href="/wiki/James_Madison" title="James Madison">James Madison</a></li>
+<li><a href="/wiki/George_Mason" title="George Mason">George Mason</a></li>
+<li><a href="/wiki/Thomas_Paine" title="Thomas Paine">Thomas Paine</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2" style="font-weight:bold;"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Age_of_Enlightenment" title="Category:Age of Enlightenment">Category</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Age_of_Enlightenment" title="Portal:Age of Enlightenment">Portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Metaphysics" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Metaphysics" title="Template:Metaphysics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Metaphysics" title="Template talk:Metaphysics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Metaphysics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Metaphysics" style="font-size:114%;margin:0 4em"><a href="/wiki/Metaphysics" title="Metaphysics">Metaphysics</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Metaphysicians</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Parmenides" title="Parmenides">Parmenides</a></li>
+<li><a href="/wiki/Plato" title="Plato">Plato</a></li>
+<li><a href="/wiki/Aristotle" title="Aristotle">Aristotle</a></li>
+<li><a href="/wiki/Plotinus" title="Plotinus">Plotinus</a></li>
+<li><a href="/wiki/Duns_Scotus" title="Duns Scotus">Duns Scotus</a></li>
+<li><a href="/wiki/Thomas_Aquinas" title="Thomas Aquinas">Thomas Aquinas</a></li>
+<li><a href="/wiki/Francisco_Su%C3%A1rez" title="Francisco Suárez">Francisco Suárez</a></li>
+<li><a href="/wiki/Nicolas_Malebranche" title="Nicolas Malebranche">Nicolas Malebranche</a></li>
+<li><a href="/wiki/Ren%C3%A9_Descartes" title="René Descartes">René Descartes</a></li>
+<li><a href="/wiki/John_Locke" title="John Locke">John Locke</a></li>
+<li><a href="/wiki/David_Hume" title="David Hume">David Hume</a></li>
+<li><a class="mw-selflink selflink">Thomas Reid</a></li>
+<li><a href="/wiki/Immanuel_Kant" title="Immanuel Kant">Immanuel Kant</a></li>
+<li><a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a></li>
+<li><a href="/wiki/Arthur_Schopenhauer" title="Arthur Schopenhauer">Arthur Schopenhauer</a></li>
+<li><a href="/wiki/Baruch_Spinoza" title="Baruch Spinoza">Baruch Spinoza</a></li>
+<li><a href="/wiki/Georg_Wilhelm_Friedrich_Hegel" title="Georg Wilhelm Friedrich Hegel">Georg W. F. Hegel</a></li>
+<li><a href="/wiki/George_Berkeley" title="George Berkeley">George Berkeley</a></li>
+<li><a href="/wiki/Gottfried_Wilhelm_Leibniz" title="Gottfried Wilhelm Leibniz">Gottfried Wilhelm Leibniz</a></li>
+<li><a href="/wiki/Henri_Bergson" title="Henri Bergson">Henri Bergson</a></li>
+<li><a href="/wiki/Friedrich_Nietzsche" title="Friedrich Nietzsche">Friedrich Nietzsche</a></li>
+<li><a href="/wiki/Charles_Sanders_Peirce" title="Charles Sanders Peirce">Charles Sanders Peirce</a></li>
+<li><a href="/wiki/Joseph_Mar%C3%A9chal" title="Joseph Maréchal">Joseph Maréchal</a></li>
+<li><a href="/wiki/Ludwig_Wittgenstein" title="Ludwig Wittgenstein">Ludwig Wittgenstein</a></li>
+<li><a href="/wiki/Martin_Heidegger" title="Martin Heidegger">Martin Heidegger</a></li>
+<li><a href="/wiki/Alfred_North_Whitehead" title="Alfred North Whitehead">Alfred N. Whitehead</a></li>
+<li><a href="/wiki/Bertrand_Russell" title="Bertrand Russell">Bertrand Russell</a></li>
+<li><a href="/wiki/Dorothy_Emmet" title="Dorothy Emmet">Dorothy Emmet</a></li>
+<li><a href="/wiki/G._E._Moore" title="G. E. Moore">G. E. Moore</a></li>
+<li><a href="/wiki/Jean-Paul_Sartre" title="Jean-Paul Sartre">Jean-Paul Sartre</a></li>
+<li><a href="/wiki/Gilbert_Ryle" title="Gilbert Ryle">Gilbert Ryle</a></li>
+<li><a href="/wiki/Hilary_Putnam" title="Hilary Putnam">Hilary Putnam</a></li>
+<li><a href="/wiki/P._F._Strawson" title="P. F. Strawson">P. F. Strawson</a></li>
+<li><a href="/wiki/R._G._Collingwood" title="R. G. Collingwood">R. G. Collingwood</a></li>
+<li><a href="/wiki/Adolph_St%C3%B6hr" title="Adolph Stöhr">Adolph Stöhr</a></li>
+<li><a href="/wiki/Rudolf_Carnap" title="Rudolf Carnap">Rudolf Carnap</a></li>
+<li><a href="/wiki/Saul_Kripke" title="Saul Kripke">Saul Kripke</a></li>
+<li><a href="/wiki/Willard_Van_Orman_Quine" title="Willard Van Orman Quine">Willard V. O. Quine</a></li>
+<li><a href="/wiki/G._E._M._Anscombe" title="G. E. M. Anscombe">G. E. M. Anscombe</a></li>
+<li><a href="/wiki/Donald_Davidson_(philosopher)" title="Donald Davidson (philosopher)">Donald Davidson</a></li>
+<li><a href="/wiki/Michael_Dummett" title="Michael Dummett">Michael Dummett</a></li>
+<li><a href="/wiki/David_Malet_Armstrong" title="David Malet Armstrong">David Malet Armstrong</a></li>
+<li><a href="/wiki/David_Lewis_(philosopher)" title="David Lewis (philosopher)">David Lewis</a></li>
+<li><a href="/wiki/Alvin_Plantinga" title="Alvin Plantinga">Alvin Plantinga</a></li>
+<li><a href="/wiki/Peter_van_Inwagen" title="Peter van Inwagen">Peter van Inwagen</a></li>
+<li><a href="/wiki/Derek_Parfit" title="Derek Parfit">Derek Parfit</a></li>
+<li><i><a href="/wiki/List_of_metaphysicians" title="List of metaphysicians">more ...</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Theories</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abstract_object_theory" title="Abstract object theory">Abstract object theory</a></li>
+<li><a href="/wiki/Action_theory_(philosophy)" title="Action theory (philosophy)">Action theory</a></li>
+<li><a href="/wiki/Anti-realism" title="Anti-realism">Anti-realism</a></li>
+<li><a href="/wiki/Determinism" title="Determinism">Determinism</a></li>
+<li><a href="/wiki/Mind-body_dualism" class="mw-redirect" title="Mind-body dualism">Dualism</a></li>
+<li><a href="/wiki/Enactivism_(psychology)" class="mw-redirect" title="Enactivism (psychology)">Enactivism</a></li>
+<li><a href="/wiki/Essentialism" title="Essentialism">Essentialism</a></li>
+<li><a href="/wiki/Existentialism" title="Existentialism">Existentialism</a></li>
+<li><a href="/wiki/Free_will" title="Free will">Free will</a></li>
+<li><a href="/wiki/Idealism" title="Idealism">Idealism</a></li>
+<li><a href="/wiki/Libertarianism_(metaphysics)" title="Libertarianism (metaphysics)">Libertarianism</a></li>
+<li><a href="/wiki/Liberty" title="Liberty">Liberty</a></li>
+<li><a href="/wiki/Materialism" title="Materialism">Materialism</a></li>
+<li><a href="/wiki/Meaning_of_life" title="Meaning of life">Meaning of life</a></li>
+<li><a href="/wiki/Monism" title="Monism">Monism</a></li>
+<li><a href="/wiki/Naturalism_(philosophy)" title="Naturalism (philosophy)">Naturalism</a></li>
+<li><a href="/wiki/Nihilism" title="Nihilism">Nihilism</a></li>
+<li><a href="/wiki/Phenomenalism" title="Phenomenalism">Phenomenalism</a></li>
+<li><a href="/wiki/Philosophical_realism" title="Philosophical realism">Realism</a></li>
+<li><a href="/wiki/Physicalism" title="Physicalism">Physicalism</a></li>
+<li><a href="/wiki/Pirsig%27s_metaphysics_of_Quality" class="mw-redirect" title="Pirsig&#39;s metaphysics of Quality">Pirsig's metaphysics of Quality</a></li>
+<li><a href="/wiki/Platonic_idealism" title="Platonic idealism">Platonic idealism</a></li>
+<li><a href="/wiki/Relativism" title="Relativism">Relativism</a></li>
+<li><a href="/wiki/Scientific_realism" title="Scientific realism">Scientific realism</a></li>
+<li><a href="/wiki/Solipsism" title="Solipsism">Solipsism</a></li>
+<li><a href="/wiki/Subjectivism" title="Subjectivism">Subjectivism</a></li>
+<li><a href="/wiki/Substance_theory" title="Substance theory">Substance theory</a></li>
+<li><a href="/wiki/Type_theory" title="Type theory">Type theory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Concepts</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abstract_and_concrete" title="Abstract and concrete">Abstract object</a></li>
+<li><a href="/wiki/Anima_mundi" title="Anima mundi">Anima mundi</a></li>
+<li><a href="/wiki/Being" title="Being">Being</a></li>
+<li><a href="/wiki/Category_of_being" title="Category of being">Category of being</a></li>
+<li><a href="/wiki/Causality" title="Causality">Causality</a></li>
+<li><a href="/wiki/Choice" title="Choice">Choice</a></li>
+<li><i><a href="/wiki/Cogito,_ergo_sum" title="Cogito, ergo sum">Cogito, ergo sum</a></i></li>
+<li><a href="/wiki/Concept" title="Concept">Concept</a></li>
+<li><a href="/wiki/Embodied_cognition" title="Embodied cognition">Embodied cognition</a></li>
+<li><a href="/wiki/Entity" title="Entity">Entity</a></li>
+<li><a href="/wiki/Essence" title="Essence">Essence</a></li>
+<li><a href="/wiki/Existence" title="Existence">Existence</a></li>
+<li><a href="/wiki/Experience" title="Experience">Experience</a></li>
+<li><a href="/wiki/Hypostatic_abstraction" title="Hypostatic abstraction">Hypostatic abstraction</a></li>
+<li><a href="/wiki/Idea" title="Idea">Idea</a></li>
+<li><a href="/wiki/Identity_(philosophy)" title="Identity (philosophy)">Identity</a></li>
+<li><a href="/wiki/Information" title="Information">Information</a></li>
+<li><a href="/wiki/Insight" title="Insight">Insight</a></li>
+<li><a href="/wiki/Intelligence" title="Intelligence">Intelligence</a></li>
+<li><a href="/wiki/Intention" title="Intention">Intention</a></li>
+<li><a href="/wiki/Linguistic_modality" title="Linguistic modality">Linguistic modality</a></li>
+<li><a href="/wiki/Matter_(philosophy)" title="Matter (philosophy)">Matter</a></li>
+<li><a href="/wiki/Meaning_(existential)" title="Meaning (existential)">Meaning</a></li>
+<li><a href="/wiki/Memetics" title="Memetics">Memetics</a></li>
+<li><a href="/wiki/Mental_representation" title="Mental representation">Mental representation</a></li>
+<li><a href="/wiki/Mind" title="Mind">Mind</a></li>
+<li><a href="/wiki/Motion_(physics)" title="Motion (physics)">Motion</a></li>
+<li><a href="/wiki/Nature_(philosophy)" title="Nature (philosophy)">Nature</a></li>
+<li><a href="/wiki/Metaphysical_necessity" title="Metaphysical necessity">Necessity</a></li>
+<li><a href="/wiki/Notion_(philosophy)" title="Notion (philosophy)">Notion</a></li>
+<li><a href="/wiki/Object_(philosophy)" title="Object (philosophy)">Object</a></li>
+<li><a href="/wiki/Pattern" title="Pattern">Pattern</a></li>
+<li><a href="/wiki/Perception" title="Perception">Perception</a></li>
+<li><a href="/wiki/Physical_body" title="Physical body">Physical body</a></li>
+<li><a href="/wiki/Principle" title="Principle">Principle</a></li>
+<li><a href="/wiki/Property_(philosophy)" title="Property (philosophy)">Property</a></li>
+<li><a href="/wiki/Qualia" title="Qualia">Qualia</a></li>
+<li><a href="/wiki/Quality_(philosophy)" title="Quality (philosophy)">Quality</a></li>
+<li><a href="/wiki/Reality" title="Reality">Reality</a></li>
+<li><a href="/wiki/Soul" title="Soul">Soul</a></li>
+<li><a href="/wiki/Subject_(philosophy)" title="Subject (philosophy)">Subject</a></li>
+<li><a href="/wiki/Substantial_form" title="Substantial form">Substantial form</a></li>
+<li><a href="/wiki/Thought" title="Thought">Thought</a></li>
+<li><a href="/wiki/Time" title="Time">Time</a></li>
+<li><a href="/wiki/Truth" title="Truth">Truth</a></li>
+<li><a href="/wiki/Type%E2%80%93token_distinction" title="Type–token distinction">Type–token distinction</a></li>
+<li><a href="/wiki/Universal_(metaphysics)" title="Universal (metaphysics)">Universal</a></li>
+<li><a href="/wiki/Unobservable" title="Unobservable">Unobservable</a></li>
+<li><a href="/wiki/Value_(ethics)" title="Value (ethics)">Value</a></li>
+<li><i><a href="/wiki/Index_of_metaphysics_articles" title="Index of metaphysics articles">more ...</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related topics</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Axiology" title="Axiology">Axiology</a></li>
+<li><a href="/wiki/Cosmology_(philosophy)" title="Cosmology (philosophy)">Cosmology</a></li>
+<li><a href="/wiki/Epistemology" title="Epistemology">Epistemology</a></li>
+<li><a href="/wiki/Feminist_metaphysics" title="Feminist metaphysics">Feminist metaphysics</a></li>
+<li><a href="/wiki/Interpretations_of_quantum_mechanics" title="Interpretations of quantum mechanics">Interpretations of quantum mechanics</a></li>
+<li><a href="/wiki/Meta" title="Meta">Meta-</a></li>
+<li><a href="/wiki/Ontology" title="Ontology">Ontology</a></li>
+<li><a href="/wiki/Philosophy_of_mind" title="Philosophy of mind">Philosophy of mind</a></li>
+<li><a href="/wiki/Philosophy_of_psychology" title="Philosophy of psychology">Philosophy of psychology</a></li>
+<li><a href="/wiki/Philosophy_of_self" title="Philosophy of self">Philosophy of self</a></li>
+<li><a href="/wiki/Philosophy_of_space_and_time" title="Philosophy of space and time">Philosophy of space and time</a></li>
+<li><a href="/wiki/Teleology" title="Teleology">Teleology</a></li>
+<li><a href="/wiki/Theoretical_physics" title="Theoretical physics">Theoretical physics</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Metaphysics" title="Category:Metaphysics">Category</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Metaphysics" title="Portal:Metaphysics">Portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Epistemology" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Epistemology" title="Template:Epistemology"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Epistemology" title="Template talk:Epistemology"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Epistemology&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Epistemology" style="font-size:114%;margin:0 4em"><a href="/wiki/Epistemology" title="Epistemology">Epistemology</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_epistemologists" title="List of epistemologists">Epistemologists</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Thomas_Aquinas" title="Thomas Aquinas">Thomas Aquinas</a></li>
+<li><a href="/wiki/Augustine_of_Hippo" title="Augustine of Hippo">Augustine of Hippo</a></li>
+<li><a href="/wiki/William_Alston" title="William Alston">William Alston</a></li>
+<li><a href="/wiki/Robert_Audi" title="Robert Audi">Robert Audi</a></li>
+<li><a href="/wiki/A._J._Ayer" title="A. J. Ayer">A. J. Ayer</a></li>
+<li><a href="/wiki/George_Berkeley" title="George Berkeley">George Berkeley</a></li>
+<li><a href="/wiki/Laurence_BonJour" title="Laurence BonJour">Laurence BonJour</a></li>
+<li><a href="/wiki/Ren%C3%A9_Descartes" title="René Descartes">René Descartes</a></li>
+<li><a href="/wiki/John_Dewey" title="John Dewey">John Dewey</a></li>
+<li><a href="/wiki/Fred_Dretske" title="Fred Dretske">Fred Dretske</a></li>
+<li><a href="/wiki/Edmund_Gettier" title="Edmund Gettier">Edmund Gettier</a></li>
+<li><a href="/wiki/Roger_Gibson" title="Roger Gibson">Roger Gibson</a></li>
+<li><a href="/wiki/Alvin_Goldman" title="Alvin Goldman">Alvin Goldman</a></li>
+<li><a href="/wiki/Nelson_Goodman" title="Nelson Goodman">Nelson Goodman</a></li>
+<li><a href="/wiki/Paul_Grice" title="Paul Grice">Paul Grice</a></li>
+<li><a href="/wiki/David_Hume" title="David Hume">David Hume</a></li>
+<li><a href="/wiki/Immanuel_Kant" title="Immanuel Kant">Immanuel Kant</a></li>
+<li><a href="/wiki/S%C3%B8ren_Kierkegaard" title="Søren Kierkegaard">Søren Kierkegaard</a></li>
+<li><a href="/wiki/Saul_Kripke" title="Saul Kripke">Saul Kripke</a></li>
+<li><a href="/wiki/David_Lewis_(philosopher)" title="David Lewis (philosopher)">David Lewis</a></li>
+<li><a href="/wiki/John_Locke" title="John Locke">John Locke</a></li>
+<li><a href="/wiki/G._E._Moore" title="G. E. Moore">G. E. Moore</a></li>
+<li><a href="/wiki/Robert_Nozick" title="Robert Nozick">Robert Nozick</a></li>
+<li><a href="/wiki/Alvin_Plantinga" title="Alvin Plantinga">Alvin Plantinga</a></li>
+<li><a href="/wiki/Plato" title="Plato">Plato</a></li>
+<li><a href="/wiki/Hilary_Putnam" title="Hilary Putnam">Hilary Putnam</a></li>
+<li><a class="mw-selflink selflink">Thomas Reid</a></li>
+<li><a href="/wiki/Gilbert_Ryle" title="Gilbert Ryle">Gilbert Ryle</a></li>
+<li><a href="/wiki/P._F._Strawson" title="P. F. Strawson">P. F. Strawson</a></li>
+<li><a href="/wiki/Willard_Van_Orman_Quine" title="Willard Van Orman Quine">Willard Van Orman Quine</a></li>
+<li><a href="/wiki/Bertrand_Russell" title="Bertrand Russell">Bertrand Russell</a></li>
+<li><a href="/wiki/Baruch_Spinoza" title="Baruch Spinoza">Baruch Spinoza</a></li>
+<li><a href="/wiki/Timothy_Williamson" title="Timothy Williamson">Timothy Williamson</a></li>
+<li><a href="/wiki/Ludwig_Wittgenstein" title="Ludwig Wittgenstein">Ludwig Wittgenstein</a></li>
+<li><a href="/wiki/Nicholas_Wolterstorff" title="Nicholas Wolterstorff">Nicholas Wolterstorff</a></li>
+<li><a href="/wiki/Vienna_Circle" title="Vienna Circle">Vienna Circle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Epistemological_theories" title="Category:Epistemological theories">Theories</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Coherentism" title="Coherentism">Coherentism</a></li>
+<li><a href="/wiki/Constructivist_epistemology" title="Constructivist epistemology">Constructivist epistemology</a></li>
+<li><a href="/wiki/Contextualism" title="Contextualism">Contextualism</a></li>
+<li><a href="/wiki/Descriptive_knowledge" title="Descriptive knowledge">Descriptive knowledge</a></li>
+<li><a href="/wiki/Determinism" title="Determinism">Determinism</a></li>
+<li><a href="/wiki/Empiricism" title="Empiricism">Empiricism</a></li>
+<li><a href="/wiki/Evolutionary_epistemology" title="Evolutionary epistemology">Evolutionary epistemology</a></li>
+<li><a href="/wiki/Fallibilism" title="Fallibilism">Fallibilism</a></li>
+<li><a href="/wiki/Feminist_epistemology" title="Feminist epistemology">Feminist epistemology</a></li>
+<li><a href="/wiki/Fideism" title="Fideism">Fideism</a></li>
+<li><a href="/wiki/Foundationalism" title="Foundationalism">Foundationalism</a></li>
+<li><a href="/wiki/Genetic_epistemology" title="Genetic epistemology">Genetic epistemology</a></li>
+<li><a href="/wiki/Hierarchical_epistemology" title="Hierarchical epistemology">Hierarchical epistemology</a></li>
+<li><a href="/wiki/Semantic_holism" title="Semantic holism">Holism</a></li>
+<li><a href="/wiki/Infinitism" title="Infinitism">Infinitism</a></li>
+<li><a href="/wiki/Innatism" title="Innatism">Innatism</a></li>
+<li><a href="/wiki/Internalism_and_externalism" title="Internalism and externalism">Internalism and externalism</a></li>
+<li><a href="/wiki/Na%C3%AFve_realism" title="Naïve realism">Naïve realism</a></li>
+<li><a href="/wiki/Naturalized_epistemology" title="Naturalized epistemology">Naturalized epistemology</a></li>
+<li><a href="/wiki/Phenomenalism" title="Phenomenalism">Phenomenalism</a></li>
+<li><a href="/wiki/Positivism" title="Positivism">Positivism</a></li>
+<li><a href="/wiki/Procedural_knowledge" title="Procedural knowledge">Procedural knowledge</a></li>
+<li><a href="/wiki/Reductionism" title="Reductionism">Reductionism</a></li>
+<li><a href="/wiki/Reliabilism" title="Reliabilism">Reliabilism</a></li>
+<li><a href="/wiki/Direct_and_indirect_realism" title="Direct and indirect realism">Representative realism</a></li>
+<li><a href="/wiki/Rationalism" title="Rationalism">Rationalism</a></li>
+<li><a href="/wiki/Philosophical_skepticism" title="Philosophical skepticism">Skepticism</a></li>
+<li><a href="/wiki/Theory_of_forms" title="Theory of forms">Theory of forms</a></li>
+<li><a href="/wiki/Transcendental_idealism" title="Transcendental idealism">Transcendental idealism</a></li>
+<li><a href="/wiki/Uniformitarianism" title="Uniformitarianism">Uniformitarianism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Concepts_in_epistemology" title="Category:Concepts in epistemology">Concepts</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/A_priori_and_a_posteriori" title="A priori and a posteriori">A priori knowledge</a></li>
+<li><a href="/wiki/Philosophical_analysis" title="Philosophical analysis">Analysis</a></li>
+<li><a href="/wiki/Analytic%E2%80%93synthetic_distinction" title="Analytic–synthetic distinction">Analytic–synthetic distinction</a></li>
+<li><a href="/wiki/Belief" title="Belief">Belief</a></li>
+<li><a href="/wiki/Causality" title="Causality">Causality</a></li>
+<li><a href="/wiki/Common_sense" title="Common sense">Common sense</a></li>
+<li><a href="/wiki/Exploratory_thought" title="Exploratory thought">Exploratory thought</a></li>
+<li><a href="/wiki/Gettier_problem" title="Gettier problem">Gettier problem</a></li>
+<li><a href="/wiki/Theory_of_justification" title="Theory of justification">Justification</a></li>
+<li><a href="/wiki/Knowledge" title="Knowledge">Knowledge</a></li>
+<li><a href="/wiki/Inductive_reasoning" title="Inductive reasoning">Induction</a></li>
+<li><a href="/wiki/Objectivity_(philosophy)" title="Objectivity (philosophy)">Objectivity</a></li>
+<li><a href="/wiki/Privileged_access" title="Privileged access">Privileged access</a></li>
+<li><a href="/wiki/Problem_of_induction" title="Problem of induction">Problem of induction</a></li>
+<li><a href="/wiki/Problem_of_other_minds" title="Problem of other minds">Problem of other minds</a></li>
+<li><a href="/wiki/Perception" title="Perception">Perception</a></li>
+<li><a href="/wiki/Proposition" title="Proposition">Proposition</a></li>
+<li><a href="/wiki/Regress_argument" title="Regress argument">Regress argument</a></li>
+<li><a href="/wiki/Simplicity" title="Simplicity">Simplicity</a></li>
+<li><a href="/wiki/Speculative_reason" title="Speculative reason">Speculative reason</a></li>
+<li><a href="/wiki/Truth" title="Truth">Truth</a></li>
+<li><i><a href="/wiki/Index_of_epistemology_articles" title="Index of epistemology articles">more...</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related articles</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Outline_of_epistemology" title="Outline of epistemology">Outline of epistemology</a></li>
+<li><a href="/wiki/Alethiology" title="Alethiology">Alethiology</a></li>
+<li><a href="/wiki/Faith_and_rationality" title="Faith and rationality">Faith and rationality</a></li>
+<li><a href="/wiki/Formal_epistemology" title="Formal epistemology">Formal epistemology</a></li>
+<li><a href="/wiki/Meta-epistemology" title="Meta-epistemology">Meta-epistemology</a></li>
+<li><a href="/wiki/Philosophy_of_perception" title="Philosophy of perception">Philosophy of perception</a></li>
+<li><a href="/wiki/Philosophy_of_science" title="Philosophy of science">Philosophy of science</a></li>
+<li><a href="/wiki/Social_epistemology" title="Social epistemology">Social epistemology</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Portal:Epistemology" title="Portal:Epistemology">Portal</a></li>
+<li><a href="/wiki/Category:Epistemology" title="Category:Epistemology">Category</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Philosophy/Epistemology" title="Wikipedia:WikiProject Philosophy/Epistemology">Task Force</a></li>
+<li><a href="/wiki/Category:Philosophy_stubs" title="Category:Philosophy stubs">Stubs</a></li>
+<li><a href="/wiki/Wikipedia_talk:WikiProject_Philosophy" title="Wikipedia talk:WikiProject Philosophy">Discussion</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q316347&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q316347&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q316347" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"> <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/24615724">WorldCat Identities</a></span></li>
+<li><span class="nowrap"><a href="/wiki/BIBSYS" class="mw-redirect" title="BIBSYS">BIBSYS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/90100712">90100712</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" title="Biblioteca Nacional de España">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX1084909">XX1084909</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12027944n">cb12027944n</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb12027944n">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/118744003">118744003</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000121244723">0000 0001 2124 4723</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n50050928">n50050928</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00621357">00621357</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_Australia" title="National Library of Australia">NLA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://nla.gov.au/anbd.aut-an35447091">35447091</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/LIBRIS" title="LIBRIS">SELIBR</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://libris.kb.se/auth/292285">292285</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/SNAC" title="SNAC">SNAC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://socialarchive.iath.virginia.edu/ark:/99166/w6vt3gfm">w6vt3gfm</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/027669319">027669319</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/24615724">24615724</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2236
+Cached time: 20180930164601
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.684 seconds
+Real time usage: 0.910 seconds
+Preprocessor visited node count: 4215/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 147698/2097152 bytes
+Template argument size: 18142/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 14/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 19363/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.311/10.000 seconds
+Lua memory usage: 12.7 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  670.871      1 -total
+ 28.42%  190.686      1 Template:Infobox_philosopher
+ 27.71%  185.929      1 Template:Infobox_person
+ 25.93%  173.982      2 Template:Infobox
+ 25.69%  172.348      1 Template:Age_of_Enlightenment
+ 25.31%  169.817      1 Template:Navbox_with_collapsible_groups
+ 21.68%  145.439      4 Template:Navbox
+ 19.23%  128.975      4 Template:Lang
+ 11.81%   79.238      1 Template:Reflist
+  9.68%   64.943      5 Template:Br_separated_entries
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:29780-0!canonical and timestamp 20180930164600 and revision id 861255684
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Thomas_Reid&amp;oldid=861255684">https://en.wikipedia.org/w/index.php?title=Thomas_Reid&amp;oldid=861255684</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1710_births" title="Category:1710 births">1710 births</a></li><li><a href="/wiki/Category:1796_deaths" title="Category:1796 deaths">1796 deaths</a></li><li><a href="/wiki/Category:Founder_Fellows_of_the_Royal_Society_of_Edinburgh" title="Category:Founder Fellows of the Royal Society of Edinburgh">Founder Fellows of the Royal Society of Edinburgh</a></li><li><a href="/wiki/Category:Scottish_philosophers" title="Category:Scottish philosophers">Scottish philosophers</a></li><li><a href="/wiki/Category:Protestant_philosophers" title="Category:Protestant philosophers">Protestant philosophers</a></li><li><a href="/wiki/Category:British_Christian_theologians" title="Category:British Christian theologians">British Christian theologians</a></li><li><a href="/wiki/Category:18th-century_Scottish_writers" title="Category:18th-century Scottish writers">18th-century Scottish writers</a></li><li><a href="/wiki/Category:18th-century_philosophers" title="Category:18th-century philosophers">18th-century philosophers</a></li><li><a href="/wiki/Category:Enlightenment_philosophers" title="Category:Enlightenment philosophers">Enlightenment philosophers</a></li><li><a href="/wiki/Category:David_Hume" title="Category:David Hume">David Hume</a></li><li><a href="/wiki/Category:Alumni_of_the_University_of_Aberdeen" title="Category:Alumni of the University of Aberdeen">Alumni of the University of Aberdeen</a></li><li><a href="/wiki/Category:Academics_of_the_University_of_Aberdeen" title="Category:Academics of the University of Aberdeen">Academics of the University of Aberdeen</a></li><li><a href="/wiki/Category:Academics_of_the_University_of_Glasgow" title="Category:Academics of the University of Glasgow">Academics of the University of Glasgow</a></li><li><a href="/wiki/Category:Fellows_of_the_Royal_Society_of_Edinburgh" title="Category:Fellows of the Royal Society of Edinburgh">Fellows of the Royal Society of Edinburgh</a></li><li><a href="/wiki/Category:Ministers_of_the_Church_of_Scotland" title="Category:Ministers of the Church of Scotland">Ministers of the Church of Scotland</a></li><li><a href="/wiki/Category:People_from_Kincardine_and_Mearns" title="Category:People from Kincardine and Mearns">People from Kincardine and Mearns</a></li><li><a href="/wiki/Category:Scottish_mathematicians" title="Category:Scottish mathematicians">Scottish mathematicians</a></li><li><a href="/wiki/Category:Scottish_librarians" title="Category:Scottish librarians">Scottish librarians</a></li><li><a href="/wiki/Category:Critics_of_atheism" title="Category:Critics of atheism">Critics of atheism</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_March_2012" title="Category:Use dmy dates from March 2012">Use dmy dates from March 2012</a></li><li><a href="/wiki/Category:Use_British_English_from_March_2012" title="Category:Use British English from March 2012">Use British English from March 2012</a></li><li><a href="/wiki/Category:Infobox_person_using_alma_mater" title="Category:Infobox person using alma mater">Infobox person using alma mater</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Articles_with_Internet_Archive_links" title="Category:Articles with Internet Archive links">Articles with Internet Archive links</a></li><li><a href="/wiki/Category:Articles_with_LibriVox_links" title="Category:Articles with LibriVox links">Articles with LibriVox links</a></li><li><a href="/wiki/Category:Articles_containing_French-language_text" title="Category:Articles containing French-language text">Articles containing French-language text</a></li><li><a href="/wiki/Category:Articles_containing_Hebrew-language_text" title="Category:Articles containing Hebrew-language text">Articles containing Hebrew-language text</a></li><li><a href="/wiki/Category:Articles_containing_Latin-language_text" title="Category:Articles containing Latin-language text">Articles containing Latin-language text</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BIBSYS_identifiers" title="Category:Wikipedia articles with BIBSYS identifiers">Wikipedia articles with BIBSYS identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNE_identifiers" title="Category:Wikipedia articles with BNE identifiers">Wikipedia articles with BNE identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLA_identifiers" title="Category:Wikipedia articles with NLA identifiers">Wikipedia articles with NLA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SELIBR_identifiers" title="Category:Wikipedia articles with SELIBR identifiers">Wikipedia articles with SELIBR identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SNAC-ID_identifiers" title="Category:Wikipedia articles with SNAC-ID identifiers">Wikipedia articles with SNAC-ID identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Thomas+Reid" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Thomas+Reid" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Thomas_Reid" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Thomas_Reid" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Thomas_Reid">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Thomas_Reid&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Thomas_Reid&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Thomas_Reid" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Thomas_Reid" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Thomas_Reid&amp;oldid=861255684" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Thomas_Reid&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q316347" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Thomas_Reid&amp;id=861255684" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Thomas+Reid">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Thomas+Reid&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Thomas_Reid&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Thomas_Reid_(philosopher)" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://en.wikisource.org/wiki/Author:Thomas_Reid_(1710-1796)" hreflang="en">Wikisource</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D9%85%D8%A7%D8%B3_%D8%B1%D9%8A%D8%AF_(%D9%81%D9%8A%D9%84%D8%B3%D9%88%D9%81)" title="توماس ريد (فيلسوف) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC%D0%B0%D1%81_%D0%A0%D0%B8%D0%B9%D0%B4" title="Томас Рийд – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Thomas_Reid" title="Thomas Reid – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Thomas_Reid" title="Thomas Reid – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Thomas_Reid" title="Thomas Reid – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Thomas_Reid" title="Thomas Reid – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Thomas_Reid" title="Thomas Reid – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Thomas_Reid" title="Thomas Reid – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AA%D9%88%D9%85%D8%A7%D8%B3_%D8%B1%DB%8C%D8%AF" title="توماس رید – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Thomas_Reid" title="Thomas Reid – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%86%A0%EB%A8%B8%EC%8A%A4_%EB%A6%AC%EB%93%9C" title="토머스 리드 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Thomas_Reid" title="Thomas Reid – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Thomas_Reid" title="Thomas Reid – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Thomas_Reid" title="Thomas Reid – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%AA%D7%95%D7%9E%D7%90%D7%A1_%D7%A8%D7%99%D7%93" title="תומאס ריד – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%A0%D0%B8%D0%B4,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81" title="Рид, Томас – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Thomas_Reid" title="Thomas Reid – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Thomas_Reid" title="Thomas Reid – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%9E%E3%82%B9%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%89" title="トマス・リード – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Thomas_Reid" title="Thomas Reid – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Thomas_Reid" title="Thomas Reid – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%B4,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81" title="Рид, Томас – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Thomas_Reid" title="Thomas Reid – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Thomas_Reid" title="Thomas Reid – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Thomas_Reid" title="Thomas Reid – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Thomas_Reid" title="Thomas Reid – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Thomas_Reid" title="Thomas Reid – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Thomas_Reid" title="Thomas Reid – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Thomas_Reid" title="Thomas Reid – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E9%87%8C%E5%BE%B7" title="托马斯·里德 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q316347#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 26 September 2018, at 04:57<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Thomas_Reid&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.684","walltime":"0.910","ppvisitednodes":{"value":4215,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":147698,"limit":2097152},"templateargumentsize":{"value":18142,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":19363,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  670.871      1 -total"," 28.42%  190.686      1 Template:Infobox_philosopher"," 27.71%  185.929      1 Template:Infobox_person"," 25.93%  173.982      2 Template:Infobox"," 25.69%  172.348      1 Template:Age_of_Enlightenment"," 25.31%  169.817      1 Template:Navbox_with_collapsible_groups"," 21.68%  145.439      4 Template:Navbox"," 19.23%  128.975      4 Template:Lang"," 11.81%   79.238      1 Template:Reflist","  9.68%   64.943      5 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.311","limit":"10.000"},"limitreport-memusage":{"value":13316345,"limit":52428800}},"cachereport":{"origin":"mw2236","timestamp":"20180930164601","ttl":86400,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":70,"wgHostname":"mw2232"});});</script>
+	</body>
+</html>

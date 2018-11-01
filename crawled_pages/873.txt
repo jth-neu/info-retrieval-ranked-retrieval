@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Monetarism - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Monetarism","wgTitle":"Monetarism","wgCurRevisionId":860035486,"wgRevisionId":860035486,"wgArticleId":42423,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles lacking reliable references","Articles lacking reliable references from June 2013","Webarchive template wayback links","Articles needing additional references from May 2007","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from October 2013","Articles with unsourced statements from March 2010","All articles with dead external links","Articles with dead external links from April 2018","Articles with permanently dead external links","CS1 maint: Extra text: editors list","Wikipedia articles with GND identifiers","Monetary economics","Milton Friedman","20th-century economic history","21st-century economic history","Schools of economic thought"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Monetarism","wgRelevantArticleId":42423,"wgRequestId":"W6@D7ArAID8AAJNRSxsAAABJ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q373177","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Supply-demand-right-shift-demand.svg/1200px-Supply-demand-right-shift-demand.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Monetarism"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Monetarism&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Monetarism&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Monetarism"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Monetarism rootpage-Monetarism skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Monetarism</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Monetarism&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(May 2007)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of a series on</td></tr><tr><th class="navbox-title" style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;background: none;"><a href="/wiki/Economics" title="Economics">Economics</a></th></tr><tr><td style="padding:0.2em 0 0.4em;padding-left:0;padding-right:0;"><a href="/wiki/File:Supply-demand-right-shift-demand.svg" class="image"><img alt="Supply-demand-right-shift-demand.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Supply-demand-right-shift-demand.svg/180px-Supply-demand-right-shift-demand.svg.png" width="180" height="180" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Supply-demand-right-shift-demand.svg/270px-Supply-demand-right-shift-demand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Supply-demand-right-shift-demand.svg/360px-Supply-demand-right-shift-demand.svg.png 2x" data-file-width="217" data-file-height="217" /></a><div style="padding-top:0.2em;line-height:1.2em;font-size:90%;white-space:nowrap;padding-bottom:0.2em; background: none;">A <a href="/wiki/Supply_and_demand" title="Supply and demand">supply and demand</a> diagram, illustrating <br /> the effects of an increase in <a href="/wiki/Demand" title="Demand">demand</a></div></td></tr><tr><td class="navbox-abovebelow" style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;padding:0.15em 0.15em 0.25em; display:block; margin-bottom:0.55em; background-color: #efefef;">
+<div class="hlist">
+<ul><li><a href="/wiki/Index_of_economics_articles" title="Index of economics articles">Index</a></li>
+<li><a href="/wiki/Outline_of_economics" title="Outline of economics">Outline</a></li>
+<li><a href="/wiki/Category:Economics" title="Category:Economics">Category</a></li></ul>
+</div></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color: #efefef; padding:0.15em 0.25em 0.5em;"><div class="hlist hlist-separated nowrap"><ul><li>History</li><li>Branches</li><li>Classification</li></ul></div></div><div class="NavContent navbox-abovebelow" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;background-color: #ffffff;"><div class="hlist">
+<ul><li><a href="/wiki/History_of_economic_thought" title="History of economic thought">History of economics</a></li>
+<li><a href="/wiki/Schools_of_economic_thought" title="Schools of economic thought">Schools of economics</a></li></ul>
+<dl><dd></dd></dl>
+<ul><li><a href="/wiki/Mainstream_economics" title="Mainstream economics">Mainstream economics</a></li>
+<li><a href="/wiki/Heterodox_economics" title="Heterodox economics">Heterodox economics</a></li>
+<li><a href="/wiki/Economic_methodology" title="Economic methodology">Economic methodology</a></li></ul>
+<dl><dd></dd></dl>
+<ul><li><a href="/wiki/Economic_theory" class="mw-redirect" title="Economic theory">Economic theory</a></li>
+<li><a href="/wiki/Political_economy" title="Political economy">Political economy</a></li></ul>
+<dl><dd></dd></dl>
+<ul><li><a href="/wiki/Microeconomics" title="Microeconomics">Microeconomics</a></li>
+<li><a href="/wiki/Macroeconomics" title="Macroeconomics">Macroeconomics</a></li></ul>
+<dl><dd></dd></dl>
+<ul><li><a href="/wiki/International_economics" title="International economics">International economics</a></li></ul>
+<dl><dd></dd></dl>
+<ul><li><a href="/wiki/Applied_economics" title="Applied economics">Applied economics</a></li></ul>
+<dl><dd></dd></dl>
+<ul><li><a href="/wiki/Mathematical_economics" title="Mathematical economics">Mathematical economics</a></li>
+<li><a href="/wiki/Econometrics" title="Econometrics">Econometrics</a></li></ul>
+</div>
+<ul><li><a href="/wiki/JEL_classification_codes" title="JEL classification codes">JEL classification codes</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color: #efefef; padding:0.15em 0.25em 0.5em;"><div class="hlist hlist-separated nowrap"><ul><li>Concepts</li><li>Theory</li><li>Techniques</li></ul></div></div><div class="NavContent navbox-abovebelow" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;background-color: #ffffff;"><div class="hlist">
+<ul><li><a href="/wiki/Economic_system" title="Economic system">Economic systems</a></li>
+<li><a href="/wiki/Economic_growth" title="Economic growth">Economic growth</a></li>
+<li><a href="/wiki/Market_(economics)" title="Market (economics)">Market</a></li>
+<li><a href="/wiki/National_accounts" title="National accounts">National accounting</a></li>
+<li><a href="/wiki/Experimental_economics" title="Experimental economics">Experimental economics</a></li>
+<li><a href="/wiki/Computational_economics" title="Computational economics">Computational economics</a></li></ul>
+<dl><dd></dd></dl>
+<ul><li><a href="/wiki/Game_theory" title="Game theory">Game theory</a></li>
+<li><a href="/wiki/Operations_research" title="Operations research">Operations research</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color: #efefef; padding:0.15em 0.25em 0.5em;">By application</div><div class="NavContent navbox-abovebelow" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;background-color: #ffffff;"><div class="hlist">
+<ul><li><a href="/wiki/Agricultural_economics" title="Agricultural economics">Agricultural</a></li>
+<li><a href="/wiki/Behavioral_economics" title="Behavioral economics">Behavioral</a></li>
+<li><a href="/wiki/Business_economics" title="Business economics">Business</a></li>
+<li><a href="/wiki/Cultural_economics" title="Cultural economics">Cultural</a></li>
+<li><a href="/wiki/Demographic_economics" title="Demographic economics">Demographic</a></li>
+<li><a href="/wiki/Development_economics" title="Development economics">Development</a></li>
+<li><a href="/wiki/Economics_of_digitization" title="Economics of digitization">Digitization</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological</a></li>
+<li><a href="/wiki/Education_economics" title="Education economics">Education</a></li>
+<li><a href="/wiki/Engineering_economics" title="Engineering economics">Engineering</a></li>
+<li><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental</a></li>
+<li><a href="/wiki/Evolutionary_economics" title="Evolutionary economics">Evolutionary</a></li>
+<li><a href="/wiki/Expeditionary_economics" title="Expeditionary economics">Expeditionary</a></li>
+<li><a href="/wiki/Economic_geography" title="Economic geography">Economic geography</a></li>
+<li><a href="/wiki/Financial_economics" title="Financial economics">Financial</a></li>
+<li><a href="/wiki/Health_economics" title="Health economics">Health</a></li>
+<li><a href="/wiki/Economic_history" title="Economic history">Economic history</a></li>
+<li><a href="/wiki/Industrial_organization" title="Industrial organization">Industrial organization</a></li>
+<li><a href="/wiki/Information_economics" title="Information economics">Information</a></li>
+<li><a href="/wiki/Institutional_economics" title="Institutional economics">Institutional</a></li>
+<li><a href="/wiki/Knowledge_economy" title="Knowledge economy">Knowledge</a></li>
+<li><a href="/wiki/Labour_economics" title="Labour economics">Labour</a></li>
+<li><a href="/wiki/Law_and_economics" title="Law and economics">Law</a></li>
+<li><a href="/wiki/Managerial_economics" title="Managerial economics">Managerial</a></li>
+<li><a href="/wiki/Monetary_economics" title="Monetary economics">Monetary</a></li>
+<li><a href="/wiki/Natural_resource_economics" title="Natural resource economics">Natural resource</a></li>
+<li><a href="/wiki/Organizational_economics" title="Organizational economics">Organizational</a></li>
+<li><a href="/wiki/Personnel_economics" title="Personnel economics">Personnel</a></li>
+<li><a href="/wiki/Economic_planning" title="Economic planning">Economic planning</a></li>
+<li><a href="/wiki/Economic_policy" title="Economic policy">Economic policy</a></li>
+<li><a href="/wiki/Public_economics" title="Public economics">Public economics</a></li>
+<li><a href="/wiki/Public_choice" title="Public choice">Public</a>&#160;/&#32;<a href="/wiki/Social_choice_theory" title="Social choice theory">Social</a> choice</li>
+<li><a href="/wiki/Regional_economics" title="Regional economics">Regional</a></li>
+<li><a href="/wiki/Rural_economics" title="Rural economics">Rural</a></li>
+<li><a href="/wiki/Service_economy" title="Service economy">Service</a></li>
+<li><a href="/wiki/Socioeconomics" title="Socioeconomics">Socioeconomics</a></li>
+<li><a href="/wiki/Economic_sociology" title="Economic sociology">Economic sociology</a></li>
+<li><a href="/wiki/Economic_statistics" title="Economic statistics">Economic statistics</a></li>
+<li><a href="/wiki/Urban_economics" title="Urban economics">Urban</a></li>
+<li><a href="/wiki/Welfare" title="Welfare">Welfare</a></li>
+<li><a href="/wiki/Welfare_economics" title="Welfare economics">Welfare economics</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color: #efefef; padding:0.15em 0.25em 0.5em;">Notable <a href="/wiki/Economist" title="Economist">economists</a></div><div class="NavContent navbox-abovebelow" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;background-color: #ffffff;"><div class="hlist">
+<ul><li><a href="/wiki/Fran%C3%A7ois_Quesnay" title="François Quesnay">François Quesnay</a></li>
+<li><a href="/wiki/Adam_Smith" title="Adam Smith">Adam Smith</a></li>
+<li><a href="/wiki/David_Ricardo" title="David Ricardo">David Ricardo</a></li>
+<li><a href="/wiki/Thomas_Robert_Malthus" title="Thomas Robert Malthus">Thomas Robert Malthus</a></li>
+<li><a href="/wiki/John_Stuart_Mill" title="John Stuart Mill">John Stuart Mill</a></li>
+<li><a href="/wiki/Karl_Marx" title="Karl Marx">Karl Marx</a></li>
+<li><a href="/wiki/L%C3%A9on_Walras" title="Léon Walras">Léon Walras</a></li>
+<li><a href="/wiki/Alfred_Marshall" title="Alfred Marshall">Alfred Marshall</a></li>
+<li><a href="/wiki/John_Maynard_Keynes" title="John Maynard Keynes">John Maynard Keynes</a></li>
+<li><a href="/wiki/Arthur_Cecil_Pigou" title="Arthur Cecil Pigou">Arthur Cecil Pigou</a></li>
+<li><a href="/wiki/Paul_Samuelson" title="Paul Samuelson">Paul Samuelson</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color: #efefef; padding:0.15em 0.25em 0.5em;"><a href="/wiki/Category:Economics_lists" title="Category:Economics lists">Lists</a></div><div class="NavContent navbox-abovebelow" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;background-color: #ffffff;">
+<ul><li><a href="/wiki/List_of_economists" title="List of economists">Economists</a></li>
+<li><a href="/wiki/List_of_important_publications_in_economics" title="List of important publications in economics">Publications</a>&#160;(<a href="/wiki/List_of_economics_journals" title="List of economics journals">journals</a>)</li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color: #efefef; padding:0.15em 0.25em 0.5em;">Glossary</div><div class="NavContent navbox-abovebelow" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;background-color: #ffffff;">
+<ul><li><a href="/wiki/Glossary_of_economics" title="Glossary of economics">Glossary of economics</a></li></ul></div></div></td>
+</tr><tr><td class="navbox-abovebelow" style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;background-color: #efefef;">
+<ul><li><a href="/wiki/File:Emblem-money.svg" class="image"><img alt="Emblem-money.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/16px-Emblem-money.svg.png" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/24px-Emblem-money.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/32px-Emblem-money.svg.png 2x" data-file-width="48" data-file-height="48" /></a> <a href="/wiki/Portal:Business_and_economics" title="Portal:Business and economics">Business and economics&#32;portal</a></li></ul></td></tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Economics_sidebar" title="Template:Economics sidebar"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Economics_sidebar" title="Template talk:Economics sidebar"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Economics_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Monetarism</b> is a <a href="/wiki/School_of_thought" title="School of thought">school of thought</a> in <a href="/wiki/Monetary_economics" title="Monetary economics">monetary economics</a> that emphasizes the role of governments in controlling the amount of <a href="/wiki/Money_in_circulation" class="mw-redirect" title="Money in circulation">money in circulation</a>. Monetarist theory asserts that variations in the <a href="/wiki/Money_supply" title="Money supply">money supply</a> have major influences on <a href="/wiki/Measures_of_national_income_and_output" title="Measures of national income and output">national output</a> in the short run and on <a href="/wiki/Price_level" title="Price level">price levels</a> over longer periods. Monetarists assert that the objectives of <a href="/wiki/Monetary_policy" title="Monetary policy">monetary policy</a> are best met by targeting the growth rate of the <a href="/wiki/Money_supply" title="Money supply">money supply</a> rather than by engaging in <a href="/wiki/Discretionary_policy" title="Discretionary policy">discretionary monetary policy</a>.<sup id="cite_ref-Cagan_1-0" class="reference"><a href="#cite_note-Cagan-1">&#91;1&#93;</a></sup>
+</p><p>Monetarism today is mainly associated with the work of <a href="/wiki/Milton_Friedman" title="Milton Friedman">Milton Friedman</a>, who was among the generation of economists to accept <a href="/wiki/Keynesian_economics" title="Keynesian economics">Keynesian economics</a> and then criticise Keynes's theory of fighting economic downturns using fiscal policy (government spending). Friedman and <a href="/wiki/Anna_Schwartz" title="Anna Schwartz">Anna Schwartz</a> wrote an influential book, <i><a href="/wiki/A_Monetary_History_of_the_United_States" title="A Monetary History of the United States">A Monetary History of the United States, 1867–1960</a></i>, and argued "<a href="/wiki/Inflation" title="Inflation">inflation</a> is always and everywhere a monetary phenomenon." 
+</p><p> Though he opposed the existence of the <a href="/wiki/Federal_Reserve_System" title="Federal Reserve System">Federal Reserve</a>,<sup id="cite_ref-reason_2-0" class="reference"><a href="#cite_note-reason-2">&#91;2&#93;</a></sup> Friedman advocated, given its existence, a <a href="/wiki/Central_bank" title="Central bank">central bank</a> policy aimed at keeping the growth of the money supply at a rate commensurate with the growth in productivity and <a href="/wiki/Aggregate_demand" title="Aggregate demand">demand for goods</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Opposition_to_the_gold_standard"><span class="tocnumber">1.1</span> <span class="toctext">Opposition to the gold standard</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Rise"><span class="tocnumber">2</span> <span class="toctext">Rise</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Current_state"><span class="tocnumber">3</span> <span class="toctext">Current state</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notable_proponents"><span class="tocnumber">4</span> <span class="toctext">Notable proponents</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Further_references"><span class="tocnumber">7</span> <span class="toctext">Further references</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Monetarism&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Monetarism is an economic theory that focuses on the <a href="/wiki/Macroeconomics" title="Macroeconomics">macroeconomic</a> effects of the supply of money and central banking. Formulated by <a href="/wiki/Milton_Friedman" title="Milton Friedman">Milton Friedman</a>, it argues that excessive expansion of the money supply is inherently <a href="/wiki/Inflation" title="Inflation">inflationary</a>, and that monetary authorities should focus solely on maintaining <a href="/wiki/Price_stability" title="Price stability">price stability</a>.
+</p><p>This theory draws its roots from two historically antagonistic schools of thought: the hard money policies that dominated monetary thinking in the late 19th century, and the monetary theories of <a href="/wiki/John_Maynard_Keynes" title="John Maynard Keynes">John Maynard Keynes</a>, who, working in the inter-war period during the failure of the restored <a href="/wiki/Gold_standard" title="Gold standard">gold standard</a>, proposed a demand-driven model for money.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> While Keynes had focused on the stability of a currency’s value, with panics based on an insufficient money supply leading to the use of an alternate currency and collapse of the monetary system, Friedman focused on price stability.
+</p><p>The result was summarised in a historical analysis of monetary policy, <i>Monetary History of the United States 1867–1960</i>, which Friedman coauthored with <a href="/wiki/Anna_Schwartz" title="Anna Schwartz">Anna Schwartz</a>. The book attributed inflation to excess money supply generated by a central bank. It attributed deflationary spirals to the reverse effect of a failure of a central bank to support the <a href="/wiki/Money_supply" title="Money supply">money supply</a> during a <a href="/wiki/Liquidity" class="mw-redirect" title="Liquidity">liquidity</a> crunch.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2013)">citation needed</span></a></i>&#93;</sup>
+</p><p>Friedman originally proposed a fixed <i>monetary rule</i>, called <a href="/wiki/Friedman%27s_k-percent_rule" title="Friedman&#39;s k-percent rule">Friedman's k-percent rule</a>, where the money supply would be automatically increased by a fixed percentage per year. Under this rule, there would be no leeway for the central reserve bank, as money supply increases could be determined "by a computer", and business could anticipate all money supply changes.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> With other monetarists he believed that the active manipulation of the money supply or its growth rate is more likely to destabilise than stabilise the economy.
+</p>
+<h3><span class="mw-headline" id="Opposition_to_the_gold_standard">Opposition to the gold standard</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Monetarism&amp;action=edit&amp;section=2" title="Edit section: Opposition to the gold standard">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Most monetarists oppose the <a href="/wiki/Gold_standard" title="Gold standard">gold standard</a>. Friedman, for example, viewed a pure gold standard as impractical.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> For example, whereas one of the benefits of the gold standard is that the intrinsic limitations to the growth of the money supply by the use of gold would prevent inflation, if the growth of population or increase in trade outpaces the money supply, there would be no way to counteract deflation and reduced liquidity (and any attendant recession) except for the mining of more gold.
+</p>
+<h2><span class="mw-headline" id="Rise">Rise</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Monetarism&amp;action=edit&amp;section=3" title="Edit section: Rise">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Clark_Warburton" title="Clark Warburton">Clark Warburton</a> is credited with making the first solid empirical case for the monetarist interpretation of <a href="/wiki/Business_fluctuation" class="mw-redirect" title="Business fluctuation">business fluctuations</a> in a series of papers from 1945.<sup id="cite_ref-Cagan_1-1" class="reference"><a href="#cite_note-Cagan-1">&#91;1&#93;</a></sup><sup>p.&#160;493</sup> Within mainstream economics, the rise of monetarism accelerated from <a href="/wiki/Milton_Friedman" title="Milton Friedman">Milton Friedman</a>'s 1956 restatement of the <a href="/wiki/Quantity_theory_of_money" title="Quantity theory of money">quantity theory of money</a>. Friedman argued that the <a href="/wiki/Demand_for_money" title="Demand for money">demand for money</a> could be described as depending on a small number of economic variables.<sup id="cite_ref-hilbertcorporation_7-0" class="reference"><a href="#cite_note-hilbertcorporation-7">&#91;7&#93;</a></sup>
+</p><p>Thus, where the <a href="/wiki/Money_supply" title="Money supply">money supply</a> expanded, people would not simply wish to hold the extra money in idle money balances; i.e., if they were in equilibrium before the increase, they were already holding money balances to suit their requirements, and thus after the increase they would have money balances surplus to their requirements. These excess money balances would therefore be spent and hence <a href="/wiki/Aggregate_demand" title="Aggregate demand">aggregate demand</a> would rise. Similarly, if the money supply were reduced people would want to replenish their holdings of money by reducing their spending. In this, Friedman challenged a simplification attributed to Keynes suggesting that "money does not matter."<sup id="cite_ref-hilbertcorporation_7-1" class="reference"><a href="#cite_note-hilbertcorporation-7">&#91;7&#93;</a></sup> Thus the word 'monetarist' was coined.
+</p><p>The rise of the popularity of monetarism also picked up in political circles when Keynesian economics seemed unable to explain or cure the seemingly contradictory problems of rising <a href="/wiki/Unemployment" title="Unemployment">unemployment</a> and <a href="/wiki/Inflation_(economics)" class="mw-redirect" title="Inflation (economics)">inflation</a> in response to the collapse of the <a href="/wiki/Bretton_Woods_system" title="Bretton Woods system">Bretton Woods system</a> in 1972 and the <a href="/wiki/1973_oil_crisis" title="1973 oil crisis">oil shocks of 1973</a>. On the one hand, higher unemployment seemed to call for Keynesian <a href="/wiki/Reflation" title="Reflation">reflation</a>, but on the other hand rising inflation seemed to call for Keynesian <a href="/wiki/Disinflation_(economics)" class="mw-redirect" title="Disinflation (economics)">disinflation</a>.
+</p><p>In 1979, President <a href="/wiki/Jimmy_Carter" title="Jimmy Carter">Jimmy Carter</a> appointed as Federal Reserve chief <a href="/wiki/Paul_Volcker" title="Paul Volcker">Paul Volcker</a>, who made fighting inflation his primary objective, and who restricted the money supply (in accordance with the <a href="/wiki/Friedman_rule" title="Friedman rule">Friedman rule</a>) to tame inflation in the economy. The result was a major rise in interest rates, not only in the United States; but worldwide. The "Volcker shock" continued from 1979 to the summer of 1982, dramatically both decreasing inflation and increasing <a href="/wiki/Unemployment" title="Unemployment">unemployment</a>. Monetarist economists never recognized that the policy implemented by the Federal Reserve from 1979 was a monetarist policy. Nevertheless, the influence of monetarism on the Federal Reserve was twofold: a direct influence, by the adherence of some members of the Federal Open Market Committee to monetarist ideas; and an indirect influence, because monetarist views were taken into account in the determination of US monetary policy: even the members of the FOMC who were not monetarists took monetarist influence into strong consideration.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> 
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a href="/wiki/File:Money_supply_during_the_great_depression_era.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Money_supply_during_the_great_depression_era.png/400px-Money_supply_during_the_great_depression_era.png" width="400" height="194" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Money_supply_during_the_great_depression_era.png/600px-Money_supply_during_the_great_depression_era.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Money_supply_during_the_great_depression_era.png/800px-Money_supply_during_the_great_depression_era.png 2x" data-file-width="3036" data-file-height="1473" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Money_supply_during_the_great_depression_era.png" class="internal" title="Enlarge"></a></div>Money supply decreased significantly between <a href="/wiki/Black_Tuesday" class="mw-redirect" title="Black Tuesday">Black Tuesday</a> and the <a href="/wiki/Emergency_Banking_Act" title="Emergency Banking Act">Bank Holiday in March 1933</a> in the wake of massive <a href="/wiki/Bank_runs" class="mw-redirect" title="Bank runs">bank runs</a> across the United States.</div></div></div>
+<p>Monetarists not only sought to explain present problems; they also interpreted historical ones. Milton Friedman and <a href="/wiki/Anna_Schwartz" title="Anna Schwartz">Anna Schwartz</a> in their book <i>A Monetary History of the United States, 1867–1960</i> argued that the <a href="/wiki/Great_Depression" title="Great Depression">Great Depression</a> of 1930 was caused by a massive contraction of the money supply and not by the lack of investment Keynes had argued. They also maintained that post-war inflation was caused by an over-expansion of the money supply.
+</p><p>They made famous the assertion of monetarism that "inflation is always and everywhere a monetary phenomenon". Many Keynesian economists initially believed that the Keynesian vs. monetarist debate was solely about whether fiscal or <a href="/wiki/Monetary_policy" title="Monetary policy">monetary policy</a> was the more effective tool of demand management. By the mid-1970s, however, the debate had moved on to other issues as monetarists began presenting a fundamental challenge to Keynesianism.
+</p><p>Many monetarists sought to resurrect the pre-Keynesian view that market economies are inherently stable in the absence of major unexpected fluctuations in the money supply. Because of this belief in the stability of free-market economies they asserted that active demand management (e.g. by the means of increasing government spending) is unnecessary and indeed likely to be harmful. The basis of this argument is a relationship between "stimulus" fiscal spending and future interest rates. In effect, Friedman's model argues that current fiscal spending creates as much of a drag on the economy by increased interest rates as it creates present consumption: that it has no real effect on total demand, merely that of shifting demand from the investment sector to the consumer sector.
+</p><p>When <a href="/wiki/Margaret_Thatcher" title="Margaret Thatcher">Margaret Thatcher</a>, Leader of the <a href="/wiki/Conservative_Party_(UK)" title="Conservative Party (UK)">Conservative Party</a> in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, won the <a href="/wiki/United_Kingdom_general_election,_1979" title="United Kingdom general election, 1979">1979 general election</a> defeating the sitting <a href="/wiki/Labour_Party_(UK)" title="Labour Party (UK)">Labour Government</a> led by <a href="/wiki/James_Callaghan" title="James Callaghan">James Callaghan</a>, the UK had endured several years of severe <a href="/wiki/Inflation" title="Inflation">inflation</a>, which was rarely below the 10% mark and by the time of the May 1979 general election, stood at 15.4%.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> Thatcher implemented monetarism as the weapon in her battle against inflation, and succeeded at reducing it to 4.6% by 1983.
+</p><p>Callaghan had adopted anti-inflation policies during his tenure as Prime Minister from 1976-79, reducing public spending in response to high inflation and national debt. He initially had some success, as inflation was below 10% by the summer of 1978, although unemployment now stood at 1,500,000. However, by the time of his election defeat barely a year later, inflation had risen to 15.4%.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Current_state">Current state</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Monetarism&amp;action=edit&amp;section=4" title="Edit section: Current state">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Since 1990, the classical form of monetarism has been questioned. This is because of events that many economists interpreted as being inexplicable in monetarist terms: the disconnection of the money supply growth from inflation in the 1990s and the failure of pure monetary policy to stimulate the economy in the 2001–2003 period. Greenspan argued that the 1990s decoupling was explained by a <a href="/wiki/Virtuous_cycle" class="mw-redirect" title="Virtuous cycle">virtuous cycle</a> of productivity and investment on one hand, and a certain degree of "<a href="/wiki/Irrational_exuberance" title="Irrational exuberance">irrational exuberance</a>" in the investment sector on the other.
+</p><p>There are also arguments that monetarism is a special case of Keynesian theory. The central test case over the validity of these theories would be the possibility of a <a href="/wiki/Liquidity_trap" title="Liquidity trap">liquidity trap</a>, like that experienced by Japan. <a href="/wiki/Ben_Bernanke" title="Ben Bernanke">Ben Bernanke</a>, Princeton professor and another former chairman of the U.S. Federal Reserve, argued that monetary policy could respond to zero interest rate conditions by direct expansion of the money supply. In his words, "We have the keys to the printing press, and we are not afraid to use them." Progressive economist <a href="/wiki/Paul_Krugman" title="Paul Krugman">Paul Krugman</a> has advanced the counterargument that this would have a corresponding devaluationary effect, like the sustained low interest rates of 2001–2004 produced against world currencies.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2010)">citation needed</span></a></i>&#93;</sup>
+</p><p>These disagreements—along with the role of monetary policies in trade liberalisation, international investment, and central bank policy—remain lively topics of investigation and argument.
+</p>
+<h2><span class="mw-headline" id="Notable_proponents">Notable proponents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Monetarism&amp;action=edit&amp;section=5" title="Edit section: Notable proponents">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em;">
+<ul><li><a href="/wiki/Karl_Brunner_(economist)" title="Karl Brunner (economist)">Karl Brunner</a></li>
+<li><a href="/wiki/Phillip_D._Cagan" title="Phillip D. Cagan">Phillip D. Cagan</a></li>
+<li><a href="/wiki/Milton_Friedman" title="Milton Friedman">Milton Friedman</a></li>
+<li><a href="/wiki/Alan_Greenspan" title="Alan Greenspan">Alan Greenspan</a></li>
+<li><a href="/wiki/David_Laidler" title="David Laidler">David Laidler</a></li>
+<li><a href="/wiki/Allan_Meltzer" class="mw-redirect" title="Allan Meltzer">Allan Meltzer</a></li>
+<li><a href="/wiki/Anna_Schwartz" title="Anna Schwartz">Anna Schwartz</a></li>
+<li><a href="/wiki/Margaret_Thatcher" title="Margaret Thatcher">Margaret Thatcher</a></li>
+<li><a href="/wiki/Paul_Volcker" title="Paul Volcker">Paul Volcker</a></li>
+<li><a href="/wiki/Clark_Warburton" title="Clark Warburton">Clark Warburton</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Monetarism&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a href="/wiki/Austrian_School_of_economics" class="mw-redirect" title="Austrian School of economics">Austrian School of economics</a></li>
+<li><a href="/wiki/Chicago_school_of_economics" title="Chicago school of economics">Chicago school of economics</a></li>
+<li><a href="/wiki/Demurrage_(currency)" title="Demurrage (currency)">Demurrage (currency)</a></li>
+<li><a href="/wiki/Fiscalism" title="Fiscalism">Fiscalism</a> (usually contrasted to monetarism)</li>
+<li><a href="/wiki/Inflation_targeting" title="Inflation targeting">Inflation targeting</a></li>
+<li><a href="/wiki/Market_monetarism" title="Market monetarism">Market monetarism</a></li>
+<li><a href="/wiki/Modern_Monetary_Theory" title="Modern Monetary Theory">Modern Monetary Theory</a></li></ul>
+</div>
+<p><b>General:</b>
+</p>
+<ul><li><a href="/wiki/Macroeconomics" title="Macroeconomics">Macroeconomics</a></li>
+<li><a href="/wiki/Political_economy" title="Political economy">Political economy</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Monetarism&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Cagan-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Cagan_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Cagan_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="/wiki/Phillip_Cagan" class="mw-redirect" title="Phillip Cagan">Phillip Cagan</a>, 1987. "Monetarism", <i><a href="/wiki/The_New_Palgrave:_A_Dictionary_of_Economics" class="mw-redirect" title="The New Palgrave: A Dictionary of Economics">The New Palgrave: A Dictionary of Economics</a></i>, v. 3, Reprinted in John Eatwell et al. (1989), <i>Money: The New Palgrave</i>, pp. 195–205, 492–97.</span>
+</li>
+<li id="cite_note-reason-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-reason_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Doherty, Brian (June 1995). <a rel="nofollow" class="external text" href="http://reason.com/archives/1995/06/01/best-of-both-worlds">"Best of Both Worlds"</a>. Reason<span class="reference-accessdate">. Retrieved <span class="nowrap">July 28,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Best+of+Both+Worlds&amp;rft.pub=Reason&amp;rft.date=1995-06&amp;rft.aulast=Doherty&amp;rft.aufirst=Brian&amp;rft_id=http%3A%2F%2Freason.com%2Farchives%2F1995%2F06%2F01%2Fbest-of-both-worlds&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonetarism" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Mankiw, N. Gregory. "Real Business Cycles: A New Keynesian Perspective". Journal of Economic Perspectives 3.3 (1989): 79–90. Web.|date=October 2013</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Thomas Palley (November 27, 2006). <a rel="nofollow" class="external text" href="http://www.thomaspalley.com/?p=59">"Milton Friedman: The Great Conservative Partisan"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">June 20,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Milton+Friedman%3A+The+Great+Conservative+Partisan&amp;rft.date=2006-11-27&amp;rft.au=Thomas+Palley&amp;rft_id=http%3A%2F%2Fwww.thomaspalley.com%2F%3Fp%3D59&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonetarism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/><sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources"><span title="The material near this tag may rely on an unreliable source. (June 2013)">unreliable source?</span></a></i>&#93;</sup></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news">Ip, Greg; Whitehouse, Mark (2006-11-17). <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/SB116369744597625238">"How Milton Friedman Changed Economics, Policy and Markets"</a>. <i>The Wall Street Journal</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Wall+Street+Journal&amp;rft.atitle=How+Milton+Friedman+Changed+Economics%2C+Policy+and+Markets&amp;rft.date=2006-11-17&amp;rft.aulast=Ip&amp;rft.aufirst=Greg&amp;rft.au=Whitehouse%2C+Mark&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2FSB116369744597625238&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonetarism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fff.org/freedom/0399b.asp">Monetary Central Planning and the State, Part 27: Milton Friedman's Second Thoughts on the Costs of Paper Money</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20121114140436/http://fff.org/freedom/0399b.asp">Archived</a> November 14, 2012, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-hilbertcorporation-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-hilbertcorporation_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hilbertcorporation_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Friedman, Milton (1970). "A Theoretical Framework for Monetary Analysis". <i><a href="/wiki/Journal_of_Political_Economy" title="Journal of Political Economy">Journal of Political Economy</a></i>. <b>78</b> (2): 193–238 [p. 210]. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1086%2F259623">10.1086/259623</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/1830684">1830684</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Political+Economy&amp;rft.atitle=A+Theoretical+Framework+for+Monetary+Analysis&amp;rft.volume=78&amp;rft.issue=2&amp;rft.pages=193-238+p.+210&amp;rft.date=1970&amp;rft_id=info%3Adoi%2F10.1086%2F259623&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F1830684&amp;rft.aulast=Friedman&amp;rft.aufirst=Milton&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonetarism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Reichart Alexandre &amp; Abdelkader Slifi (2016). 'The Influence of Monetarism on Federal Reserve Policy during the 1980s.' Cahiers d'économie Politique/Papers in Political Economy, (1), pp. 107–50. <a rel="nofollow" class="external free" href="https://www.cairn.info/revue-cahiers-d-economie-politique-2016-1-page-107.htm">https://www.cairn.info/revue-cahiers-d-economie-politique-2016-1-page-107.htm</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thisismoney.co.uk/money/news/article-1586103/Inflation--Interest-rates--Economic-growth--Unemployment-Latest-statistics.html">"Economy tables: GDP, interest rates and inflation history, unemployment"</a>. This Is Money<span class="reference-accessdate">. Retrieved <span class="nowrap">June 20,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Economy+tables%3A+GDP%2C+interest+rates+and+inflation+history%2C+unemployment&amp;rft.pub=This+Is+Money&amp;rft_id=http%3A%2F%2Fwww.thisismoney.co.uk%2Fmoney%2Fnews%2Farticle-1586103%2FInflation--Interest-rates--Economic-growth--Unemployment-Latest-statistics.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonetarism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/history/historic_figures/callaghan_james.shtml">"History – James Callaghan (1912–2005)"</a>. BBC<span class="reference-accessdate">. Retrieved <span class="nowrap">June 20,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=History+%E2%80%93+James+Callaghan+%281912%E2%80%932005%29&amp;rft.pub=BBC&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fhistory%2Fhistoric_figures%2Fcallaghan_james.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonetarism" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_references">Further references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Monetarism&amp;action=edit&amp;section=8" title="Edit section: Further references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Andersen, Leonall C., and Jerry L. Jordan, 1968. "Monetary and Fiscal Actions: A Test of Their Relative Importance in Economic Stabilisation", Federal Reserve Bank of St. Louis <i>Review</i> (November), pp.&#160;11–24. <a rel="nofollow" class="external text" href="http://research.stlouisfed.org/publications/review/86/10/Fiscal_Oct1986.pdf">PDF</a> (30 sec. load: press <b>+</b>) and <a rel="nofollow" class="external text" href="http://webcache.googleusercontent.com/search?q=cache:RMxJDIAA2OcJ:research.stlouisfed.org/publications/review/86/10/Fiscal_Oct1986.pdf=1&amp;hl=en&amp;ct=clnk&amp;gl=us">HTML.</a></li>
+<li>_____, 1969. "Monetary and Fiscal Actions: A Test of Their Relative Importance in Economic Stabilisation — Reply", Federal Reserve Bank of St. Louis <i>Review</i> (April), pp.&#160;12–16. <a rel="nofollow" class="external text" href="http://research.stlouisfed.org/publications/review/69/04/Reply_Apr1969.pdf">PDF</a> (15 sec. load; press <b>+</b>) and <a rel="nofollow" class="external text" href="http://webcache.googleusercontent.com/search?q=cache:v5rx3Ysw_WEJ:research.stlouisfed.org/publications/review/69/04/Reply_Apr1969.pdf=1&amp;hl=en&amp;ct=clnk&amp;gl=us">HTML.</a></li>
+<li>Brunner, Karl, and Allan H. Meltzer, 1993. <i>Money and the Economy: Issues in Monetary Analysis</i>, Cambridge. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=eGjfH47Roj4C&amp;dq=Brunner+Meltzer+%22Money+and+the+Economy:+Issues++in+Monetary+Analysis&#39;&amp;source=gbs_summary_s&amp;cad=0">Description</a> and chapter previews, pp. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=eGjfH47Roj4C&amp;pg=PR9&amp;lpg=PR9&amp;dq=Brunner+Meltzer+%22Money+and+the+Economy:+Issues++in+Monetary+Analysis%27.">ix</a>–<a rel="nofollow" class="external text" href="https://books.google.com/books?id=eGjfH47Roj4C&amp;pg=PR10&amp;lpg=PR9&amp;dq=Brunner+Meltzer+%22Money+and+the+Economy:+Issues++in+Monetary+Analysis%27.">x.</a></li>
+<li>Cagan, Phillip, 1965. <i>Determinants and Effects of Changes in the Stock of Money, 1875–1960</i>. NBER. Foreword by Milton Friedman, pp. xiii–xxviii. <a rel="nofollow" class="external text" href="https://www.nber.org/books/caga65-1">Table of Contents.</a></li>
+<li>Friedman, Milton, ed. 1956. <i>Studies in the Quantity Theory of Money</i>, Chicago. Chapter 1 is previewed at Friedman, 2005, ch. 2 link.</li>
+<li>_____, 1960. <i>A Program for Monetary Stability</i>. Fordham University Press.</li>
+<li>_____, 1968. "The Role of Monetary Policy", <i>American Economic Review</i>, 58(1), pp. <a rel="nofollow" class="external text" href="http://www.nvcc.edu/home/jmin/ReadingStuff/The%20Role%20of%20Monetary%20Policy%20by%20Friedman.pdf">1–17</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since April 2018">permanent dead link</span></a></i>&#93;</span></sup> (press <b>+</b>).</li>
+<li>_____, [1969] 2005. <i>The Optimum Quantity of Money</i>. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=XVCgcHQS_nQC">Description</a> and <a rel="nofollow" class="external text" href="https://books.google.com/books?id=XVCgcHQS_nQC&amp;printsec=frontcover#PPR5,M1">table of contents</a>, with previews of 3 chapters.</li>
+<li>Friedman, Milton, and David Meiselman, 1963. "The Relative Stability of Monetary Velocity and the Investment Multiplier in the United States, 1897–1958", in <i>Stabilization Policies</i>, pp.&#160;165–268. Prentice-Hall/Commission on Money and Credit, 1963.</li>
+<li>Friedman, Milton, and Anna Jacobson Schwartz, 1963a. "Money and Business Cycles", <i>Review of Economics and Statistics</i>, 45(1), Part 2, Supplement, p. <a rel="nofollow" class="external text" href="https://www.jstor.org/pss/1927148">p. 32</a>–64. Reprinted in Schwartz, 1987, <i>Money in Historical Perspective</i>, ch. 2.</li>
+<li>_____. 1963b. <i>A Monetary History of the United States, 1867–1960</i>. Princeton. Page-searchable links to chapters on <a rel="nofollow" class="external text" href="https://books.google.com/books?id=Q7J_EUM3RfoC&amp;pg=PR9&amp;lpg=PP1&amp;dq=%22A+Monetary+History+of+the+United+States,+1867-1960%22">1929-41</a> and <a rel="nofollow" class="external text" href="https://books.google.com/books?id=Q7J_EUM3RfoC&amp;pg=PR10&amp;lpg=PP1&amp;dq=%22A+Monetary+History+of+the+United+States,+1867-1960%22">1948–60</a></li>
+<li><a href="/wiki/Harry_Gordon_Johnson" title="Harry Gordon Johnson">Johnson, Harry G.</a>, 1971. "The Keynesian Revolutions and the Monetarist Counter-Revolution", <i>American Economic Review</i>, 61(2), p. <a rel="nofollow" class="external text" href="https://www.jstor.org/pss/1816968">p. 1</a>–14. Reprinted in <a href="/wiki/John_Cunningham_Wood" title="John Cunningham Wood">John Cunningham Wood</a> and Ronald N. Woods, ed., 1990, <i>Milton Friedman: Critical Assessments</i>, v. 2, p. <a rel="nofollow" class="external text" href="https://books.google.com/books?hl=en&amp;lr=&amp;id=t4-nLZRU_GAC&amp;oi=fnd&amp;pg=PA72&amp;ots=dO8v2lmxTC&amp;sig=26wPsicAWLPP1jZ04tzl6JI5RMM">p. 72</a> <a rel="nofollow" class="external text" href="https://books.google.com/books?id=t4-nLZRU_GAC&amp;printsec=frontcover#PPA75,M1">–</a> 88. Routledge,</li>
+<li>Laidler, David E.W., 1993. <i>The Demand for Money: Theories, Evidence, and Problems</i>, 4th ed. <a rel="nofollow" class="external text" href="https://www.amazon.co.uk/Demand-Money-Theories-HarperCollins-Economics/dp/0065010981">Description.</a></li>
+<li><a href="/wiki/Anna_J._Schwartz" class="mw-redirect" title="Anna J. Schwartz">Schwartz, Anna J.</a>, 1987. <i>Money in Historical Perspective</i>, University of Chicago Press. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=Oco-yeAJhaEC">Description</a> and Chapter-preview links, pp. <a rel="nofollow" class="external text" href="https://books.google.com/books?hl=en&amp;lr=&amp;id=Oco-yeAJhaEC&amp;oi=fnd&amp;pg=PR9&amp;ots=OrduCkNTM8&amp;sig=HYSO9w3KuJTb-ECP0N2hEc1AAqk#PPR7,M1">vii</a>-<a rel="nofollow" class="external text" href="https://books.google.com/books?hl=en&amp;lr=&amp;id=Oco-yeAJhaEC&amp;oi=fnd&amp;pg=PR9&amp;ots=OrduCkNTM8&amp;sig=HYSO9w3KuJTb-ECP0N2hEc1AAqk#PPR8,M1">viii.</a></li>
+<li>Warburton, Clark, 1966. <i>Depression, Inflation, and Monetary Policy; Selected Papers, 1945–1953</i> Johns Hopkins Press. <a rel="nofollow" class="external text" href="https://www.amazon.com/gp/product/0801806550">Amazon Summary</a> in Anna J. Schwartz, <i>Money in Historical Perspective</i>, 1987.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Monetarism&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070821085549/http://cepa.newschool.edu/het/schools/monetar.htm">"Monetarism"</a> at The New School's Economics Department's History of Economic Thought website.</li>
+<li><cite class="citation encyclopaedia"><a href="/wiki/Bennett_McCallum" title="Bennett McCallum">McCallum, Bennett T.</a> (2008). <a rel="nofollow" class="external text" href="http://www.econlib.org/library/Enc/Monetarism.html">"Monetarism"</a>.  In <a href="/wiki/David_R._Henderson" title="David R. Henderson">David R. Henderson</a> (ed.). <i><a href="/wiki/Concise_Encyclopedia_of_Economics" class="mw-redirect" title="Concise Encyclopedia of Economics">Concise Encyclopedia of Economics</a></i> (2nd ed.). Indianapolis: <a href="/wiki/Library_of_Economics_and_Liberty" class="mw-redirect" title="Library of Economics and Liberty">Library of Economics and Liberty</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0865976658" title="Special:BookSources/978-0865976658">978-0865976658</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/237794267">237794267</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Monetarism&amp;rft.btitle=Concise+Encyclopedia+of+Economics&amp;rft.place=Indianapolis&amp;rft.edition=2nd&amp;rft.pub=Library+of+Economics+and+Liberty&amp;rft.date=2008&amp;rft_id=info%3Aoclcnum%2F237794267&amp;rft.isbn=978-0865976658&amp;rft.aulast=McCallum&amp;rft.aufirst=Bennett+T.&amp;rft_id=http%3A%2F%2Fwww.econlib.org%2Flibrary%2FEnc%2FMonetarism.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonetarism" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Extra text: editors list (<a href="/wiki/Category:CS1_maint:_Extra_text:_editors_list" title="Category:CS1 maint: Extra text: editors list">link</a>) </span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><a rel="nofollow" class="external text" href="http://www.economist.com/economics-a-to-z/m#node-21529789">Monetarism</a> from the Economics A–Z of <a href="/wiki/The_Economist" title="The Economist">The Economist</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Macroeconomic_schools_of_thought" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Macroeconomics-footer" title="Template:Macroeconomics-footer"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Macroeconomics-footer" title="Template talk:Macroeconomics-footer"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Macroeconomics-footer&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Macroeconomic_schools_of_thought" style="font-size:114%;margin:0 4em"><a href="/wiki/Macroeconomics" title="Macroeconomics">Macroeconomic</a> schools of thought</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Austrian_School" title="Austrian School">Austrian School</a></li>
+<li><a href="/wiki/Keynesian_economics" title="Keynesian economics">Keynesian economics</a></li>
+<li><a class="mw-selflink selflink">Monetarism</a></li>
+<li><a href="/wiki/Neo-Keynesian_economics" title="Neo-Keynesian economics">Neo-Keynesian economics</a></li>
+<li><a href="/wiki/Market_monetarism" title="Market monetarism">Neo-Monetarism</a></li>
+<li><a href="/wiki/New_classical_macroeconomics" title="New classical macroeconomics">New classical macroeconomics</a></li>
+<li><a href="/wiki/New_Keynesian_economics" title="New Keynesian economics">New Keynesian economics</a></li>
+<li><a href="/wiki/Post-Keynesian_economics" title="Post-Keynesian economics">Post-Keynesian economics</a></li>
+<li><a href="/wiki/Supply-side_economics" title="Supply-side economics">Supply-side economics</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Schools_of_economic_thought" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Schools_of_economic_thought" title="Template:Schools of economic thought"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Schools_of_economic_thought" title="Template talk:Schools of economic thought"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Schools_of_economic_thought&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Schools_of_economic_thought" style="font-size:114%;margin:0 4em"><a href="/wiki/Schools_of_economic_thought" title="Schools of economic thought">Schools of economic thought</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Pre-modern</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ancient_economic_thought" title="Ancient economic thought">Ancient schools</a></li>
+<li><a href="/wiki/Islamic_economic_jurisprudence" class="mw-redirect" title="Islamic economic jurisprudence">Medieval Islamic</a></li>
+<li><a href="/wiki/Scholasticism" title="Scholasticism">Scholasticism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Early modern</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cameralism" title="Cameralism">Cameralism</a></li>
+<li><a href="/wiki/Mercantilism" title="Mercantilism">Mercantilism</a></li>
+<li><a href="/wiki/Physiocracy" title="Physiocracy">Physiocrats</a></li>
+<li><a href="/wiki/School_of_Salamanca" title="School of Salamanca">School of Salamanca</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Modern</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/American_School_(economics)" title="American School (economics)">American (National)</a></li>
+<li><a href="/wiki/Anarchist_economics" title="Anarchist economics">Anarchist</a>
+<ul><li><a href="/wiki/Mutualism_(economic_theory)" title="Mutualism (economic theory)">Mutualism</a></li></ul></li>
+<li><a href="/wiki/Austrian_School" title="Austrian School">Austrian</a></li>
+<li><a href="/wiki/Birmingham_School_(economics)" title="Birmingham School (economics)">Birmingham</a></li>
+<li><a href="/wiki/Classical_economics" title="Classical economics">Classical</a>
+<ul><li><a href="/wiki/Ricardian_economics" title="Ricardian economics">Ricardian</a></li></ul></li>
+<li><a href="/wiki/English_historical_school_of_economics" title="English historical school of economics">English historical</a></li>
+<li><a href="/wiki/French_Liberal_School" title="French Liberal School">French Liberal</a></li>
+<li><a href="/wiki/Georgism" title="Georgism">Georgism</a></li>
+<li><a href="/wiki/Historical_school_of_economics" title="Historical school of economics">German historical</a></li>
+<li><a href="/wiki/Malthusianism" title="Malthusianism">Malthusian</a></li>
+<li><a href="/wiki/Marxian_economics" title="Marxian economics">Marxian</a></li>
+<li><a href="/wiki/Neoclassical_economics" title="Neoclassical economics">Neoclassical</a>
+<ul><li><a href="/wiki/Lausanne_School" title="Lausanne School">Lausanne</a></li>
+<li><a href="/wiki/Marginalism" title="Marginalism">Marginalism</a></li></ul></li>
+<li><a href="/wiki/Socialist_economics" title="Socialist economics">Socialist</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">20th- and 21st-century</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Behavioral_economics" title="Behavioral economics">Behavioral</a></li>
+<li><a href="/wiki/Buddhist_economics" title="Buddhist economics">Buddhist</a></li>
+<li><a href="/wiki/Capability_approach" title="Capability approach">Capability approach</a></li>
+<li><a href="/wiki/Carnegie_School" title="Carnegie School">Carnegie</a></li>
+<li><a href="/wiki/Chicago_school_of_economics" title="Chicago school of economics">Chicago</a></li>
+<li><a href="/wiki/Monetary_circuit_theory" title="Monetary circuit theory">Circuitism</a></li>
+<li><a href="/wiki/Constitutional_economics" title="Constitutional economics">Constitutional</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological</a></li>
+<li><a href="/wiki/Evolutionary_economics" title="Evolutionary economics">Evolutionary</a></li>
+<li><a href="/wiki/Feminist_economics" title="Feminist economics">Feminist</a></li>
+<li><a href="/wiki/Freiburg_school" title="Freiburg school">Freiburg</a></li>
+<li><a href="/wiki/Institutional_economics" title="Institutional economics">Institutional</a></li>
+<li><a href="/wiki/Keynesian_economics" title="Keynesian economics">Keynesian</a>
+<ul><li><a href="/wiki/Neo-Keynesian_economics" title="Neo-Keynesian economics">Neo</a></li>
+<li><a href="/wiki/New_Keynesian_economics" title="New Keynesian economics">New</a></li>
+<li><a href="/wiki/Post-Keynesian_economics" title="Post-Keynesian economics">Post</a></li></ul></li>
+<li><a href="/wiki/Modern_monetary_theory" class="mw-redirect" title="Modern monetary theory">Modern monetary theory</a></li>
+<li><a class="mw-selflink selflink">Monetarism</a> (<a href="/wiki/Market_monetarism" title="Market monetarism">Market</a>)</li>
+<li><a href="/wiki/Neo-Malthusian_economics" class="mw-redirect" title="Neo-Malthusian economics">Neo-Malthusian</a></li>
+<li><a href="/wiki/Neo-Marxian_economics" title="Neo-Marxian economics">Neo-Marxian</a></li>
+<li><a href="/wiki/Neo-Ricardianism" title="Neo-Ricardianism">Neo-Ricardian</a></li>
+<li><a href="/wiki/New_classical_macroeconomics" title="New classical macroeconomics">New classical</a>
+<ul><li><a href="/wiki/Rational_expectations" title="Rational expectations">Rational expectations theory</a></li>
+<li><a href="/wiki/Real_business-cycle_theory" title="Real business-cycle theory">Real business-cycle theory</a></li></ul></li>
+<li><a href="/wiki/New_institutional_economics" title="New institutional economics">New institutional</a></li>
+<li><a href="/wiki/Organizational_economics" title="Organizational economics">Organizational</a></li>
+<li><a href="/wiki/Public_choice" title="Public choice">Public choice</a></li>
+<li><a href="/wiki/Regulation_school" title="Regulation school">Regulation</a></li>
+<li><a href="/wiki/Saltwater_and_freshwater_economics" title="Saltwater and freshwater economics">Saltwater/freshwater</a></li>
+<li><a href="/wiki/Stockholm_school_(economics)" title="Stockholm school (economics)">Stockholm</a></li>
+<li><a href="/wiki/Structuralist_economics" title="Structuralist economics">Structuralist</a></li>
+<li><a href="/wiki/Supply-side_economics" title="Supply-side economics">Supply-side</a></li>
+<li><a href="/wiki/Thermoeconomics" title="Thermoeconomics">Thermoeconomics</a></li>
+<li><a href="/wiki/Virginia_school_of_political_economy" title="Virginia school of political economy">Virginia</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_economic_thought" title="History of economic thought">History of economic thought</a></li>
+<li><a href="/wiki/History_of_macroeconomic_thought" title="History of macroeconomic thought">History of macroeconomic thought</a></li>
+<li><a href="/wiki/Economics" title="Economics">Economics</a></li>
+<li><a href="/wiki/Mainstream_economics" title="Mainstream economics">Mainstream economics</a></li>
+<li><a href="/wiki/Heterodox_economics" title="Heterodox economics">Heterodox economics</a></li>
+<li><a href="/wiki/Post-autistic_economics" title="Post-autistic economics">Post-autistic economics</a></li>
+<li><a href="/wiki/Degrowth" title="Degrowth">Degrowth</a></li>
+<li><a href="/wiki/World-systems_theory" title="World-systems theory">World-systems theory</a></li>
+<li><a href="/wiki/Economic_systems" class="mw-redirect" title="Economic systems">Economic systems</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Chicago_school_of_economics" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Chicago_school_economists" title="Template:Chicago school economists"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Chicago_school_economists" title="Template talk:Chicago school economists"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Chicago_school_economists&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Chicago_school_of_economics" style="font-size:114%;margin:0 4em"><a href="/wiki/Chicago_school_of_economics" title="Chicago school of economics">Chicago school of economics</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Founders</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Frank_Knight" title="Frank Knight">Frank Knight</a></li>
+<li><a href="/wiki/Henry_Calvert_Simons" title="Henry Calvert Simons">Henry Calvert Simons</a></li>
+<li><a href="/wiki/Jacob_Viner" title="Jacob Viner">Jacob Viner</a></li>
+<li><a href="/wiki/Theodore_Schultz" title="Theodore Schultz">Theodore Schultz</a></li>
+<li><a href="/wiki/George_Stigler" title="George Stigler">George Stigler</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a class="mw-selflink selflink">Monetarism</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Milton_Friedman" title="Milton Friedman">Milton Friedman</a></li>
+<li><a href="/wiki/Anna_J._Schwartz" class="mw-redirect" title="Anna J. Schwartz">Anna J. Schwartz</a></li>
+<li><a href="/wiki/Karl_Brunner_(economist)" title="Karl Brunner (economist)">Karl Brunner</a></li>
+<li><a href="/wiki/Phillip_D._Cagan" title="Phillip D. Cagan">Phillip D. Cagan</a></li>
+<li><a href="/wiki/Harry_G._Johnson" class="mw-redirect" title="Harry G. Johnson">Harry G. Johnson</a></li>
+<li><a href="/wiki/Allan_H._Meltzer" title="Allan H. Meltzer">Allan H. Meltzer</a></li>
+<li><a href="/wiki/David_Laidler" title="David Laidler">David Laidler</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Cliometrics" title="Cliometrics">New economic history</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Douglass_North" title="Douglass North">Douglass North</a></li>
+<li><a href="/wiki/Robert_Fogel" title="Robert Fogel">Robert Fogel</a></li>
+<li><a href="/wiki/Robert_M._Townsend" title="Robert M. Townsend">Robert M. Townsend</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Socioeconomics" title="Socioeconomics">New social economics</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jacob_Mincer" title="Jacob Mincer">Jacob Mincer</a></li>
+<li><a href="/wiki/Gary_Becker" title="Gary Becker">Gary Becker</a></li>
+<li><a href="/wiki/James_Heckman" title="James Heckman">James Heckman</a></li>
+<li><a href="/wiki/Thomas_Sowell" title="Thomas Sowell">Thomas Sowell</a></li>
+<li><a href="/wiki/Sherwin_Rosen" title="Sherwin Rosen">Sherwin Rosen</a></li>
+<li><a href="/wiki/Kevin_M._Murphy" title="Kevin M. Murphy">Kevin M. Murphy</a></li>
+<li><a href="/wiki/John_A._List" title="John A. List">John A. List</a></li>
+<li><a href="/wiki/Sudhir_Venkatesh" title="Sudhir Venkatesh">Sudhir Venkatesh</a></li>
+<li><a href="/wiki/Steven_Levitt" title="Steven Levitt">Steven Levitt</a></li>
+<li><a href="/wiki/Roland_G._Fryer_Jr." title="Roland G. Fryer Jr.">Roland Fryer</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Public_choice_theory" class="mw-redirect" title="Public choice theory">Public choice school</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/James_M._Buchanan" title="James M. Buchanan">James M. Buchanan</a></li>
+<li><a href="/wiki/Gordon_Tullock" title="Gordon Tullock">Gordon Tullock</a></li>
+<li><a href="/wiki/Randall_Gregory_Holcombe" class="mw-redirect" title="Randall Gregory Holcombe">Randall Holcombe</a></li>
+<li><a href="/wiki/Anthony_Downs" title="Anthony Downs">Anthony Downs</a></li>
+<li><a href="/wiki/William_A._Niskanen" title="William A. Niskanen">William A. Niskanen</a></li>
+<li><a href="/wiki/Bryan_Caplan" title="Bryan Caplan">Bryan Caplan</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Law_and_economics" title="Law and economics">Law and economics</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ronald_Coase" title="Ronald Coase">Ronald Coase</a></li>
+<li><a href="/wiki/Aaron_Director" title="Aaron Director">Aaron Director</a></li>
+<li><a href="/wiki/William_Landes" title="William Landes">William Landes</a></li>
+<li><a href="/wiki/Richard_Posner" title="Richard Posner">Richard Posner</a></li>
+<li><a href="/wiki/Richard_Epstein" title="Richard Epstein">Richard Epstein</a></li>
+<li><a href="/wiki/Robert_Bork" title="Robert Bork">Robert Bork</a></li>
+<li><a href="/wiki/Frank_H._Easterbrook" title="Frank H. Easterbrook">Frank H. Easterbrook</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Business and finance</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Harry_Markowitz" title="Harry Markowitz">Harry Markowitz</a></li>
+<li><a href="/wiki/Myron_Scholes" title="Myron Scholes">Myron Scholes</a></li>
+<li><a href="/wiki/Merton_Miller" title="Merton Miller">Merton Miller</a></li>
+<li><a href="/wiki/Julian_Simon" title="Julian Simon">Julian Lincoln Simon</a></li>
+<li><a href="/wiki/Eugene_Fama" title="Eugene Fama">Eugene Fama</a></li>
+<li><a href="/wiki/Kenneth_French" title="Kenneth French">Kenneth French</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Milton_Friedman" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Milton_Friedman" title="Template:Milton Friedman"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Milton_Friedman" title="Template talk:Milton Friedman"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Milton_Friedman&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Milton_Friedman" style="font-size:114%;margin:0 4em"><a href="/wiki/Milton_Friedman" title="Milton Friedman">Milton Friedman</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Academic career</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Statistics
+<ul><li><a href="/wiki/Friedman_test" title="Friedman test">Friedman test</a></li></ul></li>
+<li>Decision theory
+<ul><li><a href="/wiki/Friedman%E2%80%93Savage_utility_function" title="Friedman–Savage utility function">Friedman–Savage utility function</a></li></ul></li>
+<li>Economics
+<ul><li><a class="mw-selflink selflink">Monetarism</a></li>
+<li><a href="/wiki/Friedman_rule" title="Friedman rule">Friedman rule</a></li>
+<li><a href="/wiki/Friedman%27s_k-percent_rule" title="Friedman&#39;s k-percent rule">Friedman's k-percent rule</a></li>
+<li><a href="/wiki/Miracle_of_Chile" title="Miracle of Chile">Miracle of Chile</a></li>
+<li><a href="/wiki/Permanent_income_hypothesis" title="Permanent income hypothesis">Permanent income hypothesis</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Milton_Friedman_bibliography" title="Milton Friedman bibliography">Works</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Essays_in_Positive_Economics" title="Essays in Positive Economics">Essays in Positive Economics</a></i> (1953)</li>
+<li><i><a href="/wiki/Capitalism_and_Freedom" title="Capitalism and Freedom">Capitalism and Freedom</a></i> (1962)</li>
+<li><i><a href="/wiki/A_Monetary_History_of_the_United_States" title="A Monetary History of the United States">A Monetary History of the United States</a></i> (1963)</li>
+<li><i><a href="/wiki/Free_to_Choose" title="Free to Choose">Free to Choose</a></i> (1980)</li>
+<li><a href="/wiki/Milton_Friedman_bibliography" title="Milton Friedman bibliography">Milton Friedman bibliography</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Family</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Rose_Friedman" title="Rose Friedman">Rose Friedman</a> (wife)</li>
+<li><a href="/wiki/David_D._Friedman" title="David D. Friedman">David D. Friedman</a> (son)</li>
+<li><a href="/wiki/Patri_Friedman" title="Patri Friedman">Patri Friedman</a> (grandson)</li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q373177&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q373177&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q373177" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4040050-5">4040050-5</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2231
+Cached time: 20180929132749
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.424 seconds
+Real time usage: 0.547 seconds
+Preprocessor visited node count: 1612/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 88625/2097152 bytes
+Template argument size: 2348/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 9/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 19617/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.209/10.000 seconds
+Lua memory usage: 4.8 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  431.010      1 -total
+ 36.95%  159.237      1 Template:Reflist
+ 19.51%   84.107      4 Template:Cite_web
+ 13.11%   56.521      1 Template:Refimprove
+ 11.74%   50.614      1 Template:Economics_sidebar
+ 11.34%   48.872      4 Template:Fix
+ 10.91%   47.013      1 Template:Sidebar_with_collapsible_lists
+  9.65%   41.584      2 Template:Citation_needed
+  7.76%   33.429      1 Template:Cite_journal
+  7.75%   33.392      1 Template:Ambox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:42423-0!canonical and timestamp 20180929132748 and revision id 860035486
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Monetarism&amp;oldid=860035486">https://en.wikipedia.org/w/index.php?title=Monetarism&amp;oldid=860035486</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Monetary_economics" title="Category:Monetary economics">Monetary economics</a></li><li><a href="/wiki/Category:Milton_Friedman" title="Category:Milton Friedman">Milton Friedman</a></li><li><a href="/wiki/Category:20th-century_economic_history" title="Category:20th-century economic history">20th-century economic history</a></li><li><a href="/wiki/Category:21st-century_economic_history" title="Category:21st-century economic history">21st-century economic history</a></li><li><a href="/wiki/Category:Schools_of_economic_thought" title="Category:Schools of economic thought">Schools of economic thought</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_June_2013" title="Category:Articles lacking reliable references from June 2013">Articles lacking reliable references from June 2013</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2007" title="Category:Articles needing additional references from May 2007">Articles needing additional references from May 2007</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2013" title="Category:Articles with unsourced statements from October 2013">Articles with unsourced statements from October 2013</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2010" title="Category:Articles with unsourced statements from March 2010">Articles with unsourced statements from March 2010</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_April_2018" title="Category:Articles with dead external links from April 2018">Articles with dead external links from April 2018</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:CS1_maint:_Extra_text:_editors_list" title="Category:CS1 maint: Extra text: editors list">CS1 maint: Extra text: editors list</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Monetarism" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Monetarism" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Monetarism" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Monetarism" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Monetarism">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Monetarism&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Monetarism&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Monetarism" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Monetarism" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Monetarism&amp;oldid=860035486" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Monetarism&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q373177" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Monetarism&amp;id=860035486" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Monetarism">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Monetarism&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Monetarism&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Monetarism" hreflang="en">Wikiquote</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D8%A9_%D8%A7%D9%84%D9%86%D9%82%D8%AF%D9%8A%D8%A9" title="المدرسة النقدية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%B0%D1%80%D0%B8%D0%B7%D1%8A%D0%BC" title="Монетаризъм – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Monetarismus" title="Monetarismus – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Arianyddiaeth" title="Arianyddiaeth – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Monetarisme" title="Monetarisme – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Monetarismus" title="Monetarismus – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Monetarism" title="Monetarism – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9C%CE%BF%CE%BD%CE%B5%CF%84%CE%B1%CF%81%CE%B9%CF%83%CE%BC%CF%8C%CF%82" title="Μονεταρισμός – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Monetarismo" title="Monetarismo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Kvanta_teorio_de_mono" title="Kvanta teorio de mono – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Monetarismo" title="Monetarismo – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%BE%D9%88%D9%84%E2%80%8C%DA%AF%D8%B1%D8%A7%DB%8C%DB%8C" title="پول‌گرایی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Mon%C3%A9tarisme" title="Monétarisme – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%86%B5%ED%99%94%EC%A3%BC%EC%9D%98" title="통화주의 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Monetarisme" title="Monetarisme – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Monetarismo" title="Monetarismo – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%95%D7%A0%D7%99%D7%98%D7%A8%D7%99%D7%96%D7%9D" title="מוניטריזם – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Monetarizmas" title="Monetarizmas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%B0%D1%80%D0%B8%D0%B7%D0%B0%D0%BC" title="Монетаризам – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Monetarisme" title="Monetarisme – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%B9%E3%83%88" title="マネタリスト – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Monetarisme" title="Monetarisme – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Monetarizm" title="Monetarizm – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Monetaryzm" title="Monetaryzm – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Monetarismo" title="Monetarismo – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%B0%D1%80%D0%B8%D0%B7%D0%BC" title="Монетаризм – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Monetarism" title="Monetarism – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Monetarizmus" title="Monetarizmus – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%B0%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%BA%D0%B0_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%98%D0%B0" title="Монетаристичка теорија – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Monetaristi%C4%8Dka_teorija" title="Monetaristička teorija – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Monetaristinen_taloustiede" title="Monetaristinen taloustiede – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Monetarism" title="Monetarism – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Parasalc%C4%B1l%C4%B1k" title="Parasalcılık – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%B0%D1%80%D0%B8%D0%B7%D0%BC" title="Монетаризм – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_ngh%C4%A9a_ti%E1%BB%81n_t%E1%BB%87" title="Chủ nghĩa tiền tệ – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%B4%A7%E5%B8%81%E4%B8%BB%E4%B9%89" title="货币主义 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q373177#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 17 September 2018, at 22:05<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Monetarism&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.424","walltime":"0.547","ppvisitednodes":{"value":1612,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":88625,"limit":2097152},"templateargumentsize":{"value":2348,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":19617,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  431.010      1 -total"," 36.95%  159.237      1 Template:Reflist"," 19.51%   84.107      4 Template:Cite_web"," 13.11%   56.521      1 Template:Refimprove"," 11.74%   50.614      1 Template:Economics_sidebar"," 11.34%   48.872      4 Template:Fix"," 10.91%   47.013      1 Template:Sidebar_with_collapsible_lists","  9.65%   41.584      2 Template:Citation_needed","  7.76%   33.429      1 Template:Cite_journal","  7.75%   33.392      1 Template:Ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.209","limit":"10.000"},"limitreport-memusage":{"value":5035871,"limit":52428800}},"cachereport":{"origin":"mw2231","timestamp":"20180929132749","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw2175"});});</script>
+	</body>
+</html>

@@ -1,0 +1,1148 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Gaelic football - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gaelic_football","wgTitle":"Gaelic football","wgCurRevisionId":861421112,"wgRevisionId":861421112,"wgArticleId":37688,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use Irish English from June 2014","All Wikipedia articles written in Irish English","Use dmy dates from June 2014","All articles with unsourced statements","Articles with unsourced statements from May 2010","Articles with unsourced statements from May 2008","Gaelic football","Football codes","Gaelic games","Sports originating in Ireland","Team sports","1885 introductions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Gaelic_football","wgRelevantArticleId":37688,"wgRequestId":"W6@BHwrAIEIAAEyu6zMAAABI","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q204632","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Aidan_O%27Mahony_%26_Eoin_Bradley.jpg/1200px-Aidan_O%27Mahony_%26_Eoin_Bradley.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Gaelic_football"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Gaelic_football&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Gaelic_football&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Gaelic_football"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Gaelic_football rootpage-Gaelic_football skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Gaelic football</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox vcard" style="width:22em"><caption class="fn" style="padding-bottom:0.2em;">Gaelic football <br /> <i>Peil Ghaelach</i></caption><tbody><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Aidan_O%27Mahony_%26_Eoin_Bradley.jpg" class="image"><img alt="Aidan O&#39;Mahony &amp; Eoin Bradley.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Aidan_O%27Mahony_%26_Eoin_Bradley.jpg/220px-Aidan_O%27Mahony_%26_Eoin_Bradley.jpg" width="220" height="151" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Aidan_O%27Mahony_%26_Eoin_Bradley.jpg/330px-Aidan_O%27Mahony_%26_Eoin_Bradley.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Aidan_O%27Mahony_%26_Eoin_Bradley.jpg/440px-Aidan_O%27Mahony_%26_Eoin_Bradley.jpg 2x" data-file-width="2320" data-file-height="1596" /></a><div><a href="/wiki/Aidan_O%27Mahony" title="Aidan O&#39;Mahony">Aidan O'Mahony</a> of <a href="/wiki/Kerry_GAA" title="Kerry GAA">Kerry</a> <i>(left)</i> and <a href="/wiki/Eoin_Bradley" title="Eoin Bradley">Eoin Bradley</a> of <a href="/wiki/Derry_GAA" title="Derry GAA">Derry</a> <i>(right)</i> in action at <a href="/wiki/Croke_Park" title="Croke Park">Croke Park</a> during the final of the <a href="/wiki/2009_National_Football_League_(Ireland)" title="2009 National Football League (Ireland)">2009 National Football League</a></div></td></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">Highest <a href="/wiki/Sports_governing_body" title="Sports governing body">governing&#160;body</a></th><td style="line-height:1.3em;">
+<a href="/wiki/Gaelic_Athletic_Association" title="Gaelic Athletic Association">Gaelic Athletic Association</a> (GAA)</td></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">Nicknames</th><td style="line-height:1.3em;">
+<i>Caid</i> <br /> <i>Football</i> <br /> <i>Gaelic</i> <br /> <i>Gaa</i></td></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">First played</th><td style="line-height:1.3em;">
+1884<span class="noprint">&#59;&#32;134&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1884</span>)</span></td></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">Clubs</th><td style="line-height:1.3em;">
+<a href="/wiki/List_of_Gaelic_games_clubs" class="mw-redirect" title="List of Gaelic games clubs">More than 2,500</a></td></tr><tr><th colspan="2" style="text-align:center;background:#eee;">Characteristics</th></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">Contact</th><td style="line-height:1.3em;">
+Yes</td></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">Team members</th><td style="line-height:1.3em;">
+<div class="plainlist">
+<ul><li><a href="/wiki/Gaelic_football,_hurling_and_camogie_positions" title="Gaelic football, hurling and camogie positions">15 per team</a></li>
+<li><a href="/wiki/Gaelic_football,_hurling_and_camogie_positions" title="Gaelic football, hurling and camogie positions">7 per team (Sevens)</a></li></ul>
+</div></td></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;"><a href="/wiki/Mixed-sex_sports" title="Mixed-sex sports">Mixed gender</a></th><td style="line-height:1.3em;">
+No</td></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">Type</th><td style="line-height:1.3em;">
+Outdoor</td></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">Equipment</th><td style="line-height:1.3em;">
+<a href="/wiki/Ball_(Gaelic_football)" title="Ball (Gaelic football)">Gaelic football</a></td></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">Venue</th><td style="line-height:1.3em;">
+Gaelic games field</td></tr><tr><th colspan="2" style="text-align:center;background:#eee;">Presence</th></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;"><a href="/wiki/Olympic_Games" title="Olympic Games">Olympic</a></th><td style="line-height:1.3em;">
+<a href="/wiki/Gaelic_football_at_the_1904_Summer_Olympics" title="Gaelic football at the 1904 Summer Olympics">1904</a> (<a href="/wiki/Demonstration_sport" title="Demonstration sport">demonstration sport</a>)</td></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;"><a href="/wiki/Paralympic_Games" title="Paralympic Games">Paralympic</a></th><td style="line-height:1.3em;">
+No</td></tr></tbody></table>
+<p><b>Gaelic football</b> (<a href="/wiki/Irish_language" title="Irish language">Irish</a>: <i>Peil Ghaelach</i>; short name <i>Peil</i><sup id="cite_ref-google_1-0" class="reference"><a href="#cite_note-google-1">&#91;1&#93;</a></sup> or <i><a href="/wiki/Caid_(sport)" title="Caid (sport)">Caid</a></i>), commonly referred to as <b>football</b> or <b>Gaelic</b>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> is an Irish <a href="/wiki/Team_sport" title="Team sport">team sport</a>. It is played between two teams of 15 players on a rectangular grass pitch. The objective of the sport is to score by kicking or punching the ball into the other team's <a href="/wiki/Goal_(sport)" title="Goal (sport)">goals</a> (3 points) or between two upright posts above the goals and over a crossbar 2.5 metres (8.2&#160;ft) above the ground (1 point).
+</p><p>Players advance the football, a spherical leather ball, up the field with a combination of carrying, bouncing, kicking, hand-passing, and soloing (dropping the ball and then toe-kicking the ball upward into the hands). In the game, two types of scores are possible: points and goals. A point is awarded for kicking or hand-passing the ball over the crossbar, signalled by the umpire raising a white flag. A goal is awarded for kicking the ball under the crossbar into the net, signalled by the umpire raising a green flag. <a href="/wiki/Gaelic_football,_hurling_and_camogie_positions" title="Gaelic football, hurling and camogie positions">Positions in Gaelic football</a> are similar to that in other football codes, and comprise one <a href="/wiki/Goalkeeper" title="Goalkeeper">goalkeeper</a>, six backs, two midfielders, and six forwards, with a variable number of substitutes.
+</p><p>Gaelic football is one of four sports (collectively referred to as the "<a href="/wiki/Gaelic_games" title="Gaelic games">Gaelic games</a>") controlled by the <a href="/wiki/Gaelic_Athletic_Association" title="Gaelic Athletic Association">Gaelic Athletic Association</a> (GAA), the largest sporting organisation in <a href="/wiki/Ireland" title="Ireland">Ireland</a>. Along with <a href="/wiki/Hurling" title="Hurling">hurling</a> and <a href="/wiki/Camogie" title="Camogie">camogie</a>, Gaelic football is one of the few remaining strictly amateur sports in the world, with players, coaches, and managers prohibited from receiving any form of payment. Gaelic football is mainly played on the island of Ireland, although units of the Association exist in other areas such as Great Britain, North America and Australia.
+</p><p>The final of the <a href="/wiki/All-Ireland_Senior_Football_Championship" title="All-Ireland Senior Football Championship">All-Ireland Senior Championship</a>, held annually at <a href="/wiki/Croke_Park" title="Croke Park">Croke Park</a>, <a href="/wiki/Dublin" title="Dublin">Dublin</a>, draws crowds of more than 80,000 people. Outside Ireland, football is mainly played among members of the <a href="/wiki/Irish_diaspora" title="Irish diaspora">Irish diaspora</a>. <a href="/wiki/Gaelic_Park" title="Gaelic Park">Gaelic Park</a> in New York City is the largest purpose-built Gaelic sports venue outside Ireland. Three major football competitions operate throughout the year: the <a href="/wiki/National_Football_League_(Ireland)" title="National Football League (Ireland)">National Football League</a> and the <a href="/wiki/All-Ireland_Senior_Football_Championship" title="All-Ireland Senior Football Championship">All-Ireland Senior Championship</a> operate on an <a href="/wiki/Gaelic_Athletic_Association_county" title="Gaelic Athletic Association county">inter-county</a> basis, while the <a href="/wiki/All-Ireland_Senior_Club_Football_Championship" title="All-Ireland Senior Club Football Championship">All-Ireland Club Championship</a> is contested by individual clubs. The All-Ireland Senior Championship is considered the most prestigious event in Gaelic football.
+</p><p>Under the auspices of the GAA, Gaelic football is a male-only sport; however, the related sport of <a href="/wiki/Ladies%27_Gaelic_football" title="Ladies&#39; Gaelic football">ladies' Gaelic football</a> is governed by the <a href="/wiki/Ladies%27_Gaelic_Football_Association" title="Ladies&#39; Gaelic Football Association">Ladies' Gaelic Football Association</a>. <a href="/wiki/Comparison_of_Australian_rules_football_and_Gaelic_football" class="mw-redirect" title="Comparison of Australian rules football and Gaelic football">Similarities</a> between Gaelic football and <a href="/wiki/Australian_rules_football" title="Australian rules football">Australian rules football</a> have allowed the development of <a href="/wiki/International_rules_football" title="International rules football">international rules football</a>, a <a href="/wiki/Hybrid_sports" class="mw-redirect" title="Hybrid sports">hybrid sport</a>, and a <a href="/wiki/International_Rules_Series" title="International Rules Series">series of Test matches</a> has been held regularly since 1998.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Rules"><span class="tocnumber">2</span> <span class="toctext">Rules</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Playing_field"><span class="tocnumber">2.1</span> <span class="toctext">Playing field</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Duration"><span class="tocnumber">2.2</span> <span class="toctext">Duration</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Teams"><span class="tocnumber">2.3</span> <span class="toctext">Teams</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Positions"><span class="tocnumber">2.4</span> <span class="toctext">Positions</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Ball"><span class="tocnumber">2.5</span> <span class="toctext">Ball</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Mark"><span class="tocnumber">2.5.1</span> <span class="toctext">Mark</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#Types_of_fouls"><span class="tocnumber">2.6</span> <span class="toctext">Types of fouls</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Technical_fouls"><span class="tocnumber">2.6.1</span> <span class="toctext">Technical fouls</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Aggressive_fouls"><span class="tocnumber">2.6.2</span> <span class="toctext">Aggressive fouls</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Dissent"><span class="tocnumber">2.6.3</span> <span class="toctext">Dissent</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-13"><a href="#Scoring"><span class="tocnumber">2.7</span> <span class="toctext">Scoring</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Tackling"><span class="tocnumber">2.8</span> <span class="toctext">Tackling</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Restarting_play"><span class="tocnumber">2.9</span> <span class="toctext">Restarting play</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Officials"><span class="tocnumber">2.10</span> <span class="toctext">Officials</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Team_of_the_Century"><span class="tocnumber">3</span> <span class="toctext">Team of the Century</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Team_of_the_Millennium"><span class="tocnumber">4</span> <span class="toctext">Team of the Millennium</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Competition_structure"><span class="tocnumber">5</span> <span class="toctext">Competition structure</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Arbitre_-_Football_ga%C3%A9lique.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Arbitre_-_Football_ga%C3%A9lique.JPG/250px-Arbitre_-_Football_ga%C3%A9lique.JPG" width="250" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Arbitre_-_Football_ga%C3%A9lique.JPG/375px-Arbitre_-_Football_ga%C3%A9lique.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Arbitre_-_Football_ga%C3%A9lique.JPG/500px-Arbitre_-_Football_ga%C3%A9lique.JPG 2x" data-file-width="3845" data-file-height="2529" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Arbitre_-_Football_ga%C3%A9lique.JPG" class="internal" title="Enlarge"></a></div>A <a href="/wiki/National_Football_League_(Ireland)" title="National Football League (Ireland)">league</a> game between <a href="/wiki/Dublin_GAA" title="Dublin GAA">Dublin</a> and <a href="/wiki/Tyrone_GAA" title="Tyrone GAA">Tyrone</a></div></div></div>
+<p>While Gaelic football as it is known today dates back to the late 19th century, various kinds of football were played in Ireland before this time. The first legal reference to football in Ireland was in 1308, when John McCrocan, a spectator at a football game at <i>Novum Castrum de Leuan</i> (the New Castle of the Lyons or Newcastle) was charged with accidentally stabbing a player named William Bernard. A field near <a href="/wiki/Newcastle,_South_Dublin" title="Newcastle, South Dublin">Newcastle, South Dublin</a> is still known as the football field.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> The Statute of <a href="/wiki/Galway" title="Galway">Galway</a> of 1527 allowed the playing of "foot balle" and <a href="/wiki/Archery" title="Archery">archery</a> but banned "<span style="padding-left:0.2em;">&#39;</span>hokie'—the hurling of a little ball with sticks or staves" as well as other sports.
+</p><p>By the 17th century, the situation had changed considerably. The games had grown in popularity and were widely played.<sup id="cite_ref-orejan_7-0" class="reference"><a href="#cite_note-orejan-7">&#91;7&#93;</a></sup> This was due to the patronage of the gentry.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2010)">citation needed</span></a></i>&#93;</sup> Now instead of opposing the games it was the gentry and the ruling class who were serving as patrons of the games. Games were organised between landlords with each team comprising 20 or more tenants. Wagers were commonplace with purses of up to 100 <a href="/wiki/Guinea_(British_coin)" class="mw-redirect" title="Guinea (British coin)">guineas</a> (Prior, 1997).
+</p><p>The earliest record of a recognised precursor to the modern game date from a match in County Meath in 1670, in which catching and kicking the ball was permitted.<sup id="cite_ref-orejan_7-1" class="reference"><a href="#cite_note-orejan-7">&#91;7&#93;</a></sup>
+</p><p>However even "foot-ball" was banned <sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> by the severe <a href="/wiki/List_of_Acts_of_the_Parliament_of_Ireland_to_1700" title="List of Acts of the Parliament of Ireland to 1700">Sunday Observance Act of 1695</a>, which imposed a fine of one <a href="/wiki/Shilling" title="Shilling">shilling</a> (a substantial amount at the time) for those caught playing sports. It proved difficult, if not impossible, for the authorities to enforce the Act and the earliest recorded inter-county match in Ireland was one between <a href="/wiki/County_Louth" title="County Louth">Louth</a> and <a href="/wiki/County_Meath" title="County Meath">Meath</a>, at <a href="/wiki/Slane" title="Slane">Slane</a>, in 1712, about which the poet James Dall McCuairt wrote a poem of 88 verses beginning "Ba haigeanta".
+</p><p>A six-a-side version was played in Dublin in the early 18th century, and 100 years later there were accounts of games played between County sides (Prior, 1997).
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Gaelic_Football_Inter-County_Championship_Scoring_1910_to_2015.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gaelic_Football_Inter-County_Championship_Scoring_1910_to_2015.png/220px-Gaelic_Football_Inter-County_Championship_Scoring_1910_to_2015.png" width="220" height="166" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gaelic_Football_Inter-County_Championship_Scoring_1910_to_2015.png/330px-Gaelic_Football_Inter-County_Championship_Scoring_1910_to_2015.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gaelic_Football_Inter-County_Championship_Scoring_1910_to_2015.png/440px-Gaelic_Football_Inter-County_Championship_Scoring_1910_to_2015.png 2x" data-file-width="1185" data-file-height="894" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Gaelic_Football_Inter-County_Championship_Scoring_1910_to_2015.png" class="internal" title="Enlarge"></a></div>Gaelic football scoring statistics—graph from 1910 to 2015</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hurling_and_Gaelic_Football_ratio_of_points_to_goals_1910_to_2015.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hurling_and_Gaelic_Football_ratio_of_points_to_goals_1910_to_2015.png/220px-Hurling_and_Gaelic_Football_ratio_of_points_to_goals_1910_to_2015.png" width="220" height="166" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hurling_and_Gaelic_Football_ratio_of_points_to_goals_1910_to_2015.png/330px-Hurling_and_Gaelic_Football_ratio_of_points_to_goals_1910_to_2015.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hurling_and_Gaelic_Football_ratio_of_points_to_goals_1910_to_2015.png/440px-Hurling_and_Gaelic_Football_ratio_of_points_to_goals_1910_to_2015.png 2x" data-file-width="1186" data-file-height="894" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Hurling_and_Gaelic_Football_ratio_of_points_to_goals_1910_to_2015.png" class="internal" title="Enlarge"></a></div>Graph of hurling and Gaelic football ratio of points to goals from 1910 to 2015</div></div></div>
+<p>By the early 19th century, various football games, referred to collectively as <i>caid</i>, were popular in <a href="/wiki/County_Kerry" title="County Kerry">Kerry</a>, especially the <a href="/wiki/Dingle_Peninsula" title="Dingle Peninsula">Dingle Peninsula</a>. Father W. Ferris described two forms of <i>caid</i>: the "field game" in which the object was to put the ball through arch-like goals, formed from the boughs of two trees, and; the epic "cross-country game", which lasted the whole of a Sunday (after <a href="/wiki/Mass_(religion)" class="mw-redirect" title="Mass (religion)">mass</a>) and was won by taking the ball across a parish boundary. "Wrestling", "holding" opposing players, and carrying the ball were all allowed.
+</p><p>During the 1860s and 1870s, <a href="/wiki/Rugby_football" title="Rugby football">rugby football</a> started to become popular in Ireland. <a href="/wiki/Trinity_College,_Dublin" class="mw-redirect" title="Trinity College, Dublin">Trinity College, Dublin</a> was an early stronghold of rugby, and the rules of the <a href="/wiki/(English)_Football_Association" class="mw-redirect" title="(English) Football Association">(English) Football Association</a> were codified in 1863 and distributed widely. By this time, according to Gaelic football historian Jack Mahon, even in the Irish countryside, <i>caid</i> had begun to give way to a "rough-and-tumble game", which even allowed tripping. Association football started to take hold, especially in <a href="/wiki/Ulster" title="Ulster">Ulster</a>, in the 1880s.
+</p><p>Limerick was the stronghold of the native game around this time, and the Commercials Club, founded by employees of Cannock's Drapery Store, was one of the first to impose a set of rules, which was adapted by other clubs in the city. Of all the Irish pastimes the GAA set out to preserve and promote, it is fair to say that Gaelic football was in the worst shape at the time of the association's foundation (GAA Museum, 2001).<sup id="cite_ref-orejan_7-2" class="reference"><a href="#cite_note-orejan-7">&#91;7&#93;</a></sup>
+</p><p>Irish forms of football were not formally arranged into an organised playing code by the <a href="/wiki/Gaelic_Athletic_Association" title="Gaelic Athletic Association">Gaelic Athletic Association</a> (GAA) until 1887. The GAA sought to promote traditional Irish sports, such as hurling and to reject "foreign" (particularly English) imports. The first Gaelic football rules, showing the influence of hurling and a desire to differentiate from association football—for example in their lack of an <a href="/wiki/Offside_(association_football)" title="Offside (association football)">offside rule</a>—were drawn up by <a href="/wiki/Maurice_Davin" title="Maurice Davin">Maurice Davin</a> and published in the <i>United Ireland</i> magazine on 7 February 1887. The rules of the aforementioned Commercials Club became the basis for these official (Gaelic Football) rules who, unsurprisingly, won the inaugural All-Ireland Senior Football Final (representing County Limerick). The very first game of Gaelic Football under GAA rules (developed by Maurice Davin) was played near Callan, Co Kilkenny in February 1885.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>On <a href="/wiki/Bloody_Sunday_(1920)" title="Bloody Sunday (1920)">Bloody Sunday in 1920</a>, during the <a href="/wiki/Anglo-Irish_War" class="mw-redirect" title="Anglo-Irish War">Anglo-Irish War</a>, a football match at <a href="/wiki/Croke_Park" title="Croke Park">Croke Park</a> was attacked by <a href="/wiki/Black_and_Tans" title="Black and Tans">British</a> forces. 14 people were killed and 65 were injured. Among the dead was Tipperary footballer <a href="/wiki/Michael_Hogan_(Gaelic_footballer)" title="Michael Hogan (Gaelic footballer)">Michael Hogan</a>, for whom the Hogan Stand at Croke Park (completed in 1924) was named.
+</p><p>By 1958, <a href="/wiki/Wembley_Stadium_(1923)" title="Wembley Stadium (1923)">Wembley Stadium</a> hosted annual exhibition games of Gaelic football in England, before tens of thousands of spectators.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p><a href="/wiki/Ladies%27_Gaelic_football" title="Ladies&#39; Gaelic football">Ladies' Gaelic football</a> has become increasingly popular with women since the 1970s.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2008)">citation needed</span></a></i>&#93;</sup>
+</p><p>The <a href="/wiki/Relationship_between_Gaelic_football_and_Australian_rules_football" class="mw-redirect" title="Relationship between Gaelic football and Australian rules football">relationship between Gaelic football and Australian rules football</a> and the question of whether they have shared origins has been debated. What is known is that in 1967, Australian journalist, broadcaster and <a href="/wiki/Victorian_Football_League" title="Victorian Football League">VFL</a> umpire <a href="/wiki/Harry_Beitzel" title="Harry Beitzel">Harry Beitzel</a>, inspired by watching the 1966 All-Ireland senior football final on television, sent an Australian team known as the "Galahs" to play an Irish team, which was the first recorded major interaction between the two codes. 
+</p><p>What then followed is the current <a href="/wiki/International_Rules_Series" title="International Rules Series">International Rules Series</a> between players of both codes and utilizing rules from both codes, which also gives them a chance to represent their country. The GAA chooses the team to represent Ireland, while the <a href="/wiki/Australian_Football_League" title="Australian Football League">AFL</a> chooses the team to represent Australia. The two countries take turns hosting the series, and both countries' and sports' respective most prestigious venues – Croke Park and the <a href="/wiki/Melbourne_Cricket_Ground" title="Melbourne Cricket Ground">Melbourne Cricket Ground (MCG)</a> – have hosted series Tests. What is known as the <a href="/wiki/Irish_experiment" title="Irish experiment">Irish experiment</a> also occurred, with Australian rules football clubs recruiting Gaelic football players. Irishmen who have distinguished themselves in both codes include Dublin's <a href="/wiki/Jim_Stynes" title="Jim Stynes">Jim Stynes</a> – a 1984 minor All-Ireland football champion who became the 1991 <a href="/wiki/Brownlow_Medal" title="Brownlow Medal">Brownlow Medallist</a>, a recipient of the <a href="/wiki/Medal_of_the_Order_of_Australia" class="mw-redirect" title="Medal of the Order of Australia">Medal of the Order of Australia</a> and a member of <a href="/wiki/Melbourne_Football_Club" title="Melbourne Football Club">Melbourne</a>'s Team of the Century – and Kerry's <a href="/wiki/Tadhg_Kennelly" title="Tadhg Kennelly">Tadhg Kennelly</a>, the first man to become both a senior All-Ireland football champion (2009) and an AFL Premiership player (2005 with <a href="/wiki/Sydney_Swans" title="Sydney Swans">Sydney</a>, the Swans' first flag in 72 years).
+</p>
+<h2><span class="mw-headline" id="Rules">Rules</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=2" title="Edit section: Rules">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Playing_field">Playing field</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=3" title="Edit section: Playing field">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Gaelic_football_pitch_diagram.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gaelic_football_pitch_diagram.svg/220px-Gaelic_football_pitch_diagram.svg.png" width="220" height="320" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gaelic_football_pitch_diagram.svg/330px-Gaelic_football_pitch_diagram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gaelic_football_pitch_diagram.svg/440px-Gaelic_football_pitch_diagram.svg.png 2x" data-file-width="301" data-file-height="438" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Gaelic_football_pitch_diagram.svg" class="internal" title="Enlarge"></a></div>Diagram of a Gaelic football pitch</div></div></div>
+<p>A Gaelic pitch is similar in some respects to a <a href="/wiki/Rugby_football" title="Rugby football">rugby</a> pitch but larger. The grass pitch is rectangular, stretching 130–145 metres (142–159 yards) long and 80–90&#160;m (87–98&#160;yd) wide. There are H-shaped goalposts at each end, formed by two posts, which are usually 6–7 metres (20–23 feet) high, set 6.5&#160;m (21&#160;ft) apart, and connected 2.5&#160;m (8.2&#160;ft) above the ground by a crossbar. A net extending behind the goal is attached to the crossbar and lower goal posts. The same pitch is used for hurling; the GAA, which organises both sports, decided this to facilitate dual usage. Lines are marked at distances of 13 metres, 20 metres, and 45 metres (65 m in hurling) from each end-line. Shorter pitches and smaller goals are used by youth teams.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Duration">Duration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=4" title="Edit section: Duration">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The majority of adult football and all minor and under-21 matches last for 60 minutes, divided into two halves of 30 minutes, with the exception of senior inter-county games, which last for 70 minutes (two halves of 35 minutes). Draws are decided by replays or by playing 20 minutes of extra time (two halves of 10 minutes). Juniors have a half of 20 minutes or 25 minutes in some cases. Half-time lasts for about 5 or 10 minutes.
+</p>
+<h3><span class="mw-headline" id="Teams">Teams</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=5" title="Edit section: Teams">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Teams consist of fifteen players<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> (a goalkeeper, two corner backs, a full back, two wing backs, a centre back, two mid fielders, two wing forwards, a centre forward, two corner forwards and a full forward) plus up to fifteen <a href="/wiki/Substitution_(sport)" title="Substitution (sport)">substitutes</a>, of which six may be used. As for younger teams or teams that do not have enough players for fifteen aside, it is not uncommon to play thirteen aside (the same <a href="/wiki/Gaelic_football,_hurling_and_camogie_positions" title="Gaelic football, hurling and camogie positions">positions</a> except without the full back and the full forward). Each player is numbered 1–15, starting with the <a href="/wiki/Goalkeeper" title="Goalkeeper">goalkeeper</a>, who must wear a jersey colour different from that of his or her teammates. Up to 15 substitutes may be named on the team sheet, number 16 usually being the reserve goalkeeper.
+</p>
+<h3><span class="mw-headline" id="Positions">Positions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=6" title="Edit section: Positions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Gaelic_football,_hurling_and_camogie_positions" title="Gaelic football, hurling and camogie positions">Gaelic football, hurling and camogie positions</a></div>
+<h3><span class="mw-headline" id="Ball">Ball</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=7" title="Edit section: Ball">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:152px;"><a href="/wiki/File:Gaelic_football_ball_on_pitch.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gaelic_football_ball_on_pitch.jpg/150px-Gaelic_football_ball_on_pitch.jpg" width="150" height="139" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gaelic_football_ball_on_pitch.jpg/225px-Gaelic_football_ball_on_pitch.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gaelic_football_ball_on_pitch.jpg/300px-Gaelic_football_ball_on_pitch.jpg 2x" data-file-width="1254" data-file-height="1163" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Gaelic_football_ball_on_pitch.jpg" class="internal" title="Enlarge"></a></div>The ball used for a match, made by Irish company <a href="/wiki/O%27Neills" title="O&#39;Neills">O'Neills</a></div></div></div>
+<p>The game is played with a round leather <a href="/wiki/Football_(ball)" title="Football (ball)">football</a> made of 18 stitched leather panels, similar in appearance to a traditional <a href="/wiki/Volleyball_(ball)" title="Volleyball (ball)">volleyball</a> (but larger), with a circumference of 68–70&#160;cm (27–28&#160;in), weighing between 480–500&#160;g (17–18&#160;oz) when dry.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> It may be kicked or <i>hand passed</i>. A hand pass is not a punch but rather a strike of the ball with the side of the closed fist, using the knuckle of the thumb.
+</p>
+<h4><span class="mw-headline" id="Mark">Mark</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=8" title="Edit section: Mark">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In 2017, the <a href="/wiki/Gaelic_Athletic_Association" title="Gaelic Athletic Association">GAA</a> introduced the 'mark' across the board in Gaelic football. Similar to the <a href="/wiki/Mark_(Australian_rules_football)" title="Mark (Australian rules football)">mark in Australian rules football</a>, a player who catches the ball from a kick-out is awarded a free kick. The rule in full states: "When a player catches the ball cleanly from a Kick-Out without it touching the ground, on or past the 45&#160;m line nearest the Kick Out point, he shall be awarded 'a Mark' by the Referee. The player awarded a 'Mark' shall have the options of (a) Taking a free kick or (b) Playing on immediately."<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> In comparison, the Australian rules equivalent requires the ball not to have touched the ground and for the kick to have travelled at least 15 metres.
+</p>
+<h3><span class="mw-headline" id="Types_of_fouls">Types of fouls</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=9" title="Edit section: Types of fouls">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There are three main types of fouls in Gaelic Football, which can result in the ball being given to the other team, a player being cautioned, a player being removed from the field, or even the game being terminated.
+</p>
+<h4><span class="mw-headline" id="Technical_fouls">Technical fouls</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=10" title="Edit section: Technical fouls">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The following are considered technical fouls ("fouling the ball"):
+</p>
+<ul><li>Going five steps without releasing, bouncing or soloing the ball (soloing involves kicking the ball into one's own hands)<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup></li>
+<li>Bouncing the ball twice in a row (It may be soloed continuously)</li>
+<li>Changing hands: Throwing the ball from your right hand to left or vice versa (legal in the ladies' game)</li>
+<li>Throwing the ball (it may be "hand-passed" by striking with the fist).</li>
+<li>Hand passing a goal. To hand pass a ball with an open palm there must be a clear striking action (the ball may be punched over the bar from up in the air, but not into the goal).</li>
+<li>Picking the ball directly off the ground (it must be scooped up into the hands by the foot). However, in <a href="/wiki/Ladies%27_Gaelic_football#Differences_from_men&#39;s_football" title="Ladies&#39; Gaelic football">ladies' Gaelic football</a> the ball may be picked up directly.</li>
+<li>Square ball is an often controversial rule: "If, at the moment the ball enters the small square, there is already an attacking player inside the small rectangle, then a free out is awarded." As of 2012 square balls are only counted if the player is inside the square when the ball is kicked from a free or set piece. An opposing player is allowed in the square during open play.</li></ul>
+<h4><span class="mw-headline" id="Aggressive_fouls">Aggressive fouls</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=11" title="Edit section: Aggressive fouls">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Aggressive fouls are physical or verbal fouls committed by a player against an opponent or the referee. The player can be cautioned (shown a <a href="/wiki/Penalty_card#Yellow_card" title="Penalty card">yellow card</a>), ordered off the pitch without a substitute (<a href="/wiki/Penalty_card#Red_card" title="Penalty card">red card</a>),<sup id="cite_ref-GAA_Rules_2012,_p._74–81,_Rule_5_16-0" class="reference"><a href="#cite_note-GAA_Rules_2012,_p._74–81,_Rule_5-16">&#91;16&#93;</a></sup> or (beginning 1 January 2014) ordered off the pitch with a substitution (<a href="/wiki/Penalty_card#Black_card" title="Penalty card">black card</a>).<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p>
+<style data-mw-deduplicate="TemplateStyles:r856303569">@media all and (max-width:720px){.mw-parser-output .tmulti>.thumbinner{width:100%!important;max-width:none!important}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:none!important;width:100%!important;text-align:center}}</style><div class="thumb tmulti tright"><div class="thumbinner" style="width:192px;max-width:192px"><div class="tsingle" style="float:left;margin:1px;width:62px;max-width:62px"><div class="thumbimage"><a href="/wiki/File:Yellow_card.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Yellow_card.svg/60px-Yellow_card.svg.png" width="60" height="78" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Yellow_card.svg/90px-Yellow_card.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Yellow_card.svg/120px-Yellow_card.svg.png 2x" data-file-width="200" data-file-height="260" /></a></div></div><div class="tsingle" style="float:left;margin:1px;width:62px;max-width:62px"><div class="thumbimage"><a href="/wiki/File:Red_card.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Red_card.svg/60px-Red_card.svg.png" width="60" height="78" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Red_card.svg/90px-Red_card.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Red_card.svg/120px-Red_card.svg.png 2x" data-file-width="200" data-file-height="260" /></a></div></div><div class="tsingle" style="float:left;margin:1px;width:62px;max-width:62px"><div class="thumbimage"><a href="/wiki/File:Black_card.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Black_card.svg/60px-Black_card.svg.png" width="60" height="78" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Black_card.svg/90px-Black_card.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Black_card.svg/120px-Black_card.svg.png 2x" data-file-width="200" data-file-height="260" /></a></div></div><div style="clear:left"></div><div class="thumbcaption" style="clear:left;text-align:left;background-color:transparent">Players are cautioned by a yellow card, ordered off the pitch without a substitute by a red card, or  ordered off the pitch with a substitution by a black card.</div></div></div>
+<h4><span class="mw-headline" id="Dissent">Dissent</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=12" title="Edit section: Dissent">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A dissent foul is a foul where a player fails to comply with the officials' judgment and/or instructions. The player can be cautioned (shown a yellow card), ordered off the pitch without a substitute (red card), the free kick placement moved 13&#160;m further down-field, or in certain circumstances, the game can be terminated. The following are considered dissent fouls:
+</p>
+<ul><li>To challenge the authority of a referee, umpire, linesman or sideline official.</li>
+<li>To fail to comply with a referee's instruction to use a mouth guard.</li>
+<li>To refuse to leave the field of play, on the instruction of the referee, for attention, after an injury involving bleeding.</li>
+<li>To show dissent with the referee's decision to award a free kick to the opposing team.</li>
+<li>To refuse to leave the field of play when ordered off (red card) or rejoin the game after being ordered off.</li>
+<li>A team or player(s) leaving the field without the referee's permission or refusing to continue playing.<sup id="cite_ref-GAA_Rules_2012,_p._82-83,_Rule_6_18-0" class="reference"><a href="#cite_note-GAA_Rules_2012,_p._82-83,_Rule_6-18">&#91;18&#93;</a></sup></li></ul>
+<h3><span class="mw-headline" id="Scoring">Scoring</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=13" title="Edit section: Scoring">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:172px;"><a href="/wiki/File:Durham_Gaelic_football_club_player_shoots.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Durham_Gaelic_football_club_player_shoots.jpg/170px-Durham_Gaelic_football_club_player_shoots.jpg" width="170" height="238" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Durham_Gaelic_football_club_player_shoots.jpg/255px-Durham_Gaelic_football_club_player_shoots.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Durham_Gaelic_football_club_player_shoots.jpg/340px-Durham_Gaelic_football_club_player_shoots.jpg 2x" data-file-width="731" data-file-height="1024" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Durham_Gaelic_football_club_player_shoots.jpg" class="internal" title="Enlarge"></a></div>A player from a <a href="/wiki/Canada_GAA" class="mw-redirect" title="Canada GAA">Canada GAA</a> club shoots for goal</div></div></div>
+<p>If the ball goes over the crossbar, a <i>point</i> is scored and a white flag is raised by an umpire. A point is scored by either kicking the ball over the crossbar, or fisting it over, in which case the hand must be closed while striking the ball. If the ball goes below the crossbar, a <i>goal</i>, worth three points, is scored, and a green flag is raised by an umpire. A goal is scored by kicking the ball into the net, not by fist passing the ball into it. However, a player can strike the ball into the net with a closed fist if the ball was played to him by another player or came in contact with the post/crossbar/ground prior to connection. The goal is guarded by a goalkeeper. Scores are recorded in the format Goal Total-Point Total. To determine the score-line goals must be converted to points and added to the other points. For example, in a match with a final score of Team A 0–21 Team B 4–8, Team A is the winner with 21 points, as Team B scored only 20 points (4 times 3, plus 8).
+</p>
+<h3><span class="mw-headline" id="Tackling">Tackling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=14" title="Edit section: Tackling">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The level of tackling allowed is less robust than in <a href="/wiki/Rugby_football" title="Rugby football">rugby</a>.
+</p><p>Shoulder to shoulder contact and slapping the ball out of an opponent's hand are permitted, but the following are all fouls:
+</p>
+<ul><li>Blocking a shot with the foot</li>
+<li>Pulling an opponent's jersey</li>
+<li>Pushing an opponent</li>
+<li>Sliding tackles</li>
+<li>Striking an opponent</li>
+<li>Touching the goalkeeper when he/she is inside the small rectangle</li>
+<li>Tripping</li>
+<li>Using both hands to tackle</li>
+<li>Wrestling the ball from an opponent's hands</li></ul>
+<h3><span class="mw-headline" id="Restarting_play">Restarting play</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=15" title="Edit section: Restarting play">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>A match begins with the <a href="/wiki/Referee" title="Referee">referee</a> throwing the ball up between the four mid fielders.</li>
+<li>After an attacker has put the ball wide of the goals or scored a point or a goal, the goalkeeper may take a <b>kick out</b> from the ground at the 13&#160;m line. All players must be beyond the 20&#160;m line.</li>
+<li>After a defender has put the ball wide of the goals, an attacker may take a "<b>45</b>" from the ground on the 45&#160;m line, level with where the ball went wide.</li>
+<li>After a player has put the ball over the sideline, the other team may take a <b>sideline kick</b> at the point where the ball left the pitch. It may be kicked from the ground or the hands. The player who is taking the sideline kick must not pass the boundary line while taking.</li>
+<li>After a player has committed a foul, the other team may take a <b>free kick</b> (usually shortened to "free" in reports/commentaries) at the point where the foul was committed. It may be kicked from the ground or the hands.</li>
+<li>If a player has been fouled while passing the ball, the free may be taken from the point where the ball landed.</li>
+<li><span id="Penalty"></span>After a defender has committed a foul inside the large rectangle, the other team may take a <b>penalty kick</b> from the ground from the centre of the 11&#160;m line. Only the goalkeeper may guard the goals.</li>
+<li>If many players are struggling for the ball and it is not clear who was fouled first, the referee may choose to throw the ball up between two opposing players.</li></ul>
+<h3><span class="mw-headline" id="Officials">Officials</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=16" title="Edit section: Officials">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A football match is overseen by up to eight officials:
+</p>
+<ul><li>The referee</li>
+<li>Two linesmen</li>
+<li>Sideline official/Standby linesman (often referred to as "fourth official"; inter-county games only)</li>
+<li>Four umpires (two at each goal)</li></ul>
+<p>The referee is responsible for starting and stopping play, recording the score, awarding frees and booking and sending off players.
+</p><p>Linesmen are responsible for indicating the direction of line balls to the referee.
+</p><p>The fourth official is responsible for overseeing substitutions, and also indicating the amount of stoppage time (signalled to him by the referee) and the players substituted using an electronic board.
+</p><p>The umpires are responsible for judging the scoring. They indicate to the referee whether a shot was: wide (spread both arms), a 45&#160;m kick (raise one arm), a point (wave white flag), square ball (cross arms) or a goal (wave green flag). A disallowed score is indicated by crossing the green and white flags.
+</p><p>Other officials are not obliged to indicate any misdemeanours to the referee; they are only permitted to inform the referee of violent conduct they have witnessed that has occurred without the referee's knowledge. A linesman/umpire is not permitted to inform the referee of technical fouls such as a "double bounce" or an illegal pick-up of the ball. Such decisions can only be made at the discretion of the referee.
+</p>
+<h2><span class="mw-headline" id="Team_of_the_Century">Team of the Century</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=17" title="Edit section: Team of the Century">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>The Team of the Century</b> was nominated in 1984 by <i><a href="/wiki/Sunday_Independent_(Ireland)" title="Sunday Independent (Ireland)">Sunday Independent</a></i> readers and selected by a panel of experts including journalists and former players.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> It was not chosen as part of the <a href="/wiki/Gaelic_Athletic_Association" title="Gaelic Athletic Association">Gaelic Athletic Association</a>'s centenary year celebrations. The goal was to single out the best ever 15 players who had played the game in their respective positions. Naturally many of the selections were hotly debated by fans around the country.
+</p>
+<table border="0" style="width:100%;">
+
+<tbody><tr>
+<td>
+</td></tr>
+<tr>
+<td style="width:25%;">
+</td>
+<td style="width:50%; text-align:center;"><b>Goalkeeper</b>
+</td>
+<td style="width:25%;">
+</td></tr>
+<tr>
+<td style="width:25%;">
+</td>
+<td style="width:25%; text-align:center;"><a href="/wiki/Dan_O%27Keeffe" title="Dan O&#39;Keeffe">Dan O'Keeffe</a><br />(<a href="/wiki/Kerry_GAA" title="Kerry GAA">Kerry</a>)
+</td>
+<td style="width:25%;">
+</td></tr>
+<tr>
+<td>
+</td></tr>
+<tr>
+<td style="width:25%; text-align:center;"><b>Right Corner Back</b>
+</td>
+<td style="width:50%; text-align:center;"><b>Full Back</b>
+</td>
+<td style="width:25%; text-align:center;"><b>Left Corner Back</b>
+</td>
+<td>
+</td></tr>
+<tr style="text-align:center;">
+<td style="width:25%;"><a href="/wiki/Enda_Colleran" title="Enda Colleran">Enda Colleran</a><br />(<a href="/wiki/Galway_GAA" title="Galway GAA">Galway</a>)
+</td>
+<td style="width:25%;"><a href="/wiki/Paddy_O%27Brien_(Gaelic_footballer)" title="Paddy O&#39;Brien (Gaelic footballer)">Paddy O'Brien</a><br />(<a href="/wiki/Meath_GAA" title="Meath GAA">Meath</a>)
+</td>
+<td style="width:25%;"><a href="/wiki/Se%C3%A1n_Flanagan" title="Seán Flanagan">Seán Flanagan</a><br />(<a href="/wiki/Mayo_GAA" title="Mayo GAA">Mayo</a>)
+</td></tr>
+<tr>
+<td>
+</td></tr>
+<tr style="text-align:center;">
+<td style="width:25%;"><b>Right Half Back</b>
+</td>
+<td style="width:50%;"><b>Centre Back</b>
+</td>
+<td style="width:25%;"><b>Left Half Back</b>
+</td></tr>
+<tr style="text-align:center;">
+<td style="width:25%;"><a href="/wiki/Sean_Murphy_(footballer)" class="mw-redirect" title="Sean Murphy (footballer)">Sean Murphy</a><br />(<a href="/wiki/Kerry_GAA" title="Kerry GAA">Kerry</a>)
+</td>
+<td style="width:25%;"><a href="/wiki/J._J._O%27Reilly" class="mw-redirect" title="J. J. O&#39;Reilly">J. J. O'Reilly</a><br />(<a href="/wiki/Cavan_GAA" title="Cavan GAA">Cavan</a>)
+</td>
+<td style="width:25%;"><a href="/wiki/Stephen_White_(Gaelic_footballer)" title="Stephen White (Gaelic footballer)">Stephen White</a><br />(<a href="/wiki/Louth_GAA" title="Louth GAA">Louth</a>)
+</td></tr>
+<tr>
+<td>
+</td></tr>
+<tr>
+<td style="width:25%;">
+</td>
+<td style="width:50%; text-align:center;"><b>Midfield</b>
+</td></tr>
+<tr style="text-align:center;">
+<td style="width:25%;"><a href="/wiki/Mick_O%27Connell" title="Mick O&#39;Connell">Mick O'Connell</a><br />(<a href="/wiki/Kerry_GAA" title="Kerry GAA">Kerry</a>)
+</td>
+<td style="width:50%; text-align:center;">
+</td>
+<td style="width:25%;"><a href="/wiki/Jack_O%27Shea" title="Jack O&#39;Shea">Jack O'Shea</a><br />(<a href="/wiki/Kerry_GAA" title="Kerry GAA">Kerry</a>)
+</td></tr>
+<tr>
+<td>
+</td></tr>
+<tr style="text-align:center;">
+<td style="width:25%;"><b>Right Half Forward</b>
+</td>
+<td style="width:50%;"><b>Centre Forward</b>
+</td>
+<td style="width:25%;"><b>Left Half Forward</b>
+</td></tr>
+<tr style="text-align:center;">
+<td style="width:25%;"><a href="/wiki/Se%C3%A1n_O%27Neill" title="Seán O&#39;Neill">Seán O'Neill</a><br />(<a href="/wiki/Down_GAA" title="Down GAA">Down</a>)
+</td>
+<td style="width:25%;"><a href="/wiki/Se%C3%A1n_Purcell" title="Seán Purcell">Seán Purcell</a><br />(<a href="/wiki/Galway_GAA" title="Galway GAA">Galway</a>)
+</td>
+<td style="width:25%;"><a href="/wiki/Pat_Spillane" title="Pat Spillane">Pat Spillane</a><br />(<a href="/wiki/Kerry_GAA" title="Kerry GAA">Kerry</a>)
+</td></tr>
+<tr>
+<td>
+</td></tr>
+<tr style="text-align:center;">
+<td style="width:25%;"><b>Right Corner Forward</b>
+</td>
+<td style="width:50%;"><b>Full Forward</b>
+</td>
+<td style="width:25%;"><b>Left Corner Forward</b>
+</td></tr>
+<tr>
+<td>
+</td></tr>
+<tr style="text-align:center;">
+<td style="width:25%;"><a href="/wiki/Mikey_Sheehy" title="Mikey Sheehy">Mikey Sheehy</a><br />(<a href="/wiki/Kerry_GAA" title="Kerry GAA">Kerry</a>)
+</td>
+<td style="width:25%;"><a href="/wiki/Tommy_Langan" title="Tommy Langan">Tommy Langan</a><br />(<a href="/wiki/Mayo_GAA" title="Mayo GAA">Mayo</a>)
+</td>
+<td style="width:25%;"><a href="/wiki/Kevin_Heffernan_(Gaelic_footballer)" title="Kevin Heffernan (Gaelic footballer)">Kevin Heffernan</a><br />(<a href="/wiki/Dublin_GAA" title="Dublin GAA">Dublin</a>)
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Team_of_the_Millennium">Team of the Millennium</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=18" title="Edit section: Team of the Millennium">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>The Team of the Millennium</b> was a team chosen in 1999 by a panel of GAA past presidents and journalists. The goal was to single out the best ever 15 players who had played the game in their respective positions, since the foundation of the GAA in 1884 up to the <a href="/wiki/Millennium" title="Millennium">Millennium</a> year, 2000. Naturally many of the selections were hotly debated by fans around the country.
+</p>
+<table border="0" style="width:100%;">
+
+<tbody><tr>
+<td>
+</td></tr>
+<tr>
+<td style="width:25%;">
+</td>
+<td style="width:50%; text-align:center;"><b>Goalkeeper</b>
+</td>
+<td style="width:25%;">
+</td></tr>
+<tr>
+<td style="width:25%;">
+</td>
+<td style="width:25%; text-align:center;"><a href="/wiki/Dan_O%27Keeffe" title="Dan O&#39;Keeffe">Dan O'Keeffe</a><br />(<a href="/wiki/Kerry_GAA" title="Kerry GAA">Kerry</a>)
+</td>
+<td style="width:25%;">
+</td></tr>
+<tr>
+<td>
+</td></tr>
+<tr>
+<td style="width:25%; text-align:center;"><b>Right Corner Back</b>
+</td>
+<td style="width:50%; text-align:center;"><b>Full Back</b>
+</td>
+<td style="width:25%; text-align:center;"><b>Left Corner Back</b>
+</td>
+<td>
+</td></tr>
+<tr style="text-align:center;">
+<td style="width:25%;"><a href="/wiki/Enda_Colleran" title="Enda Colleran">Enda Colleran</a><br />(<a href="/wiki/Galway_GAA" title="Galway GAA">Galway</a>)
+</td>
+<td style="width:25%;"><a href="/wiki/Joe_Keohane_(footballer)" class="mw-redirect" title="Joe Keohane (footballer)">Joe Keohane</a><br />(<a href="/wiki/Kerry_GAA" title="Kerry GAA">Kerry</a>)
+</td>
+<td style="width:25%;"><a href="/wiki/Se%C3%A1n_Flanagan" title="Seán Flanagan">Seán Flanagan</a><br />(<a href="/wiki/Mayo_GAA" title="Mayo GAA">Mayo</a>)
+</td></tr>
+<tr>
+<td>
+</td></tr>
+<tr style="text-align:center;">
+<td style="width:25%;"><b>Right Half Back</b>
+</td>
+<td style="width:50%;"><b>Centre Back</b>
+</td>
+<td style="width:25%;"><b>Left Half Back</b>
+</td></tr>
+<tr style="text-align:center;">
+<td style="width:25%;"><a href="/wiki/Se%C3%A1n_Murphy_(Gaelic_footballer)" title="Seán Murphy (Gaelic footballer)">Seán Murphy</a><br />(<a href="/wiki/Kerry_GAA" title="Kerry GAA">Kerry</a>)
+</td>
+<td style="width:25%;"><a href="/wiki/John_Joe_O%27Reilly" title="John Joe O&#39;Reilly">John Joe O'Reilly</a><br />(<a href="/wiki/Cavan_GAA" title="Cavan GAA">Cavan</a>)
+</td>
+<td style="width:25%;"><a href="/wiki/Martin_O%27Connell_(footballer)" class="mw-redirect" title="Martin O&#39;Connell (footballer)">Martin O'Connell</a><br />(<a href="/wiki/Meath_GAA" title="Meath GAA">Meath</a>)
+</td></tr>
+<tr>
+<td>
+</td></tr>
+<tr>
+<td style="width:25%;">
+</td>
+<td style="width:50%; text-align:center;"><b>Midfield</b>
+</td></tr>
+<tr style="text-align:center;">
+<td style="width:25%;"><a href="/wiki/Mick_O%27Connell" title="Mick O&#39;Connell">Mick O'Connell</a><br />(<a href="/wiki/Kerry_GAA" title="Kerry GAA">Kerry</a>)
+</td>
+<td style="width:50%; text-align:center;">
+</td>
+<td style="width:25%;"><a href="/wiki/Tommy_Murphy_(Gaelic_Footballer)" class="mw-redirect" title="Tommy Murphy (Gaelic Footballer)">Tommy Murphy</a><br />(<a href="/wiki/Laois_GAA" title="Laois GAA">Laois</a>)
+</td></tr>
+<tr>
+<td>
+</td></tr>
+<tr style="text-align:center;">
+<td style="width:25%;"><b>Right Half Forward</b>
+</td>
+<td style="width:50%;"><b>Centre Forward</b>
+</td>
+<td style="width:25%;"><b>Left Half Forward</b>
+</td></tr>
+<tr style="text-align:center;">
+<td style="width:25%;"><a href="/wiki/Se%C3%A1n_O%27Neill" title="Seán O&#39;Neill">Seán O'Neill</a><br />(<a href="/wiki/Down_GAA" title="Down GAA">Down</a>)
+</td>
+<td style="width:25%;"><a href="/wiki/Se%C3%A1n_Purcell" title="Seán Purcell">Seán Purcell</a><br />(<a href="/wiki/Galway_GAA" title="Galway GAA">Galway</a>)
+</td>
+<td style="width:25%;"><a href="/wiki/Pat_Spillane" title="Pat Spillane">Pat Spillane</a><br />(<a href="/wiki/Kerry_GAA" title="Kerry GAA">Kerry</a>)
+</td></tr>
+<tr>
+<td>
+</td></tr>
+<tr style="text-align:center;">
+<td style="width:25%;"><b>Right Corner Forward</b>
+</td>
+<td style="width:50%;"><b>Full Forward</b>
+</td>
+<td style="width:25%;"><b>Left Corner Forward</b>
+</td></tr>
+<tr>
+<td>
+</td></tr>
+<tr style="text-align:center;">
+<td style="width:25%;"><a href="/wiki/Mikey_Sheehy" title="Mikey Sheehy">Mikey Sheehy</a><br />(<a href="/wiki/Kerry_GAA" title="Kerry GAA">Kerry</a>)
+</td>
+<td style="width:25%;"><a href="/wiki/Tommy_Langan" title="Tommy Langan">Tommy Langan</a><br />(<a href="/wiki/Mayo_GAA" title="Mayo GAA">Mayo</a>)
+</td>
+<td style="width:25%;"><a href="/wiki/Kevin_Heffernan_(Gaelic_footballer)" title="Kevin Heffernan (Gaelic footballer)">Kevin Heffernan</a><br />(<a href="/wiki/Dublin_GAA" title="Dublin GAA">Dublin</a>)
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Competition_structure">Competition structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=19" title="Edit section: Competition structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Children_playing_Gaelic_football_Ajax_Ontario.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Children_playing_Gaelic_football_Ajax_Ontario.jpg/220px-Children_playing_Gaelic_football_Ajax_Ontario.jpg" width="220" height="157" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Children_playing_Gaelic_football_Ajax_Ontario.jpg/330px-Children_playing_Gaelic_football_Ajax_Ontario.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Children_playing_Gaelic_football_Ajax_Ontario.jpg/440px-Children_playing_Gaelic_football_Ajax_Ontario.jpg 2x" data-file-width="1024" data-file-height="733" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Children_playing_Gaelic_football_Ajax_Ontario.jpg" class="internal" title="Enlarge"></a></div>Children participating in a game of Gaelic football</div></div></div>
+<p>Gaelic sports at all levels are amateur, in the sense that the athletes even those playing at elite level do not receive payment for their performance
+</p><p>The main competitions at all levels of Gaelic football are the <b>League</b> and the <b>Championship</b>. Of these it is the Championship (a knock-out tournament) that tends to attain the most prestige.
+</p><p>The basic unit of each game is organised at the club level, which is usually arranged on a <a href="/wiki/Parish_(administrative_division)" title="Parish (administrative division)">parochial</a> basis. Local clubs compete against other clubs in their county with the intention of winning the <b>County Club Championship</b> at senior, junior or intermediate levels (for adults) or under-21, minor or under-age levels (for children). A club may field more than one team, for example a club may field a team at senior level and a "seconds" team at junior or intermediate level. This format is laid out in the table below:
+</p>
+<table class="wikitable">
+<caption>Adult levels
+</caption>
+<tbody><tr>
+<th>Name
+</th>
+<th>Description
+</th></tr>
+<tr>
+<td>Senior
+</td>
+<td>Contested by the top adult teams
+</td></tr>
+<tr>
+<td>Junior
+</td>
+<td>Contested by the weak adult teams, often from smaller communities
+</td></tr>
+<tr>
+<td>Intermediate
+</td>
+<td>Contested by the remainder of the teams as a link between Senior and Junior
+</td></tr>
+</tbody></table>
+<table class="wikitable">
+<caption>Non-adult levels
+</caption>
+<tbody><tr>
+<th>Name
+</th>
+<th>Description
+</th></tr>
+<tr>
+<td>Under-21
+</td>
+<td>Contested by players under the age of 21
+</td></tr>
+<tr>
+<td>Minor
+</td>
+<td>Contested by players under the age of 18
+</td></tr>
+<tr>
+<td>Under-age
+</td>
+<td>Contested by players of all ages between under-17 and under-6
+</td></tr></tbody></table>
+<p>Clubs may come together in districts for the <b>County Championship</b> or compete on their own.
+</p><p>Though the island of Ireland was <a href="/wiki/Partition_of_Ireland" title="Partition of Ireland">partitioned</a> between two states by the British parliament in 1920, the organisation of Gaelic games (like that of most cultural organisations and religions) continues on an All-Ireland basis. At the national level, Ireland's Gaelic games are organised in 32 <a href="/wiki/GAA_county" class="mw-redirect" title="GAA county">GAA counties</a>, most of which are identical in name and extent to the 32 <a href="/wiki/Counties_of_Ireland" title="Counties of Ireland">administrative counties</a> on which local government throughout the island was based until the late 20th century.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> The term "county" is also used for some overseas GAA places, such as <a href="/wiki/London_GAA" title="London GAA">London</a> and <a href="/wiki/New_York_GAA" title="New York GAA">New York</a>. Clubs are also located throughout the world, in other parts of the <a href="/wiki/North_American_GAA" title="North American GAA">United States</a>, in <a href="/wiki/British_GAA" title="British GAA">Britain</a>, in <a href="/wiki/Canada_GAA" class="mw-redirect" title="Canada GAA">Canada</a>, in <a href="/wiki/Asian_GAA" title="Asian GAA">Asia</a>, in <a href="/wiki/Australasia_GAA" title="Australasia GAA">Australasia</a> and in continental <a href="/wiki/Europe_GAA" class="mw-redirect" title="Europe GAA">Europe</a>.
+</p><p>The level at which county teams compete against each other is referred to as <b>inter-county</b> (i.e. similar to international). A county panel—a team of 15 players, plus a similar number of substitutes—is formed from the best players playing at club level in each county. The most prestigious inter-county competition in Gaelic football is the <b>All-Ireland Championship</b>. The highest level national championship is called the <a href="/wiki/All-Ireland_Senior_Football_Championship" title="All-Ireland Senior Football Championship">All-Ireland Senior Football Championship</a>. Nearly all counties contest this tournament on an annual basis, with crowds of people thronging venues the length and breadth of Ireland—the most famous of these stadiums being <a href="/wiki/Croke_Park" title="Croke Park">Croke Park</a>—to support their local county team, a team comprising players selected from the clubs in that county. These modified knock-out games start as provincial championships contested by counties against other counties in their respective province, the four Irish provinces of <a href="/wiki/Ulster_GAA" title="Ulster GAA">Ulster</a>, <a href="/wiki/Munster_GAA" title="Munster GAA">Munster</a>, <a href="/wiki/Leinster_GAA" title="Leinster GAA">Leinster</a> and <a href="/wiki/Connacht_GAA" title="Connacht GAA">Connacht</a>. The four victors in these then progress automatically to the All-Ireland series.
+</p><p>In the past, the team winning each provincial championship would play one of the others, at a stage known as the All-Ireland semi-finals, with the winning team from each game playing each other in the famed All-Ireland Final to determine the outright winner. A recent (1990s/2000s) re-organisation created a "back door" method of qualifying, with teams knocked out during the provincial rounds of the All-Ireland Championship now acquiring a second chance at glory. Now the four victorious teams at provincial level enter the recently created All-Ireland quarter-finals instead, where they compete against the four remaining teams from the All-Ireland Qualifiers to progress to the All-Ireland semi-finals and then the All-Ireland Final. This re-organisation means that one team may defeat another team in an early stage of the championship, yet be defeated and knocked out of the tournament by the same team at a later stage. It also means a team may be defeated in an early stage of the championship, yet be crowned All-Ireland champions—as <a href="/wiki/Tyrone_GAA" title="Tyrone GAA">Tyrone</a> were in 2005 and 2008.
+</p><p>The secondary competition at inter-county level is the <b>National League</b>. The <a href="/wiki/National_Football_League_(Ireland)" title="National Football League (Ireland)">National Football League</a> is held every spring and groups counties in four divisions according to their relative strength. As at local (county) levels of Gaelic football, the League at national level is less prestigious than the Championship—however, in recent years attendances have grown, as has interest from the public and from players. This is due in part to the 2002 adoption of a February–April timetable, in place of the former November start, as well as the provision of Division 2 final stages. Live matches are aired on the international channel <a href="/wiki/Setanta_Sports" title="Setanta Sports">Setanta Sports</a> and the Irish language channel <a href="/wiki/TG4" title="TG4">TG4</a>, with highlights shown on <a href="/wiki/RT%C3%89_Two" class="mw-redirect" title="RTÉ Two">RTÉ Two</a>.
+</p><p>There are also All-Ireland championships for county teams at <a href="/wiki/All-Ireland_Junior_Football_Championship" title="All-Ireland Junior Football Championship">Junior</a>, <a href="/wiki/All-Ireland_Under_21_Football_Championship" class="mw-redirect" title="All-Ireland Under 21 Football Championship">Under-21</a> and <a href="/wiki/All-Ireland_Minor_Football_Championship" title="All-Ireland Minor Football Championship">Minor</a> levels, and provincial and national club championships, contested by the teams that win their respective county championships.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=20" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png" width="32" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/48px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/64px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Gaelic_games" title="Portal:Gaelic games">Gaelic games portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/All-Ireland_Senior_Football_Championship" title="All-Ireland Senior Football Championship">All-Ireland Senior Football Championship</a></li>
+<li><a href="/wiki/All-Ireland_Sevens_Football" title="All-Ireland Sevens Football">All-Ireland Sevens Football</a></li>
+<li><a href="/wiki/Association_football_in_the_Republic_of_Ireland" title="Association football in the Republic of Ireland">Association football in the Republic of Ireland</a></li>
+<li><a href="/wiki/Ladies%27_Gaelic_football" title="Ladies&#39; Gaelic football">Ladies' Gaelic football</a></li>
+<li><a href="/wiki/List_of_footballers_(Gaelic_football)" class="mw-redirect" title="List of footballers (Gaelic football)">List of footballers (Gaelic football)</a></li>
+<li><a href="/wiki/List_of_Gaelic_football_clubs" class="mw-redirect" title="List of Gaelic football clubs">List of Gaelic football clubs</a></li>
+<li><a href="/wiki/Sport_in_Ireland" title="Sport in Ireland">Sport in Ireland</a></li>
+<li><a href="/wiki/Comparison_of_Gaelic_football_and_rugby_union" title="Comparison of Gaelic football and rugby union">Comparison of Gaelic football and rugby union</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=21" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-google-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-google_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Ireland, T.E.C. (2000). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=PzeMyvxbUMUC"><i>Irish-English/English-Irish Easy Reference Dictionary</i></a>. Roberts Rinehart. p.&#160;197. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781461660316" title="Special:BookSources/9781461660316">9781461660316</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Irish-English%2FEnglish-Irish+Easy+Reference+Dictionary&amp;rft.pages=197&amp;rft.pub=Roberts+Rinehart&amp;rft.date=2000&amp;rft.isbn=9781461660316&amp;rft.au=Ireland%2C+T.E.C.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DPzeMyvxbUMUC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGaelic+football" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">The sport is also sometimes referred to in Dublin as "Gah": see <cite class="citation news">Kelly, Fiach (30 June 2008). <a rel="nofollow" class="external text" href="http://www.independent.ie/national-news/plenty-to-give-out-about-for-the-dubs-1423216.html">"Plenty to give out about for the Dubs"</a>. <i>Irish Independent</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 September</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Irish+Independent&amp;rft.atitle=Plenty+to+give+out+about+for+the+Dubs&amp;rft.date=2008-06-30&amp;rft.aulast=Kelly&amp;rft.aufirst=Fiach&amp;rft_id=http%3A%2F%2Fwww.independent.ie%2Fnational-news%2Fplenty-to-give-out-about-for-the-dubs-1423216.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGaelic+football" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/>; <cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gaelicmatters.com/traditional-irish-sports.html">"The Biggest Traditional Irish Sports"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">12 April</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Biggest+Traditional+Irish+Sports&amp;rft_id=http%3A%2F%2Fwww.gaelicmatters.com%2Ftraditional-irish-sports.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGaelic+football" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gaelic.com/irish-gaelic-football.html">"Irish Gaelic Football"</a>. Accessed 19 September 2011.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Corry, Eoghan (2005). <i>The GAA Book of Lists</i>. Hodder Headline Ireland. p.&#160;238.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+GAA+Book+of+Lists&amp;rft.pages=238&amp;rft.pub=Hodder+Headline+Ireland&amp;rft.date=2005&amp;rft.aulast=Corry&amp;rft.aufirst=Eoghan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGaelic+football" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Corry, Eoghan (2010). <i>The History of Gaelic Football</i>. Gill &amp; MacMillan Ireland. p.&#160;16. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7171-4818-9" title="Special:BookSources/978-0-7171-4818-9">978-0-7171-4818-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+History+of+Gaelic+Football&amp;rft.pages=16&amp;rft.pub=Gill+%26+MacMillan+Ireland&amp;rft.date=2010&amp;rft.isbn=978-0-7171-4818-9&amp;rft.aulast=Corry&amp;rft.aufirst=Eoghan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGaelic+football" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Mahon, Jack (2001). <i>A History of Gaelic Football</i>. Gill &amp;MacMillan. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7171-3279-X" title="Special:BookSources/0-7171-3279-X">0-7171-3279-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+History+of+Gaelic+Football&amp;rft.pub=Gill+%26MacMillan&amp;rft.date=2001&amp;rft.isbn=0-7171-3279-X&amp;rft.aulast=Mahon&amp;rft.aufirst=Jack&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGaelic+football" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-orejan-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-orejan_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-orejan_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-orejan_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Orejan, Jaime (Spring 2006). <a rel="nofollow" class="external text" href="http://thesmartjournal.com/GAA.pdf">"The History of Gaelic Football and the Gaelic Athletic Association"</a> <span class="cs1-format">(PDF)</span>. <i>Sport Management and Related Topic Journal</i>. <b>2</b> (2): 46<span class="reference-accessdate">. Retrieved <span class="nowrap">3 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Sport+Management+and+Related+Topic+Journal&amp;rft.atitle=The+History+of+Gaelic+Football+and+the+Gaelic+Athletic+Association&amp;rft.ssn=spring&amp;rft.volume=2&amp;rft.issue=2&amp;rft.pages=46&amp;rft.date=2006&amp;rft.aulast=Orejan&amp;rft.aufirst=Jaime&amp;rft_id=http%3A%2F%2Fthesmartjournal.com%2FGAA.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGaelic+football" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gaa.ie/news/football-history-and-evolution/">"Football - History and Evolution"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Football+-+History+and+Evolution&amp;rft_id=http%3A%2F%2Fwww.gaa.ie%2Fnews%2Ffootball-history-and-evolution%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGaelic+football" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080719171629/http://www.ceim.gaa.ie/files/8%20pupil%20SEN.pdf">"Pupil Worksheets SEN"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.ceim.gaa.ie/files/8%20pupil%20SEN.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2008-07-19.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pupil+Worksheets+SEN&amp;rft_id=http%3A%2F%2Fwww.ceim.gaa.ie%2Ffiles%2F8%2520pupil%2520SEN.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGaelic+football" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.bbc.com/sport/get-inspired/23158413">"Get Inspired: How to get into Gaelic football"</a>. <i><a href="/wiki/BBC_Sport" title="BBC Sport">BBC Sport</a></i>. 19 July 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">19 July</span> 2013</span>. <q>...By 1958, Wembley Stadium was being used to host annual exhibition games of Gaelic football in England—more than 40,000 spectators came to watch in 1962...</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+Sport&amp;rft.atitle=Get+Inspired%3A+How+to+get+into+Gaelic+football&amp;rft.date=2013-07-19&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fsport%2Fget-inspired%2F23158413&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGaelic+football" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport2/hi/northern_ireland/gaelic_games/4293130.stm">"GAA pitch size"</a>. <i>BBC News</i>. 11 October 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">18 September</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft.atitle=GAA+pitch+size&amp;rft.date=2005-10-11&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport2%2Fhi%2Fnorthern_ireland%2Fgaelic_games%2F4293130.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGaelic+football" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160531220641/http://www.gaa.ie/mm//Document/TheGAA/RulesandRegulations/12/66/56/2016OfficialGuide-Part2_English.pdf"><i>GAA Official Guide – Part 2</i></a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/Gaelic_Athletic_Association" title="Gaelic Athletic Association">Gaelic Athletic Association</a>. 2009. p.&#160;8. Archived from <a rel="nofollow" class="external text" href="http://www.gaa.ie/mm//Document/TheGAA/RulesandRegulations/12/66/56/2016OfficialGuide-Part2_English.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 31 May 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">26 August</span> 2016</span>. <q>A team shall consist of fifteen players.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=GAA+Official+Guide+%E2%80%93+Part+2&amp;rft.pages=8&amp;rft.pub=Gaelic+Athletic+Association&amp;rft.date=2009&amp;rft_id=http%3A%2F%2Fwww.gaa.ie%2Fmm%2F%2FDocument%2FTheGAA%2FRulesandRegulations%2F12%2F66%2F56%2F2016OfficialGuide-Part2_English.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGaelic+football" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gaa.ie/mm/Document/TheGAA/RulesandRegulations/12/66/56/2016OfficialGuide-Part2_English.pdf">"GAA Official Guide 2016, Part 2, Rule 4.4 ii (p.16)"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=GAA+Official+Guide+2016%2C+Part+2%2C+Rule+4.4+ii+%28p.16%29&amp;rft_id=http%3A%2F%2Fwww.gaa.ie%2Fmm%2FDocument%2FTheGAA%2FRulesandRegulations%2F12%2F66%2F56%2F2016OfficialGuide-Part2_English.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGaelic+football" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.independent.ie/sport/gaelic-games/gaelic-football/gaa-have-announced-that-the-mark-will-be-introduced-across-the-board-on-january-1-35233092.html">"GAA have announced that the 'mark' will be introduced across the board on January 1"</a>. <i>Irish Independent</i>. 30 November 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Irish+Independent&amp;rft.atitle=GAA+have+announced+that+the+%27mark%27+will+be+introduced+across+the+board+on+January+1&amp;rft.date=2016-11-30&amp;rft_id=https%3A%2F%2Fwww.independent.ie%2Fsport%2Fgaelic-games%2Fgaelic-football%2Fgaa-have-announced-that-the-mark-will-be-introduced-across-the-board-on-january-1-35233092.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGaelic+football" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090204082354/http://www.gaa.ie/page/all_about_football.html">"All About Football"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.gaa.ie/page/all_about_football.html">the original</a> on 4 February 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">18 September</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=All+About+Football&amp;rft_id=http%3A%2F%2Fwww.gaa.ie%2Fpage%2Fall_about_football.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGaelic+football" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-GAA_Rules_2012,_p._74–81,_Rule_5-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-GAA_Rules_2012,_p._74–81,_Rule_5_16-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130502173622/http://gaa.ie/content/documents/publications/official_guides/Official_Guide_2012_Part2.pdf">"Official Guide – Part 2"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.gaa.ie/content/documents/publications/official_guides/Official_Guide_2012_Part2.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2 May 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Official+Guide+%E2%80%93+Part+2&amp;rft_id=http%3A%2F%2Fwww.gaa.ie%2Fcontent%2Fdocuments%2Fpublications%2Fofficial_guides%2FOfficial_Guide_2012_Part2.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGaelic+football" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/>GAA Rules 2012, p. 74–81, Rule 5</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.independent.ie/sport/gaelic-football/gaa-pass-controversial-black-card-rule-29150028.html">"GAA pass controversial 'black card' rule"</a>. <i><a href="/wiki/Irish_Independent" title="Irish Independent">Irish Independent</a></i>. 23 March 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">14 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Irish+Independent&amp;rft.atitle=GAA+pass+controversial+%27black+card%27+rule&amp;rft.date=2013-03-23&amp;rft_id=http%3A%2F%2Fwww.independent.ie%2Fsport%2Fgaelic-football%2Fgaa-pass-controversial-black-card-rule-29150028.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGaelic+football" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-GAA_Rules_2012,_p._82-83,_Rule_6-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-GAA_Rules_2012,_p._82-83,_Rule_6_18-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130502173622/http://gaa.ie/content/documents/publications/official_guides/Official_Guide_2012_Part2.pdf">"Official Guide – Part 2"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.gaa.ie/content/documents/publications/official_guides/Official_Guide_2012_Part2.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2 May 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Official+Guide+%E2%80%93+Part+2&amp;rft_id=http%3A%2F%2Fwww.gaa.ie%2Fcontent%2Fdocuments%2Fpublications%2Fofficial_guides%2FOfficial_Guide_2012_Part2.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGaelic+football" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/> GAA Rules 2012, pp. 82–83, Rule 6</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation book">Corry, Eoghan (2005). <i>The GAA Book of Lists</i>. Hodder Headline Ireland. p.&#160;238.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+GAA+Book+of+Lists&amp;rft.pages=238&amp;rft.pub=Hodder+Headline+Ireland&amp;rft.date=2005&amp;rft.aulast=Corry&amp;rft.aufirst=Eoghan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGaelic+football" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">The administrative counties have been rearranged in the 20th century. <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a>'s original six counties are now divided into 26 local government districts, while the <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Republic of Ireland</a>'s 26 counties have been redrawn, leading to a modern local governmental unit total of 33. The GAA's 32 counties are mainly named for the administrative counties as they existed when the Association was formed, with some exceptions (such as <a href="/wiki/Derry_GAA" title="Derry GAA">Derry</a> and <a href="/wiki/Laois_GAA" title="Laois GAA">Laois</a>). While the former administrative county borders are generally respected, a GAA county may occasionally open its competitions to clubs that are wholly or partly based in neighbouring counties.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=22" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Jack Mahon, 2001, <i>A History of Gaelic Football</i> Dublin: Gill &amp; Macmillan. (<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7171-3279-X" title="Special:BookSources/0-7171-3279-X">0-7171-3279-X</a>)</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gaelic_football&amp;action=edit&amp;section=23" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Gaelic_football" class="extiw" title="commons:Category:Gaelic football">Gaelic football</a></b></i>.</td></tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120306040248/http://www.gaa.ie/content/documents/publications/official_guides/Official_Guide_2010_Part2.pdf">Rules of the game</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.gaa.ie/">Official GAA website</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Gaelic_games" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#BFD7FF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Gaelic_games" title="Template:Gaelic games"><abbr title="View this template" style="background:#BFD7FF;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Gaelic_games" title="Template talk:Gaelic games"><abbr title="Discuss this template" style="background:#BFD7FF;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Gaelic_games&amp;action=edit"><abbr title="Edit this template" style="background:#BFD7FF;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Gaelic_games" style="font-size:114%;margin:0 4em"><a href="/wiki/Gaelic_games" title="Gaelic games">Gaelic games</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background:#BFD7FF;"><div id="*_County&amp;#10;*_Stadiums_and_Venues">
+<ul><li><a href="/wiki/GAA_County" class="mw-redirect" title="GAA County">County</a></li>
+<li><a href="/wiki/List_of_gaa_stadiums_by_capacity" class="mw-redirect" title="List of gaa stadiums by capacity">Stadiums and Venues</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#BFD7FF;;width:1%">Men's</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Football</a></li>
+<li><a href="/wiki/Hurling" title="Hurling">Hurling</a></li>
+<li><a href="/wiki/Gaelic_handball" title="Gaelic handball">Handball</a></li>
+<li><a href="/wiki/Rounders" title="Rounders">Rounders</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#BFD7FF;;width:1%">Ladies'</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Camogie" title="Camogie">Camogie</a></li>
+<li><a href="/wiki/Ladies%27_Gaelic_football" title="Ladies&#39; Gaelic football">Football</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#BFD7FF;;width:1%"><a href="/wiki/Category:Gaelic_games-related_lists" title="Category:Gaelic games-related lists">Lists</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Clubs
+<ul><li><a href="/wiki/List_of_Gaelic_games_clubs_in_Ireland" title="List of Gaelic games clubs in Ireland">Ireland</a></li>
+<li><a href="/wiki/List_of_Gaelic_games_clubs_outside_Ireland" title="List of Gaelic games clubs outside Ireland">Elsewhere</a></li></ul></li>
+<li><a href="/wiki/List_of_Gaelic_games_competitions" title="List of Gaelic games competitions">Competitions</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#BFD7FF;;width:1%"><a href="/wiki/Category:Gaelic_games_competitions" title="Category:Gaelic games competitions">Competitions</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/All-Ireland_Senior_Football_Championship" title="All-Ireland Senior Football Championship">All-Ireland Senior Football Championship</a></li>
+<li><a href="/wiki/All-Ireland_Senior_Hurling_Championship" title="All-Ireland Senior Hurling Championship">All-Ireland Senior Hurling Championship</a></li>
+<li><a href="/wiki/National_Football_League_(Ireland)" title="National Football League (Ireland)">National Football League</a></li>
+<li><a href="/wiki/National_Hurling_League" title="National Hurling League">National Hurling League</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background:#BFD7FF;"><div><a href="/wiki/Glossary_of_Gaelic_games_terms" title="Glossary of Gaelic games terms">Glossary of terms</a></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Gaelic_football" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background:#BFD7FF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Gaelic_football" title="Template:Gaelic football"><abbr title="View this template" style="background:#BFD7FF;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Gaelic_football" title="Template talk:Gaelic football"><abbr title="Discuss this template" style="background:#BFD7FF;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Gaelic_football&amp;action=edit"><abbr title="Edit this template" style="background:#BFD7FF;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Gaelic_football" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Gaelic football</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="3" style="background:#BFD7FF;"><div id="Positions"><a href="/wiki/Gaelic_football,_hurling_and_camogie_positions" title="Gaelic football, hurling and camogie positions">Positions</a></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sam_Maguire_Cup" title="Sam Maguire Cup">Sam Maguire Cup</a></li>
+<li><a href="/wiki/All-Ireland_Senior_Football_Championship" title="All-Ireland Senior Football Championship">Senior Championship</a> (<a href="/wiki/2018_All-Ireland_Senior_Football_Championship" title="2018 All-Ireland Senior Football Championship">2018</a>)</li>
+<li><a href="/wiki/National_Football_League_(Ireland)" title="National Football League (Ireland)">National Football League</a> (<a href="/wiki/2018_National_Football_League_(Ireland)" title="2018 National Football League (Ireland)">2018</a>)</li>
+<li><a href="/wiki/All-Ireland_Under_21_Football_Championship" class="mw-redirect" title="All-Ireland Under 21 Football Championship">Under 21 Championship</a></li>
+<li><a href="/wiki/All-Ireland_Minor_Football_Championship" title="All-Ireland Minor Football Championship">Minor Championship</a> (<a href="/wiki/2018_All-Ireland_Minor_Football_Championship" title="2018 All-Ireland Minor Football Championship">2018</a>)</li>
+<li><a href="/wiki/All-Ireland_Junior_Football_Championship" title="All-Ireland Junior Football Championship">Junior Championship</a></li>
+<li><a href="/wiki/All-Ireland_Senior_Club_Football_Championship" title="All-Ireland Senior Club Football Championship">Club Football Championship</a></li>
+<li><a href="/wiki/List_of_All_Stars_Awards_winners_(football)" title="List of All Stars Awards winners (football)">All Stars Awards</a></li>
+<li><a href="/wiki/Gaelic_football_at_the_1904_Summer_Olympics" title="Gaelic football at the 1904 Summer Olympics">Olympics</a></li></ul>
+</div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:1928_Sam_Maguire_cup,_GAA_museum.jpg" class="image"><img alt="1928 Sam Maguire cup, GAA museum.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/1928_Sam_Maguire_cup%2C_GAA_museum.jpg/99px-1928_Sam_Maguire_cup%2C_GAA_museum.jpg" width="99" height="85" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/1928_Sam_Maguire_cup%2C_GAA_museum.jpg/150px-1928_Sam_Maguire_cup%2C_GAA_museum.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/1928_Sam_Maguire_cup%2C_GAA_museum.jpg/199px-1928_Sam_Maguire_cup%2C_GAA_museum.jpg 2x" data-file-width="662" data-file-height="567" /></a></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Gaelic_Athletic_Association" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#BFD7FF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Gaelic_Athletic_Association" title="Template:Gaelic Athletic Association"><abbr title="View this template" style="background:#BFD7FF;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Gaelic_Athletic_Association" title="Template talk:Gaelic Athletic Association"><abbr title="Discuss this template" style="background:#BFD7FF;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Gaelic_Athletic_Association&amp;action=edit"><abbr title="Edit this template" style="background:#BFD7FF;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Gaelic_Athletic_Association" style="font-size:114%;margin:0 4em"><a href="/wiki/Gaelic_Athletic_Association" title="Gaelic Athletic Association">Gaelic Athletic Association</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background:#BFD7FF;"><div id="*_Glossary_of_terms">
+<ul><li><a href="/wiki/Glossary_of_Gaelic_games_terms" title="Glossary of Gaelic games terms">Glossary of terms</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#BFD7FF;;width:1%">Overview</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hayes%27_Hotel" title="Hayes&#39; Hotel">Foundation</a></li>
+<li><a href="/wiki/Croke_Park" title="Croke Park">Headquarters</a></li>
+<li><a href="/wiki/Gaelic_Athletic_Association_Congress" title="Gaelic Athletic Association Congress">Congress</a></li>
+<li><a href="/wiki/President_of_the_Gaelic_Athletic_Association" title="President of the Gaelic Athletic Association">President</a></li>
+<li><a href="/wiki/History_of_the_Gaelic_Athletic_Association" title="History of the Gaelic Athletic Association">History</a></li>
+<li><a href="/wiki/Rule_21" title="Rule 21">Rule 21</a></li>
+<li><a href="/wiki/Rule_42" title="Rule 42">Rule 42</a></li>
+<li><a href="/wiki/GAA_125" title="GAA 125">125th anniversary events</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#BFD7FF;;width:1%">Founder members</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clare_GAA" title="Clare GAA">Clare</a></li>
+<li><a href="/wiki/Cork_GAA" title="Cork GAA">Cork</a></li>
+<li><a href="/wiki/Kilkenny_GAA" title="Kilkenny GAA">Kilkenny</a></li>
+<li><a href="/wiki/Limerick_GAA" title="Limerick GAA">Limerick</a></li>
+<li><a href="/wiki/Louth_GAA" title="Louth GAA">Louth</a></li>
+<li><a href="/wiki/Meath_GAA" title="Meath GAA">Meath</a></li>
+<li><a href="/wiki/Tipperary_GAA" title="Tipperary GAA">Tipperary</a></li>
+<li><a href="/wiki/Waterford_GAA" title="Waterford GAA">Waterford</a></li>
+<li><a href="/wiki/Wexford_GAA" title="Wexford GAA">Wexford</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#BFD7FF;;width:1%"><a href="/wiki/List_of_Presidents_of_the_Gaelic_Athletic_Association" title="List of Presidents of the Gaelic Athletic Association">Presidents</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Maurice_Davin" title="Maurice Davin">Maurice Davin</a></li>
+<li><a href="/wiki/Edward_Bennet" title="Edward Bennet">Edward Bennet</a></li>
+<li><a href="/wiki/Peter_Kelly_(GAA)" title="Peter Kelly (GAA)">Peter Kelly</a></li>
+<li><a href="/wiki/Frank_Dineen" title="Frank Dineen">Frank Dineen</a></li>
+<li><a href="/wiki/Michael_Deering_(GAA_President)" class="mw-redirect" title="Michael Deering (GAA President)">Michael Deering</a></li>
+<li><a href="/wiki/James_Nowlan" title="James Nowlan">James Nowlan</a></li>
+<li><a href="/wiki/Daniel_McCarthy_(politician)" title="Daniel McCarthy (politician)">Daniel McCarthy</a></li>
+<li><a href="/wiki/Patrick_Breen_(GAA_President)" title="Patrick Breen (GAA President)">Patrick Breen</a></li>
+<li><a href="/wiki/Liam_Clifford" title="Liam Clifford">Liam Clifford</a></li>
+<li><a href="/wiki/Se%C3%A1n_Ryan_(GAA_President)" title="Seán Ryan (GAA President)">Seán Ryan</a></li>
+<li><a href="/wiki/Se%C3%A1n_McCarthy_(Cork_politician)" title="Seán McCarthy (Cork politician)">Seán McCarthy</a></li>
+<li><a href="/wiki/Bob_O%27Keeffe" title="Bob O&#39;Keeffe">Bob O'Keeffe</a></li>
+<li><a href="/wiki/P%C3%A1draig_MacNamee" title="Pádraig MacNamee">Pádraig MacNamee</a></li>
+<li><a href="/wiki/S%C3%A9amus_Gardiner" title="Séamus Gardiner">Séamus Gardiner</a></li>
+<li><a href="/wiki/Daniel_O%27Rourke_(politician)" title="Daniel O&#39;Rourke (politician)">Dan O'Rourke</a></li>
+<li><a href="/wiki/Michael_Kehoe_(GAA_President)" class="mw-redirect" title="Michael Kehoe (GAA President)">Michael Kehoe</a></li>
+<li><a href="/wiki/Vincent_O%27Donoghue" title="Vincent O&#39;Donoghue">Vincent O'Donoghue</a></li>
+<li><a href="/wiki/S%C3%A9amus_McFerran" title="Séamus McFerran">Séamus McFerran</a></li>
+<li><a href="/wiki/Joseph_Stuart" title="Joseph Stuart">Joseph Stuart</a></li>
+<li><a href="/wiki/Aodh_%C3%93_Broin" title="Aodh Ó Broin">Aodh Ó Broin</a></li>
+<li><a href="/wiki/Alf_Murray" title="Alf Murray">Alf Ó Muirí</a></li>
+<li><a href="/wiki/S%C3%A9amus_%C3%93_Riain" title="Séamus Ó Riain">Séamus Ó Riain</a></li>
+<li><a href="/wiki/Pat_Fanning" title="Pat Fanning">Pádraig Ó Fainín</a></li>
+<li><a href="/wiki/Donal_Keenan" title="Donal Keenan">Donal Ó Cianáin</a></li>
+<li><a href="/wiki/Con_Murphy_(Valley_Rovers_hurler)" title="Con Murphy (Valley Rovers hurler)">Con Murphy</a></li>
+<li><a href="/wiki/P%C3%A1draig_Mac_Floinn" class="mw-redirect" title="Pádraig Mac Floinn">Pádraig Mac Floinn</a></li>
+<li><a href="/wiki/Paddy_Buggy" title="Paddy Buggy">Paddy Buggy</a></li>
+<li><a href="/wiki/Mick_Loftus" title="Mick Loftus">Mick Loftus</a></li>
+<li><a href="/wiki/John_Dowling_(GAA_President)" title="John Dowling (GAA President)">John Dowling</a></li>
+<li><a href="/wiki/Peter_Quinn_(GAA_President)" title="Peter Quinn (GAA President)">Peter Quinn</a></li>
+<li><a href="/wiki/Jack_Boothman" title="Jack Boothman">Jack Boothman</a></li>
+<li><a href="/wiki/Joe_McDonagh" title="Joe McDonagh">Joe McDonagh</a></li>
+<li><a href="/wiki/Se%C3%A1n_McCague" title="Seán McCague">Seán McCague</a></li>
+<li><a href="/wiki/Se%C3%A1n_Kelly_(Irish_politician)" title="Seán Kelly (Irish politician)">Seán Kelly</a></li>
+<li><a href="/wiki/Nickey_Brennan" title="Nickey Brennan">Nickey Brennan</a></li>
+<li><a href="/wiki/Christy_Cooney" title="Christy Cooney">Christy Cooney</a></li>
+<li><a href="/wiki/Liam_O%27Neill" title="Liam O&#39;Neill">Liam O'Neill</a></li>
+<li><a href="/wiki/Aog%C3%A1n_%C3%93_Feargha%C3%ADl" title="Aogán Ó Fearghaíl">Aogán Ó Fearghaíl</a></li>
+<li><a href="/wiki/John_Horan_(GAA_President)" class="mw-redirect" title="John Horan (GAA President)">John Horan</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#BFD7FF;;width:1%"><a href="/wiki/Inter_county" title="Inter county">County games</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gaelic_Athletic_Association_county" title="Gaelic Athletic Association county">Counties</a></li>
+<li><a href="/wiki/Gaelic_games_county_colours" title="Gaelic games county colours">County colours</a></li>
+<li><a href="/wiki/List_of_Irish_county_nicknames" title="List of Irish county nicknames">County nicknames</a></li>
+<li><a href="/wiki/List_of_Gaelic_games_clubs_in_Ireland" title="List of Gaelic games clubs in Ireland">Clubs</a></li>
+<li><a href="/wiki/GAA_Interprovincial_Championship" title="GAA Interprovincial Championship">GAA Interprovincial Championship</a></li>
+<li><a href="/wiki/All-Ireland_Senior_Football_Championship" title="All-Ireland Senior Football Championship">All-Ireland Senior Football Championship</a></li>
+<li><a href="/wiki/All-Ireland_Senior_Hurling_Championship" title="All-Ireland Senior Hurling Championship">All-Ireland Senior Hurling Championship</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#BFD7FF;;width:1%"><a href="/wiki/GAA_provincial_council" title="GAA provincial council">Provincial councils</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Connacht_GAA" title="Connacht GAA">Connacht</a></li>
+<li><a href="/wiki/Leinster_GAA" title="Leinster GAA">Leinster</a></li>
+<li><a href="/wiki/Munster_GAA" title="Munster GAA">Munster</a></li>
+<li><a href="/wiki/Ulster_GAA" title="Ulster GAA">Ulster</a></li>
+<li><a href="/wiki/British_GAA" title="British GAA">Britain</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#BFD7FF;;width:1%">Related articles</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Croke_Park" title="Croke Park">Croke Park</a></li>
+<li><a href="/wiki/List_of_Gaelic_Athletic_Association_stadiums" title="List of Gaelic Athletic Association stadiums">Stadiums</a></li>
+<li><a href="/wiki/Sc%C3%B3r" title="Scór">Scór</a></li>
+<li><a href="/wiki/Gaelic_Athletic_Association_Congress" title="Gaelic Athletic Association Congress">Annual Congress</a></li>
+<li><a href="/wiki/F%C3%A9ile_na_nGael" title="Féile na nGael">Féile na nGael</a></li>
+<li><a href="/wiki/Higher_Education_GAA" title="Higher Education GAA">Higher Education</a></li>
+<li><a href="/wiki/Games_Administration_Committee" title="Games Administration Committee">Games Administration Committee</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background:#BFD7FF;"><div>
+<ul><li><a href="/wiki/Camogie" title="Camogie">Camogie</a></li>
+<li><a class="mw-selflink selflink">Football</a></li>
+<li><a href="/wiki/Gaelic_handball" title="Gaelic handball">Handball</a></li>
+<li><a href="/wiki/Hurling" title="Hurling">Hurling</a></li>
+<li><a href="/wiki/Ladies%27_Gaelic_football" title="Ladies&#39; Gaelic football">Ladies' football</a></li>
+<li><a href="/wiki/Rounders" title="Rounders">Rounders</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Team_sports" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Team_sports" title="Template:Team sports"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Team_sports" title="Template talk:Team sports"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Team_sports&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Team_sports" style="font-size:114%;margin:0 4em"><a href="/wiki/Team_sport" title="Team sport">Team sports</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Sport&amp;#10;*_Governing_bodies&amp;#10;*_Sportspeople&amp;#10;*_National_sport">
+<ul><li><a href="/wiki/Sport" title="Sport">Sport</a></li>
+<li><a href="/wiki/Sports_governing_body" title="Sports governing body">Governing bodies</a></li>
+<li><a href="/wiki/Lists_of_sportspeople" title="Lists of sportspeople">Sportspeople</a></li>
+<li><a href="/wiki/National_sport" title="National sport">National sport</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Basket sports</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Basketball" title="Basketball">Basketball</a>
+<ul><li><a href="/wiki/Beach_basketball" title="Beach basketball">beach</a></li>
+<li><a href="/wiki/Deaf_basketball" title="Deaf basketball">deaf</a></li>
+<li><a href="/wiki/3x3_basketball" title="3x3 basketball">3x3</a></li>
+<li><a href="/wiki/Water_basketball" title="Water basketball">water</a></li>
+<li><a href="/wiki/Wheelchair_basketball" title="Wheelchair basketball">wheelchair</a></li></ul></li>
+<li><a href="/wiki/Cestoball" title="Cestoball">Cestoball</a></li>
+<li><a href="/wiki/Korfball" title="Korfball">Korfball</a></li>
+<li><a href="/wiki/Netball" title="Netball">Netball</a>
+<ul><li><a href="/wiki/Fast5" title="Fast5">Fast5</a></li>
+<li><a href="/wiki/Indoor_netball" title="Indoor netball">indoor</a></li>
+<li><a href="/wiki/Wheelchair_netball" title="Wheelchair netball">wheelchair</a></li></ul></li>
+<li><a href="/wiki/Rezball" title="Rezball">Rezball</a></li>
+<li><a href="/wiki/Ringball" title="Ringball">Ringball</a></li>
+<li><a href="/wiki/Slamball" title="Slamball">Slamball</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Football" title="Football">Football</a> codes</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Association_football" title="Association football">Association football</a>
+<ul><li><a href="/wiki/Amputee_football" title="Amputee football">amputee</a></li>
+<li><a href="/wiki/Beach_soccer" title="Beach soccer">beach</a></li>
+<li><a href="/wiki/Freestyle_football" title="Freestyle football">freestyle</a></li>
+<li><a href="/wiki/Futsal" title="Futsal">Futsal</a></li>
+<li><a href="/wiki/Indoor_soccer" title="Indoor soccer">indoor</a></li>
+<li><a href="/wiki/Jorkyball" title="Jorkyball">Jorkyball</a></li>
+<li><a href="/wiki/Paralympic_association_football" title="Paralympic association football">paralympic</a></li>
+<li><a href="/wiki/Powerchair_Football" title="Powerchair Football">powerchair</a></li>
+<li><a href="/wiki/Roller_soccer" title="Roller soccer">roller</a></li>
+<li><a href="/wiki/Street_football" title="Street football">street</a></li>
+<li><a href="/wiki/Walking_football" title="Walking football">walking</a></li></ul></li>
+<li><a href="/wiki/Australian_rules_football" title="Australian rules football">Australian rules football</a>
+<ul><li><a href="/wiki/AFLX" title="AFLX">AFLX</a></li>
+<li><a href="/wiki/Lightning_football" title="Lightning football">Lightning football</a></li>
+<li><a href="/wiki/Metro_footy" title="Metro footy">Metro footy</a></li>
+<li><a href="/wiki/Nine-a-side_footy" title="Nine-a-side footy">Nine-a-side</a></li>
+<li><a href="/wiki/Rec_footy" title="Rec footy">Rec footy</a></li></ul></li>
+<li><a class="mw-selflink selflink">Gaelic football</a>
+<ul><li><a href="/wiki/Ladies%27_Gaelic_football" title="Ladies&#39; Gaelic football">Ladies'</a></li></ul></li>
+<li><a href="/wiki/Circle_rules_football" title="Circle rules football">Circle rules football</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Gridiron_football" title="Gridiron football">Gridiron</a> codes</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/American_football" title="American football">American football</a>
+<ul><li><a href="/wiki/Eight-man_football" title="Eight-man football">eight-man</a></li>
+<li><a href="/wiki/Flag_football" title="Flag football">flag</a></li>
+<li><a href="/wiki/Nine-man_football" title="Nine-man football">nine-man</a></li>
+<li><a href="/wiki/Six-man_football" title="Six-man football">six-man</a></li>
+<li><a href="/wiki/Sprint_football" title="Sprint football">sprint</a></li>
+<li><a href="/wiki/Touch_football_(American)" title="Touch football (American)">touch</a></li>
+<li><a href="/wiki/Wheelchair_Football_(American)" title="Wheelchair Football (American)">wheelchair</a></li></ul></li>
+<li><a href="/wiki/Canadian_football" title="Canadian football">Canadian football</a></li>
+<li><a href="/wiki/Indoor_American_football" title="Indoor American football">Indoor American football</a>
+<ul><li><a href="/wiki/Arena_football" title="Arena football">Arena football</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hybrid_sport" title="Hybrid sport">Hybrid</a> codes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Austus" title="Austus">Austus</a></li>
+<li><a href="/wiki/Eton_wall_game" title="Eton wall game">Eton wall game</a></li>
+<li><a href="/wiki/International_rules_football" title="International rules football">International rules football</a></li>
+<li><a href="/wiki/Samoa_rules" title="Samoa rules">Samoa rules</a></li>
+<li><a href="/wiki/Speedball_(American_ball_game)" title="Speedball (American ball game)">Speedball</a></li>
+<li><a href="/wiki/Swedish_football_(code)" title="Swedish football (code)">Swedish football</a></li>
+<li><a href="/wiki/Universal_football" title="Universal football">Universal football</a></li>
+<li><a href="/wiki/Volata" title="Volata">Volata</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Medieval_football" title="Medieval football">Medieval football</a> codes</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ba_game" title="Ba game">Ba game</a></li>
+<li><a href="/wiki/Caid_(sport)" title="Caid (sport)">Caid</a></li>
+<li><a href="/wiki/Calcio_Fiorentino" title="Calcio Fiorentino">Calcio fiorentino</a></li>
+<li><a href="/wiki/Camping_(game)" title="Camping (game)">Camping</a></li>
+<li><a href="/wiki/Cnapan" title="Cnapan">Cnapan</a></li>
+<li><a href="/wiki/Cornish_hurling" title="Cornish hurling">Cornish hurling</a></li>
+<li><a href="/wiki/Cuju" title="Cuju">Cuju</a></li>
+<li><a href="/wiki/Harpastum" title="Harpastum">Harpastum</a></li>
+<li><a href="/wiki/Kemari" title="Kemari">Kemari</a></li>
+<li><a href="/wiki/Ki-o-rahi" class="mw-redirect" title="Ki-o-rahi">Ki-o-rahi</a></li>
+<li><a href="/wiki/Jegichagi" title="Jegichagi">Jegichagi</a></li>
+<li><a href="/wiki/La_soule" title="La soule">La soule</a></li>
+<li><a href="/wiki/Lelo_burti" title="Lelo burti">Lelo burti</a></li>
+<li><a href="/wiki/Marn_Grook" title="Marn Grook">Marn grook</a></li>
+<li><a href="/wiki/Pasuckuakohowog" title="Pasuckuakohowog">Pasuckuakohowog</a></li>
+<li><a href="/wiki/Royal_Shrovetide_Football" title="Royal Shrovetide Football">Royal Shrovetide</a></li>
+<li><a href="/wiki/Uppies_and_Downies" title="Uppies and Downies">Uppies and downies</a></li>
+<li><a href="/wiki/Yubi_lakpi" title="Yubi lakpi">Yubi lakpi</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Rugby_football" title="Rugby football">Rugby</a> codes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Beach_rugby" title="Beach rugby">Beach</a></li>
+<li><a href="/wiki/Rugby_league" title="Rugby league">Rugby league</a>
+<ul><li><a href="/wiki/Masters_Rugby_League" title="Masters Rugby League">masters</a></li>
+<li><a href="/wiki/Mod_league" title="Mod league">mod</a></li>
+<li><a href="/wiki/Rugby_league_nines" title="Rugby league nines">nines</a></li>
+<li><a href="/wiki/Rugby_league_sevens" title="Rugby league sevens">sevens</a></li>
+<li><a href="/wiki/Tag_rugby" title="Tag rugby">tag</a></li>
+<li><a href="/wiki/Wheelchair_rugby_league" title="Wheelchair rugby league">wheelchair</a></li></ul></li>
+<li><a href="/wiki/Rugby_union" title="Rugby union">Rugby union</a>
+<ul><li><a href="/wiki/American_flag_rugby" title="American flag rugby">American flag</a></li>
+<li><a href="/wiki/Mini_rugby" title="Mini rugby">mini</a></li>
+<li><a href="/wiki/Rugby_sevens" title="Rugby sevens">sevens</a></li>
+<li><a href="/wiki/Snow_rugby" title="Snow rugby">snow</a></li>
+<li><a href="/wiki/Tag_rugby" title="Tag rugby">tag</a></li>
+<li><a href="/wiki/Touch_rugby" title="Touch rugby">touch</a></li>
+<li><a href="/wiki/Rugby_tens" title="Rugby tens">tens</a></li></ul></li>
+<li><a href="/wiki/Touch_(sport)" title="Touch (sport)">Touch</a></li>
+<li><a href="/wiki/Wheelchair_rugby" title="Wheelchair rugby">Wheelchair</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Bat-and-ball_games" title="Bat-and-ball games">Bat-and-ball games</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baseball" title="Baseball">Baseball</a></li>
+<li><a href="/wiki/Br%C3%A4nnboll" title="Brännboll">Brännboll</a></li>
+<li><a href="/wiki/Corkball" title="Corkball">Corkball</a></li>
+<li><a href="/wiki/Cricket" title="Cricket">Cricket</a>
+<ul><li><a href="/wiki/One_Day_International" title="One Day International">One Day</a></li>
+<li><a href="/wiki/Test_cricket" title="Test cricket">Test</a></li>
+<li><a href="/wiki/Twenty20_International" title="Twenty20 International">Twenty20</a></li></ul></li>
+<li><a href="/wiki/Danish_longball" title="Danish longball">Danish longball</a></li>
+<li><a href="/wiki/Indoor_cricket" title="Indoor cricket">Indoor cricket</a></li>
+<li><a href="/wiki/Kickball" title="Kickball">Kickball</a></li>
+<li><a href="/wiki/Lapta_(game)" title="Lapta (game)">Lapta</a></li>
+<li><a href="/wiki/Matball" title="Matball">Matball</a></li>
+<li><a href="/wiki/Oin%C4%83" title="Oină">Oină</a></li>
+<li><a href="/wiki/Over-the-line" title="Over-the-line">Over-the-line</a></li>
+<li><a href="/wiki/Pes%C3%A4pallo" title="Pesäpallo">Pesäpallo</a></li>
+<li><a href="/wiki/Rounders" title="Rounders">Rounders</a></li>
+<li><a href="/wiki/Softball" title="Softball">Softball</a>
+<ul><li><a href="/wiki/Fastpitch_softball" title="Fastpitch softball">Fastpitch</a></li></ul></li>
+<li><a href="/wiki/Stickball" title="Stickball">Stickball</a></li>
+<li><a href="/wiki/Stoolball" title="Stoolball">Stoolball</a></li>
+<li><a href="/wiki/Town_ball" title="Town ball">Town ball</a></li>
+<li><a href="/wiki/Vigoro" title="Vigoro">Vigoro</a></li>
+<li><a href="/wiki/Vitilla" title="Vitilla">Vitilla</a></li>
+<li><a href="/wiki/British_baseball" title="British baseball">Welsh/British baseball</a></li>
+<li><a href="/wiki/Wiffle_ball" title="Wiffle ball">Wiffle ball</a></li>
+<li><a href="/wiki/Wireball" title="Wireball">Wireball</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Stick and ball sports</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bando_(sport)" title="Bando (sport)">Bando</a></li>
+<li><a href="/wiki/Cammag" title="Cammag">Cammag</a></li>
+<li><a href="/wiki/Hurling" title="Hurling">Hurling</a>
+<ul><li><a href="/wiki/Camogie" title="Camogie">Camogie</a></li>
+<li>Super11s</li>
+<li><a href="/wiki/Composite_rules_shinty-hurling" class="mw-redirect" title="Composite rules shinty-hurling">Shinty–Hurling</a></li></ul></li>
+<li><a href="/wiki/Indigenous_North_American_stickball" title="Indigenous North American stickball">Indigenous North American stickball</a></li>
+<li><a href="/wiki/Iomain" title="Iomain">Iomain</a></li>
+<li><a href="/wiki/Knattleikr" title="Knattleikr">Knattleikr</a></li>
+<li><a href="/wiki/Knotty" title="Knotty">Knotty</a></li>
+<li><a href="/wiki/Lacrosse" title="Lacrosse">Lacrosse</a>
+<ul><li><a href="/wiki/Box_lacrosse" title="Box lacrosse">box/indoor</a></li>
+<li><a href="/wiki/Field_lacrosse" title="Field lacrosse">field</a></li>
+<li><a href="/wiki/Intercrosse" title="Intercrosse">intercrosse</a></li>
+<li><a href="/wiki/Women%27s_lacrosse" title="Women&#39;s lacrosse">women's</a></li></ul></li>
+<li><a href="/wiki/Ritinis" title="Ritinis">Ritinis</a></li>
+<li><a href="/wiki/Shinty" title="Shinty">Shinty</a>
+<ul><li><a href="/wiki/Composite_rules_shinty-hurling" class="mw-redirect" title="Composite rules shinty-hurling">Shinty–Hurling</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hockey" title="Hockey">Hockey</a> sports</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ball_hockey" title="Ball hockey">Ball hockey</a></li>
+<li><a href="/wiki/Bandy" title="Bandy">Bandy</a>
+<ul><li><a href="/wiki/Rink_bandy" title="Rink bandy">rink</a></li></ul></li>
+<li><a href="/wiki/Broomball" title="Broomball">Broomball</a>
+<ul><li><a href="/wiki/Moscow_broomball" title="Moscow broomball">Moscow</a></li></ul></li>
+<li><a href="/wiki/Field_hockey" title="Field hockey">Field hockey</a>
+<ul><li><a href="/wiki/Indoor_field_hockey" title="Indoor field hockey">indoor</a></li></ul></li>
+<li><a href="/wiki/Floor_hockey" title="Floor hockey">Floor hockey</a></li>
+<li><a href="/wiki/Floorball" title="Floorball">Floorball</a></li>
+<li><a href="/wiki/Ice_hockey" title="Ice hockey">Ice hockey</a>
+<ul><li><a href="/wiki/Pond_hockey" title="Pond hockey">pond</a></li>
+<li><a href="/wiki/Power_hockey" title="Power hockey">power</a></li>
+<li><a href="/wiki/Ice_sledge_hockey" class="mw-redirect" title="Ice sledge hockey">ice sledge</a></li>
+<li><a href="/wiki/Underwater_ice_hockey" title="Underwater ice hockey">underwater</a></li></ul></li>
+<li><a href="/wiki/Ringette" title="Ringette">Ringette</a></li>
+<li><a href="/wiki/Rinkball" class="mw-redirect" title="Rinkball">Rinkball</a></li>
+<li><a href="/wiki/Roller_hockey" title="Roller hockey">Roller hockey</a>
+<ul><li><a href="/wiki/Roller_in-line_hockey" title="Roller in-line hockey">in-line</a></li>
+<li><a href="/wiki/Roller_hockey_(quad)" title="Roller hockey (quad)">quad</a></li></ul></li>
+<li><a href="/wiki/Rossall_Hockey" title="Rossall Hockey">Rossall hockey</a></li>
+<li><a href="/wiki/Shinny" title="Shinny">Shinny</a></li>
+<li><a href="/wiki/Street_hockey" title="Street hockey">Street hockey</a></li>
+<li><a href="/wiki/Underwater_hockey" title="Underwater hockey">Underwater hockey</a></li>
+<li><a href="/wiki/Unicycle_hockey" title="Unicycle hockey">Unicycle hockey</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Polo" title="Polo">Polo</a> sports</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Auto_polo" title="Auto polo">Auto polo</a></li>
+<li><a href="/wiki/Cowboy_polo" title="Cowboy polo">Cowboy polo</a></li>
+<li><a href="/wiki/Cycle_polo" title="Cycle polo">Cycle polo</a></li>
+<li><a href="/wiki/Elephant_polo" title="Elephant polo">Elephant polo</a></li>
+<li><a href="/wiki/Horseball" title="Horseball">Horseball</a></li>
+<li><a href="/wiki/Motoball" title="Motoball">Motoball</a></li>
+<li><a href="/wiki/Pato" title="Pato">Pato</a></li>
+<li><a href="/wiki/Polo" title="Polo">Polo</a>
+<ul><li><a href="/wiki/Arena_polo" title="Arena polo">Arena polo</a></li>
+<li><a href="/wiki/Chovgan" title="Chovgan">chovgan</a></li>
+<li>snow polo</li></ul></li>
+<li><a href="/wiki/Polocrosse" title="Polocrosse">Polocrosse</a></li>
+<li><a href="/wiki/Segway_polo" title="Segway polo">Segway polo</a></li>
+<li><a href="/wiki/Yak_polo" title="Yak polo">Yak polo</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Net_sport" title="Net sport">Net sports</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ball_badminton" title="Ball badminton">Ball badminton</a></li>
+<li><a href="/wiki/Beach_tennis" title="Beach tennis">Beach tennis</a></li>
+<li><a href="/wiki/Biribol" title="Biribol">Biribol</a></li>
+<li><a href="/wiki/Bossaball" title="Bossaball">Bossaball</a></li>
+<li><a href="/wiki/Fistball" title="Fistball">Fistball</a></li>
+<li><a href="/wiki/Footbag_net" title="Footbag net">Footbag net</a></li>
+<li><a href="/wiki/Football_tennis" title="Football tennis">Football tennis</a></li>
+<li><a href="/wiki/Footvolley" title="Footvolley">Footvolley</a></li>
+<li><a href="/wiki/Jianzi" title="Jianzi">Jianzi</a></li>
+<li><a href="/wiki/Jokgu" title="Jokgu">Jokgu</a></li>
+<li><a href="/wiki/Newcomb_ball" title="Newcomb ball">Newcomb ball</a></li>
+<li><a href="/wiki/Peteca" title="Peteca">Peteca</a></li>
+<li><a href="/wiki/Sepak_takraw" title="Sepak takraw">Sepak takraw</a></li>
+<li><a href="/wiki/Throwball" title="Throwball">Throwball</a></li>
+<li><a href="/wiki/Volleyball" title="Volleyball">Volleyball</a>
+<ul><li><a href="/wiki/Beach_volleyball" title="Beach volleyball">beach</a></li>
+<li><a href="/wiki/Sitting_volleyball" title="Sitting volleyball">paralympic</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other sports</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Airsoft" title="Airsoft">Airsoft</a></li>
+<li><a href="/wiki/Angleball" title="Angleball">Angleball</a></li>
+<li><a href="/wiki/Balle_%C3%A0_la_main" title="Balle à la main">Balle à la main</a></li>
+<li><a href="/wiki/Ballon_au_poing" title="Ballon au poing">Ballon au poing</a></li>
+<li><a href="/wiki/Basque_pelota" title="Basque pelota">Basque pelota</a>
+<ul><li><a href="/wiki/Frontenis" title="Frontenis">frontenis</a></li>
+<li><a href="/wiki/Jai_alai" title="Jai alai">jai alai</a></li>
+<li><a href="/wiki/Xare" title="Xare">xare</a></li></ul></li>
+<li><a href="/wiki/Bo-taoshi" title="Bo-taoshi">Bo-taoshi</a></li>
+<li><a href="/wiki/Boules" title="Boules">Boules</a>
+<ul><li><a href="/wiki/Bocce" title="Bocce">Bocce</a></li>
+<li><a href="/wiki/Bocce_volo" title="Bocce volo">Bocce volo</a></li>
+<li><a href="/wiki/Boccia" title="Boccia">Boccia</a></li>
+<li><a href="/wiki/Bowls" title="Bowls">Bowls</a></li>
+<li><a href="/wiki/Jeu_proven%C3%A7al" title="Jeu provençal">Jeu provençal</a></li>
+<li><a href="/wiki/P%C3%A9tanque" title="Pétanque">Pétanque</a></li>
+<li><a href="/wiki/Raffa" title="Raffa">Raffa</a></li></ul></li>
+<li><a href="/wiki/Buzkashi" title="Buzkashi">Buzkashi</a></li>
+<li><a href="/wiki/Combat_(juggling)" title="Combat (juggling)">Combat (juggling)</a></li>
+<li><a href="/wiki/Curling" title="Curling">Curling</a>
+<ul><li><a href="/wiki/Wheelchair_curling" title="Wheelchair curling">wheelchair</a></li></ul></li>
+<li><a href="/wiki/Cycle_ball" title="Cycle ball">Cycle ball</a></li>
+<li><a href="/wiki/Digor_(sports)" title="Digor (sports)">Digor</a></li>
+<li><a href="/wiki/Dodgeball" title="Dodgeball">Dodgeball</a></li>
+<li><a href="/wiki/Flickerball" title="Flickerball">Flickerball</a></li>
+<li><a href="/wiki/Gateball" title="Gateball">Gateball</a></li>
+<li><a href="/wiki/Goalball" title="Goalball">Goalball</a></li>
+<li><a href="/wiki/Guts_(game)" title="Guts (game)">Guts</a></li>
+<li><a href="/wiki/Handball" title="Handball">Handball</a>
+<ul><li><a href="/wiki/Beach_handball" title="Beach handball">beach</a></li>
+<li><a href="/wiki/Czech_handball" title="Czech handball">Czech</a></li>
+<li><a href="/wiki/Field_handball" title="Field handball">field</a></li></ul></li>
+<li><a href="/wiki/Hornussen" title="Hornussen">Hornussen</a></li>
+<li><a href="/wiki/Ice_stock_sport" title="Ice stock sport">Ice stock sport</a></li>
+<li><a href="/wiki/Jereed" title="Jereed">Jereed</a></li>
+<li><a href="/wiki/Kabaddi" title="Kabaddi">Kabaddi</a>
+<ul><li><a href="/wiki/Indoor" title="Indoor">indoor</a></li>
+<li><a href="/wiki/Beach" title="Beach">beach</a></li></ul></li>
+<li><a href="/wiki/Kho_kho" title="Kho kho">Kho kho</a></li>
+<li><a href="/wiki/Kin-Ball" title="Kin-Ball">Kin-Ball</a></li>
+<li><a href="/wiki/Lagori" title="Lagori">Lagori</a></li>
+<li><a href="/wiki/Longue_paume" title="Longue paume">Longue paume</a></li>
+<li><a href="/wiki/Makura-Nage" title="Makura-Nage">Makura-Nage</a></li>
+<li><a href="/wiki/Mesoamerican_ballgame" title="Mesoamerican ballgame">Mesoamerican ballgame</a></li>
+<li><a href="/wiki/Paintball" title="Paintball">Paintball</a></li>
+<li><a href="/wiki/Pelota_mixteca" title="Pelota mixteca">Pelota mixteca</a></li>
+<li><a href="/wiki/Prisonball" title="Prisonball">Prisonball</a></li>
+<li><a href="/wiki/Pushball" title="Pushball">Pushball</a></li>
+<li><a href="/wiki/Quidditch_(sport)" title="Quidditch (sport)">Quidditch</a></li>
+<li><a href="/wiki/Rollball" class="mw-redirect" title="Rollball">Rollball</a></li>
+<li><a href="/wiki/Roller_derby" title="Roller derby">Roller derby</a></li>
+<li><a href="/wiki/Slahal" title="Slahal">Slahal</a></li>
+<li><a href="/wiki/Snow_snake" title="Snow snake">Snow snake</a></li>
+<li><a href="/wiki/Synchronized_skating" title="Synchronized skating">Synchronized skating</a></li>
+<li><a href="/wiki/Synchronized_swimming" class="mw-redirect" title="Synchronized swimming">Synchronized swimming</a></li>
+<li><a href="/wiki/Tamburello" title="Tamburello">Tamburello</a></li>
+<li><a href="/wiki/Tchoukball" title="Tchoukball">Tchoukball</a>
+<ul><li><a href="/wiki/Beach" title="Beach">beach</a></li></ul></li>
+<li><a href="/wiki/Tejo_(sport)" title="Tejo (sport)">Tejo</a></li>
+<li><a href="/wiki/Tug_of_war" title="Tug of war">Tug of war</a></li>
+<li><a href="/wiki/Ulama_(game)" title="Ulama (game)">Ulama</a></li>
+<li><a href="/wiki/Ultimate_(sport)" title="Ultimate (sport)">Ultimate</a></li>
+<li><a href="/wiki/Underwater_football" title="Underwater football">Underwater football</a></li>
+<li><a href="/wiki/Underwater_rugby" title="Underwater rugby">Underwater rugby</a></li>
+<li><a href="/wiki/Valencian_pilota" title="Valencian pilota">Valencian pilota</a>
+<ul><li><a href="/wiki/Llargues" title="Llargues">Llargues</a></li></ul></li>
+<li><a href="/wiki/Water_polo" title="Water polo">Water polo</a>
+<ul><li><a href="/wiki/Canoe_polo" title="Canoe polo">canoe</a></li>
+<li><a href="/wiki/Inner_tube_water_polo" title="Inner tube water polo">inner tube</a></li>
+<li><a href="/wiki/Beach" title="Beach">beach</a></li></ul></li>
+<li><a href="/wiki/Waboba" title="Waboba">Waboba</a></li>
+<li><a href="/wiki/Whirlyball" title="Whirlyball">Whirlyball</a></li>
+<li><a href="/wiki/Woodball" title="Woodball">Woodball</a></li>
+<li><a href="/wiki/Yukigassen" title="Yukigassen">Yukigassen</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Hybrid_sports" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Hybrid_sport" title="Template:Hybrid sport"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Hybrid_sport" title="Template talk:Hybrid sport"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hybrid_sport&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Hybrid_sports" style="font-size:114%;margin:0 4em"><a href="/wiki/Hybrid_sport" title="Hybrid sport">Hybrid sports</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Austus" title="Austus">Austus</a></li>
+<li><a href="/wiki/Bossaball" title="Bossaball">Bossaball</a></li>
+<li><a href="/wiki/Chess_boxing" title="Chess boxing">Chess boxing</a></li>
+<li><a href="/wiki/Composite_rules_shinty%E2%80%93hurling" title="Composite rules shinty–hurling">Composite rules shinty–hurling</a></li>
+<li><a href="/wiki/Disc_golf" title="Disc golf">Disc golf</a></li>
+<li><a href="/wiki/Football_tennis" title="Football tennis">Football tennis</a></li>
+<li><a href="/wiki/Footgolf" title="Footgolf">Footgolf</a></li>
+<li><a href="/wiki/Footvolley" title="Footvolley">Footvolley</a></li>
+<li><a href="/wiki/International_rules_football" title="International rules football">International rules football</a></li>
+<li><a href="/wiki/Iomain" title="Iomain">Iomain</a></li>
+<li><a href="/wiki/Korfball" title="Korfball">Korfball</a></li>
+<li><a href="/wiki/Padbol" title="Padbol">Padbol</a></li>
+<li><a href="/wiki/Parahawking" title="Parahawking">Parahawking</a></li>
+<li><a href="/wiki/Polocrosse" title="Polocrosse">Polocrosse</a></li>
+<li><a href="/wiki/Samoa_rules" title="Samoa rules">Samoa rules</a></li>
+<li><a href="/wiki/Sepak_takraw" title="Sepak takraw">Sepak takraw</a></li>
+<li><a href="/wiki/Slamball" title="Slamball">Slamball</a></li>
+<li><a href="/wiki/Tennis_polo" title="Tennis polo">Tennis polo</a></li>
+<li><a href="/wiki/Universal_football" title="Universal football">Universal football</a></li>
+<li><a href="/wiki/Volata" title="Volata">Volata</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2225
+Cached time: 20180929132810
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.616 seconds
+Real time usage: 0.787 seconds
+Preprocessor visited node count: 2747/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 133359/2097152 bytes
+Template argument size: 3767/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 50977/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.222/10.000 seconds
+Lua memory usage: 6.79 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  544.246      1 -total
+ 29.24%  159.142      1 Template:Reflist
+ 12.48%   67.905      6 Template:Cite_book
+ 11.60%   63.151      2 Template:Citation_needed
+ 10.75%   58.500      2 Template:Fix
+  9.50%   51.709      1 Template:Infobox_sport
+  8.68%   47.220      1 Template:Infobox
+  8.48%   46.170      8 Template:Convert
+  7.02%   38.220      1 Template:Use_Irish_English
+  6.72%   36.596      7 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:37688-0!canonical and timestamp 20180929132809 and revision id 861421112
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Gaelic_football&amp;oldid=861421112">https://en.wikipedia.org/w/index.php?title=Gaelic_football&amp;oldid=861421112</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Gaelic_football" title="Category:Gaelic football">Gaelic football</a></li><li><a href="/wiki/Category:Football_codes" title="Category:Football codes">Football codes</a></li><li><a href="/wiki/Category:Gaelic_games" title="Category:Gaelic games">Gaelic games</a></li><li><a href="/wiki/Category:Sports_originating_in_Ireland" title="Category:Sports originating in Ireland">Sports originating in Ireland</a></li><li><a href="/wiki/Category:Team_sports" title="Category:Team sports">Team sports</a></li><li><a href="/wiki/Category:1885_introductions" title="Category:1885 introductions">1885 introductions</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_Irish_English_from_June_2014" title="Category:Use Irish English from June 2014">Use Irish English from June 2014</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_Irish_English" title="Category:All Wikipedia articles written in Irish English">All Wikipedia articles written in Irish English</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_June_2014" title="Category:Use dmy dates from June 2014">Use dmy dates from June 2014</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2010" title="Category:Articles with unsourced statements from May 2010">Articles with unsourced statements from May 2010</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2008" title="Category:Articles with unsourced statements from May 2008">Articles with unsourced statements from May 2008</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Gaelic+football" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Gaelic+football" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Gaelic_football" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Gaelic_football" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Gaelic_football">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Gaelic_football&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Gaelic_football&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Gaelic_football" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Gaelic_football" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Gaelic_football&amp;oldid=861421112" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Gaelic_football&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q204632" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Gaelic_football&amp;id=861421112" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Gaelic+football">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Gaelic+football&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Gaelic_football&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Gaelic_football" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/%C4%AArisc_f%C5%8Dt%C3%BE%C5%8D%C3%B0er" title="Īrisc fōtþōðer – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%83%D8%B1%D8%A9_%D8%A7%D9%84%D9%82%D8%AF%D9%85_%D8%A7%D9%84%D8%BA%D8%A7%D9%84%D9%8A%D8%A9" title="كرة القدم الغالية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Mell-droad_ouezelek" title="Mell-droad ouezelek – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Futbol_ga%C3%A8lic" title="Futbol gaèlic – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/P%C3%AAl-droed_Wyddelig" title="Pêl-droed Wyddelig – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/G%C3%A6lisk_fodbold" title="Gælisk fodbold – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Gaelic_Football" title="Gaelic Football – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Gaeli_jalgpall" title="Gaeli jalgpall – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%93%CE%B1%CE%B5%CE%BB%CE%B9%CE%BA%CF%8C_%CF%80%CE%BF%CE%B4%CF%8C%CF%83%CF%86%CE%B1%CE%B9%CF%81%CE%BF" title="Γαελικό ποδόσφαιρο – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/F%C3%BAtbol_ga%C3%A9lico" title="Fútbol gaélico – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Pejlo" title="Pejlo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Futbol_gaeliko" title="Futbol gaeliko – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84_%DA%AF%DB%8C%D9%84%DB%8C%DA%A9" title="فوتبال گیلیک – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Football_ga%C3%A9lique" title="Football gaélique – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Peil_Ghaelach" title="Peil Ghaelach – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Ball-coise_G%C3%A0idhealach" title="Ball-coise Gàidhealach – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/F%C3%BAtbol_ga%C3%A9lico" title="Fútbol gaélico – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EA%B2%8C%EC%9D%BC%EB%A6%AD_%ED%92%8B%EB%B3%BC" title="게일릭 풋볼 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BF%D5%A5%D5%AC%D5%BF%D5%A1%D5%AF%D5%A1%D5%B6_%D6%86%D5%B8%D6%82%D5%BF%D5%A2%D5%B8%D5%AC" title="Կելտական ֆուտբոլ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Irski_nogomet" title="Irski nogomet – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Calcio_gaelico" title="Calcio gaelico – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%92%E1%83%94%E1%83%9A%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%A4%E1%83%94%E1%83%AE%E1%83%91%E1%83%A3%E1%83%A0%E1%83%97%E1%83%98" title="გელური ფეხბურთი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Gaelic_football" title="Gaelic football – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="ゲーリックフットボール – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/G%C3%A6lisk_fotball" title="Gælisk fotball – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Futbol_gaelicki" title="Futbol gaelicki – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Futebol_ga%C3%A9lico" title="Futebol gaélico – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D1%8D%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB" title="Гэльский футбол – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Gaelic_Fitbaa" title="Gaelic Fitbaa – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Gaelic_football" title="Gaelic football – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%98%D1%80%D1%81%D0%BA%D0%B8_%D1%84%D1%83%D0%B4%D0%B1%D0%B0%D0%BB" title="Ирски фудбал – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/%D0%93%D0%B5%D0%BB%D1%81%D0%BA%D0%B8_%D1%84%D1%83%D0%B4%D0%B1%D0%B0%D0%BB" title="Гелски фудбал – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Gaelilainen_jalkapallo" title="Gaelilainen jalkapallo – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Gaelisk_fotboll" title="Gaelisk fotboll – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A5" title="แกลิกฟุตบอล – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Gal_futbolu" title="Gal futbolu – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB" title="Гельський футбол – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E8%93%8B%E7%88%BE%E5%BC%8F%E8%B6%B3%E7%90%83" title="蓋爾式足球 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%93%8B%E7%88%BE%E5%BC%8F%E8%B6%B3%E7%90%83" title="蓋爾式足球 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q204632#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 27 September 2018, at 08:58<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Gaelic_football&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.616","walltime":"0.787","ppvisitednodes":{"value":2747,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":133359,"limit":2097152},"templateargumentsize":{"value":3767,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":50977,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  544.246      1 -total"," 29.24%  159.142      1 Template:Reflist"," 12.48%   67.905      6 Template:Cite_book"," 11.60%   63.151      2 Template:Citation_needed"," 10.75%   58.500      2 Template:Fix","  9.50%   51.709      1 Template:Infobox_sport","  8.68%   47.220      1 Template:Infobox","  8.48%   46.170      8 Template:Convert","  7.02%   38.220      1 Template:Use_Irish_English","  6.72%   36.596      7 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.222","limit":"10.000"},"limitreport-memusage":{"value":7124409,"limit":52428800}},"cachereport":{"origin":"mw2225","timestamp":"20180929132810","ttl":86400,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw2178"});});</script>
+	</body>
+</html>

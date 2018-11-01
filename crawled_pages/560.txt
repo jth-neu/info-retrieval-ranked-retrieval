@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>United Kingdom constituencies - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"United_Kingdom_constituencies","wgTitle":"United Kingdom constituencies","wgCurRevisionId":856460574,"wgRevisionId":856460574,"wgArticleId":1784582,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Archived copy as title","All articles with dead external links","Articles with dead external links from July 2016","Articles with permanently dead external links","Webarchive template wayback links","Constituencies of the Parliament of the United Kingdom","Politics of the United Kingdom","Types of subdivision in the United Kingdom"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"United_Kingdom_constituencies","wgRelevantArticleId":1784582,"wgRequestId":"W6@NIQrAIFcAAHHmducAAAAC","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q2064521","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/UK_Constituencies_2017_%28blank%29.svg/1200px-UK_Constituencies_2017_%28blank%29.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/United_Kingdom_constituencies"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=United_Kingdom_constituencies&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=United_Kingdom_constituencies&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/United_Kingdom_constituencies"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-United_Kingdom_constituencies rootpage-United_Kingdom_constituencies skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">United Kingdom constituencies</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:177px;"><a href="/wiki/File:UK_Constituencies_2017_(blank).svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/UK_Constituencies_2017_%28blank%29.svg/175px-UK_Constituencies_2017_%28blank%29.svg.png" width="175" height="326" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/UK_Constituencies_2017_%28blank%29.svg/263px-UK_Constituencies_2017_%28blank%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/UK_Constituencies_2017_%28blank%29.svg/350px-UK_Constituencies_2017_%28blank%29.svg.png 2x" data-file-width="3257" data-file-height="6060" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:UK_Constituencies_2017_(blank).svg" class="internal" title="Enlarge"></a></div>There are 650 constituencies for the British House of Commons.</div></div></div>
+<p>In the <b><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></b> (UK), each of the electoral areas or divisions called <b>constituencies</b> elect one member to a parliament or assembly, with the exception of <a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a> and <a href="/wiki/Northern_Ireland_Assembly" title="Northern Ireland Assembly">Northern Ireland Assembly</a> constituencies which are multi member constituencies.
+</p><p>Within the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> there are five bodies with members elected by electoral districts called "<a href="/wiki/Constituency" class="mw-redirect" title="Constituency">constituencies</a>" as opposed to "wards":
+</p>
+<ul><li>The <a href="/wiki/British_House_of_Commons" class="mw-redirect" title="British House of Commons">House of Commons</a> (see <i><a href="/wiki/United_Kingdom_Parliamentry_constituencies" class="mw-redirect" title="United Kingdom Parliamentry constituencies">United Kingdom Parliamentry constituencies</a></i>)</li>
+<li>The <a href="/wiki/Scottish_Parliament" title="Scottish Parliament">Scottish Parliament</a> (see <i><a href="/wiki/Scottish_Parliament_constituencies_and_regions" title="Scottish Parliament constituencies and regions">Scottish Parliament constituencies and regions</a></i>)</li>
+<li>The <a href="/wiki/Northern_Ireland_Assembly" title="Northern Ireland Assembly">Northern Ireland Assembly</a> (see <i><a href="/wiki/Northern_Ireland_Assembly_constituencies" class="mw-redirect" title="Northern Ireland Assembly constituencies">Northern Ireland Assembly constituencies</a></i>)</li>
+<li>The <a href="/wiki/National_Assembly_for_Wales" title="National Assembly for Wales">National Assembly for Wales</a> (see <i><a href="/wiki/National_Assembly_for_Wales_constituencies_and_electoral_regions" title="National Assembly for Wales constituencies and electoral regions">National Assembly for Wales constituencies and electoral regions</a></i>)</li>
+<li>The <a href="/wiki/London_Assembly" title="London Assembly">London Assembly</a> (see <i><a href="/wiki/London_Assembly_constituencies" class="mw-redirect" title="London Assembly constituencies">London Assembly constituencies</a></i>)</li></ul>
+<p>Between 1921 and 1973 the following body also included members elected by constituencies:
+</p>
+<ul><li>The <a href="/wiki/Parliament_of_Northern_Ireland" title="Parliament of Northern Ireland">Parliament of Northern Ireland</a> (see <i><a href="/wiki/List_of_Northern_Ireland_Parliament_constituencies" class="mw-redirect" title="List of Northern Ireland Parliament constituencies">List of Northern Ireland Parliament constituencies</a></i>)</li></ul>
+<p>Electoral areas called constituencies are also used in elections to the <a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a>. (See <i><a href="/wiki/European_Parliament_constituencies" class="mw-redirect" title="European Parliament constituencies">European Parliament constituencies</a></i>.)
+</p><p>In <a href="/wiki/Local_government_(United_Kingdom)" class="mw-redirect" title="Local government (United Kingdom)">local government</a> elections (other than for the London Assembly) electoral areas are called <a href="/wiki/Wards_(UK)" class="mw-redirect" title="Wards (UK)">wards</a> or <a href="/wiki/Electoral_division_(UK)" class="mw-redirect" title="Electoral division (UK)">electoral divisions</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#County_constituencies_and_borough_constituencies"><span class="tocnumber">1</span> <span class="toctext">County constituencies and borough constituencies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#History"><span class="tocnumber">1.1</span> <span class="toctext">History</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Naming"><span class="tocnumber">2</span> <span class="toctext">Naming</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#House_of_Commons_constituencies"><span class="tocnumber">3</span> <span class="toctext">House of Commons constituencies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#See_also"><span class="tocnumber">3.1</span> <span class="toctext">See also</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#London_Assembly_constituencies"><span class="tocnumber">4</span> <span class="toctext">London Assembly constituencies</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Northern_Ireland_Assembly_constituencies"><span class="tocnumber">5</span> <span class="toctext">Northern Ireland Assembly constituencies</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Scottish_Parliament_constituencies"><span class="tocnumber">6</span> <span class="toctext">Scottish Parliament constituencies</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Welsh_Assembly_constituencies"><span class="tocnumber">7</span> <span class="toctext">Welsh Assembly constituencies</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#European_Parliament_constituencies"><span class="tocnumber">8</span> <span class="toctext">European Parliament constituencies</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="County_constituencies_and_borough_constituencies">County constituencies and borough constituencies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=United_Kingdom_constituencies&amp;action=edit&amp;section=1" title="Edit section: County constituencies and borough constituencies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><span id="Types_of_constituency"></span>
+House of Commons, Northern Ireland Assembly, Scottish Parliament and Welsh Assembly constituencies are designated as either <span id="County"></span><i>county</i> or <span id="Borough"></span><i>borough</i> constituencies, except that in Scotland the term <span id="Burgh"></span><i>burgh</i> is used instead of <i>borough</i>.  Since the advent of <a href="/wiki/Universal_suffrage" title="Universal suffrage">universal suffrage</a>, the differences between county and borough constituencies are slight. Formerly (see <a href="#History">below</a>) the franchise differed, and there were also <i>county borough</i> and <i>university</i> constituencies.
+</p><p>Borough constituencies are predominantly <a href="/wiki/Urban_area" title="Urban area">urban</a> while county constituencies are predominantly <a href="/wiki/Rural" class="mw-redirect" title="Rural">rural</a>. There is no definitive statutory criterion for the distinction; the Boundary Commission for England has stated that, "as a general principle, where constituencies contain more than a small rural element they should normally be designated as county constituencies. Otherwise they should be designated as borough constituencies."<sup id="cite_ref-bce2007_1-0" class="reference"><a href="#cite_note-bce2007-1">&#91;1&#93;</a></sup> In Scotland, all House of Commons constituencies are county constituencies except those in the cities of <a href="/wiki/Glasgow" title="Glasgow">Glasgow</a>, <a href="/wiki/Edinburgh" title="Edinburgh">Edinburgh</a>, <a href="/wiki/Aberdeen" title="Aberdeen">Aberdeen</a>, <a href="/wiki/Dundee" title="Dundee">Dundee</a> and three urban areas of <a href="/wiki/Lanarkshire" title="Lanarkshire">Lanarkshire</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>The <a href="/wiki/Returning_officer" title="Returning officer">returning officer</a> will typically be a local Council's <a href="/wiki/Chief_Executive" class="mw-redirect" title="Chief Executive">Chief Executive</a><sup id="cite_ref-scc_3-0" class="reference"><a href="#cite_note-scc-3">&#91;3&#93;</a></sup> or Head of Legal Services. The role, however, is separate from these posts, and can be held by any person appointed by the Council. The spending limits for election campaigns are different in the two, the reasoning being that candidates in county constituencies tend to need to travel further.
+</p>
+<table class="wikitable">
+<caption>Spending limits for election campaigns
+</caption>
+<tbody><tr>
+<th rowspan="2">Elected body</th>
+<th colspan="2">Constituency type
+</th></tr>
+<tr>
+<th>borough/burgh</th>
+<th>county
+</th></tr>
+<tr>
+<td><b>House of Commons<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></b>
+</td>
+<td>£7,150 + 5p per elector</td>
+<td>£7,150 + 7p per elector
+</td></tr>
+<tr>
+<td><b>Northern Ireland Assembly</b></td>
+<td>£5,483 + 4.6p per elector</td>
+<td>£5,483 + 6.2p per elector
+</td></tr>
+<tr>
+<td><b>Scottish Parliament<br /> Welsh Assembly</b></td>
+<td>£5,761 + 4.8p per elector</td>
+<td>£5,761 + 6.5p per elector
+</td></tr></tbody></table>
+<p>For <a href="/wiki/By-election" title="By-election">by-elections</a> to any of these bodies, the limit in all constituencies is £100,000.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=United_Kingdom_constituencies&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Unreformed_House_of_Commons" title="Unreformed House of Commons">Unreformed House of Commons</a> and <a href="/wiki/Parliamentary_Franchise_in_the_United_Kingdom_1885%E2%80%931918" class="mw-redirect" title="Parliamentary Franchise in the United Kingdom 1885–1918">Parliamentary Franchise in the United Kingdom 1885–1918</a></div>
+<p>In the <a href="/wiki/House_of_Commons_of_England" title="House of Commons of England">House of Commons of England</a>, each <a href="/wiki/Counties_of_England" title="Counties of England">English county</a> elected two "knights of the shire" while each enfranchised <a href="/wiki/Ancient_borough" title="Ancient borough">borough</a> elected "burgesses" (usually two, sometimes four, and in a few cases one). <a href="/wiki/Laws_in_Wales_Acts_1535%E2%80%931542" class="mw-redirect" title="Laws in Wales Acts 1535–1542">From 1535</a> each <a href="/wiki/Historic_counties_of_Wales" title="Historic counties of Wales">Welsh county</a> and borough was represented, by one knight or burgess.   The franchise was restricted differently in different types of constituency; in county constituencies <a href="/wiki/Forty_shilling_freeholders" class="mw-redirect" title="Forty shilling freeholders">forty shilling freeholders</a> (i.e. landowners) could vote, while in boroughs the franchise varied from <a href="/wiki/Potwalloper" title="Potwalloper">potwallopers</a>, giving many residents votes, to <a href="/wiki/Rotten_borough" class="mw-redirect" title="Rotten borough">rotten boroughs</a> with hardly any voters. <span id="county_borough"></span> A <i>county borough</i> was the constituency of a <a href="/wiki/County_corporate" title="County corporate">county corporate</a>, combining the franchises of both county and borough. Until 1950 there were also <a href="/wiki/University_constituency" title="University constituency">university constituencies</a>, which gave graduates an additional representation.
+</p><p>Similar distinctions applied in the <a href="/wiki/Irish_House_of_Commons" title="Irish House of Commons">Irish House of Commons</a>, while the non-university elected members of the <a href="/wiki/Parliament_of_Scotland" title="Parliament of Scotland">Parliament of Scotland</a> were called Shire Commissioners and Burgh Commissioners.  After the <a href="/wiki/Acts_of_Union_1707" title="Acts of Union 1707">Acts of Union 1707</a>, Scottish burghs were grouped into <a href="/wiki/District_of_burghs" title="District of burghs">districts of burghs</a> in the <a href="/wiki/Parliament_of_Great_Britain" title="Parliament of Great Britain">Parliament of Great Britain</a>, except that <a href="/wiki/Edinburgh_(UK_Parliament_constituency)" title="Edinburgh (UK Parliament constituency)">Edinburgh was a constituency in its own right</a>. After the <a href="/wiki/Acts_of_Union_1800" title="Acts of Union 1800">Acts of Union 1800</a>, smaller Irish boroughs were disenfranchised, while most others returned only one MP to the United Kingdom Parliament.
+</p><p>The <a href="/wiki/Reform_Act_1832" title="Reform Act 1832">Reform Act 1832</a> reduced the number of <a href="/wiki/Parliamentary_borough" class="mw-redirect" title="Parliamentary borough">parliamentary boroughs</a> by eliminating the rotten boroughs. It also divided larger counties into two two-seat <span id="Division"></span><i>divisions</i>, the boundaries of which were defined in the <a href="/wiki/Parliamentary_Boundaries_Act_1832" title="Parliamentary Boundaries Act 1832">Parliamentary Boundaries Act 1832</a>, and gave seven counties a third member.  The <a href="/wiki/Redistribution_of_Seats_Act_1885" title="Redistribution of Seats Act 1885">Redistribution of Seats Act 1885</a> equalised the population of constituencies; it split larger boroughs into multiple single-member constituencies, reduced smaller boroughs from two seats each to one, split each two-seat county and division into two single-member constituencies, and each three-seat county into single-member constituencies.
+</p><p>The House of Commons (Redistribution of Seats) Act 1958, eliminated the previous common electoral quota for the whole United Kingdom and replaced it with four separate national minimal seat quotas for the respective Boundaries commissions to work to, as a result the separate national electoral quotas came into effect: England 69,534; Northern Ireland 67,145, Wales 58,383 and in Scotland only 54,741 electors.
+</p>
+<h2><span class="mw-headline" id="Naming">Naming</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=United_Kingdom_constituencies&amp;action=edit&amp;section=3" title="Edit section: Naming">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Parliamentary_Voting_System_and_Constituencies_Act_2011" title="Parliamentary Voting System and Constituencies Act 2011">Parliamentary Voting System and Constituencies Act 2011</a> gives the Boundary Commissions for <a href="/wiki/Boundary_Commission_for_England" class="mw-redirect" title="Boundary Commission for England">England</a>, <a href="/wiki/Boundary_Commission_for_Wales" class="mw-redirect" title="Boundary Commission for Wales">Wales</a>, <a href="/wiki/Boundary_Commission_for_Scotland" class="mw-redirect" title="Boundary Commission for Scotland">Scotland</a> and <a href="/wiki/Boundary_Commission_for_Northern_Ireland" class="mw-redirect" title="Boundary Commission for Northern Ireland">Northern Ireland</a> the power to create names for constituencies, and does not provide a set of statutory guidelines for the Commissions to follow in doing so.
+</p><p>Constituency names are geographic, and "should normally reflect the main population centre(s) contained in the constituency". <a href="/wiki/Cardinal_direction" title="Cardinal direction">Compass points</a> are used to distinguish constituencies from each other when a more suitable label cannot be found. Where used, "The compass point reference used will generally form a prefix in cases where the rest of the constituency name refers to the county area or a local council, but a suffix where the rest of the name refers to a population centre." This is the reason for the difference in naming between, for example, <a href="/wiki/North_Shropshire_(UK_Parliament_constituency)" title="North Shropshire (UK Parliament constituency)">North Shropshire</a> (a county constituency) and <a href="/wiki/Reading_West_(UK_Parliament_constituency)" title="Reading West (UK Parliament constituency)">Reading West</a> (a borough constituency).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="House_of_Commons_constituencies">House of Commons constituencies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=United_Kingdom_constituencies&amp;action=edit&amp;section=4" title="Edit section: House of Commons constituencies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the <a href="/wiki/United_Kingdom_general_election,_2005" title="United Kingdom general election, 2005">2005 United Kingdom general election</a>, the House of Commons had <a href="/wiki/List_of_United_Kingdom_Parliament_constituencies" class="mw-redirect" title="List of United Kingdom Parliament constituencies">646 constituencies</a> covering the whole of the United Kingdom. This rose to 650 in the <a href="/wiki/United_Kingdom_general_election,_2010" title="United Kingdom general election, 2010">2010 election</a>. Each constituency elects one <a href="/wiki/Member_of_Parliament" class="mw-redirect" title="Member of Parliament">Member of Parliament</a> (MP) by the "<a href="/wiki/First-past-the-post_voting" title="First-past-the-post voting">first-past-the-post</a>" system of election.
+</p><p>The House of Commons is one of the two chambers of the <a href="/wiki/Bicameralism" title="Bicameralism">bicameral</a> <a href="/wiki/Parliament_of_the_United_Kingdom" title="Parliament of the United Kingdom">Parliament of the United Kingdom</a>, the other being the <a href="/wiki/House_of_Lords" title="House of Lords">House of Lords</a>.
+</p>
+<h3><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=United_Kingdom_constituencies&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Boundary_commissions_(United_Kingdom)" title="Boundary commissions (United Kingdom)">Boundary commissions (United Kingdom)</a></li>
+<li><a href="/wiki/List_of_United_Kingdom_Parliament_constituencies" class="mw-redirect" title="List of United Kingdom Parliament constituencies">List of United Kingdom Parliament constituencies</a></li>
+<li><a href="/wiki/Former_United_Kingdom_Parliament_constituencies" class="mw-redirect" title="Former United Kingdom Parliament constituencies">Former United Kingdom Parliament constituencies</a></li>
+<li><a href="/wiki/Constituencies_in_the_next_United_Kingdom_general_election" class="mw-redirect" title="Constituencies in the next United Kingdom general election">Constituencies in the next United Kingdom general election</a></li>
+<li><a href="/wiki/University_constituency" title="University constituency">University constituency</a></li>
+<li><a href="/wiki/Number_of_Westminster_MPs" title="Number of Westminster MPs">Number of Westminster MPs</a></li></ul>
+<h2><span class="mw-headline" id="London_Assembly_constituencies">London Assembly constituencies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=United_Kingdom_constituencies&amp;action=edit&amp;section=6" title="Edit section: London Assembly constituencies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are fourteen <a href="/wiki/London_Assembly_constituencies" class="mw-redirect" title="London Assembly constituencies">London Assembly constituencies</a> covering the <a href="/wiki/Greater_London" title="Greater London">Greater London</a> area, and each constituency elects one member of the assembly by the <a href="/wiki/First-past-the-post_voting" title="First-past-the-post voting">first-past-the-post system</a>. Eleven <a href="/wiki/Additional_member_system" class="mw-redirect" title="Additional member system">additional members</a> are elected from Greater London as a whole to produce a form or degree of <a href="/wiki/Mixed-member_proportional_representation" title="Mixed-member proportional representation">mixed-member proportional representation</a>.
+</p><p>Constituency names and boundaries remain now as they were for the <a href="/wiki/London_Assembly_election,_2000" title="London Assembly election, 2000">first general election</a> of the assembly, in 2000.
+</p><p>The assembly is part of the <a href="/wiki/Greater_London_Authority" title="Greater London Authority">Greater London Authority</a> and general elections of the assembly are held at the same time as election of the <a href="/wiki/Mayor_of_London" title="Mayor of London">mayor of London</a>.
+</p>
+<h2><span class="mw-headline" id="Northern_Ireland_Assembly_constituencies">Northern Ireland Assembly constituencies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=United_Kingdom_constituencies&amp;action=edit&amp;section=7" title="Edit section: Northern Ireland Assembly constituencies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are 18 <a href="/wiki/Northern_Ireland_Assembly" title="Northern Ireland Assembly">Northern Ireland Assembly</a> <a href="/wiki/Constituency" class="mw-redirect" title="Constituency">Constituencies</a>: four borough (for <a href="/wiki/Belfast" title="Belfast">Belfast</a>) and 14 county constituencies elsewhere (see below).
+</p><p>Each elects five <a href="/wiki/Member_of_the_Legislative_Assembly_(Northern_Ireland)" title="Member of the Legislative Assembly (Northern Ireland)">MLAs</a> to the 90 member NI Assembly by means of the <a href="/wiki/Single_transferable_vote" title="Single transferable vote">single transferable vote</a> system.  Assembly Constituency boundaries are identical to their <a href="/wiki/House_of_Commons_of_the_United_Kingdom" title="House of Commons of the United Kingdom">House of Commons</a> equivalents.
+</p><p>The constituencies below are not used for the election of members to the 11 <a href="/wiki/Districts_of_Northern_Ireland" class="mw-redirect" title="Districts of Northern Ireland">district councils</a>.
+</p>
+<table border="1" cellpadding="2" cellspacing="0">
+
+<tbody><tr>
+<th bgcolor="#ff9999">Name</th>
+<th bgcolor="#ff9999">Current boundaries</th>
+<th bgcolor="#ff9999">Name
+</th></tr>
+<tr>
+<td valign="top">
+<ol><li><a href="/wiki/Belfast_East_(Assembly_constituency)" title="Belfast East (Assembly constituency)">Belfast East BC</a></li>
+<li><a href="/wiki/Belfast_North_(Assembly_constituency)" title="Belfast North (Assembly constituency)">Belfast North BC</a></li>
+<li><a href="/wiki/Belfast_South_(Assembly_constituency)" title="Belfast South (Assembly constituency)">Belfast South BC</a></li>
+<li><a href="/wiki/Belfast_West_(Assembly_constituency)" title="Belfast West (Assembly constituency)">Belfast West BC</a></li>
+<li><a href="/wiki/East_Antrim_(Assembly_constituency)" title="East Antrim (Assembly constituency)">East Antrim CC</a></li>
+<li><a href="/wiki/East_Londonderry_(Assembly_constituency)" title="East Londonderry (Assembly constituency)">East Londonderry CC</a></li>
+<li><a href="/wiki/Fermanagh_and_South_Tyrone_(Assembly_constituency)" title="Fermanagh and South Tyrone (Assembly constituency)">Fermanagh &amp; South Tyrone CC</a></li>
+<li><a href="/wiki/Foyle_(Assembly_constituency)" title="Foyle (Assembly constituency)">Foyle CC</a></li>
+<li><a href="/wiki/Lagan_Valley_(Assembly_constituency)" title="Lagan Valley (Assembly constituency)">Lagan Valley CC</a></li></ol>
+</td>
+<td><div class="floatleft"><a href="/wiki/File:NorthernIrelandParliamentaryConstituenciesNumbered.svg" class="image" title="Parliamentary constituencies in Northern Ireland"><img alt="Parliamentary constituencies in Northern Ireland" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/NorthernIrelandParliamentaryConstituenciesNumbered.svg/280px-NorthernIrelandParliamentaryConstituenciesNumbered.svg.png" width="280" height="225" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/NorthernIrelandParliamentaryConstituenciesNumbered.svg/420px-NorthernIrelandParliamentaryConstituenciesNumbered.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/NorthernIrelandParliamentaryConstituenciesNumbered.svg/560px-NorthernIrelandParliamentaryConstituenciesNumbered.svg.png 2x" data-file-width="280" data-file-height="225" /></a></div>
+</td>
+<td valign="top">
+<ol start="10">
+<li> <a href="/wiki/Mid_Ulster_(Assembly_constituency)" title="Mid Ulster (Assembly constituency)">Mid Ulster CC</a>
+</li><li> <a href="/wiki/Newry_and_Armagh_(Assembly_constituency)" title="Newry and Armagh (Assembly constituency)">Newry &amp; Armagh CC</a>
+</li><li> <a href="/wiki/North_Antrim_(Assembly_constituency)" title="North Antrim (Assembly constituency)">North Antrim CC</a>
+</li><li> <a href="/wiki/North_Down_(Assembly_constituency)" title="North Down (Assembly constituency)">North Down CC</a>
+</li><li> <a href="/wiki/South_Antrim_(Assembly_constituency)" title="South Antrim (Assembly constituency)">South Antrim CC</a>
+</li><li> <a href="/wiki/South_Down_(Assembly_constituency)" title="South Down (Assembly constituency)">South Down CC</a>
+</li><li> <a href="/wiki/Strangford_(Assembly_constituency)" title="Strangford (Assembly constituency)">Strangford CC</a>
+</li><li> <a href="/wiki/Upper_Bann_(Assembly_constituency)" title="Upper Bann (Assembly constituency)">Upper Bann CC</a>
+</li><li> <a href="/wiki/West_Tyrone_(Assembly_constituency)" title="West Tyrone (Assembly constituency)">West Tyrone CC</a>
+</li></ol>
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Scottish_Parliament_constituencies">Scottish Parliament constituencies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=United_Kingdom_constituencies&amp;action=edit&amp;section=8" title="Edit section: Scottish Parliament constituencies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Scottish_Parliament_constituencies" class="mw-redirect" title="Scottish Parliament constituencies">Scottish Parliament constituencies</a> are sometimes called <i>Holyrood</i> constituencies, to distinguish them from <i>Westminster</i> (House of Commons) constituencies. The <a href="/wiki/Scottish_Parliament_Building" title="Scottish Parliament Building">Scottish Parliament Building</a> is in the <a href="/wiki/Holyrood_(Edinburgh)" class="mw-redirect" title="Holyrood (Edinburgh)">Holyrood</a> area of <a href="/wiki/Edinburgh" title="Edinburgh">Edinburgh</a>, while the main meeting place of the Parliament of the United Kingdom is the <a href="/wiki/Palace_of_Westminster" title="Palace of Westminster">Palace of Westminster</a>, in the <a href="/wiki/City_of_Westminster" title="City of Westminster">City of Westminster</a>.
+</p><p>There are 73 Holyrood constituencies covering <a href="/wiki/Scotland" title="Scotland">Scotland</a>, and each elects one <a href="/wiki/Member_of_the_Scottish_Parliament" title="Member of the Scottish Parliament">Member of the Scottish Parliament</a> (MSP) by the <a href="/wiki/First-past-the-post_voting" title="First-past-the-post voting">first-past-the-post system</a>. Also, the constituencies are grouped into eight electoral regions, and each of these regions elects seven <a href="/wiki/Additional_member_system" class="mw-redirect" title="Additional member system">additional members</a>, to produce a form or degree of <a href="/wiki/Mixed-member_proportional_representation" title="Mixed-member proportional representation">mixed-member proportional representation</a>.
+</p><p>The existing constituencies were created, effectively, for the <a href="/wiki/Scottish_Parliament_election,_1999" title="Scottish Parliament election, 1999">first general election</a> of the Scottish Parliament, in 1999. When created, all but two had the names and boundaries of Westminster constituencies. The two exceptions were the <a href="/wiki/Orkney_(Scottish_Parliament_constituency)" title="Orkney (Scottish Parliament constituency)">Orkney Holyrood constituency</a>, covering the <a href="/wiki/Orkney_Islands_council_area" class="mw-redirect" title="Orkney Islands council area">Orkney Islands council area</a>, and the <a href="/wiki/Shetland_(Scottish_Parliament_constituency)" title="Shetland (Scottish Parliament constituency)">Shetland Holyrood constituency</a>, covering the <a href="/wiki/Shetland_Islands_council_area" class="mw-redirect" title="Shetland Islands council area">Shetland Islands council area</a>. For Westminster elections, these <a href="/wiki/Council_areas_of_Scotland" class="mw-redirect" title="Council areas of Scotland">council areas</a> were covered (and still are covered) by the <a href="/wiki/Orkney_and_Shetland_(UK_Parliament_constituency)" title="Orkney and Shetland (UK Parliament constituency)">Orkney and Shetland Westminster constituency</a>.
+</p><p>In 1999, under the <a href="/wiki/Scotland_Act_1998" title="Scotland Act 1998">Scotland Act 1998</a>,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> the expectation was that there would be a permanent link between the boundaries of Holyrood constituencies and those of Westminster constituencies. This link was broken, however, by the <a href="/wiki/Scottish_Parliament_(Constituencies)_Act_2004" title="Scottish Parliament (Constituencies) Act 2004">Scottish Parliament (Constituencies) Act 2004</a>,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> which enabled the creation of a new set of Westminster constituencies without change to Holyrood constituencies. The new Westminster boundaries became effective for the <a href="/wiki/United_Kingdom_general_election,_2005" title="United Kingdom general election, 2005">United Kingdom general election, 2005</a>.
+</p>
+<h2><span class="mw-headline" id="Welsh_Assembly_constituencies"><span id="Wales"></span> Welsh Assembly constituencies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=United_Kingdom_constituencies&amp;action=edit&amp;section=9" title="Edit section: Welsh Assembly constituencies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are 40 <a href="/wiki/Welsh_Assembly_constituencies" class="mw-redirect" title="Welsh Assembly constituencies">Welsh Assembly constituencies</a> covering <a href="/wiki/Wales" title="Wales">Wales</a>, and each elects one <a href="/wiki/Assembly_Member_(Welsh_Assembly)" class="mw-redirect" title="Assembly Member (Welsh Assembly)">Assembly Member</a> (AM) by the <a href="/wiki/First-past-the-post_voting" title="First-past-the-post voting">first-past-the-post system</a>. Also, the constituencies are grouped into five electoral regions, and each of these regions elects four <a href="/wiki/Additional_member_system" class="mw-redirect" title="Additional member system">additional members</a>, to produce a form or degree of <a href="/wiki/Mixed-member_proportional_representation" title="Mixed-member proportional representation">mixed-member proportional representation</a>.
+</p><p>The current set of Assembly constituencies is the second to be created. The first was created for the <a href="/wiki/Welsh_Assembly_election,_1999" class="mw-redirect" title="Welsh Assembly election, 1999">first general election</a> of the Assembly, in 1999.
+</p>
+<h2><span class="mw-headline" id="European_Parliament_constituencies">European Parliament constituencies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=United_Kingdom_constituencies&amp;action=edit&amp;section=10" title="Edit section: European Parliament constituencies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The United Kingdom elects its <a href="/wiki/Member_of_the_European_Parliament" title="Member of the European Parliament">Members of the European Parliament (MEPs)</a> through twelve multimember <a href="/wiki/European_Parliament" title="European Parliament">European Parliament</a> <a href="/wiki/European_Parliament_constituency" title="European Parliament constituency">constituencies</a>. One, <a href="/wiki/Northern_Ireland_(European_Parliament_constituency)" title="Northern Ireland (European Parliament constituency)">Northern Ireland</a>, uses <a href="/wiki/Single_transferable_vote" title="Single transferable vote">single transferable vote</a>, while the eleven covering <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> use the <a href="/wiki/D%27Hondt_method" title="D&#39;Hondt method">d'Hondt method</a> of <a href="/wiki/Party-list_proportional_representation" title="Party-list proportional representation">party-list proportional representation</a>.
+</p><p>For its first <a href="/wiki/Elections_to_the_European_Parliament" title="Elections to the European Parliament">European Parliamentary elections</a> in <a href="/wiki/European_Parliament_election,_1979_(United_Kingdom)" title="European Parliament election, 1979 (United Kingdom)">1979</a> Great Britain was divided into a number of single-member <a href="/wiki/First-past-the-post_voting" title="First-past-the-post voting">first-past-the Post</a> constituencies, matching the way Westminster MPs are elected. Following the decision that all MEPs should be elected by some form of <a href="/wiki/Proportional_representation" title="Proportional representation">proportional representation</a>, the <a href="/wiki/Labour_Party_(UK)" title="Labour Party (UK)">Labour</a> <a href="/wiki/Blair_ministry" title="Blair ministry">government</a> passed the <a href="/wiki/European_Parliamentary_Elections_Act_1999" title="European Parliamentary Elections Act 1999">European Parliamentary Elections Act 1999</a>, creating the current eleven constituencies on Great Britain, which were first used in <a href="/wiki/European_Parliament_election,_1999_(United_Kingdom)" title="European Parliament election, 1999 (United Kingdom)">1999</a>.
+</p><p>The <a href="/wiki/South_West_England_(European_Parliament_constituency)" title="South West England (European Parliament constituency)">South West England constituency</a> was expanded from the <a href="/wiki/European_Parliament_election,_2004_(United_Kingdom)" title="European Parliament election, 2004 (United Kingdom)">2004 elections</a> onward to include <a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a>, the only <a href="/wiki/British_overseas_territory" class="mw-redirect" title="British overseas territory">British overseas territory</a> that is part of the <a href="/wiki/European_Union" title="European Union">European Union</a>,  following a court case.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=United_Kingdom_constituencies&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-bce2007-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-bce2007_1-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFBoundary_Commission_for_England2007" class="citation">Boundary Commission for England (2007), <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110726095050/http://www.official-documents.gov.uk/document/cm70/7032/7032.pdf"><i>Fifth periodical report</i></a> <span class="cs1-format">(PDF)</span>, Norwich: TSO (The Stationery Office), <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-10-170322-8" title="Special:BookSources/0-10-170322-8">0-10-170322-8</a>, archived from <a rel="nofollow" class="external text" href="http://www.official-documents.gov.uk/document/cm70/7032/7032.pdf">the original</a> <span class="cs1-format">(PDF)</span> on July 26, 2011</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fifth+periodical+report&amp;rft.place=Norwich&amp;rft.pub=TSO+%28The+Stationery+Office%29&amp;rft.date=2007&amp;rft.isbn=0-10-170322-8&amp;rft.au=Boundary+Commission+for+England&amp;rft_id=http%3A%2F%2Fwww.official-documents.gov.uk%2Fdocument%2Fcm70%2F7032%2F7032.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnited+Kingdom+constituencies" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130504234425/http://www.bcomm-scotland.independent.gov.uk/maps/westminster/2005/">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.bcomm-scotland.independent.gov.uk/maps/westminster/2005/">the original</a> on 2013-05-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-02-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.bcomm-scotland.independent.gov.uk%2Fmaps%2Fwestminster%2F2005%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnited+Kingdom+constituencies" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Archived copy as title (<a href="/w/index.php?title=Category:CS1_maint:_Archived_copy_as_title&amp;action=edit&amp;redlink=1" class="new" title="Category:CS1 maint: Archived copy as title (page does not exist)">link</a>) </span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-scc-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-scc_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Somerset County Council Regulation Committee (1 November 2012). <a rel="nofollow" class="external text" href="http://www1.somerset.gov.uk/council/board11%5C2012%20November%201%20Item%208%20Appointment%20of%20County%20Returning%20Officer.pdf">"Appointment of County Returning Officer"</a> <span class="cs1-format">(PDF)</span>. Somerset County Council. <a rel="nofollow" class="external text" href="https://archive.is/IrFoP?url=http://www1.somerset.gov.uk/council/board11%5C2012%20November%201%20Item%208%20Appointment%20of%20County%20Returning%20Officer.pdf">Archived</a> <span class="cs1-format">(PDF)</span> from the original on 19 November 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">19 November</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Appointment+of+County+Returning+Officer&amp;rft.pub=Somerset+County+Council&amp;rft.date=2012-11-01&amp;rft.au=Somerset+County+Council+Regulation+Committee&amp;rft_id=http%3A%2F%2Fwww1.somerset.gov.uk%2Fcouncil%2Fboard11%255C2012%2520November%25201%2520Item%25208%2520Appointment%2520of%2520County%2520Returning%2520Officer.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnited+Kingdom+constituencies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://www.statutelaw.gov.uk/documents/1983/2/ukpga/c2">"Representation of the People Act 1983"</a>, <i>Acts of the United Kingdom Parliament</i>, <b>1983</b> (2), pp.&#160;76(2)(a), 1983-02-08<span class="reference-accessdate">, retrieved <span class="nowrap">2008-11-04</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Acts+of+the+United+Kingdom+Parliament&amp;rft.atitle=Representation+of+the+People+Act+1983&amp;rft.volume=1983&amp;rft.issue=2&amp;rft.pages=76%282%29%28a%29&amp;rft.date=1983-02-08&amp;rft_id=http%3A%2F%2Fwww.statutelaw.gov.uk%2Fdocuments%2F1983%2F2%2Fukpga%2Fc2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnited+Kingdom+constituencies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.legislation.gov.uk/uksi/2005/269">Statutory Instrument 2005 No. 269</a> (section 3) <i>The Representation of the People (Variation of Limits of Candidates' Election Expenses) Order 2005</i> (Coming into force 2005-03-04)</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://www.statutelaw.gov.uk/documents/1983/2/ukpga/c2">"Representation of the People Act 1983"</a>, <i>Acts of the United Kingdom Parliament</i>, <b>1983</b> (2), pp.&#160;76(2)(aa), 1983-02-08<span class="reference-accessdate">, retrieved <span class="nowrap">2008-11-04</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Acts+of+the+United+Kingdom+Parliament&amp;rft.atitle=Representation+of+the+People+Act+1983&amp;rft.volume=1983&amp;rft.issue=2&amp;rft.pages=76%282%29%28aa%29&amp;rft.date=1983-02-08&amp;rft_id=http%3A%2F%2Fwww.statutelaw.gov.uk%2Fdocuments%2F1983%2F2%2Fukpga%2Fc2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnited+Kingdom+constituencies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://www.statutelaw.gov.uk/documents/2000/41/ukpga/c41">"Political Parties, Elections and Referendums Act 2000"</a>, <i>Acts of the United Kingdom Parliament</i>, <b>2000</b> (41), pp.&#160;132(5), 2000-11-30, <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090214213607/http://www.statutelaw.gov.uk/documents/2000/41/ukpga/c41">archived</a> from the original on 2009-02-14<span class="reference-accessdate">, retrieved <span class="nowrap">2008-11-04</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Acts+of+the+United+Kingdom+Parliament&amp;rft.atitle=Political+Parties%2C+Elections+and+Referendums+Act+2000&amp;rft.volume=2000&amp;rft.issue=41&amp;rft.pages=132%285%29&amp;rft.date=2000-11-30&amp;rft_id=http%3A%2F%2Fwww.statutelaw.gov.uk%2Fdocuments%2F2000%2F41%2Fukpga%2Fc41&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnited+Kingdom+constituencies" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://consultation.boundarycommissionforengland.independent.gov.uk/wp-content/uploads/2011/08/406678_Guide-to-the-2013-Review_acc.pdf">http://consultation.boundarycommissionforengland.independent.gov.uk/wp-content/uploads/2011/08/406678_Guide-to-the-2013-Review_acc.pdf</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since July 2016">permanent dead link</span></a></i>&#93;</span></sup> page 10, Boundary Commission for England, "A guide to the 2013 Review" Sections 41-44, 'Naming'</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.opsi.gov.uk/acts/acts1998/19980046.htm"><i>Scotland Act 1998</i>, Office of Public Sector Information website</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070714112551/http://www.opsi.gov.uk/acts/acts1998/19980046.htm">Archived</a> July 14, 2007, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.opsi.gov.uk/acts/acts2004/20040013.htm"><i>Scottish Parliament (Constituencies) Act 2004</i>, Office of Public Sector Information website</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070902220742/http://www.opsi.gov.uk/acts/acts2004/20040013.htm">Archived</a> September 2, 2007, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.electoralcommission.org.uk/media-centre/newsreleasereviews.cfm/news/226"><i>Gibraltar should join South West for elections to European Parliament</i>, Electoral Commission new release, 28 Aug 2003</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071205000000/http://www.electoralcommission.org.uk/media-centre/newsreleasereviews.cfm/news/226">Archived</a> December 5, 2007, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+</ol></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2226
+Cached time: 20180929134250
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.232 seconds
+Real time usage: 0.325 seconds
+Preprocessor visited node count: 858/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 20220/2097152 bytes
+Template argument size: 802/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 20342/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.112/10.000 seconds
+Lua memory usage: 3.02 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  260.564      1 -total
+ 78.46%  204.451      1 Template:Reflist
+ 37.06%   96.577      4 Template:Citation
+ 16.92%   44.088      1 Template:Dead_link
+ 14.82%   38.617      1 Template:Fix
+ 13.69%   35.673      2 Template:Category_handler
+ 10.61%   27.648      7 Template:Anchor
+  7.67%   19.994      3 Template:Webarchive
+  6.64%   17.291      1 Template:See_also
+  5.17%   13.464      2 Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1784582-0!canonical and timestamp 20180929134250 and revision id 856460574
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=United_Kingdom_constituencies&amp;oldid=856460574">https://en.wikipedia.org/w/index.php?title=United_Kingdom_constituencies&amp;oldid=856460574</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Constituencies_of_the_Parliament_of_the_United_Kingdom" title="Category:Constituencies of the Parliament of the United Kingdom">Constituencies of the Parliament of the United Kingdom</a></li><li><a href="/wiki/Category:Politics_of_the_United_Kingdom" title="Category:Politics of the United Kingdom">Politics of the United Kingdom</a></li><li><a href="/wiki/Category:Types_of_subdivision_in_the_United_Kingdom" title="Category:Types of subdivision in the United Kingdom">Types of subdivision in the United Kingdom</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">CS1 maint: Archived copy as title</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_July_2016" title="Category:Articles with dead external links from July 2016">Articles with dead external links from July 2016</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=United+Kingdom+constituencies" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=United+Kingdom+constituencies" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/United_Kingdom_constituencies" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:United_Kingdom_constituencies" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/United_Kingdom_constituencies">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=United_Kingdom_constituencies&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=United_Kingdom_constituencies&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/United_Kingdom_constituencies" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/United_Kingdom_constituencies" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=United_Kingdom_constituencies&amp;oldid=856460574" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=United_Kingdom_constituencies&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2064521" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=United_Kingdom_constituencies&amp;id=856460574" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=United+Kingdom+constituencies">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=United+Kingdom+constituencies&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=United_Kingdom_constituencies&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Etholaethau%27r_Deyrnas_Unedig" title="Etholaethau&#039;r Deyrnas Unedig – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Distritos_electorales_del_Reino_Unido" title="Distritos electorales del Reino Unido – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Circonscription_%C3%A9lectorale_du_Royaume-Uni" title="Circonscription électorale du Royaume-Uni – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Collegi_elettorali_del_Regno_Unito" title="Collegi elettorali del Regno Unito – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Britse_kiesdistricten" title="Britse kiesdistricten – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2064521#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 August 2018, at 11:05<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=United_Kingdom_constituencies&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.232","walltime":"0.325","ppvisitednodes":{"value":858,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":20220,"limit":2097152},"templateargumentsize":{"value":802,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":20342,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  260.564      1 -total"," 78.46%  204.451      1 Template:Reflist"," 37.06%   96.577      4 Template:Citation"," 16.92%   44.088      1 Template:Dead_link"," 14.82%   38.617      1 Template:Fix"," 13.69%   35.673      2 Template:Category_handler"," 10.61%   27.648      7 Template:Anchor","  7.67%   19.994      3 Template:Webarchive","  6.64%   17.291      1 Template:See_also","  5.17%   13.464      2 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.112","limit":"10.000"},"limitreport-memusage":{"value":3164466,"limit":52428800}},"cachereport":{"origin":"mw2226","timestamp":"20180929134250","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":65,"wgHostname":"mw2199"});});</script>
+	</body>
+</html>

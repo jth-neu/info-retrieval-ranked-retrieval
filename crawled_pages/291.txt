@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>GenieKnows - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"GenieKnows","wgTitle":"GenieKnows","wgCurRevisionId":860305120,"wgRevisionId":860305120,"wgArticleId":15860279,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using deprecated image syntax","Software companies established in 1999","Internet search engines","Online game databases","Privately held companies of Canada"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"GenieKnows","wgRelevantArticleId":15860279,"wgRequestId":"W6-I8wrAIEMAAEEujBYAAAAU","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5533169","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/GenieKnows"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=GenieKnows&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=GenieKnows&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/GenieKnows"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-GenieKnows rootpage-GenieKnows skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">GenieKnows</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><caption class="fn org">GenieKnows</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center">
+<a href="/wiki/File:GenieKnows.png" class="image" title="The GenieKnows logo"><img alt="The GenieKnows logo" src="//upload.wikimedia.org/wikipedia/en/thumb/6/67/GenieKnows.png/275px-GenieKnows.png" width="275" height="46" srcset="//upload.wikimedia.org/wikipedia/en/6/67/GenieKnows.png 1.5x" data-file-width="300" data-file-height="50" /></a></td></tr><tr><th scope="row" style="padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height:1.35em;">
+<a href="/wiki/Privately_held_company" title="Privately held company">Private</a></td></tr><tr><th scope="row" style="padding-right:0.5em;">Industry</th><td class="category" style="line-height:1.35em;">
+<a href="/wiki/Internet" title="Internet">Internet</a></td></tr><tr><th scope="row" style="padding-right:0.5em;">Founded</th><td style="line-height:1.35em;">
+<a href="/wiki/Halifax_Regional_Municipality" class="mw-redirect" title="Halifax Regional Municipality">Halifax</a>, <a href="/wiki/Canada" title="Canada">Canada</a> (1999)</td></tr><tr><th scope="row" style="padding-right:0.5em;">Founder</th><td class="agent" style="line-height:1.35em;">
+Rami Hamodah &amp; John Manning</td></tr><tr><th scope="row" style="padding-right:0.5em;">Headquarters</th><td class="adr" style="line-height:1.35em;">
+<span class="locality"><a href="/wiki/Halifax_Regional_Municipality" class="mw-redirect" title="Halifax Regional Municipality">Halifax, Nova Scotia</a></span>, <span class="country-name"><a href="/wiki/Canada" title="Canada">Canada</a></span></td></tr><tr><th scope="row" style="padding-right:0.5em;">Revenue</th><td style="line-height:1.35em;">
+<a href="/wiki/United_States_dollar" title="United States dollar">US$</a>8,400,000 (2007), <img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 19% from 2006</td></tr><tr><th scope="row" style="padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div></th><td style="line-height:1.35em;">
+5 (2012)</td></tr><tr><th scope="row" style="padding-right:0.5em;"><a href="/wiki/Parent_company" title="Parent company">Parent</a></th><td style="line-height:1.35em;">
+GenieKnows Inc.</td></tr><tr><th scope="row" style="padding-right:0.5em;">Website</th><td style="line-height:1.35em;">
+<a rel="nofollow" class="external text" href="http://www.genieknows.com">GenieKnows.com</a></td></tr></tbody></table>
+<p><b>GenieKnows</b> Inc., a <a href="/wiki/Privately_owned" class="mw-redirect" title="Privately owned">privately owned</a> <a href="/wiki/Vertical_search" title="Vertical search">vertical</a> <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engine</a> company based in <a href="/wiki/Halifax_Regional_Municipality" class="mw-redirect" title="Halifax Regional Municipality">Halifax</a>, <a href="/wiki/Nova_Scotia" title="Nova Scotia">Nova Scotia</a>. Like many <a href="/wiki/List_of_search_engines" title="List of search engines">internet search engines</a>, its revenue model centers on an <a href="/wiki/Online_advertising" title="Online advertising">online advertising</a> platform and <a href="/wiki/Business-to-business" title="Business-to-business">B2B</a> transactions. It focuses on a set of <a href="/wiki/Niche_market" title="Niche market">niche</a> search markets, or verticals, including health search, video games search, and <a href="/wiki/Local_search_(Internet)" title="Local search (Internet)">local business directory search</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Technologies"><span class="tocnumber">1</span> <span class="toctext">Technologies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Local_Business_Directory_Search"><span class="tocnumber">1.1</span> <span class="toctext">Local Business Directory Search</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Vertical_Search_Engine"><span class="tocnumber">1.2</span> <span class="toctext">Vertical Search Engine</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Company"><span class="tocnumber">2</span> <span class="toctext">Company</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Accomplishments"><span class="tocnumber">2.1</span> <span class="toctext">Accomplishments</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Philanthropy"><span class="tocnumber">2.2</span> <span class="toctext">Philanthropy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Technologies">Technologies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GenieKnows&amp;action=edit&amp;section=1" title="Edit section: Technologies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>GenieKnows uses algorithms to download, assess, and categorize web pages and index them for later matching with <a href="/wiki/Web_search_query" title="Web search query">web search queries</a>.
+</p>
+<h3><span class="mw-headline" id="Local_Business_Directory_Search">Local Business Directory Search</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GenieKnows&amp;action=edit&amp;section=2" title="Edit section: Local Business Directory Search">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2005, GenieKnows entered the search engine market with a local business directory search engine.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Targeting only the United States in its <a href="/wiki/Beta_release" class="mw-redirect" title="Beta release">beta release</a>, the local search engine is similar to <a href="/wiki/Google_Maps" title="Google Maps">Google Maps</a> but uses the proprietary GeoRank algorithm to associate potentially uncategorized web pages containing addresses with businesses listed in an <a href="/wiki/Yellow_Pages" class="mw-redirect" title="Yellow Pages">internet Yellow Pages</a> directory by extracting addresses and <a href="/wiki/Geocoding" title="Geocoding">geocoding</a> these to identify <a href="/wiki/Geographic_coordinates" class="mw-redirect" title="Geographic coordinates">geographic coordinates</a> for which it associates the web page.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>On February 29, 2008 <a rel="nofollow" class="external text" href="http://local.genieknows.com">GenieKnows Local</a> was launched as a completely revised local search engine extending beyond the 100 most populous US cities covered in its beta release. The local search engine utilizes processed municipal business data, road network data, national park data, and geocoding technology to provide localized search results ranked according to a business's relevance to a user's web query. As of the February 2008 release, the engine covers over 90% of Canadian and US municipalities with populations above 1000 residents.
+</p><p>According to SEO and search marketing expert Jim Hedger, GenieKnows' strongest, most unusual and important product is its local search engine.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Vertical_Search_Engine">Vertical Search Engine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GenieKnows&amp;action=edit&amp;section=3" title="Edit section: Vertical Search Engine">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>GenieKnows entered the vertical search market in 2006 with a vertical search engine for <a href="/wiki/Video_games" class="mw-redirect" title="Video games">video games</a>-related web pages and another for health-related web pages.
+</p><p>Web pages often describe or discuss a particular topic. In <a href="/wiki/Information_retrieval" title="Information retrieval">information retrieval</a> and <a href="/wiki/Machine_learning" title="Machine learning">machine learning</a> literature, classification algorithms have been used to automatically identify the subject matter of a web page. GenieKnows uses such algorithms as a <a href="/wiki/Focused_crawler" title="Focused crawler">focused crawler</a> to download <a href="/wiki/Web_pages" class="mw-redirect" title="Web pages">web pages</a>, identify pages that are on topic with the vertical, and <a href="/wiki/Index_(search_engine)" class="mw-redirect" title="Index (search engine)">index</a> and save those pages.
+</p><p>The result is a search engine that contains only web pages that are on a given topic, tailoring to a niche market of web users who have an interest in a given topic, so all pages returned for a query will be on topic with the vertical being used. For revenue generation, the engine displays advertisements beside the search results from a network of advertisers where it receives <a href="/wiki/Pay_per_click" class="mw-redirect" title="Pay per click">pay per click</a>. GenieKnows is collaborating with <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a> to display targeted, contextualized advertisements to a targeted market of users.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>In February 2008, GenieKnows added <a href="/wiki/Internet_community" class="mw-redirect" title="Internet community">online community</a> functionality to its vertical search engine. Users sharing interest in a topic can communicate and contribute content to the site in a manner similar, but on a smaller scale, to those of <a href="/wiki/Facebook" title="Facebook">Facebook</a>, and <a href="/wiki/Yahoo" class="mw-redirect" title="Yahoo">Yahoo</a>.
+</p>
+<h2><span class="mw-headline" id="Company">Company</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GenieKnows&amp;action=edit&amp;section=4" title="Edit section: Company">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Accomplishments">Accomplishments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GenieKnows&amp;action=edit&amp;section=5" title="Edit section: Accomplishments">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Ranked 10th on Progress Magazine's Best Places to Work Survey for 2007.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> The Best Places to Work program recognizes companies with 25 employees or more who demonstrate best practices in Atlantic Canada.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></li>
+<li>Listed 29th on Progress Magazine’s 2008 Fastest Growing Companies list for the 4th consecutive year.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup></li>
+<li>Listed 204th in Branham Group business technology publication, Backbone Magazine's Top 250 Canadian IT Companies for the years 2005-2007. The 'Branham 300' list is comprised in part of Canadian companies ranked on their gross revenues for 2007 financial reports.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup></li>
+<li>Awarded project funding of $2,023,773 in January 2007 for GenieKnows Personalized Local Search via the <a href="/wiki/Atlantic_Innovation_Fund" class="mw-redirect" title="Atlantic Innovation Fund">Atlantic Innovation Fund</a> (AIF).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup></li></ul>
+<h3><span class="mw-headline" id="Philanthropy">Philanthropy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GenieKnows&amp;action=edit&amp;section=6" title="Edit section: Philanthropy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>GenieKnows has donated resources and money to many organizations including:
+</p>
+<ul><li><a href="/wiki/Make-a-Wish_Foundation" class="mw-redirect" title="Make-a-Wish Foundation">Make-a-Wish Foundation</a></li>
+<li><a href="/wiki/IWK_Health_Centre" title="IWK Health Centre">IWK Foundation</a></li>
+<li><a href="/wiki/World_Vision" class="mw-redirect" title="World Vision">World Vision</a></li>
+<li><a href="/wiki/Junior_Achievement" title="Junior Achievement">Junior Achievement</a></li>
+<li><a href="/wiki/National_Breast_Cancer_Foundation" title="National Breast Cancer Foundation">Fashion Targets Breast Cancer</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=GenieKnows&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.genieknows.com">Official GenieKnows Website</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://blog.searchenginewatch.com/blog/060517-072744">GenieKnows local search reviewed on Search Engine Watch</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Abou-Assaleh, T., &amp; Gao, W. (2007). <a rel="nofollow" class="external text" href="http://doi.acm.org/10.1145/1277741.1277979">Geographic ranking for a local search engine</a>. In SIGIR‘07: Proceedings of the 30th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, New York, NY, USA.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://searchenginewatch.com/showPage.html?page=3629897">"<span class="cs1-kern-left">"</span>GenieKnows Its Verticals", Search Engine WAtch (2008)"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%22GenieKnows+Its+Verticals%22%2C+Search+Engine+WAtch+%282008%29&amp;rft_id=http%3A%2F%2Fsearchenginewatch.com%2FshowPage.html%3Fpage%3D3629897&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGenieKnows" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thehostingnews.com/news-yahoo-joins-genieknows-com-in-sponsored-search-collaboration-3481.html">Yahoo! Joins GenieKnows.com, in Sponsored Search Collaboration</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090214104454/http://www.genieknows.com/node/64">"GenieKnows Ranks 10th on Progress Magazine's Best Places to Work Survey 2007"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.genieknows.com/node/64">the original</a> on 2009-02-14.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=GenieKnows+Ranks+10th+on+Progress+Magazine%27s+Best+Places+to+Work+Survey+2007&amp;rft_id=http%3A%2F%2Fwww.genieknows.com%2Fnode%2F64&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGenieKnows" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://progressmedia.ca/event/%5Bfield_date-yyyy%5D/%5Bfield_date-mm%5D/best-places-work-awards-luncheon">"Progress Magazine, Best Places to Work Survey"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Progress+Magazine%2C+Best+Places+to+Work+Survey&amp;rft_id=http%3A%2F%2Fprogressmedia.ca%2Fevent%2F%255Bfield_date-yyyy%255D%2F%255Bfield_date-mm%255D%2Fbest-places-work-awards-luncheon&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGenieKnows" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090404062646/http://www.genieknows.com/about/press/genieknows-com-named-fastest-growing-company-list-2008-93">"GenieKnows Named on Fastest Growing Company List for 2008"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.genieknows.com/about/press/genieknows-com-named-fastest-growing-company-list-2008-93">the original</a> on 2009-04-04.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=GenieKnows+Named+on+Fastest+Growing+Company+List+for+2008&amp;rft_id=http%3A%2F%2Fwww.genieknows.com%2Fabout%2Fpress%2Fgenieknows-com-named-fastest-growing-company-list-2008-93&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGenieKnows" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080917204721/http://www.branhamgroup.com/branham300/index.php?year=2008&amp;listing=1">"Branham Group Inc., Branham 300"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.branhamgroup.com/branham300/index.php?year=2008&amp;listing=1">the original</a> on 2008-09-17.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Branham+Group+Inc.%2C+Branham+300&amp;rft_id=http%3A%2F%2Fwww.branhamgroup.com%2Fbranham300%2Findex.php%3Fyear%3D2008%26listing%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGenieKnows" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.acoa.ca/e/financial/aif/prolist4.shtml">"ACOA Website: Atlantic Innovation Fund"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ACOA+Website%3A+Atlantic+Innovation+Fund&amp;rft_id=http%3A%2F%2Fwww.acoa.ca%2Fe%2Ffinancial%2Faif%2Fprolist4.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGenieKnows" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2179
+Cached time: 20180929184819
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.192 seconds
+Real time usage: 0.225 seconds
+Preprocessor visited node count: 800/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 14263/2097152 bytes
+Template argument size: 923/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 16595/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.084/10.000 seconds
+Lua memory usage: 2.39 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  161.665      1 -total
+ 52.12%   84.253      6 Template:Cite_web
+ 40.00%   64.671      1 Template:Infobox_company
+ 32.01%   51.743      1 Template:Infobox
+  5.02%    8.118      1 Template:Br_separated_entries
+  1.74%    2.819      1 Template:Comma_separated_entries
+  1.54%    2.484      1 Template:Main_other
+  1.09%    1.770      2 Template:Longitem
+  1.07%    1.723      1 Template:Template_other
+  0.87%    1.409      1 Template:Increase
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15860279-0!canonical and timestamp 20180929184819 and revision id 860305120
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=GenieKnows&amp;oldid=860305120">https://en.wikipedia.org/w/index.php?title=GenieKnows&amp;oldid=860305120</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Software_companies_established_in_1999" title="Category:Software companies established in 1999">Software companies established in 1999</a></li><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li><li><a href="/wiki/Category:Online_game_databases" title="Category:Online game databases">Online game databases</a></li><li><a href="/wiki/Category:Privately_held_companies_of_Canada" title="Category:Privately held companies of Canada">Privately held companies of Canada</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=GenieKnows" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=GenieKnows" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/GenieKnows" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:GenieKnows&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/GenieKnows">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=GenieKnows&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=GenieKnows&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/GenieKnows" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/GenieKnows" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=GenieKnows&amp;oldid=860305120" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=GenieKnows&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5533169" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=GenieKnows&amp;id=860305120" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=GenieKnows">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=GenieKnows&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=GenieKnows&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5533169#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 19 September 2018, at 19:08<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=GenieKnows&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.192","walltime":"0.225","ppvisitednodes":{"value":800,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":14263,"limit":2097152},"templateargumentsize":{"value":923,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":16595,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  161.665      1 -total"," 52.12%   84.253      6 Template:Cite_web"," 40.00%   64.671      1 Template:Infobox_company"," 32.01%   51.743      1 Template:Infobox","  5.02%    8.118      1 Template:Br_separated_entries","  1.74%    2.819      1 Template:Comma_separated_entries","  1.54%    2.484      1 Template:Main_other","  1.09%    1.770      2 Template:Longitem","  1.07%    1.723      1 Template:Template_other","  0.87%    1.409      1 Template:Increase"]},"scribunto":{"limitreport-timeusage":{"value":"0.084","limit":"10.000"},"limitreport-memusage":{"value":2507810,"limit":52428800}},"cachereport":{"origin":"mw2179","timestamp":"20180929184819","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":316,"wgHostname":"mw2179"});});</script>
+	</body>
+</html>

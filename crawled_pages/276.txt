@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Web query classification - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Web_query_classification","wgTitle":"Web query classification","wgCurRevisionId":854534464,"wgRevisionId":854534464,"wgArticleId":16350490,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing cleanup from March 2011","All pages needing cleanup","Cleanup tagged articles without a reason field from March 2011","Wikipedia pages needing cleanup from March 2011","Information retrieval techniques","Internet search"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Web_query_classification","wgRelevantArticleId":16350490,"wgRequestId":"W66atQrAAEMAAH6NFyYAAABC","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7978614","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Web_query_classification"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Web_query_classification&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Web_query_classification&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Web_query_classification"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Web_query_classification rootpage-Web_query_classification skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Web query classification</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-style ambox-Cleanup" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article may <b>require <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">cleanup</a></b> to meet Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a>.<span class="hide-when-compact"> No <a href="/wiki/Template:Cleanup/doc" title="Template:Cleanup/doc">cleanup reason</a> has been specified. Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Web_query_classification&amp;action=edit">improve this article</a> if you can.</span>  <small><i>(March 2011)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p><b> </b>
+A Web query topic classification/categorization is a problem in <a href="/wiki/Information_science" title="Information science">information science</a>. The task is to assign a <a href="/wiki/Web_search_query" title="Web search query">Web search query</a> to one or more predefined <a href="/wiki/Categorization" title="Categorization">categories</a>, based on its topics. The importance of query classification is underscored by many services provided by Web search. A direct application is to provide better search result pages for users with interests of different categories. For example, the users issuing a Web query “<i>apple</i>” might expect to see Web pages related to the fruit apple, or they may prefer to see products or news related to the computer company. Online advertisement services can rely on the query classification results to promote different products more accurately. Search result pages can be grouped according to the categories predicted by a query classification algorithm. However, the computation of query classification is non-trivial. Different from the <a href="/wiki/Document_classification" title="Document classification">document classification</a> tasks, queries submitted by Web search users are usually short and ambiguous; also the meanings of the queries are evolving over time. Therefore, query topic classification is much more difficult than traditional document classification tasks.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#KDDCUP_2005"><span class="tocnumber">1</span> <span class="toctext">KDDCUP 2005</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Difficulties"><span class="tocnumber">2</span> <span class="toctext">Difficulties</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#How_to_derive_an_appropriate_feature_representation_for_Web_queries?"><span class="tocnumber">2.1</span> <span class="toctext">How to derive an appropriate feature representation for Web queries?</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#How_to_adapt_the_changes_of_the_queries_and_categories_over_time?"><span class="tocnumber">2.2</span> <span class="toctext">How to adapt the changes of the queries and categories over time?</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#How_to_use_the_unlabeled_query_logs_to_help_with_query_classification?"><span class="tocnumber">2.3</span> <span class="toctext">How to use the unlabeled query logs to help with query classification?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Applications"><span class="tocnumber">3</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="KDDCUP_2005">KDDCUP 2005</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Web_query_classification&amp;action=edit&amp;section=1" title="Edit section: KDDCUP 2005">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>KDDCUP 2005 competition<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> highlighted the interests in query classification. The objective of this competition is to classify 800,000 real user queries into 67 target categories. Each query can belong to more than one target category. As an example of a QC task, given the query “<i>apple</i>”, it should be classified into ranked categories: “<i>Computers \ Hardware</i>; <i>Living \ Food &amp; Cooking</i>”.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Query
+</th>
+<th>Categories
+</th></tr>
+<tr>
+<td>apple
+</td>
+<td>Computers \ Hardware<br />Living \ Food &amp; Cooking
+</td></tr>
+<tr>
+<td>FIFA 2006
+</td>
+<td>Sports \ Soccer<br />Sports \ Schedules &amp; Tickets<br />Entertainment \ Games &amp; Toys
+</td></tr>
+<tr>
+<td>cheesecake recipes
+</td>
+<td>Living \ Food &amp; Cooking<br />Information \ Arts &amp; Humanities
+</td></tr>
+<tr>
+<td>friendships poem
+</td>
+<td>Information \ Arts &amp; Humanities<br />Living \ Dating &amp; Relationships
+</td></tr></tbody></table>
+<p><a href="/wiki/File:Web_query_length.gif" class="image"><img alt="Web query length.gif" src="//upload.wikimedia.org/wikipedia/en/3/30/Web_query_length.gif" width="520" height="290" data-file-width="520" data-file-height="290" /></a>
+<a href="/wiki/File:Web_query_meaning.gif" class="image"><img alt="Web query meaning.gif" src="//upload.wikimedia.org/wikipedia/en/5/5d/Web_query_meaning.gif" width="516" height="284" data-file-width="516" data-file-height="284" /></a>
+</p>
+<h2><span class="mw-headline" id="Difficulties">Difficulties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Web_query_classification&amp;action=edit&amp;section=2" title="Edit section: Difficulties">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Web query topic classification is to automatically assign a query to some predefined categories. Different from the traditional document classification tasks, there are several major difficulties which hinder the progress of Web <a href="/wiki/Query_understanding" title="Query understanding">query understanding</a>:
+</p>
+<h3><span id="How_to_derive_an_appropriate_feature_representation_for_Web_queries.3F"></span><span class="mw-headline" id="How_to_derive_an_appropriate_feature_representation_for_Web_queries?">How to derive an appropriate feature representation for Web queries?</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Web_query_classification&amp;action=edit&amp;section=3" title="Edit section: How to derive an appropriate feature representation for Web queries?">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Many queries are short and query terms are noisy. As an example, in the KDDCUP 2005 dataset, queries containing 3 words are most frequent (22%). Furthermore, 79% queries have no more than 4 words. A user query often has multiple meanings. For example, "<i>apple</i>" can mean a kind of fruit or a computer company. "<i>Java</i>" can mean a programming language or an island in Indonesia. In the KDDCUP 2005 dataset, most of the queries contain more than one meaning. Therefore, only using the keywords of the query to set up a <a href="/wiki/Vector_space_model" title="Vector space model">vector space model</a> for classification is not appropriate.
+</p>
+<ul><li>Query-enrichment based methods<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> start by enriching user queries to a collection of text documents through <a href="/wiki/Search_engines" class="mw-redirect" title="Search engines">search engines</a>. Thus, each query is represented by a pseudo-document which consists of the snippets of top ranked result pages retrieved by search engine. Subsequently, the text documents are classified into the target categories using synonym based classifier or statistical classifiers, such as <a href="/wiki/Naive_Bayes" class="mw-redirect" title="Naive Bayes">Naive Bayes</a> (NB) and <a href="/wiki/Support_Vector_Machines" class="mw-redirect" title="Support Vector Machines">Support Vector Machines</a> (SVMs).</li></ul>
+<h3><span id="How_to_adapt_the_changes_of_the_queries_and_categories_over_time.3F"></span><span class="mw-headline" id="How_to_adapt_the_changes_of_the_queries_and_categories_over_time?">How to adapt the changes of the queries and categories over time?</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Web_query_classification&amp;action=edit&amp;section=4" title="Edit section: How to adapt the changes of the queries and categories over time?">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The meanings of queries may also evolve over time. Therefore, the old labeled training queries may be out-of-data and useless soon. How to make the classifier adaptive over time becomes a big issue. For example, the word "<i>Barcelona</i>" has a new meaning of the new micro-processor of AMD, while it refers to a city or football club before 2007. The distribution of the meanings of this term is therefore a function of time on the Web.
+</p>
+<ul><li>Intermediate taxonomy based method<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> first builds a bridging classifier on an intermediate taxonomy, such as <a href="/wiki/Open_Directory_Project" class="mw-redirect" title="Open Directory Project">Open Directory Project</a> (ODP), in an offline mode. This classifier is then used in an online mode to map user queries to the target categories via the intermediate taxonomy. The advantage of this approach is that the bridging classifier needs to be trained only once and is adaptive for each new set of target categories and incoming queries.</li></ul>
+<h3><span id="How_to_use_the_unlabeled_query_logs_to_help_with_query_classification.3F"></span><span class="mw-headline" id="How_to_use_the_unlabeled_query_logs_to_help_with_query_classification?">How to use the unlabeled query logs to help with query classification?</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Web_query_classification&amp;action=edit&amp;section=5" title="Edit section: How to use the unlabeled query logs to help with query classification?">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Since the manually labeled training data for query classification is expensive, how to use a very large web search engine query log as a source of unlabeled data to aid in automatic query classification becomes a hot issue. These logs record the Web users' behavior when they search for information via a search engine. Over the years, query logs have become a rich resource which contains Web users' knowledge about the World Wide Web.
+</p>
+<ul><li>Query clustering method<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> tries to associate related queries by clustering “session data”, which contain multiple queries and click-through information from a single user interaction. They take into account terms from result documents that a set of queries has in common. The use of query keywords together with session data is shown to be the most effective method of performing query clustering.</li>
+<li>Selectional preference based method<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> tries to exploit some <a href="/wiki/Association_rules" class="mw-redirect" title="Association rules">association rules</a> between the query terms to help with the query classification. Given the training data, they exploit several classification approaches including exact-match using labeled data, N-Gram match using labeled data and classifiers based on perception. They emphasize on an approach adapted from computational linguistics named selectional preferences. If x and y form a pair (x; y) and y belongs to category c, then all other pairs (x; z) headed by x belong to c. They use unlabeled query log data to mine these rules and validate the effectiveness of their approaches on some labeled queries.</li></ul>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Web_query_classification&amp;action=edit&amp;section=6" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Metasearch" class="mw-redirect" title="Metasearch">Metasearch engines</a></b> send a user's query to multiple search engines and blend the top results from each into one overall list. The search engine can organize the large number of Web pages in the search results, according to the potential categories of the issued query, for the convenience of Web users' navigation.</li>
+<li><b><a href="/wiki/Vertical_search" title="Vertical search">Vertical search</a></b>, compared to general search, focuses on specific domains and addresses the particular information needs of niche audiences and professions. Once the search engine can predict the category of information a Web user is looking for, it can select a certain vertical search engine automatically, without forcing the user to access the vertical search engine explicitly.</li>
+<li><b><a href="/wiki/Online_advertising" title="Online advertising">Online advertising</a></b><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> aims at providing interesting advertisements to Web users during their search activities. The search engine can provide relevant advertising to Web users according to their interests, so that the Web users can save time and effort in research while the advertisers can reduce their advertising costs.</li></ul>
+<p>All these services rely on the understanding Web users' search intents through their Web queries.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Web_query_classification&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Document_classification" title="Document classification">Document classification</a></li>
+<li><a href="/wiki/Web_search_query" title="Web search query">Web search query</a></li>
+<li><a href="/wiki/Information_retrieval" title="Information retrieval">Information retrieval</a></li>
+<li><a href="/wiki/Query_expansion" title="Query expansion">Query expansion</a></li>
+<li><a href="/wiki/Naive_Bayes_classifier" title="Naive Bayes classifier">Naive Bayes classifier</a></li>
+<li><a href="/wiki/Support_vector_machines" class="mw-redirect" title="Support vector machines">Support vector machines</a></li>
+<li><a href="/wiki/Meta_search" class="mw-redirect" title="Meta search">Meta search</a></li>
+<li><a href="/wiki/Vertical_search" title="Vertical search">Vertical search</a></li>
+<li><a href="/wiki/Online_advertising" title="Online advertising">Online advertising</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Web_query_classification&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.kdd.org/kdd-cup/view/kdd-cup-2005">KDDCUP 2005 dataset</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Shen et al.  <a rel="nofollow" class="external text" href="http://www.sigkdd.org/sites/default/files/issues/7-2-2005-12/KDDCUP2005Report_Shen.pdf">"Q2C@UST: Our Winning Solution to Query Classification"</a>. <i>ACM SIGKDD Exploration, December 2005, Volume 7, Issue 2</i>.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Shen et al. <a rel="nofollow" class="external text" href="http://portal.acm.org/ft_gateway.cfm?id=1165776">"Query Enrichment for Web-query Classification"</a>. <i>ACM TOIS, Vol. 24, No. 3, July 2006</i>.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Shen et al.  <a rel="nofollow" class="external text" href="http://portal.acm.org/ft_gateway.cfm?id=1148196">"Building bridges for web query classification"</a>. <i>ACM SIGIR, 2006</i>.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Wen et al. <a rel="nofollow" class="external text" href="http://portal.acm.org/ft_gateway.cfm?id=503108">"Query Clustering Using User Logs"</a>, <i>ACM TOIS, Volume 20, Issue 1, January 2002</i>.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Beitzel et al. <a rel="nofollow" class="external text" href="http://portal.acm.org/ft_gateway.cfm?id=1229183">"Automatic Classification of Web Queries Using Very Large Unlabeled Query Logs"</a>, <i>ACM TOIS, Volume 25, Issue 2, April 2007</i>.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.kdd2007.com/workshops.html#adkdd">Data Mining and Audience Intelligence for Advertising (ADKDD'07)</a>, KDD workshop 2007</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://research.yahoo.com/workshops/troa-2008/">Targeting and Ranking for Online Advertising (TROA'08)</a>, WWW workshop 2008</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Web_query_classification&amp;action=edit&amp;section=9" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Shen.  <a rel="nofollow" class="external text" href="http://lbxml.ust.hk/th/th_search.pl?smode=VIEWBYCALLNUM&amp;skeywords=CSED%202007%20Shen">"Learning-based Web Query Understanding"</a>. <i>Phd Thesis</i>, <i>HKUST</i>, June 2007.</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Internet_search" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Internet_search" title="Template:Internet search"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Internet_search" title="Template talk:Internet search"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Internet_search&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Internet_search" style="font-size:114%;margin:0 4em"><a href="/wiki/Internet_search" class="mw-redirect" title="Internet search">Internet search</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Types</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Web_search_engine" title="Web search engine">Web search engine</a> (<a href="/wiki/List_of_search_engines" title="List of search engines">List</a>)</li>
+<li><a href="/wiki/Metasearch_engine" title="Metasearch engine">Metasearch engine</a></li>
+<li><a href="/wiki/Collaborative_search_engine" title="Collaborative search engine">Collaborative search engine</a></li>
+<li><a href="/wiki/Human_flesh_search_engine" title="Human flesh search engine">Human flesh search engine</a></li>
+<li><a href="/wiki/Local_search_(Internet)" title="Local search (Internet)">Local search</a></li>
+<li><a href="/wiki/Vertical_search" title="Vertical search">Vertical search</a></li>
+<li><a href="/wiki/Social_search" title="Social search">Social search</a></li>
+<li><a href="/wiki/Image_retrieval" title="Image retrieval">Image search</a></li>
+<li><a href="/wiki/Video_search_engine" title="Video search engine">Video search engine</a></li>
+<li><a href="/wiki/Enterprise_search" title="Enterprise search">Enterprise search</a></li>
+<li><a href="/wiki/Semantic_search" title="Semantic search">Semantic search</a></li>
+<li><a href="/wiki/Natural_language_search_engine" class="mw-redirect" title="Natural language search engine">Natural language search engine</a></li>
+<li><a href="/wiki/Voice_search" title="Voice search">Voice search</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Tools</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Search_engine_marketing" title="Search engine marketing">Search engine marketing</a></li>
+<li><a href="/wiki/Search_engine_optimization" title="Search engine optimization">Search engine optimization</a></li>
+<li><a href="/wiki/Evaluation_measures_(information_retrieval)" title="Evaluation measures (information retrieval)">Evaluation measures</a></li>
+<li><a href="/wiki/Search_oriented_architecture" class="mw-redirect" title="Search oriented architecture">Search oriented architecture</a></li>
+<li><a href="/wiki/Selection-based_search" title="Selection-based search">Selection-based search</a></li></ul>
+<ul><li><a href="/wiki/Document_retrieval" title="Document retrieval">Document retrieval</a></li>
+<li><a href="/wiki/Text_mining" title="Text mining">Text mining</a></li>
+<li><a href="/wiki/Web_crawler" title="Web crawler">Web crawler</a></li>
+<li><a href="/wiki/Multisearch" title="Multisearch">Multisearch</a></li>
+<li><a href="/wiki/Federated_search" title="Federated search">Federated search</a></li>
+<li><a href="/wiki/Search_aggregator" title="Search aggregator">Search aggregator</a></li>
+<li><a href="/wiki/Index_(search_engine)" class="mw-redirect" title="Index (search engine)">Index</a>/<a href="/wiki/Web_indexing" title="Web indexing">Web indexing</a></li>
+<li><a href="/wiki/Focused_crawler" title="Focused crawler">Focused crawler</a></li>
+<li><a href="/wiki/Spider_trap" title="Spider trap">Spider trap</a></li>
+<li><a href="/wiki/Robots_exclusion_standard" title="Robots exclusion standard">Robots exclusion standard</a></li>
+<li><a href="/wiki/Distributed_web_crawling" title="Distributed web crawling">Distributed web crawling</a></li>
+<li><a href="/wiki/Web_archiving" title="Web archiving">Web archiving</a></li>
+<li><a href="/wiki/Website_mirroring_software" class="mw-redirect" title="Website mirroring software">Website mirroring software</a></li>
+<li><a href="/wiki/Web_search_query" title="Web search query">Web search query</a></li>
+<li><a class="mw-selflink selflink">Web query classification</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Protocols<br />and standards</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Z39.50" title="Z39.50">Z39.50</a></li>
+<li><a href="/wiki/Search/Retrieve_Web_Service" title="Search/Retrieve Web Service">Search/Retrieve Web Service</a></li>
+<li><a href="/wiki/Search/Retrieve_via_URL" title="Search/Retrieve via URL">Search/Retrieve via URL</a></li>
+<li><a href="/wiki/OpenSearch" title="OpenSearch">OpenSearch</a></li>
+<li><a href="/wiki/Representational_State_Transfer" class="mw-redirect" title="Representational State Transfer">Representational State Transfer</a></li>
+<li><a href="/w/index.php?title=Website_Parse_Template&amp;action=edit&amp;redlink=1" class="new" title="Website Parse Template (page does not exist)">Website Parse Template</a></li>
+<li><a href="/wiki/Wide_area_information_server" title="Wide area information server">Wide area information server</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">See also</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Search_engine_(computing)" title="Search engine (computing)">Search engine</a></li>
+<li><a href="/wiki/Desktop_search" title="Desktop search">Desktop search</a></li>
+<li><a href="/wiki/Online_search" title="Online search">Online search</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2226
+Cached time: 20180913091755
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.108 seconds
+Real time usage: 0.157 seconds
+Preprocessor visited node count: 511/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 19240/2097152 bytes
+Template argument size: 1344/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3388/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.026/10.000 seconds
+Lua memory usage: 1.38 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  112.058      1 -total
+ 68.55%   76.818      1 Template:Cleanup
+ 29.32%   32.857      2 Template:Main_other
+ 27.28%   30.565      1 Template:Ambox
+ 23.31%   26.124      1 Template:Category_handler
+ 13.72%   15.370      1 Template:Internet_search
+ 12.68%   14.214      1 Template:DMC
+ 12.57%   14.091      1 Template:Reflist
+  9.58%   10.737      1 Template:Navbox
+  8.56%    9.591      2 Template:FULLROOTPAGENAME
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:16350490-0!canonical and timestamp 20180913091754 and revision id 854534464
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Web_query_classification&amp;oldid=854534464">https://en.wikipedia.org/w/index.php?title=Web_query_classification&amp;oldid=854534464</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Information_retrieval_techniques" title="Category:Information retrieval techniques">Information retrieval techniques</a></li><li><a href="/wiki/Category:Internet_search" title="Category:Internet search">Internet search</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_cleanup_from_March_2011" title="Category:Articles needing cleanup from March 2011">Articles needing cleanup from March 2011</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Cleanup_tagged_articles_without_a_reason_field_from_March_2011" title="Category:Cleanup tagged articles without a reason field from March 2011">Cleanup tagged articles without a reason field from March 2011</a></li><li><a href="/wiki/Category:Wikipedia_pages_needing_cleanup_from_March_2011" title="Category:Wikipedia pages needing cleanup from March 2011">Wikipedia pages needing cleanup from March 2011</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Web+query+classification" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Web+query+classification" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Web_query_classification" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Web_query_classification&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Web_query_classification">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Web_query_classification&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Web_query_classification&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Web_query_classification" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Web_query_classification" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Web_query_classification&amp;oldid=854534464" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Web_query_classification&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7978614" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Web_query_classification&amp;id=854534464" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Web+query+classification">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Web+query+classification&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Web_query_classification&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7978614#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 12 August 2018, at 02:10<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Web_query_classification&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.108","walltime":"0.157","ppvisitednodes":{"value":511,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":19240,"limit":2097152},"templateargumentsize":{"value":1344,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3388,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  112.058      1 -total"," 68.55%   76.818      1 Template:Cleanup"," 29.32%   32.857      2 Template:Main_other"," 27.28%   30.565      1 Template:Ambox"," 23.31%   26.124      1 Template:Category_handler"," 13.72%   15.370      1 Template:Internet_search"," 12.68%   14.214      1 Template:DMC"," 12.57%   14.091      1 Template:Reflist","  9.58%   10.737      1 Template:Navbox","  8.56%    9.591      2 Template:FULLROOTPAGENAME"]},"scribunto":{"limitreport-timeusage":{"value":"0.026","limit":"10.000"},"limitreport-memusage":{"value":1446327,"limit":52428800}},"cachereport":{"origin":"mw2226","timestamp":"20180913091755","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":79,"wgHostname":"mw2241"});});</script>
+	</body>
+</html>

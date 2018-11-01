@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Volunia - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Volunia","wgTitle":"Volunia","wgCurRevisionId":840367790,"wgRevisionId":840367790,"wgArticleId":33805369,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Polish-language sources (pl)","CS1 Italian-language sources (it)","Internet search engines"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Volunia","wgRelevantArticleId":33805369,"wgRequestId":"W7ATNArAAEIAAIPyNYAAAABH","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q11166089","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Volunia"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Volunia&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Volunia&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Volunia"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Volunia rootpage-Volunia skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Volunia</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><caption class="fn org">Volunia</caption><tbody><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Type of site</div></th><td>
+<a href="/wiki/Web_search_engine" title="Web search engine">Web search engine</a></td></tr><tr><th scope="row">Available&#160;in</th><td>
+12 languages</td></tr><tr><th scope="row">Website</th><td class="url">
+<span class="url"><a rel="nofollow" class="external text" href="http://volunia.com">volunia<wbr />.com</a></span></td></tr><tr><th scope="row">Commercial</th><td>
+Yes</td></tr><tr><th scope="row">Registration</th><td>
+Optional</td></tr><tr><th scope="row">Launched</th><td>
+6 February 2012 (official launch)<br />14 June 2012 (public launch)</td></tr><tr><th scope="row">Current&#160;status</th><td class="category">
+Defunct</td></tr></tbody></table>
+<p><i><b>Volunia</b></i> was a <a href="/wiki/Web_search_engine" title="Web search engine">web search engine</a> (or <a href="/wiki/Social_search" title="Social search">social search engine</a>)<sup id="cite_ref-corriere_1-0" class="reference"><a href="#cite_note-corriere-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> created by <a href="/wiki/Massimo_Marchiori" title="Massimo Marchiori">Massimo Marchiori</a>.<sup id="cite_ref-lastampa_4-0" class="reference"><a href="#cite_note-lastampa-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> It was launched in beta only for registered <i>power users</i> on February 6, 2012<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> and went live on June 14, 2012. Volunia, dubbed as "the search engine of the future",<sup id="cite_ref-pgs-soft_7-0" class="reference"><a href="#cite_note-pgs-soft-7">&#91;7&#93;</a></sup> was speculated to be based on <a href="/wiki/Hyper_Search" title="Hyper Search">Hyper Search</a> technology.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> On June 8, 2012 Marchiori announced with an open letter<sup id="cite_ref-letter_10-0" class="reference"><a href="#cite_note-letter-10">&#91;10&#93;</a></sup>  that he had been excluded from his project:<sup id="cite_ref-corriere-june_11-0" class="reference"><a href="#cite_note-corriere-june-11">&#91;11&#93;</a></sup> six days later, on June 14, 2012 the site went live, but it ceased to operate in February 2014.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Volunia&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Volunia_beta.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b3/Volunia_beta.png/220px-Volunia_beta.png" width="220" height="142" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b3/Volunia_beta.png/330px-Volunia_beta.png 1.5x, //upload.wikimedia.org/wikipedia/en/b/b3/Volunia_beta.png 2x" data-file-width="404" data-file-height="260" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Volunia_beta.png" class="internal" title="Enlarge"></a></div>The front page of Volunia, in March 2012.</div></div></div>
+<p>The name <i>Volunia</i> stems from the words “volo” (flight) and “luna” (moon), because – as Marchiori says – he wanted to evoke the <i>quantum leap</i> his social search engine was trying to deliver.<sup id="cite_ref-corriere_1-1" class="reference"><a href="#cite_note-corriere-1">&#91;1&#93;</a></sup> The Volunia project has been entirely developed in Italy: the head office is located in <a href="/wiki/Padua" title="Padua">Padua</a>, the servers are located in <a href="/wiki/Sardinia" title="Sardinia">Sardinia</a> and hosted by <a href="/wiki/Tiscali" title="Tiscali">Tiscali</a>,<sup id="cite_ref-corriere_1-2" class="reference"><a href="#cite_note-corriere-1">&#91;1&#93;</a></sup> and the whole team, formed by 14 people, is Italian.<sup class="noprint Inline-Template noprint Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="The_project">The project</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Volunia&amp;action=edit&amp;section=2" title="Edit section: The project">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Volunia differs from normal search engines in that, while it <a href="/wiki/Web_crawler" title="Web crawler">crawls</a> the web and <a href="/wiki/Web_indexing" title="Web indexing">indexes</a> websites, it builds the <a href="/wiki/Ranking" title="Ranking">ranking</a> using the comments and opinions of other users.
+The Volunia service allows people to interact with each other in every page they visit, as well as with the web sites' owners. Volunia uses a system similar to <a href="/wiki/Google_Sidewiki" title="Google Sidewiki">Sidewiki</a>. Volunia also introduces for the first time a "fly-over" <a href="/wiki/Map" title="Map">map</a> visualization for every web site, where every web site is turned into a city metaphor, also representing social information.<sup id="cite_ref-searchengineland_12-0" class="reference"><a href="#cite_note-searchengineland-12">&#91;12&#93;</a></sup><sup id="cite_ref-searchenginewatch_13-0" class="reference"><a href="#cite_note-searchenginewatch-13">&#91;13&#93;</a></sup>
+According to Marchiori, Volunia is not a competitor to the existing search engines, staying on an alternative level.<sup id="cite_ref-pgs-soft_7-1" class="reference"><a href="#cite_note-pgs-soft-7">&#91;7&#93;</a></sup> Despite what Marchiori said, some people in the internet community consider Volunia a challenge and a potential competitor for Google.<sup id="cite_ref-corriere_1-3" class="reference"><a href="#cite_note-corriere-1">&#91;1&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Volunia&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-corriere-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-corriere_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-corriere_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-corriere_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-corriere_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Caprara, Giovanni (7 February 2012). <a rel="nofollow" class="external text" href="http://www.corriere.it/International/english/articoli/2012/02/07/italy-answer-google.shtml">"Volunia, Italy's Answer to Google"</a>. <i>Il <a href="/wiki/Corriere_della_Sera" title="Corriere della Sera">Corriere della Sera</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 February</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Il+Corriere+della+Sera&amp;rft.atitle=Volunia%2C+Italy%E2%80%99s+Answer+to+Google&amp;rft.date=2012-02-07&amp;rft.aulast=Caprara&amp;rft.aufirst=Giovanni&amp;rft_id=http%3A%2F%2Fwww.corriere.it%2FInternational%2Fenglish%2Farticoli%2F2012%2F02%2F07%2Fitaly-answer-google.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVolunia" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Jha, Smriti (2012-02-07). <a rel="nofollow" class="external text" href="http://www.crazyengineers.com/volunia-italian-professors-search-engine-to-rival-google-1768/">"Volunia, Italian Professor's Search Engine To Rival Google"</a>. CrazyEngineers<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Volunia%2C+Italian+Professor%E2%80%99s+Search+Engine+To+Rival+Google&amp;rft.pub=CrazyEngineers&amp;rft.date=2012-02-07&amp;rft.aulast=Jha&amp;rft.aufirst=Smriti&amp;rft_id=http%3A%2F%2Fwww.crazyengineers.com%2Fvolunia-italian-professors-search-engine-to-rival-google-1768%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVolunia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://searchengineland.com/volunia-a-social-search-engine-says-the-web-has-come-alive-110462">"Volunia, A Social Search Engine, Invites Public To Kick The Tires"</a>. Searchengineland.com. 2012-02-07<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Volunia%2C+A+Social+Search+Engine%2C+Invites+Public+To+Kick+The+Tires&amp;rft.pub=Searchengineland.com&amp;rft.date=2012-02-07&amp;rft_id=http%3A%2F%2Fsearchengineland.com%2Fvolunia-a-social-search-engine-says-the-web-has-come-alive-110462&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVolunia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-lastampa-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-lastampa_4-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.lastampa.it/_web/cmstp/tmplrubriche/tecnologia/grubrica.asp?ID_blog=30&amp;ID_articolo=10059&amp;ID_sezione=38=">"Volunia, il primo motore di ricerca social pronto a sfidare Google"</a>. <i><a href="/wiki/La_Stampa" title="La Stampa">La Stampa</a></i>. 6 February 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">9 February</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=La+Stampa&amp;rft.atitle=Volunia%2C+il+primo+motore+di+ricerca+social+pronto+a+sfidare+Google&amp;rft.date=2012-02-06&amp;rft_id=http%3A%2F%2Fwww.lastampa.it%2F_web%2Fcmstp%2Ftmplrubriche%2Ftecnologia%2Fgrubrica.asp%3FID_blog%3D30%26ID_articolo%3D10059%26ID_sezione%3D38%3D&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVolunia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.prnewswire.com/news-releases/tr100-award-winner-launches-new-world-wide-search-engine-133869343.html">"TR100 Award Winner Launches new World-wide Search Engine"</a>. <a href="/wiki/PR_Newswire" title="PR Newswire">PR Newswire</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-11-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=TR100+Award+Winner+Launches+new+World-wide+Search+Engine&amp;rft_id=http%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Ftr100-award-winner-launches-new-world-wide-search-engine-133869343.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVolunia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.pcworld.com/article/244342/googles_search_algorithm_challenged.html">"Google's Search Algorithm Challenged"</a>. <i><a href="/wiki/PC_World" title="PC World">PC World</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-11-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PC+World&amp;rft.atitle=Google%27s+Search+Algorithm+Challenged&amp;rft_id=http%3A%2F%2Fwww.pcworld.com%2Farticle%2F244342%2Fgoogles_search_algorithm_challenged.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVolunia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-pgs-soft-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-pgs-soft_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pgs-soft_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://tech.pgs-soft.com/2012/02/10/volunia-wyszukiwarka-trzeciej-generacji/">"Volunia – wyszukiwanie trzeciej generacji – PGS Tech"</a> &#91;Volunia – third generation searching&#93; (in Polish). Tech.pgs-soft.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-12</span></span>. <q>wyszukiwarka trzeciej generacji ... jak mogłaby wyglądać wyszukiwarka przyszłości</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Volunia+%E2%80%93+wyszukiwanie+trzeciej+generacji+%E2%80%93+PGS+Tech&amp;rft.pub=Tech.pgs-soft.com&amp;rft_id=http%3A%2F%2Ftech.pgs-soft.com%2F2012%2F02%2F10%2Fvolunia-wyszukiwarka-trzeciej-generacji%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVolunia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://wmntoday.blogspot.com/2011/12/volunia-alternate-to-google-expected-to.html">"Volunia an alternate to Google Search"</a>. WMNToday<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-12-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Volunia+an+alternate+to+Google+Search&amp;rft.pub=WMNToday&amp;rft_id=http%3A%2F%2Fwmntoday.blogspot.com%2F2011%2F12%2Fvolunia-alternate-to-google-expected-to.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVolunia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="http://www.datacrowd.net/"><i>People search Engine</i></a>. Data Crowd. 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">7 April</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=People+search+Engine&amp;rft.pub=Data+Crowd&amp;rft.date=2014&amp;rft_id=http%3A%2F%2Fwww.datacrowd.net%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVolunia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-letter-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-letter_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.repubblica.it/tecnologia/2012/06/08/news/lettera_marchiori_volunia-36803641/">"Dico addio a Volunia e vi spiego perché"</a> (in Italian). Divisione Stampa Nazionale — Gruppo Editoriale L’Espresso.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dico+addio+a+Volunia+e+vi+spiego+perch%C3%A9&amp;rft.pub=Divisione+Stampa+Nazionale+%E2%80%94+Gruppo+Editoriale+L%E2%80%99Espresso&amp;rft_id=http%3A%2F%2Fwww.repubblica.it%2Ftecnologia%2F2012%2F06%2F08%2Fnews%2Flettera_marchiori_volunia-36803641%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVolunia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-corriere-june-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-corriere-june_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.corriere.it/cronache/12_giugno_08/voluni-addio-marchioni-cacciato-lettera_c0fee8d8-b199-11e1-ba93-c93b078addf8.shtml">"C'è baruffa su Volunia, l'anti-Google italiano; Il fondatore&#160;: "Mi hanno fatto fuori<span class="cs1-kern-right">"</span>"</a> &#91;Troubles on Volunia, the Italian anti-Google; the founder&#160;: "I have been kicked off"&#93;. <i>Corriere della Sera</i> (in Italian). 2012-06-08<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-06-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Corriere+della+Sera&amp;rft.atitle=C%27%C3%A8+baruffa+su+Volunia%2C+l%27anti-Google+italiano%3B+Il+fondatore+%3A+%22Mi+hanno+fatto+fuori%22&amp;rft.date=2012-06-08&amp;rft_id=http%3A%2F%2Fwww.corriere.it%2Fcronache%2F12_giugno_08%2Fvoluni-addio-marchioni-cacciato-lettera_c0fee8d8-b199-11e1-ba93-c93b078addf8.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVolunia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-searchengineland-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-searchengineland_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Sean Carlos (2012-02-07). <a rel="nofollow" class="external text" href="http://searchengineland.com/volunia-a-social-search-engine-says-the-web-has-come-alive-110462">"Volunia, A Social Search Engine, Says The Web Has Come Alive"</a>. Search Engine Land.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Volunia%2C+A+Social+Search+Engine%2C+Says+The+Web+Has+Come+Alive&amp;rft.pub=Search+Engine+Land&amp;rft.date=2012-02-07&amp;rft.au=Sean+Carlos&amp;rft_id=http%3A%2F%2Fsearchengineland.com%2Fvolunia-a-social-search-engine-says-the-web-has-come-alive-110462&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVolunia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-searchenginewatch-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-searchenginewatch_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Miranda Miller (2012-03-14). <a rel="nofollow" class="external text" href="http://searchenginewatch.com/article/2159251/When-Will-Social-Search-Engine-Volunia-Deliver-its-Quantum-Leap">"When Will Social Search Engine Volunia Deliver its Quantum Leap?"</a>. Search Engine Watch.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=When+Will+Social+Search+Engine+Volunia+Deliver+its+Quantum+Leap%3F&amp;rft.pub=Search+Engine+Watch&amp;rft.date=2012-03-14&amp;rft.au=Miranda+Miller&amp;rft_id=http%3A%2F%2Fsearchenginewatch.com%2Farticle%2F2159251%2FWhen-Will-Social-Search-Engine-Volunia-Deliver-its-Quantum-Leap&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVolunia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Roberto Bonzio. <a rel="nofollow" class="external text" href="https://www.forbes.com/sites/robertobonzio/2012/02/06/google-inspirator-launches-his-challenge-in-web-searching/">"Google "Inspirator" launches his challenge in Web Searching with volunia.com"</a>. <i>Forbes</i> (in Italian)<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Forbes&amp;rft.atitle=Google+%22Inspirator%22+launches+his+challenge+in+Web+Searching+with+volunia.com&amp;rft.au=Roberto+Bonzio&amp;rft_id=https%3A%2F%2Fwww.forbes.com%2Fsites%2Frobertobonzio%2F2012%2F02%2F06%2Fgoogle-inspirator-launches-his-challenge-in-web-searching%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVolunia" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2198
+Cached time: 20180929154453
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.320 seconds
+Real time usage: 0.399 seconds
+Preprocessor visited node count: 1340/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 25521/2097152 bytes
+Template argument size: 517/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 37647/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.178/10.000 seconds
+Lua memory usage: 4.68 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  368.245      1 -total
+ 48.24%  177.630      1 Template:Reflist
+ 34.64%  127.561      1 Template:Infobox_Website
+ 25.04%   92.219      1 Template:Infobox
+ 20.31%   74.804      2 Template:Cite_news
+ 18.67%   68.767     11 Template:Cite_web
+ 12.32%   45.369      1 Template:Fix
+  7.89%   29.063      2 Template:Category_handler
+  4.21%   15.518      3 Template:If_empty
+  3.41%   12.552      1 Template:Delink
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:33805369-0!canonical and timestamp 20180929154452 and revision id 840367790
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Volunia&amp;oldid=840367790">https://en.wikipedia.org/w/index.php?title=Volunia&amp;oldid=840367790</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Polish-language_sources_(pl)" title="Category:CS1 Polish-language sources (pl)">CS1 Polish-language sources (pl)</a></li><li><a href="/wiki/Category:CS1_Italian-language_sources_(it)" title="Category:CS1 Italian-language sources (it)">CS1 Italian-language sources (it)</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Volunia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Volunia" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Volunia" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Volunia" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Volunia">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Volunia&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Volunia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Volunia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Volunia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Volunia&amp;oldid=840367790" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Volunia&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11166089" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Volunia&amp;id=840367790" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Volunia">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Volunia&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Volunia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Volunia" title="Volunia – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11166089#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 9 May 2018, at 12:50<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Volunia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.320","walltime":"0.399","ppvisitednodes":{"value":1340,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":25521,"limit":2097152},"templateargumentsize":{"value":517,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":37647,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  368.245      1 -total"," 48.24%  177.630      1 Template:Reflist"," 34.64%  127.561      1 Template:Infobox_Website"," 25.04%   92.219      1 Template:Infobox"," 20.31%   74.804      2 Template:Cite_news"," 18.67%   68.767     11 Template:Cite_web"," 12.32%   45.369      1 Template:Fix","  7.89%   29.063      2 Template:Category_handler","  4.21%   15.518      3 Template:If_empty","  3.41%   12.552      1 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.178","limit":"10.000"},"limitreport-memusage":{"value":4903557,"limit":52428800}},"cachereport":{"origin":"mw2198","timestamp":"20180929154453","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":66,"wgHostname":"mw2240"});});</script>
+	</body>
+</html>

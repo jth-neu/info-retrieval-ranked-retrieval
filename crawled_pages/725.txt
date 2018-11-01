@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Case law - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Case_law","wgTitle":"Case law","wgCurRevisionId":851996047,"wgRevisionId":851996047,"wgArticleId":215403,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing rewrite from December 2016","All articles needing rewrite","Case law"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Case_law","wgRelevantArticleId":215403,"wgRequestId":"W6@AnQrAMF4AAIdTstsAAAAT","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q11022655","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Case_law"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Case_law&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Case_law&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Case_law"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Case_law rootpage-Case_law skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Case law</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Case law</b> is a set of past rulings by tribunals that meet their respective jurisdictions' rules to be cited as <a href="/wiki/Precedent" title="Precedent">precedent</a>.  These interpretations are distinguished from <a href="/wiki/Statutory_law" title="Statutory law">statutory law</a>, which are the statutes and codes enacted by legislative bodies, and <a href="/wiki/Regulatory_law" title="Regulatory law">regulatory law</a>, which are regulations established by executive agencies based on statutes.   The term "case law" is applied to any set of previous rulings by an adjudicatory tribunal that guides future rulings; for example, patent office case law.
+</p><p>In <a href="/wiki/Common_law#Disambiguate_civil_law" title="Common law">common law</a> countries the term is used for <a href="/wiki/Judgment_(law)" title="Judgment (law)">judicial decisions</a> of selected <a href="/wiki/Appellate_court" title="Appellate court">appellate courts</a>, <a href="/wiki/Court" title="Court">courts</a> of <a href="/wiki/First_instance" class="mw-redirect" title="First instance">first instance</a>, agency tribunals, and other bodies discharging adjudicatory functions.  In <a href="/wiki/Common_law" title="Common law">common law</a> countries, "case law" is a near-exact synonym for "<a href="/wiki/Common_law#Disambiguate_statute" title="Common law">common law</a>".<sup id="cite_ref-GarnerUsageDef0_1-0" class="reference"><a href="#cite_note-GarnerUsageDef0-1">&#91;1&#93;</a></sup><sup id="cite_ref-Blacks10thDef1_2-0" class="reference"><a href="#cite_note-Blacks10thDef1-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#In_common_law_systems"><span class="tocnumber">1</span> <span class="toctext">In common law systems</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#How_case_law_is_made"><span class="tocnumber">2</span> <span class="toctext">How case law is made</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Nordic_nations"><span class="tocnumber">3</span> <span class="toctext">Nordic nations</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="In_common_law_systems">In common law systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Case_law&amp;action=edit&amp;section=1" title="Edit section: In common law systems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:CanadianCriminalCases.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/CanadianCriminalCases.jpg/220px-CanadianCriminalCases.jpg" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/CanadianCriminalCases.jpg/330px-CanadianCriminalCases.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/CanadianCriminalCases.jpg/440px-CanadianCriminalCases.jpg 2x" data-file-width="4928" data-file-height="3264" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:CanadianCriminalCases.jpg" class="internal" title="Enlarge"></a></div>Criminal cases</div></div></div>
+<p>In the <a href="/wiki/Common_law" title="Common law">common law</a> tradition, courts decide the law applicable to a case by interpreting statutes and applying <a href="/wiki/Precedent" title="Precedent">precedents</a> which record how and why prior <a href="/wiki/Legal_case" title="Legal case">cases</a> have been decided.  Unlike most civil law systems, common law systems follow the doctrine of <a href="/wiki/Stare_decisis" class="mw-redirect" title="Stare decisis">stare decisis</a>, by which most courts are bound by their own previous decisions in similar cases, and all lower courts should make decisions consistent with previous decisions of higher courts.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> For example, in England, the <a href="/wiki/High_Court" title="High Court">High Court</a> and the <a href="/wiki/Court_of_Appeal" class="mw-redirect" title="Court of Appeal">Court of Appeal</a> are each bound by their own previous decisions, but the <a href="/wiki/Supreme_Court_of_the_United_Kingdom" title="Supreme Court of the United Kingdom">Supreme Court of the United Kingdom</a> is able to deviate from its earlier decisions, although in practice it rarely does so.
+</p><p>Generally speaking, higher courts do not have direct oversight over the lower <a href="/wiki/Court_of_record" title="Court of record">courts of record</a>, in that they cannot reach out on their own initiative (<i>sua sponte</i>) at any time to overrule judgments of the lower courts.  Normally, the burden rests with litigants to appeal rulings (including those in clear violation of established case law) to the higher courts. If a judge acts against precedent and the case is not <a href="/wiki/Appeal" title="Appeal">appealed</a>, the decision will stand.
+</p><p>A lower court may not rule against a binding precedent, even if it feels that it is unjust; it may only express the hope that a higher court or the legislature will reform the rule in question. If the court believes that developments or trends in legal reasoning render the precedent unhelpful, and wishes to evade it and help the law evolve, it may either hold that the precedent is inconsistent with subsequent authority, or that it should be <i>distinguished</i> by some material difference between the facts of the cases. If that judgment goes to appeal, the appellate court will have the opportunity to review both the precedent and the case under appeal, perhaps overruling the previous case law by setting a new precedent of higher authority. This may happen several times as the case works its way through successive appeals. <a href="/wiki/Lord_Denning" class="mw-redirect" title="Lord Denning">Lord Denning</a>, first of the <a href="/wiki/High_Court_of_Justice_of_England_and_Wales" class="mw-redirect" title="High Court of Justice of England and Wales">High Court of Justice</a>, later of the <a href="/wiki/Court_of_Appeal_of_England_and_Wales" class="mw-redirect" title="Court of Appeal of England and Wales">Court of Appeal</a>, provided a famous example of this evolutionary process in his development of the concept of <a href="/wiki/Estoppel" title="Estoppel">estoppel</a> starting in the <i>High Trees</i> case: <i><a href="/wiki/Central_London_Property_Trust_Ltd_v._High_Trees_House_Ltd" class="mw-redirect" title="Central London Property Trust Ltd v. High Trees House Ltd">Central London Property Trust Ltd v. High Trees House Ltd</a></i> [1947] K.B. 130.
+</p>
+<h2><span class="mw-headline" id="How_case_law_is_made">How case law is made</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Case_law&amp;action=edit&amp;section=2" title="Edit section: How case law is made">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Crystal_Clear_app_kedit.svg" class="image"><img alt="Crystal Clear app kedit.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crystal_Clear_app_kedit.svg/40px-Crystal_Clear_app_kedit.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crystal_Clear_app_kedit.svg/60px-Crystal_Clear_app_kedit.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crystal_Clear_app_kedit.svg/80px-Crystal_Clear_app_kedit.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section may need to be <b>rewritten entirely</b> to comply with Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a>.<span class="hide-when-compact"> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Case_law&amp;action=edit">You can help</a>. The <a href="/wiki/Talk:Case_law" title="Talk:Case law">discussion page</a> may contain suggestions.</span>  <small><i>(December 2016)</i></small></div></td></tr></tbody></table>
+<p>The different roles of case law in civil and common law traditions create differences in the way that courts render decisions. Common law courts generally explain in detail the legal rationale behind their decisions, with citations of both legislation and previous relevant judgments, and often an exegesis of the wider legal principles. The necessary analysis (called <i><a href="/wiki/Ratio_decidendi" title="Ratio decidendi">ratio decidendi</a></i>), then constitutes a <a href="/wiki/Precedent" title="Precedent">precedent</a> binding on other courts; further analyses not strictly necessary to the determination of the current case are called <i><a href="/wiki/Obiter_dicta" class="mw-redirect" title="Obiter dicta">obiter dicta</a></i>, which constitute <a href="/wiki/Persuasive_authority" class="mw-redirect" title="Persuasive authority">persuasive authority</a> but are not technically binding. By contrast, decisions in civil law jurisdictions are generally very short, referring only to <a href="/wiki/Statute" title="Statute">statutes</a>. The reason for this difference is that these civil law jurisdictions adhere to a tradition that the reader should be able to deduce the logic from the decision and the statutes, so that, in some cases, it is somewhat difficult to apply previous decisions to the facts presented in future cases. 
+</p><p>Some <a href="/wiki/Legal_pluralism" title="Legal pluralism">pluralist</a> systems, such as <a href="/wiki/Scots_law" title="Scots law">Scots law</a> in <a href="/wiki/Scotland" title="Scotland">Scotland</a> and so-called civil law jurisdictions in <a href="/wiki/Quebec" title="Quebec">Quebec</a> and <a href="/wiki/Louisiana" title="Louisiana">Louisiana</a>, do not precisely fit into the dual "common-civil" law system classifications. Such systems may have been heavily influenced by the <a href="/wiki/Anglo-America" title="Anglo-America">Anglo-American</a> common law tradition; however, their substantive law is firmly rooted in the civil law tradition.  Because of their position between the two main systems of law, these types of legal systems are sometimes referred to as "mixed" systems of law.
+</p><p>Law <a href="/wiki/Professor" title="Professor">professors</a> in common law traditions play a much smaller role in developing case law than professors in civil law traditions.  Because court decisions in civil law traditions are brief and not amenable to establishing precedent, much of the exposition of the law in civil law traditions is done by academics rather than by judges; this is called <a href="/wiki/Doctrine" title="Doctrine">doctrine</a> and may be published in treatises or in journals such as <i><a href="/wiki/Recueil_Dalloz" class="mw-redirect" title="Recueil Dalloz">Recueil Dalloz</a></i> in France.  Historically, common law courts relied little on legal scholarship; thus, at the turn of the twentieth century, it was very rare to see an academic writer quoted in a legal decision (except perhaps for the academic writings of prominent judges such as <a href="/wiki/Edward_Coke" title="Edward Coke">Coke</a> and <a href="/wiki/William_Blackstone" title="William Blackstone">Blackstone</a>). Today academic writers are often cited in legal argument and decisions as <a href="/wiki/Persuasive_authority" class="mw-redirect" title="Persuasive authority">persuasive authority</a>; often, they are cited when judges are attempting to implement reasoning that other courts have not yet adopted, or when the judge believes the academic's restatement of the law is more compelling than can be found in precedent. Thus common law systems are adopting one of the approaches long common in civil law jurisdictions.
+</p><p>Judges may refer to various types of <a href="/wiki/Persuasive_authority" class="mw-redirect" title="Persuasive authority">persuasive authority</a> to reach a decision in a case. Widely cited non-binding sources include legal <a href="/wiki/Encyclopedia" title="Encyclopedia">encyclopedias</a> such as <i><a href="/wiki/Corpus_Juris_Secundum" title="Corpus Juris Secundum">Corpus Juris Secundum</a></i> and <i><a href="/wiki/Halsbury%27s_Laws_of_England" title="Halsbury&#39;s Laws of England">Halsbury's Laws of England</a></i>,  or the published work of the <a href="/wiki/Law_Commission" class="mw-redirect" title="Law Commission">Law Commission</a> or the <a href="/wiki/American_Law_Institute" title="American Law Institute">American Law Institute</a>. Some bodies are given statutory powers to issue Guidance with persuasive authority or similar statutory effect, such as the <a href="/wiki/Highway_Code" class="mw-redirect" title="Highway Code">Highway Code</a>.
+</p><p>In federal or multi-jurisdictional law systems there may exist conflicts between the various lower appellate courts. Sometimes these differences may not be resolved and it may be necessary to distinguish how the law is applied in one <a href="/wiki/District" title="District">district</a>, province, division or <a href="/wiki/Appellate_court" title="Appellate court">appellate department</a>. Usually only an appeal accepted by the <a href="/wiki/Court_of_last_resort" class="mw-redirect" title="Court of last resort">court of last resort</a> will resolve such differences and, for many reasons, such appeals are often not granted.
+</p><p>Any court may seek to distinguish its present case from that of a binding precedent, in order to reach a different conclusion. The validity of such a distinction may or may not be accepted on appeal. An appellate court may also propound an entirely new and different analysis from that of junior courts, and may or may not be bound by its own previous decisions, or in any case may distinguish them on the facts.
+</p><p>Where there are several members of a court, there may be one or more judgments given; only the ratio decidendi of the majority can constitute a binding precedent, but all may be cited as persuasive, or their reasoning may be adopted in argument. Quite apart from the rules of precedent, the weight actually given to any reported judgment may depend on the reputation of both the reporter and the judges.
+</p>
+<h2><span class="mw-headline" id="Nordic_nations">Nordic nations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Case_law&amp;action=edit&amp;section=3" title="Edit section: Nordic nations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The legal systems of the <a href="/wiki/Nordic_countries" title="Nordic countries">Nordic countries</a> are sometimes included among the civil law systems, but as a separate branch, and sometimes counted as separate from the civil law tradition. In <a href="/wiki/Sweden" title="Sweden">Sweden</a>, for instance, case law arguably plays a more important role than in some of the Continental civil law systems. The two highest courts, the <a href="/wiki/Supreme_Court_of_Sweden" title="Supreme Court of Sweden">Supreme Court</a> (<i>Högsta domstolen</i>) and the <a href="/wiki/Supreme_Administrative_Court_of_Sweden" title="Supreme Administrative Court of Sweden">Supreme Administrative Court</a> (<i>Regeringsrätten</i>), have the right to set precedent which is in practice (however not formally) binding on all future application of the law. Courts of appeal, both general courts (<i>hovrätter</i>) and administrative courts (<i>kammarrätter</i>) may also issue decisions that act as guides for the application of the law, but these decisions may be overturned by higher courts.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Case_law&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Legal_opinion" title="Legal opinion">Legal opinion</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Case_law&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-GarnerUsageDef0-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-GarnerUsageDef0_1-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFGarner2001" class="citation book">Garner, Bryan A. (2001). <i>A Dictionary of Modern Legal Usage</i> (2nd, revised ed.). New York: <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a>. p.&#160;177. <q>In modern usage, <i>common law</i> is contrasted with a number of other terms. First, in denoting the body of judge-made law based on that developed in England… [P]erhaps most commonly within Anglo-American jurisdictions, <i>common law</i> is contrasted with <i>statutory law</i> ...</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Dictionary+of+Modern+Legal+Usage&amp;rft.place=New+York&amp;rft.pages=177&amp;rft.edition=2nd%2C+revised&amp;rft.pub=Oxford+University+Press&amp;rft.date=2001&amp;rft.aulast=Garner&amp;rft.aufirst=Bryan+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACase+law" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Blacks10thDef1-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Blacks10thDef1_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><i>Black's Law Dictionary - Common law</i> (10th ed.). 2014. p.&#160;334. <q>1. The body of law derived from judicial decisions, rather than from statutes or constitutions; CASE LAW [contrast to] STATUTORY LAW.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Black%27s+Law+Dictionary+-+Common+law&amp;rft.pages=334&amp;rft.edition=10th&amp;rft.date=2014&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACase+law" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Apple, James G. <a rel="nofollow" class="external text" href="https://www.fjc.gov/sites/default/files/2012/CivilLaw.pdf">"A Primer on the Civil-Law System"</a> <span class="cs1-format">(PDF)</span>. <i>fjc.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">4 May</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=fjc.gov&amp;rft.atitle=A+Primer+on+the+Civil-Law+System&amp;rft.aulast=Apple&amp;rft.aufirst=James+G.&amp;rft_id=https%3A%2F%2Fwww.fjc.gov%2Fsites%2Fdefault%2Ffiles%2F2012%2FCivilLaw.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACase+law" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Case_law&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://caselawpedia.wikidot.com/">interactive database of European judgments of national courts in the EU</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Law" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="text-align:center;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Law" title="Template:Law"><abbr title="View this template" style="text-align:center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Law" title="Template talk:Law"><abbr title="Discuss this template" style="text-align:center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Law&amp;action=edit"><abbr title="Edit this template" style="text-align:center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Law" style="font-size:114%;margin:0 4em"><a href="/wiki/Law" title="Law">Law</a></div></th></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1%"><a href="/wiki/Law#Legal_subjects" title="Law">Core subjects</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Administrative_law" title="Administrative law">Administrative law</a></li>
+<li><a href="/wiki/Constitutional_law" title="Constitutional law">Constitutional law</a></li>
+<li><a href="/wiki/Contract" title="Contract">Contract</a></li>
+<li><a href="/wiki/Criminal_law" title="Criminal law">Criminal law</a></li>
+<li><a href="/wiki/Deed" title="Deed">Deed</a></li>
+<li><a href="/wiki/Equity_(law)" title="Equity (law)">Equity</a></li>
+<li><a href="/wiki/Evidence_(law)" title="Evidence (law)">Evidence</a></li>
+<li><a href="/wiki/International_law" title="International law">International law</a></li>
+<li><a href="/wiki/Law_of_obligations" title="Law of obligations">Law of obligations</a></li>
+<li><a href="/wiki/Procedural_law" title="Procedural law">Procedure</a>
+<ul><li><a href="/wiki/Civil_procedure" title="Civil procedure">Civil</a></li>
+<li><a href="/wiki/Criminal_procedure" title="Criminal procedure">Criminal</a></li></ul></li>
+<li><a href="/wiki/Property_law" title="Property law">Property law</a></li>
+<li><a href="/wiki/Public_law" title="Public law">Public law</a></li>
+<li><a href="/wiki/Restitution" title="Restitution">Restitution</a></li>
+<li><a href="/wiki/Statutory_law" title="Statutory law">Statutory law</a></li>
+<li><a href="/wiki/Tort" title="Tort">Tort</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1%"><a href="/wiki/Law#Further_disciplines" title="Law">Other subjects</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agricultural_law" title="Agricultural law">Agricultural law</a></li>
+<li><a href="/wiki/Aviation_law" title="Aviation law">Aviation law</a></li>
+<li><a href="/wiki/Bank_regulation" title="Bank regulation">Banking law</a></li>
+<li><a href="/wiki/Bankruptcy" title="Bankruptcy">Bankruptcy</a></li>
+<li><a href="/wiki/Commercial_law" title="Commercial law">Commercial law</a></li>
+<li><a href="/wiki/Competition_law" title="Competition law">Competition law</a></li>
+<li><a href="/wiki/Conflict_of_laws" title="Conflict of laws">Conflict of laws</a></li>
+<li><a href="/wiki/Construction_law" title="Construction law">Construction law</a></li>
+<li><a href="/wiki/Consumer_protection" title="Consumer protection">Consumer protection</a></li>
+<li><a href="/wiki/Corporate_law" title="Corporate law">Corporate law</a></li>
+<li><a href="/wiki/IT_law" title="IT law">Cyberlaw</a></li>
+<li><a href="/wiki/Election_law" title="Election law">Election law</a></li>
+<li><a href="/wiki/Energy_law" title="Energy law">Energy law</a></li>
+<li><a href="/wiki/Entertainment_law" title="Entertainment law">Entertainment law</a></li>
+<li><a href="/wiki/Environmental_law" title="Environmental law">Environmental law</a></li>
+<li><a href="/wiki/Family_law" title="Family law">Family law</a></li>
+<li><a href="/wiki/Financial_law" title="Financial law">Financial law</a></li>
+<li><a href="/wiki/Financial_regulation" title="Financial regulation">Financial regulation</a></li>
+<li><a href="/wiki/Health_law" title="Health law">Health law</a></li>
+<li><a href="/wiki/Immigration_law" title="Immigration law">Immigration law</a></li>
+<li><a href="/wiki/Intellectual_property" title="Intellectual property">Intellectual property</a></li>
+<li><a href="/wiki/International_criminal_law" title="International criminal law">International criminal law</a></li>
+<li><a href="/wiki/International_human_rights_law" title="International human rights law">International human rights</a></li>
+<li><a href="/wiki/Slavery_in_international_law" title="Slavery in international law">International slavery laws</a></li>
+<li><a href="/wiki/Labour_law" title="Labour law">Labour</a></li>
+<li><a href="/wiki/Law_of_war" title="Law of war">Law of war</a></li>
+<li><a href="/wiki/Legal_archaeology" title="Legal archaeology">Legal archaeology</a></li>
+<li><a href="/wiki/Legal_fiction" title="Legal fiction">Legal fiction</a></li>
+<li><a href="/wiki/Admiralty_law" title="Admiralty law">Maritime law</a></li>
+<li><a href="/wiki/Entertainment_law" title="Entertainment law">Media law</a></li>
+<li><a href="/wiki/Military_justice" title="Military justice">Military law</a></li>
+<li><a href="/wiki/Probate" title="Probate">Probate</a>
+<ul><li><a href="/wiki/Estate_(law)" title="Estate (law)">Estate</a></li>
+<li><a href="/wiki/Will_and_testament" title="Will and testament">Will and testament</a></li></ul></li>
+<li><a href="/wiki/Product_liability" title="Product liability">Product liability</a></li>
+<li><a href="/wiki/International_law" title="International law">Public international law</a></li>
+<li><a href="/wiki/Space_law" title="Space law">Space law</a></li>
+<li><a href="/wiki/Sports_law_in_the_United_States" title="Sports law in the United States">Sports law</a></li>
+<li><a href="/wiki/Tax_law" title="Tax law">Tax law</a></li>
+<li><a href="/wiki/Transport_law" title="Transport law">Transport law</a></li>
+<li><a href="/wiki/Trust_law" title="Trust law">Trust law</a></li>
+<li><a href="/wiki/Women_in_law" title="Women in law">Women in law</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1%"><a href="/wiki/Sources_of_law" title="Sources of law">Sources of law</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Charter" title="Charter">Charter</a></li>
+<li><a href="/wiki/Constitution" title="Constitution">Constitution</a></li>
+<li><a href="/wiki/Custom_(law)" title="Custom (law)">Custom</a></li>
+<li><a href="/wiki/Divine_right_of_kings" title="Divine right of kings">Divine right</a></li>
+<li><a href="/wiki/Human_rights" title="Human rights">Human rights</a></li>
+<li><a href="/wiki/Natural_and_legal_rights" title="Natural and legal rights">Natural and legal rights</a></li>
+<li><a class="mw-selflink selflink">Case law</a>
+<ul><li><a href="/wiki/Precedent" title="Precedent">Precedent</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1%">Law making</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ballot_measure" title="Ballot measure">Ballot measure</a></li>
+<li><a href="/wiki/Codification_(law)" title="Codification (law)">Codification</a></li>
+<li><a href="/wiki/Decree" title="Decree">Decree</a>
+<ul><li><a href="/wiki/Edict" title="Edict">Edict</a></li>
+<li><a href="/wiki/Executive_order_(disambiguation)" class="mw-disambig" title="Executive order (disambiguation)">Executive order</a></li>
+<li><a href="/wiki/Proclamation" title="Proclamation">Proclamation</a></li></ul></li>
+<li><a href="/wiki/Legislation" title="Legislation">Legislation</a>
+<ul><li><a href="/wiki/Primary_and_secondary_legislation" title="Primary and secondary legislation">Delegated legislation</a></li>
+<li><a href="/wiki/Regulation" title="Regulation">Regulation</a></li>
+<li><a href="/wiki/Rulemaking" title="Rulemaking">Rulemaking</a></li></ul></li>
+<li><a href="/wiki/Promulgation" title="Promulgation">Promulgation</a></li>
+<li><a href="/wiki/Repeal" title="Repeal">Repeal</a></li>
+<li><a href="/wiki/Treaty" title="Treaty">Treaty</a></li>
+<li><a href="/wiki/Statutory_law" title="Statutory law">Statutory law</a>
+<ul><li><a href="/wiki/Statute" title="Statute">Statute</a></li>
+<li><a href="/wiki/Act_of_Parliament" title="Act of Parliament">Act of Parliament</a></li>
+<li><a href="/wiki/Act_of_Congress" title="Act of Congress">Act of Congress (US)</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1%"><a href="/wiki/List_of_national_legal_systems" title="List of national legal systems">Legal systems</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Civil_law_(legal_system)" title="Civil law (legal system)">Civil law</a></li>
+<li><a href="/wiki/Common_law" title="Common law">Common law</a></li>
+<li><a href="/wiki/Chinese_law" title="Chinese law">Chinese law</a></li>
+<li><a href="/wiki/Legal_pluralism" title="Legal pluralism">Legal pluralism</a></li>
+<li><a href="/wiki/Religious_law" title="Religious law">Religious law</a>
+<ul><li><a href="/wiki/Canon_law" title="Canon law">Canon law</a></li>
+<li><a href="/wiki/Hindu_law" title="Hindu law">Hindu law</a></li>
+<li><a href="/wiki/Jain_Law" class="mw-redirect" title="Jain Law">Jain Law</a></li>
+<li><a href="/wiki/Halakha" title="Halakha">Jewish law</a></li>
+<li><a href="/wiki/Sharia" title="Sharia">Sharia</a></li></ul></li>
+<li><a href="/wiki/Roman_law" title="Roman law">Roman law</a></li>
+<li><a href="/wiki/Socialist_law" title="Socialist law">Socialist law</a></li>
+<li><a href="/wiki/Statutory_law" title="Statutory law">Statutory law</a></li>
+<li><a href="/wiki/Xeer" title="Xeer">Xeer</a></li>
+<li><a href="/wiki/Yassa" title="Yassa">Yassa</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1%"><a href="/wiki/Law#Legal_theory" title="Law">Legal theory</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Critical_legal_studies" title="Critical legal studies">Critical legal studies</a></li>
+<li><a href="/wiki/Comparative_law" title="Comparative law">Comparative law</a></li>
+<li><a href="/wiki/Feminist_legal_theory" title="Feminist legal theory">Feminist</a></li>
+<li><a href="/wiki/Law_and_economics" title="Law and economics">Law and economics</a></li>
+<li><a href="/wiki/Legal_formalism" title="Legal formalism">Legal formalism</a></li>
+<li><a href="/wiki/Legal_history" title="Legal history">History</a></li>
+<li><a href="/wiki/Natural_law" title="Natural law">Natural law</a></li>
+<li><a href="/wiki/International_legal_theories" title="International legal theories">International legal theory</a></li>
+<li><a href="/wiki/Legality" title="Legality">Principle of legality</a></li>
+<li><a href="/wiki/Rule_of_law" title="Rule of law">Rule of law</a></li>
+<li><a href="/wiki/Sociology_of_law" title="Sociology of law">Sociology</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1%"><a href="/wiki/Jurisprudence" title="Jurisprudence">Jurisprudence</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Adjudication" title="Adjudication">Adjudication</a></li>
+<li><a href="/wiki/Administration_of_justice" title="Administration of justice">Administration of justice</a></li>
+<li><a href="/wiki/Criminal_justice" title="Criminal justice">Criminal justice</a></li>
+<li><a href="/wiki/Court-martial" title="Court-martial">Court-martial</a></li>
+<li><a href="/wiki/Dispute_resolution" title="Dispute resolution">Dispute resolution</a></li>
+<li><a href="/wiki/Fiqh" title="Fiqh">Fiqh</a></li>
+<li><a href="/wiki/Lawsuit" title="Lawsuit">Lawsuit/Litigation</a></li>
+<li><a href="/wiki/Legal_opinion" title="Legal opinion">Legal opinion</a></li>
+<li><a href="/wiki/Legal_remedy" title="Legal remedy">Legal remedy</a></li>
+<li><a href="/wiki/Judge" title="Judge">Judge</a>
+<ul><li><a href="/wiki/Justice_of_the_peace" title="Justice of the peace">Justice of the peace</a></li>
+<li><a href="/wiki/Magistrate" title="Magistrate">Magistrate</a></li></ul></li>
+<li><a href="/wiki/Judgment_(law)" title="Judgment (law)">Judgment</a></li>
+<li><a href="/wiki/Judicial_review" title="Judicial review">Judicial review</a></li>
+<li><a href="/wiki/Jurisdiction" title="Jurisdiction">Jurisdiction</a></li>
+<li><a href="/wiki/Jury" title="Jury">Jury</a></li>
+<li><a href="/wiki/Justice" title="Justice">Justice</a></li>
+<li><a href="/wiki/Practice_of_law" title="Practice of law">Practice of law</a>
+<ul><li><a href="/wiki/Attorney_at_law" title="Attorney at law">Attorney</a></li>
+<li><a href="/wiki/Barrister" title="Barrister">Barrister</a></li>
+<li><a href="/wiki/Counsel" title="Counsel">Counsel</a></li>
+<li><a href="/wiki/Lawyer" title="Lawyer">Lawyer</a></li>
+<li><a href="/wiki/Defense_(legal)" title="Defense (legal)">Legal representation</a></li>
+<li><a href="/wiki/Prosecutor" title="Prosecutor">Prosecutor</a></li>
+<li><a href="/wiki/Solicitor" title="Solicitor">Solicitor</a></li></ul></li>
+<li><a href="/wiki/Question_of_law#Question_of_fact" title="Question of law">Question of fact</a></li>
+<li><a href="/wiki/Question_of_law" title="Question of law">Question of law</a></li>
+<li><a href="/wiki/Trial" title="Trial">Trial</a></li>
+<li><a href="/wiki/Trial_advocacy" title="Trial advocacy">Trial advocacy</a></li>
+<li><a href="/wiki/Trier_of_fact" title="Trier of fact">Trier of fact</a></li>
+<li><a href="/wiki/Verdict" title="Verdict">Verdict</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1%"><a href="/wiki/Law#Legal_institutions" title="Law">Legal institutions</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bureaucracy" title="Bureaucracy">Bureaucracy</a></li>
+<li><a href="/wiki/Bar_(law)" title="Bar (law)">The bar</a></li>
+<li><a href="/wiki/Bench_(law)" title="Bench (law)">The bench</a></li>
+<li><a href="/wiki/Civil_society" title="Civil society">Civil society</a></li>
+<li><a href="/wiki/Court" title="Court">Court</a></li>
+<li><a href="/wiki/Election_commission" title="Election commission">Election commission</a></li>
+<li><a href="/wiki/Executive_(government)" title="Executive (government)">Executive</a></li>
+<li><a href="/wiki/Judiciary" title="Judiciary">Judiciary</a></li>
+<li><a href="/wiki/Law_enforcement" title="Law enforcement">Law enforcement</a></li>
+<li><a href="/wiki/Legal_education" title="Legal education">Legal education</a>
+<ul><li><a href="/wiki/Law_school" title="Law school">Law school</a></li></ul></li>
+<li><a href="/wiki/Legislature" title="Legislature">Legislature</a></li>
+<li><a href="/wiki/Military" title="Military">Military</a></li>
+<li><a href="/wiki/Police" title="Police">Police</a></li>
+<li><a href="/wiki/Political_party" title="Political party">Political party</a></li>
+<li><a href="/wiki/Tribunal" title="Tribunal">Tribunal</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2" style="text-align:center;"><div>
+<ul><li><b><a href="/wiki/Category:Law" title="Category:Law">Category</a></b></li>
+<li><b><a href="/wiki/Index_of_law_articles" title="Index of law articles">Index</a></b></li>
+<li><b><a href="/wiki/Outline_of_law" title="Outline of law">Outline</a></b></li>
+<li><b><a href="/wiki/Portal:Law" title="Portal:Law">Portal</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2233
+Cached time: 20180929133109
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.212 seconds
+Real time usage: 0.267 seconds
+Preprocessor visited node count: 420/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 31228/2097152 bytes
+Template argument size: 120/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 7775/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.094/10.000 seconds
+Lua memory usage: 2.5 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  171.909      1 -total
+ 60.88%  104.664      1 Template:Reflist
+ 47.72%   82.043      2 Template:Cite_book
+ 29.48%   50.682      1 Template:Rewrite_section
+ 19.61%   33.708      1 Template:Cleanup_rewrite
+ 18.08%   31.075      1 Template:Ambox
+  9.49%   16.307      1 Template:Law
+  7.08%   12.170      1 Template:Navbox
+  3.67%    6.306      1 Template:Cite_web
+  1.89%    3.249      1 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:215403-0!canonical and timestamp 20180929133109 and revision id 851996047
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Case_law&amp;oldid=851996047">https://en.wikipedia.org/w/index.php?title=Case_law&amp;oldid=851996047</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Case_law" title="Category:Case law">Case law</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_needing_rewrite_from_December_2016" title="Category:Wikipedia articles needing rewrite from December 2016">Wikipedia articles needing rewrite from December 2016</a></li><li><a href="/wiki/Category:All_articles_needing_rewrite" title="Category:All articles needing rewrite">All articles needing rewrite</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Case+law" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Case+law" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Case_law" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Case_law" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Case_law">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Case_law&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Case_law&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Case_law" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Case_law" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Case_law&amp;oldid=851996047" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Case_law&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11022655" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Case_law&amp;id=851996047" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Case+law">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Case+law&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Case_law&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Jurisprud%C3%A8ncia" title="Jurisprudència – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Retspraksis" title="Retspraksis – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Fallrecht" title="Fallrecht – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Jurisprudencia" title="Jurisprudencia – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D9%86%D9%88%D9%86_%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87%E2%80%8C%D8%A7%DB%8C" title="قانون پرونده‌ای – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Jurisprudence" title="Jurisprudence – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%8C%90%EB%A1%80" title="판례 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Esetjog" title="Esetjog – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Hukum_perkara" title="Hukum perkara – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%85%E1%80%AE%E1%80%9B%E1%80%84%E1%80%BA%E1%80%91%E1%80%AF%E1%80%B6%E1%80%B8" title="စီရင်ထုံး – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Jurisprudentie" title="Jurisprudentie – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%88%A4%E4%BE%8B" title="判例 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Rettspraksis" title="Rettspraksis – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Case_law" title="Case law – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Jurisprud%C3%AAncia" title="Jurisprudência – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Case_law" title="Case law – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Case_law" title="Case law – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Oikeusk%C3%A4yt%C3%A4nt%C3%B6" title="Oikeuskäytäntö – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/R%C3%A4ttspraxis" title="Rättspraxis – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%88%A4%E4%BE%8B%E6%B3%95" title="判例法 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11022655#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 July 2018, at 22:45<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Case_law&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.212","walltime":"0.267","ppvisitednodes":{"value":420,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":31228,"limit":2097152},"templateargumentsize":{"value":120,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7775,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  171.909      1 -total"," 60.88%  104.664      1 Template:Reflist"," 47.72%   82.043      2 Template:Cite_book"," 29.48%   50.682      1 Template:Rewrite_section"," 19.61%   33.708      1 Template:Cleanup_rewrite"," 18.08%   31.075      1 Template:Ambox","  9.49%   16.307      1 Template:Law","  7.08%   12.170      1 Template:Navbox","  3.67%    6.306      1 Template:Cite_web","  1.89%    3.249      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.094","limit":"10.000"},"limitreport-memusage":{"value":2618420,"limit":52428800}},"cachereport":{"origin":"mw2233","timestamp":"20180929133109","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw2272"});});</script>
+	</body>
+</html>

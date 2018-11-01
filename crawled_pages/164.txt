@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>ImHalal - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ImHalal","wgTitle":"ImHalal","wgCurRevisionId":860352783,"wgRevisionId":860352783,"wgArticleId":24389279,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with citations lacking titles","Pages with citations having bare URLs","Orphaned articles from June 2014","All orphaned articles","Pages using infobox website with unknown parameters","Defunct internet search engines"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"ImHalal","wgRelevantArticleId":24389279,"wgRequestId":"W7FZ6ArAADMAABilF4kAAACM","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q4041299","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/d/da/Imhalal_logo.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/ImHalal"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=ImHalal&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=ImHalal&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/ImHalal"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-ImHalal rootpage-ImHalal skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">ImHalal</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-style ambox-Orphan" role="presentation" style="display: none"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Wiki_letter_w.svg" class="image"><img alt="Wiki letter w.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/60px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/80px-Wiki_letter_w.svg.png 2x" data-file-width="44" data-file-height="44" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>is an <a href="/wiki/Wikipedia:Orphan" title="Wikipedia:Orphan">orphan</a>, as no other articles <a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:Whatlinkshere&amp;target=ImHalal&amp;namespace=0">link to it</a></b>. Please <a href="/wiki/Help:Link" title="Help:Link">introduce links</a> to this page from <span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;redirs=1&amp;search=ImHalal&amp;fulltext=Search&amp;ns0=1&amp;title=Special%3ASearch&amp;advanced=1&amp;fulltext=ImHalal">related articles</a></span>; try the <a rel="nofollow" class="external text" href="//edwardbetts.com/find_link?q=ImHalal">Find link tool</a> for suggestions.  <small><i>(June 2014)</i></small></div></td></tr></tbody></table>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">ImHalal.com</caption><tbody><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Imhalal_logo.png" class="image"><img alt="Imhalal logo.png" src="//upload.wikimedia.org/wikipedia/en/thumb/d/da/Imhalal_logo.png/150px-Imhalal_logo.png" width="150" height="78" srcset="//upload.wikimedia.org/wikipedia/en/d/da/Imhalal_logo.png 1.5x" data-file-width="180" data-file-height="93" /></a></td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Type of site</div></th><td>
+<a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">Search engine</a></td></tr><tr><th scope="row">Website</th><td class="url">
+<a rel="nofollow" class="external free" href="http://www.imhalal.com/">http://www.imhalal.com/</a></td></tr><tr><th scope="row">Commercial</th><td>
+Yes</td></tr><tr><th scope="row">Launched</th><td>
+1 September 2009</td></tr><tr><th scope="row">Current&#160;status</th><td class="category">
+Defunct (<abbr title="circa">c.</abbr> 2011)</td></tr></tbody></table>
+<p><b>I'mHalal.com</b> was a <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engine</a> built on top of social-cultural Islamic<sup id="cite_ref-HP_1-0" class="reference"><a href="#cite_note-HP-1">&#91;1&#93;</a></sup> values. The search engines algorithm differed from regular search engines because the relevancy of the results was based on the culture, mindset and lifestyle of Muslims. The engine did not index content such as <a href="/wiki/Pornography" title="Pornography">pornography</a>, <a href="/wiki/Nudity" title="Nudity">nudity</a>, or anything else that might be "<a href="/wiki/Haraam" class="mw-redirect" title="Haraam">haram</a>".<sup id="cite_ref-IT_2-0" class="reference"><a href="#cite_note-IT-2">&#91;2&#93;</a></sup><sup id="cite_ref-tjp_3-0" class="reference"><a href="#cite_note-tjp-3">&#91;3&#93;</a></sup>
+</p><p>The founders of I'mHalal.com, launched the search engine to attract more Middle Easterners to the World Wide Web by providing all households a relevant and safe search portal to gather information and explore the web. The company was expecting a large percentage of their userbase from the <a href="/wiki/Middle_East" title="Middle East">Middle East</a>.<sup id="cite_ref-tds_4-0" class="reference"><a href="#cite_note-tds-4">&#91;4&#93;</a></sup> The website received mostly positive comments from Muslims,<sup id="cite_ref-IO_5-0" class="reference"><a href="#cite_note-IO-5">&#91;5&#93;</a></sup> The search engine was going to opensource a part of its source by publishing an API<sup id="cite_ref-nu_6-0" class="reference"><a href="#cite_note-nu-6">&#91;6&#93;</a></sup> It was subsequently closed in 2011 due to financial difficulties.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>In late 2011, I'mHalal.com closed its search service due to lack of funds.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=ImHalal&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-HP-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-HP_1-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Cholia, Ami (2009-09-01). <a rel="nofollow" class="external text" href="http://www.huffingtonpost.com/2009/09/01/halal-search-engine-launc_n_273951.html">"Halal Search Engine Launches"</a>. <a href="/wiki/Huffington_Post" class="mw-redirect" title="Huffington Post">Huffington Post</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Halal+Search+Engine+Launches&amp;rft.date=2009-09-01&amp;rft.aulast=Cholia&amp;rft.aufirst=Ami&amp;rft_id=http%3A%2F%2Fwww.huffingtonpost.com%2F2009%2F09%2F01%2Fhalal-search-engine-launc_n_273951.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImHalal" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-IT-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-IT_2-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://indiatoday.intoday.in/site/Story/62404/Lifestyle/Search+engine+for+Muslims+a+big+hit.html">"Search engine for Muslims a big hit"</a>. <a href="/wiki/India_Today" title="India Today">India Today</a>. September 18, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Search+engine+for+Muslims+a+big+hit&amp;rft.date=2009-09-18&amp;rft_id=http%3A%2F%2Findiatoday.intoday.in%2Fsite%2FStory%2F62404%2FLifestyle%2FSearch%2Bengine%2Bfor%2BMuslims%2Ba%2Bbig%2Bhit.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImHalal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-tjp-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-tjp_3-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://fr.jpost.com/servlet/Satellite?cid=1251804465726&amp;pagename=JPost/JPArticle/ShowFull">"First ever Halal search engine launched"</a>. The Jerusalem Post<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=First+ever+Halal+search+engine+launched&amp;rft_id=http%3A%2F%2Ffr.jpost.com%2Fservlet%2FSatellite%3Fcid%3D1251804465726%26pagename%3DJPost%2FJPArticle%2FShowFull&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImHalal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-tds-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-tds_4-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.dailystar.com.lb/article.asp?edition_id=1&amp;categ_id=3&amp;article_id=106284">"World's first Muslim search engine filters 'haram' content"</a>. The Daily Star. September 9, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=World%27s+first+Muslim+search+engine+filters+%27haram%27+content&amp;rft.date=2009-09-09&amp;rft_id=http%3A%2F%2Fwww.dailystar.com.lb%2Farticle.asp%3Fedition_id%3D1%26categ_id%3D3%26article_id%3D106284&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImHalal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-IO-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-IO_5-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Emam, Amr. <a rel="nofollow" class="external text" href="http://www.islamonline.net/servlet/Satellite?c=Article_C&amp;cid=1252187934169&amp;pagename=Zone-English-News/NWELayout">"In Egypt, Halal Internet Comes First"</a>. IslamOnline<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=In+Egypt%2C+Halal+Internet+Comes+First&amp;rft.aulast=Emam&amp;rft.aufirst=Amr&amp;rft_id=http%3A%2F%2Fwww.islamonline.net%2Fservlet%2FSatellite%3Fc%3DArticle_C%26cid%3D1252187934169%26pagename%3DZone-English-News%2FNWELayout&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImHalal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-nu-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-nu_6-0">^</a></b></span> <span class="reference-text"><cite class="citation news">. imhalal.com <a rel="nofollow" class="external text" href="https://web.archive.org/web/20091223065714/http://www.imhalal.com/blog/2009/12/imhalal-version-3-0-already/">https://web.archive.org/web/20091223065714/http://www.imhalal.com/blog/2009/12/imhalal-version-3-0-already/</a>. Archived from <a rel="nofollow" class="external text" href="http://www.imhalal.com/blog/2009/12/imhalal-version-3-0-already/">the original</a> on December 23, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-12-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.imhalal.com%2Fblog%2F2009%2F12%2Fimhalal-version-3-0-already%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImHalal" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">Missing or empty <code class="cs1-code">&#124;title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Sardeha, Reza. <a rel="nofollow" class="external text" href="http://www.imhalal.com/">"I'mHalal"</a>. I'mHalal<span class="reference-accessdate">. Retrieved <span class="nowrap">11 July</span> 2013</span>. <q>In late 2011 I'mHalal had to close its search service due to lack of funding.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=I%27mHalal&amp;rft.pub=I%27mHalal&amp;rft.aulast=Sardeha&amp;rft.aufirst=Reza&amp;rft_id=http%3A%2F%2Fwww.imhalal.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImHalal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.imhalal.com/">http://www.imhalal.com/</a></span>
+</li>
+</ol></div></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2225
+Cached time: 20180930170534
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.180 seconds
+Real time usage: 0.236 seconds
+Preprocessor visited node count: 1121/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 17282/2097152 bytes
+Template argument size: 354/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 18526/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.098/10.000 seconds
+Lua memory usage: 3.42 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  217.830      1 -total
+ 40.90%   89.099      1 Template:Reflist
+ 33.26%   72.442      6 Template:Cite_news
+ 31.74%   69.129      1 Template:Infobox_Website
+ 25.24%   54.973      1 Template:Orphan
+ 23.70%   51.615      1 Template:Infobox
+ 16.48%   35.901      1 Template:Ambox
+  4.77%   10.380      3 Template:If_empty
+  3.24%    7.059      1 Template:Comma_separated_entries
+  2.24%    4.890      1 Template:Circa
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:24389279-0!canonical and timestamp 20180930170534 and revision id 860352783
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=ImHalal&amp;oldid=860352783">https://en.wikipedia.org/w/index.php?title=ImHalal&amp;oldid=860352783</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Defunct_internet_search_engines" title="Category:Defunct internet search engines">Defunct internet search engines</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">Pages with citations lacking titles</a></li><li><a href="/wiki/Category:Pages_with_citations_having_bare_URLs" title="Category:Pages with citations having bare URLs">Pages with citations having bare URLs</a></li><li><a href="/wiki/Category:Orphaned_articles_from_June_2014" title="Category:Orphaned articles from June 2014">Orphaned articles from June 2014</a></li><li><a href="/wiki/Category:All_orphaned_articles" title="Category:All orphaned articles">All orphaned articles</a></li><li><a href="/wiki/Category:Pages_using_infobox_website_with_unknown_parameters" title="Category:Pages using infobox website with unknown parameters">Pages using infobox website with unknown parameters</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=ImHalal" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=ImHalal" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/ImHalal" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:ImHalal" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/ImHalal">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=ImHalal&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=ImHalal&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/ImHalal" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/ImHalal" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=ImHalal&amp;oldid=860352783" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=ImHalal&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4041299" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=ImHalal&amp;id=860352783" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=ImHalal">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=ImHalal&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=ImHalal&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/ImHalal" title="ImHalal – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4041299#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 20 September 2018, at 02:30<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=ImHalal&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.180","walltime":"0.236","ppvisitednodes":{"value":1121,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":17282,"limit":2097152},"templateargumentsize":{"value":354,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":18526,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  217.830      1 -total"," 40.90%   89.099      1 Template:Reflist"," 33.26%   72.442      6 Template:Cite_news"," 31.74%   69.129      1 Template:Infobox_Website"," 25.24%   54.973      1 Template:Orphan"," 23.70%   51.615      1 Template:Infobox"," 16.48%   35.901      1 Template:Ambox","  4.77%   10.380      3 Template:If_empty","  3.24%    7.059      1 Template:Comma_separated_entries","  2.24%    4.890      1 Template:Circa"]},"scribunto":{"limitreport-timeusage":{"value":"0.098","limit":"10.000"},"limitreport-memusage":{"value":3585890,"limit":52428800}},"cachereport":{"origin":"mw2225","timestamp":"20180930170534","ttl":86400,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw2226"});});</script>
+	</body>
+</html>

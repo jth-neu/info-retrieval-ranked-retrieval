@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Yahoo! Japan - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Yahoo!_Japan","wgTitle":"Yahoo! Japan","wgCurRevisionId":861420283,"wgRevisionId":861420283,"wgArticleId":873350,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: BOT: original-url status unknown","Pages using deprecated image syntax","Articles containing potentially dated statements from March 2018","All articles containing potentially dated statements","Articles containing Japanese-language text","Incomplete lists from December 2015","Official website different in Wikidata and Wikipedia","Articles with Japanese-language external links","Companies listed on the Tokyo Stock Exchange","Companies listed on the JASDAQ Securities Exchange","Yahoo! international","Internet in Japan","Telecommunications companies based in Tokyo","Companies established in 1996","1996 establishments in Japan","Japanese brands","Media companies based in Tokyo","Japanese websites","Entertainment websites","Video on demand services","Internet television","Japanese-language websites","SoftBank","1997 initial public offerings"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Yahoo!_Japan","wgRelevantArticleId":873350,"wgRequestId":"W6@D0grAIE8AAH2vOBQAAAAN","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1146428","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/3/38/Yahoo%21_JAPAN.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Yahoo!_Japan"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Yahoo!_Japan&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Yahoo!_Japan&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Yahoo!_Japan"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Yahoo_Japan rootpage-Yahoo_Japan skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Yahoo! Japan</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><caption class="fn org">Yahoo! Japan Corporation<br />ヤフー株式会社</caption><tbody><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Yahoo_Japan_Logo.svg" class="image"><img alt="Yahoo Japan Logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Yahoo_Japan_Logo.svg/156px-Yahoo_Japan_Logo.svg.png" width="156" height="47" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Yahoo_Japan_Logo.svg/234px-Yahoo_Japan_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Yahoo_Japan_Logo.svg/312px-Yahoo_Japan_Logo.svg.png 2x" data-file-width="156" data-file-height="47" /></a> <br /> The current wordmark matches the pre-2009 English <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a> <a href="/wiki/Yahoo!#Logos_and_themes" title="Yahoo!">logo</a>.</td></tr><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Yahoo!_JAPAN.png" class="image"><img alt="Yahoo! JAPAN.png" src="//upload.wikimedia.org/wikipedia/en/thumb/3/38/Yahoo%21_JAPAN.png/220px-Yahoo%21_JAPAN.png" width="220" height="276" srcset="//upload.wikimedia.org/wikipedia/en/3/38/Yahoo%21_JAPAN.png 1.5x" data-file-width="282" data-file-height="354" /></a><div>Screenshot of the yahoo.co.jp home page</div></td></tr><tr><th scope="row"><a href="/wiki/Types_of_business_entity" class="mw-redirect" title="Types of business entity">Type of business</a></th><td class="category">
+<a href="/wiki/Public_company" title="Public company">Public</a> (<a href="/wiki/Kabushiki_kaisha" class="mw-redirect" title="Kabushiki kaisha">K.K.</a>)</td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Type of site</div></th><td>
+<a href="/wiki/Web_portal" title="Web portal">Web portal</a></td></tr><tr><th scope="row">Available&#160;in</th><td>
+<a href="/wiki/Japanese_language" title="Japanese language">Japanese</a></td></tr><tr><th scope="row"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded&#160;as</a></th><td>
+<a href="/wiki/Tokyo_Stock_Exchange" title="Tokyo Stock Exchange">TYO</a>: <a rel="nofollow" class="external text" href="http://www2.tse.or.jp/tseHpFront/StockSearch.do?callJorEFlg=1&amp;method=&amp;topSearchStr=4689">4689</a><br /><a href="/wiki/NASDAQ" title="NASDAQ">NASDAQ</a>:&#160;<a rel="nofollow" class="external text" href="https://www.nasdaq.com/symbol/yahoy">YAHOY</a></td></tr><tr><th scope="row">Founded</th><td>
+April&#160;22, 1996<span class="noprint">&#59;&#32;22 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1996-04-22</span>)</span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row">Headquarters</th><td class="label">
+Kioi Tower, Tokyo Garden Terrace Kioicho, 1-3,  Kioi-cho, Chiyoda-ku, <a href="/wiki/Tokyo" title="Tokyo">Tokyo</a>, <a href="/wiki/Japan" title="Japan">Japan</a></td></tr><tr><th scope="row">No.&#160;of locations</th><td>
+2 (<a href="/wiki/Nagoya" title="Nagoya">Nagoya</a> and <a href="/wiki/Osaka" title="Osaka">Osaka</a>)</td></tr><tr><th scope="row">Owner</th><td>
+<a href="/wiki/SoftBank_Group" title="SoftBank Group">SoftBank Group</a> (42.9%) <a href="/wiki/Altaba" title="Altaba">Altaba</a> (35.5%)</td></tr><tr><th scope="row">Key&#160;people</th><td>
+<a href="/wiki/Masayoshi_Son" title="Masayoshi Son">Masayoshi Son</a><br /><small>(Chairman)</small><br />Manabu Miyasaka<br /><small>(President and CEO)</small></td></tr><tr><th scope="row"><a href="/wiki/Revenue" title="Revenue">Revenue</a></th><td>
+<img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /><a href="/wiki/Japanese_yen" title="Japanese yen">¥</a>292,423 million (FY 2010)</td></tr><tr><th scope="row"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></th><td>
+<img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" />¥159,604 million (FY 2010)</td></tr><tr><th scope="row"><a href="/wiki/Net_income" title="Net income">Net income</a></th><td>
+<img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" />¥92,174 million (FY 2010)</td></tr><tr><th scope="row"><a href="/wiki/Asset" title="Asset">Total assets</a></th><td>
+<img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" />¥471,745 million (FY 2010)</td></tr><tr><th scope="row"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></th><td>
+<img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" />¥385,105 million (FY 2010)</td></tr><tr><th scope="row">Employees</th><td>
+5,518 (As of September 30, 2015)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row">Subsidiaries</th><td>
+Netrust, Ltd., <a href="/w/index.php?title=ASKUL_Corporation&amp;action=edit&amp;redlink=1" class="new" title="ASKUL Corporation (page does not exist)">ASKUL Corporation</a></td></tr><tr><th scope="row">Website</th><td class="url">
+<span class="url"><a rel="nofollow" class="external text" href="http://www.yahoo.co.jp">www<wbr />.yahoo<wbr />.co<wbr />.jp</a></span></td></tr><tr><th scope="row"><a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa</a> rank</th><td>
+<img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" title="Steady" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" /> 39 Worldwide  <br /> <img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" title="Steady" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" /> 4 Japan (March 2018<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Yahoo!_Japan&amp;action=edit">&#91;update&#93;</a></sup>)<sup id="cite_ref-alexa_3-0" class="reference"><a href="#cite_note-alexa-3">&#91;3&#93;</a></sup></td></tr><tr><th scope="row">Registration</th><td>
+optional</td></tr><tr><th scope="row">Launched</th><td>
+April 1, 1996</td></tr><tr><th scope="row">Current&#160;status</th><td class="category">
+active</td></tr></tbody></table>
+<p><b>Yahoo! Japan Corporation</b><span style="font-weight: normal">&#32;(<span lang="ja">ヤフー株式会社</span><span style="display:none">,</span>&#32;<i>Yafū Kabushiki-gaisha</i>)</span> is a <a href="/wiki/Japan" title="Japan">Japanese</a> <a href="/wiki/Internet" title="Internet">internet</a> company originally formed as a <a href="/wiki/Joint_venture" title="Joint venture">joint venture</a> between the <a href="/wiki/United_States" title="United States">American</a> internet company <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a> (now <a href="/wiki/Altaba" title="Altaba">Altaba</a>) and the Japanese company <a href="/wiki/SoftBank" class="mw-redirect" title="SoftBank">SoftBank</a>. It is headquartered at <a href="/w/index.php?title=Kioi_Tower&amp;action=edit&amp;redlink=1" class="new" title="Kioi Tower (page does not exist)">Kioi Tower</a> in the <a href="/w/index.php?title=Tokyo_Garden_Terrace_Kioicho&amp;action=edit&amp;redlink=1" class="new" title="Tokyo Garden Terrace Kioicho (page does not exist)">Tokyo Garden Terrace Kioicho</a> complex in Kioicho, <a href="/wiki/Chiyoda,_Tokyo" title="Chiyoda, Tokyo">Chiyoda</a>, <a href="/wiki/Tokyo" title="Tokyo">Tokyo</a>.<sup id="cite_ref-:0_4-0" class="reference"><a href="#cite_note-:0-4">&#91;4&#93;</a></sup> Yahoo! Japan's web portal is the most visited website in Japan, and its internet services are mostly dominant in the country.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Industry_body_affiliation"><span class="tocnumber">2</span> <span class="toctext">Industry body affiliation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Design"><span class="tocnumber">3</span> <span class="toctext">Design</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Services"><span class="tocnumber">4</span> <span class="toctext">Services</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Yahoo!_Japan_Mail"><span class="tocnumber">4.1</span> <span class="toctext">Yahoo! Japan Mail</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Yahoo!_Japan_GeoCities"><span class="tocnumber">4.2</span> <span class="toctext">Yahoo! Japan GeoCities</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#GyaO"><span class="tocnumber">4.3</span> <span class="toctext">GyaO</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Gallery"><span class="tocnumber">5</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Subsidiaries"><span class="tocnumber">6</span> <span class="toctext">Subsidiaries</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Japan&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Yahoo! and SoftBank formed Yahoo! Japan in January 1996 to set up the first <a href="/wiki/Web_portal" title="Web portal">web portal</a> in Japan. Yahoo! Japan went live on April 1, 1996.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>Yahoo! Japan was listed on <a href="/wiki/JASDAQ_Securities_Exchange" title="JASDAQ Securities Exchange">JASDAQ</a> in November 1997. In January 2000, it became the first stock in Japanese history to trade for more than ¥100 million per share. The company was listed on the <a href="/wiki/Tokyo_Stock_Exchange" title="Tokyo Stock Exchange">Tokyo Stock Exchange</a> in October 2003 and became part of the <a href="/wiki/Nikkei_225" title="Nikkei 225">Nikkei 225</a> <a href="/wiki/Stock_market_index" title="Stock market index">stock market index</a> in 2005.
+</p><p>Yahoo! Japan acquired the <a href="/wiki/Naming_rights" title="Naming rights">naming rights</a> for the <a href="/wiki/Fukuoka_Dome" class="mw-redirect" title="Fukuoka Dome">Fukuoka Dome</a> in 2005, renaming the dome as the "Fukuoka Yahoo! Japan Dome". The "Yahoo Dome" is the home field for the <a href="/wiki/Fukuoka_SoftBank_Hawks" title="Fukuoka SoftBank Hawks">Fukuoka SoftBank Hawks</a>, a professional <a href="/wiki/Baseball" title="Baseball">baseball</a> team majority owned by SoftBank.
+</p><p>Since 2010, Yahoo! Japan's search engine has been based on Google's search technology. In exchange, Google receives user activity data from Yahoo! Japan's various products.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>In 2017, <a href="/wiki/Verizon_Communications" title="Verizon Communications">Verizon Communications</a> purchased the core internet business of America-based <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a>, and merged them into <a href="/wiki/Oath,_Inc." class="mw-redirect" title="Oath, Inc.">Oath, Inc.</a> Yahoo! Japan was not affected. It continued as a joint venture between Softbank and what remained of Yahoo! Inc., renamed <a href="/wiki/Altaba" title="Altaba">Altaba</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> Yahoo! had been declining in popularity and economically since the late 2000s, but the situation has been quite the opposite for Yahoo! Japan, which continues to dominate Japan's internet industry.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>  Following the sale, Yahoo! Japan will continue to use the name "Yahoo!" <a href="/wiki/License" title="License">under license</a> from Verizon Communications.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Industry_body_affiliation">Industry body affiliation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Japan&amp;action=edit&amp;section=2" title="Edit section: Industry body affiliation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Yahoo! Japan was a founding member of <a href="/wiki/Rakuten" title="Rakuten">Rakuten</a> CEO <a href="/wiki/Hiroshi_Mikitani" title="Hiroshi Mikitani">Hiroshi Mikitani</a>'s Japan e-business association in February 2010, but after Rakuten withdrew from the <a href="/wiki/Japan_Business_Federation" title="Japan Business Federation">Japan Business Federation (Keidanren)</a> in June 2011 and made moves to become the Japan Association of New Economy as a rival to Keidanren, Yahoo! Japan withdrew from the e-business association in March 2012. It joined Keidanren in July 2012.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Design">Design</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Japan&amp;action=edit&amp;section=3" title="Edit section: Design">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Yahoo! Japan continues to use the classic website layout and <a href="/wiki/Yahoo!#Logos_and_themes" title="Yahoo!">logo</a> that was used by Yahoo! internationally before modern redesigns in 2009 and 2013, respectively. However, it is translated into <a href="/wiki/Japanese_language" title="Japanese language">Japanese</a>.
+</p>
+<h2><span class="mw-headline" id="Services">Services</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Japan&amp;action=edit&amp;section=4" title="Edit section: Services">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Yahoo.21_Japan_Mail"></span><span class="mw-headline" id="Yahoo!_Japan_Mail">Yahoo! Japan Mail</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Japan&amp;action=edit&amp;section=5" title="Edit section: Yahoo! Japan Mail">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>Yahoo! Japan Mail</b> maintains the classic look of <a href="/wiki/Yahoo!_Mail" title="Yahoo! Mail">Yahoo! Mail</a>, but remains a separate service operated in Japan. Another notable change is the 10 GB storage limit, in contrast to Yahoo! Mail's 1 TB of storage and its former unlimited-storage offering.
+</p>
+<h3><span id="Yahoo.21_Japan_GeoCities"></span><span class="mw-headline" id="Yahoo!_Japan_GeoCities">Yahoo! Japan GeoCities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Japan&amp;action=edit&amp;section=6" title="Edit section: Yahoo! Japan GeoCities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Yahoo!_GeoCities" title="Yahoo! GeoCities">GeoCities</a> is still available via Yahoo! Japan.
+</p>
+<h3><span class="mw-headline" id="GyaO">GyaO</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Japan&amp;action=edit&amp;section=7" title="Edit section: GyaO">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>GyaO</b> is a Japanese <a href="/wiki/Video_on_demand" title="Video on demand">video on demand</a> service by Yahoo! Japan.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p><p>Programs include:
+</p>
+<div role="note" class="hatnote navigation-not-searchable plainlinks">This list is <a href="/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">incomplete</a>; you can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Yahoo!_Japan&amp;action=edit">expanding it</a>.</div>
+<ul><li><i><a href="/wiki/Calimero" title="Calimero">Calimero</a> (2014 CGI series)</i></li>
+<li><i><a href="/wiki/Creamy_Mami,_the_Magic_Angel" title="Creamy Mami, the Magic Angel">Creamy Mami, the Magic Angel</a></i></li>
+<li><i><a href="/wiki/Intrigue_in_the_Bakumatsu_%E2%80%93_Irohanihoheto" title="Intrigue in the Bakumatsu – Irohanihoheto">Intrigue in the Bakumatsu – Irohanihoheto</a></i></li>
+<li><i><a href="/wiki/Jormungand_(manga)" title="Jormungand (manga)">Jormungand</a></i></li>
+<li><i><a href="/wiki/Kyorochan" title="Kyorochan">Kyorochan</a></i></li>
+<li><i><a href="/wiki/Musashi_Gundoh" title="Musashi Gundoh">Musashi Gundoh</a></i></li>
+<li><i><a href="/wiki/Nyanpire" title="Nyanpire">Nyanpire</a></i></li>
+<li><i><a href="/wiki/Real_Drive" title="Real Drive">Real Drive</a></i></li>
+<li><i><a href="/wiki/The_World_of_Golden_Eggs" title="The World of Golden Eggs">The World of Golden Eggs</a></i></li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Japan&amp;action=edit&amp;section=8" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:29px auto;"><a href="/wiki/File:Sky_ja767a_yahoo_japan.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sky_ja767a_yahoo_japan.jpg/120px-Sky_ja767a_yahoo_japan.jpg" width="120" height="92" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sky_ja767a_yahoo_japan.jpg/180px-Sky_ja767a_yahoo_japan.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sky_ja767a_yahoo_japan.jpg/240px-Sky_ja767a_yahoo_japan.jpg 2x" data-file-width="400" data-file-height="307" /></a></div></div>
+			<div class="gallerytext">
+<p>A Yahoo! JAPAN-branded <a href="/wiki/Boeing" title="Boeing">Boeing</a> operated by <a href="/wiki/Skymark_Airlines" title="Skymark Airlines">Skymark Airlines</a> at <a href="/wiki/Osaka_International_Airport" class="mw-redirect" title="Osaka International Airport">Osaka International Airport</a> in 2000
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:Fukuoka_Yahoo!Japan_Dome.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fukuoka_Yahoo%21Japan_Dome.JPG/120px-Fukuoka_Yahoo%21Japan_Dome.JPG" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fukuoka_Yahoo%21Japan_Dome.JPG/180px-Fukuoka_Yahoo%21Japan_Dome.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fukuoka_Yahoo%21Japan_Dome.JPG/240px-Fukuoka_Yahoo%21Japan_Dome.JPG 2x" data-file-width="2272" data-file-height="1704" /></a></div></div>
+			<div class="gallerytext">
+<p>The <a href="/wiki/Fukuoka_Dome" class="mw-redirect" title="Fukuoka Dome">Fukuoka Yahoo! JAPAN Dome</a>, home of the <a href="/wiki/Fukuoka_SoftBank_Hawks" title="Fukuoka SoftBank Hawks">Fukuoka SoftBank Hawks</a> baseball team
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Yahoo!_Japan%27s_neon_sign_at_Roppongi.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Yahoo%21_Japan%27s_neon_sign_at_Roppongi.jpg/90px-Yahoo%21_Japan%27s_neon_sign_at_Roppongi.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Yahoo%21_Japan%27s_neon_sign_at_Roppongi.jpg/135px-Yahoo%21_Japan%27s_neon_sign_at_Roppongi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Yahoo%21_Japan%27s_neon_sign_at_Roppongi.jpg/180px-Yahoo%21_Japan%27s_neon_sign_at_Roppongi.jpg 2x" data-file-width="1508" data-file-height="2011" /></a></div></div>
+			<div class="gallerytext">
+<p>Yahoo! JAPAN <a href="/wiki/Neon_sign" title="Neon sign">neon sign</a> in <a href="/wiki/Roppongi" title="Roppongi">Roppongi</a>, Tokyo
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:Less_than_iPad._(6447310531).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Less_than_iPad._%286447310531%29.jpg/120px-Less_than_iPad._%286447310531%29.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Less_than_iPad._%286447310531%29.jpg/180px-Less_than_iPad._%286447310531%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Less_than_iPad._%286447310531%29.jpg/240px-Less_than_iPad._%286447310531%29.jpg 2x" data-file-width="3648" data-file-height="2736" /></a></div></div>
+			<div class="gallerytext">
+<p>Yahoo! JAPAN website on a <a href="/wiki/Sony_Tablet_S" title="Sony Tablet S">Sony Tablet S</a>
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="Subsidiaries">Subsidiaries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Japan&amp;action=edit&amp;section=9" title="Edit section: Subsidiaries">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://yahoo.co.jp/">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/encyclopedia/company.php?id=10020">Yahoo! Japan</a>  at <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a>'s encyclopedia</li>
+<li><a rel="nofollow" class="external text" href="http://www.askul.co.jp/">ASKUL Corporation</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.carview.co.jp/">Carview Corporation</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.dyn.co.jp/">Dynatech inc.</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.firstserver.co.jp/">FirstServer, Inc.</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.gyao.co.jp/">GYAO Corporation</a> (<a href="/wiki/GyaO" class="mw-redirect" title="GyaO">GyaO</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.idcf.jp">IDC Frontier Inc.</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.netrust.ne.jp/">Netrust, Ltd</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.qubital.co.jp/">Qubital Data Science Co., Ltd.</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.synergy-marketing.co.jp/">Synergy Marketing, Inc.</a></li>
+<li>Techbase VietNam Company Limited</li>
+<li><a rel="nofollow" class="external text" href="http://trill-corp.jp/">TRILL, Inc.</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.valuecommerce.co.jp/">ValueCommerce Co., Ltd.</a></li>
+<li>Wordleaf Corporation</li>
+<li><a rel="nofollow" class="external text" href="http://yj-capital.co.jp/">YJ Capital Inc.</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.yjcard.co.jp/">YJ Card Corporation</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.yjfx.jp/">YJFX, Inc.</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ys-insurance.co.jp/">Y's Insurance Inc.</a></li>
+<li><a rel="nofollow" class="external text" href="http://sportsnavi.yahoo.co.jp/">Y's Sports Inc.</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Japan&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.yahoo.co.jp/">Yahoo! Japan</a> <span class="languageicon">(in Japanese)</span>
+<ul><li><a rel="nofollow" class="external text" href="http://ir.yahoo.co.jp/en/company/profile.html">Company profile</a> <span class="languageicon">(in English)</span></li></ul></li></ul>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/28px-Industry5.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/42px-Industry5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Industry5.svg/56px-Industry5.svg.png 2x" data-file-width="512" data-file-height="512" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Companies" title="Portal:Companies">Companies portal</a></span></li></ul></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yahoo!_Japan&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080713214826/http://yhoo.client.shareholder.com/press/timeline.cfm">"Yahoo! Inc. - Company Timeline"</a>. <i><a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></i>. 2008-07-13. Archived from the original on 2008-07-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-07-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Wayback+Machine&amp;rft.atitle=Yahoo%21+Inc.+-+Company+Timeline&amp;rft.date=2008-07-13&amp;rft_id=http%3A%2F%2Fyhoo.client.shareholder.com%2Fpress%2Ftimeline.cfm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Japan" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: BOT: original-url status unknown (<a href="/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown">link</a>) </span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ir.yahoo.co.jp/en/company/profile.html">"Company Info"</a>. Yahoo! Japan<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-11-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Company+Info&amp;rft.pub=Yahoo%21+Japan&amp;rft_id=http%3A%2F%2Fir.yahoo.co.jp%2Fen%2Fcompany%2Fprofile.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Japan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-alexa-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-alexa_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.alexa.com/siteinfo/yahoo.co.jp">"Yahoo.co.jp Site Info"</a>. <a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa Internet</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-08-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Yahoo.co.jp+Site+Info&amp;rft.pub=Alexa+Internet&amp;rft_id=http%3A%2F%2Fwww.alexa.com%2Fsiteinfo%2Fyahoo.co.jp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Japan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-:0-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-:0_4-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://ir.yahoo.co.jp/en/company/profile.html">Company Info</a>." <i>Yahoo! Japan</i>. Retrieved on April 30, 2009.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Matsutani, Minoru (24 April 2012). <a rel="nofollow" class="external text" href="http://www.japantimes.co.jp/news/2012/04/24/reference/yahoo-japan-same-name-very-different-company/">"Yahoo Japan: Same name, very different company"</a>  &#8211; via Japan Times Online.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Yahoo+Japan%3A+Same+name%2C+very+different+company&amp;rft.date=2012-04-24&amp;rft.aulast=Matsutani&amp;rft.aufirst=Minoru&amp;rft_id=http%3A%2F%2Fwww.japantimes.co.jp%2Fnews%2F2012%2F04%2F24%2Freference%2Fyahoo-japan-same-name-very-different-company%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Japan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Matsutani, Minoru, "<a rel="nofollow" class="external text" href="http://www.japantimes.co.jp/text/nn20120424i1.html">Yahoo Japan: Same name, very different company</a>", <i><a href="/wiki/Japan_Times" class="mw-redirect" title="Japan Times">Japan Times</a></i>, 24 April 2012, p. 3.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news">Alabaster, Jay (2010-09-26). <a rel="nofollow" class="external text" href="http://www.huffingtonpost.com/2010/07/27/yahoo-japan-to-use-google_n_660351.html">"Yahoo Japan to use Google search technology"</a>. Huffington Post<span class="reference-accessdate">. Retrieved <span class="nowrap">29 September</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Yahoo+Japan+to+use+Google+search+technology&amp;rft.date=2010-09-26&amp;rft.aulast=Alabaster&amp;rft.aufirst=Jay&amp;rft_id=http%3A%2F%2Fwww.huffingtonpost.com%2F2010%2F07%2F27%2Fyahoo-japan-to-use-google_n_660351.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Japan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.reuters.com/article/us-yahoo-m-a-verizon-idUSKCN1040U9">"Verizon to buy Yahoo's core business for $4.8 billion in digital ad push"</a>. 26 July 2017  &#8211; via Reuters.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Verizon+to+buy+Yahoo%27s+core+business+for+%244.8+billion+in+digital+ad+push&amp;rft.date=2017-07-26&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-yahoo-m-a-verizon-idUSKCN1040U9&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Japan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sfchronicle.com/business/article/Unlike-its-U-S-counterpart-Yahoo-Japan-s-7465980.php">"Yahoo Japan's future still looks bright — unlike its U.S. counterpart"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Yahoo+Japan%E2%80%99s+future+still+looks+bright+%E2%80%94+unlike+its+U.S.+counterpart&amp;rft_id=http%3A%2F%2Fwww.sfchronicle.com%2Fbusiness%2Farticle%2FUnlike-its-U-S-counterpart-Yahoo-Japan-s-7465980.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Japan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.questia.com/newspaper/1P3-4130775461/yahoo-japan-to-keep-name-services-despite-u-s-sale">"<span class="cs1-kern-left">"</span>Yahoo Japan to Keep Name, Services despite U.S. Sale" - The Daily Yomiuri (Toyko, Japan), July 29, 2016 | Online Research Library: Questia"</a>. <i>www.questia.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.questia.com&amp;rft.atitle=%22Yahoo+Japan+to+Keep+Name%2C+Services+despite+U.S.+Sale%22+-+The+Daily+Yomiuri+%28Toyko%2C+Japan%29%2C+July+29%2C+2016+%7C+Online+Research+Library%3A+Questia&amp;rft_id=https%3A%2F%2Fwww.questia.com%2Fnewspaper%2F1P3-4130775461%2Fyahoo-japan-to-keep-name-services-despite-u-s-sale&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Japan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">The Daily Yomiuri <a rel="nofollow" class="external text" href="http://www.yomiuri.co.jp/dy/business/T120731004314.htm">Keidanren welcomes new member Yahoo August 1 2012</a> Retrieved on August 1, 2012</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Justin Sevakis (December 4, 2015). <a rel="nofollow" class="external text" href="http://www.animenewsnetwork.com/answerman/2015-12-04/.96036">"How Is Online Streaming Doing in Japan?"</a>. <i><a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 4,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Anime+News+Network&amp;rft.atitle=How+Is+Online+Streaming+Doing+in+Japan%3F&amp;rft.date=2015-12-04&amp;rft.au=Justin+Sevakis&amp;rft_id=http%3A%2F%2Fwww.animenewsnetwork.com%2Fanswerman%2F2015-12-04%2F.96036&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYahoo%21+Japan" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="SoftBank_Group" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:SoftBank" title="Template:SoftBank"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:SoftBank" title="Template talk:SoftBank"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:SoftBank&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="SoftBank_Group" style="font-size:114%;margin:0 4em"><a href="/wiki/SoftBank_Group" title="SoftBank Group">SoftBank Group</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Group companies</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arm_Holdings" title="Arm Holdings">Arm Holdings</a></li>
+<li><a href="/wiki/Aldebaran_Robotics" class="mw-redirect" title="Aldebaran Robotics">Aldebaran Robotics</a></li>
+<li><a href="/wiki/Boston_Dynamics" title="Boston Dynamics">Boston Dynamics</a></li>
+<li><a href="/wiki/Brightstar_Corporation" title="Brightstar Corporation">Brightstar Corporation</a></li>
+<li><a href="/wiki/DramaFever" title="DramaFever">DramaFever</a></li>
+<li><a href="/wiki/Fortress_Investment_Group" title="Fortress Investment Group">Fortress Investment Group</a></li>
+<li><a href="/wiki/RadioShack" title="RadioShack">RadioShack</a></li>
+<li><a href="/wiki/SB_Creative" title="SB Creative">SB Creative</a></li>
+<li><a href="/wiki/SoftBank_Mobile" class="mw-redirect" title="SoftBank Mobile">SoftBank Mobile</a></li>
+<li><a href="/wiki/Sprint_Corporation" title="Sprint Corporation">Sprint Corporation</a> (83%)</li>
+<li><a class="mw-selflink selflink">Yahoo! Japan</a> (<a href="/wiki/Yahoo!_Kids" title="Yahoo! Kids">Yahoo! Kids</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">India</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Flipkart" title="Flipkart">Flipkart</a></li>
+<li><a href="/wiki/Grofers" title="Grofers">Grofers</a></li>
+<li><a href="/wiki/Hike_Messenger" title="Hike Messenger">Hike</a></li>
+<li><a href="/wiki/InMobi" title="InMobi">InMobi</a></li>
+<li><a href="/wiki/Ola_Cabs" title="Ola Cabs">Ola Cabs</a></li>
+<li><a href="/wiki/OYO_Rooms" title="OYO Rooms">OYO</a></li>
+<li><a href="/wiki/Paytm" title="Paytm">Paytm</a></li>
+<li><a href="/wiki/Snapdeal" title="Snapdeal">Snapdeal</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Southeast Asia</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Grab_(company)" title="Grab (company)">Grab</a></li>
+<li><a href="/wiki/Tokopedia" title="Tokopedia">Tokopedia</a></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Softbank_mobile_logo.svg/100px-Softbank_mobile_logo.svg.png" width="100" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Softbank_mobile_logo.svg/150px-Softbank_mobile_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Softbank_mobile_logo.svg/200px-Softbank_mobile_logo.svg.png 2x" data-file-width="216" data-file-height="37" /></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Affiliated companies</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/GungHo_Online_Entertainment" title="GungHo Online Entertainment">GungHo Online Entertainment</a> (3.80%)</li>
+<li><a href="/wiki/Alibaba_Group" title="Alibaba Group">Alibaba Group</a> (36%)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related articles</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Fukuoka_SoftBank_Hawks" title="Fukuoka SoftBank Hawks">Fukuoka SoftBank Hawks</a></li>
+<li><a href="/wiki/SBI_Group" title="SBI Group">SBI Group</a></li>
+<li><a href="/wiki/SoftBank_Capital" title="SoftBank Capital">SoftBank Capital</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Yahoo!" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Yahoo!_Inc." title="Template:Yahoo! Inc."><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Yahoo!_Inc." title="Template talk:Yahoo! Inc."><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Yahoo!_Inc.&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Yahoo!" style="font-size:114%;margin:0 4em"><a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Websites</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Yahoo.com" class="mw-redirect" title="Yahoo.com">Yahoo.com</a>
+<ul><li><a href="/wiki/Yahoo!_Entertainment" class="mw-redirect" title="Yahoo! Entertainment">Entertainment</a></li>
+<li><a href="/wiki/Yahoo!_Finance" title="Yahoo! Finance">Finance</a></li>
+<li><a href="/wiki/Yahoo!_News" title="Yahoo! News">News</a></li>
+<li><a href="/wiki/Yahoo!_Search" title="Yahoo! Search">Search</a></li>
+<li><a href="/wiki/Yahoo!_Shopping" class="mw-redirect" title="Yahoo! Shopping">Shopping</a></li>
+<li><a href="/wiki/Yahoo!_Small_Business" class="mw-redirect" title="Yahoo! Small Business">Small Business</a></li>
+<li><a href="/wiki/Yahoo!_Sports" class="mw-redirect" title="Yahoo! Sports">Sports</a></li>
+<li><a href="/wiki/Yahoo!_Lifestyle" class="mw-redirect" title="Yahoo! Lifestyle">Lifestyle</a></li>
+<li><a href="/wiki/Yahoo!_View" title="Yahoo! View">View</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Communication</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Yahoo!_Answers" title="Yahoo! Answers">Answers</a></li>
+<li><a href="/wiki/Yahoo!_Groups" title="Yahoo! Groups">Groups</a></li>
+<li><a href="/wiki/Yahoo!_Mail" title="Yahoo! Mail">Mail</a></li>
+<li><a href="/wiki/Tumblr" title="Tumblr">Tumblr</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Software</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Yahoo!_Smart_TV" title="Yahoo! Smart TV">Smart TV</a></li>
+<li><a href="/wiki/Yahoo_Squirrel" title="Yahoo Squirrel">Squirrel</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Development</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Yahoo!_Developer_Network" class="mw-redirect" title="Yahoo! Developer Network">Developer Network</a>
+<ul><li><a href="/wiki/Yahoo!_Query_Language" title="Yahoo! Query Language">Query Language</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Corporate</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Verizon_Communications" title="Verizon Communications">Verizon</a>
+<ul><li><a href="/wiki/Oath_Inc." title="Oath Inc.">Oath</a></li></ul></li>
+<li><a href="/wiki/Criticism_of_Yahoo!" title="Criticism of Yahoo!">Criticism</a></li>
+<li><a href="/wiki/History_of_Yahoo!" title="History of Yahoo!">History</a></li>
+<li><a href="/wiki/List_of_Yahoo!-owned_sites_and_services" title="List of Yahoo!-owned sites and services">Products</a></li>
+<li><a href="/wiki/Timeline_of_Yahoo!" title="Timeline of Yahoo!">Timeline</a></li>
+<li><a href="/wiki/List_of_mergers_and_acquisitions_by_Yahoo!" title="List of mergers and acquisitions by Yahoo!">Acquisitions</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related People</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/David_Filo" title="David Filo">David Filo</a></li>
+<li><a href="/wiki/Marissa_Mayer" title="Marissa Mayer">Marissa Mayer</a></li>
+<li><a href="/wiki/Jerry_Yang" title="Jerry Yang">Jerry Yang</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AOL" title="AOL">AOL</a></li>
+<li><a href="/wiki/Altaba" title="Altaba">Altaba</a>
+<ul><li><a href="/wiki/Yahoo!_China" class="mw-redirect" title="Yahoo! China">Yahoo! China</a></li></ul></li>
+<li><a href="/wiki/Koprol" title="Koprol">Koprol</a></li>
+<li><a href="/wiki/Maktoob" title="Maktoob">Maktoob</a>
+<ul><li><a href="/wiki/Sport4ever" title="Sport4ever">Sport4ever</a></li></ul></li>
+<li><a href="/wiki/Yahoo7" title="Yahoo7">Yahoo7</a></li>
+<li><a class="mw-selflink selflink">Yahoo! Japan</a></li>
+<li><a href="/wiki/Yahoo!_Korea" title="Yahoo! Korea">Yahoo! Korea</a></li>
+<li><a href="/wiki/Yahoo!Xtra" title="Yahoo!Xtra">Yahoo!Xtra</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Nikkei_225_companies_of_Japan" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Nikkei_225" title="Template:Nikkei 225"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Nikkei_225" title="Template talk:Nikkei 225"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Nikkei_225&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Nikkei_225_companies_of_Japan" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Nikkei_225" title="Nikkei 225">Nikkei 225</a> companies of <a href="/wiki/Japan" title="Japan">Japan</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Seven_%26_I_Holdings_Co." title="Seven &amp; I Holdings Co.">7&amp;i</a></li>
+<li><a href="/wiki/Advantest" title="Advantest">Advantest</a></li>
+<li><a href="/wiki/AEON_(company)" title="AEON (company)">ÆON</a></li>
+<li><a href="/wiki/Asahi_Glass_Co." class="mw-redirect" title="Asahi Glass Co.">AGC</a></li>
+<li><a href="/wiki/Ajinomoto" title="Ajinomoto">Ajinomoto</a></li>
+<li><a href="/wiki/Alps_Electric" title="Alps Electric">Alps</a></li>
+<li><a href="/wiki/All_Nippon_Airways" title="All Nippon Airways">ANA</a></li>
+<li><a href="/wiki/Amada_Co" title="Amada Co">Amada</a></li>
+<li><a href="/wiki/Aozora_Bank" title="Aozora Bank">Aozora Bank</a></li>
+<li><a href="/wiki/Asahi_Breweries" title="Asahi Breweries">Asahi Breweries</a></li>
+<li><a href="/wiki/Asahi_Kasei" title="Asahi Kasei">Asahi Kasei</a></li>
+<li><a href="/wiki/Astellas_Pharma" title="Astellas Pharma">Astellas</a></li>
+<li><a href="/wiki/Bridgestone" title="Bridgestone">Bridgestone</a></li>
+<li><a href="/wiki/Canon_Inc." title="Canon Inc.">Canon</a></li>
+<li><a href="/wiki/Casio" title="Casio">Casio</a></li>
+<li><a href="/wiki/Chiba_Bank" title="Chiba Bank">Chiba Bank</a></li>
+<li><a href="/wiki/Chiyoda_Corporation" title="Chiyoda Corporation">Chiyoda</a></li>
+<li><a href="/wiki/Chubu_Electric_Power" title="Chubu Electric Power">Chuden</a></li>
+<li><a href="/wiki/Chugai_Pharmaceutical_Co." title="Chugai Pharmaceutical Co.">Chugai</a></li>
+<li><a href="/wiki/Citizen_Holdings" class="mw-redirect" title="Citizen Holdings">Citizen</a></li>
+<li><a href="/wiki/Comsys" title="Comsys">Comsys</a></li>
+<li><a href="/wiki/Bank_of_Yokohama" title="Bank of Yokohama">Concordia Financial</a></li>
+<li><a href="/wiki/Credit_Saison" title="Credit Saison">Credit Saison</a></li>
+<li><a href="/wiki/Dai-ichi_Life" title="Dai-ichi Life">Dai-ichi Life</a></li>
+<li><a href="/wiki/Daiichi_Sankyo" title="Daiichi Sankyo">Daiichi Sankyo</a></li>
+<li><a href="/wiki/Daikin" title="Daikin">Daikin</a></li>
+<li><a href="/wiki/Dainippon_Screen" title="Dainippon Screen">Dainippon Screen</a></li>
+<li><a href="/wiki/Dainippon_Sumitomo_Pharma" class="mw-redirect" title="Dainippon Sumitomo Pharma">Dainippon Sumitomo Pharma</a></li>
+<li><a href="/wiki/Daiwa_House" title="Daiwa House">Daiwa House</a></li>
+<li><a href="/wiki/Daiwa_Securities_Group" title="Daiwa Securities Group">Daiwa Securities</a></li>
+<li><a href="/wiki/Denki_Kagaku_Kogyo" class="mw-redirect" title="Denki Kagaku Kogyo">Denka</a></li>
+<li><a href="/wiki/Denso" title="Denso">Denso</a></li>
+<li><a href="/wiki/Dentsu" title="Dentsu">Dentsu</a></li>
+<li><a href="/wiki/Dai_Nippon_Printing" title="Dai Nippon Printing">DNP</a></li>
+<li><a href="/wiki/Dowa_Holdings" title="Dowa Holdings">Dowa</a></li>
+<li><a href="/wiki/Ebara_Corporation" title="Ebara Corporation">Ebara</a></li>
+<li><a href="/wiki/Eisai_(company)" title="Eisai (company)">Eisai</a></li>
+<li><a href="/wiki/FANUC" title="FANUC">Fanuc</a></li>
+<li><a href="/wiki/Fast_Retailing" title="Fast Retailing">Fast Retailing</a></li>
+<li><a href="/wiki/Fuji_Electric" title="Fuji Electric">Fuji Electric</a></li>
+<li><a href="/wiki/Fuji_Heavy_Industries" class="mw-redirect" title="Fuji Heavy Industries">Fuji Heavy Industries</a></li>
+<li><a href="/wiki/Fujifilm" title="Fujifilm">Fujifilm</a></li>
+<li><a href="/wiki/Fujikura" title="Fujikura">Fujikura</a></li>
+<li><a href="/wiki/Fujitsu" title="Fujitsu">Fujitsu</a></li>
+<li><a href="/wiki/Fukuoka_Financial_Group" title="Fukuoka Financial Group">Fukuoka Financial</a></li>
+<li><a href="/wiki/Furukawa_Group" title="Furukawa Group">Furukawa Co., Ltd.</a></li>
+<li><a href="/wiki/Furukawa_Electric" title="Furukawa Electric">Furukawa Electric</a></li>
+<li><a href="/wiki/GS_Yuasa" title="GS Yuasa">GS Yuasa</a></li>
+<li><a href="/wiki/Heiwa_Real_Estate" title="Heiwa Real Estate">Heiwa Real Estate</a></li>
+<li><a href="/wiki/Hino_Motors" title="Hino Motors">Hino</a></li>
+<li><a href="/wiki/Hitachi" title="Hitachi">Hitachi</a></li>
+<li><a href="/wiki/Hitachi_Construction_Machinery" title="Hitachi Construction Machinery">Hitachi Construction Machinery</a></li>
+<li><a href="/wiki/Hitachi_Zosen_Corporation" title="Hitachi Zosen Corporation">Hitz</a></li>
+<li><a href="/wiki/Hokuetsu_Paper_Mills" title="Hokuetsu Paper Mills">Hokuetsu Paper</a></li>
+<li><a href="/wiki/Honda" title="Honda">Honda</a></li>
+<li><a href="/wiki/IHI_Corporation" title="IHI Corporation">IHI</a></li>
+<li><a href="/wiki/Inpex" title="Inpex">INPEX</a></li>
+<li><a href="/wiki/Isetan_Mitsukoshi_Holdings" title="Isetan Mitsukoshi Holdings">Isetan-Mitsukoshi</a></li>
+<li><a href="/wiki/Isuzu_Motors" title="Isuzu Motors">Isuzu</a></li>
+<li><a href="/wiki/Itochu" title="Itochu">Itochu</a></li>
+<li><a href="/wiki/JFE_Holdings" title="JFE Holdings">JFE</a></li>
+<li><a href="/wiki/J._Front_Retailing" title="J. Front Retailing">J. Front Retailing</a></li>
+<li><a href="/wiki/JGC_Corporation" title="JGC Corporation">JGC</a></li>
+<li><a href="/wiki/Central_Japan_Railway_Company" title="Central Japan Railway Company">JR Central</a></li>
+<li><a href="/wiki/East_Japan_Railway_Company" title="East Japan Railway Company">JR East</a></li>
+<li><a href="/wiki/West_Japan_Railway_Company" title="West Japan Railway Company">JR West</a></li>
+<li><a href="/wiki/Japan_Steel_Works" title="Japan Steel Works">JSW</a></li>
+<li><a href="/wiki/Japan_Tobacco" title="Japan Tobacco">JT</a></li>
+<li><a href="/wiki/JTEKT" title="JTEKT">JTEKT</a></li>
+<li><a href="/wiki/JXTG_Holdings" title="JXTG Holdings">JXTG</a></li>
+<li><a href="/wiki/Kajima" title="Kajima">Kajima</a></li>
+<li><a href="/wiki/Kansai_Electric_Power_Company" title="Kansai Electric Power Company">KEPCO</a></li>
+<li><a href="/wiki/Kao_Corporation" title="Kao Corporation">Kao</a></li>
+<li><a href="/wiki/Kawasaki_Heavy_Industries" title="Kawasaki Heavy Industries">Kawasaki</a></li>
+<li><a href="/wiki/KDDI" title="KDDI">KDDI</a></li>
+<li><a href="/wiki/Keio_Corporation" title="Keio Corporation">Keio</a></li>
+<li><a href="/wiki/Keisei_Electric_Railway" title="Keisei Electric Railway">Keisei</a></li>
+<li><a href="/wiki/Kikkoman" title="Kikkoman">Kikkoman</a></li>
+<li><a href="/wiki/Kirin_Brewery_Company" class="mw-redirect" title="Kirin Brewery Company">Kirin</a></li>
+<li><a href="/wiki/K_Line" title="K Line">K Line</a></li>
+<li><a href="/wiki/Kobe_Steel" title="Kobe Steel">Kobelco</a></li>
+<li><a href="/wiki/Komatsu_Limited" title="Komatsu Limited">Komatsu</a></li>
+<li><a href="/wiki/Konami" title="Konami">Konami</a></li>
+<li><a href="/wiki/Konica_Minolta" title="Konica Minolta">Konica Minolta</a></li>
+<li><a href="/wiki/Kubota_Corporation" class="mw-redirect" title="Kubota Corporation">Kubota</a></li>
+<li><a href="/wiki/Kuraray" title="Kuraray">Kuraray</a></li>
+<li><a href="/wiki/Kyocera" title="Kyocera">Kyocera</a></li>
+<li><a href="/wiki/Kyowa_Hakko_Kirin" title="Kyowa Hakko Kirin">Kyowa Hakko Kirin</a></li>
+<li><a href="/wiki/Marubeni" title="Marubeni">Marubeni</a></li>
+<li><a href="/wiki/Maruha_Nichiro" title="Maruha Nichiro">Maruha Nichiro</a></li>
+<li><a href="/wiki/Marui" title="Marui">Marui</a></li>
+<li><a href="/wiki/Matsui_Securities" title="Matsui Securities">Matsui Securities</a></li>
+<li><a href="/wiki/Mazda" title="Mazda">Mazda</a></li>
+<li><a href="/wiki/Meidensha" title="Meidensha">Meidensha</a></li>
+<li><a href="/wiki/Meiji_Holdings" title="Meiji Holdings">Meiji Holdings</a></li>
+<li><a href="/wiki/Mitsui_Engineering_%26_Shipbuilding" title="Mitsui Engineering &amp; Shipbuilding">MES</a></li>
+<li><a href="/wiki/Minebea" title="Minebea">Minebea</a></li>
+<li><a href="/wiki/Mitsubishi_Chemical_Holdings" title="Mitsubishi Chemical Holdings">Mitsubishi Chemical</a></li>
+<li><a href="/wiki/Mitsubishi_Corporation" title="Mitsubishi Corporation">Mitsubishi Corporation</a></li>
+<li><a href="/wiki/Mitsubishi_Electric" title="Mitsubishi Electric">Mitsubishi Electric</a></li>
+<li><a href="/wiki/Mitsubishi_Estate" title="Mitsubishi Estate">Mitsubishi Estate</a></li>
+<li><a href="/wiki/Mitsubishi_Heavy_Industries" title="Mitsubishi Heavy Industries">Mitsubishi Heavy Industries</a></li>
+<li><a href="/wiki/Mitsubishi_Logistics" title="Mitsubishi Logistics">Mitsubishi Logistics</a></li>
+<li><a href="/wiki/Mitsubishi_Materials" title="Mitsubishi Materials">Mitsubishi Materials</a></li>
+<li><a href="/wiki/Mitsubishi_Motors" title="Mitsubishi Motors">Mitsubishi Motors</a></li>
+<li><a href="/wiki/Mitsui_%26_Co." title="Mitsui &amp; Co.">Mitsui &amp; Co.</a></li>
+<li><a href="/wiki/Mitsui_Chemicals" title="Mitsui Chemicals">Mitsui Chemicals</a></li>
+<li><a href="/wiki/Mitsui_Fudosan" title="Mitsui Fudosan">Mitsui Fudosan</a></li>
+<li><a href="/wiki/Mitsui" title="Mitsui">Mitsui Kinzoku</a></li>
+<li><a href="/wiki/Mitsumi_Electric" title="Mitsumi Electric">Mitsumi Electric</a></li>
+<li><a href="/wiki/Mizuho_Financial_Group" title="Mizuho Financial Group">Mizuho</a></li>
+<li><a href="/wiki/Mitsui_O.S.K._Lines" title="Mitsui O.S.K. Lines">MOL</a></li>
+<li><a href="/wiki/MS%26AD_Insurance_Group" title="MS&amp;AD Insurance Group">MS&amp;AD</a></li>
+<li><a href="/wiki/Mitsubishi_UFJ_Financial_Group" title="Mitsubishi UFJ Financial Group">MUFG</a></li>
+<li><a href="/wiki/NEC" title="NEC">NEC</a></li>
+<li><a href="/wiki/Nippon_Electric_Glass" title="Nippon Electric Glass">NEG</a></li>
+<li><a href="/wiki/NGK_Insulators" title="NGK Insulators">NGK</a></li>
+<li><a href="/wiki/Nichirei" title="Nichirei">Nichirei</a></li>
+<li><a href="/wiki/Nikon" title="Nikon">Nikon</a></li>
+<li><a href="/wiki/Nippon_Express" title="Nippon Express">Nippon Express</a></li>
+<li><a href="/wiki/Nippon_Kayaku" title="Nippon Kayaku">Nippon Kayaku</a></li>
+<li><a href="/wiki/Nippon_Light_Metal" title="Nippon Light Metal">Nippon Light Metal</a></li>
+<li><a href="/wiki/Nippon_Ham" title="Nippon Ham">Nippon Ham</a></li>
+<li><a href="/wiki/Nippon_Paper_Industries" title="Nippon Paper Industries">Nippon Paper Industries</a></li>
+<li><a href="/wiki/Nippon_Soda_Co.,_Ltd." title="Nippon Soda Co., Ltd.">Nippon Soda</a></li>
+<li><a href="/wiki/Nippon_Suisan_Kaisha" title="Nippon Suisan Kaisha">Nippon Suisan</a></li>
+<li><a href="/wiki/Nissan_Motor_Company" class="mw-redirect" title="Nissan Motor Company">Nissan</a></li>
+<li><a href="/wiki/Nissan_Chemical_Industries" title="Nissan Chemical Industries">Nissan Chemical</a></li>
+<li><a href="/wiki/Nisshin_Seifun_Group" title="Nisshin Seifun Group">Nisshin Seifun</a></li>
+<li><a href="/wiki/Nisshin_Steel" class="mw-redirect" title="Nisshin Steel">Nisshin Steel</a></li>
+<li><a href="/wiki/Nisshinbo_Holdings" title="Nisshinbo Holdings">Nisshinbo</a></li>
+<li><a href="/wiki/Nitto_Boseki" title="Nitto Boseki">Nittobo</a></li>
+<li><a href="/wiki/Nitto_Denko" title="Nitto Denko">Nitto Denko</a></li>
+<li><a href="/wiki/Sompo_Japan_Nipponkoa_Holdings" title="Sompo Japan Nipponkoa Holdings">Sompo Japan Nipponkoa Holdings</a></li>
+<li><a href="/wiki/Nomura_Holdings" title="Nomura Holdings">Nomura</a></li>
+<li><a href="/wiki/Nippon_Sheet_Glass" title="Nippon Sheet Glass">NSG</a></li>
+<li><a href="/wiki/NSK_Ltd." title="NSK Ltd.">NSK</a></li>
+<li><a href="/wiki/Nippon_Steel" class="mw-redirect" title="Nippon Steel">NSSMC</a></li>
+<li><a href="/wiki/NTN_Corporation" title="NTN Corporation">NTN</a></li>
+<li><a href="/wiki/Nippon_Telegraph_and_Telephone" title="Nippon Telegraph and Telephone">NTT</a></li>
+<li><a href="/wiki/NTT_Data" title="NTT Data">NTT Data</a></li>
+<li><a href="/wiki/NTT_DoCoMo" title="NTT DoCoMo">NTT DoCoMo</a></li>
+<li><a href="/wiki/Nippon_Yusen" title="Nippon Yusen">NYK</a></li>
+<li><a href="/wiki/Obayashi_Corporation" title="Obayashi Corporation">Obayashi</a></li>
+<li><a href="/wiki/Odakyu_Electric_Railway" title="Odakyu Electric Railway">Odakyu</a></li>
+<li><a href="/wiki/Oji_Paper_Company" title="Oji Paper Company">Oji Holdings Corporation</a></li>
+<li><a href="/wiki/OKI_(company)" class="mw-redirect" title="OKI (company)">OKI</a></li>
+<li><a href="/wiki/Okuma_Corporation" title="Okuma Corporation">Okuma</a></li>
+<li><a href="/wiki/Olympus_Corporation" title="Olympus Corporation">Olympus</a></li>
+<li><a href="/wiki/Osaka_Gas" title="Osaka Gas">Osaka Gas</a></li>
+<li><a href="/wiki/Pacific_Metals" title="Pacific Metals">Pacific Metals</a></li>
+<li><a href="/wiki/Panasonic" title="Panasonic">Panasonic</a></li>
+<li><a href="/wiki/Pioneer_Corporation" title="Pioneer Corporation">Pioneer</a></li>
+<li><a href="/wiki/Resona_Holdings" title="Resona Holdings">Resona</a></li>
+<li><a href="/wiki/Ricoh" title="Ricoh">Ricoh</a></li>
+<li><a href="/wiki/Sapporo_Brewery" title="Sapporo Brewery">Sapporo Holdings</a></li>
+<li><a href="/wiki/Secom" title="Secom">Secom</a></li>
+<li><a href="/wiki/Sekisui_House" title="Sekisui House">Sekisui House</a></li>
+<li><a href="/wiki/Sharp_Corporation" title="Sharp Corporation">Sharp</a></li>
+<li><a href="/wiki/Shimizu_Corporation" title="Shimizu Corporation">Shimz</a></li>
+<li><a href="/wiki/Shin-Etsu_Chemical" title="Shin-Etsu Chemical">Shin-Etsu</a></li>
+<li><a href="/wiki/Shinsei_Bank" title="Shinsei Bank">Shinsei Bank</a></li>
+<li><a href="/wiki/Shionogi" title="Shionogi">Shionogi</a></li>
+<li><a href="/wiki/Shiseido" title="Shiseido">Shiseido</a></li>
+<li><a href="/wiki/Shizuoka_Bank" title="Shizuoka Bank">Shizuoka Bank</a></li>
+<li><a href="/wiki/Showa_Denko" title="Showa Denko">Showa Denko</a></li>
+<li><a href="/wiki/Royal_Dutch_Shell" title="Royal Dutch Shell">Showa Shell</a></li>
+<li><a href="/wiki/SKY_Perfect_JSAT_Group" title="SKY Perfect JSAT Group">SKY Perfect JSAT</a></li>
+<li><a href="/wiki/SoftBank" class="mw-redirect" title="SoftBank">SoftBank</a></li>
+<li><a href="/wiki/Sojitz" title="Sojitz">Sojitz</a></li>
+<li><a href="/wiki/Sony" title="Sony">Sony</a></li>
+<li><a href="/wiki/Sony_Financial" class="mw-redirect" title="Sony Financial">Sony Financial</a></li>
+<li><a href="/wiki/SUMCO" title="SUMCO">SUMCO</a></li>
+<li><a href="/wiki/Sumitomo_Chemical" title="Sumitomo Chemical">Sumitomo Chemical</a></li>
+<li><a href="/wiki/Sumitomo_Corporation" title="Sumitomo Corporation">Sumitomo Corporation</a></li>
+<li><a href="/wiki/Sumitomo_Electric_Industries" title="Sumitomo Electric Industries">Sumitomo Electric</a></li>
+<li><a href="/wiki/Sumitomo_Heavy_Industries" title="Sumitomo Heavy Industries">Sumitomo Heavy Industries</a></li>
+<li><a href="/wiki/Sumitomo_Group" title="Sumitomo Group">Sumitomo Metal Mining</a></li>
+<li><a href="/wiki/Sumitomo_Mitsui_Financial_Group" title="Sumitomo Mitsui Financial Group">Sumitomo Mitsui Financial</a></li>
+<li><a href="/wiki/Sumitomo_Mitsui_Trust_Holdings" title="Sumitomo Mitsui Trust Holdings">Sumitomo Mitsui Trust</a></li>
+<li><a href="/wiki/Sumitomo_Group" title="Sumitomo Group">Sumitomo Osaka Cement</a></li>
+<li><a href="/wiki/Sumitomo_Realty_%26_Development" title="Sumitomo Realty &amp; Development">Sumitomo Realty</a></li>
+<li><a href="/wiki/Suzuki" title="Suzuki">Suzuki</a></li>
+<li><a href="/wiki/T%26D_Holdings" title="T&amp;D Holdings">T&amp;D</a></li>
+<li><a href="/wiki/Taiheiyo_Cement" title="Taiheiyo Cement">Taiheiyo Cement</a></li>
+<li><a href="/wiki/Taisei_Corporation" title="Taisei Corporation">Taisei</a></li>
+<li><a href="/wiki/Taiyo_Yuden" title="Taiyo Yuden">Taiyo Yuden</a></li>
+<li><a href="/wiki/Takara_Holdings" title="Takara Holdings">Takara</a></li>
+<li><a href="/wiki/Takashimaya" title="Takashimaya">Takashimaya</a></li>
+<li><a href="/wiki/Takeda_Pharmaceutical_Company" title="Takeda Pharmaceutical Company">Takeda</a></li>
+<li><a href="/wiki/TDK" title="TDK">TDK</a></li>
+<li><a href="/wiki/Teijin" title="Teijin">Teijin</a></li>
+<li><a href="/wiki/Tokyo_Electric_Power_Company" title="Tokyo Electric Power Company">TEPCO</a></li>
+<li><a href="/wiki/Terumo" title="Terumo">Terumo</a></li>
+<li><a href="/wiki/Tobu_Railway" title="Tobu Railway">Tobu</a></li>
+<li><a href="/wiki/Toho" title="Toho">Toho</a></li>
+<li><a href="/wiki/Toho_Zinc" title="Toho Zinc">Toho Zinc</a></li>
+<li><a href="/wiki/Tokai_Carbon" title="Tokai Carbon">Tokai Carbon</a></li>
+<li><a href="/wiki/Tokuyama_Corporation" title="Tokuyama Corporation">Tokuyama Corporation</a></li>
+<li><a href="/wiki/Toyo_Seikan" title="Toyo Seikan">Toyo Seikan</a></li>
+<li><a href="/wiki/Tokio_Marine" title="Tokio Marine">Tokio Marine</a></li>
+<li><a href="/wiki/Tokyo_Dome" title="Tokyo Dome">Tokyo Dome</a></li>
+<li><a href="/wiki/Tokyo_Electron" title="Tokyo Electron">Tokyo Electron</a></li>
+<li><a href="/wiki/Tokyo_Gas" title="Tokyo Gas">Tokyo Gas</a></li>
+<li><a href="/wiki/Tokyo_Tatemono" title="Tokyo Tatemono">Tokyo Tatemono</a></li>
+<li><a href="/wiki/Tokyu_Corporation" title="Tokyu Corporation">Tokyu</a></li>
+<li><a href="/wiki/Tokyu_Land" title="Tokyu Land">Tokyu Land</a></li>
+<li><a href="/wiki/Toppan" title="Toppan">Toppan</a></li>
+<li><a href="/wiki/Toray_Industries" title="Toray Industries">Toray</a></li>
+<li><a href="/wiki/Toshiba" title="Toshiba">Toshiba</a></li>
+<li><a href="/wiki/Tosoh" title="Tosoh">Tosoh</a></li>
+<li><a href="/wiki/Toto_Ltd." title="Toto Ltd.">Toto</a></li>
+<li><a href="/wiki/Toyobo" title="Toyobo">Toyobo</a></li>
+<li><a href="/wiki/Toyota" title="Toyota">Toyota</a></li>
+<li><a href="/wiki/Toyota_Tsusho" title="Toyota Tsusho">Toyota Tsusho</a></li>
+<li><a href="/wiki/Trend_Micro" title="Trend Micro">Trend Micro</a></li>
+<li><a href="/wiki/Ube_Industries" title="Ube Industries">Ube</a></li>
+<li><a href="/wiki/Unitika" title="Unitika">Unitika</a></li>
+<li><a href="/wiki/Uny" title="Uny">Uny</a></li>
+<li><a class="mw-selflink selflink">Yahoo! Japan</a></li>
+<li><a href="/wiki/Yamaha_Corporation" title="Yamaha Corporation">Yamaha</a></li>
+<li><a href="/wiki/Yamato_Transport" title="Yamato Transport">Yamato Transport</a></li>
+<li><a href="/wiki/Yaskawa_Electric_Corporation" title="Yaskawa Electric Corporation">Yasakawa</a></li>
+<li><a href="/wiki/Yokogawa_Electric" title="Yokogawa Electric">Yokogawa Electric</a></li>
+<li><a href="/wiki/Yokohama_Rubber_Company" title="Yokohama Rubber Company">Yokohama Rubber</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2239
+Cached time: 20180929134112
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.468 seconds
+Real time usage: 0.606 seconds
+Preprocessor visited node count: 2294/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 79469/2097152 bytes
+Template argument size: 3831/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 27787/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.155/10.000 seconds
+Lua memory usage: 4.33 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  435.210      1 -total
+ 40.80%  177.579      1 Template:Infobox_dot-com_company
+ 34.96%  152.131      1 Template:Infobox
+ 23.50%  102.288      1 Template:Reflist
+ 17.81%   77.497      8 Template:Cite_web
+  5.99%   26.074      1 Template:As_of
+  5.98%   26.017      4 Template:Navbox
+  5.73%   24.956      2 Template:DMCA
+  5.08%   22.121      1 Template:Nihongo
+  5.05%   21.972      1 Template:Official_website
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:873350-0!canonical and timestamp 20180929134112 and revision id 861420283
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Yahoo!_Japan&amp;oldid=861420283">https://en.wikipedia.org/w/index.php?title=Yahoo!_Japan&amp;oldid=861420283</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Companies_listed_on_the_Tokyo_Stock_Exchange" title="Category:Companies listed on the Tokyo Stock Exchange">Companies listed on the Tokyo Stock Exchange</a></li><li><a href="/wiki/Category:Companies_listed_on_the_JASDAQ_Securities_Exchange" title="Category:Companies listed on the JASDAQ Securities Exchange">Companies listed on the JASDAQ Securities Exchange</a></li><li><a href="/wiki/Category:Yahoo!_international" title="Category:Yahoo! international">Yahoo! international</a></li><li><a href="/wiki/Category:Internet_in_Japan" title="Category:Internet in Japan">Internet in Japan</a></li><li><a href="/wiki/Category:Telecommunications_companies_based_in_Tokyo" title="Category:Telecommunications companies based in Tokyo">Telecommunications companies based in Tokyo</a></li><li><a href="/wiki/Category:Companies_established_in_1996" title="Category:Companies established in 1996">Companies established in 1996</a></li><li><a href="/wiki/Category:1996_establishments_in_Japan" title="Category:1996 establishments in Japan">1996 establishments in Japan</a></li><li><a href="/wiki/Category:Japanese_brands" title="Category:Japanese brands">Japanese brands</a></li><li><a href="/wiki/Category:Media_companies_based_in_Tokyo" title="Category:Media companies based in Tokyo">Media companies based in Tokyo</a></li><li><a href="/wiki/Category:Japanese_websites" title="Category:Japanese websites">Japanese websites</a></li><li><a href="/wiki/Category:Entertainment_websites" title="Category:Entertainment websites">Entertainment websites</a></li><li><a href="/wiki/Category:Video_on_demand_services" title="Category:Video on demand services">Video on demand services</a></li><li><a href="/wiki/Category:Internet_television" title="Category:Internet television">Internet television</a></li><li><a href="/wiki/Category:Japanese-language_websites" title="Category:Japanese-language websites">Japanese-language websites</a></li><li><a href="/wiki/Category:SoftBank" title="Category:SoftBank">SoftBank</a></li><li><a href="/wiki/Category:1997_initial_public_offerings" title="Category:1997 initial public offerings">1997 initial public offerings</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_BOT:_original-url_status_unknown" title="Category:CS1 maint: BOT: original-url status unknown">CS1 maint: BOT: original-url status unknown</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_March_2018" title="Category:Articles containing potentially dated statements from March 2018">Articles containing potentially dated statements from March 2018</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Articles_containing_Japanese-language_text" title="Category:Articles containing Japanese-language text">Articles containing Japanese-language text</a></li><li><a href="/wiki/Category:Incomplete_lists_from_December_2015" title="Category:Incomplete lists from December 2015">Incomplete lists from December 2015</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li><li><a href="/wiki/Category:Articles_with_Japanese-language_external_links" title="Category:Articles with Japanese-language external links">Articles with Japanese-language external links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Yahoo%21+Japan" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Yahoo%21+Japan" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Yahoo!_Japan" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Yahoo!_Japan" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Yahoo!_Japan">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Yahoo!_Japan&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Yahoo!_Japan&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Yahoo!_Japan" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Yahoo!_Japan" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Yahoo!_Japan&amp;oldid=861420283" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Yahoo!_Japan&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1146428" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Yahoo%21_Japan&amp;id=861420283" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Yahoo%21+Japan">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Yahoo%21+Japan&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Yahoo!_Japan&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Yahoo!_Japan" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B9%E0%A7%81!_%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8" title="ইয়াহু! জাপান – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Yahoo!_Japan" title="Yahoo! Japan – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Yahoo!_Japan" title="Yahoo! Japan – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DB%8C%D8%A7%D9%87%D9%88!_%DA%98%D8%A7%D9%BE%D9%86" title="یاهو! ژاپن – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Yahoo!_Japan" title="Yahoo! Japan – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%BC%ED%9B%84!_%EC%9E%AC%ED%8C%AC" title="야후! 재팬 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Yahoo!_Japan" title="Yahoo! Japan – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Yahoo!_Japan" title="Yahoo! Japan – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%95%E3%83%BC_(%E4%BC%81%E6%A5%AD)" title="ヤフー (企業) – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Yahoo!_Japan" title="Yahoo! Japan – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Yahoo!_Japan" title="Yahoo! Japan – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Yahoo!_Japan" title="Yahoo! Japan – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Yahoo!_Japan" title="Yahoo! Japan – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%9B%85%E8%99%8E%E6%97%A5%E6%9C%AC" title="雅虎日本 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1146428#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 27 September 2018, at 08:45<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Yahoo!_Japan&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.468","walltime":"0.606","ppvisitednodes":{"value":2294,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":79469,"limit":2097152},"templateargumentsize":{"value":3831,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":27787,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  435.210      1 -total"," 40.80%  177.579      1 Template:Infobox_dot-com_company"," 34.96%  152.131      1 Template:Infobox"," 23.50%  102.288      1 Template:Reflist"," 17.81%   77.497      8 Template:Cite_web","  5.99%   26.074      1 Template:As_of","  5.98%   26.017      4 Template:Navbox","  5.73%   24.956      2 Template:DMCA","  5.08%   22.121      1 Template:Nihongo","  5.05%   21.972      1 Template:Official_website"]},"scribunto":{"limitreport-timeusage":{"value":"0.155","limit":"10.000"},"limitreport-memusage":{"value":4542905,"limit":52428800}},"cachereport":{"origin":"mw2239","timestamp":"20180929134112","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw2191"});});</script>
+	</body>
+</html>

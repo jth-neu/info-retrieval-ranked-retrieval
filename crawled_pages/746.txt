@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Outline of Wales - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Outline_of_Wales","wgTitle":"Outline of Wales","wgCurRevisionId":839576845,"wgRevisionId":839576845,"wgArticleId":25154335,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","Articles including recorded pronunciations (English)","Outlines of countries","Wales","Wales-related lists"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Outline_of_Wales","wgRelevantArticleId":25154335,"wgRequestId":"W6@NagrAMF4AABBjsFIAAABT","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7112513","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Wales_%281959%E2%80%93present%29.svg/1200px-Flag_of_Wales_%281959%E2%80%93present%29.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Outline_of_Wales"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Outline_of_Wales&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Outline_of_Wales&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Outline_of_Wales"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Outline_of_Wales rootpage-Outline_of_Wales skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Outline of Wales</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r856303569">@media all and (max-width:720px){.mw-parser-output .tmulti>.thumbinner{width:100%!important;max-width:none!important}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:none!important;width:100%!important;text-align:center}}</style><div class="thumb tmulti tright"><div class="thumbinner" style="width:418px;max-width:418px"><div class="tsingle" style="float:left;margin:1px;width:272px;max-width:272px"><div class="thumbimage"><a href="/wiki/File:Flag_of_Wales_(1959%E2%80%93present).svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Wales_%281959%E2%80%93present%29.svg/270px-Flag_of_Wales_%281959%E2%80%93present%29.svg.png" width="270" height="162" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Wales_%281959%E2%80%93present%29.svg/405px-Flag_of_Wales_%281959%E2%80%93present%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Wales_%281959%E2%80%93present%29.svg/540px-Flag_of_Wales_%281959%E2%80%93present%29.svg.png 2x" data-file-width="830" data-file-height="498" /></a></div><div class="thumbcaption" style="clear:left"><a href="/wiki/Flag_of_Wales" title="Flag of Wales">Flag of Wales</a></div></div><div class="tsingle" style="float:left;margin:1px;width:142px;max-width:142px"><div class="thumbimage"><a href="/wiki/File:Arms_of_Llywelyn.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Arms_of_Llywelyn.svg/140px-Arms_of_Llywelyn.svg.png" width="140" height="164" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Arms_of_Llywelyn.svg/210px-Arms_of_Llywelyn.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Arms_of_Llywelyn.svg/280px-Arms_of_Llywelyn.svg.png 2x" data-file-width="410" data-file-height="479" /></a></div><div class="thumbcaption" style="clear:left"><a href="/wiki/Royal_Badge_of_Wales" title="Royal Badge of Wales">Historic coat of arms of Wales</a></div></div><div style="clear:left"></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Europe_location_WAL2.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Europe_location_WAL2.png/250px-Europe_location_WAL2.png" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Europe_location_WAL2.png/375px-Europe_location_WAL2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Europe_location_WAL2.png/500px-Europe_location_WAL2.png 2x" data-file-width="1600" data-file-height="1200" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Europe_location_WAL2.png" class="internal" title="Enlarge"></a></div><center>Location of <b> Wales</b> (orange)</center>– in the <a href="/wiki/Europe" title="Europe">European continent</a> (camel &amp; white)<br />– in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> (camel)</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Wales_SRTM.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Wales_SRTM.png/250px-Wales_SRTM.png" width="250" height="292" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Wales_SRTM.png/375px-Wales_SRTM.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Wales_SRTM.png/500px-Wales_SRTM.png 2x" data-file-width="2313" data-file-height="2703" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Wales_SRTM.png" class="internal" title="Enlarge"></a></div>Enlargeable relief map of Wales</div></div></div>
+<p>The following <a href="/wiki/Outline_(list)" title="Outline (list)">outline</a> is provided as an overview of and topical guide to Wales:
+</p><p><b><a href="/wiki/Wales" title="Wales">Wales</a></b> &#8211; <a href="/wiki/Country" title="Country">country</a> that is <a href="/wiki/Countries_of_the_United_Kingdom" title="Countries of the United Kingdom">part of</a> the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>,<sup id="cite_ref-Stats_1_1-0" class="reference"><a href="#cite_note-Stats_1-1">&#91;1&#93;</a></sup> <a href="/wiki/Wales%E2%80%93England_border" class="mw-redirect" title="Wales–England border">bordered</a> by <a href="/wiki/England" title="England">England</a> to its east and the <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a> and <a href="/wiki/Irish_Sea" title="Irish Sea">Irish Sea</a> to its west. It has an estimated population of three million and is officially <a href="/wiki/Bilingual" class="mw-redirect" title="Bilingual">bilingual</a> with the <a href="/wiki/Welsh_language" title="Welsh language">Welsh</a> and <a href="/wiki/English_language" title="English language">English</a> languages having equal status. The Welsh language is an important element of <a href="/wiki/Culture_of_Wales" title="Culture of Wales">Welsh culture</a>. Its decline has reversed over recent years, with Welsh speakers estimated to be around 20% of the population of Wales.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<div class="toclimit-2"><div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#General_reference"><span class="tocnumber">1</span> <span class="toctext">General reference</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Geography_of_Wales"><span class="tocnumber">2</span> <span class="toctext">Geography of Wales</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Environment_of_Wales"><span class="tocnumber">2.1</span> <span class="toctext">Environment of Wales</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Natural_geographic_features_of_Wales"><span class="tocnumber">2.1.1</span> <span class="toctext">Natural geographic features of Wales</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-5"><a href="#Regions_of_Wales"><span class="tocnumber">2.2</span> <span class="toctext">Regions of Wales</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Ecoregions_of_Wales"><span class="tocnumber">2.2.1</span> <span class="toctext">Ecoregions of Wales</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Administrative_divisions_of_Wales"><span class="tocnumber">2.2.2</span> <span class="toctext">Administrative divisions of Wales</span></a>
+<ul>
+<li class="toclevel-4 tocsection-8"><a href="#Local_government_of_Wales"><span class="tocnumber">2.2.2.1</span> <span class="toctext">Local government of Wales</span></a></li>
+<li class="toclevel-4 tocsection-9"><a href="#Preserved_counties_of_Wales"><span class="tocnumber">2.2.2.2</span> <span class="toctext">Preserved counties of Wales</span></a></li>
+<li class="toclevel-4 tocsection-10"><a href="#Historic_counties_of_Wales"><span class="tocnumber">2.2.2.3</span> <span class="toctext">Historic counties of Wales</span></a></li>
+<li class="toclevel-4 tocsection-11"><a href="#Former_Districts_of_Wales"><span class="tocnumber">2.2.2.4</span> <span class="toctext">Former Districts of Wales</span></a></li>
+<li class="toclevel-4 tocsection-12"><a href="#Cities_of_Wales"><span class="tocnumber">2.2.2.5</span> <span class="toctext">Cities of Wales</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-13"><a href="#Demography_of_Wales"><span class="tocnumber">2.3</span> <span class="toctext">Demography of Wales</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Government_and_politics_of_Wales"><span class="tocnumber">3</span> <span class="toctext">Government and politics of Wales</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Branches_of_the_government_of_Wales"><span class="tocnumber">3.1</span> <span class="toctext">Branches of the government of Wales</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="#Executive"><span class="tocnumber">3.1.1</span> <span class="toctext">Executive</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Legislative"><span class="tocnumber">3.1.2</span> <span class="toctext">Legislative</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Judicial"><span class="tocnumber">3.1.3</span> <span class="toctext">Judicial</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-19"><a href="#Law_and_order_in_Wales"><span class="tocnumber">3.2</span> <span class="toctext">Law and order in Wales</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Military"><span class="tocnumber">3.3</span> <span class="toctext">Military</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Local_government_in_Wales"><span class="tocnumber">3.4</span> <span class="toctext">Local government in Wales</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#History_of_Wales"><span class="tocnumber">4</span> <span class="toctext">History of Wales</span></a>
+<ul>
+<li class="toclevel-2 tocsection-23"><a href="#History_of_Wales,_by_period"><span class="tocnumber">4.1</span> <span class="toctext">History of Wales, by period</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#History_of_Wales,_by_region"><span class="tocnumber">4.2</span> <span class="toctext">History of Wales, by region</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#History_of_Wales,_by_subject"><span class="tocnumber">4.3</span> <span class="toctext">History of Wales, by subject</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#Culture_of_Wales"><span class="tocnumber">5</span> <span class="toctext">Culture of Wales</span></a>
+<ul>
+<li class="toclevel-2 tocsection-27"><a href="#Art_in_Wales"><span class="tocnumber">5.1</span> <span class="toctext">Art in Wales</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Religion_in_Wales"><span class="tocnumber">5.2</span> <span class="toctext">Religion in Wales</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Sport_in_Wales"><span class="tocnumber">5.3</span> <span class="toctext">Sport in Wales</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-30"><a href="#Economy_and_infrastructure_of_Wales"><span class="tocnumber">6</span> <span class="toctext">Economy and infrastructure of Wales</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#Education_in_Wales"><span class="tocnumber">7</span> <span class="toctext">Education in Wales</span></a></li>
+<li class="toclevel-1 tocsection-32"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-33"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-34"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="General_reference">General reference</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=1" title="Edit section: General reference">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Pronunciation: <span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;w&#39; in &#39;wind&#39;">w</span><span title="/eɪ/: &#39;a&#39; in &#39;face&#39;">eɪ</span><span title="&#39;l&#39; in &#39;lie&#39;">l</span><span title="&#39;z&#39; in &#39;zoom&#39;">z</span></span>/</a></span><small class="nowrap">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:En-us-Wales.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/8/80/En-us-Wales.ogg" class="internal" title="En-us-Wales.ogg">listen</a></span></span>)</small></span></li>
+<li><a href="/wiki/Wales#Etymology_of_Wales" title="Wales">Etymology of "Wales"</a></li>
+<li>Common English country name(s): <a href="/wiki/Wales" title="Wales">Wales</a></li>
+<li>Official English country name(s): <a href="/wiki/Wales" title="Wales">Wales</a></li>
+<li>Common <a href="/wiki/Endonym" class="mw-redirect" title="Endonym">endonym</a>(s): <a href="/wiki/Cymru" class="mw-redirect" title="Cymru">Cymru</a> <a href="/wiki/List_of_countries_and_capitals_in_native_languages" class="mw-redirect" title="List of countries and capitals in native languages"> </a></li>
+<li>Official endonym(s): <a href="/wiki/Cymru" class="mw-redirect" title="Cymru">Cymru</a> <a href="/wiki/List_of_official_endonyms_of_present-day_nations_and_states" class="mw-redirect" title="List of official endonyms of present-day nations and states"> </a></li>
+<li><a href="/wiki/List_of_adjectival_and_demonymic_forms_of_place_names#Countries_and_nations" title="List of adjectival and demonymic forms of place names">Adjectival</a>(s): <a href="/wiki/Wales" title="Wales">Welsh</a></li>
+<li><a href="/wiki/List_of_adjectival_and_demonymic_forms_of_place_names#Countries_and_nations" title="List of adjectival and demonymic forms of place names">Demonym</a>(s): <a href="/wiki/Wales" title="Wales">Welsh</a></li></ul>
+<h2><span class="mw-headline" id="Geography_of_Wales">Geography of Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=2" title="Edit section: Geography of Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Geography_of_Wales" title="Geography of Wales">Geography of Wales</a>
+</p>
+<ul><li>Wales is: a <a href="/wiki/Country" title="Country">country</a> that is <a href="/wiki/Countries_of_the_United_Kingdom" title="Countries of the United Kingdom">part of</a> the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>.</li>
+<li>Location
+<ul><li><a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a></li>
+<li><a href="/wiki/Northern_Hemisphere" title="Northern Hemisphere">Northern Hemisphere</a></li>
+<li><a href="/wiki/Eurasia" title="Eurasia">Eurasia</a> (but not on the <a href="/wiki/Mainland" title="Mainland">mainland</a>)
+<ul><li><a href="/wiki/Europe" title="Europe">Europe</a>
+<ul><li><a href="/wiki/Northern_Europe" title="Northern Europe">Northern Europe</a> and <a href="/wiki/Western_Europe" title="Western Europe">Western Europe</a>
+<ul><li><a href="/wiki/British_Isles" title="British Isles">British Isles</a>
+<ul><li><a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> (the central southern part of the island's western side)</li>
+<li>Several other <a href="/wiki/List_of_islands_of_Wales" title="List of islands of Wales">islands of Wales</a>, the largest being <a href="/wiki/Anglesey" title="Anglesey">Anglesey</a></li></ul></li></ul></li></ul></li></ul></li>
+<li><a href="/wiki/Extreme_points_of_Wales" title="Extreme points of Wales">Extreme points of Wales</a></li></ul></li>
+<li><a href="/wiki/Welsh_people" title="Welsh people">Population of Wales</a>: 2,999,300 <small>(2009 estimate)</small></li>
+<li><a href="/wiki/List_of_unusual_units_of_measurement#Various_countries,_regions,_and_cities" title="List of unusual units of measurement">Area of Wales</a>: 20,779&#160;km<sup>2</sup> (8,023&#160;sq&#160;mi)</li>
+<li><a href="https://commons.wikimedia.org/wiki/Atlas_of_Wales" class="extiw" title="commons:Atlas of Wales">Atlas of Wales</a></li></ul>
+<h3><span class="mw-headline" id="Environment_of_Wales">Environment of Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=3" title="Edit section: Environment of Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/w/index.php?title=Environment_of_Wales&amp;action=edit&amp;redlink=1" class="new" title="Environment of Wales (page does not exist)">Environment of Wales</a>
+</p>
+<ul><li><a href="/wiki/Climate_of_Wales" class="mw-redirect" title="Climate of Wales">Climate of Wales</a></li>
+<li><a href="/w/index.php?title=Ecology_of_Wales&amp;action=edit&amp;redlink=1" class="new" title="Ecology of Wales (page does not exist)">Ecology of Wales</a>
+<ul><li><a href="/w/index.php?title=Renewable_energy_in_Wales&amp;action=edit&amp;redlink=1" class="new" title="Renewable energy in Wales (page does not exist)">Renewable energy in Wales</a></li></ul></li>
+<li><a href="/wiki/Geology_of_Wales" title="Geology of Wales">Geology of Wales</a></li>
+<li><a href="/wiki/Protected_areas_of_Wales" title="Protected areas of Wales">Protected areas of Wales</a>
+<ul><li><a href="/w/index.php?title=List_of_biosphere_reserves_in_Wales&amp;action=edit&amp;redlink=1" class="new" title="List of biosphere reserves in Wales (page does not exist)">Biosphere reserves in Wales</a></li>
+<li><a href="/wiki/List_of_national_parks_of_Wales" class="mw-redirect" title="List of national parks of Wales">National parks of Wales</a></li></ul></li>
+<li><a href="/w/index.php?title=Wildlife_of_Wales&amp;action=edit&amp;redlink=1" class="new" title="Wildlife of Wales (page does not exist)">Wildlife of Wales</a>
+<ul><li><a href="/wiki/Fauna_of_Wales" class="mw-redirect" title="Fauna of Wales">Fauna of Wales</a>
+<ul><li><a href="/wiki/List_of_birds_of_Wales" title="List of birds of Wales">Birds of Wales</a></li>
+<li><a href="/w/index.php?title=List_of_mammals_of_Wales&amp;action=edit&amp;redlink=1" class="new" title="List of mammals of Wales (page does not exist)">Mammals of Wales</a></li></ul></li></ul></li></ul>
+<h4><span class="mw-headline" id="Natural_geographic_features_of_Wales">Natural geographic features of Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=4" title="Edit section: Natural geographic features of Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/List_of_islands_of_Wales" title="List of islands of Wales">Islands of Wales</a></li>
+<li><a href="/wiki/List_of_lakes_in_Wales" class="mw-redirect" title="List of lakes in Wales">Lakes of Wales</a></li>
+<li><a href="/wiki/List_of_mountains_of_Wales" class="mw-redirect" title="List of mountains of Wales">Mountains of Wales</a>
+<ul><li><a href="/wiki/List_of_volcanoes_in_Wales" class="mw-redirect" title="List of volcanoes in Wales">Volcanoes in Wales</a></li></ul></li>
+<li><a href="/wiki/List_of_rivers_of_Wales" title="List of rivers of Wales">Rivers of Wales</a>
+<ul><li><a href="/wiki/List_of_waterfalls_of_Wales" title="List of waterfalls of Wales">Waterfalls of Wales</a></li></ul></li>
+<li><a href="/wiki/South_Wales_Valleys" title="South Wales Valleys">South Wales Valleys</a></li>
+<li><a href="/wiki/List_of_World_Heritage_Sites_of_the_United_Kingdom" class="mw-redirect" title="List of World Heritage Sites of the United Kingdom">World Heritage Sites in Wales</a></li></ul>
+<h3><span class="mw-headline" id="Regions_of_Wales">Regions of Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=5" title="Edit section: Regions of Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/w/index.php?title=Regions_of_Wales&amp;action=edit&amp;redlink=1" class="new" title="Regions of Wales (page does not exist)">Regions of Wales</a>
+</p>
+<ul><li><a href="/wiki/South_West_Wales" title="South West Wales">South West Wales</a></li>
+<li><a href="/wiki/South_Wales" title="South Wales">South Wales</a></li>
+<li><a href="/wiki/Mid_Wales" title="Mid Wales">Mid Wales</a></li>
+<li><a href="/wiki/North_Wales" title="North Wales">North Wales</a></li>
+<li><a href="/wiki/West_Wales" title="West Wales">West Wales</a></li></ul>
+<h4><span class="mw-headline" id="Ecoregions_of_Wales">Ecoregions of Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=6" title="Edit section: Ecoregions of Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/w/index.php?title=List_of_ecoregions_in_Wales&amp;action=edit&amp;redlink=1" class="new" title="List of ecoregions in Wales (page does not exist)">List of ecoregions in Wales</a>
+</p>
+<h4><span class="mw-headline" id="Administrative_divisions_of_Wales">Administrative divisions of Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=7" title="Edit section: Administrative divisions of Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Administrative_divisions_of_Wales" class="mw-redirect" title="Administrative divisions of Wales">Administrative divisions of Wales</a>
+</p>
+<ul><li><a href="/wiki/Local_government_in_Wales" title="Local government in Wales">Local government in Wales</a>
+<ul><li><a href="/wiki/Cities_of_Wales" class="mw-redirect" title="Cities of Wales">Cities of Wales</a></li>
+<li><a href="/wiki/List_of_towns_in_Wales" title="List of towns in Wales">Towns in Wales</a></li>
+<li><a href="/wiki/Communities_of_Wales" class="mw-redirect" title="Communities of Wales">Communities of Wales</a></li></ul></li>
+<li><a href="/wiki/Preserved_counties_of_Wales" title="Preserved counties of Wales">Preserved counties of Wales</a></li>
+<li><a href="/wiki/Historic_counties_of_Wales" title="Historic counties of Wales">Historic counties of Wales</a></li></ul>
+<h5><span class="mw-headline" id="Local_government_of_Wales">Local government of Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=8" title="Edit section: Local government of Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p><a href="/wiki/Local_government_in_Wales" title="Local government in Wales">Local government in Wales</a>
+</p>
+<ul><li><a href="/wiki/Blaenau_Gwent" title="Blaenau Gwent">Blaenau Gwent</a></li>
+<li><a href="/wiki/Bridgend" title="Bridgend">Bridgend</a></li>
+<li><a href="/wiki/Caerphilly" title="Caerphilly">Caerphilly</a></li>
+<li><a href="/wiki/Cardiff" title="Cardiff">Cardiff</a></li>
+<li><a href="/wiki/Carmarthenshire" title="Carmarthenshire">Carmarthenshire</a></li>
+<li><a href="/wiki/Ceredigion" title="Ceredigion">Ceredigion</a></li>
+<li><a href="/wiki/Conwy" title="Conwy">Conwy</a></li>
+<li><a href="/wiki/Denbighshire" title="Denbighshire">Denbighshire</a></li>
+<li><a href="/wiki/Flintshire" title="Flintshire">Flintshire</a></li>
+<li><a href="/wiki/Gwynedd" title="Gwynedd">Gwynedd</a></li>
+<li><a href="/wiki/Isle_of_Anglesey" class="mw-redirect" title="Isle of Anglesey">Isle of Anglesey</a></li>
+<li><a href="/wiki/Merthyr_Tydfil" title="Merthyr Tydfil">Merthyr Tydfil</a></li>
+<li><a href="/wiki/Monmouthshire" title="Monmouthshire">Monmouthshire</a></li>
+<li><a href="/wiki/Neath_Port_Talbot" title="Neath Port Talbot">Neath Port Talbot</a></li>
+<li><a href="/wiki/Newport,_Wales" title="Newport, Wales">Newport</a></li>
+<li><a href="/wiki/Pembrokeshire" title="Pembrokeshire">Pembrokeshire</a></li>
+<li><a href="/wiki/Powys" title="Powys">Powys</a></li>
+<li><a href="/wiki/Rhondda_Cynon_Taf" title="Rhondda Cynon Taf">Rhondda Cynon Taf</a></li>
+<li><a href="/wiki/Swansea" title="Swansea">Swansea</a></li>
+<li><a href="/wiki/Torfaen" title="Torfaen">Torfaen</a></li>
+<li><a href="/wiki/Vale_of_Glamorgan" title="Vale of Glamorgan">Vale of Glamorgan</a></li>
+<li><a href="/wiki/Wrexham_County_Borough" title="Wrexham County Borough">Wrexham</a></li></ul>
+<h5><span class="mw-headline" id="Preserved_counties_of_Wales">Preserved counties of Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=9" title="Edit section: Preserved counties of Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p><a href="/wiki/Preserved_counties_of_Wales" title="Preserved counties of Wales">Preserved counties of Wales</a>
+</p>
+<ul><li><a href="/wiki/Clwyd" title="Clwyd">Clwyd</a></li>
+<li><a href="/wiki/Dyfed" title="Dyfed">Dyfed</a></li>
+<li><a href="/wiki/Gwent_(county)" title="Gwent (county)">Gwent</a></li>
+<li><a href="/wiki/Gwynedd" title="Gwynedd">Gwynedd</a></li>
+<li><a href="/wiki/Mid_Glamorgan" title="Mid Glamorgan">Mid Glamorgan</a></li>
+<li><a href="/wiki/Powys" title="Powys">Powys</a></li>
+<li><a href="/wiki/South_Glamorgan" title="South Glamorgan">South Glamorgan</a></li>
+<li><a href="/wiki/West_Glamorgan" title="West Glamorgan">West Glamorgan</a></li></ul>
+<h5><span class="mw-headline" id="Historic_counties_of_Wales">Historic counties of Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=10" title="Edit section: Historic counties of Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p><a href="/wiki/Historic_counties_of_Wales" title="Historic counties of Wales">Historic counties of Wales</a>
+</p>
+<ul><li><a href="/wiki/Anglesey" title="Anglesey">Anglesey</a></li>
+<li><a href="/wiki/Brecknockshire" title="Brecknockshire">Brecknockshire</a></li>
+<li><a href="/wiki/Cardiganshire" class="mw-redirect" title="Cardiganshire">Cardiganshire</a></li>
+<li><a href="/wiki/Caernarfonshire" title="Caernarfonshire">Caernarfonshire</a></li>
+<li><a href="/wiki/Carmarthenshire" title="Carmarthenshire">Carmarthenshire</a></li>
+<li><a href="/wiki/Denbighshire" title="Denbighshire">Denbighshire</a></li>
+<li><a href="/wiki/Flintshire" title="Flintshire">Flintshire</a></li>
+<li><a href="/wiki/Glamorgan" title="Glamorgan">Glamorgan</a></li>
+<li><a href="/wiki/Merionethshire" title="Merionethshire">Merionethshire</a></li>
+<li><a href="/wiki/Monmouthshire" title="Monmouthshire">Monmouthshire</a></li>
+<li><a href="/wiki/Montgomeryshire" title="Montgomeryshire">Montgomeryshire</a></li>
+<li><a href="/wiki/Pembrokeshire" title="Pembrokeshire">Pembrokeshire</a></li>
+<li><a href="/wiki/Radnorshire" title="Radnorshire">Radnorshire</a></li></ul>
+<h5><span class="mw-headline" id="Former_Districts_of_Wales">Former Districts of Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=11" title="Edit section: Former Districts of Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p><a href="/wiki/Districts_of_Wales" title="Districts of Wales">Districts of Wales</a>
+</p>
+<h5><span class="mw-headline" id="Cities_of_Wales">Cities of Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=12" title="Edit section: Cities of Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p><a href="/wiki/Cities_of_Wales" class="mw-redirect" title="Cities of Wales">Cities of Wales</a>
+</p>
+<ul><li><a href="/wiki/Capital_(political)" class="mw-redirect" title="Capital (political)">Capital</a> of Wales: <a href="/wiki/Cardiff" title="Cardiff">Cardiff</a></li>
+<li><a href="/wiki/List_of_cities_in_Wales" class="mw-redirect" title="List of cities in Wales">Cities of Wales</a></li></ul>
+<h3><span class="mw-headline" id="Demography_of_Wales">Demography of Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=13" title="Edit section: Demography of Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Demographics_of_Wales" class="mw-redirect" title="Demographics of Wales">Demographics of Wales</a>
+</p>
+<h2><span class="mw-headline" id="Government_and_politics_of_Wales">Government and politics of Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=14" title="Edit section: Government and politics of Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Politics_of_Wales" title="Politics of Wales">Politics of Wales</a>
+</p>
+<ul><li><a href="/wiki/Form_of_government" class="mw-redirect" title="Form of government">Form of government</a>:</li>
+<li><a href="/wiki/Capital_of_Wales" title="Capital of Wales">Capital of Wales</a>: <a href="/wiki/Cardiff" title="Cardiff">Cardiff</a></li>
+<li><a href="/wiki/Elections_in_Wales" title="Elections in Wales">Elections in Wales</a></li>
+<li><a href="/wiki/List_of_political_parties_in_Wales" title="List of political parties in Wales">Political parties in Wales</a></li>
+<li><a href="/wiki/Welsh_nationalism" title="Welsh nationalism">Welsh nationalism</a></li></ul>
+<h3><span class="mw-headline" id="Branches_of_the_government_of_Wales">Branches of the government of Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=15" title="Edit section: Branches of the government of Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Government_of_Wales" class="mw-redirect" title="Government of Wales">Government of Wales</a>
+</p>
+<h4><span class="mw-headline" id="Executive">Executive</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=16" title="Edit section: Executive">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Head_of_government" title="Head of government">Head of government</a>: <a href="/wiki/First_Minister_of_Wales" title="First Minister of Wales">First Minister of Wales</a></li>
+<li><a href="/wiki/Welsh_Government" title="Welsh Government">Welsh Government</a></li>
+<li><a href="/wiki/Wales_Office" class="mw-redirect" title="Wales Office">Wales Office</a> (Department of UK Government) &#8211; it is primarily responsible for carrying out the few functions remaining with the Secretary of State for Wales that have not been transferred already to the National Assembly for Wales; and for securing funds for Wales as part of the annual budgetary settlement.
+<ul><li><a href="/wiki/Secretary_of_State_for_Wales" title="Secretary of State for Wales">Secretary of State for Wales</a></li></ul></li></ul>
+<h4><span class="mw-headline" id="Legislative">Legislative</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=17" title="Edit section: Legislative">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/National_Assembly_of_Wales" class="mw-redirect" title="National Assembly of Wales">National Assembly of Wales</a> (<a href="/wiki/Unicameral" class="mw-redirect" title="Unicameral">unicameral</a>)</li></ul>
+<h4><span class="mw-headline" id="Judicial">Judicial</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=18" title="Edit section: Judicial">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Supreme_Court_of_the_United_Kingdom" title="Supreme Court of the United Kingdom">Supreme Court of the United Kingdom</a></li>
+<li><a href="/wiki/Courts_of_England_and_Wales" title="Courts of England and Wales">Courts of England and Wales</a></li></ul>
+<h3><span class="mw-headline" id="Law_and_order_in_Wales">Law and order in Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=19" title="Edit section: Law and order in Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/English_law" title="English law">English law</a> &#8211; the law currently in force in England and Wales.</li>
+<li><a href="/wiki/Contemporary_Welsh_Law" class="mw-redirect" title="Contemporary Welsh Law">Contemporary Welsh Law</a></li>
+<li><a href="/wiki/Human_rights_in_Wales" class="mw-redirect" title="Human rights in Wales">Human rights in Wales</a>
+<ul><li><a href="/wiki/LGBT_rights_in_Wales" class="mw-redirect" title="LGBT rights in Wales">LGBT rights in Wales</a></li></ul></li>
+<li><a href="/wiki/Law_enforcement_in_Wales" class="mw-redirect" title="Law enforcement in Wales">Law enforcement in Wales</a></li>
+<li><a href="/wiki/Welsh_law" title="Welsh law">Welsh law</a> (historical)</li></ul>
+<h3><span class="mw-headline" id="Military">Military</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=20" title="Edit section: Military">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Military_of_the_United_Kingdom" class="mw-redirect" title="Military of the United Kingdom">Military of the United Kingdom</a>
+</p>
+<ul><li>Command
+<ul><li><a href="/wiki/Commander-in-chief" title="Commander-in-chief">Commander-in-chief</a>:
+<ul><li>HM Queen Elizabeth II</li></ul></li></ul></li>
+<li>Forces
+<ul><li><a href="/wiki/British_Army" title="British Army">British Army</a></li>
+<li><a href="/wiki/Royal_Navy" title="Royal Navy">Royal Navy</a></li>
+<li><a href="/wiki/Royal_Air_Force" title="Royal Air Force">Royal Air Force</a></li></ul></li>
+<li><a href="/wiki/Military_history_of_the_United_Kingdom" title="Military history of the United Kingdom">Military history of the United Kingdom</a></li>
+<li><a href="/w/index.php?title=Military_ranks_of_the_United_Kingdom&amp;action=edit&amp;redlink=1" class="new" title="Military ranks of the United Kingdom (page does not exist)">Military ranks of the United Kingdom</a></li></ul>
+<h3><span class="mw-headline" id="Local_government_in_Wales">Local government in Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=21" title="Edit section: Local government in Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Local_government_in_Wales" title="Local government in Wales">Local government in Wales</a>
+</p>
+<h2><span class="mw-headline" id="History_of_Wales">History of Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=22" title="Edit section: History of Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/History_of_Wales" title="History of Wales">History of Wales</a>
+</p>
+<ul><li><a href="/w/index.php?title=Timeline_of_the_history_of_Wales&amp;action=edit&amp;redlink=1" class="new" title="Timeline of the history of Wales (page does not exist)">Timeline of the history of Wales</a></li>
+<li><a href="/w/index.php?title=Portal:Current_events/Wales&amp;action=edit&amp;redlink=1" class="new" title="Portal:Current events/Wales (page does not exist)">Current events of Wales</a></li></ul>
+<h3><span id="History_of_Wales.2C_by_period"></span><span class="mw-headline" id="History_of_Wales,_by_period">History of Wales, by period</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=23" title="Edit section: History of Wales, by period">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/List_of_years_in_Wales" title="List of years in Wales">List of years in Wales</a></li>
+<li><a href="/wiki/Prehistoric_Wales" title="Prehistoric Wales">Prehistoric Wales</a></li>
+<li><a href="/wiki/Wales_in_the_Roman_era" title="Wales in the Roman era">Wales in the Roman era</a></li>
+<li><a href="/wiki/Wales_in_the_Early_Middle_Ages" title="Wales in the Early Middle Ages">Wales in the Early Middle Ages</a></li>
+<li><a href="/wiki/Norman_invasion_of_Wales" title="Norman invasion of Wales">Norman invasion of Wales</a></li>
+<li><a href="/wiki/Wales_in_the_Late_Middle_Ages" title="Wales in the Late Middle Ages">Wales in the Late Middle Ages</a></li>
+<li><a href="/wiki/Wales_in_the_Early_Modern_Era" class="mw-redirect" title="Wales in the Early Modern Era">Wales in the Early Modern Era</a></li>
+<li><a href="/wiki/Welsh_settlement_in_the_Americas" title="Welsh settlement in the Americas">Welsh settlement in the Americas</a></li>
+<li><a href="/wiki/Modern_history_of_Wales" title="Modern history of Wales">Modern history of Wales</a></li></ul>
+<h3><span id="History_of_Wales.2C_by_region"></span><span class="mw-headline" id="History_of_Wales,_by_region">History of Wales, by region</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=24" title="Edit section: History of Wales, by region">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Kingdoms of Wales
+<ul><li><a href="/wiki/Brycheiniog" title="Brycheiniog">Brycheiniog</a></li>
+<li><a href="/wiki/Kingdom_of_Ceredigion" title="Kingdom of Ceredigion">Kingdom of Ceredigion</a></li>
+<li><a href="/wiki/Deheubarth" title="Deheubarth">Deheubarth</a></li>
+<li><a href="/wiki/Kingdom_of_Dyfed" title="Kingdom of Dyfed">Kingdom of Dyfed</a></li>
+<li><a href="/wiki/Ergyng" title="Ergyng">Ergyng</a></li>
+<li><a href="/wiki/Kingdom_of_Gwent" title="Kingdom of Gwent">Kingdom of Gwent</a></li>
+<li><a href="/wiki/Kingdom_of_Gwynedd" title="Kingdom of Gwynedd">Kingdom of Gwynedd</a></li>
+<li><a href="/wiki/Glywysing" title="Glywysing">Glywysing</a></li>
+<li><a href="/wiki/Kingdom_of_Powys" title="Kingdom of Powys">Powys</a>
+<ul><li><a href="/wiki/Powys_Wenwynwyn" title="Powys Wenwynwyn">Powys Wenwynwyn</a></li>
+<li><a href="/wiki/Powys_Fadog" title="Powys Fadog">Powys Fadog</a></li></ul></li>
+<li><a href="/wiki/Seisyllwg" title="Seisyllwg">Seisyllwg</a></li></ul></li></ul>
+<h3><span id="History_of_Wales.2C_by_subject"></span><span class="mw-headline" id="History_of_Wales,_by_subject">History of Wales, by subject</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=25" title="Edit section: History of Wales, by subject">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/List_of_rulers_of_Wales" title="List of rulers of Wales">List of rulers of Wales</a></li>
+<li><a href="/wiki/Welsh_law" title="Welsh law">Welsh law</a> (historical)</li></ul>
+<h2><span class="mw-headline" id="Culture_of_Wales">Culture of Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=26" title="Edit section: Culture of Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Culture_of_Wales" title="Culture of Wales">Culture of Wales</a>
+</p>
+<ul><li><a href="/wiki/Cultural_relationship_between_the_Welsh_and_the_English" title="Cultural relationship between the Welsh and the English">Cultural relationship between the Welsh and the English</a></li>
+<li><a href="/wiki/Architecture_of_Wales" title="Architecture of Wales">Architecture of Wales</a>
+<ul><li><a href="/wiki/List_of_Cadw_properties" title="List of Cadw properties">Cadw properties</a></li>
+<li><a href="/wiki/List_of_castles_in_Wales" title="List of castles in Wales">Castles in Wales</a></li>
+<li><a href="/wiki/List_of_cathedrals_in_England_and_Wales#Wales" title="List of cathedrals in England and Wales">Cathedrals in Wales</a></li>
+<li><a href="/wiki/List_of_country_houses_in_the_United_Kingdom" title="List of country houses in the United Kingdom">Country houses in Wales</a></li>
+<li><a href="/wiki/List_of_hill_forts_in_Wales" class="mw-redirect" title="List of hill forts in Wales">Hill forts in Wales</a></li>
+<li><a href="/wiki/Listed_buildings_in_Wales" title="Listed buildings in Wales">Listed buildings in Wales</a></li>
+<li><a href="/wiki/List_of_monastic_houses_in_Wales" title="List of monastic houses in Wales">Monastic houses in Wales</a></li>
+<li><a href="/wiki/List_of_National_Trust_properties_in_Wales" title="List of National Trust properties in Wales">National Trust properties in Wales</a></li></ul></li>
+<li><a href="/wiki/Cuisine_of_Wales" class="mw-redirect" title="Cuisine of Wales">Cuisine of Wales</a></li>
+<li><a href="/w/index.php?title=Ethnic_minorities_in_Wales&amp;action=edit&amp;redlink=1" class="new" title="Ethnic minorities in Wales (page does not exist)">Ethnic minorities in Wales</a></li>
+<li><a href="/w/index.php?title=Festivals_in_Wales&amp;action=edit&amp;redlink=1" class="new" title="Festivals in Wales (page does not exist)">Festivals in Wales</a></li>
+<li><a href="/wiki/Languages_of_Wales" title="Languages of Wales">Languages of Wales</a>
+<ul><li><a href="/wiki/Welsh_English" title="Welsh English">Welsh English</a></li>
+<li><a href="/wiki/Welsh_language" title="Welsh language">Welsh language</a>
+<ul><li><a href="/wiki/History_of_the_Welsh_language" title="History of the Welsh language">History of the Welsh language</a></li></ul></li>
+<li><a href="/wiki/Welsh_toponymy" title="Welsh toponymy">Welsh placenames</a></li></ul></li>
+<li><a href="/wiki/Media_in_Wales" class="mw-redirect" title="Media in Wales">Media in Wales</a></li>
+<li><a href="/wiki/National_symbols_of_Wales" title="National symbols of Wales">National symbols of Wales</a>
+<ul><li><a href="/wiki/Coat_of_arms_of_Wales" class="mw-redirect" title="Coat of arms of Wales">Coat of arms of Wales</a></li>
+<li><a href="/wiki/Flag_of_Wales" title="Flag of Wales">Flag of Wales</a></li>
+<li><a href="/wiki/National_anthem_of_Wales" class="mw-redirect" title="National anthem of Wales">National anthem of Wales</a></li></ul></li>
+<li><a href="/wiki/People_of_Wales" class="mw-redirect" title="People of Wales">People of Wales</a></li>
+<li><a href="/wiki/Prostitution_in_Wales" class="mw-redirect" title="Prostitution in Wales">Prostitution in Wales</a></li>
+<li><a href="/wiki/Public_holidays_in_Wales" class="mw-redirect" title="Public holidays in Wales">Public holidays in Wales</a></li>
+<li><a href="/wiki/List_of_World_Heritage_Sites_in_the_Americas#Wales" title="List of World Heritage Sites in the Americas">World Heritage Sites in Wales</a></li></ul>
+<h3><span class="mw-headline" id="Art_in_Wales">Art in Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=27" title="Edit section: Art in Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Art_in_Wales" class="mw-redirect" title="Art in Wales">Art in Wales</a></li>
+<li><a href="/wiki/Cinema_of_Wales" title="Cinema of Wales">Cinema of Wales</a></li>
+<li>Welsh literature
+<ul><li><a href="/wiki/Welsh-language_literature" title="Welsh-language literature">Welsh-language literature</a></li>
+<li><a href="/wiki/Welsh_literature_in_English" title="Welsh literature in English">Welsh literature in English</a></li></ul></li>
+<li><a href="/wiki/Music_of_Wales" title="Music of Wales">Music of Wales</a></li>
+<li><a href="/wiki/Television_in_Wales" class="mw-redirect" title="Television in Wales">Television in Wales</a></li>
+<li><a href="/wiki/Theatre_in_Wales" class="mw-redirect" title="Theatre in Wales">Theatre in Wales</a></li></ul>
+<h3><span class="mw-headline" id="Religion_in_Wales">Religion in Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=28" title="Edit section: Religion in Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Religion_in_Wales" title="Religion in Wales">Religion in Wales</a>
+</p>
+<ul><li><a href="/wiki/Buddhism_in_Wales" title="Buddhism in Wales">Buddhism in Wales</a></li>
+<li><a href="/wiki/Christianity_in_Wales" title="Christianity in Wales">Christianity in Wales</a>
+<ul><li><a href="/wiki/Evangelical_Movement_of_Wales" title="Evangelical Movement of Wales">Evangelical Movement of Wales</a></li></ul></li>
+<li><a href="/wiki/Hinduism_in_Wales" title="Hinduism in Wales">Hinduism in Wales</a></li>
+<li><a href="/wiki/Islam_in_Wales" title="Islam in Wales">Islam in Wales</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Wales" class="mw-redirect" title="History of the Jews in Wales">Judaism in Wales</a></li>
+<li><a href="/wiki/Sikhism_in_Wales" title="Sikhism in Wales">Sikhism in Wales</a></li></ul>
+<h3><span class="mw-headline" id="Sport_in_Wales">Sport in Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=29" title="Edit section: Sport in Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Sport_in_Wales" title="Sport in Wales">Sport in Wales</a>
+</p>
+<ul><li><a href="/wiki/Boxing_in_Wales" title="Boxing in Wales">Boxing in Wales</a></li>
+<li><a href="/wiki/Cricket_in_Wales" title="Cricket in Wales">Cricket in Wales</a></li>
+<li><a href="/wiki/Football_in_Wales" title="Football in Wales">Football in Wales</a></li>
+<li><a href="/wiki/Rugby_league_in_Wales" title="Rugby league in Wales">Rugby league in Wales</a></li>
+<li><a href="/wiki/Rugby_union_in_Wales" title="Rugby union in Wales">Rugby union in Wales</a></li></ul>
+<h2><span class="mw-headline" id="Economy_and_infrastructure_of_Wales">Economy and infrastructure of Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=30" title="Edit section: Economy and infrastructure of Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Economy_of_Wales" title="Economy of Wales">Economy of Wales</a>
+</p>
+<ul><li><a href="/wiki/List_of_countries_by_GDP_(nominal)" title="List of countries by GDP (nominal)">Economic rank (by nominal GDP)</a>:</li>
+<li><a href="/wiki/Agriculture_in_Wales" title="Agriculture in Wales">Agriculture in Wales</a></li>
+<li><a href="/w/index.php?title=Banking_in_Wales&amp;action=edit&amp;redlink=1" class="new" title="Banking in Wales (page does not exist)">Banking in Wales</a></li>
+<li><a href="/wiki/Communications_in_Wales" class="mw-redirect" title="Communications in Wales">Communications in Wales</a>
+<ul><li><a href="/w/index.php?title=Internet_in_Wales&amp;action=edit&amp;redlink=1" class="new" title="Internet in Wales (page does not exist)">Internet in Wales</a></li></ul></li>
+<li><a href="/wiki/List_of_companies_of_Wales" title="List of companies of Wales">Companies of Wales</a></li>
+<li><a href="/wiki/Currency" title="Currency">Currency</a> of Wales: <a href="/wiki/Pound_Sterling" class="mw-redirect" title="Pound Sterling">Pound Sterling</a></li>
+<li><a href="/w/index.php?title=Economic_history_of_Wales&amp;action=edit&amp;redlink=1" class="new" title="Economic history of Wales (page does not exist)">Economic history of Wales</a></li>
+<li><a href="/w/index.php?title=Energy_in_Wales&amp;action=edit&amp;redlink=1" class="new" title="Energy in Wales (page does not exist)">Energy in Wales</a>
+<ul><li><a href="/w/index.php?title=Energy_policy_of_Wales&amp;action=edit&amp;redlink=1" class="new" title="Energy policy of Wales (page does not exist)">Energy policy of Wales</a></li>
+<li><a href="/w/index.php?title=Oil_industry_in_Wales&amp;action=edit&amp;redlink=1" class="new" title="Oil industry in Wales (page does not exist)">Oil industry in Wales</a></li></ul></li>
+<li><a href="/wiki/Health_care_in_Wales" class="mw-redirect" title="Health care in Wales">Health care in Wales</a></li>
+<li><a href="/wiki/Mining_in_Wales" title="Mining in Wales">Mining in Wales</a></li>
+<li><a href="/w/index.php?title=United_Kingdom_Stock_Exchange&amp;action=edit&amp;redlink=1" class="new" title="United Kingdom Stock Exchange (page does not exist)">United Kingdom Stock Exchange</a></li>
+<li><a href="/wiki/Tourism_in_Wales" title="Tourism in Wales">Tourism in Wales</a></li>
+<li><a href="/wiki/Transport_in_Wales" title="Transport in Wales">Transport in Wales</a>
+<ul><li><a href="/wiki/List_of_airports_in_Wales" class="mw-redirect" title="List of airports in Wales">Airports in Wales</a></li>
+<li><a href="/wiki/Rail_transport_in_Wales" class="mw-redirect" title="Rail transport in Wales">Rail transport in Wales</a></li>
+<li><a href="/w/index.php?title=Roads_in_Wales&amp;action=edit&amp;redlink=1" class="new" title="Roads in Wales (page does not exist)">Roads in Wales</a></li></ul></li>
+<li><a href="/wiki/Water_supply_and_sanitation_in_Wales" class="mw-redirect" title="Water supply and sanitation in Wales">Water supply and sanitation in Wales</a></li>
+<li><a href="/wiki/Welsh_Automotive_Forum" title="Welsh Automotive Forum">Welsh Automotive Forum</a></li></ul>
+<h2><span class="mw-headline" id="Education_in_Wales">Education in Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=31" title="Edit section: Education in Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Education_in_Wales" title="Education in Wales">Education in Wales</a>
+</p>
+<ul><li><a href="/wiki/Primary_Education_in_Wales" class="mw-redirect" title="Primary Education in Wales">Primary Education in Wales</a></li>
+<li><a href="/wiki/Secondary_Education_in_Wales" class="mw-redirect" title="Secondary Education in Wales">Secondary Education in Wales</a></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=32" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="flag" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Wales_%281959%E2%80%93present%29.svg/32px-Flag_of_Wales_%281959%E2%80%93present%29.svg.png" width="32" height="19" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Wales_%281959%E2%80%93present%29.svg/48px-Flag_of_Wales_%281959%E2%80%93present%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Wales_%281959%E2%80%93present%29.svg/64px-Flag_of_Wales_%281959%E2%80%93present%29.svg.png 2x" data-file-width="830" data-file-height="498" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Wales" title="Portal:Wales">Wales portal</a></span></li></ul></div>
+<p><a href="/wiki/Wales" title="Wales">Wales</a>
+</p>
+<ul><li><a href="/wiki/List_of_basic_geography_topics" class="mw-redirect" title="List of basic geography topics">List of basic geography topics</a></li></ul>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=33" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Stats_1-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Stats_1_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.statistics.gov.uk/geography/uk_countries.asp">"The Countries of the UK"</a>. statistics.gov.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Countries+of+the+UK&amp;rft.pub=statistics.gov.uk&amp;rft_id=http%3A%2F%2Fwww.statistics.gov.uk%2Fgeography%2Fuk_countries.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutline+of+Wales" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.byig-wlb.org.uk/English/welshlanguage/Pages/WhoaretheWelshspeakersWheredotheylive.aspx">"Welsh Language Board - Number of speakers"</a>. Byig-wlb.org.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">19 June</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Welsh+Language+Board+-+Number+of+speakers&amp;rft.pub=Byig-wlb.org.uk&amp;rft_id=http%3A%2F%2Fwww.byig-wlb.org.uk%2FEnglish%2Fwelshlanguage%2FPages%2FWhoaretheWelshspeakersWheredotheylive.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOutline+of+Wales" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit&amp;section=34" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-labelledby="sister-projects" class="metadata plainlinks plainlist mbox-small" style="border:1px solid #aaa; padding:0.75em; background:#f9f9f9;">
+    <div style="padding-bottom: 0.75em; text-align: center;">Find more about<b style="display:block;">Wales</b>at Wikipedia's <a href="/wiki/Wikipedia:Wikimedia_sister_projects" title="Wikipedia:Wikimedia sister projects"><span id="sister-projects">sister projects</span></a>
+    </div>
+    <ul style="border-top:1px solid #aaa; padding-top: 0.75em;">
+        <li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/27px-Wiktionary-logo-v2.svg.png" width="27" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/41px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/06/Wiktionary-logo-v2.svg/54px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wiktionary.org/wiki/Special:Search/Wales" class="extiw" title="wikt:Special:Search/Wales">Definitions</a> from Wiktionary</span>
+            </li><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" width="20" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://commons.wikimedia.org/wiki/Special:Search/Wales" class="extiw" title="c:Special:Search/Wales">Media</a> from Wikimedia Commons</span>
+            </li><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/27px-Wikinews-logo.svg.png" width="27" height="15" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/41px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/54px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikinews.org/wiki/Special:Search/Wales" class="extiw" title="n:Special:Search/Wales">News</a> from Wikinews</span>
+            </li><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/23px-Wikiquote-logo.svg.png" width="23" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/35px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/46px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikiquote.org/wiki/Special:Search/Wales" class="extiw" title="q:Special:Search/Wales">Quotations</a> from Wikiquote</span>
+            </li><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/26px-Wikisource-logo.svg.png" width="26" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/39px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/51px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikisource.org/wiki/Special:Search/Wales" class="extiw" title="s:Special:Search/Wales">Texts</a> from Wikisource</span>
+            </li><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/27px-Wikibooks-logo.svg.png" width="27" height="27" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/41px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/54px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikibooks.org/wiki/Special:Search/Wales" class="extiw" title="b:Special:Search/Wales">Textbooks</a> from Wikibooks</span>
+            </li><li style="min-height: 31px;"><span style="display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/27px-Wikiversity-logo-en.svg.png" width="27" height="24" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/41px-Wikiversity-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/54px-Wikiversity-logo-en.svg.png 2x" data-file-width="1000" data-file-height="900" /></span><span style="display: inline-block; margin-left: 4px; width: 182px; vertical-align: middle;"><a href="https://en.wikiversity.org/wiki/Special:Search/Wales" class="extiw" title="v:Special:Search/Wales">Learning resources</a> from Wikiversity</span>
+            </li>
+    </ul>
+</div>
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gnome-globe.svg/16px-Gnome-globe.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gnome-globe.svg/24px-Gnome-globe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gnome-globe.svg/32px-Gnome-globe.svg.png 2x" data-file-width="48" data-file-height="48" /> <a href="https://commons.wikimedia.org/wiki/Atlas_of_Wales" class="extiw" title="commons:Atlas of Wales">Wikimedia Atlas of Wales</a>
+</p>
+<div role="navigation" class="navbox" aria-labelledby="Outlines" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Outline_footer" title="Template:Outline footer"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Outline_footer" title="Template talk:Outline footer"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Outline_footer&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Outlines" style="font-size:114%;margin:0 4em"><a href="/wiki/Portal:Contents/Outlines" title="Portal:Contents/Outlines">Outlines</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><a href="/wiki/Portal:Contents/Outlines#General_reference" title="Portal:Contents/Outlines">General reference</a>
+<ul><li><a href="/wiki/Portal:Contents/Outlines#Culture_and_the_arts" title="Portal:Contents/Outlines">Culture and the arts</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Geography_and_places" title="Portal:Contents/Outlines">Geography and places</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Health_and_fitness" title="Portal:Contents/Outlines">Health and fitness</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#History_and_events" title="Portal:Contents/Outlines">History and events</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Mathematics_and_logic" title="Portal:Contents/Outlines">Mathematics and logic</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Natural_and_physical_sciences" title="Portal:Contents/Outlines">Natural and physical sciences</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#People_and_self" title="Portal:Contents/Outlines">People and self</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Philosophy_and_thinking" title="Portal:Contents/Outlines">Philosophy and thinking</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Religion_and_belief_systems" title="Portal:Contents/Outlines">Religion and belief systems</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Society_and_social_sciences" title="Portal:Contents/Outlines">Society and social sciences</a></li>
+<li><a href="/wiki/Portal:Contents/Outlines#Technology_and_applied_sciences" title="Portal:Contents/Outlines">Technology and applied sciences</a></li></ul></div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2272
+Cached time: 20180929143418
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.236 seconds
+Real time usage: 0.315 seconds
+Preprocessor visited node count: 846/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 21742/2097152 bytes
+Template argument size: 497/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 5421/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.093/10.000 seconds
+Lua memory usage: 3.39 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  205.082      1 -total
+ 32.81%   67.286      1 Template:Reflist
+ 28.73%   58.922      2 Template:Cite_web
+ 19.64%   40.280      1 Template:IPAc-en
+ 17.00%   34.864      1 Template:Double_image
+ 16.01%   32.827      1 Template:Multiple_image
+ 15.74%   32.287      1 Template:Convert
+  4.39%    9.003      1 Template:Outline_footer
+  3.59%    7.372      1 Template:Navbox
+  3.49%    7.148      1 Template:Portal
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:25154335-0!canonical and timestamp 20180929143418 and revision id 839576845
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Outline_of_Wales&amp;oldid=839576845">https://en.wikipedia.org/w/index.php?title=Outline_of_Wales&amp;oldid=839576845</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Outlines_of_countries" title="Category:Outlines of countries">Outlines of countries</a></li><li><a href="/wiki/Category:Wales" title="Category:Wales">Wales</a></li><li><a href="/wiki/Category:Wales-related_lists" title="Category:Wales-related lists">Wales-related lists</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Articles_including_recorded_pronunciations_(English)" title="Category:Articles including recorded pronunciations (English)">Articles including recorded pronunciations (English)</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Outline+of+Wales" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Outline+of+Wales" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Outline_of_Wales" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Outline_of_Wales" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Outline_of_Wales">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Outline_of_Wales&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Outline_of_Wales&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Outline_of_Wales" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Outline_of_Wales" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Outline_of_Wales&amp;oldid=839576845" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Outline_of_Wales&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7112513" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Outline_of_Wales&amp;id=839576845" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Outline+of+Wales">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Outline+of+Wales&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Outline_of_Wales&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Rhestr_pynciau%27n_ymwneud_%C3%A2_Chymru" title="Rhestr pynciau&#039;n ymwneud â Chymru – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7112513#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 4 May 2018, at 09:39<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Outline_of_Wales&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.236","walltime":"0.315","ppvisitednodes":{"value":846,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":21742,"limit":2097152},"templateargumentsize":{"value":497,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5421,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  205.082      1 -total"," 32.81%   67.286      1 Template:Reflist"," 28.73%   58.922      2 Template:Cite_web"," 19.64%   40.280      1 Template:IPAc-en"," 17.00%   34.864      1 Template:Double_image"," 16.01%   32.827      1 Template:Multiple_image"," 15.74%   32.287      1 Template:Convert","  4.39%    9.003      1 Template:Outline_footer","  3.59%    7.372      1 Template:Navbox","  3.49%    7.148      1 Template:Portal"]},"scribunto":{"limitreport-timeusage":{"value":"0.093","limit":"10.000"},"limitreport-memusage":{"value":3559895,"limit":52428800}},"cachereport":{"origin":"mw2272","timestamp":"20180929143418","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":409,"wgHostname":"mw2272"});});</script>
+	</body>
+</html>

@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Relevance (information retrieval) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Relevance_(information_retrieval)","wgTitle":"Relevance (information retrieval)","wgCurRevisionId":856581026,"wgRevisionId":856581026,"wgArticleId":442684,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from June 2015","Information retrieval evaluation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Relevance_(information_retrieval)","wgRelevantArticleId":442684,"wgRequestId":"W6@qxQrAADcAADepuk8AAACN","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1472529","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Relevance_(information_retrieval)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Relevance_(information_retrieval)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Relevance_(information_retrieval)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Relevance_(information_retrieval)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Relevance_information_retrieval rootpage-Relevance_information_retrieval skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Relevance (information retrieval)</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Relevance_(disambiguation)" class="mw-disambig" title="Relevance (disambiguation)">Relevance (disambiguation)</a>.</div>
+<p>In <a href="/wiki/Information_science" title="Information science">information science</a> and <a href="/wiki/Information_retrieval" title="Information retrieval">information retrieval</a>, <b>relevance</b> denotes how well a retrieved document or set of documents meets the <a href="/wiki/Information_need" class="mw-redirect" title="Information need">information need</a> of the user. Relevance may include concerns such as timeliness, authority or novelty of the result.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Evaluation"><span class="tocnumber">2</span> <span class="toctext">Evaluation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Clustering_and_relevance"><span class="tocnumber">3</span> <span class="toctext">Clustering and relevance</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Problems_and_alternatives"><span class="tocnumber">4</span> <span class="toctext">Problems and alternatives</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Relevance_(information_retrieval)&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The concern with the problem of finding relevant information dates back at least to the first publication of scientific journals in the 17th century.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2015)">citation needed</span></a></i>&#93;</sup>
+</p><p>The formal study of relevance began in the 20th Century with the study of what would later be called <a href="/wiki/Bibliometrics" title="Bibliometrics">bibliometrics</a>. In the 1930s and 1940s, S. C. Bradford used the term "relevant" to characterize articles relevant to a subject (cf., <a href="/wiki/Bradford%27s_law" title="Bradford&#39;s law">Bradford's law</a>). In the 1950s, the first information retrieval systems emerged, and researchers noted the retrieval of irrelevant articles as a significant concern. In 1958, B. C. Vickery made the concept of relevance explicit in an address at the International Conference on Scientific Information.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>Since 1958, information scientists have explored and debated definitions of relevance. A particular focus of the debate was the distinction between "relevance to a subject" or "topical relevance" and "user relevance".<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2015)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Evaluation">Evaluation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Relevance_(information_retrieval)&amp;action=edit&amp;section=2" title="Edit section: Evaluation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Information_retrieval#Performance_and_correctness_measures" title="Information retrieval">Information retrieval §&#160;Performance and correctness measures</a></div>
+<p>The information retrieval community has emphasized the use of test collections and benchmark tasks to measure topical relevance, starting with the <a href="/wiki/Cranfield_Experiments" class="mw-redirect" title="Cranfield Experiments">Cranfield Experiments</a> of the early 1960s and culminating in the <a href="/wiki/Text_Retrieval_Conference" title="Text Retrieval Conference">TREC</a> evaluations that continue to this day as the main evaluation framework for information retrieval research.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2015)">citation needed</span></a></i>&#93;</sup>
+</p><p>In order to evaluate how well an <a href="/wiki/Information_retrieval" title="Information retrieval">information retrieval</a> system retrieved topically relevant results, the relevance of retrieved results must be quantified. In <a href="/wiki/Cranfield_Experiments" class="mw-redirect" title="Cranfield Experiments">Cranfield</a>-style evaluations, this typically involves assigning a <i>relevance level</i> to each retrieved result, a process known as <i>relevance assessment</i>. Relevance levels can be binary (indicating a result is relevant or that it is not relevant), or graded (indicating results have a varying degree of match between the topic of the result and the information need).   Once relevance levels have been assigned to the retrieved results, <a href="/wiki/Information_retrieval#Performance_measures" title="Information retrieval">information retrieval performance measures</a> can be used to assess the quality of a retrieval system's output.
+</p><p>In contrast to this focus solely on topical relevance, the information science community has emphasized user studies that consider user relevance.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2015)">citation needed</span></a></i>&#93;</sup> These studies often focus on aspects of <a href="/wiki/Human-computer_interaction" class="mw-redirect" title="Human-computer interaction">human-computer interaction</a> (see also <a href="/wiki/Human-computer_information_retrieval" class="mw-redirect" title="Human-computer information retrieval">human-computer information retrieval</a>).
+</p>
+<h2><span class="mw-headline" id="Clustering_and_relevance">Clustering and relevance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Relevance_(information_retrieval)&amp;action=edit&amp;section=3" title="Edit section: Clustering and relevance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Cluster_hypothesis" title="Cluster hypothesis">cluster hypothesis</a>, proposed by <a href="/wiki/C._J._van_Rijsbergen" title="C. J. van Rijsbergen">C. J. van Rijsbergen</a> in 1979, asserts that two documents that are similar to each other have a high likelihood of being relevant to the same information need. With respect to the embedding similarity space, the cluster hypothesis can be interpreted globally or locally.<sup id="cite_ref-diazthesis_2-0" class="reference"><a href="#cite_note-diazthesis-2">&#91;2&#93;</a></sup>    The global interpretation assumes that there exist some fixed set of underlying topics derived from inter-document similarity. These global clusters or their representatives can then be used to relate relevance of two documents (e.g. two documents in the same cluster should both be relevant to the same request). Methods in this spirit include:
+</p>
+<ul><li>cluster-based information retrieval<sup id="cite_ref-croftcbir_3-0" class="reference"><a href="#cite_note-croftcbir-3">&#91;3&#93;</a></sup><sup id="cite_ref-griffithscbir_4-0" class="reference"><a href="#cite_note-griffithscbir-4">&#91;4&#93;</a></sup></li>
+<li>cluster-based document expansion such as <a href="/wiki/Latent_semantic_analysis" title="Latent semantic analysis">latent semantic analysis</a> or its language modeling equivalents.<sup id="cite_ref-lmcbir_5-0" class="reference"><a href="#cite_note-lmcbir-5">&#91;5&#93;</a></sup>    It is important to ensure that clusters – either in isolation or combination – successfully model the set of possible relevant documents.</li></ul>
+<p>A second interpretation, most notably advanced by Ellen Voorhees,<sup id="cite_ref-voorheescbir_6-0" class="reference"><a href="#cite_note-voorheescbir-6">&#91;6&#93;</a></sup>    focuses on the local relationships between documents. The local interpretation avoids having to model the number or size of clusters in the collection and allow relevance at multiple scales. Methods in this spirit include,
+</p>
+<ul><li>multiple cluster retrieval<sup id="cite_ref-griffithscbir_4-1" class="reference"><a href="#cite_note-griffithscbir-4">&#91;4&#93;</a></sup><sup id="cite_ref-voorheescbir_6-1" class="reference"><a href="#cite_note-voorheescbir-6">&#91;6&#93;</a></sup></li>
+<li>spreading activation<sup id="cite_ref-preece_7-0" class="reference"><a href="#cite_note-preece-7">&#91;7&#93;</a></sup> and relevance propagation<sup id="cite_ref-relprop_8-0" class="reference"><a href="#cite_note-relprop-8">&#91;8&#93;</a></sup> methods</li>
+<li>local document expansion<sup id="cite_ref-docexpansion_9-0" class="reference"><a href="#cite_note-docexpansion-9">&#91;9&#93;</a></sup></li>
+<li>score regularization<sup id="cite_ref-diazreg_10-0" class="reference"><a href="#cite_note-diazreg-10">&#91;10&#93;</a></sup></li></ul>
+<p>Local methods require an accurate and appropriate document <a href="/wiki/Similarity_measure" title="Similarity measure">similarity measure</a>.
+</p>
+<h2><span class="mw-headline" id="Problems_and_alternatives">Problems and alternatives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Relevance_(information_retrieval)&amp;action=edit&amp;section=4" title="Edit section: Problems and alternatives">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The documents which are most relevant are not necessarily those which are most useful to display in the first page of search results.  For example, two duplicate documents might be individually considered quite relevant, but it is only useful to display one of them.  A measure called "maximal marginal relevance" (MMR) has been proposed to overcome this shortcoming. It considers the relevance of each document only in terms of how much new information it brings given the previous results.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>In some cases, a query may have an ambiguous interpretation, or a variety of potential responses.  Providing a diversity of results can be a consideration when evaluating the utility of a result set.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Relevance_(information_retrieval)&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+ <div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Mizzaro, S. (1997). Relevance: The Whole History. Journal of the American Society for Information Science. 48, 810‐832.</span>
+</li>
+<li id="cite_note-diazthesis-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-diazthesis_2-0">^</a></b></span> <span class="reference-text">F. Diaz, Autocorrelation and Regularization of Query-Based Retrieval Scores. PhD thesis, University of Massachusetts Amherst, Amherst, MA, February 2008, Chapter 3.</span>
+</li>
+<li id="cite_note-croftcbir-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-croftcbir_3-0">^</a></b></span> <span class="reference-text">W. B. Croft, “A model of cluster searching based on classification,” Information Systems, vol. 5, pp. 189–195, 1980.</span>
+</li>
+<li id="cite_note-griffithscbir-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-griffithscbir_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-griffithscbir_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">A. Griffiths, H. C. Luckhurst, and P. Willett, “Using interdocument similarity information in document retrieval systems,” Journal of the American Society for Information Science, vol. 37, no. 1, pp. 3–11, 1986.</span>
+</li>
+<li id="cite_note-lmcbir-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-lmcbir_5-0">^</a></b></span> <span class="reference-text">X. Liu and W. B. Croft, “Cluster-based retrieval using language models,” in SIGIR ’04: Proceedings of the 27th annual international conference on Research and development in information retrieval, (New York, NY, USA), pp. 186–193, ACM Press, 2004.</span>
+</li>
+<li id="cite_note-voorheescbir-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-voorheescbir_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-voorheescbir_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">E. M. Voorhees, “The cluster hypothesis revisited,” in SIGIR ’85: Proceedings of the 8th annual international ACM SIGIR conference on Research and development in information retrieval, (New York, NY, USA), pp. 188–196, ACM Press, 1985.</span>
+</li>
+<li id="cite_note-preece-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-preece_7-0">^</a></b></span> <span class="reference-text">S. Preece, A spreading activation network model for information retrieval. PhD thesis, University of Illinois, Urbana-Champaign, 1981.</span>
+</li>
+<li id="cite_note-relprop-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-relprop_8-0">^</a></b></span> <span class="reference-text">T. Qin, T.-Y. Liu, X.-D. Zhang, Z. Chen, and W.-Y. Ma, “A study of relevance propagation for web search,” in SIGIR ’05: Proceedings of the 28th annual international ACM SIGIR conference on Research and development in information retrieval, (New York, NY, USA), pp. 408–415, ACM Press, 2005.</span>
+</li>
+<li id="cite_note-docexpansion-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-docexpansion_9-0">^</a></b></span> <span class="reference-text">A. Singhal and F. Pereira, “Document expansion for speech retrieval,” in SIGIR ’99: Proceedings of the 22nd annual international ACM SIGIR conference on Research and development in information retrieval, (New York, NY, USA), pp. 34–41, ACM Press, 1999.</span>
+</li>
+<li id="cite_note-diazreg-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-diazreg_10-0">^</a></b></span> <span class="reference-text">F. Diaz, “Regularizing query-based retrieval scores,” Information Retrieval, vol. 10, pp. 531–562, December 2007.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">Carbonell, Jaime; Goldstein, Jade (1998). <a rel="nofollow" class="external text" href="http://dl.acm.org/citation.cfm?id=291025">"The use of MMR, diversity-based reranking for reordering documents and producing summaries"</a>. <i>Proceedings of the 21st annual international ACM SIGIR conference on Research and development in information retrieval</i>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F290941.291025">10.1145/290941.291025</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+21st+annual+international+ACM+SIGIR+conference+on+Research+and+development+in+information+retrieval&amp;rft.atitle=The+use+of+MMR%2C+diversity-based+reranking+for+reordering+documents+and+producing+summaries&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1145%2F290941.291025&amp;rft.aulast=Carbonell&amp;rft.aufirst=Jaime&amp;rft.au=Goldstein%2C+Jade&amp;rft_id=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D291025&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARelevance+%28information+retrieval%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.dcs.gla.ac.uk/workshops/ddr2012/">http://www.dcs.gla.ac.uk/workshops/ddr2012/</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Relevance_(information_retrieval)&amp;action=edit&amp;section=6" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Hjørland, B. (2010). The foundation of the concept of relevance. Journal of the American Society for Information Science and Technology, 61(2), 217-237.</li>
+<li>Relevance&#160;: communication and cognition. by Dan Sperber; Deirdre Wilson. 2nd ed. Oxford; Cambridge, MA: Blackwell Publishers, 2001. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-631-19878-9" title="Special:BookSources/978-0-631-19878-9">978-0-631-19878-9</a></li>
+<li>Saracevic, T. (2007). Relevance: A review of the literature and a framework for thinking on the notion in information science. Part II: nature and manifestations of relevance. Journal of the American Society for Information Science and Technology, 58(3), 1915-1933. (<a rel="nofollow" class="external text" href="https://wayback.archive-it.org/all/20080221223258/http://www.scils.rutgers.edu/~tefko/Saracevic%20relevance%20pt%20II%20JASIST%20&#39;07.pdf">pdf</a>)</li>
+<li>Saracevic, T. (2007). Relevance: A review of the literature and a framework for thinking on the notion in information science. Part III: Behavior and effects of relevance. Journal of the American Society for Information Science and Technology, 58(13), 2126-2144. (<a rel="nofollow" class="external text" href="https://wayback.archive-it.org/all/20080221223251/http://www.scils.rutgers.edu/~tefko/Saracevic%20relevance%20pt%20III%20JASIST%20&#39;07.pdf">pdf</a>)</li>
+<li>Saracevic, T. (2007). Relevance in information science. Invited Annual Thomson Scientific Lazerow Memorial Lecture at School of Information Sciences, University of Tennessee. September 19, 2007. (<a rel="nofollow" class="external text" href="http://www.sis.utk.edu/lazerow2007">video</a>)</li>
+<li>Introduction to Information Retrieval: Evaluation. Stanford. (<a rel="nofollow" class="external text" href="http://web.stanford.edu/class/cs276/handouts/EvaluationNew-handout-6-per.pdf">presentation in PDF</a>)</li></ul>
+
+<!-- 
+NewPP limit report
+Parsed by mw2172
+Cached time: 20180929134751
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.196 seconds
+Real time usage: 0.268 seconds
+Preprocessor visited node count: 999/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 11666/2097152 bytes
+Template argument size: 2391/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 8386/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.099/10.000 seconds
+Lua memory usage: 2.32 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  235.359      1 -total
+ 43.31%  101.937      1 Template:Reflist
+ 32.68%   76.923      1 Template:Cite_journal
+ 28.50%   67.070      4 Template:Citation_needed
+ 25.39%   59.750      4 Template:Fix
+ 13.31%   31.320      8 Template:Category_handler
+ 12.46%   29.319      1 Template:ISBN
+ 10.22%   24.054      4 Template:Delink
+  9.91%   23.322      1 Template:Other_uses
+  4.59%   10.804      2 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:442684-0!canonical and timestamp 20180929134750 and revision id 856581026
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Relevance_(information_retrieval)&amp;oldid=856581026">https://en.wikipedia.org/w/index.php?title=Relevance_(information_retrieval)&amp;oldid=856581026</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Information_retrieval_evaluation" title="Category:Information retrieval evaluation">Information retrieval evaluation</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2015" title="Category:Articles with unsourced statements from June 2015">Articles with unsourced statements from June 2015</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Relevance+%28information+retrieval%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Relevance+%28information+retrieval%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Relevance_(information_retrieval)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Relevance_(information_retrieval)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Relevance_(information_retrieval)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Relevance_(information_retrieval)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Relevance_(information_retrieval)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Relevance_(information_retrieval)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Relevance_(information_retrieval)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Relevance_(information_retrieval)&amp;oldid=856581026" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Relevance_(information_retrieval)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1472529" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Relevance_%28information_retrieval%29&amp;id=856581026" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Relevance+%28information+retrieval%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Relevance+%28information+retrieval%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Relevance_(information_retrieval)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Relevanz_(Informationswissenschaft)" title="Relevanz (Informationswissenschaft) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E9%81%A9%E5%90%88%E6%80%A7_(%E6%83%85%E5%A0%B1%E6%A4%9C%E7%B4%A2)" title="適合性 (情報検索) – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C_(%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D0%B8%D1%81%D0%BA)" title="Релевантность (информационный поиск) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D1%82%D0%BD%D1%96%D1%81%D1%82%D1%8C" title="Релевантність – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1472529#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 26 August 2018, at 06:53<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Relevance_(information_retrieval)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.196","walltime":"0.268","ppvisitednodes":{"value":999,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":11666,"limit":2097152},"templateargumentsize":{"value":2391,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":8386,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  235.359      1 -total"," 43.31%  101.937      1 Template:Reflist"," 32.68%   76.923      1 Template:Cite_journal"," 28.50%   67.070      4 Template:Citation_needed"," 25.39%   59.750      4 Template:Fix"," 13.31%   31.320      8 Template:Category_handler"," 12.46%   29.319      1 Template:ISBN"," 10.22%   24.054      4 Template:Delink","  9.91%   23.322      1 Template:Other_uses","  4.59%   10.804      2 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.099","limit":"10.000"},"limitreport-memusage":{"value":2430011,"limit":52428800}},"cachereport":{"origin":"mw2172","timestamp":"20180929134751","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":65,"wgHostname":"mw2230"});});</script>
+	</body>
+</html>

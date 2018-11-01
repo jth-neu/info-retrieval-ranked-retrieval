@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Searx - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Searx","wgTitle":"Searx","wgCurRevisionId":851660514,"wgRevisionId":851660514,"wgArticleId":55083878,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Ukrainian-language sources (uk)","CS1 German-language sources (de)","Internet search engines","Internet privacy software"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Searx","wgRelevantArticleId":55083878,"wgRequestId":"W6@f7ArAIEUAAHl3kB8AAAAT","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q17639196","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Screenshot-2017-8-31_searx_me.png/1200px-Screenshot-2017-8-31_searx_me.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Searx"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Searx&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Searx&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Searx"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Searx rootpage-Searx skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Searx</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vevent" style="width:22em"><caption class="summary">Searx</caption><tbody><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Logo_searx_a.png" class="image" title="Searx logo"><img alt="Searx logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Logo_searx_a.png/171px-Logo_searx_a.png" width="171" height="64" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Logo_searx_a.png/256px-Logo_searx_a.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Logo_searx_a.png/341px-Logo_searx_a.png 2x" data-file-width="631" data-file-height="237" /></a><div>Searx logo</div></td></tr><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Screenshot-2017-8-31_searx_me.png" class="image" title="Searx Web interface"><img alt="Searx Web interface" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Screenshot-2017-8-31_searx_me.png/300px-Screenshot-2017-8-31_searx_me.png" width="300" height="156" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Screenshot-2017-8-31_searx_me.png/450px-Screenshot-2017-8-31_searx_me.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Screenshot-2017-8-31_searx_me.png/600px-Screenshot-2017-8-31_searx_me.png 2x" data-file-width="1920" data-file-height="996" /></a><div>Searx Web interface</div></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" class="mw-redirect" title="Software developer">Developer(s)</a></th><td>
+Adam Tauber (alias <i>asciimoo)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></i></td></tr><tr style="display: none;"><td colspan="2" style="text-align:center">
+</td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Stable release</a></th><td>
+<div style="margin:0px;">0.14.0<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+   / February&#160;18, 2018<span class="noprint">&#59;&#32;7 months ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2018-02-18</span>)</span></div></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Repository_(version_control)" title="Repository (version control)">Repository</a></th><td>
+<span class="url"><a rel="nofollow" class="external text" href="https://github.com/asciimoo/searx">github<wbr />.com<wbr />/asciimoo<wbr />/searx</a></span></td></tr><tr><th scope="row" style="white-space: nowrap;">Written in</th><td>
+<a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_categories#Categorization_approaches" title="Software categories">Type</a></th><td>
+<a href="/wiki/Metasearch_engine" title="Metasearch engine">Metasearch engine</a></td></tr><tr><th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th><td>
+<a href="/wiki/Free_software" title="Free software">Free software</a> (<a href="/wiki/AGPLv3" class="mw-redirect" title="AGPLv3">AGPLv3</a>)</td></tr><tr><th scope="row" style="white-space: nowrap;">Website</th><td>
+<span class="url"><a rel="nofollow" class="external text" href="http://searx.me">searx<wbr />.me</a></span></td></tr></tbody></table>
+<p><b>Searx</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="&#39;s&#39; in &#39;sigh&#39;">s</span><span title="/ɜːr/: &#39;ur&#39; in &#39;fur&#39;">ɜːr</span><span title="&#39;k&#39; in &#39;kind&#39;">k</span><span title="&#39;s&#39; in &#39;sigh&#39;">s</span></span>/</a></span></span>) is a <a href="/wiki/Free_software" title="Free software">free</a> <a href="/wiki/Metasearch_engine" title="Metasearch engine">metasearch engine</a>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> available under the <a href="/wiki/GNU_Affero_General_Public_License" title="GNU Affero General Public License">GNU Affero General Public License version 3</a>, with the aim of protecting the <a href="/wiki/Privacy" title="Privacy">privacy</a> of its users.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>  To this end, Searx does not share users' <a href="/wiki/IP_address" title="IP address">IP addresses</a> or search history with the <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engines</a> from which it gathers results.  <a href="/wiki/HTTP_cookie#Tracking" title="HTTP cookie">Tracking cookies</a> served by the search engines are blocked, preventing <a href="/wiki/Filter_bubble" title="Filter bubble">user-profiling-based results modification</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>  By default, Searx queries are submitted via <a href="/wiki/HTTP_POST" class="mw-redirect" title="HTTP POST">HTTP POST</a>, to prevent users' query keywords from appearing in webserver logs.<sup id="cite_ref-preferences_18-0" class="reference"><a href="#cite_note-preferences-18">&#91;18&#93;</a></sup>  Searx was inspired by the <a href="/wiki/Seeks" title="Seeks">Seeks</a> project,<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> though it does not implement Seeks' <a href="/wiki/Peer-to-peer" title="Peer-to-peer">peer-to-peer</a> user-sourced results ranking.
+</p><p>Each search result is given as a direct link to the respective site, rather than a tracked redirect link as used by <a href="/wiki/Google_Search" title="Google Search">Google</a>.  In addition, when available, these direct links are accompanied by "cached" and/or "proxied" links that allow viewing results pages without actually visiting the sites in question.  The "cached" links point to saved versions of a page on <a href="/wiki/Internet_Archive" title="Internet Archive">archive.org</a>, while the "proxied" links allow viewing the current live page via a Searx-based web proxy.  In addition to the general search, the engine also features tabs to search within specific domains: files, images, <a href="/wiki/Information_technology" title="Information technology">IT</a>, maps, music, news, science, social media, and videos.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p><p>Along with the most well-known instance at searx.me, Searx also features dozens of user-run instances at their own URLs.<sup id="cite_ref-Searx_instances_22-0" class="reference"><a href="#cite_note-Searx_instances-22">&#91;22&#93;</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>  A service called Searxes can be used to search a different random Searx instance with each query.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>  Searx.me is also available as a <a href="/wiki/Tor_(anonymity_network)" title="Tor (anonymity network)">Tor</a> <a href="/wiki/Hidden_service" class="mw-redirect" title="Hidden service">hidden service</a>.<sup id="cite_ref-Searx_instances_22-1" class="reference"><a href="#cite_note-Searx_instances-22">&#91;22&#93;</a></sup>  A public <a href="/wiki/API" class="mw-redirect" title="API">API</a> is available.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Search_engines_and_other_settings"><span class="tocnumber">1</span> <span class="toctext">Search engines and other settings</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Instances"><span class="tocnumber">2</span> <span class="toctext">Instances</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Search_engines_and_other_settings">Search engines and other settings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Searx&amp;action=edit&amp;section=1" title="Edit section: Search engines and other settings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Across all categories, Searx can fetch search results from about 70 different engines.  This includes major search engines and site-specific searches like <a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a>, <a href="/wiki/Google_Search" title="Google Search">Google</a>, <a href="/wiki/Reddit" title="Reddit">Reddit</a>, <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>, <a href="/wiki/Yahoo!_Search" title="Yahoo! Search">Yahoo</a>, and <a href="/wiki/Yandex_Search" title="Yandex Search">Yandex</a>.<sup id="cite_ref-Tauber_28-0" class="reference"><a href="#cite_note-Tauber-28">&#91;28&#93;</a></sup>  The engines used for each search category can be set via a "preferences" interface, and these settings will be saved in a cookie in the user's browser, rather than on the server side, since for privacy reasons, Searx does not implement a user login model.  Other settings such as the search interface language and the search results language (over 20 languages are available) can be set the same way.<sup id="cite_ref-preferences_18-1" class="reference"><a href="#cite_note-preferences-18">&#91;18&#93;</a></sup>
+</p><p>In addition to the preferences cookie, it is possible on each query to modify the engines used, search categories selected, and/or languages to search in by specifying one or more of the following textual search operators <i>before</i> the search keywords.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup> 
+</p>
+<ul><li><code>!<i>category</i></code> — Search the specified <i>category</i> instead of the default ones.</li>
+<li><code>?<i>category</i></code> — Search the specified <i>category</i> in addition to the default ones.</li>
+<li><code>!<i>engine</i></code> — Search the specified <i>engine</i> instead of the default ones.</li>
+<li><code>?<i>engine</i></code> — Search the specified <i>engine</i> in addition to the default ones.</li>
+<li><code>:<i>language</i></code> — Search for results in the specified <i>language</i> instead of the default one.</li></ul>
+<p>The <code>!</code> and <code>?</code> operators can be specified more than once to select multiple categories or engines, for example <code>!google !deviantart ?images :japanese cow</code>.
+</p>
+<h2><span class="mw-headline" id="Instances">Instances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Searx&amp;action=edit&amp;section=2" title="Edit section: Instances">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Any user may run their own instance of Searx,<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup> which can be done to maximize privacy, to avoid congestion on public instances, to preserve customized settings even if browser cookies are cleared, to allow auditing of the source code being run, etc.<sup id="cite_ref-own-instance_33-0" class="reference"><a href="#cite_note-own-instance-33">&#91;33&#93;</a></sup><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup>  Users may include their Searx instances on the editable list of all public instances, or keep them private.<sup id="cite_ref-Tauber_28-1" class="reference"><a href="#cite_note-Tauber-28">&#91;28&#93;</a></sup><sup id="cite_ref-own-instance_33-1" class="reference"><a href="#cite_note-own-instance-33">&#91;33&#93;</a></sup>  It is also possible to add custom search engines to a self-hosted instance that are not available on the public instances.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Searx&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://github.com/asciimoo">"asciimoo (Adam Tauber)"</a>. <i><a href="/wiki/GitHub" title="GitHub">GitHub</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GitHub&amp;rft.atitle=asciimoo+%28Adam+Tauber%29&amp;rft_id=https%3A%2F%2Fgithub.com%2Fasciimoo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://github.com/asciimoo/searx/releases/tag/v0.14.0">"asciimoo/searx"</a>. <i>GitHub</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GitHub&amp;rft.atitle=asciimoo%2Fsearx&amp;rft_id=https%3A%2F%2Fgithub.com%2Fasciimoo%2Fsearx%2Freleases%2Ftag%2Fv0.14.0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://trisquel.info/en/forum/searx-metasearch-engine">"Searx metasearch engine | Trisquel GNU/Linux - Run free!"</a>. <i>trisquel.info</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=trisquel.info&amp;rft.atitle=Searx+metasearch+engine+%7C+Trisquel+GNU%2FLinux+-+Run+free%21&amp;rft_id=https%3A%2F%2Ftrisquel.info%2Fen%2Fforum%2Fsearx-metasearch-engine&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://libreprojects.net/#tools">"Libre Projects"</a>. <i>libreprojects.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=libreprojects.net&amp;rft.atitle=Libre+Projects&amp;rft_id=http%3A%2F%2Flibreprojects.net%2F%23tools&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://myshadow.org/resources/searx?locale=en">"Searx | Me and my Shadow"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Searx+%7C+Me+and+my+Shadow&amp;rft_id=https%3A%2F%2Fmyshadow.org%2Fresources%2Fsearx%3Flocale%3Den&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://glynskyandpete.com/2016/08/01/new-search-kid-on-the-block/">"New search kid on the block | Glynsky and Pete"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=New+search+kid+on+the+block+%7C+Glynsky+and+Pete&amp;rft_id=http%3A%2F%2Fglynskyandpete.com%2F2016%2F08%2F01%2Fnew-search-kid-on-the-block%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">James, Author (2016-09-03). <a rel="nofollow" class="external text" href="https://islandearth.com/2016/09/03/searx-for-anonymous-search/">"SearX for Anonymous Search"</a>. <i>IslandEarth</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=IslandEarth&amp;rft.atitle=SearX+for+Anonymous+Search&amp;rft.date=2016-09-03&amp;rft.aulast=James&amp;rft.aufirst=Author&amp;rft_id=https%3A%2F%2Fislandearth.com%2F2016%2F09%2F03%2Fsearx-for-anonymous-search%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Kühnast, Charly. <a rel="nofollow" class="external text" href="http://www.linux-magazine.com/Issues/2017/194/Charly-s-Column-Searx">"Peppered with Hits&#160;» Linux Magazine"</a>. <i>Linux Magazine</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Linux+Magazine&amp;rft.atitle=Peppered+with+Hits+%C2%BB+Linux+Magazine&amp;rft.aulast=K%C3%BChnast&amp;rft.aufirst=Charly&amp;rft_id=http%3A%2F%2Fwww.linux-magazine.com%2FIssues%2F2017%2F194%2FCharly-s-Column-Searx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.bestvpn.com/privacy-search-engines/">"5 Best Search Engines That Respect Your Privacy - BestVPN.com"</a>. <i>BestVPN.com</i>. 2016-12-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BestVPN.com&amp;rft.atitle=5+Best+Search+Engines+That+Respect+Your+Privacy+-+BestVPN.com&amp;rft.date=2016-12-23&amp;rft_id=https%3A%2F%2Fwww.bestvpn.com%2Fprivacy-search-engines%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://signord.tevac.com/2014/10/01/motori-di-ricerca-alternativi/">"Motori di ricerca alternativi | Signor D"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Motori+di+ricerca+alternativi+%7C+Signor+D&amp;rft_id=http%3A%2F%2Fsignord.tevac.com%2F2014%2F10%2F01%2Fmotori-di-ricerca-alternativi%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://freedif.org/searx-meta-search-engine-respecting-privacy-for-your-server/">"searx, selfhosted search engine with your own privacy | Freedif"</a>. <i>freedif.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=freedif.org&amp;rft.atitle=searx%2C+selfhosted+search+engine+with+your+own+privacy+%7C+Freedif&amp;rft_id=https%3A%2F%2Ffreedif.org%2Fsearx-meta-search-engine-respecting-privacy-for-your-server%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">says, Nobody_Holme (2017-08-10). <a rel="nofollow" class="external text" href="https://nakedsecurity.sophos.com/2017/08/10/self-hosted-search-option-is-a-new-approach-to-bursting-the-filter-bubble/">"Self-hosted search option is a new approach to bursting the filter bubble"</a>. <i>Naked Security</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Naked+Security&amp;rft.atitle=Self-hosted+search+option+is+a+new+approach+to+bursting+the+filter+bubble&amp;rft.date=2017-08-10&amp;rft.aulast=says&amp;rft.aufirst=Nobody_Holme&amp;rft_id=https%3A%2F%2Fnakedsecurity.sophos.com%2F2017%2F08%2F10%2Fself-hosted-search-option-is-a-new-approach-to-bursting-the-filter-bubble%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.maketecheasier.com/best-search-engine-for-privacy/">"What Is the Best Search Engine for Privacy? - Make Tech Easier"</a>. <i>Make Tech Easier</i>. 2017-04-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Make+Tech+Easier&amp;rft.atitle=What+Is+the+Best+Search+Engine+for+Privacy%3F+-+Make+Tech+Easier&amp;rft.date=2017-04-03&amp;rft_id=https%3A%2F%2Fwww.maketecheasier.com%2Fbest-search-engine-for-privacy%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://tuxdiary.com/2014/12/22/searx/">"Searx: self-hosted web metasearch engine – Tuxdiary"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Searx%3A+self-hosted+web+metasearch+engine+%E2%80%93+Tuxdiary&amp;rft_id=http%3A%2F%2Ftuxdiary.com%2F2014%2F12%2F22%2Fsearx%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.tapatalk.com/topic/57378-nsane-forums/280781-new-fast-and-private-searx-instance-for-private-websearches">"New fast and private searX instance for private websearches - Tapatalk"</a>. <i>www.tapatalk.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.tapatalk.com&amp;rft.atitle=New+fast+and+private+searX+instance+for+private+websearches+-+Tapatalk&amp;rft_id=https%3A%2F%2Fwww.tapatalk.com%2Ftopic%2F57378-nsane-forums%2F280781-new-fast-and-private-searx-instance-for-private-websearches&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news">administrator, Acc. <a rel="nofollow" class="external text" href="http://acc.cv.ua/svit/25296-yak-zakhistiti-svoji-dani-v-interneti-11-korisnikh-dodatkiv">"Як захистити свої дані в інтернеті: 11 корисних додатків"</a>. <i>Новини АСС</i> (in Ukrainian)<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=%D0%9D%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8+%D0%90%D0%A1%D0%A1&amp;rft.atitle=%D0%AF%D0%BA+%D0%B7%D0%B0%D1%85%D0%B8%D1%81%D1%82%D0%B8%D1%82%D0%B8+%D1%81%D0%B2%D0%BE%D1%97+%D0%B4%D0%B0%D0%BD%D1%96+%D0%B2+%D1%96%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%96%3A+11+%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D0%BD%D0%B8%D1%85+%D0%B4%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D1%96%D0%B2&amp;rft.aulast=administrator&amp;rft.aufirst=Acc&amp;rft_id=http%3A%2F%2Facc.cv.ua%2Fsvit%2F25296-yak-zakhistiti-svoji-dani-v-interneti-11-korisnikh-dodatkiv&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://t3n.de/news/searx-konfigurierbare-suchmaschine-729236/">"Searx: Die konfigurierbare Suchmaschine, die deine Privatsphäre respektiert"</a>. <i>t3n News</i> (in German)<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=t3n+News&amp;rft.atitle=Searx%3A+Die+konfigurierbare+Suchmaschine%2C+die+deine+Privatsph%C3%A4re+respektiert&amp;rft_id=http%3A%2F%2Ft3n.de%2Fnews%2Fsearx-konfigurierbare-suchmaschine-729236%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-preferences-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-preferences_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-preferences_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://searx.me/preferences">"preferences - searx.me"</a>. <i>searx.me</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-09-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=searx.me&amp;rft.atitle=preferences+-+searx.me&amp;rft_id=https%3A%2F%2Fsearx.me%2Fpreferences&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://searx.me/about">"about - searx.me"</a>. <i>searx.me</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=searx.me&amp;rft.atitle=about+-+searx.me&amp;rft_id=https%3A%2F%2Fsearx.me%2Fabout&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.techspot.com/guides/1292-web-security-anonymizer-primer/">"A Primer on Staying Secure and Anonymous on the Dark Web"</a>. <i>TechSpot</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=TechSpot&amp;rft.atitle=A+Primer+on+Staying+Secure+and+Anonymous+on+the+Dark+Web&amp;rft_id=https%3A%2F%2Fwww.techspot.com%2Fguides%2F1292-web-security-anonymizer-primer%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.golem.de/news/searx-0-10-0-die-eigene-suchmaschine-auf-einem-raspberry-pi-1609-123094.html">"Searx 0.10.0: Die eigene Suchmaschine auf einem Raspberry Pi - Golem.de"</a> (in German)<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Searx+0.10.0%3A+Die+eigene+Suchmaschine+auf+einem+Raspberry+Pi+-+Golem.de&amp;rft_id=https%3A%2F%2Fwww.golem.de%2Fnews%2Fsearx-0-10-0-die-eigene-suchmaschine-auf-einem-raspberry-pi-1609-123094.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Searx_instances-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-Searx_instances_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Searx_instances_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://github.com/asciimoo/searx/wiki/Searx-instances">"Searx instances · asciimoo/searx Wiki · GitHub"</a>. <i><a href="/wiki/GitHub" title="GitHub">GitHub</a></i>. 2017-08-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-09-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GitHub&amp;rft.atitle=Searx+instances+%C2%B7+asciimoo%2Fsearx+Wiki+%C2%B7+GitHub&amp;rft.date=2017-08-29&amp;rft_id=https%3A%2F%2Fgithub.com%2Fasciimoo%2Fsearx%2Fwiki%2FSearx-instances&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://stats.searx.oe5tpo.com/">"searx-stats"</a>. <i>stats.searx.oe5tpo.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-09-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=stats.searx.oe5tpo.com&amp;rft.atitle=searx-stats&amp;rft_id=http%3A%2F%2Fstats.searx.oe5tpo.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://searxes.danwin1210.me/">"searxes.danwin1210.me"</a>. <i>Searxes</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Searxes&amp;rft.atitle=searxes.danwin1210.me&amp;rft_id=https%3A%2F%2Fsearxes.danwin1210.me%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://asciimoo.github.io/searx/dev/search_api.html">"Search API — searx 0.12.0 documentation"</a>. <i>asciimoo.github.io</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=asciimoo.github.io&amp;rft.atitle=Search+API+%E2%80%94+searx+0.12.0+documentation&amp;rft_id=https%3A%2F%2Fasciimoo.github.io%2Fsearx%2Fdev%2Fsearch_api.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.automatingosint.com/blog/2017/04/building-a-keyword-monitoring-pipeline-with-python-pastebin-and-searx/">"Building a Keyword Monitoring Pipeline with Python, Pastebin and Searx | Automating OSINT Blog"</a>. <i>www.automatingosint.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.automatingosint.com&amp;rft.atitle=Building+a+Keyword+Monitoring+Pipeline+with+Python%2C+Pastebin+and+Searx+%7C+Automating+OSINT+Blog&amp;rft_id=http%3A%2F%2Fwww.automatingosint.com%2Fblog%2F2017%2F04%2Fbuilding-a-keyword-monitoring-pipeline-with-python-pastebin-and-searx%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.bellingcat.com/resources/2017/04/21/building-keyword-monitoring-pipeline-python-pastebin-searx/">"Building a Keyword Monitoring Pipeline with Python, Pastebin and Searx - bellingcat"</a>. <i>bellingcat</i>. 2017-04-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=bellingcat&amp;rft.atitle=Building+a+Keyword+Monitoring+Pipeline+with+Python%2C+Pastebin+and+Searx+-+bellingcat&amp;rft.date=2017-04-21&amp;rft_id=https%3A%2F%2Fwww.bellingcat.com%2Fresources%2F2017%2F04%2F21%2Fbuilding-keyword-monitoring-pipeline-python-pastebin-searx%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Tauber-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-Tauber_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Tauber_28-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Tauber, Adam (2017-08-30). <a rel="nofollow" class="external text" href="https://github.com/asciimoo/searx">"searx: Privacy-respecting metasearch engine"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=searx%3A+Privacy-respecting+metasearch+engine&amp;rft.date=2017-08-30&amp;rft.aulast=Tauber&amp;rft.aufirst=Adam&amp;rft_id=https%3A%2F%2Fgithub.com%2Fasciimoo%2Fsearx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://asciimoo.github.io/searx/user/search_syntax.html">"Search syntax — searx 0.12.0 documentation"</a>. <i>asciimoo.github.io</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=asciimoo.github.io&amp;rft.atitle=Search+syntax+%E2%80%94+searx+0.12.0+documentation&amp;rft_id=https%3A%2F%2Fasciimoo.github.io%2Fsearx%2Fuser%2Fsearch_syntax.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.loganmarchione.com/2015/10/my-searx-instance/">"My Searx instance - Logan Marchione"</a>. <i>Logan Marchione</i>. 2015-10-18<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Logan+Marchione&amp;rft.atitle=My+Searx+instance+-+Logan+Marchione&amp;rft.date=2015-10-18&amp;rft_id=https%3A%2F%2Fwww.loganmarchione.com%2F2015%2F10%2Fmy-searx-instance%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.reddit.com/r/privacy/comments/5cplj2/new_fast_and_private_searx_instance_in_europe_for/">"New fast and private searX instance in Europe for private websearches • r/privacy"</a>. <i>reddit</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=reddit&amp;rft.atitle=New+fast+and+private+searX+instance+in+Europe+for+private+websearches+%E2%80%A2+r%2Fprivacy&amp;rft_id=https%3A%2F%2Fwww.reddit.com%2Fr%2Fprivacy%2Fcomments%2F5cplj2%2Fnew_fast_and_private_searx_instance_in_europe_for%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.reddit.com/r/privacytoolsIO/comments/366kvn/how_to_setup_your_own_privacy_respecting_search/">"How to setup your own privacy respecting search engine in a couple of hours with a free ssl certificate • r/privacytoolsIO"</a>. <i>reddit</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=reddit&amp;rft.atitle=How+to+setup+your+own+privacy+respecting+search+engine+in+a+couple+of+hours+with+a+free+ssl+certificate+%E2%80%A2+r%2FprivacytoolsIO&amp;rft_id=https%3A%2F%2Fwww.reddit.com%2Fr%2FprivacytoolsIO%2Fcomments%2F366kvn%2Fhow_to_setup_your_own_privacy_respecting_search%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-own-instance-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-own-instance_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-own-instance_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://asciimoo.github.io/searx/user/own-instance.html">"Why use a private instance? — searx 0.12.0 documentation"</a>. <i>asciimoo.github.io</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=asciimoo.github.io&amp;rft.atitle=Why+use+a+private+instance%3F+%E2%80%94+searx+0.12.0+documentation&amp;rft_id=https%3A%2F%2Fasciimoo.github.io%2Fsearx%2Fuser%2Fown-instance.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.reddit.com/r/privacytoolsIO/comments/5kncxu/privacy_advantages_of_running_my_own_searx/dbpo5ar/">"Privacy advantages of running my own searx instance • r/privacytoolsIO"</a>. <i>reddit</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=reddit&amp;rft.atitle=Privacy+advantages+of+running+my+own+searx+instance+%E2%80%A2+r%2FprivacytoolsIO&amp;rft_id=https%3A%2F%2Fwww.reddit.com%2Fr%2FprivacytoolsIO%2Fcomments%2F5kncxu%2Fprivacy_advantages_of_running_my_own_searx%2Fdbpo5ar%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.reddit.com/r/privacytoolsIO/comments/6qhpxu/searxme_is_overloaded_privacytoolsio_should_link/">"Searx.me is overloaded. Privacytools.io should link to just the instances page or randomize. • r/privacytoolsIO"</a>. <i>reddit</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=reddit&amp;rft.atitle=Searx.me+is+overloaded.+Privacytools.io+should+link+to+just+the+instances+page+or+randomize.+%E2%80%A2+r%2FprivacytoolsIO&amp;rft_id=https%3A%2F%2Fwww.reddit.com%2Fr%2FprivacytoolsIO%2Fcomments%2F6qhpxu%2Fsearxme_is_overloaded_privacytoolsio_should_link%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://asciimoo.github.io/searx/dev/engine_overview.html#general-engine-configuration">"Engine overview — searx 0.12.0 documentation"</a>. <i>asciimoo.github.io</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=asciimoo.github.io&amp;rft.atitle=Engine+overview+%E2%80%94+searx+0.12.0+documentation&amp;rft_id=https%3A%2F%2Fasciimoo.github.io%2Fsearx%2Fdev%2Fengine_overview.html%23general-engine-configuration&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearx" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Searx&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://asciimoo.github.io/searx/">Official website</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Web_search_engines" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Web_search_engines" title="Template:Web search engines"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Web_search_engines" title="Template talk:Web search engines"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_search_engines&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Web_search_engines" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_search_engine" title="Web search engine">Web search engines</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Active</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AOL" title="AOL">AOL</a></li>
+<li><a href="/wiki/Ahmia" title="Ahmia">Ahmia</a></li>
+<li><a href="/wiki/Ask.com" title="Ask.com">Ask.com</a></li>
+<li><a href="/wiki/Baidu" title="Baidu">Baidu</a></li>
+<li><a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a></li>
+<li><a href="/wiki/Blackle" title="Blackle">Blackle</a></li>
+<li><a href="/wiki/Dogpile" title="Dogpile">Dogpile</a></li>
+<li><a href="/wiki/DuckDuckGo" title="DuckDuckGo">DuckDuckGo</a></li>
+<li><a href="/wiki/Ecosia" title="Ecosia">Ecosia</a></li>
+<li><a href="/wiki/Exalead" title="Exalead">Exalead</a></li>
+<li><a href="/wiki/Excite" title="Excite">Excite</a></li>
+<li><a href="/wiki/GenieKnows" title="GenieKnows">GenieKnows</a></li>
+<li><a href="/wiki/Gigablast" title="Gigablast">Gigablast</a></li>
+<li><a href="/wiki/Google_Search" title="Google Search">Google</a></li>
+<li><a href="/wiki/Info.com" title="Info.com">Info.com</a></li>
+<li><a href="/wiki/Ixquick" title="Ixquick">Ixquick</a></li>
+<li><a href="/wiki/Lycos" title="Lycos">Lycos</a></li>
+<li><a href="/wiki/Naver" title="Naver">Naver</a></li>
+<li><a href="/wiki/Qwant" title="Qwant">Qwant</a></li>
+<li><a href="/wiki/Parsijoo" title="Parsijoo">Parsijoo</a></li>
+<li><a href="/wiki/Picollator" title="Picollator">Picollator</a></li>
+<li><a href="/wiki/SAPO_(company)" title="SAPO (company)">SAPO</a></li>
+<li><a href="/wiki/Scout_(travel_website)" title="Scout (travel website)">Scout</a></li>
+<li><a class="mw-selflink selflink">Searx</a></li>
+<li><a href="/wiki/Seznam.cz" title="Seznam.cz">Seznam.cz</a></li>
+<li><a href="/wiki/Sogou" title="Sogou">Sogou</a></li>
+<li><a href="/wiki/Sputnik_(search_engine)" title="Sputnik (search engine)">Sputnik</a></li>
+<li><a href="/wiki/Ixquick#Startpage.com" title="Ixquick">Startpage</a></li>
+<li><a href="/wiki/WebCrawler" title="WebCrawler">WebCrawler</a></li>
+<li><a href="/wiki/YaCy" title="YaCy">YaCy</a></li>
+<li><a href="/wiki/Yahoo!_Search" title="Yahoo! Search">Yahoo!</a></li>
+<li><a href="/wiki/Yandex_Search" title="Yandex Search">Yandex</a></li>
+<li><a href="/wiki/Yooz" title="Yooz">Yooz</a></li>
+<li><a href="/wiki/Youdao" title="Youdao">Youdao</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Inactive</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/123people" title="123people">123people</a></li>
+<li><a href="/wiki/A9.com" title="A9.com">A9.com</a></li>
+<li><a href="/wiki/Aliweb" title="Aliweb">Aliweb</a></li>
+<li><a href="/wiki/AlltheWeb" title="AlltheWeb">AlltheWeb</a></li>
+<li><a href="/wiki/AltaVista" title="AltaVista">AltaVista</a></li>
+<li><a href="/wiki/Blekko" title="Blekko">Blekko</a></li>
+<li><a href="/wiki/Boogami" title="Boogami">Boogami</a></li>
+<li><a href="/wiki/Cuil" title="Cuil">Cuil</a></li>
+<li><a href="/wiki/Empas" title="Empas">Empas</a></li>
+<li><a href="/wiki/Forestle" title="Forestle">Forestle</a></li>
+<li><a href="/wiki/Go.com" title="Go.com">Go.com</a></li>
+<li><a href="/wiki/Infoseek" title="Infoseek">Infoseek</a></li>
+<li><a href="/wiki/Inktomi" title="Inktomi">Inktomi</a></li>
+<li><a href="/wiki/JumpStation" title="JumpStation">JumpStation</a></li>
+<li><a href="/wiki/LeapFish" title="LeapFish">LeapFish</a></li>
+<li><a href="/wiki/Mugurdy" title="Mugurdy">Mugurdy</a></li>
+<li><a href="/wiki/Northern_Light_Group" title="Northern Light Group">Northern Light</a></li>
+<li><a href="/wiki/Powerset_(company)" title="Powerset (company)">Powerset</a></li>
+<li><a href="/wiki/Scroogle" class="mw-redirect" title="Scroogle">Scroogle</a></li>
+<li><a href="/wiki/SearchMe" title="SearchMe">SearchMe</a></li>
+<li><a href="/wiki/Soso.com" class="mw-redirect" title="Soso.com">Soso.com</a></li>
+<li><a href="/wiki/Teoma" title="Teoma">Teoma</a></li>
+<li><a href="/wiki/Viewzi" title="Viewzi">Viewzi</a></li>
+<li><a href="/wiki/Vivisimo" title="Vivisimo">Vivisimo</a></li>
+<li><a href="/wiki/Volunia" title="Volunia">Volunia</a></li>
+<li><a href="/wiki/W3Catalog" title="W3Catalog">W3Catalog</a></li>
+<li><a href="/wiki/Wikiseek" title="Wikiseek">Wikiseek</a></li>
+<li><a href="/wiki/Yebol" title="Yebol">Yebol</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/List_of_search_engines" title="List of search engines">Complete list</a></li>
+<li><a href="/wiki/Comparison_of_web_search_engines" title="Comparison of web search engines">Comparison</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Tor_hidden_services" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Tor_hidden_services" title="Template:Tor hidden services"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Tor_hidden_services" title="Template talk:Tor hidden services"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Tor_hidden_services&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Tor_hidden_services" style="font-size:114%;margin:0 4em"><a href="/wiki/Tor_(anonymity_network)#Hidden_services" title="Tor (anonymity network)">Tor hidden services</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="3"><div id="*_List-Class_article&amp;#124;16x16px&amp;#124;link=_List&amp;#10;*_Category&amp;#124;16x16px&amp;#124;link=_Category">
+<ul><li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/List_of_Tor_hidden_services" title="List of Tor hidden services">List</a></b></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Tor_hidden_services" title="Category:Tor hidden services">Category</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Web_directory" title="Web directory">Web directories</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/The_Hidden_Wiki" title="The Hidden Wiki">The Hidden Wiki</a></li></ul>
+</div></td><td class="navbox-image" rowspan="10" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Tor-logo-2011-flat.svg" class="image" title="Tor logo"><img alt="Tor logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/65px-Tor-logo-2011-flat.svg.png" width="65" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/98px-Tor-logo-2011-flat.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/130px-Tor-logo-2011-flat.svg.png 2x" data-file-width="306" data-file-height="185" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Web_search_engine" title="Web search engine">Search engines</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ahmia" title="Ahmia">Ahmia</a></li>
+<li><a href="/wiki/DuckDuckGo" title="DuckDuckGo">DuckDuckGo</a></li>
+<li><a href="/wiki/Grams_(search)" title="Grams (search)">Grams</a></li>
+<li><a href="/wiki/MetaGer" title="MetaGer">MetaGer</a></li>
+<li><a class="mw-selflink selflink">Searx</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/File_system" title="File system">File storage</a> and <a href="/wiki/Peer-to-peer" title="Peer-to-peer">peer-to-peer</a><br /><a href="/wiki/File_sharing" title="File sharing">file sharing</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/BTDigg" title="BTDigg">BTDigg</a></li>
+<li><a href="/wiki/Freedom_Hosting" title="Freedom Hosting">Freedom Hosting</a></li>
+<li><a href="/wiki/Free_Haven_Project" title="Free Haven Project">Free Haven Project</a></li>
+<li><a href="/wiki/KickassTorrents" title="KickassTorrents">KickassTorrents</a></li>
+<li><a href="/wiki/The_Pirate_Bay" title="The Pirate Bay">The Pirate Bay</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Mailbox_provider" title="Mailbox provider">Email</a> and<br /><a href="/wiki/Instant_messaging" title="Instant messaging">instant messaging</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bitmessage" title="Bitmessage">Bitmessage.ch</a></li>
+<li><a href="/wiki/Riseup" title="Riseup">Riseup</a></li>
+<li><a href="/wiki/Tor_Mail" title="Tor Mail">Tor Mail</a></li>
+<li><a href="/wiki/TorChat" title="TorChat">TorChat</a></li>
+<li><a href="/wiki/SIGAINT" title="SIGAINT">SIGAINT</a></li>
+<li><a href="/wiki/ProtonMail" title="ProtonMail">ProtonMail</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Social_media" title="Social media">Social media</a> and <a href="/wiki/Internet_forum" title="Internet forum">forums</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/8chan" title="8chan">8chan</a></li>
+<li><a href="/wiki/Dark0de" title="Dark0de">Dark0de</a></li>
+<li><a href="/wiki/Facebookcorewwwi.onion" title="Facebookcorewwwi.onion">Facebook</a></li>
+<li><a href="/wiki/HackBB" title="HackBB">HackBB</a></li>
+<li><a href="/wiki/Russian_Anonymous_Marketplace" title="Russian Anonymous Marketplace">Russian Anonymous Marketplace</a></li>
+<li><a href="/wiki/The_Hub_(forum)" title="The Hub (forum)">The Hub</a></li>
+<li><a href="/wiki/Tor_Carding_Forum" title="Tor Carding Forum">Tor Carding Forum</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Cryptocurrency_tumbler" title="Cryptocurrency tumbler">Cryptocurrency tumblers</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bitcoin_Fog" title="Bitcoin Fog">Bitcoin Fog</a></li>
+<li><a href="/wiki/Blockchain.info" title="Blockchain.info">Blockchain.info</a></li>
+<li><a href="/wiki/Grams_Helix" class="mw-redirect" title="Grams Helix">Helix</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Darknet_market" title="Darknet market">Commerce</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agora_(online_marketplace)" title="Agora (online marketplace)">Agora</a></li>
+<li><a href="/wiki/AlphaBay" title="AlphaBay">AlphaBay</a></li>
+<li><a href="/wiki/Assassination_market" title="Assassination market">Assassination market</a></li>
+<li><a href="/wiki/Atlantis_(market)" title="Atlantis (market)">Atlantis</a></li>
+<li><a href="/wiki/Black_Market_Reloaded" title="Black Market Reloaded">Black Market Reloaded</a></li>
+<li><a href="/wiki/Dream_Market" title="Dream Market">Dream Market</a></li>
+<li><a href="/wiki/Evolution_(marketplace)" title="Evolution (marketplace)">Evolution</a></li>
+<li><a href="/wiki/The_Farmer%27s_Market" title="The Farmer&#39;s Market">The Farmer's Market</a></li>
+<li><a href="/wiki/Hansa_(market)" title="Hansa (market)">Hansa</a></li>
+<li><a href="/wiki/Sheep_Marketplace" title="Sheep Marketplace">Sheep Marketplace</a></li>
+<li><a href="/wiki/Silk_Road_(marketplace)" title="Silk Road (marketplace)">Silk Road</a></li>
+<li><a href="/wiki/TheRealDeal" title="TheRealDeal">TheRealDeal</a></li>
+<li><a href="/wiki/Utopia_(marketplace)" title="Utopia (marketplace)">Utopia</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Online_newspaper" title="Online newspaper">News</a>, <a href="/wiki/Whistleblower" title="Whistleblower">whistleblowing</a>,<br />and <a href="/wiki/Archive" title="Archive">document archives</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/BuggedPlanet" title="BuggedPlanet">BuggedPlanet</a></li>
+<li><a href="/wiki/DeepDotWeb" title="DeepDotWeb">DeepDotWeb</a></li>
+<li><a href="/wiki/Doxbin" title="Doxbin">Doxbin</a></li>
+<li><a href="/wiki/Associated_Whistleblowing_Press#Filtrala" title="Associated Whistleblowing Press">Filtrala</a></li>
+<li><a href="/wiki/GlobaLeaks" title="GlobaLeaks">GlobaLeaks</a></li>
+<li><a href="/wiki/Independent_Media_Center" title="Independent Media Center">Independent Media Center</a></li>
+<li><a href="/wiki/Associated_Whistleblowing_Press#Ljost" title="Associated Whistleblowing Press">Ljost</a></li>
+<li><a href="/wiki/Nawaat#Nawaatleaks" title="Nawaat">NawaatLeaks</a></li>
+<li><a href="/wiki/ProPublica" title="ProPublica">ProPublica</a></li>
+<li><a href="/wiki/SecureDrop" title="SecureDrop">SecureDrop</a></li>
+<li><a href="/wiki/Sci-Hub" title="Sci-Hub">Sci-Hub</a></li>
+<li><a href="/wiki/The_Daily_Stormer" title="The Daily Stormer">The Daily Stormer</a></li>
+<li><a href="/wiki/The_Intercept" title="The Intercept">The Intercept</a></li>
+<li><a href="/wiki/Elephant_Action_League#WildLeaks_Project" title="Elephant Action League">WildLeaks</a></li>
+<li><a href="/wiki/WikiLeaks#Tor_hidden_service" title="WikiLeaks">WikiLeaks</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Nonprofit_organization" title="Nonprofit organization">Nonprofit organizations</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Courage_Foundation" title="Courage Foundation">Courage Foundation</a></li>
+<li><a href="/wiki/Freedom_of_the_Press_Foundation" title="Freedom of the Press Foundation">Freedom of the Press Foundation</a></li>
+<li><a href="/wiki/La_Quadrature_du_Net" title="La Quadrature du Net">La Quadrature du Net</a></li>
+<li><a href="/wiki/Telecomix" title="Telecomix">Telecomix</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pornography" title="Pornography">Pornography</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lolita_City" title="Lolita City">Lolita City</a></li>
+<li><a href="/wiki/Playpen_(website)" title="Playpen (website)">Playpen</a></li>
+<li><a href="/wiki/Childs_Play_(website)" title="Childs Play (website)">Childs Play</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><a href="/wiki/Tor_(anonymity_network)#Hidden_services" title="Tor (anonymity network)">Tor</a></li>
+<li><a href="/wiki/.onion" title=".onion">.onion domain</a></li>
+<li><a href="/wiki/Tor2web" title="Tor2web">Tor2web</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2231
+Cached time: 20180929151650
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.496 seconds
+Real time usage: 0.572 seconds
+Preprocessor visited node count: 2106/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 85959/2097152 bytes
+Template argument size: 1785/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 91762/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.258/10.000 seconds
+Lua memory usage: 4.87 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  461.098      1 -total
+ 55.10%  254.074      1 Template:Reflist
+ 39.08%  180.206     28 Template:Cite_web
+ 31.05%  143.182      2 Template:Infobox
+ 24.43%  112.625      1 Template:Infobox_software
+ 10.36%   47.773      1 Template:Infobox_software/simple
+  7.51%   34.615      8 Template:Cite_news
+  6.97%   32.147      2 Template:Navbox
+  6.19%   28.528      1 Template:IPAc-en
+  5.60%   25.813      1 Template:Start_date_and_age
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:55083878-0!canonical and timestamp 20180929151650 and revision id 851660514
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Searx&amp;oldid=851660514">https://en.wikipedia.org/w/index.php?title=Searx&amp;oldid=851660514</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li><li><a href="/wiki/Category:Internet_privacy_software" title="Category:Internet privacy software">Internet privacy software</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Ukrainian-language_sources_(uk)" title="Category:CS1 Ukrainian-language sources (uk)">CS1 Ukrainian-language sources (uk)</a></li><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Searx" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Searx" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Searx" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Searx" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Searx">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Searx&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Searx&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Searx" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Searx" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Searx&amp;oldid=851660514" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Searx&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17639196" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Searx&amp;id=851660514" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Searx">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Searx&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Searx&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Searx" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Searx" title="Searx – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/Searx" title="Searx – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17639196#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 23 July 2018, at 19:23<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Searx&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.496","walltime":"0.572","ppvisitednodes":{"value":2106,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":85959,"limit":2097152},"templateargumentsize":{"value":1785,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":91762,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  461.098      1 -total"," 55.10%  254.074      1 Template:Reflist"," 39.08%  180.206     28 Template:Cite_web"," 31.05%  143.182      2 Template:Infobox"," 24.43%  112.625      1 Template:Infobox_software"," 10.36%   47.773      1 Template:Infobox_software/simple","  7.51%   34.615      8 Template:Cite_news","  6.97%   32.147      2 Template:Navbox","  6.19%   28.528      1 Template:IPAc-en","  5.60%   25.813      1 Template:Start_date_and_age"]},"scribunto":{"limitreport-timeusage":{"value":"0.258","limit":"10.000"},"limitreport-memusage":{"value":5109654,"limit":52428800}},"cachereport":{"origin":"mw2231","timestamp":"20180929151650","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":102,"wgHostname":"mw2181"});});</script>
+	</body>
+</html>

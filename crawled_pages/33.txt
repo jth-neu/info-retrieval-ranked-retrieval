@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Yandex Search - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Yandex_Search","wgTitle":"Yandex Search","wgCurRevisionId":858116520,"wgRevisionId":858116520,"wgArticleId":31638589,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles to be expanded from October 2017","All articles to be expanded","Articles needing translation from Russian Wikipedia","Pages using deprecated image syntax","Articles containing potentially dated statements from January 2018","All articles containing potentially dated statements","Interlanguage link template link number","Internet search engines","Yandex"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Yandex_Search","wgRelevantArticleId":31638589,"wgRequestId":"W6@ReQrAADsAADBBP8IAAAAV","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q6349938","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Yandex_logo_en.svg/1200px-Yandex_logo_en.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Yandex_Search"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Yandex_Search&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Yandex_Search&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Yandex_Search"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Yandex_Search rootpage-Yandex_Search skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Yandex Search</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-notice" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/50px-Translation_to_english_arrow.svg.png" width="50" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/75px-Translation_to_english_arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/100px-Translation_to_english_arrow.svg.png 2x" data-file-width="60" data-file-height="20" /></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible mw-collapsed" style="box-sizing:border-box;width:100%;font-size:95%;padding:4px;border:none;"><div style="font-size:100%;line-height:1.6;font-weight:bold;background:transparent;text-align:center;;padding-right: 3em; font-weight: normal; text-align: left">This article <b>may be expanded with text translated from the <a href="https://ru.wikipedia.org/wiki/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81_(%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0)" class="extiw" title="ru:Яндекс (поисковая система)">corresponding article</a> in Russian</b>. &#32;<i><small>(October 2017)</small></i> <small>Click [show] for important translation instructions.</small></div><div class="mw-collapsible-content" style="background:transparent;text-align:left;;">
+<ul><li><a rel="nofollow" class="external text" href="https://translate.google.com/translate?&amp;u=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81+%28%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%29&amp;sl=ru&amp;tl=en&amp;prev=_t&amp;hl=en">View</a> a machine-translated version of the Russian article.</li>
+<li>Google's machine translation is a useful starting point for translations, but translators must revise errors as necessary and confirm that the translation is accurate, rather than simply copy-pasting machine-translated text into the English Wikipedia.</li>
+<li>Do not translate text that appears unreliable or low-quality. If possible, verify the text with references provided in the foreign-language article.</li>
+<li>You <b>must</b> provide <a href="/wiki/Wikipedia:Copying_within_Wikipedia" title="Wikipedia:Copying within Wikipedia">copyright attribution</a> in the <a href="/wiki/Help:Edit_summary" title="Help:Edit summary">edit summary</a> by providing an <a href="/wiki/Help:Interlanguage_links" title="Help:Interlanguage links">interlanguage link</a> to the source of your translation. A model attribution edit summary (using German): <code>Content in this edit is translated from the existing German Wikipedia article at [[:de:Exact name of German article]]; see its history for attribution.</code></li>
+<li>You should also add the template <code>{{Translated|ru|Яндекс (поисковая система)}}</code> to the <a href="/wiki/Talk:Yandex_Search" title="Talk:Yandex Search">talk page</a>.</li>
+<li>For more guidance, see <a href="/wiki/Wikipedia:Translation" title="Wikipedia:Translation">Wikipedia:Translation</a>.</li></ul></div></div></div></td></tr></tbody></table>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">Yandex Search</caption><tbody><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Yandex_logo_en.svg" class="image"><img alt="Yandex logo en.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Yandex_logo_en.svg/220px-Yandex_logo_en.svg.png" width="220" height="86" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Yandex_logo_en.svg/330px-Yandex_logo_en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Yandex_logo_en.svg/440px-Yandex_logo_en.svg.png 2x" data-file-width="130" data-file-height="51" /></a></td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Type of site</div></th><td>
+<a href="/wiki/Web_search_engine" title="Web search engine">Web search engine</a></td></tr><tr><th scope="row">Available&#160;in</th><td>
+Multilingual</td></tr><tr><th scope="row">Owner</th><td>
+<a href="/wiki/Yandex" title="Yandex">Yandex</a></td></tr><tr><th scope="row">Created&#160;by</th><td>
+Arkady Volozh<br />Arkady Borkovsky<br /><a href="/wiki/Ilya_Segalovich" title="Ilya Segalovich">Ilya Segalovich</a></td></tr><tr><th scope="row">Website</th><td class="url">
+<span class="url"><a rel="nofollow" class="external text" href="https://www.yandex.com/">Yandex.com</a></span></td></tr><tr><th scope="row"><a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa</a> rank</th><td>
+<img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 23 (April 18 2018<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Yandex_Search&amp;action=edit">&#91;update&#93;</a></sup>)<sup id="cite_ref-alexa_1-0" class="reference"><a href="#cite_note-alexa-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row">Commercial</th><td>
+Yes</td></tr><tr><th scope="row">Registration</th><td>
+Optional</td></tr><tr><th scope="row">Current&#160;status</th><td class="category">
+Active</td></tr></tbody></table>
+<p><b>Yandex Search</b> is a <a href="/wiki/Web_search_engine" title="Web search engine">web search engine</a> owned by Russian corporation <a href="/wiki/Yandex" title="Yandex">Yandex</a>. It is the core product of Yandex. In January 2015 Yandex Search generated 51.2% of all search traffic in Russia according to <a href="/w/index.php?title=LiveInternet&amp;action=edit&amp;redlink=1" class="new" title="LiveInternet (page does not exist)">LiveInternet</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;(<a href="https://ru.wikipedia.org/wiki/LiveInternet" class="extiw" title="ru:LiveInternet">ru</a>)</span>.<sup id="cite_ref-Liveinternet_2-0" class="reference"><a href="#cite_note-Liveinternet-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="About">About</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yandex_Search&amp;action=edit&amp;section=1" title="Edit section: About">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The search technology provides local search results in more than 1,400 cities. Yandex Search also features “parallel” search that presents results from both main web index and specialized information resources, including news, shopping, blogs, images and videos on a single page. It is often criticized for being biased extremely to the right, as Russia generally is.
+</p><p>Yandex Search is responsive to real-time queries, recognizing when a query requires the most current information, such as breaking news or the most recent post on <a href="/wiki/Twitter" title="Twitter">Twitter</a> on a particular topic. It also contains some additional features: Wizard Answer, which provides additional information (for example, sports results), <a href="/wiki/Spell_checker" title="Spell checker">spell checker</a>, <a href="/wiki/Autocomplete" title="Autocomplete">autocomplete</a> which suggests queries as-you-type, antivirus that detects <a href="/wiki/Malware" title="Malware">malware</a> on webpages and so on.<sup id="cite_ref-SEC_3-0" class="reference"><a href="#cite_note-SEC-3">&#91;3&#93;</a></sup>
+</p><p>In May 2010, Yandex launched Yandex.com, a platform for <a href="/wiki/Software_testing" title="Software testing">beta testing</a> and improving non-Russian language search.<sup id="cite_ref-GoesGlobal_4-0" class="reference"><a href="#cite_note-GoesGlobal-4">&#91;4&#93;</a></sup>
+</p><p>The search product can be accessed from personal computers, mobile phones, tablets and other digital devices. In addition to web search, Yandex provides wide range of specialized search services.
+</p><p>In 2009, Yandex launched MatrixNet, a new method of machine learning that significantly improves the relevance of search results. It allows the Yandex’ search engine to take into account a very large number of factors when it makes the decision about relevancy of search results.<sup id="cite_ref-Matrixnet_5-0" class="reference"><a href="#cite_note-Matrixnet-5">&#91;5&#93;</a></sup>
+</p><p>Another technology, Spectrum, was launched in 2010. It allows inferring implicit queries and returning matching search results. The system automatically analyses users' searches and identifies objects like personal names, films or cars. Proportions of the search results responding to different user intents are based on the user demand for these results.<sup id="cite_ref-Spectrum_6-0" class="reference"><a href="#cite_note-Spectrum-6">&#91;6&#93;</a></sup>
+</p><p>With the first release on July 21, 2017, <a href="/wiki/Brave_(web_browser)" title="Brave (web browser)"> Brave </a> web browser features Yandex as one of its default search engines.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yandex_Search&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-alexa-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-alexa_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.alexa.com/siteinfo/yandex.ru">"Yandex.ru Site Info"</a>. <a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa Internet</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 24,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Yandex.ru+Site+Info&amp;rft.pub=Alexa+Internet&amp;rft_id=http%3A%2F%2Fwww.alexa.com%2Fsiteinfo%2Fyandex.ru&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYandex+Search" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Liveinternet-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Liveinternet_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.liveinternet.ru/stat/ru/searches.html?date=2015-01-31;period=month">"site statistics "Сайты Рунета<span class="cs1-kern-right">"</span>"</a>. <i>www.liveinternet.ru</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 2,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.liveinternet.ru&amp;rft.atitle=site+statistics+%22%D0%A1%D0%B0%D0%B9%D1%82%D1%8B+%D0%A0%D1%83%D0%BD%D0%B5%D1%82%D0%B0%22&amp;rft_id=http%3A%2F%2Fwww.liveinternet.ru%2Fstat%2Fru%2Fsearches.html%3Fdate%3D2015-01-31%3Bperiod%3Dmonth&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYandex+Search" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-SEC-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-SEC_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sec.gov/Archives/edgar/data/1513845/000104746911004187/a2203514zf-1.htm">"SEC: Yandex Form F-1 Registration Statement"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SEC%3A+Yandex+Form+F-1+Registration+Statement&amp;rft_id=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F1513845%2F000104746911004187%2Fa2203514zf-1.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYandex+Search" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-GoesGlobal-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-GoesGlobal_4-0">^</a></b></span> <span class="reference-text">Matt McGee, Search Engine Land. <a rel="nofollow" class="external text" href="http://searchengineland.com/russias-yandex-search-engine-goes-global-42381">Russia’s Yandex Search Engine Goes Global</a>. Retrieved 2011-04-30.</span>
+</li>
+<li id="cite_note-Matrixnet-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Matrixnet_5-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://company.yandex.com/technologies/matrixnet.xml">MatrixNet: New Level of Search Quality</a>. Retrieved 2011-04-30.</span>
+</li>
+<li id="cite_note-Spectrum-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Spectrum_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://company.yandex.com/technologies/spectrum.xml">"Yandex — Technologies  — Spectrum"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">April 30,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Yandex+%E2%80%94+Technologies++%E2%80%94+Spectrum&amp;rft_id=http%3A%2F%2Fcompany.yandex.com%2Ftechnologies%2Fspectrum.xml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYandex+Search" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://github.com/brave/browser-laptop">"Brave Browser Github page"</a>. <i>Github</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 August</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Github&amp;rft.atitle=Brave+Browser+Github+page&amp;rft_id=https%3A%2F%2Fgithub.com%2Fbrave%2Fbrowser-laptop&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYandex+Search" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Web_search_engines" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Web_search_engines" title="Template:Web search engines"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Web_search_engines" title="Template talk:Web search engines"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_search_engines&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Web_search_engines" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_search_engine" title="Web search engine">Web search engines</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Active</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AOL" title="AOL">AOL</a></li>
+<li><a href="/wiki/Ahmia" title="Ahmia">Ahmia</a></li>
+<li><a href="/wiki/Ask.com" title="Ask.com">Ask.com</a></li>
+<li><a href="/wiki/Baidu" title="Baidu">Baidu</a></li>
+<li><a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Bing</a></li>
+<li><a href="/wiki/Blackle" title="Blackle">Blackle</a></li>
+<li><a href="/wiki/Dogpile" title="Dogpile">Dogpile</a></li>
+<li><a href="/wiki/DuckDuckGo" title="DuckDuckGo">DuckDuckGo</a></li>
+<li><a href="/wiki/Ecosia" title="Ecosia">Ecosia</a></li>
+<li><a href="/wiki/Exalead" title="Exalead">Exalead</a></li>
+<li><a href="/wiki/Excite" title="Excite">Excite</a></li>
+<li><a href="/wiki/GenieKnows" title="GenieKnows">GenieKnows</a></li>
+<li><a href="/wiki/Gigablast" title="Gigablast">Gigablast</a></li>
+<li><a href="/wiki/Google_Search" title="Google Search">Google</a></li>
+<li><a href="/wiki/Info.com" title="Info.com">Info.com</a></li>
+<li><a href="/wiki/Ixquick" title="Ixquick">Ixquick</a></li>
+<li><a href="/wiki/Lycos" title="Lycos">Lycos</a></li>
+<li><a href="/wiki/Naver" title="Naver">Naver</a></li>
+<li><a href="/wiki/Qwant" title="Qwant">Qwant</a></li>
+<li><a href="/wiki/Parsijoo" title="Parsijoo">Parsijoo</a></li>
+<li><a href="/wiki/Picollator" title="Picollator">Picollator</a></li>
+<li><a href="/wiki/SAPO_(company)" title="SAPO (company)">SAPO</a></li>
+<li><a href="/wiki/Scout_(travel_website)" title="Scout (travel website)">Scout</a></li>
+<li><a href="/wiki/Searx" title="Searx">Searx</a></li>
+<li><a href="/wiki/Seznam.cz" title="Seznam.cz">Seznam.cz</a></li>
+<li><a href="/wiki/Sogou" title="Sogou">Sogou</a></li>
+<li><a href="/wiki/Sputnik_(search_engine)" title="Sputnik (search engine)">Sputnik</a></li>
+<li><a href="/wiki/Ixquick#Startpage.com" title="Ixquick">Startpage</a></li>
+<li><a href="/wiki/WebCrawler" title="WebCrawler">WebCrawler</a></li>
+<li><a href="/wiki/YaCy" title="YaCy">YaCy</a></li>
+<li><a href="/wiki/Yahoo!_Search" title="Yahoo! Search">Yahoo!</a></li>
+<li><a class="mw-selflink selflink">Yandex</a></li>
+<li><a href="/wiki/Yooz" title="Yooz">Yooz</a></li>
+<li><a href="/wiki/Youdao" title="Youdao">Youdao</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Inactive</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/123people" title="123people">123people</a></li>
+<li><a href="/wiki/A9.com" title="A9.com">A9.com</a></li>
+<li><a href="/wiki/Aliweb" title="Aliweb">Aliweb</a></li>
+<li><a href="/wiki/AlltheWeb" title="AlltheWeb">AlltheWeb</a></li>
+<li><a href="/wiki/AltaVista" title="AltaVista">AltaVista</a></li>
+<li><a href="/wiki/Blekko" title="Blekko">Blekko</a></li>
+<li><a href="/wiki/Boogami" title="Boogami">Boogami</a></li>
+<li><a href="/wiki/Cuil" title="Cuil">Cuil</a></li>
+<li><a href="/wiki/Empas" title="Empas">Empas</a></li>
+<li><a href="/wiki/Forestle" title="Forestle">Forestle</a></li>
+<li><a href="/wiki/Go.com" title="Go.com">Go.com</a></li>
+<li><a href="/wiki/Infoseek" title="Infoseek">Infoseek</a></li>
+<li><a href="/wiki/Inktomi" title="Inktomi">Inktomi</a></li>
+<li><a href="/wiki/JumpStation" title="JumpStation">JumpStation</a></li>
+<li><a href="/wiki/LeapFish" title="LeapFish">LeapFish</a></li>
+<li><a href="/wiki/Mugurdy" title="Mugurdy">Mugurdy</a></li>
+<li><a href="/wiki/Northern_Light_Group" title="Northern Light Group">Northern Light</a></li>
+<li><a href="/wiki/Powerset_(company)" title="Powerset (company)">Powerset</a></li>
+<li><a href="/wiki/Scroogle" class="mw-redirect" title="Scroogle">Scroogle</a></li>
+<li><a href="/wiki/SearchMe" title="SearchMe">SearchMe</a></li>
+<li><a href="/wiki/Soso.com" class="mw-redirect" title="Soso.com">Soso.com</a></li>
+<li><a href="/wiki/Teoma" title="Teoma">Teoma</a></li>
+<li><a href="/wiki/Viewzi" title="Viewzi">Viewzi</a></li>
+<li><a href="/wiki/Vivisimo" title="Vivisimo">Vivisimo</a></li>
+<li><a href="/wiki/Volunia" title="Volunia">Volunia</a></li>
+<li><a href="/wiki/W3Catalog" title="W3Catalog">W3Catalog</a></li>
+<li><a href="/wiki/Wikiseek" title="Wikiseek">Wikiseek</a></li>
+<li><a href="/wiki/Yebol" title="Yebol">Yebol</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/List_of_search_engines" title="List of search engines">Complete list</a></li>
+<li><a href="/wiki/Comparison_of_web_search_engines" title="Comparison of web search engines">Comparison</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2233
+Cached time: 20180929145138
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.260 seconds
+Real time usage: 0.345 seconds
+Preprocessor visited node count: 1625/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 37125/2097152 bytes
+Template argument size: 4046/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 13364/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.115/10.000 seconds
+Lua memory usage: 3.13 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  310.684      1 -total
+ 38.17%  118.576      1 Template:Infobox_website
+ 30.89%   95.974      1 Template:Infobox
+ 27.26%   84.688      1 Template:Reflist
+ 23.87%   74.169      1 Template:Expand_language
+ 23.77%   73.865      5 Template:Cite_web
+  9.52%   29.585      1 Template:Ambox
+  6.79%   21.102      2 Template:DMCA
+  6.00%   18.627      2 Template:Dated_maintenance_category
+  5.72%   17.760      1 Template:Ill
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:31638589-0!canonical and timestamp 20180929145137 and revision id 858116520
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Yandex_Search&amp;oldid=858116520">https://en.wikipedia.org/w/index.php?title=Yandex_Search&amp;oldid=858116520</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li><li><a href="/wiki/Category:Yandex" title="Category:Yandex">Yandex</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_to_be_expanded_from_October_2017" title="Category:Articles to be expanded from October 2017">Articles to be expanded from October 2017</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_needing_translation_from_Russian_Wikipedia" title="Category:Articles needing translation from Russian Wikipedia">Articles needing translation from Russian Wikipedia</a></li><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_January_2018" title="Category:Articles containing potentially dated statements from January 2018">Articles containing potentially dated statements from January 2018</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Interlanguage_link_template_link_number" title="Category:Interlanguage link template link number">Interlanguage link template link number</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Yandex+Search" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Yandex+Search" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Yandex_Search" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Yandex_Search" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Yandex_Search">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Yandex_Search&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Yandex_Search&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Yandex_Search" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Yandex_Search" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Yandex_Search&amp;oldid=858116520" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Yandex_Search&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6349938" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Yandex_Search&amp;id=858116520" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Yandex+Search">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Yandex+Search&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Yandex_Search&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Yandex.Search" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Yandex" title="Yandex – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D8%B1%D9%83_%D8%A8%D8%AD%D8%AB_%D9%8A%D8%A7%D9%86%D8%AF%D9%83%D8%B3" title="محرك بحث ياندكس – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Yandex_Search" title="Yandex Search – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81_(%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0)" title="Яндекс (поисковая система) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9F%D0%BE%D1%88%D1%83%D0%BA" title="Яндекс.Пошук – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6349938#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 5 September 2018, at 05:00<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Yandex_Search&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.260","walltime":"0.345","ppvisitednodes":{"value":1625,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":37125,"limit":2097152},"templateargumentsize":{"value":4046,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13364,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  310.684      1 -total"," 38.17%  118.576      1 Template:Infobox_website"," 30.89%   95.974      1 Template:Infobox"," 27.26%   84.688      1 Template:Reflist"," 23.87%   74.169      1 Template:Expand_language"," 23.77%   73.865      5 Template:Cite_web","  9.52%   29.585      1 Template:Ambox","  6.79%   21.102      2 Template:DMCA","  6.00%   18.627      2 Template:Dated_maintenance_category","  5.72%   17.760      1 Template:Ill"]},"scribunto":{"limitreport-timeusage":{"value":"0.115","limit":"10.000"},"limitreport-memusage":{"value":3279191,"limit":52428800}},"cachereport":{"origin":"mw2233","timestamp":"20180929145138","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":441,"wgHostname":"mw2233"});});</script>
+	</body>
+</html>

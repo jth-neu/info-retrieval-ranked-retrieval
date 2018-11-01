@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Search aggregator - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Search_aggregator","wgTitle":"Search aggregator","wgCurRevisionId":763968097,"wgRevisionId":763968097,"wgArticleId":6558590,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from August 2012","All articles needing additional references","Articles that may contain original research from December 2008","All articles that may contain original research","Articles with multiple maintenance issues","Aggregation websites","Metasearch engines","Internet search engines"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Search_aggregator","wgRelevantArticleId":6558590,"wgRequestId":"W6-VcwrAEDcAAEUuH8AAAABH","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7441638","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Search_aggregator"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Search_aggregator&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Search_aggregator&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Search_aggregator"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Search_aggregator rootpage-Search_aggregator skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Search aggregator</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Search_aggregator&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Search_aggregator" title="Talk:Search aggregator">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+      <table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Search_aggregator&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(August 2012)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="plainlinks metadata ambox ambox-content ambox-Original_research" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article  <b>possibly contains <a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research">original research</a></b>.<span class="hide-when-compact"> Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Search_aggregator&amp;action=edit">improve it</a> by <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifying</a> the claims made and adding <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a>. Statements consisting only of original research should be removed.</span>  <small><i>(December 2008)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+    </div>
+</div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p><br />  
+A <b>search aggregator</b> is a type of <a href="/wiki/Metasearch_engine" title="Metasearch engine">metasearch engine</a> which gathers results from multiple search engines simultaneously, typically through RSS search results.  It combines user specified search feeds (parameterized RSS feeds which return search results) to give the user the same level of control over content as a general <a href="/wiki/News_aggregator" title="News aggregator">aggregator</a>.
+</p><p>Soon after the introduction of <a href="/wiki/RSS" title="RSS">RSS</a>, sites began publicising their search results in parameterized RSS feeds.  Search aggregators are an increasingly popular way to take advantage of the power of multiple search engines with a flexibility not seen in traditional <a href="/wiki/Metasearch_engine" title="Metasearch engine">metasearch engines</a>.  To the end user, a search aggregator may appear to be just a customizable search engine and the use of RSS may be completely hidden.  However, the presence of RSS is directly responsible for the existence of search aggregators and a critical component in the behind-the-scenes technology.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Functional_overview"><span class="tocnumber">2</span> <span class="toctext">Functional overview</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Advantages"><span class="tocnumber">3</span> <span class="toctext">Advantages</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Patents"><span class="tocnumber">4</span> <span class="toctext">Patents</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Search_aggregator&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The concept of search aggregation is a relatively recent phenomenon with the first ones becoming available in 2006.  In 2005 Amazon published the <a href="/wiki/OpenSearch" title="OpenSearch">OpenSearch</a> specification for making search results available in a generic XML format.  While many sites currently publish results in OpenSearch, many simply publish in generic RSS format.  However, while OpenSearch syndication allows for greater flexibility in the way Search Aggregators display results, it is generally not required.
+</p>
+<h2><span class="mw-headline" id="Functional_overview">Functional overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Search_aggregator&amp;action=edit&amp;section=2" title="Edit section: Functional overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A search aggregator typically allows users to select specific search engines ad hoc to perform a specified query.  At the time the user enters the query into the Search Aggregator, it generates the required URL "on the fly" by inserting the search query into the parameterized URL for the search feed.  A parameterized URL looks something like this:
+</p>
+<pre>   https://news.google.com/news?hl=en&amp;ned=us&amp;q={SEARCH_TERMS}&amp;ie=UTF-8&amp;output=rss
+</pre>
+<p>In this case, the {SEARCH_TERMS} parameter would be replaced with the user requested search terms, and the query would be sent to the host.  The Search Aggregator would then parse the results and display them in a user-friendly way.
+</p>
+<h2><span class="mw-headline" id="Advantages">Advantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Search_aggregator&amp;action=edit&amp;section=3" title="Edit section: Advantages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This system has several advantages over traditional <a href="/wiki/Metasearch_engine" title="Metasearch engine">metasearch engines</a>.  Primarily, it allows the user greater flexibility in deciding which engines should be used to perform the query.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> They also allow for easy addition of new engines to the users personal collection (similar to the way a user adds a new news feed to a news aggregator.)
+</p>
+<h2><span class="mw-headline" id="Patents">Patents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Search_aggregator&amp;action=edit&amp;section=4" title="Edit section: Patents">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Apple patent 6,847,959,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> filed January 5, 2000, covers universal search aggregation. This resulted in the removal <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>  of this feature from Samsung Android smart phones in July 2012.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Search_aggregator&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/News_aggregator" title="News aggregator">Aggregator</a></li>
+<li><a href="/wiki/Metasearch_engine" title="Metasearch engine">Metasearch engine</a></li>
+<li><a href="/wiki/Federated_search" title="Federated search">Federated search</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Search_aggregator&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.belfasttelegraph.co.uk/technology/use-of-anonymous-search-engine-aggregator-duckduckgo-rockets-following-prism-scandal-29358766.html">"Use of 'anonymous' search engine aggregator DuckDuckGo rockets following PRISM scandal"</a> <i>Belfast Telegraph</i>. Retrieved 2015-08-12.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.google.com/patents/US6847959">"Patent US6847959 - Universal interface for retrieval of information in a computer system - Google Patents"</a>. Google.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-08-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Patent+US6847959+-+Universal+interface+for+retrieval+of+information+in+a+computer+system+-+Google+Patents&amp;rft.pub=Google.com&amp;rft_id=http%3A%2F%2Fwww.google.com%2Fpatents%2FUS6847959&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearch+aggregator" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Florian Mueller (2012-02-15). <a rel="nofollow" class="external text" href="http://www.fosspatents.com/2012/02/last-weeks-apple-samsung-lawsuit.html">"Last week's Apple-Samsung lawsuit involves eight patents, 17 products - bid for Nexus ban is based on only a subset"</a>. FOSS Patents<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-08-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Last+week%27s+Apple-Samsung+lawsuit+involves+eight+patents%2C+17+products+-+bid+for+Nexus+ban+is+based+on+only+a+subset&amp;rft.pub=FOSS+Patents&amp;rft.date=2012-02-15&amp;rft.au=Florian+Mueller&amp;rft_id=http%3A%2F%2Fwww.fosspatents.com%2F2012%2F02%2Flast-weeks-apple-samsung-lawsuit.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASearch+aggregator" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Internet_search" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Internet_search" title="Template:Internet search"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Internet_search" title="Template talk:Internet search"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Internet_search&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Internet_search" style="font-size:114%;margin:0 4em"><a href="/wiki/Internet_search" class="mw-redirect" title="Internet search">Internet search</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Types</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Web_search_engine" title="Web search engine">Web search engine</a> (<a href="/wiki/List_of_search_engines" title="List of search engines">List</a>)</li>
+<li><a href="/wiki/Metasearch_engine" title="Metasearch engine">Metasearch engine</a></li>
+<li><a href="/wiki/Collaborative_search_engine" title="Collaborative search engine">Collaborative search engine</a></li>
+<li><a href="/wiki/Human_flesh_search_engine" title="Human flesh search engine">Human flesh search engine</a></li>
+<li><a href="/wiki/Local_search_(Internet)" title="Local search (Internet)">Local search</a></li>
+<li><a href="/wiki/Vertical_search" title="Vertical search">Vertical search</a></li>
+<li><a href="/wiki/Social_search" title="Social search">Social search</a></li>
+<li><a href="/wiki/Image_retrieval" title="Image retrieval">Image search</a></li>
+<li><a href="/wiki/Video_search_engine" title="Video search engine">Video search engine</a></li>
+<li><a href="/wiki/Enterprise_search" title="Enterprise search">Enterprise search</a></li>
+<li><a href="/wiki/Semantic_search" title="Semantic search">Semantic search</a></li>
+<li><a href="/wiki/Natural_language_search_engine" class="mw-redirect" title="Natural language search engine">Natural language search engine</a></li>
+<li><a href="/wiki/Voice_search" title="Voice search">Voice search</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Tools</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Search_engine_marketing" title="Search engine marketing">Search engine marketing</a></li>
+<li><a href="/wiki/Search_engine_optimization" title="Search engine optimization">Search engine optimization</a></li>
+<li><a href="/wiki/Evaluation_measures_(information_retrieval)" title="Evaluation measures (information retrieval)">Evaluation measures</a></li>
+<li><a href="/wiki/Search_oriented_architecture" class="mw-redirect" title="Search oriented architecture">Search oriented architecture</a></li>
+<li><a href="/wiki/Selection-based_search" title="Selection-based search">Selection-based search</a></li></ul>
+<ul><li><a href="/wiki/Document_retrieval" title="Document retrieval">Document retrieval</a></li>
+<li><a href="/wiki/Text_mining" title="Text mining">Text mining</a></li>
+<li><a href="/wiki/Web_crawler" title="Web crawler">Web crawler</a></li>
+<li><a href="/wiki/Multisearch" title="Multisearch">Multisearch</a></li>
+<li><a href="/wiki/Federated_search" title="Federated search">Federated search</a></li>
+<li><a class="mw-selflink selflink">Search aggregator</a></li>
+<li><a href="/wiki/Index_(search_engine)" class="mw-redirect" title="Index (search engine)">Index</a>/<a href="/wiki/Web_indexing" title="Web indexing">Web indexing</a></li>
+<li><a href="/wiki/Focused_crawler" title="Focused crawler">Focused crawler</a></li>
+<li><a href="/wiki/Spider_trap" title="Spider trap">Spider trap</a></li>
+<li><a href="/wiki/Robots_exclusion_standard" title="Robots exclusion standard">Robots exclusion standard</a></li>
+<li><a href="/wiki/Distributed_web_crawling" title="Distributed web crawling">Distributed web crawling</a></li>
+<li><a href="/wiki/Web_archiving" title="Web archiving">Web archiving</a></li>
+<li><a href="/wiki/Website_mirroring_software" class="mw-redirect" title="Website mirroring software">Website mirroring software</a></li>
+<li><a href="/wiki/Web_search_query" title="Web search query">Web search query</a></li>
+<li><a href="/wiki/Web_query_classification" title="Web query classification">Web query classification</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Protocols<br />and standards</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Z39.50" title="Z39.50">Z39.50</a></li>
+<li><a href="/wiki/Search/Retrieve_Web_Service" title="Search/Retrieve Web Service">Search/Retrieve Web Service</a></li>
+<li><a href="/wiki/Search/Retrieve_via_URL" title="Search/Retrieve via URL">Search/Retrieve via URL</a></li>
+<li><a href="/wiki/OpenSearch" title="OpenSearch">OpenSearch</a></li>
+<li><a href="/wiki/Representational_State_Transfer" class="mw-redirect" title="Representational State Transfer">Representational State Transfer</a></li>
+<li><a href="/w/index.php?title=Website_Parse_Template&amp;action=edit&amp;redlink=1" class="new" title="Website Parse Template (page does not exist)">Website Parse Template</a></li>
+<li><a href="/wiki/Wide_area_information_server" title="Wide area information server">Wide area information server</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">See also</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Search_engine_(computing)" title="Search engine (computing)">Search engine</a></li>
+<li><a href="/wiki/Desktop_search" title="Desktop search">Desktop search</a></li>
+<li><a href="/wiki/Online_search" title="Online search">Online search</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Web_syndication" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Web_syndication" title="Template:Web syndication"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Web_syndication" title="Template talk:Web syndication"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_syndication&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Web_syndication" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_syndication" title="Web syndication">Web syndication</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id=";History&amp;#10;:_Blogging&amp;#10;:_Podcasting&amp;#10;:_Video_blogging&amp;#10;:_Web_syndication_technology">
+<dl><dt>History</dt>
+<dd><a href="/wiki/History_of_blogging" title="History of blogging">Blogging</a></dd>
+<dd><a href="/wiki/History_of_podcasting" title="History of podcasting">Podcasting</a></dd>
+<dd><a href="/wiki/Video_blog" class="mw-redirect" title="Video blog">Video blogging</a></dd>
+<dd><a href="/wiki/History_of_web_syndication_technology" title="History of web syndication technology">Web syndication technology</a></dd></dl>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Niche_blogging" title="Niche blogging">Types</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Art_blog" title="Art blog">Art</a></li>
+<li><a href="/wiki/Mormon_blogosphere" title="Mormon blogosphere">Bloggernacle</a></li>
+<li><a href="/wiki/Classical_music_blog" title="Classical music blog">Classical music</a></li>
+<li><a href="/wiki/Corporate_blog" title="Corporate blog">Corporate</a></li>
+<li><a href="/wiki/Dream_diary" title="Dream diary">Dream diary</a></li>
+<li><a href="/wiki/Edublog" title="Edublog">Edublog</a></li>
+<li><a href="/wiki/Electronic_journal" title="Electronic journal">Electronic journal</a></li>
+<li><a href="/wiki/Fake_blog" class="mw-redirect" title="Fake blog">Fake</a></li>
+<li><a href="/wiki/List_of_family-and-homemaking_blogs" title="List of family-and-homemaking blogs">Family</a></li>
+<li><a href="/wiki/Fashion_blog" title="Fashion blog">Fashion</a></li>
+<li><a href="/wiki/Food_porn" title="Food porn">Food</a></li>
+<li><a href="/wiki/Health_blog" title="Health blog">Health</a></li>
+<li><a href="/wiki/Glossary_of_blogging#Blawg" title="Glossary of blogging">Law</a></li>
+<li><a href="/wiki/Lifelog" title="Lifelog">Lifelog</a></li>
+<li><a href="/wiki/Litblog" title="Litblog">Litblog</a></li>
+<li><a href="/wiki/MP3_blog" title="MP3 blog">MP3</a></li>
+<li><a href="/wiki/News_blog" class="mw-redirect" title="News blog">News</a></li>
+<li><a href="/wiki/Photoblog" title="Photoblog">Photoblog</a></li>
+<li><a href="/wiki/Police_blog" title="Police blog">Police</a></li>
+<li><a href="/wiki/Political_blog" class="mw-redirect" title="Political blog">Political</a></li>
+<li><a href="/wiki/Prayer_blog" title="Prayer blog">Prayer</a></li>
+<li><a href="/wiki/Project_blog" title="Project blog">Project</a></li>
+<li><a href="/wiki/Reverse_blog" title="Reverse blog">Reverse</a></li>
+<li><a href="/wiki/Travel_blog" class="mw-redirect" title="Travel blog">Travel</a></li>
+<li><a href="/wiki/Warblog" title="Warblog">Warblog</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Technology</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">General</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/BitTorrent" title="BitTorrent">BitTorrent</a></li>
+<li><a href="/wiki/Feed_URI_scheme" title="Feed URI scheme">Feed URI scheme</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Features</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Linkback" title="Linkback">Linkback</a></li>
+<li><a href="/wiki/Permalink" title="Permalink">Permalink</a></li>
+<li><a href="/wiki/Ping_(blogging)" title="Ping (blogging)">Ping</a></li>
+<li><a href="/wiki/Pingback" title="Pingback">Pingback</a></li>
+<li><a href="/wiki/Reblogging" title="Reblogging">Reblogging</a></li>
+<li><a href="/wiki/Refback" title="Refback">Refback</a></li>
+<li><a href="/wiki/Rollback_(data_management)" title="Rollback (data management)">Rollback</a></li>
+<li><a href="/wiki/Trackback" title="Trackback">Trackback</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Mechanism</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Conversation_threading" title="Conversation threading">Conversation threading</a></li>
+<li><a href="/wiki/Geotagging" title="Geotagging">Geotagging</a></li>
+<li><a href="/wiki/RSS_enclosure" title="RSS enclosure">RSS enclosure</a></li>
+<li><a href="/wiki/FeedSync#Examples" title="FeedSync">Synchronization</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Memetics" title="Memetics">Memetics</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Atom_(standard)" class="mw-redirect" title="Atom (standard)">Atom feed</a></li>
+<li><a href="/wiki/Data_feed" title="Data feed">Data feed</a></li>
+<li><a href="/wiki/Photofeed" title="Photofeed">Photofeed</a></li>
+<li><a href="/wiki/Product_feed" title="Product feed">Product feed</a></li>
+<li><a href="/wiki/RDF_feed" class="mw-redirect" title="RDF feed">RDF feed</a></li>
+<li><a href="/wiki/Web_feed" title="Web feed">Web feed</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/RSS" title="RSS">RSS</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/GeoRSS" title="GeoRSS">GeoRSS</a></li>
+<li><a href="/wiki/Media_RSS" title="Media RSS">MRSS</a></li>
+<li><a href="/wiki/RSS_TV" title="RSS TV">RSS TV</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Social</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Livemark" class="mw-redirect" title="Livemark">Livemark</a></li>
+<li><a href="/wiki/Mashup_(web_application_hybrid)" title="Mashup (web application hybrid)">Mashup</a></li>
+<li><a href="/wiki/Inter-process_communication" title="Inter-process communication"><sup>.</sup> pooling</a></li>
+<li><a href="/wiki/Reference_(computer_science)" title="Reference (computer science)">Referencing</a></li>
+<li><a href="/wiki/RSS_editor" title="RSS editor">RSS editor</a></li>
+<li><a href="/wiki/RSS_tracking" title="RSS tracking">RSS tracking</a></li>
+<li><a href="/wiki/Streaming_media" title="Streaming media">Streaming media</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Standard</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/OML" title="OML">OML</a></li>
+<li><a href="/wiki/OPML" title="OPML">OPML</a></li>
+<li><a href="/wiki/RSS_Advisory_Board" title="RSS Advisory Board">RSS Advisory Board</a>—<a href="/wiki/Usenet" title="Usenet">Usenet</a>: <a href="https://en.wiktionary.org/wiki/.net" class="extiw" title="wikt:.net">.net</a></li>
+<li><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a> + (<a href="https://en.wiktionary.org/wiki/-let" class="extiw" title="wikt:-let">-let</a>)</li>
+<li><a href="/wiki/XBEL" title="XBEL">XBEL</a></li>
+<li><a href="/wiki/XOXO_(microformat)" title="XOXO (microformat)">XOXO</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Form</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Category:Audio_podcasts" title="Category:Audio podcasts">Audio podcast</a></li>
+<li><a href="/wiki/Enhanced_podcast" class="mw-redirect" title="Enhanced podcast">Enhanced podcast</a></li>
+<li><a href="/wiki/Mobilecast" class="mw-redirect" title="Mobilecast">Mobilecast</a></li>
+<li><a href="/wiki/Narrowcasting" title="Narrowcasting">Narrowcasting</a></li>
+<li><a href="/wiki/Peercasting" title="Peercasting">Peercasting</a></li>
+<li><a href="/wiki/Screencast" title="Screencast">Screencast</a></li>
+<li><a href="/wiki/Slidecasting" title="Slidecasting">Slidecasting</a></li>
+<li><a href="/wiki/Videocast" class="mw-redirect" title="Videocast">Videocast</a></li>
+<li><a href="/wiki/Webcomic" title="Webcomic">Webcomic</a></li>
+<li><a href="/wiki/Webtoon" title="Webtoon">Webtoon</a></li>
+<li><a href="/wiki/Web_series" title="Web series">Web series</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anonymous_blog" title="Anonymous blog">Anonymous blogging</a></li>
+<li><a href="/wiki/Collaborative_blog" class="mw-redirect" title="Collaborative blog">Collaborative blog</a></li>
+<li><a href="/wiki/Columnist" title="Columnist">Columnist</a></li>
+<li><a href="/wiki/Instant_messaging" title="Instant messaging">Instant messaging</a></li>
+<li><a href="/wiki/Liveblogging" title="Liveblogging">Liveblogging</a></li>
+<li><a href="/wiki/Microblogging" title="Microblogging">Microblog</a></li>
+<li><a href="/wiki/Mobile_blogging" title="Mobile blogging">Mobile blogging</a></li>
+<li><a href="/wiki/Roblog" title="Roblog">Roblog</a></li>
+<li><a href="/wiki/Spam_blog" title="Spam blog">Spam blog</a></li>
+<li><a href="/wiki/Video_blog" class="mw-redirect" title="Video blog">Video blogging</a></li>
+<li><a href="/wiki/Motovlog" title="Motovlog">Motovlogging</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Media</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Alternative_media" title="Alternative media">Alternative media</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blog_carnival" class="mw-redirect" title="Blog carnival">Carnivals</a></li>
+<li><a href="/wiki/Blog_fiction" title="Blog fiction">Fiction</a></li>
+<li><a href="/wiki/Journalism" title="Journalism">Journalism</a>
+<ul><li><a href="/wiki/Citizen_journalism" title="Citizen journalism">Citizen</a></li>
+<li><a href="/wiki/Database_journalism" title="Database journalism">Database</a></li></ul></li>
+<li><a href="/wiki/Online_diary" title="Online diary">Online diary</a></li>
+<li><a href="/wiki/List_of_search_engines#Blog" title="List of search engines">Search engines</a></li>
+<li><a href="/wiki/Sideblog" title="Sideblog">Sideblog</a></li>
+<li><a href="/wiki/Blog_software" class="mw-redirect" title="Blog software">Software</a></li>
+<li><a href="/wiki/Web_directory" title="Web directory">Web directory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Micromedia</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Comparison_of_feed_aggregators" title="Comparison of feed aggregators">Aggregation</a>
+<ul><li><a href="/wiki/News_aggregator" title="News aggregator">News</a></li>
+<li><a href="/wiki/Poll_aggregator" title="Poll aggregator">Poll</a></li>
+<li><a href="/wiki/Review_aggregator" title="Review aggregator">Review</a></li>
+<li><a class="mw-selflink selflink">Search</a></li>
+<li><a href="/wiki/Video_aggregator" title="Video aggregator">Video</a></li></ul></li>
+<li><a href="/wiki/Atom_(standard)" class="mw-redirect" title="Atom (standard)">Atom</a></li>
+<li><a href="/wiki/AtomPub" class="mw-redirect" title="AtomPub">AtomPub</a></li>
+<li><a href="/wiki/Broadcatching" title="Broadcatching">Broadcatching</a></li>
+<li><a href="/wiki/Hashtag" title="Hashtag">Hashtag</a></li>
+<li><a href="/wiki/NewsML" title="NewsML">NewsML</a>
+<ul><li><a href="/wiki/NewsML_1" title="NewsML 1">1</a></li>
+<li><a href="/wiki/NewsML-G2" title="NewsML-G2">G2</a></li></ul></li>
+<li><a href="/wiki/Social_communication" class="mw-redirect" title="Social communication">Social communication</a></li>
+<li><a href="/wiki/Social_software" title="Social software">Social software</a></li>
+<li><a href="/wiki/Web_Slice" title="Web Slice">Web Slice</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blogosphere" title="Blogosphere">Blogosphere</a></li>
+<li><a href="/wiki/Escribitionist" title="Escribitionist">Escribitionist</a></li>
+<li><a href="/wiki/Glossary_of_blogging" title="Glossary of blogging">Glossary of blogging</a></li>
+<li><a href="/wiki/Pay_per_click" class="mw-redirect" title="Pay per click">Pay per click</a></li>
+<li><a href="/wiki/Posting_style" title="Posting style">Posting style</a></li>
+<li><a href="/wiki/Slashdot_effect" title="Slashdot effect">Slashdot effect</a></li>
+<li><a href="/wiki/Spam_in_blogs" title="Spam in blogs">Spam in blogs</a></li>
+<li><a href="/wiki/Uses_of_podcasting" title="Uses of podcasting">Uses of podcasting</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2174
+Cached time: 20180929141915
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.180 seconds
+Real time usage: 0.226 seconds
+Preprocessor visited node count: 669/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 72829/2097152 bytes
+Template argument size: 6052/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 5959/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.077/10.000 seconds
+Lua memory usage: 2.47 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  153.507      1 -total
+ 44.33%   68.051      3 Template:Ambox
+ 41.85%   64.237      1 Template:Reflist
+ 36.96%   56.730      1 Template:Multiple_issues
+ 36.82%   56.517      2 Template:Cite_web
+ 24.47%   37.564      6 Template:Navbox
+ 13.06%   20.047      1 Template:Refimprove
+ 12.89%   19.781      1 Template:Web_syndication
+  6.66%   10.225      1 Template:Internet_search
+  3.26%    5.001      1 Template:Linktext
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6558590-0!canonical and timestamp 20180929141915 and revision id 763968097
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Search_aggregator&amp;oldid=763968097">https://en.wikipedia.org/w/index.php?title=Search_aggregator&amp;oldid=763968097</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Aggregation_websites" title="Category:Aggregation websites">Aggregation websites</a></li><li><a href="/wiki/Category:Metasearch_engines" title="Category:Metasearch engines">Metasearch engines</a></li><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_August_2012" title="Category:Articles needing additional references from August 2012">Articles needing additional references from August 2012</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_December_2008" title="Category:Articles that may contain original research from December 2008">Articles that may contain original research from December 2008</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Search+aggregator" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Search+aggregator" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Search_aggregator" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Search_aggregator" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Search_aggregator">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Search_aggregator&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Search_aggregator&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Search_aggregator" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Search_aggregator" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Search_aggregator&amp;oldid=763968097" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Search_aggregator&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7441638" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Search_aggregator&amp;id=763968097" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Search+aggregator">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Search+aggregator&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Search_aggregator&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7441638#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 6 February 2017, at 08:07<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Search_aggregator&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.180","walltime":"0.226","ppvisitednodes":{"value":669,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":72829,"limit":2097152},"templateargumentsize":{"value":6052,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5959,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  153.507      1 -total"," 44.33%   68.051      3 Template:Ambox"," 41.85%   64.237      1 Template:Reflist"," 36.96%   56.730      1 Template:Multiple_issues"," 36.82%   56.517      2 Template:Cite_web"," 24.47%   37.564      6 Template:Navbox"," 13.06%   20.047      1 Template:Refimprove"," 12.89%   19.781      1 Template:Web_syndication","  6.66%   10.225      1 Template:Internet_search","  3.26%    5.001      1 Template:Linktext"]},"scribunto":{"limitreport-timeusage":{"value":"0.077","limit":"10.000"},"limitreport-memusage":{"value":2595001,"limit":52428800}},"cachereport":{"origin":"mw2174","timestamp":"20180929141915","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":67,"wgHostname":"mw2256"});});</script>
+	</body>
+</html>

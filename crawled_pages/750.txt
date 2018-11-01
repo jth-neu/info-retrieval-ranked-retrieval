@@ -1,0 +1,832 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Train operating company - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Train_operating_company","wgTitle":"Train operating company","wgCurRevisionId":860732992,"wgRevisionId":860732992,"wgArticleId":923810,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: Archived copy as title","Webarchive template archiveis links","Use dmy dates from September 2010","Train operating companies in the United Kingdom","Post-privatisation British railway companies","Privatisation of British Rail","Railway companies of the United Kingdom"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Train_operating_company","wgRelevantArticleId":923810,"wgRequestId":"W7B9HArAIDMAAKMBqLgAAADO","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Train_Operating_Companies","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgInternalRedirectTargetUrl":"/wiki/Train_operating_company","wgWikibaseItemId":"Q17102188","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Train_operating_company"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Train_operating_company&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Train_operating_company&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Train_operating_company"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Train_operating_company rootpage-Train_operating_company skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Train operating company</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Train_Operating_Companies&amp;redirect=no" class="mw-redirect" title="Train Operating Companies">Train Operating Companies</a>)</span></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>
+A <b>train operating company</b> (<b>TOC</b>) is a business operating <a href="/wiki/Train#Passenger_trains" title="Train">passenger trains</a> on the <a href="/wiki/Rail_transport_in_Great_Britain" title="Rail transport in Great Britain">railway system of Great Britain</a> under the collective <a href="/wiki/National_Rail" title="National Rail">National Rail</a> brand. TOCs have existed since the <a href="/wiki/Privatisation_of_British_Rail" title="Privatisation of British Rail">privatisation</a> of the network under the <a href="/wiki/Railways_Act_1993" title="Railways Act 1993">Railways Act 1993</a>.
+</p><p>There are two types of TOC: most hold <a href="/wiki/Passenger_rail_franchising_in_Great_Britain" title="Passenger rail franchising in Great Britain">franchises</a> let by the government, following bids from various companies, to operate services on certain routes for a specified duration, while a small number of <a href="/wiki/Open_access_operator" class="mw-redirect" title="Open access operator">open access operators</a> hold licences to provide supplementary services on chosen routes. These operators can run services for the duration of the licence validity. The franchised operators have changed considerably since privatisation: previous franchises have been divided, merged, re-let to new operators, or renamed.
+</p><p>The term is also sometimes used to describe companies operating passenger or freight rail services over tracks that are owned by another company or a national network owner.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Management"><span class="tocnumber">1</span> <span class="toctext">Management</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Organisation"><span class="tocnumber">2</span> <span class="toctext">Organisation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Great_Britain"><span class="tocnumber">2.1</span> <span class="toctext">Great Britain</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Current_operators"><span class="tocnumber">2.2</span> <span class="toctext">Current operators</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Northern_Ireland"><span class="tocnumber">2.3</span> <span class="toctext">Northern Ireland</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Changes"><span class="tocnumber">3</span> <span class="toctext">Changes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#1990s"><span class="tocnumber">3.1</span> <span class="toctext">1990s</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#1994"><span class="tocnumber">3.1.1</span> <span class="toctext">1994</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#1996/97"><span class="tocnumber">3.1.2</span> <span class="toctext">1996/97</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#1998"><span class="tocnumber">3.1.3</span> <span class="toctext">1998</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#2000"><span class="tocnumber">3.1.4</span> <span class="toctext">2000</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-12"><a href="#2001–2003"><span class="tocnumber">3.2</span> <span class="toctext">2001–2003</span></a>
+<ul>
+<li class="toclevel-3 tocsection-13"><a href="#2001"><span class="tocnumber">3.2.1</span> <span class="toctext">2001</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#2003"><span class="tocnumber">3.2.2</span> <span class="toctext">2003</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-15"><a href="#2004–2006"><span class="tocnumber">3.3</span> <span class="toctext">2004–2006</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="#2004"><span class="tocnumber">3.3.1</span> <span class="toctext">2004</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#2005"><span class="tocnumber">3.3.2</span> <span class="toctext">2005</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#2006"><span class="tocnumber">3.3.3</span> <span class="toctext">2006</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-19"><a href="#2007–2010"><span class="tocnumber">3.4</span> <span class="toctext">2007–2010</span></a>
+<ul>
+<li class="toclevel-3 tocsection-20"><a href="#2007"><span class="tocnumber">3.4.1</span> <span class="toctext">2007</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#2008"><span class="tocnumber">3.4.2</span> <span class="toctext">2008</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#2009"><span class="tocnumber">3.4.3</span> <span class="toctext">2009</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#2010"><span class="tocnumber">3.4.4</span> <span class="toctext">2010</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-24"><a href="#2011–2017"><span class="tocnumber">3.5</span> <span class="toctext">2011–2017</span></a>
+<ul>
+<li class="toclevel-3 tocsection-25"><a href="#2011"><span class="tocnumber">3.5.1</span> <span class="toctext">2011</span></a></li>
+<li class="toclevel-3 tocsection-26"><a href="#2012"><span class="tocnumber">3.5.2</span> <span class="toctext">2012</span></a></li>
+<li class="toclevel-3 tocsection-27"><a href="#2014"><span class="tocnumber">3.5.3</span> <span class="toctext">2014</span></a></li>
+<li class="toclevel-3 tocsection-28"><a href="#2015"><span class="tocnumber">3.5.4</span> <span class="toctext">2015</span></a></li>
+<li class="toclevel-3 tocsection-29"><a href="#2016"><span class="tocnumber">3.5.5</span> <span class="toctext">2016</span></a></li>
+<li class="toclevel-3 tocsection-30"><a href="#2017"><span class="tocnumber">3.5.6</span> <span class="toctext">2017</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-31"><a href="#Current_TOCs"><span class="tocnumber">4</span> <span class="toctext">Current TOCs</span></a>
+<ul>
+<li class="toclevel-2 tocsection-32"><a href="#Franchised"><span class="tocnumber">4.1</span> <span class="toctext">Franchised</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#Managed"><span class="tocnumber">4.2</span> <span class="toctext">Managed</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#Open-access_operators"><span class="tocnumber">4.3</span> <span class="toctext">Open-access operators</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-35"><a href="#Future_TOCs"><span class="tocnumber">5</span> <span class="toctext">Future TOCs</span></a>
+<ul>
+<li class="toclevel-2 tocsection-36"><a href="#Franchised_2"><span class="tocnumber">5.1</span> <span class="toctext">Franchised</span></a></li>
+<li class="toclevel-2 tocsection-37"><a href="#Open-access_operators_2"><span class="tocnumber">5.2</span> <span class="toctext">Open-access operators</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-38"><a href="#Railtours"><span class="tocnumber">6</span> <span class="toctext">Railtours</span></a></li>
+<li class="toclevel-1 tocsection-39"><a href="#Sea_links"><span class="tocnumber">7</span> <span class="toctext">Sea links</span></a></li>
+<li class="toclevel-1 tocsection-40"><a href="#International_operators"><span class="tocnumber">8</span> <span class="toctext">International operators</span></a></li>
+<li class="toclevel-1 tocsection-41"><a href="#In_other_countries"><span class="tocnumber">9</span> <span class="toctext">In other countries</span></a></li>
+<li class="toclevel-1 tocsection-42"><a href="#See_also"><span class="tocnumber">10</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-43"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Management">Management</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=1" title="Edit section: Management">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Franchises were initially let by the <a href="/wiki/Director_of_Passenger_Rail_Franchising" title="Director of Passenger Rail Franchising">Office of Passenger Rail Franchising</a> (OPRAF). This was in turn replaced by the <a href="/wiki/Strategic_Rail_Authority" title="Strategic Rail Authority">Strategic Rail Authority</a>, which has since been abolished. For England and Wales, franchising is now the responsibility of the <a href="/wiki/Department_for_Transport" title="Department for Transport">Department for Transport</a> in the majority of cases. In <a href="/wiki/Scotland" title="Scotland">Scotland</a>, it is the responsibility of the <a href="/wiki/Scottish_Government" title="Scottish Government">Scottish Government</a>. In two parts of England, local government agencies are responsible: in <a href="/wiki/Merseyside" title="Merseyside">Merseyside</a>, the <a href="/wiki/Merseytravel" title="Merseytravel">Merseyside Passenger Transport Executive</a> lets the <a href="/wiki/Merseyrail" title="Merseyrail">Merseyrail</a> franchise, while in <a href="/wiki/London" title="London">London</a>, <a href="/wiki/Transport_for_London" title="Transport for London">Transport for London</a> oversees the new <a href="/wiki/London_Overground" title="London Overground">London Overground</a> and <a href="/wiki/Crossrail" title="Crossrail">Crossrail</a> concessions.
+</p><p>The <a href="/wiki/Rail_Delivery_Group" title="Rail Delivery Group">Rail Delivery Group</a> (RDG) (formerly the Association of Train Operating Companies) provides a commonality for the TOCs and provides some centralised co-ordination. Its activities include the provision of a national timetable and online journey planner facility, and the operation of the various <a href="/wiki/Concessionary_fares_on_the_British_railway_network#Railcards" title="Concessionary fares on the British railway network">Railcard</a> discount schemes. <a href="/wiki/Eurostar" title="Eurostar">Eurostar</a> is also a member of the RDG, though it is not itself a TOC.
+</p>
+<h2><span class="mw-headline" id="Organisation">Organisation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=2" title="Edit section: Organisation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For historical and geographical reasons the railway network of the United Kingdom is split into two independent systems: one in <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> (including the <a href="/wiki/Isle_of_Wight" title="Isle of Wight">Isle of Wight</a>), and one in <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a>, which is closely linked to the railway system of the <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Republic of Ireland</a>.
+</p>
+<h3><span class="mw-headline" id="Great_Britain">Great Britain</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=3" title="Edit section: Great Britain">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Great Britain, passenger train services are operated by a number of companies, referred to as <i>Train Operating Companies</i> or TOCs, normally on the basis of regional franchises awarded by the <a href="/wiki/Department_for_Transport" title="Department for Transport">Department for Transport</a> <a rel="nofollow" class="external text" href="http://www.dft.gov.uk/stellent/groups/dft_railways/documents/sectionhomepage/dft_railways_page.hcsp">Rail Group</a>. Until 2005 this role was performed by the <a href="/wiki/Strategic_Rail_Authority" title="Strategic Rail Authority">Strategic Rail Authority</a>. The infrastructure of the <a href="/wiki/Rail_transport" title="Rail transport">railways</a> in <a href="/wiki/England" title="England">England</a>, <a href="/wiki/Scotland" title="Scotland">Scotland</a>, and <a href="/wiki/Wales" title="Wales">Wales</a>&#160;– including tracks and <a href="/wiki/Railway_signalling" title="Railway signalling">signalling</a>&#160;– is owned and operated not by the train companies but by <a href="/wiki/Network_Rail" title="Network Rail">Network Rail</a>, which took over responsibility from <a href="/wiki/Railtrack" title="Railtrack">Railtrack</a> in 2002. Most passenger trains are owned by a small number of <a href="/wiki/Rolling_stock_operating_company" title="Rolling stock operating company">Rolling Stock Companies</a> and are leased to the individual TOCs. However, a handful of TOCs own and maintain some of their own rolling stock. Train operating companies also operate most of the network's <a href="/wiki/Train_station" title="Train station">stations</a>, in their role as station facility owners (SFO), in which they lease the buildings and associated land from Network Rail.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> Network Rail manages some <a href="/wiki/Category:Network_Rail_managed_stations" title="Category:Network Rail managed stations">major railway stations</a> and several stations are operated by <a href="/wiki/London_Underground" title="London Underground">London Underground</a> or other companies.
+</p><p>All passenger TOCs in Great Britain are privately owned. The majority of these hold <a href="/wiki/Rail_franchising_in_Great_Britain" class="mw-redirect" title="Rail franchising in Great Britain">franchises</a> to operate rail services on specific parts of the railway and come under the auspices of the National Rail brand. In addition, companies are able to bid for "paths" (specific parts of the overall National Rail timetable) to operate their own services, which the franchises do not operate&#160;– these operators are classed as <a href="/wiki/Open-access_operator" title="Open-access operator">open-access operators</a> and are not franchise holders. Currently in Great Britain, there are two open-access operators: <a href="/wiki/Hull_Trains" title="Hull Trains">Hull Trains</a> runs services between <a href="/wiki/London_King%27s_Cross_railway_station" title="London King&#39;s Cross railway station">London King's Cross</a> and <a href="/wiki/Hull_Paragon_Interchange" title="Hull Paragon Interchange">Hull</a>, and <a href="/wiki/Grand_Central_(train_operating_company)" title="Grand Central (train operating company)">Grand Central</a>, which operates between London King's Cross and <a href="/wiki/Sunderland_railway_station" class="mw-redirect" title="Sunderland railway station">Sunderland</a> and between London King's Cross and <a href="/wiki/Bradford_Interchange" title="Bradford Interchange">Bradford</a>. In addition, there are operators that fall outside the purview of National Rail, which operate specific services which are recent additions to Britain's railways. The main examples are <a href="/wiki/Eurostar" title="Eurostar">Eurostar</a>, which operates to the continent via the <a href="/wiki/Channel_Tunnel" title="Channel Tunnel">Channel Tunnel</a>, and <a href="/wiki/Heathrow_Express" title="Heathrow Express">Heathrow Express</a>, which runs fast services from London to <a href="/wiki/Heathrow_Airport" title="Heathrow Airport">Heathrow Airport</a>.
+</p><p>A number of metropolitan railways on the network are operated by the local franchise holder in conjunction with the <a href="/wiki/Passenger_transport_executive" title="Passenger transport executive">passenger transport executive</a> or other civic body responsible for administering public transport. One of these bodies, the <a href="/wiki/Merseytravel" title="Merseytravel">Merseyside Passenger Transport Executive</a>, is responsible for one of three National Rail franchises not awarded by central government, namely the <a href="/wiki/Merseyrail" title="Merseyrail">Merseyrail</a> franchise, while certain National Rail services in North London came under the control of <a href="/wiki/Transport_for_London" title="Transport for London">Transport for London</a> in November 2007 as <a href="/wiki/London_Overground" title="London Overground">London Overground</a>. Two other franchises, the Scottish national franchise, currently operated by <a href="/wiki/Abellio_ScotRail" title="Abellio ScotRail">Abellio ScotRail</a>, and the Welsh domestic franchise, operated by <a href="/wiki/Arriva_Trains_Wales" title="Arriva Trains Wales">Arriva Trains Wales</a>, are awarded by the devolved governments of the two constituent nations.
+</p><p>The <a href="/wiki/Rail_Delivery_Group" title="Rail Delivery Group">Rail Delivery Group</a> is the coordinating body of the train operating companies in Great Britain and owns the National Rail brand, which uses the former <a href="/wiki/British_Rail" title="British Rail">British Rail</a> double-arrow logo and organises the common ticketing structure. Many of the train operating companies are in fact parts of larger companies which operate multiple franchises.
+</p>
+<h3><span class="mw-headline" id="Current_operators">Current operators</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=4" title="Edit section: Current operators">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th style="width: 20em;">Parent
+</th>
+<th>Train operating company
+</th></tr>
+<tr>
+<td><a href="/wiki/Abellio_(transport_company)" title="Abellio (transport company)">Dutch government</a>
+</td>
+<td><a href="/wiki/Abellio_ScotRail" title="Abellio ScotRail">Abellio ScotRail</a> (SR), <a href="/wiki/Greater_Anglia_(train_operating_company)" title="Greater Anglia (train operating company)">Greater Anglia</a> (GA) (60%), <a href="/wiki/Merseyrail" title="Merseyrail">Merseyrail</a> (ME) (50%), <a href="/wiki/West_Midlands_Trains" title="West Midlands Trains">West Midlands Trains</a> (WM) (70%)
+</td></tr>
+<tr>
+<td><a href="/wiki/Arriva" title="Arriva">German government</a>
+</td>
+<td><a href="/wiki/Arriva_Rail_London" title="Arriva Rail London">Arriva Rail London</a> (LO), <a href="/wiki/Arriva_Trains_Wales" title="Arriva Trains Wales">Arriva Trains Wales</a> (AW), <a href="/wiki/Chiltern_Railways" title="Chiltern Railways">Chiltern Railways</a> (CH), <a href="/wiki/CrossCountry" title="CrossCountry">CrossCountry</a> (XC), <a href="/wiki/Grand_Central_(train_operating_company)" title="Grand Central (train operating company)">Grand Central</a> (GC), <a href="/wiki/Northern_(train_operating_company)" title="Northern (train operating company)">Northern</a> (NR)
+</td></tr>
+<tr>
+<td><a href="/wiki/East_Japan_Railway_Company" title="East Japan Railway Company">East Japan Railway Company</a>
+</td>
+<td><a href="/wiki/West_Midlands_Trains" title="West Midlands Trains">West Midlands Trains</a> (WM) (15%)
+</td></tr>
+<tr>
+<td><a href="/wiki/Department_for_Transport" title="Department for Transport">British government</a>
+</td>
+<td><a href="/wiki/London_North_Eastern_Railway" title="London North Eastern Railway">London North Eastern Railway</a> (GR)
+</td></tr>
+<tr>
+<td><a href="/wiki/FirstGroup" title="FirstGroup">FirstGroup</a>
+</td>
+<td><a href="/wiki/Great_Western_Railway_(train_operating_company)" title="Great Western Railway (train operating company)">Great Western Railway</a> (GW), <a href="/wiki/Hull_Trains" title="Hull Trains">Hull Trains</a> (HT), <a href="/wiki/South_Western_Railway_(train_operating_company)" title="South Western Railway (train operating company)">South Western Railway</a> (SW) (70%), <a href="/wiki/TransPennine_Express" title="TransPennine Express">TransPennine Express</a> (TP)
+</td></tr>
+<tr>
+<td><a href="/wiki/Go-Ahead_Group" title="Go-Ahead Group">Go-Ahead Group</a>
+</td>
+<td><a href="/wiki/Govia_Thameslink_Railway" title="Govia Thameslink Railway">Great Northern</a> (GN), <a href="/wiki/Southeastern_(train_operating_company)" title="Southeastern (train operating company)">Southeastern</a> (SE), <a href="/wiki/Southern_(train_operating_company)" class="mw-redirect" title="Southern (train operating company)">Southern</a> (SN), <a href="/wiki/Govia_Thameslink_Railway" title="Govia Thameslink Railway">Thameslink</a> (TL) all 65%
+</td></tr>
+<tr>
+<td><a href="/wiki/Keolis" title="Keolis">French government</a>
+</td>
+<td><a href="/wiki/Govia_Thameslink_Railway" title="Govia Thameslink Railway">Great Northern</a> (GN), <a href="/wiki/Southeastern_(train_operating_company)" title="Southeastern (train operating company)">Southeastern</a> (SE), <a href="/wiki/Southern_(train_operating_company)" class="mw-redirect" title="Southern (train operating company)">Southern</a> (SN), <a href="/wiki/Govia_Thameslink_Railway" title="Govia Thameslink Railway">Thameslink</a> (TL) all 35%
+</td></tr>
+<tr>
+<td><a href="/wiki/Mitsui" title="Mitsui">Mitsui</a>
+</td>
+<td><a href="/wiki/Greater_Anglia_(train_operating_company)" title="Greater Anglia (train operating company)">Greater Anglia</a> (GA) (40%), <a href="/wiki/West_Midlands_Trains" title="West Midlands Trains">West Midlands Trains</a> (WM) (15%)
+</td></tr>
+<tr>
+<td><a href="/wiki/MTR_Corporation" title="MTR Corporation">Hong Kong government</a>
+</td>
+<td><a href="/wiki/South_Western_Railway_(train_operating_company)" title="South Western Railway (train operating company)">South Western Railway</a> (SW) (30%), <a href="/wiki/TfL_Rail" title="TfL Rail">TfL Rail</a> (XR)
+</td></tr>
+<tr>
+<td><a href="/wiki/Serco" title="Serco">Serco</a>
+</td>
+<td><a href="/wiki/Caledonian_Sleeper" title="Caledonian Sleeper">Caledonian Sleeper</a> (CS), <a href="/wiki/Merseyrail" title="Merseyrail">Merseyrail</a> (ME) (50%)
+</td></tr>
+<tr>
+<td><a href="/wiki/Stagecoach_Group" title="Stagecoach Group">Stagecoach</a>
+</td>
+<td><a href="/wiki/East_Midlands_Trains" title="East Midlands Trains">East Midlands Trains</a> (EM), <a href="/wiki/Virgin_Trains_West_Coast" class="mw-redirect" title="Virgin Trains West Coast">Virgin Trains West Coast</a> (VT) (49%)
+</td></tr>
+<tr>
+<td><a href="/wiki/Trenitalia" title="Trenitalia">Italian government</a>
+</td>
+<td><a href="/wiki/C2c" title="C2c">c2c</a> (CC)
+</td></tr>
+<tr>
+<td><a href="/wiki/Virgin_Group" title="Virgin Group">Virgin Group</a>
+</td>
+<td><a href="/wiki/Virgin_Trains" title="Virgin Trains">Virgin Trains</a> (VT) (51%)
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Northern_Ireland">Northern Ireland</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=5" title="Edit section: Northern Ireland">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The sole train operating company in Northern Ireland is <a href="/wiki/NI_Railways" title="NI Railways">NI Railways</a>, who are a subsidiary of <a href="/wiki/Translink_(Northern_Ireland)" title="Translink (Northern Ireland)">Translink</a>, the publicly-owned transport corporation, which also runs the <a href="/wiki/Metro_(Belfast)" title="Metro (Belfast)">Metro</a> buses in Belfast and <a href="/wiki/Ulsterbus" title="Ulsterbus">Ulsterbus</a> coaches around the country. The cross-border service <i><a href="/wiki/Enterprise_(train)" class="mw-redirect" title="Enterprise (train)">Enterprise</a></i> (Belfast–Dublin) is jointly operated with <a href="/wiki/Iarnr%C3%B3d_%C3%89ireann" title="Iarnród Éireann">Iarnród Éireann</a>, the national railway company of the <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Republic of Ireland</a>.
+</p>
+<h2><span class="mw-headline" id="Changes">Changes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=6" title="Edit section: Changes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Upon <a href="/wiki/Privatisation_of_British_Rail" title="Privatisation of British Rail">privatisation</a> in 1994, the three passenger-operating sectors of <a href="/wiki/British_Rail" title="British Rail">British Rail</a> (<a href="/wiki/InterCity_(British_Rail)" title="InterCity (British Rail)">InterCity</a>, <a href="/wiki/Network_SouthEast" title="Network SouthEast">Network SouthEast</a> and <a href="/wiki/Regional_Railways" title="Regional Railways">Regional Railways</a>) were divided, and their existing operations were let as 25 franchises:
+</p>
+<h3><span class="mw-headline" id="1990s">1990s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=7" title="Edit section: 1990s">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="1994">1994</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=8" title="Edit section: 1994">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The privatisation process began when BR's passenger sectors were divided into 25 <a href="/wiki/Shadow_franchise" class="mw-redirect" title="Shadow franchise">shadow franchises</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> – these were publicly owned TOCs operating in the planned franchise areas prior to the actual franchises being put to tender:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th><a href="/wiki/InterCity_(British_Rail)" title="InterCity (British Rail)">InterCity</a></th>
+<th><a href="/wiki/Network_SouthEast" title="Network SouthEast">Network SouthEast</a></th>
+<th><a href="/wiki/Regional_Railways" title="Regional Railways">Regional Railways</a>
+</th></tr>
+<tr>
+<td>CrossCountry</td>
+<td>Chiltern Lines</td>
+<td>Anglia Railways
+</td></tr>
+<tr>
+<td><a href="/wiki/InterCity_East_Coast" title="InterCity East Coast">East Coast</a></td>
+<td>Island Line</td>
+<td>Cardiff Railway Company
+</td></tr>
+<tr>
+<td>Gatwick Express</td>
+<td><a href="/wiki/Essex_Thameside" title="Essex Thameside">LTS Rail</a></td>
+<td>Central Trains
+</td></tr>
+<tr>
+<td>Great Eastern</td>
+<td>North London Railways</td>
+<td>Mersey Rail Electrics
+</td></tr>
+<tr>
+<td>Great Western Railway</td>
+<td><a href="/wiki/Network_SouthCentral" title="Network SouthCentral">Network SouthCentral</a></td>
+<td>North West Regional Railways
+</td></tr>
+<tr>
+<td>Midland Main Line</td>
+<td>SouthEastern</td>
+<td>Regional Railways North East
+</td></tr>
+<tr>
+<td><a href="/wiki/InterCity_West_Coast" title="InterCity West Coast">West Coast</a></td>
+<td>South Western Railway</td>
+<td>ScotRail
+</td></tr>
+<tr>
+<td></td>
+<td><a href="/wiki/Thameslink,_Southern_and_Great_Northern" class="mw-redirect" title="Thameslink, Southern and Great Northern">Thameslink</a></td>
+<td>South Wales &amp; West Railway
+</td></tr>
+<tr>
+<td></td>
+<td>Thames Trains</td>
+<td>
+</td></tr>
+<tr>
+<td></td>
+<td>West Anglia Great Northern</td>
+<td>
+</td></tr></tbody></table>
+<p>The opening of the <a href="/wiki/Channel_Tunnel" title="Channel Tunnel">Channel Tunnel</a> saw operations by <a href="/wiki/Eurostar" title="Eurostar">Eurostar</a> begin from <a href="/wiki/Waterloo_International_railway_station" title="Waterloo International railway station">London Waterloo</a> to <a href="/wiki/Paris" title="Paris">Paris</a> and <a href="/wiki/Brussels" title="Brussels">Brussels</a>.
+</p>
+<h4><span id="1996.2F97"></span><span class="mw-headline" id="1996/97">1996/97</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=9" title="Edit section: 1996/97">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The franchising process was implemented, with various private companies taking over the shadow franchises. Three were awarded to <a href="/wiki/Management_buyout" title="Management buyout">management buyouts</a>. The <a href="/wiki/Great_Western_Holdings" title="Great Western Holdings">Great Western Holdings</a>' management also were awarded the North West Regional Railways franchise. The remainder were divided between a handful of major transport operators:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th style="width: 20em;">Franchise holder
+</th>
+<th>Train Operating Company
+</th>
+<th>Notes
+</th></tr>
+<tr>
+<td><a href="/wiki/Veolia_Transport" title="Veolia Transport">Connex</a>
+</td>
+<td><a href="/wiki/Connex_South_Central" title="Connex South Central">Connex South Central</a>, <a href="/wiki/Connex_South_Eastern" title="Connex South Eastern">Connex South Eastern</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/FirstGroup" title="FirstGroup">FirstBus</a>
+</td>
+<td><a href="/wiki/First_Great_Eastern" title="First Great Eastern">First Great Eastern</a>
+</td>
+<td>plus 24.5% shareholding in <a href="/wiki/Great_Western_Holdings" title="Great Western Holdings">Great Western Holdings</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/GB_Railways" title="GB Railways">GB Railways</a>
+</td>
+<td><a href="/wiki/Anglia_Railways" title="Anglia Railways">Anglia Railways</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Go-Ahead_Group" title="Go-Ahead Group">Go-Ahead Group</a>
+</td>
+<td><a href="/wiki/Thames_Trains" title="Thames Trains">Thames Trains</a>
+</td>
+<td>Go-Ahead Group (65%), Management (35%)
+</td></tr>
+<tr>
+<td><a href="/wiki/Govia" title="Govia">Govia</a>
+</td>
+<td><a href="/wiki/Thameslink_(train_operating_company_1997-2006)" class="mw-redirect" title="Thameslink (train operating company 1997-2006)">Thameslink</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Great_Western_Holdings" title="Great Western Holdings">Great Western Holdings</a>
+</td>
+<td><a href="/wiki/First_Great_Western" class="mw-redirect" title="First Great Western">Great Western Trains</a>, <a href="/wiki/First_North_Western" title="First North Western">North Western Trains</a>
+</td>
+<td>Management (51%), <a href="/wiki/FirstGroup" title="FirstGroup">FirstBus</a> (24.5%), <a href="/wiki/3i" title="3i">3i</a> (24.5%)
+</td></tr>
+<tr>
+<td>M40 Trains
+</td>
+<td><a href="/wiki/Chiltern_Railways" title="Chiltern Railways">Chiltern Railways</a>
+</td>
+<td>Management (51%), <a href="/wiki/John_Laing_Group" title="John Laing Group">John Laing</a> (26%), <a href="/wiki/3i" title="3i">3i</a> (23%)
+</td></tr>
+<tr>
+<td><a href="/wiki/MTL_(transport_company)" title="MTL (transport company)">MTL</a>
+</td>
+<td><a href="/wiki/Arriva_Trains_Merseyside" title="Arriva Trains Merseyside">Merseyrail Electrics</a>, <a href="/wiki/Arriva_Trains_Northern" title="Arriva Trains Northern">Northern Spirit</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/National_Express" title="National Express">National Express</a>
+</td>
+<td><a href="/wiki/Central_Trains" title="Central Trains">Central Trains</a>, <a href="/wiki/Gatwick_Express" title="Gatwick Express">Gatwick Express</a>, <a href="/wiki/Midland_Mainline" title="Midland Mainline">Midland Mainline</a>, <a href="/wiki/ScotRail_(National_Express)" title="ScotRail (National Express)">ScotRail</a>, <a href="/wiki/Silverlink" title="Silverlink">Silverlink</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Prism_Rail" title="Prism Rail">Prism Rail</a>
+</td>
+<td><a href="/wiki/C2c" title="C2c">LTS Rail</a>, <a href="/wiki/Valley_Lines_(train_operating_company)" title="Valley Lines (train operating company)">Valley Lines</a>, <a href="/wiki/Wales_%26_West" title="Wales &amp; West">Wales &amp; West</a>, <a href="/wiki/West_Anglia_Great_Northern" title="West Anglia Great Northern">WAGN</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sea_Containers" title="Sea Containers">Sea Containers</a>
+</td>
+<td><a href="/wiki/Great_North_Eastern_Railway" title="Great North Eastern Railway">GNER</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Stagecoach_Group" title="Stagecoach Group">Stagecoach Group</a>
+</td>
+<td><a href="/wiki/Island_Line_(train_operating_company)" class="mw-redirect" title="Island Line (train operating company)">Island Line Trains</a>, <a href="/wiki/South_West_Trains" title="South West Trains">South West Trains</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Virgin_Rail_Group" title="Virgin Rail Group">Virgin Rail Group</a>
+</td>
+<td><a href="/wiki/Virgin_CrossCountry" title="Virgin CrossCountry">Virgin CrossCountry</a>, <a href="/wiki/Virgin_Trains_West_Coast" class="mw-redirect" title="Virgin Trains West Coast">Virgin Trains West Coast</a>
+</td>
+<td>
+</td></tr>
+</tbody></table>
+<p>In Northern Ireland, NIR stopped using its own branding on the <i>Enterprise</i> service between <a href="/wiki/Belfast" title="Belfast">Belfast</a> and <a href="/wiki/Dublin" title="Dublin">Dublin</a> when it purchased new rolling stock in conjunction with IÉ, instead launching <a href="/wiki/Enterprise_(train)" class="mw-redirect" title="Enterprise (train)">Enterprise</a> as a separate brand name.
+</p>
+<h4><span class="mw-headline" id="1998">1998</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=10" title="Edit section: 1998">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Great_Western_Holdings" title="Great Western Holdings">Great Western Holdings</a> that operated Great Western Trains and North West Trains, became a 100% <a href="/wiki/FirstGroup" title="FirstGroup">FirstGroup</a> subsidiary when the 24.5% shareholder bought out its partners. The TOCs were renamed <a href="/wiki/First_Great_Western" class="mw-redirect" title="First Great Western">First Great Western</a> and <a href="/wiki/First_North_Western" title="First North Western">First North Western</a>.
+</p><p><a href="/wiki/Virgin_Group" title="Virgin Group">Virgin Group</a> sold a 49% share in <a href="/wiki/Virgin_Rail_Group" title="Virgin Rail Group">Virgin Rail Group</a> that operated the <a href="/wiki/Virgin_CrossCountry" title="Virgin CrossCountry">CrossCountry</a> and <a href="/wiki/Virgin_Trains_West_Coast" class="mw-redirect" title="Virgin Trains West Coast">West Coast</a> franchises to <a href="/wiki/Stagecoach_Group" title="Stagecoach Group">Stagecoach</a>.
+</p><p>The completion of the rail link to <a href="/wiki/Heathrow_Airport" title="Heathrow Airport">Heathrow Airport</a> led to <a href="/wiki/Heathrow_Express" title="Heathrow Express">Heathrow Express</a>, an open-access operator outside the franchising system, beginning its services from <a href="/wiki/Paddington_railway_station" class="mw-redirect" title="Paddington railway station">London Paddington</a> to Heathrow with operating rights until 2023.
+</p>
+<h4><span class="mw-headline" id="2000">2000</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=11" title="Edit section: 2000">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Prism_Rail" title="Prism Rail">Prism Rail</a> that operated the <a href="/wiki/C2c" title="C2c">LTS Rail</a>, <a href="/wiki/Valley_Lines_Trains" class="mw-redirect" title="Valley Lines Trains">Valley Lines Trains</a>, <a href="/wiki/Wales_%26_West" title="Wales &amp; West">Wales &amp; West</a>, and <a href="/wiki/West_Anglia_Great_Northern" title="West Anglia Great Northern">West Anglia Great Northern</a> franchises was purchased by <a href="/wiki/National_Express" title="National Express">National Express</a> resulting in the latter owning nine franchises. The first <a href="/wiki/Open_access_operator" class="mw-redirect" title="Open access operator">open access operator</a>, <a href="/wiki/Hull_Trains" title="Hull Trains">Hull Trains</a>, commenced running its services between <a href="/wiki/London_King%27s_Cross_railway_station" title="London King&#39;s Cross railway station">King's Cross</a> and <a href="/wiki/Hull_Paragon_Interchange" title="Hull Paragon Interchange">Hull</a>.
+</p>
+<h3><span id="2001.E2.80.932003"></span><span class="mw-headline" id="2001–2003">2001–2003</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=12" title="Edit section: 2001–2003">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="2001">2001</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=13" title="Edit section: 2001">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In 2001, <a href="/wiki/Veolia_Transport" title="Veolia Transport">Connex</a>, which had operated two franchises in the south-east of England, were replaced as the operator of the <a href="/wiki/Network_SouthCentral" title="Network SouthCentral">Network SouthCentral</a> franchise by <a href="/wiki/Govia" title="Govia">Govia</a>, who began operating it under the name <a href="/wiki/Southern_(train_operating_company)" class="mw-redirect" title="Southern (train operating company)">South Central</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>Also in 2001, a new franchise, the Wales &amp; Borders franchise was created by the amalgamation of <a href="/wiki/Valley_Lines_(train_operating_company)" title="Valley Lines (train operating company)">Valley Lines</a> and the majority of services in Wales and the Borders held by <a href="/wiki/Wales_%26_West" title="Wales &amp; West">Wales &amp; West</a>. The new franchise was initially operated under the name <a href="/wiki/Wales_%26_Borders" class="mw-redirect" title="Wales &amp; Borders">Wales &amp; Borders</a>. The remainder of Wales &amp; West’s services in the west of England were renamed <a href="/wiki/Wessex_Trains" title="Wessex Trains">Wessex Trains</a>.
+</p>
+<h4><span class="mw-headline" id="2003">2003</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=14" title="Edit section: 2003">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Veolia_Transport" title="Veolia Transport">Connex</a>, having already lost the <a href="/wiki/Connex_South_Central" title="Connex South Central">South Central</a> franchise in 2001, was removed as franchisee of the <a href="/wiki/Connex_South_Eastern" title="Connex South Eastern">South Eastern</a> franchise in 2003 on the grounds of poor financial management. It was replaced as the franchise holder by <a href="/wiki/South_Eastern_Trains" title="South Eastern Trains">South Eastern Trains</a>, a company wholly owned by the <a href="/wiki/Strategic_Rail_Authority" title="Strategic Rail Authority">Strategic Rail Authority</a>, which would operate the franchise until it could be tendered again. New franchise holders <a href="/wiki/Arriva_Trains_Wales" title="Arriva Trains Wales">Arriva Trains Wales</a> and <a href="/wiki/Merseyrail" title="Merseyrail">Merseyrail</a> began operating. <a href="/wiki/FirstGroup" title="FirstGroup">FirstGroup</a> purchased <a href="/wiki/GB_Railways" title="GB Railways">GB Railways</a> which owned the <a href="/wiki/Anglia_Railways" title="Anglia Railways">Anglia Railways</a> and <a href="/wiki/Hull_Trains" title="Hull Trains">Hull Trains</a> businesses.
+</p>
+<h3><span id="2004.E2.80.932006"></span><span class="mw-headline" id="2004–2006">2004–2006</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=15" title="Edit section: 2004–2006">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="2004">2004</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=16" title="Edit section: 2004">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A policy where the majority of services (both long-distance and commuter) from each <a href="/wiki/London_railway_station" class="mw-redirect" title="London railway station">London terminal</a> would all be operated by the same franchise was partially enacted. In April 2004, <a href="/wiki/National_Express_East_Anglia" title="National Express East Anglia">One</a> commenced operating the <a href="/wiki/East_Anglia_franchise" title="East Anglia franchise">Greater Anglia franchise</a> that combined the <a href="/wiki/Anglia_Railways" title="Anglia Railways">Anglia Railways</a> and <a href="/wiki/First_Great_Eastern" title="First Great Eastern">First Great Eastern</a> franchises with the <a href="/wiki/West_Anglia_Great_Northern" title="West Anglia Great Northern">West Anglia Great Northern</a> services radiating out from <a href="/wiki/Liverpool_Street_station" title="Liverpool Street station">Liverpool Street</a>. The remainder continuing to be operated as <a href="/wiki/West_Anglia_Great_Northern" title="West Anglia Great Northern">WAGN</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> In the same month, <a href="/wiki/Thames_Trains" title="Thames Trains">Thames Trains</a> was superseded by <a href="/wiki/First_Great_Western_Link" title="First Great Western Link">First Great Western Link</a>.
+</p><p>In the North of England, prior to 2004 there were two regional franchises, the <a href="/wiki/Arriva_Trains_Northern" title="Arriva Trains Northern">North East Regional franchise</a> and the <a href="/wiki/First_North_Western" title="First North Western">North West Regional franchise</a>. In 2004, these were altered into the TransPennine franchise, for intercity services, and the Northern franchise, for local services that were awarded to <a href="/wiki/First_TransPennine_Express" title="First TransPennine Express">First TransPennine Express</a> and <a href="/wiki/Northern_Rail" class="mw-redirect" title="Northern Rail">Northern Rail</a> respectively. Some North West services were transferred to the <a href="/wiki/Arriva_Trains_Wales" title="Arriva Trains Wales">Arriva Trains Wales</a> franchise.
+</p>
+<h4><span class="mw-headline" id="2005">2005</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=17" title="Edit section: 2005">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A new operator, <a href="/wiki/Heathrow_Connect" title="Heathrow Connect">Heathrow Connect</a>, jointly run by <a href="/wiki/Heathrow_Airport_Holdings" title="Heathrow Airport Holdings">BAA</a> and <a href="/wiki/First_Great_Western" class="mw-redirect" title="First Great Western">First Great Western</a>, began operating stopping services between <a href="/wiki/Paddington_railway_station" class="mw-redirect" title="Paddington railway station">London Paddington</a> and <a href="/wiki/Heathrow_Airport" title="Heathrow Airport">Heathrow Airport</a> complementing the <a href="/wiki/Heathrow_Express" title="Heathrow Express">Heathrow Express</a>.
+</p>
+<h4><span class="mw-headline" id="2006">2006</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=18" title="Edit section: 2006">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Three new integrated franchises began operating in April 2006:
+</p>
+<ul><li><a href="/wiki/First_Capital_Connect" title="First Capital Connect">First Capital Connect</a>, began operating the <a href="/wiki/Thameslink,_Southern_and_Great_Northern" class="mw-redirect" title="Thameslink, Southern and Great Northern">Thameslink/Great Northern franchise</a>, on the cross-London <a href="/wiki/Thameslink_(route)" class="mw-redirect" title="Thameslink (route)">Thameslink route</a> and suburban services from <a href="/wiki/London_King%27s_Cross_railway_station" title="London King&#39;s Cross railway station">London King's Cross</a> and <a href="/wiki/Moorgate_station" title="Moorgate station">London Moorgate</a>.</li>
+<li><a href="/wiki/First_Great_Western" class="mw-redirect" title="First Great Western">First Great Western</a> began operating the <a href="/wiki/Greater_Western_franchise" title="Greater Western franchise">Greater Western franchise</a> that combined express and local services from <a href="/wiki/Paddington_railway_station" class="mw-redirect" title="Paddington railway station">London Paddington</a> to the <a href="/wiki/West_of_England" title="West of England">West of England</a> by amalgamating it with <a href="/wiki/First_Great_Western_Link" title="First Great Western Link">First Great Western Link</a> and <a href="/wiki/Wessex_Trains" title="Wessex Trains">Wessex Trains</a>.</li>
+<li><a href="/wiki/Southeastern_(train_operating_company)" title="Southeastern (train operating company)">Southeastern</a> commenced operating the <a href="/wiki/South_Eastern_franchise" title="South Eastern franchise">Integrated Kent franchise</a> taking over services from <a href="/wiki/London_Victoria_station" title="London Victoria station">London Victoria</a>, <a href="/wiki/Charing_Cross_railway_station" title="Charing Cross railway station">London Charing Cross</a>, <a href="/wiki/Cannon_Street_station" title="Cannon Street station">London Cannon Street</a> and <a href="/wiki/Blackfriars_station" title="Blackfriars station">London Blackfriars</a> to south-east London and <a href="/wiki/Kent" title="Kent">Kent</a>; responsibility for high speed domestic services operated on <a href="/wiki/High_Speed_1" title="High Speed 1">High Speed 1</a> from <a href="/wiki/St_Pancras_railway_station" title="St Pancras railway station">London St Pancras</a> was included in the franchise.</li></ul>
+<h3><span id="2007.E2.80.932010"></span><span class="mw-headline" id="2007–2010">2007–2010</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=19" title="Edit section: 2007–2010">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="2007">2007</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=20" title="Edit section: 2007">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Further integrations occurred in 2007. The first of these was the <a href="/wiki/South_Western_franchise" title="South Western franchise">South Western franchise</a>; this merged the original <a href="/wiki/South_West_Trains" title="South West Trains">South West Trains</a> franchise with the <a href="/wiki/Island_Line_(train_operating_company)" class="mw-redirect" title="Island Line (train operating company)">Island Line Trains</a> franchise on the <a href="/wiki/Isle_of_Wight" title="Isle of Wight">Isle of Wight</a> and began operating in February 2007 under the name South West Trains, with Island Line retained as a separate brand.
+</p><p>In November 2007, three new integrated franchises began operating:
+</p>
+<ul><li><a href="/wiki/CrossCountry" title="CrossCountry">CrossCountry</a>, took over from <a href="/wiki/Virgin_CrossCountry" title="Virgin CrossCountry">Virgin CrossCountry</a> and parts of <a href="/wiki/Central_Trains" title="Central Trains">Central Trains</a>, and operates regional inter-city services that bypass the major London terminals.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></li>
+<li><a href="/wiki/East_Midlands_Trains" title="East Midlands Trains">East Midlands Trains</a> replaced <a href="/wiki/Midland_Mainline" title="Midland Mainline">Midland Mainline</a> and parts of Central Trains encompassing inter-city services from <a href="/wiki/St_Pancras_railway_station" title="St Pancras railway station">London St Pancras</a> as well as local services in the East Midlands</li>
+<li><a href="/wiki/London_Midland" title="London Midland">London Midland</a> began operating the West Midlands franchise replaced <a href="/wiki/Silverlink" title="Silverlink">Silverlink</a> County and parts of Central Trains and operates stopping services between <a href="/wiki/Euston_railway_station" title="Euston railway station">London Euston</a> and <a href="/wiki/Northampton_railway_station" title="Northampton railway station">Northampton</a>, in addition to local services in the West Midlands</li></ul>
+<p>In addition to these three, a further new operator, <a href="/wiki/London_Overground_Rail_Operations" title="London Overground Rail Operations">London Overground Rail Operations</a>, took control of the routes operated by Silverlink in London, which were combined with the extended <a href="/wiki/East_London_line" title="East London line">East London line</a> in 2011. Services are controlled directly by <a href="/wiki/Transport_for_London" title="Transport for London">Transport for London</a>, with running of the trains themselves contracted to a private company as an operating concession. This is different from an ordinary franchise, as the train operator is not given control of the strategic aspects of the operation, such as pricing, timetabling and rolling stock procurement.
+</p><p>In December 2007, <a href="/wiki/National_Express_East_Coast" title="National Express East Coast">National Express East Coast</a> took over the running of the <a href="/wiki/InterCity_East_Coast" title="InterCity East Coast">InterCity East Coast</a> franchise from <a href="/wiki/Great_North_Eastern_Railway" title="Great North Eastern Railway">GNER</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> <a href="/wiki/Grand_Central_(train_operating_company)" title="Grand Central (train operating company)">Grand Central</a> also began operating iservices between London and <a href="/wiki/Sunderland_railway_station" class="mw-redirect" title="Sunderland railway station">Sunderland</a> as an open access operator.
+</p>
+<h4><span class="mw-headline" id="2008">2008</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=21" title="Edit section: 2008">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In February 2008, One was re-branded by National Express as <a href="/wiki/National_Express_East_Anglia" title="National Express East Anglia">National Express East Anglia</a> to bring it into line with the East Coast franchise.
+</p><p>In April 2008, <a href="/wiki/Wrexham_%26_Shropshire" title="Wrexham &amp; Shropshire">Wrexham &amp; Shropshire</a> began operating open access services between <a href="/wiki/Wrexham_General_railway_station" title="Wrexham General railway station">Wrexham</a> and <a href="/wiki/Marylebone_station" title="Marylebone station">London Marylebone</a>.
+</p><p>In June 2008, the <a href="/wiki/Gatwick_Express" title="Gatwick Express">Gatwick Express</a> franchise was integrated with the South Central franchise operated by <a href="/wiki/Southern_(train_operating_company)" class="mw-redirect" title="Southern (train operating company)">Southern</a>.
+</p>
+<h4><span class="mw-headline" id="2009">2009</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=22" title="Edit section: 2009">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The government announced that <a href="/wiki/National_Express_East_Coast" title="National Express East Coast">National Express East Coast</a> would have their franchise to operate intercity services along the ECML terminated, with the franchise passing into the hands of public sector company <a href="/wiki/Directly_Operated_Railways" title="Directly Operated Railways">Directly Operated Railways</a>, which acted as the parent for <a href="/wiki/East_Coast_(train_operating_company)" title="East Coast (train operating company)">East Coast</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="2010">2010</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=23" title="Edit section: 2010">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Grand Central open-access services from London to <a href="/wiki/Bradford_Interchange" title="Bradford Interchange">Bradford</a> began on 23 May 2010.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span id="2011.E2.80.932017"></span><span class="mw-headline" id="2011–2017">2011–2017</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=24" title="Edit section: 2011–2017">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="2011">2011</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=25" title="Edit section: 2011">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Owing to continuing losses, <a href="/wiki/Wrexham_%26_Shropshire" title="Wrexham &amp; Shropshire">Wrexham &amp; Shropshire</a> ceased operating on 28 January 2011.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="2012">2012</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=26" title="Edit section: 2012">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Abellio_Greater_Anglia" class="mw-redirect" title="Abellio Greater Anglia">Abellio Greater Anglia</a> began operating the <a href="/wiki/East_Anglia_franchise" title="East Anglia franchise">Greater Anglia franchise</a> on 5 February 2012.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>In September 2012, <a href="/wiki/FirstGroup" title="FirstGroup">FirstGroup</a> was awarded the right to operate the <a href="/wiki/InterCity_West_Coast" title="InterCity West Coast">West Coast franchise</a> which provoked a backlash from incumbent <a href="/wiki/Virgin_Trains" title="Virgin Trains">Virgin Trains</a>. As a result of the Department for Transport having provided incorrect information during the bid process, the offer was withdrawn in October 2012 and £40 million of bid costs refunded.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="2014">2014</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=27" title="Edit section: 2014">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In September 2014, <a href="/wiki/Govia_Thameslink_Railway" title="Govia Thameslink Railway">Govia Thameslink Railway</a> took over services formerly operated by <a href="/wiki/First_Capital_Connect" title="First Capital Connect">First Capital Connect</a> as part of the <a href="/wiki/Thameslink,_Southern_and_Great_Northern" class="mw-redirect" title="Thameslink, Southern and Great Northern">Thameslink, Southern and Great Northern</a> franchise and branded them as <a href="/wiki/Thameslink_and_Great_Northern" class="mw-redirect" title="Thameslink and Great Northern">Thameslink and Great Northern</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="2015">2015</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=28" title="Edit section: 2015">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In March 2015, a <a href="/wiki/Stagecoach_Group" title="Stagecoach Group">Stagecoach</a> and <a href="/wiki/Virgin_Group" title="Virgin Group">Virgin</a> joint venture trading as <a href="/wiki/Virgin_Trains_East_Coast" title="Virgin Trains East Coast">Virgin Trains East Coast</a> commenced operating the <a href="/wiki/InterCity_East_Coast" title="InterCity East Coast">InterCity East Coast</a> franchise.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>In April 2015, the <a href="/wiki/ScotRail_(brand)" title="ScotRail (brand)">ScotRail franchise</a> was split with the <a href="/wiki/Caledonian_Sleeper" title="Caledonian Sleeper">Caledonian Sleeper</a> services becoming a stand-alone franchise operated by <a href="/wiki/Serco" title="Serco">Serco</a> while the remaining services remained as the <a href="/wiki/Abellio_ScotRail" title="Abellio ScotRail">Abellio ScotRail</a> franchise.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p><p>In May 2015, a number of metro routes run by <a href="/wiki/Abellio_Greater_Anglia" class="mw-redirect" title="Abellio Greater Anglia">Abellio Greater Anglia</a> from <a href="/wiki/Liverpool_Street_station" title="Liverpool Street station">London Liverpool Street</a> were transferred to TfL to run as a concession similar to both London Overground and Crossrail (under the name, <a href="/wiki/TfL_Rail" title="TfL Rail">TfL Rail</a>). The routes transferred were those to <a href="/wiki/Shenfield_railway_station" title="Shenfield railway station">Shenfield</a>, <a href="/wiki/Enfield_Town_railway_station" title="Enfield Town railway station">Enfield Town</a>, <a href="/wiki/Chingford_railway_station" title="Chingford railway station">Chingford</a> and <a href="/wiki/Cheshunt_railway_station" title="Cheshunt railway station">Cheshunt</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="2016">2016</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=29" title="Edit section: 2016">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In April 2016, <a href="/wiki/FirstGroup" title="FirstGroup">FirstGroup</a> trading as <a href="/wiki/TransPennine_Express" title="TransPennine Express">TransPennine Express</a> commenced operating the TransPennine Express in its own right, previously having done so in a joint venture with <a href="/wiki/Keolis" title="Keolis">Keolis</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> On the same date <a href="/wiki/Arriva_Rail_North" class="mw-redirect" title="Arriva Rail North">Arriva Rail North</a> commenced operating the Northern franchise.
+</p><p>In November 2016, <a href="/wiki/Arriva_Rail_London" title="Arriva Rail London">Arriva Rail London</a> took over the <a href="/wiki/London_Overground" title="London Overground">London Overground</a> concession from <a href="/wiki/London_Overground_Rail_Operations" title="London Overground Rail Operations">London Overground Rail Operations</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="2017">2017</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=30" title="Edit section: 2017">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In March 2017, <a href="/wiki/Abellio_(transport_company)" title="Abellio (transport company)">Abellio</a> sold a 40% share in <a href="/wiki/Abellio_Greater_Anglia" class="mw-redirect" title="Abellio Greater Anglia">Abellio Greater Anglia</a> to <a href="/wiki/Mitsui" title="Mitsui">Mitsui</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p><p>In August 2017, a FirstGroup/MTR joint venture trading as <a href="/wiki/South_Western_Railway_(train_operating_company)" title="South Western Railway (train operating company)">South Western Railway</a> commenced operating the <a href="/wiki/South_Western_franchise" title="South Western franchise">South Western franchise</a>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p><p>In December 2017, an Abellio, <a href="/wiki/East_Japan_Railway_Company" title="East Japan Railway Company">East Japan Railway Company</a> and Mitsui joint venture trading as <a href="/wiki/West_Midlands_Trains" title="West Midlands Trains">West Midlands Trains</a> commenced operating the West Midlands franchise.
+</p>
+<h2><span class="mw-headline" id="Current_TOCs">Current TOCs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=31" title="Edit section: Current TOCs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:377px;"><a href="/wiki/File:Collection_of_TOCs.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Collection_of_TOCs.jpg/375px-Collection_of_TOCs.jpg" width="375" height="234" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Collection_of_TOCs.jpg/563px-Collection_of_TOCs.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Collection_of_TOCs.jpg/750px-Collection_of_TOCs.jpg 2x" data-file-width="1440" data-file-height="900" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Collection_of_TOCs.jpg" class="internal" title="Enlarge"></a></div>A collection of diagrams of many different TOCs in the United Kingdom</div></div></div>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/List_of_companies_operating_trains_in_the_United_Kingdom" title="List of companies operating trains in the United Kingdom">List of companies operating trains in the United Kingdom</a></div>
+<p>As of December 2017, there are 24 train operating companies.
+</p>
+<h3><span class="mw-headline" id="Franchised">Franchised</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=32" title="Edit section: Franchised">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Abellio_ScotRail" title="Abellio ScotRail">Abellio ScotRail</a></li>
+<li><a href="/wiki/Arriva_Trains_Wales" title="Arriva Trains Wales">Arriva Trains Wales</a></li>
+<li><a href="/wiki/C2c" title="C2c">c2c</a></li>
+<li><a href="/wiki/Caledonian_Sleeper" title="Caledonian Sleeper">Caledonian Sleeper</a></li>
+<li><a href="/wiki/Chiltern_Railways" title="Chiltern Railways">Chiltern Railways</a></li>
+<li><a href="/wiki/CrossCountry" title="CrossCountry">CrossCountry</a></li>
+<li><a href="/wiki/East_Midlands_Trains" title="East Midlands Trains">East Midlands Trains</a></li>
+<li><a href="/wiki/Greater_Anglia_(train_operating_company)" title="Greater Anglia (train operating company)">Greater Anglia</a> including <a href="/wiki/Stansted_Express" title="Stansted Express">Stansted Express</a></li>
+<li><a href="/wiki/Great_Western_Railway_(train_operating_company)" title="Great Western Railway (train operating company)">Great Western Railway</a></li>
+<li><a href="/wiki/London_North_Eastern_Railway" title="London North Eastern Railway">London North Eastern Railway</a></li>
+<li><a href="/wiki/Merseyrail" title="Merseyrail">Merseyrail</a></li>
+<li><a href="/wiki/Northern_(train_operating_company)" title="Northern (train operating company)">Northern</a></li>
+<li><a href="/wiki/Southeastern_(train_operating_company)" title="Southeastern (train operating company)">Southeastern</a></li>
+<li><a href="/wiki/South_Western_Railway_(train_operating_company)" title="South Western Railway (train operating company)">South Western Railway</a> (including <a href="/wiki/Island_Line_(brand)" title="Island Line (brand)">Island Line</a>)</li>
+<li><a href="/wiki/TfL_Rail" title="TfL Rail">TfL Rail</a> (Elizabeth Line)</li>
+<li><a href="/wiki/TransPennine_Express" title="TransPennine Express">TransPennine Express</a></li>
+<li><a href="/wiki/Virgin_Trains" title="Virgin Trains">Virgin Trains</a></li>
+<li><a href="/wiki/West_Midlands_Trains" title="West Midlands Trains">West Midlands Trains</a> trading as West Midlands Railway and <a href="/wiki/London_Northwestern" class="mw-redirect" title="London Northwestern">London Northwestern</a></li></ul>
+<h3><span class="mw-headline" id="Managed">Managed</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=33" title="Edit section: Managed">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Operators paid to run trains, does not collect the fares:
+</p>
+<ul><li><a href="/wiki/Arriva_Rail_London" title="Arriva Rail London">Arriva Rail London</a></li>
+<li><a href="/wiki/Govia_Thameslink_Railway" title="Govia Thameslink Railway">Govia Thameslink Railway</a> trading as <a href="/wiki/Gatwick_Express" title="Gatwick Express">Gatwick Express</a>, <a href="/wiki/Thameslink_and_Great_Northern" class="mw-redirect" title="Thameslink and Great Northern">Great Northern</a>, <a href="/wiki/Southern_(train_operating_company)" class="mw-redirect" title="Southern (train operating company)">Southern</a> and <a href="/wiki/Thameslink_and_Great_Northern" class="mw-redirect" title="Thameslink and Great Northern">Thameslink</a></li></ul>
+<h3><span class="mw-headline" id="Open-access_operators">Open-access operators</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=34" title="Edit section: Open-access operators">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Eurostar" title="Eurostar">Eurostar</a></li>
+<li><a href="/wiki/Grand_Central_(train_operating_company)" title="Grand Central (train operating company)">Grand Central</a></li>
+<li><a href="/wiki/Heathrow_Express" title="Heathrow Express">Heathrow Express</a></li>
+<li><a href="/wiki/Hull_Trains" title="Hull Trains">Hull Trains</a></li></ul>
+<h2><span class="mw-headline" id="Future_TOCs">Future TOCs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=35" title="Edit section: Future TOCs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Franchised_2">Franchised</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=36" title="Edit section: Franchised">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2017, the DfT announced that the InterCity West Coast franchise will be replaced by the <a href="/wiki/West_Coast_Partnership" class="mw-redirect" title="West Coast Partnership">West Coast Partnership</a> that will include <a href="/wiki/High_Speed_2" title="High Speed 2">High Speed 2</a> services.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Open-access_operators_2">Open-access operators</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=37" title="Edit section: Open-access operators">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/East_Coast_Trains" title="East Coast Trains">East Coast Trains</a> have been granted permission to operate services on the <a href="/wiki/East_Coast_Main_Line" title="East Coast Main Line">East Coast Main Line</a> between <a href="/wiki/London_King%27s_Cross_railway_station" title="London King&#39;s Cross railway station">London King's Cross</a> and <a href="/wiki/Edinburgh_Waverley_railway_station" title="Edinburgh Waverley railway station">Edinburgh</a> from May 2021.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup><br />
+<a href="/wiki/Great_North_Western_Railway" title="Great North Western Railway">Great North Western Railway</a> have been granted permission to operate on the <a href="/wiki/West_Coast_Main_Line" title="West Coast Main Line">West Coast Main Line</a> between <a href="/wiki/Euston_railway_station" title="Euston railway station">London Euston</a> and <a href="/wiki/Blackpool_North_railway_station" title="Blackpool North railway station">Blackpool</a> from September 2019.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Railtours">Railtours</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=38" title="Edit section: Railtours">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Railtour" title="Railtour">Railtour</a></div>
+<p>The privatisation of British Rail allowed the introduction of <a href="/wiki/Open-access_operator" title="Open-access operator">open-access operators</a>, in which companies, upon payment of a fee, could purchase individual slots on the mainline. This has led to the growth in companies offering charter trains, and to the <a href="/wiki/Railtour" title="Railtour">railtour</a>. Most railtour operators run services in part of the country; however, there are a handful that operate services nationwide. Usually, these will see a train made up of ex BR rolling stock pulled by a hired locomotive from one of the freight companies. Occasionally, a preserved ex BR locomotive that is certified to run on the mainline will be made available for such charters.
+</p>
+<h2><span class="mw-headline" id="Sea_links">Sea links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=39" title="Edit section: Sea links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A number of coastal railway stations in the United Kingdom serve to provide connections to ferry services to a number of destinations. Most of the ferry operators in these cases set their timetable to run in conjunction with the arrivals and departures of rail services from the stations serving the ferry terminals. A handful of these even offer integrated pricing for both rail and ferry travel&#160;– because the <a href="/wiki/Island_Line,_Isle_of_Wight" title="Island Line, Isle of Wight">Island Line</a> is part of the <a href="/wiki/National_Rail" title="National Rail">National Rail</a> network, passengers can purchase tickets for travel to any of the stations on the Isle of Wight from any other station in Great Britain. This ticket also covers the cost of passage on the <a href="/wiki/Wightlink" title="Wightlink">Wightlink</a> catamaran from <a href="/wiki/Portsmouth_Harbour_railway_station" title="Portsmouth Harbour railway station">Portsmouth Harbour</a> to <a href="/wiki/Ryde_Pier_Head_railway_station" title="Ryde Pier Head railway station">Ryde Pier Head</a>. It is also possible to purchase ferry inclusive tickets from any station in Great Britain to <a href="/wiki/Cowes" title="Cowes">Cowes</a> or <a href="/wiki/East_Cowes" title="East Cowes">East Cowes</a> on the Isle of Wight using <a href="/wiki/Red_Funnel" title="Red Funnel">Red Funnel</a> ferries, although there are no rail connections from these towns.
+</p>
+<h2><span class="mw-headline" id="International_operators">International operators</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=40" title="Edit section: International operators">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are two main international services which operate on the railways in the United Kingdom:
+</p>
+<ul><li><a href="/wiki/Eurostar" title="Eurostar">Eurostar</a> – runs between <a href="/wiki/St_Pancras_railway_station" title="St Pancras railway station">London St Pancras</a>, <a href="/wiki/Gare_du_Nord" title="Gare du Nord">Paris Gare du Nord</a> and <a href="/wiki/Bruxelles_Gare_du_Midi_/_Brussel-Zuid_railway_station" class="mw-redirect" title="Bruxelles Gare du Midi / Brussel-Zuid railway station">Bruxelles Gare du Midi/Brussel Zuidstation</a> through the <a href="/wiki/Channel_Tunnel" title="Channel Tunnel">Channel Tunnel</a>.</li>
+<li><a href="/wiki/Enterprise_(train)" class="mw-redirect" title="Enterprise (train)">Enterprise</a> – operates on the Irish network between <a href="/wiki/Belfast_Central_railway_station" class="mw-redirect" title="Belfast Central railway station">Belfast Central</a> and <a href="/wiki/Dublin_Connolly_railway_station" title="Dublin Connolly railway station">Dublin Connolly</a>.</li></ul>
+<p>A third service which is worth mentioning is <a href="/wiki/Dutchflyer" title="Dutchflyer">Dutchflyer</a> (GoLondon in the Netherlands). This is not a separate rail service in itself, as the others are, but a collaboration between <a href="/wiki/Greater_Anglia_(train_operating_company)" title="Greater Anglia (train operating company)">Greater Anglia</a>, <a href="/wiki/Stena_Line" title="Stena Line">Stena Line</a> and <a href="/wiki/Nederlandse_Spoorwegen" title="Nederlandse Spoorwegen">Nederlandse Spoorwegen</a> to provide an integrated rail/sea/rail service between eastern England (<a href="/wiki/Liverpool_Street_station" title="Liverpool Street station">London Liverpool Street</a>, <a href="/wiki/Cambridge_railway_station" title="Cambridge railway station">Cambridge</a>, <a href="/wiki/Norwich_railway_station" title="Norwich railway station">Norwich</a>) and The Netherlands (<a href="/wiki/Amsterdam_Centraal" class="mw-redirect" title="Amsterdam Centraal">Amsterdam Centraal</a>) using a single ticket.
+</p><p>A further international service is provided by <a href="/wiki/Venice_Simplon_Orient_Express" class="mw-redirect" title="Venice Simplon Orient Express">Venice Simplon Orient Express</a>. Although this is primarily a railtour operator, with special trains to various locations in the United Kingdom, it also operates the scheduled Orient Express service to destinations in Europe. This involves two separate trains; the <i>British Pullman</i> departs from <a href="/wiki/London_Victoria" class="mw-redirect" title="London Victoria">London Victoria</a> and terminates at <a href="/wiki/Folkestone_West_railway_station" title="Folkestone West railway station">Folkestone West</a>, where passengers transfer by coach through the Channel Tunnel to Calais; at <a href="/wiki/Gare_de_Calais-Ville" title="Gare de Calais-Ville">Gare de Calais-Ville</a>, they then join the <i>Orient Express</i> which then calls at various destinations including Paris, Vienna, Innsbruck, Venice and Rome.
+</p>
+<h2><span class="mw-headline" id="In_other_countries">In other countries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=41" title="Edit section: In other countries">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The differentiation between train operating companies and railway infrastructure companies was enforced by <a href="/wiki/European_Union" title="European Union">European Union</a> legislation and can be found in all EU member countries.
+</p><p>In Germany, train operating companies (<i>Eisenbahnverkehrsunternehmen</i> – EVU) are defined by General Railways Act 1993, s. 2(1) (Allgemeines Eisenbahngesetz (AEG), enacted 27 December 1993) as companies providing train services. They are distinct from <i>Eisenbahninfrastrukturunternehmen</i> (EIU), which own and maintain the railway infrastructure. While there are many private EVU, that have obtained regional franchises, only a handful of long-distance EVU exist (the largest by fare being <a href="/wiki/DB_Fernverkehr" title="DB Fernverkehr">DB Fernverkehr</a>); the infrastructure is also almost completely owned by <a href="/wiki/Deutsche_Bahn" title="Deutsche Bahn">Deutsche Bahn</a> subsidiaries.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=42" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:170433_at_Edinburgh_Waverley.JPG" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/170433_at_Edinburgh_Waverley.JPG/32px-170433_at_Edinburgh_Waverley.JPG" width="32" height="24" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/170433_at_Edinburgh_Waverley.JPG/48px-170433_at_Edinburgh_Waverley.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/170433_at_Edinburgh_Waverley.JPG/64px-170433_at_Edinburgh_Waverley.JPG 2x" data-file-width="2048" data-file-height="1536" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:UK_Railways" class="mw-redirect" title="Portal:UK Railways">UK Railways portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/List_of_companies_operating_trains_in_the_United_Kingdom" title="List of companies operating trains in the United Kingdom">List of companies operating trains in the United Kingdom</a></li>
+<li><a href="/wiki/Rail_transport_in_Great_Britain" title="Rail transport in Great Britain">Rail transport in Great Britain</a></li>
+<li><a href="/wiki/Rail_transport_in_Ireland" title="Rail transport in Ireland">Rail transport in Ireland</a></li>
+<li><a href="/wiki/Rail_Delivery_Group" title="Rail Delivery Group">Rail Delivery Group</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Train_operating_company&amp;action=edit&amp;section=43" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.networkrail.co.uk/browse%20documents/rus%20documents/route%20utilisation%20strategies/network/working%20group%202%20-%20stations/investmentinstations.pdf">Investment in stations: a guide for promoters and developers</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150401052346/http://www.networkrail.co.uk/browse%20documents/rus%20documents/route%20utilisation%20strategies/network/working%20group%202%20-%20stations/investmentinstations.pdf">Archived</a> 1 April 2015 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>., Network Rail, May 2011</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20101013201522/http://www.parliament.uk/briefingpapers/commons/lib/research/briefings/snbt-01157.pdf">"Archived copy"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.parliament.uk/briefingpapers/commons/lib/research/briefings/snbt-01157.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 13 October 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">14 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.parliament.uk%2Fbriefingpapers%2Fcommons%2Flib%2Fresearch%2Fbriefings%2Fsnbt-01157.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrain+operating+company" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Archived copy as title (<a href="/w/index.php?title=Category:CS1_maint:_Archived_copy_as_title&amp;action=edit&amp;redlink=1" class="new" title="Category:CS1 maint: Archived copy as title (page does not exist)">link</a>) </span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/uk_news/988016.stm">Connex loses rail franchise</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20121026094840/http://news.bbc.co.uk/2/hi/uk_news/988016.stm">Archived</a> 26 October 2012 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <i><a href="/wiki/BBC_News" title="BBC News">BBC News</a></i> 24 October 2000</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/uk_news/england/norfolk/3339841.stm">First Group loses out on rail franchise</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180507154009/http://news.bbc.co.uk/2/hi/uk_news/england/norfolk/3339841.stm">Archived</a> 7 May 2018 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <i>BBC News</i> 22 December 2003</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/business/6286904.stm">Virgin loses Cross Country rail</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170213092435/http://news.bbc.co.uk/2/hi/business/6286904.stm">Archived</a> 13 February 2017 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <i>BBC News</i> 10 July 2007</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/business/6945367.stm">National Express wins rail route</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090222000026/http://news.bbc.co.uk/1/hi/business/6945367.stm">Archived</a> 22 February 2009 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <i>BBC News</i> 14 August 2007</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/uk_news/england/8343769.stm">East Coast rail change confirmed</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20091108084049/http://news.bbc.co.uk/2/hi/uk_news/england/8343769.stm">Archived</a> 8 November 2009 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <i>BBC News</i> 5 November 2009</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.examiner.co.uk/news/local-west-yorkshire-news/2010/05/20/an-historic-journey-to-london-with-grand-central-west-riding-service-86081-26481173/">An historic journey to London with Grand Central West Riding Service</a> <a rel="nofollow" class="external text" href="https://archive.is/20130420134219/http://www.examiner.co.uk/news/local-west-yorkshire-news/2010/05/20/an-historic-journey-to-london-with-grand-central-west-riding-service-86081-26481173/">Archived</a> 20 April 2013 at <a href="/wiki/Archive.is" title="Archive.is">Archive.is</a> <i><a href="/wiki/Huddersfield_Daily_Examiner" title="Huddersfield Daily Examiner">Huddersfield Daily Examiner</a></i> 20 May 2010</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/uk-wales-12284468">Wrexham-Shropshire-London direct rail link to end</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160629142859/http://www.bbc.co.uk/news/uk-wales-12284468">Archived</a> 29 June 2016 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <i>BBC News</i> 26 January 2011</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.railwaygazette.com/nc/news/single-view/view/abellio-awarded-greater-anglia-franchise.html">Abellio awarded Greater Anglia franchise</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20111023103520/http://www.railwaygazette.com/nc/news/single-view/view/abellio-awarded-greater-anglia-franchise.html">Archived</a> 23 October 2011 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <i><a href="/wiki/Railway_Gazette_International" title="Railway Gazette International">Railway Gazette International</a></i> 20 October 2011</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/uk-19880903">"West Coast Main Line: Taxpayers 'at risk' in rail bid"</a>. <i>BBC News</i>. 9 October 2012. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20121009115255/http://www.bbc.co.uk/news/uk-19880903">Archived</a> from the original on 9 October 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft.atitle=West+Coast+Main+Line%3A+Taxpayers+%27at+risk%27+in+rail+bid&amp;rft.date=2012-10-09&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fuk-19880903&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrain+operating+company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/business-27534731">Govia wins Thameslink rail franchise</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140524113041/http://www.bbc.co.uk/news/business-27534731">Archived</a> 24 May 2014 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <i>BBC News</i> 23 May 2014</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.bbc.com/news/business-30222458">Stagecoach and Virgin win East Cost mainline rail franchise</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20141128143803/http://www.bbc.com/news/business-30222458">Archived</a> 28 November 2014 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <i>BBC News</i> 27 November 2014</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.bbc.com/news/uk-scotland-scotland-business-27599963">Serco wins franchise for Caledonian sleeper train service</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140529084953/http://www.bbc.com/news/uk-scotland-scotland-business-27599963">Archived</a> 29 May 2014 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <i>BBC News</i> 28 May 2014</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/uk-scotland-29531099">"Dutch firms wins ScotRail franchise from FirstGroup"</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160421080619/http://www.bbc.co.uk/news/uk-scotland-29531099">Archived</a> 21 April 2016 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <i>BBC News</i> 8 October 2014</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.railwaygazette.com/news/passenger/single-view/view/tfl-seeks-crossrail-operator.html">"TfL seeks Crossrail operator"</a>. <i>Railway Gazette International</i>. 12 March 2013. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130315071156/http://www.railwaygazette.com/news/passenger/single-view/view/tfl-seeks-crossrail-operator.html">Archived</a> from the original on 15 March 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">15 March</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Railway+Gazette+International&amp;rft.atitle=TfL+seeks+Crossrail+operator&amp;rft.date=2013-03-12&amp;rft_id=http%3A%2F%2Fwww.railwaygazette.com%2Fnews%2Fpassenger%2Fsingle-view%2Fview%2Ftfl-seeks-crossrail-operator.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrain+operating+company" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.firstgroupplc.com/news-and-media/latest-news/2015/09-12-15.aspx">FirstGroup plc welcomes award of TransPennine Express rail franchise</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160304093802/http://www.firstgroupplc.com/news-and-media/latest-news/2015/09-12-15.aspx">Archived</a> 4 March 2016 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. FirstGroup 9 December 2015</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/business-35841733">Arriva wins £1.5bn London Overground contract</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160321012512/http://www.bbc.co.uk/news/business-35841733">Archived</a> 21 March 2016 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <i>BBC News</i> 18 March 2016</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.bbc.com/news/uk-england-norfolk-39341380">Abellio deal: Japanese firm Mitsui completes 40% Greater Anglia sale</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170529154551/http://www.bbc.com/news/uk-england-norfolk-39341380">Archived</a> 29 May 2017 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <i>BBC News</i> 21 March 2017</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.firstgroupplc.com/about-firstgroup/uk-rail/improving-south-western-railway.aspx">South Western Railway</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170822160003/http://www.firstgroupplc.com/about-firstgroup/uk-rail/improving-south-western-railway.aspx">Archived</a> 22 August 2017 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. FirstGroup</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/business-37869643">New West Coast rail franchise to run HS2 services</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161107060803/http://www.bbc.co.uk/news/business-37869643">Archived</a> 7 November 2016 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <i>BBC News</i> 4 November 2016</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.bbc.com/news/uk-scotland-36273407">First Group to run Edinburgh to London budget rail service</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160516170802/http://www.bbc.com/news/uk-scotland-36273407">Archived</a> 16 May 2016 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <i>BBC News</i> 12 May 2016</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.theguardian.com/uk-news/2015/aug/07/virgin-has-a-rival-gnwr-london-blackpool-west-coast-rail-service">https://www.theguardian.com/uk-news/2015/aug/07/virgin-has-a-rival-gnwr-london-blackpool-west-coast-rail-service</a></span>
+</li>
+</ol></div>
+<div role="navigation" class="navbox" aria-labelledby="Train_operating_companies_in_the_United_Kingdom" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:UK_TOCs" title="Template:UK TOCs"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:UK_TOCs" title="Template talk:UK TOCs"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:UK_TOCs&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Train_operating_companies_in_the_United_Kingdom" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Train operating companies</a> in the United Kingdom</div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Rail_transport_in_Great_Britain&amp;#10;*Passenger_rail_franchising_in_Great_Britain">
+<ul><li><a href="/wiki/Rail_transport_in_Great_Britain" title="Rail transport in Great Britain">Rail transport in Great Britain</a></li>
+<li><a href="/wiki/Passenger_rail_franchising_in_Great_Britain" title="Passenger rail franchising in Great Britain">Passenger rail franchising in Great Britain</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Current" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_companies_operating_trains_in_the_United_Kingdom" title="List of companies operating trains in the United Kingdom">Current</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arriva_Rail_London" title="Arriva Rail London">Arriva Rail London</a></li>
+<li><a href="/wiki/Arriva_Trains_Wales" title="Arriva Trains Wales">Arriva Trains Wales</a></li>
+<li><a href="/wiki/C2c" title="C2c">c2c</a></li>
+<li><a href="/wiki/Caledonian_Sleeper" title="Caledonian Sleeper">Caledonian Sleeper</a></li>
+<li><a href="/wiki/Chiltern_Railways" title="Chiltern Railways">Chiltern Railways</a></li>
+<li><a href="/wiki/CrossCountry" title="CrossCountry">CrossCountry</a></li>
+<li><a href="/wiki/East_Midlands_Trains" title="East Midlands Trains">East Midlands Trains</a></li>
+<li><a href="/wiki/Govia_Thameslink_Railway" title="Govia Thameslink Railway">Govia Thameslink Railway</a></li>
+<li><a href="/wiki/Grand_Central_(train_operating_company)" title="Grand Central (train operating company)">Grand Central</a></li>
+<li><a href="/wiki/Greater_Anglia_(train_operating_company)" title="Greater Anglia (train operating company)">Greater Anglia</a></li>
+<li><a href="/wiki/Great_Western_Railway_(train_operating_company)" title="Great Western Railway (train operating company)">Great Western Railway</a></li>
+<li><a href="/wiki/Heathrow_Express" title="Heathrow Express">Heathrow Express</a></li>
+<li><a href="/wiki/Hull_Trains" title="Hull Trains">Hull Trains</a></li>
+<li><a href="/wiki/London_North_Eastern_Railway" title="London North Eastern Railway">London North Eastern Railway</a></li>
+<li><a href="/wiki/Merseyrail" title="Merseyrail">Merseyrail</a></li>
+<li><a href="/wiki/NI_Railways" title="NI Railways">NI Railways</a><sup>1</sup></li>
+<li><a href="/wiki/Northern_(train_operating_company)" title="Northern (train operating company)">Northern</a></li>
+<li><a href="/wiki/Abellio_ScotRail" title="Abellio ScotRail">ScotRail</a></li>
+<li><a href="/wiki/Southeastern_(train_operating_company)" title="Southeastern (train operating company)">Southeastern</a></li>
+<li><a href="/wiki/South_Western_Railway_(train_operating_company)" title="South Western Railway (train operating company)">South Western Railway</a></li>
+<li><a href="/wiki/TfL_Rail" title="TfL Rail">TfL Rail</a></li>
+<li><a href="/wiki/TransPennine_Express" title="TransPennine Express">TransPennine Express</a></li>
+<li><a href="/wiki/Virgin_Trains" title="Virgin Trains">Virgin Trains</a></li>
+<li><a href="/wiki/West_Midlands_Trains" title="West Midlands Trains">West Midlands Trains</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Enterprise_(train_service)" title="Enterprise (train service)">Enterprise</a><sup>1</sup></li>
+<li><a href="/wiki/Eurostar" title="Eurostar">Eurostar</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sub-brands</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gatwick_Express" title="Gatwick Express">Gatwick Express</a></li>
+<li><a href="/wiki/Govia_Thameslink_Railway#Thameslink_and_Great_Northern_services" title="Govia Thameslink Railway">Great Northern</a></li>
+<li><a href="/wiki/Island_Line_(brand)" title="Island Line (brand)">Island Line</a></li>
+<li><a href="/wiki/West_Midlands_Trains#London_Northwestern_Railway" title="West Midlands Trains">London Northwestern Railway</a></li>
+<li><a href="/wiki/Southern_(Govia_Thameslink_Railway)" title="Southern (Govia Thameslink Railway)">Southern</a></li>
+<li><a href="/wiki/Stansted_Express" title="Stansted Express">Stansted Express</a></li>
+<li><a href="/wiki/Pre_Metro_Operations" title="Pre Metro Operations">Stourbridge Shuttle</a></li>
+<li><a href="/wiki/Govia_Thameslink_Railway#Thameslink_and_Great_Northern_services" title="Govia Thameslink Railway">Thameslink</a></li>
+<li><a href="/wiki/West_Midlands_Trains#West_Midlands_Railway" title="West Midlands Trains">West Midlands Railway</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><sup>1</sup>Operates on the <a href="/wiki/Rail_transport_in_Ireland" title="Rail transport in Ireland">Irish railway network</a>.</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Defunct_(since_1994)" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_companies_operating_trains_in_the_United_Kingdom#Defunct_operating_companies" title="List of companies operating trains in the United Kingdom">Defunct</a> (since 1994)</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">InterCity</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anglia_Railways" title="Anglia Railways">Anglia Railways</a></li>
+<li><a href="/wiki/East_Coast_(train_operating_company)" title="East Coast (train operating company)">East Coast</a></li>
+<li><a href="/wiki/Great_North_Eastern_Railway" title="Great North Eastern Railway">GNER</a></li>
+<li><a href="/wiki/London_Midland" title="London Midland">London Midland</a></li>
+<li><a href="/wiki/Midland_Mainline" title="Midland Mainline">Midland Mainline</a></li>
+<li><a href="/wiki/National_Express_East_Anglia" title="National Express East Anglia">National Express East Anglia</a></li>
+<li><a href="/wiki/National_Express_East_Coast" title="National Express East Coast">National Express East Coast</a></li>
+<li><a href="/wiki/Virgin_CrossCountry" title="Virgin CrossCountry">Virgin CrossCountry</a></li>
+<li><a href="/wiki/Virgin_Trains_East_Coast" title="Virgin Trains East Coast">Virgin Trains East Coast</a></li>
+<li><a href="/wiki/Wrexham_%26_Shropshire" title="Wrexham &amp; Shropshire">Wrexham &amp; Shropshire</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Regional</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arriva_Trains_Merseyside" title="Arriva Trains Merseyside">Arriva Trains Merseyside</a></li>
+<li><a href="/wiki/Arriva_Trains_Northern" title="Arriva Trains Northern">Arriva Trains Northern</a></li>
+<li><a href="/wiki/Central_Trains" title="Central Trains">Central Trains</a></li>
+<li><a href="/wiki/First_North_Western" title="First North Western">First North Western</a></li>
+<li><a href="/wiki/First_ScotRail" title="First ScotRail">First ScotRail</a></li>
+<li><a href="/wiki/First_TransPennine_Express" title="First TransPennine Express">First TransPennine Express</a></li>
+<li><a href="/wiki/Northern_Rail" class="mw-redirect" title="Northern Rail">Northern Rail</a></li>
+<li><a href="/wiki/ScotRail_(National_Express)" title="ScotRail (National Express)">ScotRail (National Express)</a></li>
+<li><a href="/wiki/Valley_Lines_(train_operating_company)" title="Valley Lines (train operating company)">Valley Lines</a></li>
+<li><a href="/wiki/Wales_%26_Borders" class="mw-redirect" title="Wales &amp; Borders">Wales &amp; Borders</a></li>
+<li><a href="/wiki/Wales_%26_West" title="Wales &amp; West">Wales &amp; West</a></li>
+<li><a href="/wiki/Wessex_Trains" title="Wessex Trains">Wessex Trains</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">London &amp; South East</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Connex_South_Central" title="Connex South Central">Connex South Central</a></li>
+<li><a href="/wiki/Connex_South_Eastern" title="Connex South Eastern">Connex South Eastern</a></li>
+<li><a href="/wiki/First_Capital_Connect" title="First Capital Connect">First Capital Connect</a></li>
+<li><a href="/wiki/First_Great_Eastern" title="First Great Eastern">First Great Eastern</a></li>
+<li><a href="/wiki/First_Great_Western_Link" title="First Great Western Link">First Great Western Link</a></li>
+<li><a href="/wiki/Gatwick_Express" title="Gatwick Express">Gatwick Express</a><sup>1</sup></li>
+<li><a href="/wiki/Heathrow_Connect" title="Heathrow Connect">Heathrow Connect</a></li>
+<li><a href="/wiki/Island_Line_(brand)" title="Island Line (brand)">Island Line</a><sup>2</sup></li>
+<li><a href="/wiki/London_Midland" title="London Midland">London Midland</a></li>
+<li><a href="/wiki/London_Overground_Rail_Operations" title="London Overground Rail Operations">London Overground Rail Operations</a></li>
+<li><a href="/wiki/Silverlink" title="Silverlink">Silverlink</a><sup>3</sup></li>
+<li><a href="/wiki/South_Eastern_Trains" title="South Eastern Trains">South Eastern Trains</a></li>
+<li><a href="/wiki/South_West_Trains" title="South West Trains">South West Trains</a></li>
+<li><a href="/wiki/Thameslink_(train_operating_company_1997%E2%80%932006)" title="Thameslink (train operating company 1997–2006)">Thameslink</a></li>
+<li><a href="/wiki/Thames_Trains" title="Thames Trains">Thames Trains</a></li>
+<li><a href="/wiki/West_Anglia_Great_Northern" title="West Anglia Great Northern">WAGN</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><sup>1</sup> Now a sub-brand of <a href="/wiki/Govia_Thameslink_Railway" title="Govia Thameslink Railway">Govia Thameslink Railway</a></li>
+<li><sup>2</sup> Now a sub-brand of <a href="/wiki/South_Western_Railway_(train_operating_company)" title="South Western Railway (train operating company)">South Western Railway</a></li>
+<li><sup>3</sup> including <a href="/wiki/Silverlink#Silverlink_County" title="Silverlink">Silverlink County</a> &amp; <a href="/wiki/Silverlink#Silverlink_Metro" title="Silverlink">Silverlink Metro</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Future" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_companies_operating_trains_in_the_United_Kingdom#Future_operators" title="List of companies operating trains in the United Kingdom">Future</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Future operators</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/East_Coast_Trains" title="East Coast Trains">East Coast Trains</a></li>
+<li><a href="/wiki/Great_North_Western_Railway" title="Great North Western Railway">Great North Western Railway</a></li>
+<li><a href="/wiki/Transport_for_Wales_(train_operating_company)" title="Transport for Wales (train operating company)">Transport for Wales</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Prospective operators</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Go-Op_(train_operating_company)" title="Go-Op (train operating company)">Go-Op</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Train_operating_companies_in_the_United_Kingdom" title="Category:Train operating companies in the United Kingdom">Category</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Rail_transport_companies_of_the_United_Kingdom" class="extiw" title="commons:Category:Rail transport companies of the United Kingdom">Commons</a></li>
+<li><a href="https://commons.wikimedia.org/wiki/Category:Rail_transport_maps_of_the_United_Kingdom" title="commons:Category:Rail transport maps of the United Kingdom"><img alt="map icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Line1cross.svg/16px-Line1cross.svg.png" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Line1cross.svg/24px-Line1cross.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Line1cross.svg/32px-Line1cross.svg.png 2x" data-file-width="500" data-file-height="500" /></a> <a href="https://commons.wikimedia.org/wiki/Category:Rail_transport_maps_of_the_United_Kingdom" class="extiw" title="commons:Category:Rail transport maps of the United Kingdom">Maps</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2166
+Cached time: 20180929133927
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.540 seconds
+Real time usage: 0.647 seconds
+Preprocessor visited node count: 1848/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 70244/2097152 bytes
+Template argument size: 7105/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 20896/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.149/10.000 seconds
+Lua memory usage: 3.99 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  387.488      1 -total
+ 56.39%  218.493      1 Template:Reflist
+ 19.61%   75.995      1 Template:UK_TOCs
+ 18.49%   71.632      1 Template:Cite_web
+ 18.48%   71.598      1 Template:Navbox_with_collapsible_groups
+ 14.47%   56.060     19 Template:Webarchive
+ 11.20%   43.389      1 Template:Use_dmy_dates
+  4.75%   18.391      2 Template:Cite_news
+  4.25%   16.466      1 Template:DMCA
+  3.83%   14.860      2 Template:Main
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:923810-0!canonical and timestamp 20180929133927 and revision id 860732992
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Train_operating_company&amp;oldid=860732992">https://en.wikipedia.org/w/index.php?title=Train_operating_company&amp;oldid=860732992</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Train_operating_companies_in_the_United_Kingdom" title="Category:Train operating companies in the United Kingdom">Train operating companies in the United Kingdom</a></li><li><a href="/wiki/Category:Post-privatisation_British_railway_companies" title="Category:Post-privatisation British railway companies">Post-privatisation British railway companies</a></li><li><a href="/wiki/Category:Privatisation_of_British_Rail" title="Category:Privatisation of British Rail">Privatisation of British Rail</a></li><li><a href="/wiki/Category:Railway_companies_of_the_United_Kingdom" title="Category:Railway companies of the United Kingdom">Railway companies of the United Kingdom</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">CS1 maint: Archived copy as title</a></li><li><a href="/wiki/Category:Webarchive_template_archiveis_links" title="Category:Webarchive template archiveis links">Webarchive template archiveis links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_September_2010" title="Category:Use dmy dates from September 2010">Use dmy dates from September 2010</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Train+operating+company" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Train+operating+company" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Train_operating_company" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Train_operating_company" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Train_operating_company">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Train_operating_company&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Train_operating_company&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Train_operating_company" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Train_operating_company" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Train_operating_company&amp;oldid=860732992" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Train_operating_company&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17102188" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Train_operating_company&amp;id=860732992" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Train+operating+company">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Train+operating+company&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Train_operating_company&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Train_operatin_company" title="Train operatin company – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Train_operating_company" title="Train operating company – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17102188#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 22 September 2018, at 17:32<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Train_operating_company&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.540","walltime":"0.647","ppvisitednodes":{"value":1848,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":70244,"limit":2097152},"templateargumentsize":{"value":7105,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":20896,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  387.488      1 -total"," 56.39%  218.493      1 Template:Reflist"," 19.61%   75.995      1 Template:UK_TOCs"," 18.49%   71.632      1 Template:Cite_web"," 18.48%   71.598      1 Template:Navbox_with_collapsible_groups"," 14.47%   56.060     19 Template:Webarchive"," 11.20%   43.389      1 Template:Use_dmy_dates","  4.75%   18.391      2 Template:Cite_news","  4.25%   16.466      1 Template:DMCA","  3.83%   14.860      2 Template:Main"]},"scribunto":{"limitreport-timeusage":{"value":"0.149","limit":"10.000"},"limitreport-memusage":{"value":4181040,"limit":52428800}},"cachereport":{"origin":"mw2166","timestamp":"20180929133927","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":73,"wgHostname":"mw2163"});});</script>
+	</body>
+</html>

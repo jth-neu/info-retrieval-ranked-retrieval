@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Go.com - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Go.com","wgTitle":"Go.com","wgCurRevisionId":858712914,"wgRevisionId":858712914,"wgArticleId":3534480,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing potentially dated statements from March 2018","All articles containing potentially dated statements","Entertainment websites","American websites","Web portals","Internet properties established in 1998","Internet properties disestablished in 2013","Disney Interactive","Dot-com bubble","American companies established in 1998"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Go.com","wgRelevantArticleId":3534480,"wgRequestId":"W6-5bwrAAEAAACraj4cAAACH","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q3109525","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/b/b1/Go.com_logo.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Go.com"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Go.com&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Go.com&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Go.com"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Go_com rootpage-Go_com skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Go.com</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><caption class="fn org">Go.com</caption><tbody><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Go.com_logo.png" class="image"><img alt="Go.com logo.png" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b1/Go.com_logo.png/250px-Go.com_logo.png" width="250" height="121" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b1/Go.com_logo.png/375px-Go.com_logo.png 1.5x, //upload.wikimedia.org/wikipedia/en/b/b1/Go.com_logo.png 2x" data-file-width="453" data-file-height="220" /></a></td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Type of site</div></th><td>
+<a href="/wiki/Web_portal" title="Web portal">Web portal</a></td></tr><tr><th scope="row">Available&#160;in</th><td>
+English</td></tr><tr><th scope="row">Owner</th><td>
+<a href="/wiki/Walt_Disney_Parks,_Experiences_and_Consumer_Products" title="Walt Disney Parks, Experiences and Consumer Products">Walt Disney Parks, Experiences and Consumer Products</a><br />(<a href="/wiki/The_Walt_Disney_Company" title="The Walt Disney Company">The Walt Disney Company</a>)</td></tr><tr><th scope="row">Created&#160;by</th><td>
+<a href="/wiki/Disney_Interactive" title="Disney Interactive">Disney Interactive Media Group</a><br />(<a href="/wiki/The_Walt_Disney_Company" title="The Walt Disney Company">The Walt Disney Company</a>)</td></tr><tr><th scope="row">Website</th><td class="url">
+<span class="url"><a rel="nofollow" class="external text" href="http://www.go.com">www<wbr />.go<wbr />.com</a></span></td></tr><tr><th scope="row"><a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa</a> rank</th><td>
+<img alt="Positive decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/11px-Decrease_Positive.svg.png" title="Positive decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/17px-Decrease_Positive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Decrease_Positive.svg/22px-Decrease_Positive.svg.png 2x" data-file-width="300" data-file-height="300" /> 396 (March 2018<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Go.com&amp;action=edit">&#91;update&#93;</a></sup>)<sup id="cite_ref-alexa_1-0" class="reference"><a href="#cite_note-alexa-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row">Commercial</th><td>
+yes</td></tr><tr><th scope="row">Launched</th><td>
+January&#160;9, 1998<span class="noprint">&#59;&#32;20 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1998-01-09</span>)</span></td></tr></tbody></table>
+<p><b>Go.com</b> (also known as <b>The Go Network</b>) is a landing page for Disney content, created as a joint venture between <a href="/wiki/Infoseek" title="Infoseek">Infoseek</a> and <a href="/wiki/Disney_Interactive_Media_Group" class="mw-redirect" title="Disney Interactive Media Group">Disney Interactive</a>. It is currently operated by <a href="/wiki/Walt_Disney_Parks,_Experiences_and_Consumer_Products" title="Walt Disney Parks, Experiences and Consumer Products">Walt Disney Parks, Experiences and Consumer Products</a>, a <a href="/wiki/Division_(business)" title="Division (business)">Division</a> of <a href="/wiki/The_Walt_Disney_Company" title="The Walt Disney Company">The Walt Disney Company</a>. It began as a <a href="/wiki/Web_portal" title="Web portal">web portal</a> launched by Jeff Gold.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Go.com includes content from <a href="/wiki/ABC_News" title="ABC News">ABC News</a> which is associated with Disney and is hosted under a .go.com name. Along with <a href="/wiki/Time_Warner" class="mw-redirect" title="Time Warner">Time Warner</a>'s <a href="/wiki/Pathfinder.com" class="mw-redirect" title="Pathfinder.com">Pathfinder.com</a>, Go.com proved to be an expensive failure for its parent company, as web users preferred to use <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engines</a> to access content directly, rather than start at a top-level corporate portal. In 2013, the site was transitioned from a portal to a simple landing page.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Current_status"><span class="tocnumber">2</span> <span class="toctext">Current status</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Notes"><span class="tocnumber">3</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Go.com&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Go.com_1998_logo.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/0a/Go.com_1998_logo.png/220px-Go.com_1998_logo.png" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/0/0a/Go.com_1998_logo.png 1.5x" data-file-width="316" data-file-height="316" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Go.com_1998_logo.png" class="internal" title="Enlarge"></a></div>Go.com's original logo used from 1998 to 1999.</div></div></div>
+<p>In January 1998, Disney registered Go.com.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Infoseek and Disney Interactive Media Group joint ventured in developing the Go Network, an internet portal.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>  Go.com was launched in January 1999 as a portal with content from ABCNews.com, ESPN.com and Disney.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>With Disney's purchase of the remainder of Infoseek in July 1999, the Go Network, Infoseek, the Disney Catalog, Disney Online (Disney.com and DisneyStore.com), ABC News Internet Ventures, ESPN Internet Ventures, and Buena Vista Internet Group were merged into the Go.com company; the company was 72% Disney-owned, with the other outstanding ownership in a <a href="/wiki/Tracking_stock" title="Tracking stock">tracking stock</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>In October 1999, the Go Guides program, a user-edited directory like <a href="/wiki/DMOZ" title="DMOZ">DMOZ</a>, was launched.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-sew_8-0" class="reference"><a href="#cite_note-sew-8">&#91;8&#93;</a></sup>
+</p><p>In January 2000, Go.com was forced to abandon its original <a href="/wiki/Stoplight" class="mw-redirect" title="Stoplight">stoplight</a> <a href="/wiki/Logo" title="Logo">logo</a> because of a complaint of similar-looking logos filed by <a href="/wiki/Yahoo!_Search_Marketing" title="Yahoo! Search Marketing">GoTo.com</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> Concurrently, Go.com company officials announced it was shifting from a general appeal portal to featuring entertainment content.<sup id="cite_ref-sew_8-1" class="reference"><a href="#cite_note-sew-8">&#91;8&#93;</a></sup> A court later ruled that Go.com had to pay <a href="/wiki/United_States_dollar" title="United States dollar">$</a>21.5 million in damages to GoTo.com.<sup id="cite_ref-sew0_10-0" class="reference"><a href="#cite_note-sew0-10">&#91;10&#93;</a></sup>
+</p><p>However, in January 2001, Disney announced that it would be closing Go.com and its search engine, <a href="/wiki/Lay_off" class="mw-redirect" title="Lay off">laying off</a> approximately 400 employees and retiring the go.com <a href="/wiki/Tracking_stock" title="Tracking stock">tracking stock</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>   Also announced was the closing of Go.com's volunteer-edited directory. With the closing, some volunteers created, or migrated to, offshoot directories including JoeAnt, <a href="/w/index.php?title=Goguides.org&amp;action=edit&amp;redlink=1" class="new" title="Goguides.org (page does not exist)">Goguides.org</a>, and <a href="/w/index.php?title=Skaffe.com&amp;action=edit&amp;redlink=1" class="new" title="Skaffe.com (page does not exist)">Skaffe.com</a>.
+</p><p>In March 2001, Go.com dropped its internal search engine in favor of <a href="/wiki/Yahoo!_Search_Marketing" title="Yahoo! Search Marketing">GoTo.com</a> search results.<sup id="cite_ref-sew0_10-1" class="reference"><a href="#cite_note-sew0-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Current_status">Current status</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Go.com&amp;action=edit&amp;section=2" title="Edit section: Current status">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Despite its announcement, go.com never ceased operations. Instead, in March 2001, the site ended its search engine and switched to a search engine provided by goto.com, whose parent, <a href="/wiki/Inktomi_(company)" class="mw-redirect" title="Inktomi (company)">Inktomi</a>, was eventually purchased by <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a>.<sup id="cite_ref-sew0_10-2" class="reference"><a href="#cite_note-sew0-10">&#91;10&#93;</a></sup>
+</p><p>As of January 21, 2016, some of Disney's sites, including ABC's network and news divisions and Disney's cable networks continue to be hosted on the go.com domain, although a base address is used for branding and simplicity purposes; for example, the website for <a href="/wiki/Freeform_(TV_channel)" title="Freeform (TV channel)">Freeform</a> redirects to <a rel="nofollow" class="external text" href="http://freeform.go.com/">freeform.go.com</a>. Go.com terminated its email service on August 31, 2010.
+</p><p>In 2013, Disney retired the Go.com logo and branding, turning the domain into a Disney-branded landing page without a search engine. The properties of Disney Interactive then began the process of moving the connection of user accounts off from depending on the Go.com domain to a different type of system not dependent solely on one domain. Throughout 2014 and 2015, the <a href="/wiki/ABC_Owned_Television_Stations" title="ABC Owned Television Stations">ABC Owned Television Stations</a> began to move to only using their on-air domains, mainly for <a href="/wiki/Social_media" title="Social media">social media</a> considerations.
+</p><p>In August 2016, <a href="/wiki/ESPN.com" title="ESPN.com">ESPN.com</a> switched to solely using that domain rather than <a rel="nofollow" class="external text" href="http://espn.go.com/">espn.go.com</a>, tying into the improved Disney Enterprise Technology user account/registration process rather than a rumored issue involving the resolution of "<a href="/wiki/HTTP_301" title="HTTP 301">301</a>" error notices from the former espn.com redirect causing issues with lower search result rankings.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Go.com&amp;action=edit&amp;section=3" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol><li><span class="citation wikicite" id="endnote_cnet.com"><b><a href="#ref_cnet.com">^</a></b></span>  January 28, 2000 - <a rel="nofollow" class="external text" href="http://news.cnet.com/2100-1023-236221.html">Judge bars Disney from using Go.com logo</a></li>
+<li><span class="citation wikicite" id="endnote_SearchEngineWatch"><b><a href="#ref_SearchEngineWatch">^</a></b></span>  February 3, 2000 - <a rel="nofollow" class="external text" href="http://searchenginewatch.com/sereport/article.php/2162291">Go Going Elsewhere, Loses Logo</a></li>
+<li><span class="citation wikicite" id="endnote_internet.com"><b><a href="#ref_internet.com">^</a></b></span>  January 29, 2001 - <a rel="nofollow" class="external text" href="http://siliconvalley.internet.com/news/article.php/5321_573361">Disney to Discontinue Go.com Portal</a></li>
+<li><span class="citation wikicite" id="endnote_SEW2"><b><a href="#ref_SEW2">^</a></b></span>  March 15, 2001 - <a rel="nofollow" class="external text" href="https://web.archive.org/web/20030410063734/http://www.searchenginewatch.com/sereport/article.php/2163501">Go.com Becomes GoTo</a></li></ol>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Go.com&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 33em; -webkit-column-width: 33em; column-width: 33em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-alexa-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-alexa_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.alexa.com/siteinfo/go.com">"Go.com Site Info"</a>. <a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa Internet</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 2,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Go.com+Site+Info&amp;rft.pub=Alexa+Internet&amp;rft_id=http%3A%2F%2Fwww.alexa.com%2Fsiteinfo%2Fgo.com&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGo.com" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Bahareth, Mohammad (April 18, 2012). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=QihORDUXibcC&amp;pg=PA210&amp;lpg=PA210&amp;dq=web+portal+jeff+gold+go.com&amp;source=bl&amp;ots=t09TFQRHrI&amp;sig=KQmIjYbnWbn_bLQlTQcbqYE6XZU&amp;hl=en&amp;sa=X&amp;ei=j-A5U_vNNNTyyAHktIGwAw&amp;ved=0CEEQ6AEwAw#v=onepage&amp;q=web%20portal%20jeff%20gold%20go.com&amp;f=false"><i>Kings of the Internet</i></a>. iUniverse. p.&#160;210. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781469798431" title="Special:BookSources/9781469798431">9781469798431</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 31,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Kings+of+the+Internet&amp;rft.pages=210&amp;rft.pub=iUniverse&amp;rft.date=2012-04-18&amp;rft.isbn=9781469798431&amp;rft.aulast=Bahareth&amp;rft.aufirst=Mohammad&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DQihORDUXibcC%26pg%3DPA210%26lpg%3DPA210%26dq%3Dweb%2Bportal%2Bjeff%2Bgold%2Bgo.com%26source%3Dbl%26ots%3Dt09TFQRHrI%26sig%3DKQmIjYbnWbn_bLQlTQcbqYE6XZU%26hl%3Den%26sa%3DX%26ei%3Dj-A5U_vNNNTyyAHktIGwAw%26ved%3D0CEEQ6AEwAw%23v%3Donepage%26q%3Dweb%2520portal%2520jeff%2520gold%2520go.com%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGo.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Polsson, Ken. <a rel="nofollow" class="external text" href="http://kpolsson.com/disnehis/disn1998.htm">"1998"</a>. <i>Chronology of the Walt Disney Company</i>. kpolsson.com<span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Chronology+of+the+Walt+Disney+Company&amp;rft.atitle=1998&amp;rft.aulast=Polsson&amp;rft.aufirst=Ken&amp;rft_id=http%3A%2F%2Fkpolsson.com%2Fdisnehis%2Fdisn1998.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGo.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/> source: CNet News.com, <a rel="nofollow" class="external free" href="http://www.news.cnet.com/">http://www.news.cnet.com/</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news">Tedesco, Richard (December 14, 1998). <a rel="nofollow" class="external text" href="http://www.highbeam.com/doc/1G1-53419086.html">"Disney, Infoseek give green light"</a>. <i>Broadcasting &amp; Cable</i><span class="reference-accessdate">. Retrieved <span class="nowrap">30 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Broadcasting+%26+Cable&amp;rft.atitle=Disney%2C+Infoseek+give+green+light&amp;rft.date=1998-12-14&amp;rft.aulast=Tedesco&amp;rft.aufirst=Richard&amp;rft_id=http%3A%2F%2Fwww.highbeam.com%2Fdoc%2F1G1-53419086.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGo.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://money.cnn.com/1999/01/12/technology/go/">"GO Network premieres"</a>. <i>Money</i>. CNNfn. January 12, 1999<span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Money&amp;rft.atitle=GO+Network+premieres&amp;rft.date=1999-01-12&amp;rft_id=http%3A%2F%2Fmoney.cnn.com%2F1999%2F01%2F12%2Ftechnology%2Fgo%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGo.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://money.cnn.com/1999/07/12/deals/disney/">"Disney absorbs Infoseek"</a>. <i>Money</i>. CNNfn. July 12, 1999<span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Money&amp;rft.atitle=Disney+absorbs+Infoseek&amp;rft.date=1999-07-12&amp;rft_id=http%3A%2F%2Fmoney.cnn.com%2F1999%2F07%2F12%2Fdeals%2Fdisney%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGo.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20030103061426/http://searchenginewatch.com/sereport/99/10-go.html">"The Search Engine Report: Go Guides Goes Live"</a>. <i>searchenginewatch.com</i>. October 4, 1999. Archived from <a rel="nofollow" class="external text" href="http://searchenginewatch.com/sereport/99/10-go.html">the original</a> on 3 January 2003<span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=searchenginewatch.com&amp;rft.atitle=The+Search+Engine+Report%3A+Go+Guides+Goes+Live&amp;rft.date=1999-10-04&amp;rft_id=http%3A%2F%2Fsearchenginewatch.com%2Fsereport%2F99%2F10-go.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGo.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-sew-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-sew_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sew_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Sullivan, Danny (Feb 3, 2000). <a rel="nofollow" class="external text" href="http://searchenginewatch.com/article/2064941/Go-Going-Elsewhere-Loses-Logo">"Go Going Elsewhere, Loses Logo"</a>. <i>Search Engine Watch.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Search+Engine+Watch.com&amp;rft.atitle=Go+Going+Elsewhere%2C+Loses+Logo&amp;rft.date=2000-02-03&amp;rft.aulast=Sullivan&amp;rft.aufirst=Danny&amp;rft_id=http%3A%2F%2Fsearchenginewatch.com%2Farticle%2F2064941%2FGo-Going-Elsewhere-Loses-Logo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGo.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news">Jacobus, Patricia (January 28, 2000). <a rel="nofollow" class="external text" href="http://news.cnet.com/2100-1023-236221.html">"Judge bars Disney from using Go.com logo"</a>. <i>CNET News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CNET+News&amp;rft.atitle=Judge+bars+Disney+from+using+Go.com+logo&amp;rft.date=2000-01-28&amp;rft.aulast=Jacobus&amp;rft.aufirst=Patricia&amp;rft_id=http%3A%2F%2Fnews.cnet.com%2F2100-1023-236221.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGo.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-sew0-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-sew0_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sew0_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-sew0_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Sullivan, Danny (March 14, 2001). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130325061312/http://searchenginewatch.com/article/2048629/Go.com-Becomes-GoTo">"Go.com Becomes GoTo"</a>. <i>Search Engine Watch.com</i>. Archived from <a rel="nofollow" class="external text" href="http://searchenginewatch.com/article/2048629/Go.com-Becomes-GoTo">the original</a> on 25 March 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Search+Engine+Watch.com&amp;rft.atitle=Go.com+Becomes+GoTo&amp;rft.date=2001-03-14&amp;rft.aulast=Sullivan&amp;rft.aufirst=Danny&amp;rft_id=http%3A%2F%2Fsearchenginewatch.com%2Farticle%2F2048629%2FGo.com-Becomes-GoTo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGo.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://siliconvalley.internet.com/news/article.php/5321_573361">"Disney to Discontinue Go.com Portal"</a>. <i>siliconvalley.internet.com</i>. January 29, 2001<span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=siliconvalley.internet.com&amp;rft.atitle=Disney+to+Discontinue+Go.com+Portal&amp;rft.date=2001-01-29&amp;rft_id=http%3A%2F%2Fsiliconvalley.internet.com%2Fnews%2Farticle.php%2F5321_573361&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGo.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news">Buchholz, Andrew (4 August 2016). <a rel="nofollow" class="external text" href="http://awfulannouncing.com/2016/espn-drops-espn-go-com-but-not-over-a-tweet-from-last-week.html">"ESPN drops ESPN.go.com, but not over a tweet from last week"</a>. <a href="/w/index.php?title=Awful_Announcing&amp;action=edit&amp;redlink=1" class="new" title="Awful Announcing (page does not exist)">Awful Announcing</a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=ESPN+drops+ESPN.go.com%2C+but+not+over+a+tweet+from+last+week&amp;rft.date=2016-08-04&amp;rft.aulast=Buchholz&amp;rft.aufirst=Andrew&amp;rft_id=http%3A%2F%2Fawfulannouncing.com%2F2016%2Fespn-drops-espn-go-com-but-not-over-a-tweet-from-last-week.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGo.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news">Benton, Joshua (4 August 2016). <a rel="nofollow" class="external text" href="http://www.niemanlab.org/2016/08/espn-com-has-finally-replaced-espn-go-com-and-a-tweet-about-google-seo-may-be-part-of-why/">"ESPN.com has finally replaced espn.go.com, and a newish SEO rule means it won't lose Google juice&#160;» Nieman Journalism Lab"</a>. <a href="/wiki/Nieman_Foundation_for_Journalism" title="Nieman Foundation for Journalism">Nieman Journalism Lab</a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=ESPN.com+has+finally+replaced+espn.go.com%2C+and+a+newish+SEO+rule+means+it+won%E2%80%99t+lose+Google+juice+%C2%BB+Nieman+Journalism+Lab&amp;rft.date=2016-08-04&amp;rft.aulast=Benton&amp;rft.aufirst=Joshua&amp;rft_id=http%3A%2F%2Fwww.niemanlab.org%2F2016%2F08%2Fespn-com-has-finally-replaced-espn-go-com-and-a-tweet-about-google-seo-may-be-part-of-why%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGo.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Go.com&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.go.com">Go.com</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="The_Walt_Disney_Company" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Disney" title="Template:Disney"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Disney" title="Template talk:Disney"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Disney&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="The_Walt_Disney_Company" style="font-size:114%;margin:0 4em"><a href="/wiki/The_Walt_Disney_Company" title="The Walt Disney Company">The Walt Disney Company</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Company_timeline&amp;#10;*_Criticism&amp;#10;*_Proposed_acquisition_of_21st_Century_Fox_by_Disney">
+<ul><li><a href="/wiki/Timeline_of_The_Walt_Disney_Company" title="Timeline of The Walt Disney Company">Company timeline</a></li>
+<li><a href="/wiki/Criticism_of_The_Walt_Disney_Company" title="Criticism of The Walt Disney Company">Criticism</a></li>
+<li><a href="/wiki/Proposed_acquisition_of_21st_Century_Fox_by_Disney" title="Proposed acquisition of 21st Century Fox by Disney">Proposed acquisition of 21st Century Fox by Disney</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_management_of_The_Walt_Disney_Company" title="List of management of The Walt Disney Company">Company<br />officials</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Founders</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Walt_Disney" title="Walt Disney">Walt Disney</a></li>
+<li><a href="/wiki/Roy_O._Disney" title="Roy O. Disney">Roy Oliver Disney</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_management_of_The_Walt_Disney_Company" title="List of management of The Walt Disney Company">Executives</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bob_Iger" title="Bob Iger">Bob Iger</a> (<a href="/wiki/Chief_executive_officer" title="Chief executive officer">CEO</a>)</li>
+<li><a href="/wiki/Alan_N._Braverman" title="Alan N. Braverman">Alan N. Braverman</a> (<a href="/wiki/Vice_president" title="Vice president">SEVP</a>/<a href="/wiki/General_counsel" title="General counsel">GC</a>)</li>
+<li><a href="/wiki/Christine_McCarthy" title="Christine McCarthy">Christine McCarthy</a> (<a href="/wiki/Chief_financial_officer" title="Chief financial officer">CFO</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Board_of_directors" title="Board of directors">Board of directors</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Susan_Arnold" title="Susan Arnold">Susan E. Arnold</a></li>
+<li><a href="/wiki/Mary_Barra" title="Mary Barra">Mary T. Barra</a></li>
+<li><a href="/wiki/Safra_Catz" title="Safra Catz">Safra Catz</a></li>
+<li><a href="/wiki/John_S._Chen" title="John S. Chen">John S. Chen</a></li>
+<li><a href="/wiki/Francis_deSouza" title="Francis deSouza">Francis A. deSouza</a></li>
+<li><a href="/wiki/Michael_Froman" title="Michael Froman">Michael Froman</a></li>
+<li><a href="/wiki/Bob_Iger" title="Bob Iger">Bob Iger</a> (<a href="/wiki/Chairman" title="Chairman">Chairman</a>)</li>
+<li><a href="/wiki/Maria_Elena_Lagomasino" title="Maria Elena Lagomasino">Maria Elena Lagomasino</a></li>
+<li><a href="/wiki/Fred_Langhammer" title="Fred Langhammer">Fred H. Langhammer</a></li>
+<li><a href="/wiki/Aylwin_Lewis" title="Aylwin Lewis">Aylwin B. Lewis</a></li>
+<li><a href="/wiki/Mark_Parker" title="Mark Parker">Mark G. Parker</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Walt_Disney_Studios_(division)" title="Walt Disney Studios (division)">The Walt Disney Studios</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Walt_Disney_Animation_Studios" title="Walt Disney Animation Studios">Walt Disney Animation Studios</a></li>
+<li><a href="/wiki/Walt_Disney_Pictures" title="Walt Disney Pictures">Walt Disney Pictures</a></li>
+<li><a href="/wiki/Walt_Disney_Studios_Motion_Pictures" title="Walt Disney Studios Motion Pictures">Distribution</a>
+<ul><li><a href="/wiki/Touchstone_Pictures" title="Touchstone Pictures">Touchstone Pictures</a></li></ul></li>
+<li><a href="/wiki/Disney_Music_Group" title="Disney Music Group">Disney Music Group</a></li>
+<li><a href="/wiki/Disney_Theatrical_Group" title="Disney Theatrical Group">Disney Theatrical Group</a></li>
+<li><a href="/wiki/Disneynature" title="Disneynature">Disneynature</a></li>
+<li><a href="/wiki/Lucasfilm" title="Lucasfilm">Lucasfilm</a></li>
+<li><a href="/wiki/Marvel_Studios" title="Marvel Studios">Marvel Studios</a></li>
+<li><a href="/wiki/Pixar" title="Pixar">Pixar</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Disney_Media_Networks" class="mw-redirect" title="Disney Media Networks">Media Networks</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Disney%E2%80%93ABC_Television_Group" title="Disney–ABC Television Group">Disney–ABC TV Group</a>
+<ul><li><a href="/wiki/ABC_Entertainment" title="ABC Entertainment">ABC Entertainment Group</a></li>
+<li><a href="/wiki/ABC_Owned_Television_Stations" title="ABC Owned Television Stations">ABC TV Stations</a></li>
+<li><a href="/wiki/Disney_Channels_Worldwide" title="Disney Channels Worldwide">Disney Channels US</a></li></ul></li>
+<li><a href="/wiki/ESPN_Inc." title="ESPN Inc.">ESPN</a> (80%)</li>
+<li><a href="/wiki/A%26E_Networks" title="A&amp;E Networks">A&amp;E Networks</a> (50%)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Walt_Disney_Parks,_Experiences_and_Consumer_Products" title="Walt Disney Parks, Experiences and Consumer Products">Parks, Experiences<br />and Consumer Products</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Walt_Disney_Parks_and_Resorts" title="Walt Disney Parks and Resorts">Parks and Resorts</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Walt_Disney_Imagineering" title="Walt Disney Imagineering">Walt Disney Imagineering</a></li>
+<li><a href="/wiki/Walt_Disney_World" title="Walt Disney World">Walt Disney World Resort</a></li>
+<li><a href="/wiki/Disneyland_Resort" title="Disneyland Resort">Disneyland Resort</a></li>
+<li><a href="/wiki/Disneyland_Paris" title="Disneyland Paris">Disneyland Paris</a></li>
+<li><a href="/wiki/Hong_Kong_Disneyland_Resort" title="Hong Kong Disneyland Resort">Hong Kong Disneyland Resort</a></li>
+<li><a href="/wiki/Shanghai_Disney_Resort" title="Shanghai Disney Resort">Shanghai Disney Resort</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Signature Experiences</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Adventures_by_Disney" title="Adventures by Disney">Adventures by Disney</a></li>
+<li><a href="/wiki/Disney_Cruise_Line" title="Disney Cruise Line">Disney Cruise Line</a></li>
+<li><a href="/wiki/Disney_Vacation_Club" title="Disney Vacation Club">Disney Vacation Club</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Disney_Consumer_Products_and_Interactive_Media" title="Disney Consumer Products and Interactive Media">Consumer Products<br />and Interactive Media</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Disney_Consumer_Products_and_Interactive_Media" title="Disney Consumer Products and Interactive Media">Licensing</a></li>
+<li><a href="/wiki/Disney_Store" title="Disney Store">Disney Store</a></li>
+<li><a href="/wiki/Disney_Publishing_Worldwide" title="Disney Publishing Worldwide">Disney Publishing Worldwide</a>
+<ul><li><a href="/wiki/Disney_English" title="Disney English">Disney English</a></li></ul></li>
+<li><a href="/wiki/Disney.com" title="Disney.com">Disney Online</a></li>
+<li><a href="/wiki/Disney_Interactive" title="Disney Interactive">Games and Interactive Experiences</a>
+<ul><li><a href="/wiki/Disney_Mobile" title="Disney Mobile">Disney Mobile</a></li></ul></li>
+<li><a href="/wiki/The_Muppets_Studio" title="The Muppets Studio">The Muppets Studio</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Walt_Disney_Direct-to-Consumer_and_International" title="Walt Disney Direct-to-Consumer and International">Direct-to-Consumer<br />and International</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/BAMTech" title="BAMTech">BAMTech</a> (75%)</li>
+<li><a href="/wiki/Disney_Digital_Network" title="Disney Digital Network">Disney Digital Network</a></li>
+<li><a href="/wiki/Disney%E2%80%93ABC_Domestic_Television" title="Disney–ABC Domestic Television">Disney–ABC Domestic Television</a></li>
+<li><a href="/wiki/Disney_Channels_Worldwide" title="Disney Channels Worldwide">Disney Channels Worldwide</a></li>
+<li><a href="/wiki/Disney_Media_Distribution" title="Disney Media Distribution">Disney Media Distribution</a></li>
+<li><a href="/wiki/ESPN%2B" title="ESPN+">ESPN+</a></li>
+<li><a href="/wiki/Hulu" title="Hulu">Hulu</a> (30%)</li>
+<li><a href="/wiki/Walt_Disney_Studios_Home_Entertainment" title="Walt Disney Studios Home Entertainment">Walt Disney Studios Home Entertainment</a>
+<ul><li><a href="/wiki/Movies_Anywhere" title="Movies Anywhere">Movies Anywhere</a></li></ul></li>
+<li><a href="/wiki/Disney_streaming_service" title="Disney streaming service">Streaming service</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="International" scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/The_Walt_Disney_Company_Argentina" title="The Walt Disney Company Argentina">Argentina</a></li>
+<li><a href="/wiki/The_Walt_Disney_Company_CIS" title="The Walt Disney Company CIS">CIS</a></li>
+<li><a href="/wiki/The_Walt_Disney_Company_France" title="The Walt Disney Company France">France</a></li>
+<li><a href="/wiki/The_Walt_Disney_Company_India" title="The Walt Disney Company India">India</a>
+<ul><li><a href="/wiki/UTV_Software_Communications" title="UTV Software Communications">UTV Software Communications</a></li></ul></li>
+<li><a href="/wiki/The_Walt_Disney_Company_Italy" title="The Walt Disney Company Italy">Italy</a></li>
+<li><a href="/wiki/The_Walt_Disney_Company_Latin_America" title="The Walt Disney Company Latin America">Latin America</a></li>
+<li><a href="/wiki/Germany" title="Germany">Germany</a>
+<ul><li><a href="/wiki/Super_RTL" title="Super RTL">Super RTL</a><sup>JV</sup></li>
+<li><a href="/wiki/RTL_II" title="RTL II">RTL II</a><sup>JV</sup></li></ul></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_assets_owned_by_Disney" title="List of assets owned by Disney">Other assets</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Retlaw_Enterprises" title="Retlaw Enterprises">Retlaw Enterprises</a></li>
+<li><a href="/wiki/Buena_Vista_(brand)" title="Buena Vista (brand)">Buena Vista</a></li>
+<li><a href="/wiki/Tokyo_Disney_Resort" title="Tokyo Disney Resort">Tokyo Disney Resort</a></li>
+<li><a href="/wiki/Marvel_Entertainment" title="Marvel Entertainment">Marvel Entertainment</a></li>
+<li><a href="/wiki/Reedy_Creek_Energy_Services" title="Reedy Creek Energy Services">Reedy Creek Energy</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2192
+Cached time: 20180929215856
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.284 seconds
+Real time usage: 0.346 seconds
+Preprocessor visited node count: 1941/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 60099/2097152 bytes
+Template argument size: 1792/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 34913/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.127/10.000 seconds
+Lua memory usage: 4.69 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  280.512      1 -total
+ 46.22%  129.662      1 Template:Reflist
+ 43.15%  121.030      1 Template:Infobox_website
+ 37.52%  105.243      1 Template:Infobox
+ 19.91%   55.845      2 Template:Cite_web
+ 16.65%   46.708     10 Template:Cite_news
+  9.71%   27.237      4 Template:Navbox
+  7.21%   20.219      1 Template:Disney
+  7.03%   19.708      1 Template:As_of
+  5.92%   16.606      1 Template:DMCA
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3534480-0!canonical and timestamp 20180929215855 and revision id 858712914
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Go.com&amp;oldid=858712914">https://en.wikipedia.org/w/index.php?title=Go.com&amp;oldid=858712914</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Entertainment_websites" title="Category:Entertainment websites">Entertainment websites</a></li><li><a href="/wiki/Category:American_websites" title="Category:American websites">American websites</a></li><li><a href="/wiki/Category:Web_portals" title="Category:Web portals">Web portals</a></li><li><a href="/wiki/Category:Internet_properties_established_in_1998" title="Category:Internet properties established in 1998">Internet properties established in 1998</a></li><li><a href="/wiki/Category:Internet_properties_disestablished_in_2013" title="Category:Internet properties disestablished in 2013">Internet properties disestablished in 2013</a></li><li><a href="/wiki/Category:Disney_Interactive" title="Category:Disney Interactive">Disney Interactive</a></li><li><a href="/wiki/Category:Dot-com_bubble" title="Category:Dot-com bubble">Dot-com bubble</a></li><li><a href="/wiki/Category:American_companies_established_in_1998" title="Category:American companies established in 1998">American companies established in 1998</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_March_2018" title="Category:Articles containing potentially dated statements from March 2018">Articles containing potentially dated statements from March 2018</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Go.com" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Go.com" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Go.com" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Go.com" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Go.com">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Go.com&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Go.com&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Go.com" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Go.com" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Go.com&amp;oldid=858712914" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Go.com&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3109525" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Go.com&amp;id=858712914" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Go.com">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Go.com&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Go.com&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AC%D9%88.%D9%83%D9%88%D9%85" title="جو.كوم – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Go.com" title="Go.com – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Go.com" title="Go.com – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Go.com" title="Go.com – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Go.com" title="Go.com – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3109525#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 9 September 2018, at 03:41<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Go.com&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.284","walltime":"0.346","ppvisitednodes":{"value":1941,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":60099,"limit":2097152},"templateargumentsize":{"value":1792,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":34913,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  280.512      1 -total"," 46.22%  129.662      1 Template:Reflist"," 43.15%  121.030      1 Template:Infobox_website"," 37.52%  105.243      1 Template:Infobox"," 19.91%   55.845      2 Template:Cite_web"," 16.65%   46.708     10 Template:Cite_news","  9.71%   27.237      4 Template:Navbox","  7.21%   20.219      1 Template:Disney","  7.03%   19.708      1 Template:As_of","  5.92%   16.606      1 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.127","limit":"10.000"},"limitreport-memusage":{"value":4921839,"limit":52428800}},"cachereport":{"origin":"mw2192","timestamp":"20180929215856","ttl":3600,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw2238"});});</script>
+	</body>
+</html>

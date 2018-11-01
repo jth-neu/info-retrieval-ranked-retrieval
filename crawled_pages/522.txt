@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Auregnais - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Auregnais","wgTitle":"Auregnais","wgCurRevisionId":857499812,"wgRevisionId":857499812,"wgArticleId":2210824,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages without Glottolog code","Dialects of languages with ISO 639-3 code","Languages without ISO 639-3 code but with Linguasphere code","Language articles with unreferenced extinction date","Articles containing French-language text","Alderney","Norman language","Extinct Romance languages","Extinct languages of Europe","Languages extinct in the 20th century","Languages of the Channel Islands"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Auregnais","wgRelevantArticleId":2210824,"wgRequestId":"W6@NhQrAADcAAHfu11UAAABK","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q2085566","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Auregnais"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Auregnais&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Auregnais&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Auregnais"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Auregnais rootpage-Auregnais skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Auregnais</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><tbody><tr><th colspan="2" class="above" style="text-align:center;font-size:125%;font-weight:bold;font-size:130%; color: black; background-color:  #c9ffd9;">Auregnais</th></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;">Native&#160;to</th><td style="line-height:1.35em;">
+<a href="/wiki/Alderney" title="Alderney">Alderney</a></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><a href="/wiki/Extinct_language" title="Extinct language">Extinct</a></th><td style="line-height:1.35em;">
+by <abbr title="circa">c.</abbr><span style="white-space:nowrap;">&#8201;1960</span> (some <a href="/wiki/Rememberer" class="mw-redirect" title="Rememberer">rememberers</a>)</td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><span class="wrap"><a href="/wiki/Language_family" title="Language family">Language family</a></span></div></th><td style="line-height:1.35em;">
+<div style="text-align:left;"><a href="/wiki/Indo-European_languages" title="Indo-European languages">Indo-European</a>
+<ul style="line-height:100%; margin-left:1.35em;padding-left:0"><li>
+<a href="/wiki/Italic_languages" title="Italic languages">Italic</a><ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><a href="/wiki/Romance_languages" title="Romance languages">Romance</a><ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><a href="/wiki/Western_Romance_languages" title="Western Romance languages">Western</a><ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><a href="/wiki/Gallo-Romance_languages" title="Gallo-Romance languages">Gallo-Romance</a><ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><a href="/wiki/O%C3%AFl_languages" class="mw-redirect" title="Oïl languages">Oïl</a><ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><a href="/wiki/Norman_language" title="Norman language">Norman</a><ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><b>Auregnais</b></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul></div></td></tr><tr><th colspan="2" style="text-align:center;color: black; background-color:  #c9ffd9;">Language codes</th></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><span class="nowrap"><a href="/wiki/ISO_639-3" title="ISO 639-3">ISO 639-3</a></span></th><td style="line-height:1.35em;">
+–</td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><a href="/wiki/Glottolog" title="Glottolog">Glottolog</a></th><td style="line-height:1.35em;">
+<i>None</i></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><a href="/wiki/Linguasphere_Observatory" title="Linguasphere Observatory">Linguasphere</a></th><td style="line-height:1.35em;">
+<code>51-AAA-hcg</code></td></tr><tr><td colspan="2" class="noprint selfref" style="text-align:center;background-color:#ddddff;padding:0.3em 0.5em;text-align:left;line-height:1.3;">
+<b>This article contains <a href="/wiki/International_Phonetic_Alphabet" title="International Phonetic Alphabet">IPA</a> phonetic symbols.</b> Without proper <a href="/wiki/Help:IPA#Rendering_issues" title="Help:IPA">rendering support</a>, you may see <a href="/wiki/Replacement_character" class="mw-redirect" title="Replacement character">question marks, boxes, or other symbols</a> instead of <a href="/wiki/Unicode" title="Unicode">Unicode</a> characters. For a guide to IPA symbols, see <a href="/wiki/Help:IPA" title="Help:IPA">Help:IPA</a>.</td></tr></tbody></table>
+<p><b>Auregnais</b>, <b>Aoeur'gnaeux</b> or <b>Aurignais</b> was the <a href="/wiki/Norman_language" title="Norman language">Norman</a> dialect of the <a href="/wiki/Channel_Islands" title="Channel Islands">Channel Island</a> of <a href="/wiki/Alderney" title="Alderney">Alderney</a> (<a href="/wiki/French_language" title="French language">French</a>: <i lang="fr">Aurigny</i>, Auregnais: <i>Aoeur'gny</i> or <i>Auregny</i>). It was closely related to the <a href="/wiki/Guern%C3%A9siais" title="Guernésiais">Guernésiais</a> (<a href="/wiki/Guernsey" title="Guernsey">Guernsey</a>), <a href="/wiki/J%C3%A8rriais" title="Jèrriais">Jèrriais</a> (<a href="/wiki/Jersey" title="Jersey">Jersey</a>), <a href="/wiki/Sercquiais" title="Sercquiais">Sercquiais</a> (<a href="/wiki/Sark" title="Sark">Sark</a>) dialects of the neighbouring islands, as well as <a href="/wiki/Norman_language" title="Norman language">Continental Norman</a> on the European mainland.
+</p><p>The dialect became extinct in the 20th century. Only a few examples of Auregnais survive, mostly in place names in Alderney, and one audio recording is known to exist. Linguists have called the disappearance of Auregnais "the worst documented case of recent <a href="/wiki/Language_death" title="Language death">language extinction</a>."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Surnames_and_place_names"><span class="tocnumber">2</span> <span class="toctext">Surnames and place names</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Les_Casquets"><span class="tocnumber">3</span> <span class="toctext">Les Casquets</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Auregnais&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The last known native speaker of Auregnais died around 1960.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Linguist <a href="/w/index.php?title=Frank_Le_Maistre&amp;action=edit&amp;redlink=1" class="new" title="Frank Le Maistre (page does not exist)">Frank Le Maistre</a>, author of the <i>Dictionnaire Jersiais-Français</i>, recorded the only known audio samples of the language, which he published in 1982.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>One reason for the extinction of the language was movement of the population. In particular, the influx of labourers from the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> employed by the British government in the construction of the abortive harbour project and other fortifications (during the reign of <a href="/wiki/Queen_Victoria" title="Queen Victoria">Queen Victoria</a>), as well as the stationing of a sizable British garrison among the small population, served to relegate Auregnais to a lesser status for communication. It is thought that the evacuation of nearly all indigenous Auregnais to the British mainland during <a href="/wiki/World_War_II" title="World War II">World War II</a> (the island was occupied by the <a href="/wiki/Wehrmacht" title="Wehrmacht">Wehrmacht</a>) was a major factor in the final loss of the spoken language. The language has suffered further losses in recent years due to an influx of people from <a href="/wiki/England" title="England">England</a> who have moved to the <a href="/wiki/Bailiwick_of_Guernsey" title="Bailiwick of Guernsey">Bailiwick</a> both for tax purposes and to fill the local skills gap.
+</p><p>Another reason for the language's demise was official neglect, especially in the education sector, where it was not taught at all. This led to a situation in which, as was noted by the Guernsey newspaper <i>Le Bailliage</i> in 1880, children had ceased to speak the language among themselves – partly due to teachers discouraging its use in favour of standard <a href="/wiki/French_language" title="French language">French</a>. However, along with the decline in Auregnais went the decline in the use of French. French ceased to be an <a href="/wiki/Official_language" title="Official language">official language</a> in the island in 1966. The official French used in the Channel Islands (see <a href="/wiki/Jersey_Legal_French" title="Jersey Legal French">Jersey Legal French</a>) differs slightly from <a href="/wiki/Metropolitan_French" class="mw-redirect" title="Metropolitan French">Metropolitan French</a> and greatly from the vernacular Norman.
+</p>
+<h2><span class="mw-headline" id="Surnames_and_place_names">Surnames and place names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Auregnais&amp;action=edit&amp;section=2" title="Edit section: Surnames and place names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Traces of the language still exist in many, if not most, local <a href="/wiki/Placename" class="mw-redirect" title="Placename">placenames</a>. Many of these have been gallicised, but some notable examples include <a href="/wiki/Ortac" title="Ortac">Ortac</a> (Or'tac), <a href="/wiki/Burhou" title="Burhou">Burhou</a> (with the <i><a href="/wiki/-hou" title="-hou">-hou</a></i> suffix) and the first element of the name "<a href="/wiki/Braye_Harbour" title="Braye Harbour"><i>Braye</i> Harbour</a>".
+</p><p>One or two words linger on in the local English, e.g. <i>vraic</i> (<a href="/wiki/Seaweed_fertiliser" title="Seaweed fertiliser">seaweed fertiliser</a> – a word common throughout the Channel Islands), and the pronunciation of certain local surnames, e.g. Dupont and Simon as <small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/French" title="Help:IPA/French">[dipõ]</a></span> and <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[symõ]</span> rather than the standard Parisian pronunciation. A few older people can still remember it being spoken, and know a word or two.
+</p>
+<h2><span class="mw-headline" id="Les_Casquets">Les Casquets</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Auregnais&amp;action=edit&amp;section=3" title="Edit section: Les Casquets">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Unusually, for such a small dialect, Auregnais used to have an exclave or "colony" of speakers on <a href="/wiki/Les_Casquets" title="Les Casquets">Les Casquets</a> for a number of years. <a href="/wiki/Algernon_Charles_Swinburne" title="Algernon Charles Swinburne">Algernon Charles Swinburne</a> based his poem <i>Les Casquets</i> on the Houguez family who actually lived on the islands for 18 years. The Houguez family came from Alderney, and the evidence points to its members being Auregnais speakers – in fact the daughter married a man from Alderney. During this time, they were isolated and would have had few visitors, but would have spoken Auregnais most of the time.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Auregnais&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Gunther, Wilf (1990). "Language conservancy or: can the anciently established British minority languages survive?". <a rel="nofollow" class="external text" href="https://books.google.com/books?id=3XG8aROt64QC&amp;pg=PA58"><i>Fourth International Conference on Minority Languages</i></a>. p.&#160;58<span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Language+conservancy+or%3A+can+the+anciently+established+British+minority+languages+survive%3F&amp;rft.btitle=Fourth+International+Conference+on+Minority+Languages&amp;rft.pages=58&amp;rft.date=1990&amp;rft.aulast=Gunther&amp;rft.aufirst=Wilf&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D3XG8aROt64QC%26pg%3DPA58&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAuregnais" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Satter, Raphael (4 Oct 2012). <a rel="nofollow" class="external text" href="https://www.thestar.com/news/world/2012/10/04/scottish_man_dies_taking_towns_unique_dialect_with_him.html">"Scottish man dies, taking town's unique dialect with him"</a>. <i><a href="/wiki/The_Toronto_Star" class="mw-redirect" title="The Toronto Star">The Toronto Star</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">30 September</span> 2015</span>. <q>The last native speaker of Alderney French, a Norman dialect spoken in the Channel Islands, died around 1960.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Toronto+Star&amp;rft.atitle=Scottish+man+dies%2C+taking+town%27s+unique+dialect+with+him&amp;rft.date=2012-10-04&amp;rft.aulast=Satter&amp;rft.aufirst=Raphael&amp;rft_id=https%3A%2F%2Fwww.thestar.com%2Fnews%2Fworld%2F2012%2F10%2F04%2Fscottish_man_dies_taking_towns_unique_dialect_with_him.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAuregnais" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Price, G. (2000), "Alderney French (Auregnais)" in <i>Encyclopedia of the Languages of Europe</i>, <a href="/wiki/Wiley-Blackwell" title="Wiley-Blackwell">Wiley-Blackwell</a>, New Ed edition, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0631220398" title="Special:BookSources/978-0631220398">978-0631220398</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Sallabank, Julia (2013). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=gQ-ZAgAAQBAJ&amp;pg=PA58"><i>Attitudes to Endangered Languages: Identities and Policies</i></a>. <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">Cambridge University Press</a>. pp.&#160;58–59<span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Attitudes+to+Endangered+Languages%3A+Identities+and+Policies&amp;rft.pages=58-59&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2013&amp;rft.aulast=Sallabank&amp;rft.aufirst=Julia&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DgQ-ZAgAAQBAJ%26pg%3DPA58&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAuregnais" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<dl><dt>Additional sources</dt></dl>
+<ul><li><cite class="citation journal">Jones, Mari C. (2015). "Auregnais: Insular Norman's Invisible Relative". <i>Transactions of the Philological Society</i>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1111%2F1467-968X.12060">10.1111/1467-968X.12060</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Transactions+of+the+Philological+Society&amp;rft.atitle=Auregnais%3A+Insular+Norman%27s+Invisible+Relative&amp;rft.date=2015&amp;rft_id=info%3Adoi%2F10.1111%2F1467-968X.12060&amp;rft.aulast=Jones&amp;rft.aufirst=Mari+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAuregnais" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li>Le Maistre, F. (1982), <i>The Language of Auregny</i> (cassette with accompanying 19-page booklet), St Helier, Jersey and St Anne, Alderney.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Auregnais&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></td>
+<td class="mbox-text plainlist">For a list of words relating to Auregnais, see the <a href="https://en.wiktionary.org/wiki/Category:Auregnais_language" class="extiw" title="wiktionary:Category:Auregnais language"><i><b>Auregnais language</b></i> category of words</a> in <a href="/wiki/Wiktionary" title="Wiktionary">Wiktionary</a>, the free dictionary.</td></tr></tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/40px-Wikipedia-logo-v2.svg.png" width="40" height="37" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/60px-Wikipedia-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/80px-Wikipedia-logo-v2.svg.png 2x" data-file-width="103" data-file-height="94" /></td>
+<td class="mbox-text plainlist"><i><b><a href="https://nrm.wikipedia.org/wiki/" class="extiw" title="nrm:"> Norman language (including Auregnais) edition</a></b></i> of <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>, the free encyclopedia</td></tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://members.societe-jersiaise.org/sdllj/aurgnais.html">vocabulary comparison examples</a> at L'Aur'gnais</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Norman_language" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Norman_language" title="Template:Norman language"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Norman_language" title="Template talk:Norman language"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Norman_language&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Norman_language" style="font-size:114%;margin:0 4em"><a href="/wiki/Norman_language" title="Norman language">Norman language</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Channel Island dialects</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Auregnais</a> (<a href="/wiki/Alderney" title="Alderney">Alderney</a>)</li>
+<li><a href="/wiki/Guern%C3%A9siais" title="Guernésiais">Guernésiais/Dgèrnésiais</a> (<a href="/wiki/Guernsey" title="Guernsey">Guernsey</a>)</li>
+<li><a href="/wiki/J%C3%A8rriais" title="Jèrriais">Jèrriais</a> (<a href="/wiki/Jersey" title="Jersey">Jersey</a>)</li>
+<li><a href="/wiki/Sercquiais" title="Sercquiais">Sercquiais/Sèrtchais</a> (<a href="/wiki/Sark" title="Sark">Sark</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Continental dialects</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Augeron" title="Augeron">Augeron</a> (<a href="/wiki/Pays_d%27Auge" title="Pays d&#39;Auge">Pays d'Auge</a>)</li>
+<li><a href="/wiki/Cauchois_dialect" title="Cauchois dialect">Cauchois</a> (<a href="/wiki/Pays_de_Caux" title="Pays de Caux">Pays de Caux</a>)</li>
+<li><a href="/wiki/Cotentinais" title="Cotentinais">Cotentinais</a> (<a href="/wiki/Cotentin_Peninsula" title="Cotentin Peninsula">Cotentin</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Historic and legal</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anglo-Norman_language" title="Anglo-Norman language">Anglo-Norman</a></li>
+<li><a href="/wiki/Jersey_Legal_French" title="Jersey Legal French">Jersey Legal French</a> (highly influenced by Jèrriais)</li>
+<li><a href="/wiki/Law_French" title="Law French">Law French</a></li>
+<li><a href="/wiki/Old_Norman" title="Old Norman">Old Norman</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Literature</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Norman_language_writers" class="mw-redirect" title="List of Norman language writers">List of Norman language writers</a></li>
+<li><a href="/wiki/J%C3%A8rriais_literature" title="Jèrriais literature">Jèrriais literature</a></li>
+<li><a href="/wiki/Anglo-Norman_literature" title="Anglo-Norman literature">Anglo-Norman literature</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="British_Isles" style="padding:3px"><table class="nowraplinks hlist collapsible uncollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:British_Isles" title="Template:British Isles"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:British_Isles" title="Template talk:British Isles"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:British_Isles&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="British_Isles" style="font-size:114%;margin:0 4em"><a href="/wiki/British_Isles" title="British Isles">British Isles</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Terminology&amp;#10;**_Alba&amp;#10;**_Albion&amp;#10;**_Prydain&amp;#10;**_Britain&amp;#10;**_Éire&amp;#10;**_Hibernia&amp;#10;*_Naming_dispute">
+<ul><li><a href="/wiki/Terminology_of_the_British_Isles" title="Terminology of the British Isles">Terminology</a>
+<ul><li><a href="/wiki/Alba" title="Alba">Alba</a></li>
+<li><a href="/wiki/Albion" title="Albion">Albion</a></li>
+<li><a href="/wiki/Prydain" title="Prydain">Prydain</a></li>
+<li><a href="/wiki/Britain_(place_name)" title="Britain (place name)">Britain</a></li>
+<li><a href="/wiki/%C3%89ire" title="Éire">Éire</a></li>
+<li><a href="/wiki/Hibernia" title="Hibernia">Hibernia</a></li></ul></li>
+<li><a href="/wiki/British_Isles_naming_dispute" title="British Isles naming dispute">Naming dispute</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_in_the_British_Isles" title="Politics in the British Isles">Politics</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:11.0em;font-weight: normal;"><a href="/wiki/Sovereign_state" title="Sovereign state">Sovereign states</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a></li>
+<li><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> (<a href="/wiki/England" title="England">England</a></li>
+<li><a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a></li>
+<li><a href="/wiki/Scotland" title="Scotland">Scotland</a></li>
+<li><a href="/wiki/Wales" title="Wales">Wales</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:11.0em;font-weight: normal;"><a href="/wiki/Crown_dependencies" title="Crown dependencies">Crown dependencies</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Guernsey" title="Guernsey">Guernsey</a></li>
+<li><a href="/wiki/Jersey" title="Jersey">Jersey</a></li>
+<li><a href="/wiki/Isle_of_Man" title="Isle of Man">Isle of Man</a></li>
+<li><a href="/wiki/Sark" title="Sark">Sark</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:11.0em;font-weight: normal;">Political cooperation</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ireland%E2%80%93United_Kingdom_relations" title="Ireland–United Kingdom relations">Ireland–United Kingdom relations</a></li>
+<li><a href="/wiki/British%E2%80%93Irish_Council" title="British–Irish Council">British–Irish Council</a></li>
+<li><a href="/wiki/British%E2%80%93Irish_Intergovernmental_Conference" title="British–Irish Intergovernmental Conference">British–Irish Intergovernmental Conference</a></li>
+<li><a href="/wiki/British%E2%80%93Irish_Parliamentary_Assembly" title="British–Irish Parliamentary Assembly">British–Irish Parliamentary Assembly</a></li>
+<li><a href="/wiki/Common_Travel_Area" title="Common Travel Area">Common Travel Area</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Geography</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:11.0em;font-weight: normal;">Island groups</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Channel_Islands" title="Channel Islands">Channel Islands</a></li>
+<li><a href="/wiki/Islands_of_the_Clyde" title="Islands of the Clyde">Islands of the Clyde</a></li>
+<li><a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a></li>
+<li><a href="/wiki/Hebrides" title="Hebrides">Hebrides</a>
+<ul><li><a href="/wiki/Inner_Hebrides" title="Inner Hebrides">Inner</a></li>
+<li><a href="/wiki/Outer_Hebrides" title="Outer Hebrides">Outer</a></li></ul></li>
+<li><a href="/wiki/Ireland" title="Ireland">Ireland</a></li>
+<li><a href="/wiki/Isle_of_Man" title="Isle of Man">Isle of Man</a></li>
+<li><a href="/wiki/Northern_Isles" title="Northern Isles">Northern Isles</a>
+<ul><li><a href="/wiki/Orkney" title="Orkney">Orkney</a></li>
+<li><a href="/wiki/Shetland" title="Shetland">Shetland</a></li></ul></li>
+<li><a href="/wiki/Isles_of_Scilly" title="Isles of Scilly">Isles of Scilly</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:11.0em;font-weight: normal;">Lists of islands of</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_islands_of_the_Bailiwick_of_Guernsey" title="List of islands of the Bailiwick of Guernsey">Bailiwick of Guernsey</a></li>
+<li><a href="/wiki/List_of_islands_of_Ireland" title="List of islands of Ireland">Ireland</a></li>
+<li><a href="/wiki/List_of_islands_of_the_Bailiwick_of_Jersey" title="List of islands of the Bailiwick of Jersey">Bailiwick of Jersey</a></li>
+<li><a href="/wiki/List_of_islands_of_the_Isle_of_Man" title="List of islands of the Isle of Man">Isle of Man</a></li>
+<li><a href="/wiki/List_of_islands_of_the_United_Kingdom" title="List of islands of the United Kingdom">United Kingdom</a>
+<ul><li><a href="/wiki/List_of_islands_of_England" title="List of islands of England">England</a></li>
+<li><a href="/wiki/List_of_islands_of_Scotland" title="List of islands of Scotland">Scotland</a></li>
+<li><a href="/wiki/List_of_islands_of_Wales" title="List of islands of Wales">Wales</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_the_British_Isles" title="History of the British Isles">History</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:11.0em;font-weight: normal;">Island groups</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_Ireland" title="History of Ireland">Ireland</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:11.0em;font-weight: normal;">Current states</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_the_Republic_of_Ireland" title="History of the Republic of Ireland">Ireland</a></li>
+<li><a href="/wiki/History_of_the_United_Kingdom" title="History of the United Kingdom">United Kingdom</a>
+<ul><li><a href="/wiki/History_of_England" title="History of England">England</a></li>
+<li><a href="/wiki/History_of_Northern_Ireland" title="History of Northern Ireland">Northern Ireland</a></li>
+<li><a href="/wiki/History_of_Scotland" title="History of Scotland">Scotland</a></li>
+<li><a href="/wiki/History_of_Wales" title="History of Wales">Wales</a></li></ul></li>
+<li><a href="/wiki/History_of_Guernsey" title="History of Guernsey">Guernsey</a></li>
+<li><a href="/wiki/History_of_Jersey" title="History of Jersey">Jersey</a></li>
+<li><a href="/wiki/History_of_the_Isle_of_Man" title="History of the Isle of Man">Isle of Man</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:11.0em;font-weight: normal;">Former states</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Irish_Free_State" title="Irish Free State">Irish Free State</a></li>
+<li><a href="/wiki/Kingdom_of_England" title="Kingdom of England">Kingdom of England</a>
+<ul><li><a href="/wiki/Principality_of_Wales" title="Principality of Wales">Principality of Wales</a></li></ul></li>
+<li><a href="/wiki/Kingdom_of_Great_Britain" title="Kingdom of Great Britain">Kingdom of Great Britain</a></li>
+<li><a href="/wiki/Kingdom_of_Ireland" title="Kingdom of Ireland">Kingdom of Ireland</a></li>
+<li><a href="/wiki/Kingdom_of_Scotland" title="Kingdom of Scotland">Kingdom of Scotland</a></li>
+<li><a href="/wiki/United_Kingdom_of_Great_Britain_and_Ireland" title="United Kingdom of Great Britain and Ireland">United Kingdom of Great Britain and Ireland</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Society</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:11.0em;font-weight: normal;">Modern languages</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight: normal;"><a href="/wiki/Germanic_languages" title="Germanic languages">Germanic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/English_language" title="English language">English</a></li>
+<li><a href="/wiki/Scots_language" title="Scots language">Scots</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight: normal;"><a href="/wiki/Celtic_languages" title="Celtic languages">Celtic</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cornish_language" title="Cornish language">Cornish</a></li>
+<li><a href="/wiki/Scottish_Gaelic" title="Scottish Gaelic">Scottish Gaelic</a></li>
+<li><a href="/wiki/Irish_language" title="Irish language">Irish</a></li>
+<li><a href="/wiki/Manx_language" title="Manx language">Manx</a></li>
+<li><a href="/wiki/Welsh_language" title="Welsh language">Welsh</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight: normal;"><a href="/wiki/Romance_languages" title="Romance languages">Romance</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Auregnais</a></li>
+<li><a href="/wiki/French_language" title="French language">French</a></li>
+<li><a href="/wiki/Guern%C3%A9siais" title="Guernésiais">Guernésiais</a></li>
+<li><a href="/wiki/J%C3%A8rriais" title="Jèrriais">Jèrriais</a></li>
+<li><a href="/wiki/Sercquiais" title="Sercquiais">Sercquiais</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight: normal;">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/British_Sign_Language" title="British Sign Language">British Sign Language</a></li>
+<li><a href="/wiki/Irish_Sign_Language" title="Irish Sign Language">Irish Sign Language</a></li>
+<li><a href="/wiki/Northern_Ireland_Sign_Language" title="Northern Ireland Sign Language">Northern Ireland Sign Language</a></li>
+<li><a href="/wiki/Shelta" title="Shelta">Shelta</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:11.0em;font-weight: normal;">People</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/British_people" title="British people">British</a></li>
+<li><a href="/wiki/Cornish_people" title="Cornish people">Cornish</a></li>
+<li><a href="/wiki/English_people" title="English people">English</a></li>
+<li><a href="/wiki/Romanichal" title="Romanichal">English Gypsies</a></li>
+<li><a href="/wiki/Irish_people" title="Irish people">Irish</a></li>
+<li><a href="/wiki/Irish_Travellers" title="Irish Travellers">Irish Travellers</a></li>
+<li><a href="/wiki/Kale_(Welsh_Romanies)" title="Kale (Welsh Romanies)">Kale</a></li>
+<li><a href="/wiki/Manx_people" title="Manx people">Manx</a></li>
+<li><a href="/wiki/People_of_Northern_Ireland" title="People of Northern Ireland">Northern Irish</a></li>
+<li><a href="/wiki/Scottish_people" title="Scottish people">Scottish</a></li>
+<li><a href="/wiki/Ulster_Scots_people" title="Ulster Scots people">Ulster-Scots</a></li>
+<li><a href="/wiki/Welsh_people" title="Welsh people">Welsh</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:British_Isles" title="Category:British Isles">Category</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:British_Isles" class="extiw" title="commons:Category:British Isles">Commons</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:British_Isles" title="Portal:British Isles">Portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2166
+Cached time: 20180929134555
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.400 seconds
+Real time usage: 0.551 seconds
+Preprocessor visited node count: 2579/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 86035/2097152 bytes
+Template argument size: 3101/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 10310/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.218/10.000 seconds
+Lua memory usage: 11.63 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  470.135      1 -total
+ 28.01%  131.689      1 Template:Lang-fr
+ 26.01%  122.279      1 Template:Reflist
+ 21.58%  101.459      1 Template:Infobox_language
+ 14.21%   66.824      2 Template:Cite_book
+ 13.42%   63.085      1 Template:Infobox
+ 11.02%   51.789      7 Template:Navbox
+  9.12%   42.872      1 Template:British_Isles
+  6.44%   30.291      1 Template:Cite_journal
+  5.86%   27.568      1 Template:ISBN
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2210824-0!canonical and timestamp 20180929134554 and revision id 857499812
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Auregnais&amp;oldid=857499812">https://en.wikipedia.org/w/index.php?title=Auregnais&amp;oldid=857499812</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Alderney" title="Category:Alderney">Alderney</a></li><li><a href="/wiki/Category:Norman_language" title="Category:Norman language">Norman language</a></li><li><a href="/wiki/Category:Extinct_Romance_languages" title="Category:Extinct Romance languages">Extinct Romance languages</a></li><li><a href="/wiki/Category:Extinct_languages_of_Europe" title="Category:Extinct languages of Europe">Extinct languages of Europe</a></li><li><a href="/wiki/Category:Languages_extinct_in_the_20th_century" title="Category:Languages extinct in the 20th century">Languages extinct in the 20th century</a></li><li><a href="/wiki/Category:Languages_of_the_Channel_Islands" title="Category:Languages of the Channel Islands">Languages of the Channel Islands</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Languages_without_Glottolog_code" title="Category:Languages without Glottolog code">Languages without Glottolog code</a></li><li><a href="/wiki/Category:Dialects_of_languages_with_ISO_639-3_code" title="Category:Dialects of languages with ISO 639-3 code">Dialects of languages with ISO 639-3 code</a></li><li><a href="/wiki/Category:Languages_without_ISO_639-3_code_but_with_Linguasphere_code" title="Category:Languages without ISO 639-3 code but with Linguasphere code">Languages without ISO 639-3 code but with Linguasphere code</a></li><li><a href="/wiki/Category:Language_articles_with_unreferenced_extinction_date" title="Category:Language articles with unreferenced extinction date">Language articles with unreferenced extinction date</a></li><li><a href="/wiki/Category:Articles_containing_French-language_text" title="Category:Articles containing French-language text">Articles containing French-language text</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Auregnais" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Auregnais" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Auregnais" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Auregnais" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Auregnais">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Auregnais&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Auregnais&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Auregnais" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Auregnais" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Auregnais&amp;oldid=857499812" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Auregnais&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2085566" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Auregnais&amp;id=857499812" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Auregnais">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Auregnais&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Auregnais&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Auregnais" title="Auregnais – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%88%D8%B1%D8%BA%D9%86%D9%8A%D9%87" title="أورغنيه – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Aldernezeg" title="Aldernezeg – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Auregnais" title="Auregnais – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Auregnais" title="Auregnais – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Auregnais" title="Auregnais – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AB%E3%83%80%E3%83%8B%E3%83%BC%E8%AA%9E" title="オルダニー語 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/Aoeur%27gnaeux" title="Aoeur&#039;gnaeux – Norman" lang="nrm" hreflang="nrm" class="interlanguage-link-target">Nouormand</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Auregnais" title="Auregnais – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D0%B4%D0%B5%D1%80%D0%BD%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B8%D0%B0%D0%BB%D0%B5%D0%BA%D1%82_%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0" title="Олдернийский диалект нормандского языка – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Auregnais" title="Auregnais – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Auregnais" title="Auregnais – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Alderney%C5%A1%C4%8Dina" title="Alderneyščina – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Oldernijski_dijalekt" title="Oldernijski dijalekt – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2085566#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 1 September 2018, at 01:53<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Auregnais&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.400","walltime":"0.551","ppvisitednodes":{"value":2579,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":86035,"limit":2097152},"templateargumentsize":{"value":3101,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":10310,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  470.135      1 -total"," 28.01%  131.689      1 Template:Lang-fr"," 26.01%  122.279      1 Template:Reflist"," 21.58%  101.459      1 Template:Infobox_language"," 14.21%   66.824      2 Template:Cite_book"," 13.42%   63.085      1 Template:Infobox"," 11.02%   51.789      7 Template:Navbox","  9.12%   42.872      1 Template:British_Isles","  6.44%   30.291      1 Template:Cite_journal","  5.86%   27.568      1 Template:ISBN"]},"scribunto":{"limitreport-timeusage":{"value":"0.218","limit":"10.000"},"limitreport-memusage":{"value":12198448,"limit":52428800}},"cachereport":{"origin":"mw2166","timestamp":"20180929134555","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":75,"wgHostname":"mw2230"});});</script>
+	</body>
+</html>

@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Young British Artists - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Young_British_Artists","wgTitle":"Young British Artists","wgCurRevisionId":854940501,"wgRevisionId":854940501,"wgArticleId":158384,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","EngvarB from May 2016","Use dmy dates from May 2016","All articles with unsourced statements","Articles with unsourced statements from November 2010","All articles with dead external links","Articles with dead external links from December 2017","Articles with permanently dead external links","British artist groups and collectives","British contemporary artists","Young British Artists"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Young_British_Artists","wgRelevantArticleId":158384,"wgRequestId":"W6@LUQrAADIAAJXoPrQAAAAM","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q516316","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/8/8a/Collishaw_bullet-hole.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Young_British_Artists"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Young_British_Artists&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Young_British_Artists&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Young_British_Artists"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Young_British_Artists rootpage-Young_British_Artists skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Young British Artists</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Collishaw_bullet-hole.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/Collishaw_bullet-hole.jpg/220px-Collishaw_bullet-hole.jpg" width="220" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/Collishaw_bullet-hole.jpg/330px-Collishaw_bullet-hole.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/8/8a/Collishaw_bullet-hole.jpg 2x" data-file-width="340" data-file-height="253" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Collishaw_bullet-hole.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Mat_Collishaw" title="Mat Collishaw">Mat Collishaw</a> <i><a href="/wiki/Bullet_Hole" title="Bullet Hole">Bullet Hole</a></i> which was on display in the <a href="/wiki/Freeze_(exhibition)" class="mw-redirect" title="Freeze (exhibition)">Freeze</a> exhibition.</div></div></div>
+<p>The <b>Young British Artists</b>, or <b>YBAs</b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>—also referred to as <b>Brit artists</b> and <b>Britart</b>—is the name given to a loose group of visual artists who first began to exhibit together in London, in 1988. Many of the first generation of YBA artists graduated from the BA Fine Art course at <a href="/wiki/Goldsmiths" class="mw-redirect" title="Goldsmiths">Goldsmiths</a>, in the late 1980s, the second rather from the <a href="/wiki/Royal_College_of_Art" title="Royal College of Art">Royal College of Art</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>The scene began around a series of artist-led exhibitions held in warehouses and factories, beginning in 1988 with the Damien Hirst-led <i><a href="/wiki/Freeze_(exhibition)" class="mw-redirect" title="Freeze (exhibition)">Freeze</a></i> and, in 1990, <i><a href="/wiki/East_Country_Yard_Show" title="East Country Yard Show">East Country Yard Show</a></i> and <i><a href="/wiki/Modern_Medicine_(exhibition)" class="mw-redirect" title="Modern Medicine (exhibition)">Modern Medicine</a></i>. However, there was a less prominent predecessor organized by artist <a href="/wiki/Angus_Fairhurst" title="Angus Fairhurst">Angus Fairhurst</a>, featuring himself, <a href="/wiki/Damien_Hirst" title="Damien Hirst">Damien Hirst</a>, <a href="/wiki/Abigail_Lane" title="Abigail Lane">Abigail Lane</a>, and <a href="/wiki/Mat_Collishaw" title="Mat Collishaw">Mat Collishaw</a> in a little show called "Progress by Degree" at the Bloomsbury Gallery of the <a href="/wiki/University_of_London" title="University of London">University of London</a> (Institute of Education)shortly before Freeze.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>They are noted for "shock tactics", use of throwaway materials, wild-living, and an attitude "both oppositional and entrepreneurial".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> They achieved considerable media coverage and dominated British art during the 1990s—international survey shows in the mid-1990s included <i><a href="/wiki/Brilliant!" title="Brilliant!">Brilliant!</a></i> and <i><a href="/wiki/Sensation_(exhibition)" class="mw-redirect" title="Sensation (exhibition)">Sensation</a></i>.
+</p><p>Many of the artists were initially supported and collected by <a href="/wiki/Charles_Saatchi" title="Charles Saatchi">Charles Saatchi</a>, a notable exception is <a href="/wiki/Angus_Fairhurst" title="Angus Fairhurst">Angus Fairhurst</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Leading artists of the group include <a href="/wiki/Damien_Hirst" title="Damien Hirst">Damien Hirst</a> and <a href="/wiki/Tracey_Emin" title="Tracey Emin">Tracey Emin</a>. Key works include Hirst's <i><a href="/wiki/The_Physical_Impossibility_of_Death_in_the_Mind_of_Someone_Living" title="The Physical Impossibility of Death in the Mind of Someone Living">The Physical Impossibility of Death in the Mind of Someone Living</a></i>, a shark preserved in <a href="/wiki/Formaldehyde" title="Formaldehyde">formaldehyde</a> in a <a href="/wiki/Display_case" title="Display case">vitrine</a>, and Emin's <i><a href="/wiki/My_Bed" title="My Bed">My Bed</a></i>, a dishevelled double bed surrounded by detritus.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>The first use of the term "young British artists" was not by <a href="/wiki/Michael_Corris" title="Michael Corris">Michael Corris</a> in a footnote in <i><a href="/wiki/ArtForum" class="mw-redirect" title="ArtForum">ArtForum</a></i>, May 1992,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> as Saatchi entitled his exhibition as "Young British Artists I" already in March 1992.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> The acronym term "YBA" (or "yBa") was not coined until 1994.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> It has become a historic term, as most of the YBAs were born in the mid-1960s.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Origin"><span class="tocnumber">1</span> <span class="toctext">Origin</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#YBA_Artists"><span class="tocnumber">1.1</span> <span class="toctext">YBA Artists</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Freeze"><span class="tocnumber">1.2</span> <span class="toctext">Freeze</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Other_shows"><span class="tocnumber">1.3</span> <span class="toctext">Other shows</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Revitalization_of_British_art_scene"><span class="tocnumber">2</span> <span class="toctext">Revitalization of British art scene</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Charles_Saatchi&#39;s_involvement"><span class="tocnumber">2.1</span> <span class="toctext">Charles Saatchi's involvement</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Becoming_the_establishment"><span class="tocnumber">3</span> <span class="toctext">Becoming the establishment</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#The_YBAs_since_1997"><span class="tocnumber">4</span> <span class="toctext">The YBAs since 1997</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Elected_Royal_Academicians"><span class="tocnumber">4.1</span> <span class="toctext">Elected Royal Academicians</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Doctorates"><span class="tocnumber">4.2</span> <span class="toctext">Doctorates</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Reaction"><span class="tocnumber">5</span> <span class="toctext">Reaction</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Positive"><span class="tocnumber">5.1</span> <span class="toctext">Positive</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Negative"><span class="tocnumber">5.2</span> <span class="toctext">Negative</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Feminism_within_the_YBAs"><span class="tocnumber">5.3</span> <span class="toctext">Feminism within the YBAs</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Artists_exhibited_in_Freeze"><span class="tocnumber">6</span> <span class="toctext">Artists exhibited in <i>Freeze</i></span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Artists_exhibited_in_Brilliant!"><span class="tocnumber">7</span> <span class="toctext">Artists exhibited in <i>Brilliant!</i></span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Other_YBAs"><span class="tocnumber">8</span> <span class="toctext">Other YBAs</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Origin">Origin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_British_Artists&amp;action=edit&amp;section=1" title="Edit section: Origin">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="YBA_Artists">YBA Artists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_British_Artists&amp;action=edit&amp;section=2" title="Edit section: YBA Artists">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Goldsmiths_College_Millard_Building.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Goldsmiths_College_Millard_Building.jpg/220px-Goldsmiths_College_Millard_Building.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Goldsmiths_College_Millard_Building.jpg/330px-Goldsmiths_College_Millard_Building.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Goldsmiths_College_Millard_Building.jpg/440px-Goldsmiths_College_Millard_Building.jpg 2x" data-file-width="2816" data-file-height="2112" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Goldsmiths_College_Millard_Building.jpg" class="internal" title="Enlarge"></a></div>Goldsmiths College, Millard Building, in Camberwell, where many of the YBAs met on the BA Fine Art, in the late 1980s</div></div></div>
+<p>The core of the YBA group graduated from the <a href="/wiki/Goldsmiths" class="mw-redirect" title="Goldsmiths">Goldsmiths</a> BA Fine Art degree course in the classes of 1987–90. <a href="/wiki/Liam_Gillick" title="Liam Gillick">Liam Gillick</a>, <a href="/wiki/Fiona_Rae" title="Fiona Rae">Fiona Rae</a>, <a href="/wiki/Stephen_Park" title="Stephen Park">Steve Park</a> and <a href="/wiki/Sarah_Lucas" title="Sarah Lucas">Sarah Lucas</a>, were graduates in the class of 1987. <a href="/wiki/Ian_Davenport" title="Ian Davenport">Ian Davenport</a>, <a href="/wiki/Michael_Landy" title="Michael Landy">Michael Landy</a>, <a href="/wiki/Gary_Hume" title="Gary Hume">Gary Hume</a>, <a href="/wiki/Anya_Gallaccio" title="Anya Gallaccio">Anya Gallaccio</a>, <a href="/wiki/Lala_Meredith-Vula" title="Lala Meredith-Vula">Lala Meredith-Vula</a>, <a href="/wiki/Henry_Bond" title="Henry Bond">Henry Bond</a>, <a href="/wiki/Angela_Bulloch" title="Angela Bulloch">Angela Bulloch</a>, and <a href="/wiki/Nick_Fudge" title="Nick Fudge">Nick Fudge</a>, were graduates in the class of 1988; <a href="/wiki/Damien_Hirst" title="Damien Hirst">Damien Hirst</a>, <a href="/wiki/Angus_Fairhurst" title="Angus Fairhurst">Angus Fairhurst</a>, <a href="/wiki/Mat_Collishaw" title="Mat Collishaw">Mat Collishaw</a>, <a href="/wiki/Simon_Patterson_(artist)" title="Simon Patterson (artist)">Simon Patterson</a>, and <a href="/wiki/Abigail_Lane" title="Abigail Lane">Abigail Lane</a>, were graduates from the class of 1989; whilst <a href="/wiki/Gillian_Wearing" title="Gillian Wearing">Gillian Wearing</a>, and <a href="/wiki/Sam_Taylor-Wood" class="mw-redirect" title="Sam Taylor-Wood">Sam Taylor-Wood</a>, were graduates from the class of 1990. During the years 1987–1990, the teaching staff on the Goldsmiths BA Fine Art included <a href="/wiki/Jon_Thompson" title="Jon Thompson">Jon Thompson</a>, <a href="/wiki/Richard_Wentworth_(artist)" title="Richard Wentworth (artist)">Richard Wentworth</a>, <a href="/wiki/Michael_Craig-Martin" title="Michael Craig-Martin">Michael Craig-Martin</a>, <a href="/wiki/Ian_Jeffrey" title="Ian Jeffrey">Ian Jeffrey</a>, <a href="/wiki/Helen_Chadwick" title="Helen Chadwick">Helen Chadwick</a>, <a href="/wiki/Mark_Wallinger" title="Mark Wallinger">Mark Wallinger</a>, Judith Cowan and <a href="/wiki/Glen_Baxter_(cartoonist)" title="Glen Baxter (cartoonist)">Glen Baxter</a>.
+</p><p><a href="/wiki/Gavin_Turk" title="Gavin Turk">Gavin Turk</a> is also part of the YBA group of artists. Turk studied at <a href="/wiki/Chelsea_School_of_Art" class="mw-redirect" title="Chelsea School of Art">Chelsea School of Art</a> from 1986 to 1989, and at the <a href="/wiki/Royal_College_of_Art" title="Royal College of Art">Royal College of Art</a> from 1989 to 1991. Turk exhibited work in the Saatchi <i>Sensation</i> exhibition at the Royal Academy.
+</p>
+<h3><span class="mw-headline" id="Freeze">Freeze</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_British_Artists&amp;action=edit&amp;section=3" title="Edit section: Freeze">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Freeze_(exhibition)" class="mw-redirect" title="Freeze (exhibition)">Freeze (exhibition)</a></div>
+<p>A group of sixteen <a href="/wiki/Goldsmiths" class="mw-redirect" title="Goldsmiths">Goldsmiths</a> students took part in a group exhibition of art, called <i><a href="/wiki/Freeze_(exhibition)" class="mw-redirect" title="Freeze (exhibition)">Freeze</a></i>, of which <a href="/wiki/Damien_Hirst" title="Damien Hirst">Damien Hirst</a> became the main organiser; he was still in the second year of a BA in Fine Art.
+</p><p>Commercial galleries had shown a lack of interest in the project, and it was held in a cheap non-art space, a <a href="/wiki/London_Docklands" title="London Docklands">London Docklands</a> admin block (usually referred to as a warehouse).  The event resonated with the '<a href="/wiki/Acid_House" class="mw-redirect" title="Acid House">Acid House</a>' warehouse <a href="/wiki/Rave" title="Rave">rave</a> scene prevalent at the time, but did not achieve any major press exposure. One of its effects was to set an example of artist-as-curator—in the mid-1990s artist-run exhibition spaces and galleries became a feature of the London arts scene.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Other_shows">Other shows</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_British_Artists&amp;action=edit&amp;section=4" title="Edit section: Other shows">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/East_Country_Yard_Show" title="East Country Yard Show">East Country Yard Show</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:East_Country_Yard_Show_small.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e5/East_Country_Yard_Show_small.png/220px-East_Country_Yard_Show_small.png" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/e/e5/East_Country_Yard_Show_small.png 1.5x" data-file-width="282" data-file-height="211" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:East_Country_Yard_Show_small.png" class="internal" title="Enlarge"></a></div>View of <i><a href="/wiki/East_Country_Yard_Show" title="East Country Yard Show">East Country Yard Show</a></i> with <a href="/wiki/Anya_Gallaccio" title="Anya Gallaccio">Anya Gallaccio</a>'s installation in foreground, 1990.</div></div></div><p>In liaison with Hirst, <a href="/wiki/Carl_Freedman" title="Carl Freedman">Carl Freedman</a> (who had been friends with him in <a href="/wiki/Leeds" title="Leeds">Leeds</a> before Hirst moved to London and was helping to make Hirst's vitrines) and Billee Sellman then curated two influential "warehouse" shows in 1990, <i><a href="/wiki/Modern_Medicine_(art_exhibition)" title="Modern Medicine (art exhibition)">Modern Medicine</a></i> and <i>Gambler</i>, in a Bermondsey former factory they designated Building One. To stage <i>Modern Medicine</i> they raised £1,000 sponsorships from artworld figures including <a href="/wiki/Charles_Saatchi" title="Charles Saatchi">Charles Saatchi</a>. Freedman has spoken openly about the self-fulfilling prophecy these sponsors helped to create, and also commented that not many people attended these early shows, including <i>Freeze</i>.
+In 1990, Henry Bond and Sarah Lucas organised the <i><a href="/wiki/East_Country_Yard_Show" title="East Country Yard Show">East&#160;Country&#160;Yard&#160;Show</a></i> in a disused warehouse in <a href="/wiki/London_Docklands" title="London Docklands">London Docklands</a> which was installed over four floors and 16,000m<sup>2</sup> of exhibition space. Writing in <a href="/wiki/The_Independent" title="The Independent">The Independent</a>, art critic <a href="/wiki/Andrew_Graham-Dixon" title="Andrew Graham-Dixon">Andrew Graham-Dixon</a> said:</p><blockquote><p>"Goldsmiths graduates are unembarrassed about promoting themselves and their work: some of the most striking exhibitions in London over the past few months—"The East Country Yard Show", or "Gambler", both staged in docklands—have been independently organized and funded by Goldsmiths graduates as showcases for their work. This has given them a reputation for pushiness, yet it should also be said that in terms of ambition, attention to display and sheer bravado there has been little to match such shows in the country's established contemporary art institutions. They were far superior, for instance, to any of the contemporary art shows that have been staged by the Liverpool Tate in its own multi-million-pound dockland site."<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup></p></blockquote>
+<p>Established alternative spaces such as <a href="/wiki/City_Racing" title="City Racing">City Racing</a> at the Oval in London and Milch gave many artists their first exposure. There was much embryonic activity in the <a href="/wiki/Hoxton" title="Hoxton">Hoxton</a>/<a href="/wiki/Shoreditch" title="Shoreditch">Shoreditch</a> area of East London focused on <a href="/wiki/Joshua_Compston" title="Joshua Compston">Joshua Compston</a>'s gallery. In 1991, the <a href="/wiki/Serpentine_Gallery" class="mw-redirect" title="Serpentine Gallery">Serpentine Gallery</a> presented a survey of this group of artists with the exhibition <i>Broken English</i>. In 1992, Charles Saatchi staged a series of exhibitions of <i>Young British Art</i>, the first show included works by <a href="/wiki/Sarah_Lucas" title="Sarah Lucas">Sarah Lucas</a>, <a href="/wiki/Rachel_Whiteread" title="Rachel Whiteread">Rachel Whiteread</a> and <a href="/wiki/Damien_Hirst" title="Damien Hirst">Damien Hirst</a>.
+</p><p>A second wave of Young British Artists appeared in 1992–1993 through exhibitions such as 'New Contemporaries', 'New British Summertime' and 'Minky Manky' (curated by Carl Freedman). This included <a href="/wiki/Douglas_Gordon" title="Douglas Gordon">Douglas Gordon</a>, <a href="/wiki/Christine_Borland" title="Christine Borland">Christine Borland</a>, <a href="/wiki/Fiona_Banner" title="Fiona Banner">Fiona Banner</a>, <a href="/wiki/Tracey_Emin" title="Tracey Emin">Tracey Emin</a>, <a href="/wiki/Tacita_Dean" title="Tacita Dean">Tacita Dean</a>, <a href="/wiki/Georgina_Starr" title="Georgina Starr">Georgina Starr</a> and <a href="/wiki/Jane_and_Louise_Wilson" title="Jane and Louise Wilson">Jane and Louise Wilson</a>. One exhibition which included several of the YBA artists was the 1995 quin-annual <a href="/wiki/British_Art_Show" title="British Art Show">British Art Show</a>.
+</p>
+<h2><span class="mw-headline" id="Revitalization_of_British_art_scene">Revitalization of British art scene</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_British_Artists&amp;action=edit&amp;section=5" title="Edit section: Revitalization of British art scene">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Young British Artists revitalised (and in some cases spawned) a whole new generation of contemporary commercial galleries such as <a href="/wiki/Karsten_Schubert_Gallery" class="mw-redirect" title="Karsten Schubert Gallery">Karsten Schubert</a>, <a href="/wiki/Sadie_Coles" title="Sadie Coles">Sadie Coles</a>, <a href="/wiki/Victoria_Miro_Gallery" title="Victoria Miro Gallery">Victoria Miro</a>, <a href="/wiki/Maureen_Paley" title="Maureen Paley">Maureen Paley</a>'s <a href="/wiki/Interim_Art" class="mw-redirect" title="Interim Art">Interim Art</a>, and <a href="/wiki/Jay_Jopling" title="Jay Jopling">Jay Jopling</a>'s <a href="/wiki/White_Cube" title="White Cube">White Cube</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> The spread of interest improved the market for contemporary British art magazines through increased advertising and circulation. <i><a href="/wiki/Frieze_(magazine)" title="Frieze (magazine)">Frieze</a></i> launched in 1991 embraced the YBAs from the start while established publications such as <i>Art Monthly</i>, <i>Art Review</i>, <i>Modern Painters</i> and <i>Contemporary Art</i> were all re-launched with more focus on emerging British artists.
+</p>
+<h3><span id="Charles_Saatchi.27s_involvement"></span><span class="mw-headline" id="Charles_Saatchi's_involvement">Charles Saatchi's involvement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_British_Artists&amp;action=edit&amp;section=6" title="Edit section: Charles Saatchi&#039;s involvement">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hirst-Shark.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/3/38/Hirst-Shark.jpg/220px-Hirst-Shark.jpg" width="220" height="144" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/3/38/Hirst-Shark.jpg/330px-Hirst-Shark.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/3/38/Hirst-Shark.jpg 2x" data-file-width="389" data-file-height="255" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Hirst-Shark.jpg" class="internal" title="Enlarge"></a></div><i><a href="/wiki/The_Physical_Impossibility_of_Death_in_the_Mind_of_Someone_Living" title="The Physical Impossibility of Death in the Mind of Someone Living">The Physical Impossibility of Death in the Mind of Someone Living</a></i> by <a href="/wiki/Damien_Hirst" title="Damien Hirst">Damien Hirst</a> (1991). An iconic work of the YBA art scene.</div></div></div>
+<p>One of the visitors to <i><a href="/wiki/Freeze_(art_exhibition)" title="Freeze (art exhibition)">Freeze</a></i> was <a href="/wiki/Charles_Saatchi" title="Charles Saatchi">Charles Saatchi</a>, a major contemporary art collector and co-founder of <a href="/wiki/Saatchi_and_Saatchi" class="mw-redirect" title="Saatchi and Saatchi">Saatchi and Saatchi</a>, the London advertising agency. Saatchi then visited <i>Gambler</i> in a green Rolls Royce and, according to Freedman, stood open-mouthed with astonishment in front of (and then bought) Hirst's first major "animal" installation, <i>A Thousand Years</i>, consisting of a large glass case containing maggots and flies feeding off a rotting cow's head. (The installation was later a notable feature of the <i><a href="/wiki/Sensation_exhibition" class="mw-redirect" title="Sensation exhibition">Sensation</a></i> exhibition.)
+</p><p>Saatchi became not only Hirst's main collector, but also the main sponsor for other YBAs–a fact openly acknowledged by Gavin Turk. The contemporary art market in London had dramatically collapsed in mid-1990 due to a major economic recession, and many commercial contemporary galleries had gone out of business. Saatchi had until this time collected mostly American and German contemporary art, some by young artists, but most by already established ones.
+</p><p>His collection was publicly exhibited in a series of shows in a large converted paint factory building in St John's Wood, north London. Saatchi's Gallery inspired young artists to produce large concept artworks that would not fit in the usually small galleries in London at that time.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> Previous <a href="/wiki/Saatchi_Gallery" title="Saatchi Gallery">Saatchi Gallery</a> shows had included such major figures as <a href="/wiki/Andy_Warhol" title="Andy Warhol">Warhol</a>, <a href="/wiki/Philip_Guston" title="Philip Guston">Guston</a>, <a href="/wiki/Alex_Katz" title="Alex Katz">Alex Katz</a>, <a href="/wiki/Richard_Serra" title="Richard Serra">Serra</a>, <a href="/wiki/Anselm_Kiefer" title="Anselm Kiefer">Kiefer</a>, <a href="/wiki/Sigmar_Polke" title="Sigmar Polke">Polke</a>, <a href="/wiki/Gerhard_Richter" title="Gerhard Richter">Richter</a> and many more. In the early-1990s, Saatchi altered his focus to emerging British art.
+</p><p>Saatchi put on a series of shows called "Young British Artists" starting in 1992, when a noted exhibit was Damien Hirst's "shark" (<i><a href="/wiki/The_Physical_Impossibility_of_Death_in_the_Mind_of_Someone_Living" title="The Physical Impossibility of Death in the Mind of Someone Living">The Physical Impossibility of Death in the Mind of Someone Living</a></i>), which became the iconic work of British art in the 1990s,<sup id="cite_ref-brooks_15-0" class="reference"><a href="#cite_note-brooks-15">&#91;15&#93;</a></sup> and the symbol of Britart worldwide.<sup id="cite_ref-davies_16-0" class="reference"><a href="#cite_note-davies-16">&#91;16&#93;</a></sup> In addition to (and as a direct result of) Saatchi's patronage, the Young British Artists benefited from intense media coverage. This was augmented by controversy surrounding the annual <a href="/wiki/Turner_Prize" title="Turner Prize">Turner Prize</a>, (one of Britain's few major awards for contemporary artists), which had several of the artists as nominees or winners. <a href="/wiki/Channel_4" title="Channel 4">Channel 4</a> had become a sponsor of the competition, leading to television profiles of the artists in prime-time slots.
+</p>
+<h2><span class="mw-headline" id="Becoming_the_establishment">Becoming the establishment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_British_Artists&amp;action=edit&amp;section=7" title="Edit section: Becoming the establishment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The consolidation of the artists' status began in 1995 with a large-scale group exhibition <a href="/wiki/Brilliant!" title="Brilliant!">Brilliant!</a> held at the <a href="/wiki/Walker_Art_Center" title="Walker Art Center">Walker Art Center</a> a respected <a href="/wiki/Art_museum" title="Art museum">art museum</a> in Minneapolis, USA. The term "yBa" was already used in 1994<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> and later used by Simon Ford in a feature "Myth Making" in March 1996 in <i><a href="/wiki/Art_Monthly" title="Art Monthly">Art Monthly</a></i> magazine.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p><p>Art dealer <a href="/wiki/Jay_Jopling" title="Jay Jopling">Jay Jopling</a> began to represent YBAs Jake &amp; Dinos Chapman, Tracey Emin, <a href="/wiki/Marcus_Harvey" title="Marcus Harvey">Marcus Harvey</a>, Damien Hirst, <a href="/wiki/Gary_Hume" title="Gary Hume">Gary Hume</a>, <a href="/wiki/Marc_Quinn" title="Marc Quinn">Marc Quinn</a> and Sam Taylor-Wood, whom he married in 1998. Before Jopling, Karsten Schubert was the most important dealer of artists that were later called YBAs. Shortly after Freeze he exhibited Ian Davenport, <a href="/wiki/Gary_Hume" title="Gary Hume">Gary Hume</a>, and <a href="/wiki/Michael_Landy" title="Michael Landy">Michael Landy</a> in November 1988, who all exhibited in Freeze, in his gallery.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p><p>In 1997, the <a href="/wiki/Royal_Academy" class="mw-redirect" title="Royal Academy">Royal Academy</a>, staged an exhibition of the private art collection of <a href="/wiki/Charles_Saatchi" title="Charles Saatchi">Charles Saatchi</a> titled <i><a href="/wiki/Sensation_exhibition" class="mw-redirect" title="Sensation exhibition">Sensation</a></i>, which included many works by YBA artists.
+</p><p>The exhibition was actually a showing of <a href="/wiki/Charles_Saatchi" title="Charles Saatchi">Charles Saatchi</a>'s private collection of their work, and he owned the major pieces.  The liaison was effected by the Academy's <a href="/wiki/Norman_Rosenthal" title="Norman Rosenthal">Norman Rosenthal</a>, even though there was strong opposition from some of the Academicians, three of whom resigned. Controversy engendered in the media about the show, particularly over Marcus Harvey's work <i><a href="/wiki/Myra_(painting)" title="Myra (painting)">Myra</a></i>, served to reinforce the YBAs' importance.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> When the show toured to New York there was further controversy caused by the inclusion of <a href="/wiki/Chris_Ofili" title="Chris Ofili">Chris Ofili</a>'s work "The Holy Virgin Mary".<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="The_YBAs_since_1997">The YBAs since 1997</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_British_Artists&amp;action=edit&amp;section=8" title="Edit section: The YBAs since 1997">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1997, <a href="/wiki/Gillian_Wearing" title="Gillian Wearing">Gillian Wearing</a> won the annual <a href="/wiki/Turner_Prize" title="Turner Prize">Turner Prize</a>. In 1998, <a href="/wiki/Chris_Ofili" title="Chris Ofili">Chris Ofili</a> won the annual Turner Prize.
+</p><p>In 1999, Tracey Emin was nominated for the <a href="/wiki/Turner_Prize" title="Turner Prize">Turner Prize</a>. Her main exhibit, <i><a href="/wiki/My_Bed" title="My Bed">My Bed</a></i>, consisting literally of her dishevelled, stained bed, surrounded by detritus including condoms, slippers and soiled underwear, created an immediate and lasting media impact and further heightened her prominence. The emergence at the same time of an anti-YBA group, <a href="/wiki/Stuckism" title="Stuckism">The Stuckists</a>, co-founded by her ex boyfriend, <a href="/wiki/Billy_Childish" title="Billy Childish">Billy Childish</a>, gave another angle to media coverage.
+</p><p>In 2003, YBAs <a href="/wiki/Jake_and_Dinos_Chapman" title="Jake and Dinos Chapman">Jake and Dinos Chapman</a> and <a href="/wiki/Anya_Gallaccio" title="Anya Gallaccio">Anya Gallaccio</a> were nominated for the annual Turner Prize.
+</p><p>On 24 May 2004, a <a href="/wiki/Momart" title="Momart">fire in a storage warehouse</a> destroyed some works from the Saatchi collection, including the Chapman Brothers' <i>Hell</i> and Tracey Emin's "tent", <i><a href="/wiki/Everyone_I_Have_Ever_Slept_With_1963%E2%80%931995" title="Everyone I Have Ever Slept With 1963–1995">Everyone I Have Ever Slept With 1963–1995</a></i>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p><p>In 2008, YBA Angus Fairhurst committed suicide.
+</p><p>In the 2011 Birthday Honours List, Sam Taylor-Wood and Gillian Wearing were appointed <a href="/wiki/Order_of_the_British_Empire" title="Order of the British Empire">Order of the British Empire</a> by Queen <a href="/wiki/Elizabeth_II" title="Elizabeth II">Elizabeth II</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Elected_Royal_Academicians">Elected Royal Academicians</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_British_Artists&amp;action=edit&amp;section=9" title="Edit section: Elected Royal Academicians">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Several of the YBAs have been elected as lifetime members of the <a href="/wiki/Royal_Academy_of_Arts" title="Royal Academy of Arts">Royal Academy of Arts</a> in London (founded by George III in 1768); hence they are "Royal Academicians," and may use the letters "RA" after their name to indicate this.
+</p>
+<ul><li>Gary Hume elected 24 May 2001</li>
+<li>Fiona Rae elected 28 May 2002</li>
+<li>Tracey Emin elected 27 March 2007</li>
+<li>Jenny Saville elected July 2007</li>
+<li>Gillian Wearing elected 11 December 2007</li>
+<li>Michael Landy elected 29 May 2008</li>
+<li>Tacita Dean elected 9 December 2008<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup></li></ul>
+<h3><span class="mw-headline" id="Doctorates">Doctorates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_British_Artists&amp;action=edit&amp;section=10" title="Edit section: Doctorates">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2004, Gillian Wearing received an Honorary Doctorate from the <a href="/wiki/University_for_the_Creative_Arts" title="University for the Creative Arts">University for the Creative Arts</a>; in 2007, Henry Bond received a Doctorate from the <a href="/wiki/University_of_Gloucestershire" title="University of Gloucestershire">University of Gloucestershire</a>; in 2007, Tracey Emin received Honorary Doctorates from the <a href="/wiki/Royal_College_of_Art" title="Royal College of Art">Royal College of Art</a> and <a href="/wiki/London_Metropolitan_University" title="London Metropolitan University">London Metropolitan University</a>; in 2010, Fiona Banner received an Honorary Doctorate from <a href="/wiki/Kingston_University" title="Kingston University">Kingston University</a>.
+</p>
+<h2><span class="mw-headline" id="Reaction">Reaction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_British_Artists&amp;action=edit&amp;section=11" title="Edit section: Reaction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Positive">Positive</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_British_Artists&amp;action=edit&amp;section=12" title="Edit section: Positive">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Richard Cork (at one time art critic of <i>The Times</i>) has been a staunch advocate of the artists, as has art writer <a href="/wiki/Louisa_Buck" title="Louisa Buck">Louisa Buck</a>, and former <i>Time Out</i> art editor, <a href="/wiki/Sarah_Kent" title="Sarah Kent">Sarah Kent</a>. Sir <a href="/wiki/Nicholas_Serota" title="Nicholas Serota">Nicholas Serota</a> has validated the artists by the nomination of several of them for the <a href="/wiki/Turner_Prize" title="Turner Prize">Turner Prize</a> and their inclusion in the <a href="/wiki/Tate" title="Tate">Tate</a> collection.
+</p><p><a href="/wiki/Maureen_Paley" title="Maureen Paley">Maureen Paley</a> said, "The thing that came out of the YBA generation was boldness, a belief that you can get away with anything."<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</p><p>Speaking in 2009, <a href="/wiki/Iwona_Blazwick" title="Iwona Blazwick">Iwona Blazwick</a> the director of the <a href="/wiki/Whitechapel_Art_Gallery" class="mw-redirect" title="Whitechapel Art Gallery">Whitechapel Art Gallery</a> said, "The YBA moment is definitely now dead, but anyone who thinks they were a cut-off point is wrong. They began something which has continued to grow ever since. It's not over."<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Negative">Negative</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_British_Artists&amp;action=edit&amp;section=13" title="Edit section: Negative">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1998, John Windsor in <i><a href="/wiki/The_Independent" title="The Independent">The Independent</a></i> said that the work of the YBAs seemed tame compared with that of the "<a href="/wiki/Shock_art" title="Shock art">shock art</a>" of the 1970s, including "kinky outrages" at the <a href="/wiki/Nicholas_Treadwell" title="Nicholas Treadwell">Nicholas Treadwell</a> Gallery, amongst which were a "hanging, anatomically detailed leather straitjacket, complete with genitals", titled <i>Pink Crucifixion</i>, by Mandy Havers.<sup id="cite_ref-windsor_27-0" class="reference"><a href="#cite_note-windsor-27">&#91;27&#93;</a></sup>
+</p><p>In 1999 the <a href="/wiki/Stuckism" title="Stuckism">Stuckists</a> art group was founded with an overt anti-YBA agenda.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup> In 2002 Britart was heavily criticised by the leading conductor Sir <a href="/wiki/Simon_Rattle" title="Simon Rattle">Simon Rattle</a>, who was, in return, accused of having a poor understanding of <a href="/wiki/Conceptual_art" title="Conceptual art">conceptual</a> and <a href="/wiki/Visual_arts_and_design" class="mw-redirect" title="Visual arts and design">visual</a> art.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2010)">citation needed</span></a></i>&#93;</sup>
+</p><p>Playwright <a href="/wiki/Tom_Stoppard" title="Tom Stoppard">Tom Stoppard</a> made a public denunciation, and Brian Sewell (art critic of the <i>Evening Standard</i>) has consistently been hostile, as has <a href="/wiki/David_Lee_(art_critic)" title="David Lee (art critic)">David Lee</a>, the editor of <i>Jackdaw</i>.
+<a href="/wiki/Rolf_Harris" title="Rolf Harris">Rolf Harris</a>, the television presenter and artist, singled out Tracey Emin's <i>My Bed</i> as the kind of installation that put people off art. "I don't see how getting out of bed and leaving the bed unmade and putting it on show and saying that's worth, I don't know £31,000 ... I don't believe it, I think it's a con."
+</p><p>For <a href="/wiki/James_Heartfield" title="James Heartfield">James Heartfield</a>, "The 1990s art boom encouraged sloppiness. The Young British Artists preferred the inspired gesture to patient work. They added public outrage to their palettes, only to find that it faded very quickly."<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</p><p>Members of the group are parodied in a regular cartoon strip by Birch, titled "Young British Artists", in the British satirical magazine <i><a href="/wiki/Private_Eye" title="Private Eye">Private Eye</a></i>.
+</p>
+<h3><span class="mw-headline" id="Feminism_within_the_YBAs">Feminism within the YBAs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_British_Artists&amp;action=edit&amp;section=14" title="Edit section: Feminism within the YBAs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>While <a href="/wiki/Tracey_Emin" title="Tracey Emin">Tracey Emin</a> and <a href="/wiki/Damien_Hirst" title="Damien Hirst">Damien Hirst</a> are viewed as frontrunners of success emerging from the Young British Artist movement, Emin amongst her female YBA peers are unequal in genuine recognition compared to their male YBA counterparts.
+</p><p>Female artists were distinctly a minority amongst the male dominated environment of the Young British Artists. Individuals such as <a href="/wiki/Sarah_Lucas" title="Sarah Lucas">Sarah Lucas</a>, <a href="/wiki/Jenny_Saville" title="Jenny Saville">Jenny Saville</a> and <a href="/wiki/Rachel_Whiteread" title="Rachel Whiteread">Rachel Whiteread</a> have varied levels of neglect within their media portrayals, as well as incomparable in notoriety to male YBA peers such as Hirst. More importantly, a major void is apparent with the absence of how their practices act in conversation with prior feminist artwork and concepts.<sup id="cite_ref-:0_30-0" class="reference"><a href="#cite_note-:0-30">&#91;30&#93;</a></sup> By critics and male peers commending these artists for simply being female, they discredit the opportunity for women to be recognised justly.
+</p><p>The University of Sussex's Art Society Journal describes how feminists in the 1980s influenced the female members of the Young British Artists' artwork through the strategy of subverting feminine stereotypes.<sup id="cite_ref-:0_30-1" class="reference"><a href="#cite_note-:0-30">&#91;30&#93;</a></sup> Other discourse around female YBA work include a discussion of <a href="/wiki/Rachel_Whiteread" title="Rachel Whiteread">Rachel Whiteread</a>'s sculpture practice. Whiteread has been said to disrupt the 'clear' concept of women making 'female work'.<sup id="cite_ref-:1_31-0" class="reference"><a href="#cite_note-:1-31">&#91;31&#93;</a></sup> Her work <i>Nine Tables</i> attempts to exist within a third space, where the forms can't be physically gendered, but still viewed as a feminine objects.<sup id="cite_ref-:1_31-1" class="reference"><a href="#cite_note-:1-31">&#91;31&#93;</a></sup> Daniel Ogilivie has expressed how Judith Butler's concept of which "…the mere act of 'doing', of casting the object, that expresses the gender and it is not any anthropomorphic association in the artwork itself," creates the feminine within Whiteread's work.<sup id="cite_ref-:1_31-2" class="reference"><a href="#cite_note-:1-31">&#91;31&#93;</a></sup>
+</p><p>With the prevalence of feminist ideology in society and the contemporary art, critics have argued that female artists like <a href="/wiki/Jenny_Saville" title="Jenny Saville">Jenny Saville</a> in the 1990s investigated the contrived idea of 'feminity' made by the Patriarchal Structure.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup> While attending art school in Cincinnati, Saville's feminist passion was conceived through a realisation of gender within art history. In her own words, she discovered that, "I'd always wondered why there had been no women artists in history. I found there had been – but not reported. I realized I'd been affected by male ideas, going through a male-dominated art college".<sup id="cite_ref-:2_33-0" class="reference"><a href="#cite_note-:2-33">&#91;33&#93;</a></sup> Now consciously aware of institutional patriarchy, Saville began to paint female nudes that weren't idealised. Rather than continue the recognised historical male view of female bodies, Saville created depictions of natural women with genuine flaws. Pubic hair trailing up stomachs and around thighs, discoloured skin and areas of excess flesh.<sup id="cite_ref-:2_33-1" class="reference"><a href="#cite_note-:2-33">&#91;33&#93;</a></sup> Deconstructing the feminine body, Saville has stated that, "I'm not trying to teach, just make people discuss, look at how women have been made by man. What is beauty? Beauty is usually the male image of the female body. My women are beautiful in their individuality."<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Artists_exhibited_in_Freeze">Artists exhibited in <i>Freeze</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_British_Artists&amp;action=edit&amp;section=15" title="Edit section: Artists exhibited in Freeze">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Steven Adamson</li>
+<li><a href="/wiki/Angela_Bulloch" title="Angela Bulloch">Angela Bulloch</a></li>
+<li><a href="/wiki/Mat_Collishaw" title="Mat Collishaw">Mat Collishaw</a></li>
+<li><a href="/wiki/Ian_Davenport" title="Ian Davenport">Ian Davenport</a></li>
+<li><a href="/wiki/Angus_Fairhurst" title="Angus Fairhurst">Angus Fairhurst</a></li>
+<li><a href="/wiki/Anya_Gallaccio" title="Anya Gallaccio">Anya Gallaccio</a></li>
+<li><a href="/wiki/Damien_Hirst" title="Damien Hirst">Damien Hirst</a></li>
+<li><a href="/wiki/Gary_Hume" title="Gary Hume">Gary Hume</a></li>
+<li><a href="/wiki/Michael_Landy" title="Michael Landy">Michael Landy</a></li>
+<li><a href="/wiki/Abigail_Lane" title="Abigail Lane">Abigail Lane</a></li>
+<li><a href="/wiki/Sarah_Lucas" title="Sarah Lucas">Sarah Lucas</a></li>
+<li><a href="/wiki/Lala_Meredith-Vula" title="Lala Meredith-Vula">Lala Meredith-Vula</a></li>
+<li><a href="/wiki/Richard_Patterson_(artist)" title="Richard Patterson (artist)">Richard Patterson</a></li>
+<li><a href="/wiki/Stephen_Park" title="Stephen Park">Stephen Park</a></li>
+<li><a href="/wiki/Fiona_Rae" title="Fiona Rae">Fiona Rae</a></li></ul>
+<h2><span id="Artists_exhibited_in_Brilliant.21"></span><span class="mw-headline" id="Artists_exhibited_in_Brilliant!">Artists exhibited in <i>Brilliant!</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_British_Artists&amp;action=edit&amp;section=16" title="Edit section: Artists exhibited in Brilliant!">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Henry_Bond" title="Henry Bond">Henry Bond</a></li>
+<li><a href="/wiki/Glenn_Brown_(artist)" title="Glenn Brown (artist)">Glenn Brown</a></li>
+<li><a href="/wiki/Jake_and_Dinos_Chapman" title="Jake and Dinos Chapman">Jake and Dinos Chapman</a></li>
+<li><a href="/wiki/Adam_Chodzko" title="Adam Chodzko">Adam Chodzko</a></li>
+<li><a href="/wiki/Mat_Collishaw" title="Mat Collishaw">Mat Collishaw</a></li>
+<li><a href="/wiki/Tracey_Emin" title="Tracey Emin">Tracey Emin</a></li>
+<li><a href="/wiki/Angus_Fairhurst" title="Angus Fairhurst">Angus Fairhurst</a></li>
+<li><a href="/wiki/Anya_Gallaccio" title="Anya Gallaccio">Anya Gallaccio</a></li>
+<li><a href="/wiki/Liam_Gillick" title="Liam Gillick">Liam Gillick</a></li>
+<li><a href="/wiki/Damien_Hirst" title="Damien Hirst">Damien Hirst</a></li>
+<li><a href="/wiki/Gary_Hume" title="Gary Hume">Gary Hume</a></li>
+<li><a href="/wiki/Michael_Landy" title="Michael Landy">Michael Landy</a></li>
+<li><a href="/wiki/Abigail_Lane" title="Abigail Lane">Abigail Lane</a></li>
+<li><a href="/wiki/Sarah_Lucas" title="Sarah Lucas">Sarah Lucas</a></li>
+<li><a href="/wiki/Chris_Ofili" title="Chris Ofili">Chris Ofili</a></li>
+<li><a href="/wiki/Steven_Pippin" title="Steven Pippin">Steven Pippin</a></li>
+<li><a href="/wiki/Alessandro_Raho" title="Alessandro Raho">Alessandro Raho</a></li>
+<li><a href="/wiki/Georgina_Starr" title="Georgina Starr">Georgina Starr</a></li>
+<li><a href="/wiki/Sam_Taylor-Wood" class="mw-redirect" title="Sam Taylor-Wood">Sam Taylor-Wood</a></li>
+<li><a href="/wiki/Gillian_Wearing" title="Gillian Wearing">Gillian Wearing</a></li>
+<li><a href="/wiki/Rachel_Whiteread" title="Rachel Whiteread">Rachel Whiteread</a></li></ul>
+<h2><span class="mw-headline" id="Other_YBAs">Other YBAs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_British_Artists&amp;action=edit&amp;section=17" title="Edit section: Other YBAs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Fiona_Banner" title="Fiona Banner">Fiona Banner</a><sup id="cite_ref-propganda_35-0" class="reference"><a href="#cite_note-propganda-35">&#91;35&#93;</a></sup><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup></li>
+<li><a href="/wiki/Christine_Borland" title="Christine Borland">Christine Borland</a></li>
+<li><a href="/wiki/Tacita_Dean" title="Tacita Dean">Tacita Dean</a><sup id="cite_ref-propganda_35-1" class="reference"><a href="#cite_note-propganda-35">&#91;35&#93;</a></sup></li>
+<li><a href="/wiki/Nick_Fudge" title="Nick Fudge">Nick Fudge</a></li>
+<li><a href="/wiki/Douglas_Gordon" title="Douglas Gordon">Douglas Gordon</a></li>
+<li><a href="/wiki/Marcus_Harvey" title="Marcus Harvey">Marcus Harvey</a></li>
+<li><a href="/wiki/Marc_Quinn" title="Marc Quinn">Marc Quinn</a></li>
+<li><a href="/wiki/Gavin_Turk" title="Gavin Turk">Gavin Turk</a></li>
+<li><a href="/wiki/Jane_and_Louise_Wilson" title="Jane and Louise Wilson">Jane and Louise Wilson</a></li>
+<li><a href="/wiki/Jenny_Saville" title="Jenny Saville">Jenny Saville</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_British_Artists&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Sometimes with lower case, as "young British artist(s)" or "yBa".</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Blanché, Ulrich (2018). Damien Hirst. Gallery Art in a Material World. Baden-Baden, Tectum Verlag, p. 69.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Blanché, Ulrich (2018). Damien Hirst. Gallery Art in a Material World. Baden-Baden, Tectum Verlag, p. 68.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Bush, Kate. "Young British art: the YBA sensation", <i><a href="/wiki/Artforum" title="Artforum">Artforum</a></i>, June 2004, p. 91. Retrieved from <a rel="nofollow" class="external text" href="https://archive.is/20120710010558/http://findarticles.com/p/articles/mi_m0268/is_2_43/ai_n7069264/">findarticles.com</a>, 14 March 2010.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Blanché, Ulrich (2018). Damien Hirst. Gallery Art in a Material World. Baden-Baden, Tectum Verlag, p. 73.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Blanché, Ulrich (2018). Damien Hirst. Gallery Art in a Material World. Baden-Baden, Tectum Verlag, p. 69.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Corris, Michael. "British? Young? Invisible? w/Attitude?.", <i><a href="/wiki/ArtForum" class="mw-redirect" title="ArtForum">ArtForum</a></i>, May 1992, p. 109. Retrieved from <a rel="nofollow" class="external autonumber" href="http://www.blumandpoe.com/sites/default/files/press/GallaccioArtforum0592.pdf">[1]</a>, 20 April 2011.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Kent, Sarah. Shark infested waters. The Saatchi Collection of British Art in the 90s, London 1994, p. 268.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Blanché, Ulrich (2018). Damien Hirst. Gallery Art in a Material World. Baden-Baden, Tectum Verlag, p. 67.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Blanché, Ulrich (2018). Damien Hirst. Gallery Art in a Material World. Baden-Baden, Tectum Verlag, p. 76.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Blanché, Ulrich (2018). Damien Hirst. Gallery Art in a Material World. Baden-Baden, Tectum Verlag, p. 61.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Andrew Graham-Dixon, "The Midas Touch?: Graduates of Goldsmiths School of Art dominate the current British art scene," <i><a href="/wiki/The_Independent" title="The Independent">The Independent</a></i>, 31 July 1990, p. 13.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Blanché, Ulrich (2018). Damien Hirst. Gallery Art in a Material World. Baden-Baden, Tectum Verlag, p. 73-74.</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Blanché, Ulrich (2018). Damien Hirst. Gallery Art in a Material World. Baden-Baden, Tectum Verlag, p. 62-63.</span>
+</li>
+<li id="cite_note-brooks-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-brooks_15-0">^</a></b></span> <span class="reference-text">Brooks, Richard. <a rel="nofollow" class="external text" href="http://www.timesonline.co.uk/tol/news/uk/article413037.ece">"Hirst's shark is sold to America"</a>, <i><a href="/wiki/The_Sunday_Times" title="The Sunday Times">The Sunday Times</a></i>, 16 January 2005. Retrieved 14 October 2008.</span>
+</li>
+<li id="cite_note-davies-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-davies_16-0">^</a></b></span> <span class="reference-text">Davies, Serena. <a rel="nofollow" class="external text" href="https://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2005/01/08/bapaint08.xml">"Why painting is back in the frame"</a>, <i><a href="/wiki/The_Daily_Telegraph" title="The Daily Telegraph">The Daily Telegraph</a></i>, 8 January 2005. Retrieved 15 October 2008.</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Blanché, Ulrich (2018). Damien Hirst. Gallery Art in a Material World. Baden-Baden, Tectum Verlag, p. 67.</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.artmonthly.co.uk/about.htm">"About Art Monthly"</a>, <i><a href="/wiki/Art_Monthly" title="Art Monthly">Art Monthly</a></i>, retrieved 14 March 2010.</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Blanché, Ulrich (2018). Damien Hirst. Gallery Art in a Material World. Baden-Baden, Tectum Verlag, p. 68.</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Blanché, Ulrich (2018). Damien Hirst. Gallery Art in a Material World. Baden-Baden, Tectum Verlag, p. 69. </span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Blanché, Ulrich (2018). Damien Hirst. Gallery Art in a Material World. Baden-Baden, Tectum Verlag, p. 69.</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Blanché, Ulrich (2018). Damien Hirst. Gallery Art in a Material World. Baden-Baden, Tectum Verlag, p. 76.</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Blanché, Ulrich (2018). Damien Hirst. Gallery Art in a Material World. Baden-Baden, Tectum Verlag, p. 75.</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.royalacademy.org.uk/academicians/all-artists,29,AR.html">RA list of Royal Academicians</a>, Retrieved 29 August 2011.</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Duguid, Hannah. <a rel="nofollow" class="external text" href="https://www.independent.co.uk/arts-entertainment/art/features/women-at-work-as-the-older-generation-of-ybas-grows-up-a-new-set-of-female-creators-is-taking-over-1777991.html">"Women at work"</a>, <i><a href="/wiki/The_Independent" title="The Independent">The Independent</a></i>, 28 August 2009. Retrieved 15 August 2010.</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Hannah Duguid, "<a rel="nofollow" class="external text" href="https://www.independent.co.uk/arts-entertainment/art/features/women-at-work-as-the-older-generation-of-ybas-grows-up-a-new-set-of-female-creators-is-taking-over-1777991.html">Women at work: As the older generation of YBAs grows up, a new set of female creators is taking over</a>" <a href="/wiki/The_Independent" title="The Independent">The Independent</a>, 28 August 2009.</span>
+</li>
+<li id="cite_note-windsor-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-windsor_27-0">^</a></b></span> <span class="reference-text">Windsor, John. <a rel="nofollow" class="external text" href="https://www.independent.co.uk/life-style/art-98-collecting--let-the-love-affair-begin-1139220.html">"Art 98: Collecting—Let the love affair begin"</a>, <i><a href="/wiki/The_Independent" title="The Independent">The Independent</a></i>, 17 January 1998. Retrieved 14 August 2010.</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Blanché, Ulrich (2018). Damien Hirst. Gallery Art in a Material World. Baden-Baden, Tectum Verlag, p. 193f.</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.heartfield.org/Creativity_Gap.pdf">James Heartfield: the creativity Gap. 2005. p. 23</a></span>
+</li>
+<li id="cite_note-:0-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_30-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://chalkjournal.wordpress.com/2012/04/19/emin-lucas-whiteread/">"Tracey Emin, Sarah Lucas &amp; Rachael Whiteread: Did feminism feature as a part of Young British Art?"</a>. <i>Chalk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Chalk&amp;rft.atitle=Tracey+Emin%2C+Sarah+Lucas+%26+Rachael+Whiteread%3A+Did+feminism+feature+as+a+part+of+Young+British+Art%3F&amp;rft_id=https%3A%2F%2Fchalkjournal.wordpress.com%2F2012%2F04%2F19%2Femin-lucas-whiteread%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYoung+British+Artists" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-:1-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_31-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:1_31-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Ogilvie, Daniel (2010). <a rel="nofollow" class="external text" href="http://danploy.com/Assets/Art_History_photos/A841_Project.pdf">"Rachel Whiteread's Nine Tables: Formalist Object, Feminist Critique or Something In-Between?"</a> <span class="cs1-format">(PDF)</span>. <i>Dan</i>. Danploy<span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Dan&amp;rft.atitle=Rachel+Whiteread%27s+Nine+Tables%3A+Formalist+Object%2C+Feminist+Critique+or+Something+In-Between%3F&amp;rft.date=2010&amp;rft.aulast=Ogilvie&amp;rft.aufirst=Daniel&amp;rft_id=http%3A%2F%2Fdanploy.com%2FAssets%2FArt_History_photos%2FA841_Project.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYoung+British+Artists" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://cujah.org/past-volumes/volume-vi/essay-13-volume-6/">"Jenny Saville: The Body Recovered | CUJAH"</a>. <i>cujah.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=cujah.org&amp;rft.atitle=Jenny+Saville%3A+The+Body+Recovered+%7C+CUJAH&amp;rft_id=http%3A%2F%2Fcujah.org%2Fpast-volumes%2Fvolume-vi%2Fessay-13-volume-6%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYoung+British+Artists" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-:2-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-:2_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:2_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.independent.co.uk/life-style/interview-this-is-jenny-and-this-is-her-plan-men-paint-female-beauty-in-stereotypes-jenny-saville-1426296.html">"Interview: This is Jenny, and this is her Plan: Men paint female"</a>. <i>The Independent</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Independent&amp;rft.atitle=Interview%3A+This+is+Jenny%2C+and+this+is+her+Plan%3A+Men+paint+female&amp;rft_id=https%3A%2F%2Fwww.independent.co.uk%2Flife-style%2Finterview-this-is-jenny-and-this-is-her-plan-men-paint-female-beauty-in-stereotypes-jenny-saville-1426296.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYoung+British+Artists" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.independent.co.uk/life-style/interview-this-is-jenny-and-this-is-her-plan-men-paint-female-beauty-in-stereotypes-jenny-saville-1426296.html">"Interview: This is Jenny, and this is her Plan: Men paint female"</a>. <i>The Independent</i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Independent&amp;rft.atitle=Interview%3A+This+is+Jenny%2C+and+this+is+her+Plan%3A+Men+paint+female&amp;rft_id=https%3A%2F%2Fwww.independent.co.uk%2Flife-style%2Finterview-this-is-jenny-and-this-is-her-plan-men-paint-female-beauty-in-stereotypes-jenny-saville-1426296.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYoung+British+Artists" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-propganda-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-propganda_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-propganda_35-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Grant, Simon. <a rel="nofollow" class="external text" href="http://www.apollo-magazine.com/features/3484921/part_5/cultural-propganda.thtml">"Cultural propganda?"{{sic}}</a>, <i><a href="/wiki/Apollo_(magazine)" title="Apollo (magazine)">Apollo</a></i>, 27 March 2009. Retrieved 13 June 2010. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110928005001/http://www.apollo-magazine.com/features/3484921/part_5/cultural-propganda.thtml">Archived</a> 28 September 2011 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.tate.org.uk/servlet/ViewWork?cgroupid=999999961&amp;workid=26540&amp;searchid=14048&amp;tabview=subject">"Fiona Banner born 1966"</a>, <a href="/wiki/Tate" title="Tate">Tate</a>. Retrieved 13 June 2010. <a rel="nofollow" class="external text" href="https://www.webcitation.org/5qSvkkpsb?url=http://www.tate.org.uk/servlet/ViewWork?cgroupid%3D999999961%26workid%3D26540%26searchid%3D14048%26tabview%3Dsubject">Archived</a> at <a href="/wiki/WebCite" title="WebCite">WebCite</a>.</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_British_Artists&amp;action=edit&amp;section=19" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.artnet.com/magazine_pre2000/features/cohen/cohen97-10-24.asp">Letter from London: Sensation, contemporaneous review of the exhibition</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ktpress.co.uk/nparadoxaissue2.pdf">A critique on the "Britpack" by Liz Ellis</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since December 2017">permanent dead link</span></a></i>&#93;</span></sup></li>
+<li><a rel="nofollow" class="external text" href="http://www.ctrlp-artjournal.org/pdfs/CtrlP_Issue15.pdf">Flashing Emin,Critical Analysis of "Spectacular" Contemporary Arts by Kubilay Akman</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bu.edu/wcp/Papers/Aest/AestFitz.htm">The British Avant-Garde: A Philosophical Analysis, Deborah Fitzgerald, Furman University</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Art_movements" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#EAE0C8; color:black;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Western_art_movements" title="Template:Western art movements"><abbr title="View this template" style="background:#EAE0C8; color:black;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Western_art_movements" title="Template talk:Western art movements"><abbr title="Discuss this template" style="background:#EAE0C8; color:black;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Western_art_movements&amp;action=edit"><abbr title="Edit this template" style="background:#EAE0C8; color:black;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Art_movements" style="font-size:114%;margin:0 4em"><a href="/wiki/Art_movement" title="Art movement">Art movements</a></div></th></tr><tr><th scope="row" class="navbox-group" style="background:#EAE0C8; color:black;;width:1%"><a href="/wiki/Medieval_art" title="Medieval art">Medieval</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Early_Christian_art_and_architecture" title="Early Christian art and architecture">Early Christian</a></li>
+<li><a href="/wiki/Migration_Period_art" title="Migration Period art">Migration Period</a></li>
+<li><a href="/wiki/Anglo-Saxon_art" title="Anglo-Saxon art">Anglo-Saxon</a></li>
+<li><a href="/wiki/Visigothic_art_and_architecture" title="Visigothic art and architecture">Visigothic</a></li>
+<li><a href="/wiki/Pre-Romanesque_art_and_architecture" title="Pre-Romanesque art and architecture">Pre-Romanesque</a></li>
+<li><a href="/wiki/Insular_art" title="Insular art">Insular</a></li>
+<li><a href="/wiki/Viking_art" title="Viking art">Viking</a></li>
+<li><a href="/wiki/Byzantine_art" title="Byzantine art">Byzantine</a></li>
+<li><a href="/wiki/Merovingian_art" title="Merovingian art">Merovingian</a></li>
+<li><a href="/wiki/Carolingian_art" title="Carolingian art">Carolingian</a></li>
+<li><a href="/wiki/Ottonian_art" title="Ottonian art">Ottonian</a></li>
+<li><a href="/wiki/Romanesque_art" title="Romanesque art">Romanesque</a></li>
+<li><a href="/wiki/Norman-Arab-Byzantine_culture" title="Norman-Arab-Byzantine culture">Norman-Sicilian</a></li>
+<li><a href="/wiki/Gothic_art" title="Gothic art">Gothic</a>  (<a href="/wiki/International_Gothic" title="International Gothic">International Gothic</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#EAE0C8; color:black;;width:1%"><a href="/wiki/Renaissance_art" title="Renaissance art">Renaissance</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Italian_Renaissance_painting" title="Italian Renaissance painting">Italian Renaissance</a></li>
+<li><a href="/wiki/Early_Netherlandish_painting" title="Early Netherlandish painting">Early Netherlandish</a></li>
+<li><a href="/wiki/German_Renaissance" title="German Renaissance">German Renaissance</a></li>
+<li><a href="/wiki/Antwerp_Mannerism" title="Antwerp Mannerism">Antwerp Mannerists</a></li>
+<li><a href="/wiki/Danube_school" title="Danube school">Danube school</a></li>
+<li><a href="/wiki/High_Renaissance" title="High Renaissance">High Renaissance</a></li>
+<li><a href="/wiki/Romanism_(painting)" title="Romanism (painting)">Romanism</a></li>
+<li><a href="/wiki/Mannerism" title="Mannerism">Mannerism</a></li>
+<li><a href="/wiki/School_of_Fontainebleau" title="School of Fontainebleau">Fontainebleau</a></li>
+<li><a href="/wiki/Northern_Mannerism" title="Northern Mannerism">Northern Mannerism</a></li>
+<li><a href="/wiki/Flemish_Baroque_painting" title="Flemish Baroque painting">Flemish Baroque</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#EAE0C8; color:black;;width:1%">17th century</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baroque" title="Baroque">Baroque</a></li>
+<li><a href="/wiki/Caravaggisti" title="Caravaggisti">Caravaggisti</a></li>
+<li><a href="/wiki/Classicism" title="Classicism">Classicism</a></li>
+<li><a href="/wiki/Dutch_Golden_Age_painting" title="Dutch Golden Age painting">Dutch Golden Age</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#EAE0C8; color:black;;width:1%">18th century</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Rococo" title="Rococo">Rococo</a></li>
+<li><a href="/wiki/Neoclassicism" title="Neoclassicism">Neoclassicism</a></li>
+<li><a href="/wiki/Romanticism" title="Romanticism">Romanticism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#EAE0C8; color:black;;width:1%">19th century</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Na%C3%AFve_art" title="Naïve art">Naïve</a></li>
+<li><a href="/wiki/Nazarene_movement" title="Nazarene movement">Nazarene</a></li>
+<li><a href="/wiki/Realism_(arts)" title="Realism (arts)">Realism</a> / <a href="/wiki/Realism_(art_movement)" title="Realism (art movement)">Realism</a></li>
+<li><a href="/wiki/Historicism_(art)" title="Historicism (art)">Historicism</a></li>
+<li><a href="/wiki/Biedermeier" title="Biedermeier">Biedermeier</a></li>
+<li><a href="/wiki/Gr%C3%BCnderzeit" title="Gründerzeit">Gründerzeit</a></li>
+<li><a href="/wiki/Barbizon_school" title="Barbizon school">Barbizon school</a></li>
+<li><a href="/wiki/Pre-Raphaelite_Brotherhood" title="Pre-Raphaelite Brotherhood">Pre-Raphaelites</a></li>
+<li><a href="/wiki/Academic_art" title="Academic art">Academic</a></li>
+<li><a href="/wiki/Aestheticism" title="Aestheticism">Aestheticism</a></li>
+<li><a href="/wiki/Decadent_movement" title="Decadent movement">Decadent</a></li>
+<li><a href="/wiki/Macchiaioli" title="Macchiaioli">Macchiaioli</a></li>
+<li><a href="/wiki/Art_Nouveau" title="Art Nouveau">Art Nouveau</a></li>
+<li><a href="/wiki/Peredvizhniki" title="Peredvizhniki">Peredvizhniki</a></li>
+<li><a href="/wiki/Impressionism" title="Impressionism">Impressionism</a></li>
+<li><a href="/wiki/Post-Impressionism" title="Post-Impressionism">Post-Impressionism</a></li>
+<li><a href="/wiki/Neo-impressionism" title="Neo-impressionism">Neo-impressionism</a></li>
+<li><a href="/wiki/Divisionism" title="Divisionism">Divisionism</a></li>
+<li><a href="/wiki/Pointillism" title="Pointillism">Pointillism</a></li>
+<li><a href="/wiki/Cloisonnism" title="Cloisonnism">Cloisonnism</a></li>
+<li><a href="/wiki/Les_Nabis" title="Les Nabis">Les Nabis</a></li>
+<li><a href="/wiki/Synthetism" title="Synthetism">Synthetism</a></li>
+<li><a href="/wiki/Kalighat_painting" title="Kalighat painting">Kalighat painting</a></li>
+<li><a href="/wiki/Symbolism_(arts)" title="Symbolism (arts)">Symbolism</a></li>
+<li><a href="/wiki/Hudson_River_School" title="Hudson River School">Hudson River School</a></li>
+<li><a href="/wiki/Costumbrismo" title="Costumbrismo">Costumbrismo</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#EAE0C8; color:black;;width:1%"><a href="/wiki/20th-century_art" title="20th-century art">20th century</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arts_and_Crafts_movement" title="Arts and Crafts movement">Arts and Crafts</a></li>
+<li><a href="/wiki/Fauvism" title="Fauvism">Fauvism</a></li>
+<li><a href="/wiki/Die_Br%C3%BCcke" title="Die Brücke">Die Brücke</a></li>
+<li><a href="/wiki/Cubism" title="Cubism">Cubism</a></li>
+<li><a href="/wiki/Expressionism" title="Expressionism">Expressionism</a></li>
+<li><a href="/wiki/Neue_K%C3%BCnstlervereinigung_M%C3%BCnchen" title="Neue Künstlervereinigung München">Neue Künstlervereinigung München</a></li>
+<li><a href="/wiki/Futurism" title="Futurism">Futurism</a></li>
+<li><a href="/wiki/Metaphysical_art" title="Metaphysical art">Metaphysical art</a></li>
+<li><a href="/wiki/Rayonism" title="Rayonism">Rayonism</a></li>
+<li><a href="/wiki/Der_Blaue_Reiter" title="Der Blaue Reiter">Der Blaue Reiter</a></li>
+<li><a href="/wiki/Orphism_(art)" title="Orphism (art)">Orphism</a></li>
+<li><a href="/wiki/Synchromism" title="Synchromism">Synchromism</a></li>
+<li><a href="/wiki/Vorticism" title="Vorticism">Vorticism</a></li>
+<li><a href="/wiki/Suprematism" title="Suprematism">Suprematism</a></li>
+<li><a href="/wiki/Ashcan_School" title="Ashcan School">Ashcan</a></li>
+<li><a href="/wiki/Dada" title="Dada">Dada</a></li>
+<li><a href="/wiki/De_Stijl" title="De Stijl">De Stijl</a></li>
+<li><a href="/wiki/Purism" title="Purism">Purism</a></li>
+<li><a href="/wiki/Bauhaus" title="Bauhaus">Bauhaus</a></li>
+<li><a href="/wiki/Kinetic_art" title="Kinetic art">Kinetic art</a></li>
+<li><a href="/wiki/New_Objectivity" title="New Objectivity">New Objectivity</a></li>
+<li><a href="/wiki/Neues_Sehen" title="Neues Sehen">Neues Sehen</a></li>
+<li><a href="/wiki/Surrealism" title="Surrealism">Surrealism</a></li>
+<li><a href="/wiki/Neo-Fauvism" title="Neo-Fauvism">Neo-Fauvism</a></li>
+<li><a href="/wiki/Precisionism" title="Precisionism">Precisionism</a></li>
+<li><a href="/wiki/Scuola_Romana" title="Scuola Romana">Scuola Romana</a></li>
+<li><a href="/wiki/Art_Deco" title="Art Deco">Art Deco</a></li>
+<li><a href="/wiki/International_Typographic_Style" title="International Typographic Style">International Typographic Style</a></li>
+<li><a href="/wiki/Social_realism" title="Social realism">Social realism</a></li>
+<li><a href="/wiki/Abstract_expressionism" title="Abstract expressionism">Abstract expressionism</a></li>
+<li><a href="/wiki/Vienna_School_of_Fantastic_Realism" title="Vienna School of Fantastic Realism">Vienna School of Fantastic Realism</a></li>
+<li><a href="/wiki/Color_Field" title="Color Field">Color Field</a></li>
+<li><a href="/wiki/Lyrical_abstraction" title="Lyrical abstraction">Lyrical abstraction</a></li>
+<li><a href="/wiki/Tachisme" title="Tachisme">Tachisme</a></li>
+<li><a href="/wiki/COBRA_(avant-garde_movement)" title="COBRA (avant-garde movement)">COBRA</a></li>
+<li><a href="/wiki/Action_painting" title="Action painting">Action painting</a></li>
+<li><a href="/wiki/New_media_art" title="New media art">New media art</a></li>
+<li><a href="/wiki/Letterist_International" title="Letterist International">Letterist International</a></li>
+<li><a href="/wiki/Pop_art" title="Pop art">Pop art</a></li>
+<li><a href="/wiki/Situationist_International" title="Situationist International">Situationist International</a></li>
+<li><a href="/wiki/Lettrism" title="Lettrism">Lettrism</a></li>
+<li><a href="/wiki/Neo-Dada" title="Neo-Dada">Neo-Dada</a></li>
+<li><a href="/wiki/Op_art" title="Op art">Op art</a></li>
+<li><a href="/wiki/Nouveau_r%C3%A9alisme" title="Nouveau réalisme">Nouveau réalisme</a></li>
+<li><a href="/wiki/Art_%26_Language" title="Art &amp; Language">Art &amp; Language</a></li>
+<li><a href="/wiki/Conceptual_art" title="Conceptual art">Conceptual art</a></li>
+<li><a href="/wiki/Land_art" title="Land art">Land art</a></li>
+<li><a href="/wiki/Systems_art" title="Systems art">Systems art</a></li>
+<li><a href="/wiki/Video_art" title="Video art">Video art</a></li>
+<li><a href="/wiki/Minimalism_(visual_arts)" title="Minimalism (visual arts)">Minimalism</a></li>
+<li><a href="/wiki/Fluxus" title="Fluxus">Fluxus</a></li>
+<li><a href="/wiki/Photorealism" title="Photorealism">Photorealism</a></li>
+<li><a href="/wiki/Performance_art" title="Performance art">Performance art</a></li>
+<li><a href="/wiki/Installation_art" title="Installation art">Installation art</a></li>
+<li><a href="/wiki/Endurance_art" title="Endurance art">Endurance art</a></li>
+<li><a href="/wiki/Outsider_art" title="Outsider art">Outsider art</a></li>
+<li><a href="/wiki/Neo-expressionism" title="Neo-expressionism">Neo-expressionism</a></li>
+<li><a href="/wiki/Lowbrow_(art_movement)" title="Lowbrow (art movement)">Lowbrow</a></li>
+<li><a class="mw-selflink selflink">Young British Artists</a></li>
+<li><a href="/wiki/Amazonian_pop_art" title="Amazonian pop art">Amazonian pop art</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#EAE0C8; color:black;;width:1%">21st century</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Art_intervention" title="Art intervention">Art intervention</a></li>
+<li><a href="/wiki/Hyperrealism_(visual_arts)" title="Hyperrealism (visual arts)">Hyperrealism</a></li>
+<li><a href="/wiki/Neo-futurism" title="Neo-futurism">Neo-futurism</a></li>
+<li><a href="/wiki/Stuckism" title="Stuckism">Stuckism</a></li>
+<li><a href="/wiki/Sound_art" title="Sound art">Sound art</a></li>
+<li><a href="/wiki/Superstroke" title="Superstroke">Superstroke</a></li>
+<li><a href="/wiki/Superflat" title="Superflat">Superflat</a></li>
+<li><a href="/wiki/Relational_art" title="Relational art">Relational art</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#EAE0C8; color:black;;width:1%">Related articles</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_art_movements" title="List of art movements">List of art movements</a></li>
+<li><a href="/wiki/Feminist_art_movement" title="Feminist art movement">Feminist art movement</a> (<a href="/wiki/Feminist_art_movement_in_the_United_States" title="Feminist art movement in the United States">in the US</a>)</li>
+<li><a href="/wiki/Modern_art" title="Modern art">Modern art</a></li>
+<li><a href="/wiki/Modernism" title="Modernism">Modernism</a></li>
+<li><a href="/wiki/Late_modernism" title="Late modernism">Late modernism</a></li>
+<li><a href="/wiki/Postmodern_art" title="Postmodern art">Postmodern art</a></li>
+<li><a href="/wiki/Avant-garde" title="Avant-garde">Avant-garde</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Young_British_Artists" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Young_British_Artists" title="Template:Young British Artists"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Young_British_Artists" title="Template talk:Young British Artists"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Young_British_Artists&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Young_British_Artists" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Young British Artists</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artists</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Fiona_Banner" title="Fiona Banner">Fiona Banner</a></li>
+<li><a href="/wiki/Henry_Bond" title="Henry Bond">Henry Bond</a></li>
+<li><a href="/wiki/Christine_Borland" title="Christine Borland">Christine Borland</a></li>
+<li><a href="/wiki/Glenn_Brown_(artist)" title="Glenn Brown (artist)">Glenn Brown</a></li>
+<li><a href="/wiki/Angela_Bulloch" title="Angela Bulloch">Angela Bulloch</a></li>
+<li><a href="/wiki/Jake_and_Dinos_Chapman" title="Jake and Dinos Chapman">Jake and Dinos Chapman</a></li>
+<li><a href="/wiki/Adam_Chodzko" title="Adam Chodzko">Adam Chodzko</a></li>
+<li><a href="/wiki/Mat_Collishaw" title="Mat Collishaw">Mat Collishaw</a></li>
+<li><a href="/wiki/Ian_Davenport" title="Ian Davenport">Ian Davenport</a></li>
+<li><a href="/wiki/Tacita_Dean" title="Tacita Dean">Tacita Dean</a></li>
+<li><a href="/wiki/Tracey_Emin" title="Tracey Emin">Tracey Emin</a></li>
+<li><a href="/wiki/Angus_Fairhurst" title="Angus Fairhurst">Angus Fairhurst</a></li>
+<li><a href="/wiki/Nick_Fudge" title="Nick Fudge">Nick Fudge</a></li>
+<li><a href="/wiki/Anya_Gallaccio" title="Anya Gallaccio">Anya Gallaccio</a></li>
+<li><a href="/wiki/Liam_Gillick" title="Liam Gillick">Liam Gillick</a></li>
+<li><a href="/wiki/Douglas_Gordon" title="Douglas Gordon">Douglas Gordon</a></li>
+<li><a href="/wiki/Marcus_Harvey" title="Marcus Harvey">Marcus Harvey</a></li>
+<li><a href="/wiki/Damien_Hirst" title="Damien Hirst">Damien Hirst</a></li>
+<li><a href="/wiki/Gary_Hume" title="Gary Hume">Gary Hume</a></li>
+<li><a href="/wiki/Michael_Landy" title="Michael Landy">Michael Landy</a></li>
+<li><a href="/wiki/Abigail_Lane" title="Abigail Lane">Abigail Lane</a></li>
+<li><a href="/wiki/Chris_Ofili" title="Chris Ofili">Chris Ofili</a></li>
+<li><a href="/wiki/Sarah_Lucas" title="Sarah Lucas">Sarah Lucas</a></li>
+<li><a href="/wiki/Stephen_Park" title="Stephen Park">Stephen Park</a></li>
+<li><a href="/wiki/Richard_Patterson_(artist)" title="Richard Patterson (artist)">Richard Patterson</a></li>
+<li><a href="/wiki/Simon_Patterson_(artist)" title="Simon Patterson (artist)">Simon Patterson</a></li>
+<li><a href="/wiki/Steven_Pippin" title="Steven Pippin">Steven Pippin</a></li>
+<li><a href="/wiki/Marc_Quinn" title="Marc Quinn">Marc Quinn</a></li>
+<li><a href="/wiki/Fiona_Rae" title="Fiona Rae">Fiona Rae</a></li>
+<li><a href="/wiki/Alessandro_Raho" title="Alessandro Raho">Alessandro Raho</a></li>
+<li><a href="/wiki/Jenny_Saville" title="Jenny Saville">Jenny Saville</a></li>
+<li><a href="/wiki/Georgina_Starr" title="Georgina Starr">Georgina Starr</a></li>
+<li><a href="/wiki/Sam_Taylor-Johnson" title="Sam Taylor-Johnson">Sam Taylor-Johnson</a></li>
+<li><a href="/wiki/Gavin_Turk" title="Gavin Turk">Gavin Turk</a></li>
+<li><a href="/wiki/Gillian_Wearing" title="Gillian Wearing">Gillian Wearing</a></li>
+<li><a href="/wiki/Rachel_Whiteread" title="Rachel Whiteread">Rachel Whiteread</a></li>
+<li><a href="/wiki/Jane_and_Louise_Wilson" title="Jane and Louise Wilson">Jane and Louise Wilson</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Teachers</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Basil_Beattie" title="Basil Beattie">Basil Beattie</a></li>
+<li><a href="/wiki/Helen_Chadwick" title="Helen Chadwick">Helen Chadwick</a></li>
+<li><a href="/wiki/Michael_Craig-Martin" title="Michael Craig-Martin">Michael Craig-Martin</a></li>
+<li><a href="/wiki/Ian_Jeffrey" title="Ian Jeffrey">Ian Jeffrey</a></li>
+<li><a href="/wiki/Jon_Thompson" title="Jon Thompson">Jon Thompson</a></li>
+<li><a href="/wiki/Mark_Wallinger" title="Mark Wallinger">Mark Wallinger</a></li>
+<li><a href="/wiki/Richard_Wentworth_(artist)" title="Richard Wentworth (artist)">Richard Wentworth</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Influences</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Art_%26_Language" title="Art &amp; Language">Art &amp; Language</a></li>
+<li><a href="/wiki/Art_in_Ruins" title="Art in Ruins">Art in Ruins</a></li>
+<li><a href="/wiki/Conceptual_art" title="Conceptual art">Conceptual art</a></li>
+<li><a href="/wiki/Gilbert_%26_George" title="Gilbert &amp; George">Gilbert &amp; George</a></li>
+<li><a href="/wiki/Jeff_Koons" title="Jeff Koons">Jeff Koons</a></li>
+<li><a href="/wiki/John_Stezaker" title="John Stezaker">John Stezaker</a></li>
+<li><a href="/wiki/Andy_Warhol" title="Andy Warhol">Andy Warhol</a></li>
+<li><a href="/wiki/Lawrence_Weiner" title="Lawrence Weiner">Lawrence Weiner</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Artworks</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/24_Hour_Psycho" title="24 Hour Psycho">24 Hour Psycho</a></i></li>
+<li><i><a href="/wiki/Break_Down_(Landy_artwork)" title="Break Down (Landy artwork)">Break Down</a></i></li>
+<li><i><a href="/wiki/Bullet_Hole" title="Bullet Hole">Bullet Hole</a></i></li>
+<li><i><a href="/wiki/Documents_Series" title="Documents Series">Documents Series</a></i></li>
+<li><i><a href="/wiki/Everyone_I_Have_Ever_Slept_With_1963%E2%80%931995" title="Everyone I Have Ever Slept With 1963–1995">Everyone I Have Ever Slept With 1963–1995</a></i></li>
+<li><i><a href="/wiki/For_the_Love_of_God" title="For the Love of God">For the Love of God</a></i></li>
+<li><i><a href="/wiki/House_(sculpture)" title="House (sculpture)">House</a></i></li>
+<li><i><a href="/wiki/My_Bed" title="My Bed">My Bed</a></i></li>
+<li><i><a href="/wiki/Myra_(painting)" title="Myra (painting)">Myra</a></i></li>
+<li><i><a href="/wiki/No_Woman_No_Cry_(painting)" title="No Woman No Cry (painting)">No Woman No Cry</a></i></li>
+<li><i><a href="/wiki/26_October_1993" title="26 October 1993">26 October 1993</a></i></li>
+<li><i><a href="/wiki/Tate%27s_purchase_of_The_Upper_Room" class="mw-redirect" title="Tate&#39;s purchase of The Upper Room">The Upper Room</a></i></li>
+<li><i><a href="/wiki/Tense_(artwork)" title="Tense (artwork)"> Tense</a></i></li>
+<li><i><a href="/wiki/The_Physical_Impossibility_of_Death_in_the_Mind_of_Someone_Living" title="The Physical Impossibility of Death in the Mind of Someone Living">The Physical Impossibility of Death in the Mind of Someone Living</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Shows</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Brilliant!" title="Brilliant!">Brilliant!</a></i></li>
+<li><i><a href="/wiki/East_Country_Yard_Show" title="East Country Yard Show">East Country Yard Show</a></i></li>
+<li><i><a href="/wiki/Freeze_(art_exhibition)" title="Freeze (art exhibition)">Freeze</a></i></li>
+<li><i><a href="/wiki/Modern_Medicine_(art_exhibition)" title="Modern Medicine (art exhibition)"> Modern Medicine</a></i></li>
+<li><i><a href="/wiki/Sensation_(art_exhibition)" title="Sensation (art exhibition)">Sensation</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Curators</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Joshua_Compston" title="Joshua Compston">Joshua Compston</a></li>
+<li><a href="/wiki/Carl_Freedman" title="Carl Freedman">Carl Freedman</a></li>
+<li><a href="/wiki/Gregor_Muir" title="Gregor Muir">Gregor Muir</a></li>
+<li><a href="/wiki/Norman_Rosenthal" title="Norman Rosenthal">Norman Rosenthal</a></li>
+<li><a href="/wiki/Jon_Thompson" title="Jon Thompson">Jon Thompson</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Galleries</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthony_d%27Offay_Gallery" class="mw-redirect" title="Anthony d&#39;Offay Gallery">Anthony d'Offay Gallery</a></li>
+<li><a href="/wiki/Curtain_Road_Arts" title="Curtain Road Arts">Curtain Road Arts</a></li>
+<li><a href="/wiki/City_Racing" title="City Racing">City Racing</a></li>
+<li><a href="/wiki/Gagosian_Gallery" title="Gagosian Gallery">Gagosian Gallery</a></li>
+<li><a href="/wiki/Karsten_Schubert_Gallery" class="mw-redirect" title="Karsten Schubert Gallery">Karsten Schubert Gallery</a></li>
+<li><a href="/wiki/Lisson_Gallery" title="Lisson Gallery">Lisson Gallery</a></li>
+<li><a href="/wiki/Maureen_Paley" title="Maureen Paley">Maureen Paley</a></li>
+<li><a href="/wiki/Saatchi_Gallery" title="Saatchi Gallery">Saatchi Gallery</a></li>
+<li><a href="/wiki/Sadie_Coles_HQ" title="Sadie Coles HQ">Sadie Coles HQ</a></li>
+<li><a href="/wiki/South_London_Gallery" title="South London Gallery">South London Gallery</a></li>
+<li><a href="/wiki/Victoria_Miro_Gallery" title="Victoria Miro Gallery">Victoria Miro Gallery</a></li>
+<li><a href="/wiki/White_Cube" title="White Cube">White Cube</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Collectors</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bernard_Arnault" title="Bernard Arnault">Bernard Arnault</a></li>
+<li><a href="/wiki/Janet_Wolfson_de_Botton" title="Janet Wolfson de Botton">Janet Wolfson de Botton</a></li>
+<li><a href="/wiki/Eli_Broad" title="Eli Broad">Eli Broad</a></li>
+<li><a href="/wiki/Frank_Cohen" title="Frank Cohen">Frank Cohen</a></li>
+<li><a href="/wiki/Steven_A._Cohen" title="Steven A. Cohen">Steven A. Cohen</a></li>
+<li><a href="/wiki/Dakis_Joannou" title="Dakis Joannou">Dakis Joannou</a></li>
+<li><a href="/wiki/Pauline_Karpidas" title="Pauline Karpidas">Pauline Karpidas</a></li>
+<li><a href="/wiki/George_Michael" title="George Michael">George Michael</a></li>
+<li><a href="/wiki/Jose_Mugrabi" title="Jose Mugrabi">Jose Mugrabi</a></li>
+<li><a href="/wiki/Fran%C3%A7ois_Pinault" title="François Pinault">François Pinault</a></li>
+<li><a href="/wiki/Miuccia_Prada" title="Miuccia Prada">Miuccia Prada</a></li>
+<li><a href="/wiki/Charles_Saatchi" title="Charles Saatchi">Charles Saatchi</a></li>
+<li><a href="/wiki/Jack_Wendler" title="Jack Wendler">Jack Wendler</a></li>
+<li><a href="/wiki/Poju_Zabludowicz" title="Poju Zabludowicz">Poju and Anita Zabludowicz</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Advocates</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Louisa_Buck" title="Louisa Buck">Louisa Buck</a></li>
+<li><a href="/wiki/Matthew_Collings" title="Matthew Collings">Matthew Collings</a></li>
+<li><a href="/wiki/Richard_Cork" title="Richard Cork">Richard Cork</a></li>
+<li><a href="/wiki/Andrew_Graham-Dixon" title="Andrew Graham-Dixon">Andrew Graham-Dixon</a></li>
+<li><a href="/wiki/Sarah_Kent" title="Sarah Kent">Sarah Kent</a></li>
+<li><a href="/wiki/Stuart_Morgan_(art_critic)" title="Stuart Morgan (art critic)">Stuart Morgan</a></li>
+<li><a href="/wiki/Norman_Rosenthal" title="Norman Rosenthal">Norman Rosenthal</a></li>
+<li><a href="/wiki/Nicholas_Serota" title="Nicholas Serota">Sir Nicholas Serota</a></li>
+<li><a href="/wiki/Matthew_Slotover" title="Matthew Slotover">Matthew Slotover</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Opponents</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/BANK_(art_collective)" title="BANK (art collective)">BANK</a></li>
+<li><a href="/wiki/Billy_Childish" title="Billy Childish">Billy Childish</a></li>
+<li><a href="/wiki/James_Heartfield" title="James Heartfield">James Heartfield</a></li>
+<li><a href="/wiki/Matthew_Higgs" title="Matthew Higgs">Matthew Higgs</a></li>
+<li><a href="/wiki/David_Lee_(art_critic)" title="David Lee (art critic)">David Lee</a></li>
+<li><a href="/wiki/Brian_Sewell" title="Brian Sewell">Brian Sewell</a></li>
+<li><a href="/wiki/Julian_Stallabrass" title="Julian Stallabrass">Julian Stallabrass</a></li>
+<li><a href="/wiki/Stuckism" title="Stuckism">Stuckists</a></li>
+<li><a href="/wiki/Charles_Thomson_(artist)" title="Charles Thomson (artist)">Charles Thomson </a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">See also</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Conceptual_art" title="Conceptual art">Conceptual art</a></li>
+<li><a href="/wiki/Frieze_Art_Fair" title="Frieze Art Fair">Frieze Art Fair</a></li>
+<li><a href="/wiki/Momart" title="Momart">Momart</a></li>
+<li><a href="/wiki/Post-YBAs" title="Post-YBAs">Post-YBAs</a></li>
+<li><a href="/wiki/Turner_Prize" title="Turner Prize">Turner Prize</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2283
+Cached time: 20180929133622
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.356 seconds
+Real time usage: 0.466 seconds
+Preprocessor visited node count: 1486/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 58616/2097152 bytes
+Template argument size: 1345/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 26827/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.108/10.000 seconds
+Lua memory usage: 3.46 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  290.521      1 -total
+ 46.58%  135.318      1 Template:Reflist
+ 31.20%   90.636      5 Template:Cite_web
+ 15.49%   45.009      2 Template:Fix
+ 14.90%   43.276      1 Template:Citation_needed
+ 11.00%   31.954      1 Template:EngvarB
+ 10.52%   30.577      4 Template:Category_handler
+  6.69%   19.427      1 Template:Westernart
+  6.34%   18.433      2 Template:Navbox
+  5.93%   17.222      2 Template:DMCA
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:158384-0!canonical and timestamp 20180929133622 and revision id 854940501
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Young_British_Artists&amp;oldid=854940501">https://en.wikipedia.org/w/index.php?title=Young_British_Artists&amp;oldid=854940501</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:British_artist_groups_and_collectives" title="Category:British artist groups and collectives">British artist groups and collectives</a></li><li><a href="/wiki/Category:British_contemporary_artists" title="Category:British contemporary artists">British contemporary artists</a></li><li><a href="/wiki/Category:Young_British_Artists" title="Category:Young British Artists">Young British Artists</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:EngvarB_from_May_2016" title="Category:EngvarB from May 2016">EngvarB from May 2016</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_May_2016" title="Category:Use dmy dates from May 2016">Use dmy dates from May 2016</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2010" title="Category:Articles with unsourced statements from November 2010">Articles with unsourced statements from November 2010</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_December_2017" title="Category:Articles with dead external links from December 2017">Articles with dead external links from December 2017</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Young+British+Artists" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Young+British+Artists" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Young_British_Artists" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Young_British_Artists" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Young_British_Artists">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Young_British_Artists&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Young_British_Artists&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Young_British_Artists" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Young_British_Artists" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Young_British_Artists&amp;oldid=854940501" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Young_British_Artists&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q516316" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Young_British_Artists&amp;id=854940501" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Young+British+Artists">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Young+British+Artists&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Young_British_Artists&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Young_British_Artists" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Young_British_Artists" title="Young British Artists – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Young_British_Artists" title="Young British Artists – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Young_British_Artists" title="Young British Artists – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Young_British_Artists" title="Young British Artists – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Young_British_Artists" title="Young British Artists – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%98%81_%EB%B8%8C%EB%A6%AC%ED%8B%B0%EC%8B%9C_%EC%95%84%ED%8B%B0%EC%8A%A4%ED%8A%B8" title="영 브리티시 아티스트 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Young_British_Artists" title="Young British Artists – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%9E%D7%A0%D7%99%D7%9D_%D7%91%D7%A8%D7%99%D7%98%D7%99%D7%9D_%D7%A6%D7%A2%D7%99%D7%A8%D7%99%D7%9D" title="אמנים בריטים צעירים – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%AE%E1%83%90%E1%83%9A%E1%83%92%E1%83%90%E1%83%96%E1%83%A0%E1%83%93%E1%83%90_%E1%83%91%E1%83%A0%E1%83%98%E1%83%A2%E1%83%90%E1%83%9C%E1%83%94%E1%83%9A%E1%83%98_%E1%83%9B%E1%83%AE%E1%83%90%E1%83%A2%E1%83%95%E1%83%A0%E1%83%94%E1%83%91%E1%83%98" title="ახალგაზრდა ბრიტანელი მხატვრები – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Young_British_Artists" title="Young British Artists – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88" title="ヤング・ブリティッシュ・アーティスト – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Young_British_Artists" title="Young British Artists – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D1%8B%D0%B5_%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8" title="Молодые британские художники – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Young_British_Artists" title="Young British Artists – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Young_British_Artists" title="Young British Artists – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D1%96_%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BC%D0%B8%D1%82%D1%86%D1%96" title="Молоді британські митці – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q516316#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 14 August 2018, at 20:41<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Young_British_Artists&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.356","walltime":"0.466","ppvisitednodes":{"value":1486,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":58616,"limit":2097152},"templateargumentsize":{"value":1345,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":26827,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  290.521      1 -total"," 46.58%  135.318      1 Template:Reflist"," 31.20%   90.636      5 Template:Cite_web"," 15.49%   45.009      2 Template:Fix"," 14.90%   43.276      1 Template:Citation_needed"," 11.00%   31.954      1 Template:EngvarB"," 10.52%   30.577      4 Template:Category_handler","  6.69%   19.427      1 Template:Westernart","  6.34%   18.433      2 Template:Navbox","  5.93%   17.222      2 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.108","limit":"10.000"},"limitreport-memusage":{"value":3625741,"limit":52428800}},"cachereport":{"origin":"mw2283","timestamp":"20180929133622","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw2225"});});</script>
+	</body>
+</html>

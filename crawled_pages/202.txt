@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Teoma - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Teoma","wgTitle":"Teoma","wgCurRevisionId":846116818,"wgRevisionId":846116818,"wgArticleId":485691,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from April 2014","Articles containing potentially dated statements from 2010","All articles containing potentially dated statements","Articles containing potentially dated statements from May 2010","Articles with unsourced statements from August 2016","Webarchive template other archives","All stub articles","Internet search engines","Internet properties established in 2000","Search engine website stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Teoma","wgRelevantArticleId":485691,"wgRequestId":"W6-DLgrAMGIAAEeWImQAAABC","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q2066625","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Teoma"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Teoma&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Teoma&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Teoma"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Teoma rootpage-Teoma skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Teoma</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><caption class="fn org">Teoma</caption><tbody><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:Teoma.gif" class="image"><img alt="Teoma.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Teoma.gif/250px-Teoma.gif" width="250" height="44" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Teoma.gif/375px-Teoma.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/1/1d/Teoma.gif 2x" data-file-width="400" data-file-height="71" /></a></td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Type of site</div></th><td>
+Search Engine</td></tr><tr><th scope="row">Available&#160;in</th><td>
+English</td></tr><tr><th scope="row">Website</th><td class="url">
+<a rel="nofollow" class="external free" href="http://www.teoma.com/">http://www.teoma.com/</a></td></tr><tr><th scope="row">Launched</th><td>
+June&#160;2, 2000<span class="noprint">&#59;&#32;18 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2000-06-02</span>)</span></td></tr><tr><th scope="row">Current&#160;status</th><td class="category">
+Active</td></tr></tbody></table>
+<p><b>Teoma</b>, pronounced <i>tay o mah</i><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2014)">citation needed</span></a></i>&#93;</sup> (from <a href="/wiki/Scottish_Gaelic" title="Scottish Gaelic">Scottish Gaelic</a> <i>teòma</i> "expert"), was an Internet <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engine</a> founded in 2000 by Professor <a href="/wiki/Apostolos_Gerasoulis" title="Apostolos Gerasoulis">Apostolos Gerasoulis</a> and his colleagues at <a href="/wiki/Rutgers_University" title="Rutgers University">Rutgers University</a> in <a href="/wiki/New_Jersey" title="New Jersey">New Jersey</a>. Professor <a href="/wiki/Tao_Yang_(Teoma)" title="Tao Yang (Teoma)">Tao Yang</a> from the <a href="/wiki/University_of_California,_Santa_Barbara" title="University of California, Santa Barbara">University of California, Santa Barbara</a> co-led technology R&amp;D. Their research grew out of the 1998 DiscoWeb project. The original research was published in the paper, "DiscoWeb: Applying Link Analysis to Web Search".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>Teoma used a unique link-popularity algorithm. Unlike Google's <a href="/wiki/PageRank" title="PageRank">PageRank</a>, Teoma's technology (Subject-Specific Popularity) analyzed links in context to rank a web page's importance within its specific subject. For instance, a web page about "baseball" would rank higher if other web pages about "baseball" linked to it.
+</p><p>Many parts of Teoma's relevancy algorithm stemmed from the methodology which <a href="/wiki/IBM" title="IBM">IBM</a> developed for its <a href="/wiki/CLEVER_project" title="CLEVER project">CLEVER project</a>.
+</p><p><a href="/wiki/Ask.com" title="Ask.com">Ask Jeeves</a> acquired Teoma on September 11, 2001; it has powered <a rel="nofollow" class="external text" href="http://www.ask.com">ask.com</a> and other international Ask Jeeves sites (such as <a rel="nofollow" class="external text" href="http://www.ask.co.uk">ask.co.uk</a>, <a rel="nofollow" class="external text" href="http://www.ask.jp">ask.jp</a>) and <a rel="nofollow" class="external text" href="http://es.ask.com">Ask Jeeves Spain</a> since then. On 26 February 2006 Teoma was rebranded and redirected to <a href="/wiki/Ask.com" title="Ask.com">Ask.com</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>As of  2010<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Teoma&amp;action=edit">&#91;update&#93;</a></sup> Ask.com referred to the Teoma algorithm as the <b>ExpertRank</b> algorithm.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>The official word on Teoma from Ask.com as of  May&#160; 2010<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Teoma&amp;action=edit">&#91;update&#93;</a></sup>: "We re-launched Teoma.com in mid-April 2010 to provide a simplified interface for everyday keyword web search. Teoma.com's organic results will be similar to, but not exactly the same as, those on Ask.com, primarily for testing purposes, but also to provide a more simplified search <a href="/wiki/Experience_(disambiguation)" class="mw-disambig" title="Experience (disambiguation)">experience</a>."<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2016)">citation needed</span></a></i>&#93;</sup>
+</p><p>Currently, the Web search is powered by <a href="/wiki/Google_Search" title="Google Search">Google</a>, Images search is powered by <a href="/wiki/Picsearch" title="Picsearch">Picsearch</a>, News search is powered by <a href="/wiki/IAC_Applications" class="mw-redirect" title="IAC Applications">IAC Applications</a>, Videos search is powered by <a href="/wiki/YouTube" title="YouTube">YouTube</a>, Shopping search is powered by <a href="/wiki/Amazon_(company)" title="Amazon (company)">Amazon</a>, Maps search is powered by <a href="/wiki/Bing_Maps" title="Bing Maps">Bing</a> and Recipes search is powered by <a href="/w/index.php?title=Total_Recipe_Search&amp;action=edit&amp;redlink=1" class="new" title="Total Recipe Search (page does not exist)">Total Recipe Search</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#See_also"><span class="tocnumber">1</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#References"><span class="tocnumber">2</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#External_links"><span class="tocnumber">3</span> <span class="toctext">External links</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Search_Engine_Charts"><span class="tocnumber">3.1</span> <span class="toctext">Search Engine Charts</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Teoma&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_search_engines" title="List of search engines">List of search engines</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Teoma&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">B. D. Davison, A. Gerasoulis, K. Kleisouris, Y. Lu, H. Seo, W. Wang, and B. Wu. (1999) <a rel="nofollow" class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.118.7106">DiscoWeb: Applying Link Analysis to Web Search</a>. Presented at the Eighth International World Wide Web Conference, Toronto, May.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060301032253/http://blog.ask.com/2006/02/another_brand_r.html">"Another Brand Retirement of Note: Teoma"</a>. <i>Ask.com Blog</i>. 2006-02-26. Archived from <a rel="nofollow" class="external text" href="http://blog.ask.com/2006/02/another_brand_r.html">the original</a> on 2006-03-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-02-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ask.com+Blog&amp;rft.atitle=Another+Brand+Retirement+of+Note%3A+Teoma&amp;rft.date=2006-02-26&amp;rft_id=http%3A%2F%2Fblog.ask.com%2F2006%2F02%2Fanother_brand_r.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATeoma" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
+<a rel="nofollow" class="external text" href="http://www.iac.com/Our-Businesses/Ask.com">IAC &gt; Our Businesses &gt; Ask.com</a>. <a href="/wiki/IAC_(company)" title="IAC (company)">IAC</a>. Accessed May 14, 2010.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Teoma&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20040404005322/http://sp.teoma.com/docs/teoma/about/searchwithauthority.html">About Teoma</a> - from the official site.</li>
+<li><a rel="nofollow" class="external text" href="http://www.teoma.com">Teoma</a></li>
+<li><a rel="nofollow" class="external text" href="http://webarchive.loc.gov/all/20050905074328/http://www.teoma.com/">Teoma.com</a> at the <a href="/wiki/Library_of_Congress" title="Library of Congress">Library of Congress</a> Web Archives&#32;(archived 2005-09-05)</li></ul>
+<h3><span class="mw-headline" id="Search_Engine_Charts">Search Engine Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Teoma&amp;action=edit&amp;section=4" title="Edit section: Search Engine Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.bruceclay.com/searchenginerelationshipchart.htm">Bruce Clay, INC's Search Engine Relationship Chart </a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ihelpyou.com/search-engine-chart.html">ihelpyou, INC's Search Engine Partnership Chart</a></li></ul>
+<p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Searchtool.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/en/thumb/6/61/Searchtool.svg/30px-Searchtool.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/61/Searchtool.svg/45px-Searchtool.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/61/Searchtool.svg/60px-Searchtool.svg.png 2x" data-file-width="512" data-file-height="512" /></a></td><td><i>This article about a <a href="/wiki/Web_search_engine" title="Web search engine">search engine</a> website is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Teoma&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Searchengine-website-stub" title="Template:Searchengine-website-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Searchengine-website-stub" title="Template talk:Searchengine-website-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Searchengine-website-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Parsed by mw2195
+Cached time: 20180929140108
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.256 seconds
+Real time usage: 0.335 seconds
+Preprocessor visited node count: 1649/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 14345/2097152 bytes
+Template argument size: 2187/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3668/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.122/10.000 seconds
+Lua memory usage: 2.73 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  303.878      1 -total
+ 44.26%  134.491      1 Template:Infobox_website
+ 37.41%  113.672      1 Template:Infobox
+ 22.57%   68.575      1 Template:Reflist
+ 19.39%   58.911      1 Template:Cite_web
+ 18.31%   55.653      2 Template:Citation_needed
+ 16.35%   49.678      2 Template:Fix
+  9.19%   27.934      4 Template:Category_handler
+  8.14%   24.738      1 Template:Start_date_and_age
+  6.72%   20.410      2 Template:As_of
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:485691-0!canonical and timestamp 20180929140108 and revision id 846116818
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Teoma&amp;oldid=846116818">https://en.wikipedia.org/w/index.php?title=Teoma&amp;oldid=846116818</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li><li><a href="/wiki/Category:Internet_properties_established_in_2000" title="Category:Internet properties established in 2000">Internet properties established in 2000</a></li><li><a href="/wiki/Category:Search_engine_website_stubs" title="Category:Search engine website stubs">Search engine website stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2014" title="Category:Articles with unsourced statements from April 2014">Articles with unsourced statements from April 2014</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2010" title="Category:Articles containing potentially dated statements from 2010">Articles containing potentially dated statements from 2010</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_May_2010" title="Category:Articles containing potentially dated statements from May 2010">Articles containing potentially dated statements from May 2010</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2016" title="Category:Articles with unsourced statements from August 2016">Articles with unsourced statements from August 2016</a></li><li><a href="/wiki/Category:Webarchive_template_other_archives" title="Category:Webarchive template other archives">Webarchive template other archives</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Teoma" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Teoma" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Teoma" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Teoma" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Teoma">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Teoma&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Teoma&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Teoma" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Teoma" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Teoma&amp;oldid=846116818" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Teoma&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2066625" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Teoma&amp;id=846116818" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Teoma">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Teoma&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Teoma&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D9%8A%D9%88%D9%85%D8%A7" title="تيوما – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Teoma" title="Teoma – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Teoma" title="Teoma – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Teoma" title="Teoma – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%9A%E0%B5%8B%E0%B4%AE" title="ചോമ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Teoma" title="Teoma – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2066625#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 16 June 2018, at 12:31<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Teoma&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.256","walltime":"0.335","ppvisitednodes":{"value":1649,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":14345,"limit":2097152},"templateargumentsize":{"value":2187,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3668,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  303.878      1 -total"," 44.26%  134.491      1 Template:Infobox_website"," 37.41%  113.672      1 Template:Infobox"," 22.57%   68.575      1 Template:Reflist"," 19.39%   58.911      1 Template:Cite_web"," 18.31%   55.653      2 Template:Citation_needed"," 16.35%   49.678      2 Template:Fix","  9.19%   27.934      4 Template:Category_handler","  8.14%   24.738      1 Template:Start_date_and_age","  6.72%   20.410      2 Template:As_of"]},"scribunto":{"limitreport-timeusage":{"value":"0.122","limit":"10.000"},"limitreport-memusage":{"value":2858006,"limit":52428800}},"cachereport":{"origin":"mw2195","timestamp":"20180929140108","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw2276"});});</script>
+	</body>
+</html>

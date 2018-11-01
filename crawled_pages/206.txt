@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>A9.com - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"A9.com","wgTitle":"A9.com","wgCurRevisionId":849472838,"wgRevisionId":849472838,"wgArticleId":596913,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with vague or ambiguous time","Vague or ambiguous time from November 2016","All articles with unsourced statements","Articles with unsourced statements from November 2016","Internet search engines","Amazon (company)","Internet properties established in 2004","Web mapping","Creative Commons-licensed authors"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"A9.com","wgRelevantArticleId":596913,"wgRequestId":"W6@B4wrAIDUAADyBCt0AAABX","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q280457","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/d4/Ph-landscapes-dec-src-1.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/A9.com"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=A9.com&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=A9.com&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/A9.com"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-A9_com rootpage-A9_com skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">A9.com</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><caption class="fn org">A9.com, Inc.</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center">
+<a href="/wiki/File:Ph-landscapes-dec-src-1.jpg" class="image"><img alt="Ph-landscapes-dec-src-1.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ph-landscapes-dec-src-1.jpg/220px-Ph-landscapes-dec-src-1.jpg" width="220" height="157" srcset="//upload.wikimedia.org/wikipedia/commons/d/d4/Ph-landscapes-dec-src-1.jpg 1.5x" data-file-width="245" data-file-height="175" /></a><div>A9.com office in Palo Alto, CA</div></td></tr><tr><th scope="row" style="padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height:1.35em;">
+Search Engine</td></tr><tr><th scope="row" style="padding-right:0.5em;">Industry</th><td class="category" style="line-height:1.35em;">
+Communications</td></tr><tr><th scope="row" style="padding-right:0.5em;">Headquarters</th><td class="label" style="line-height:1.35em;">
+<a href="/wiki/Palo_Alto" class="mw-redirect" title="Palo Alto">Palo Alto</a>, <a href="/wiki/California" title="California">California</a></td></tr><tr><th scope="row" style="padding-right:0.5em;"><a href="/wiki/Parent_company" title="Parent company">Parent</a></th><td style="line-height:1.35em;">
+<a href="/wiki/Amazon_(company)" title="Amazon (company)">Amazon</a></td></tr><tr><th scope="row" style="padding-right:0.5em;">Website</th><td style="line-height:1.35em;">
+<span class="url"><a rel="nofollow" class="external text" href="http://a9.com">a9<wbr />.com</a></span></td></tr></tbody></table>
+<p><b>A9.com</b> is a <a href="/wiki/Subsidiary" title="Subsidiary">subsidiary</a> of <a href="/wiki/Amazon_(company)" title="Amazon (company)">Amazon</a> that develops <a href="/wiki/Search_engine_technology" title="Search engine technology">search engine</a> and <a href="/wiki/Search_advertising" title="Search advertising">search advertising</a> technology. A9 is based in <a href="/wiki/Palo_Alto,_California" title="Palo Alto, California">Palo Alto, California</a>, with teams in <a href="/wiki/Bangalore" title="Bangalore">Bangalore</a>, <a href="/wiki/Beijing" title="Beijing">Beijing</a>, <a href="/wiki/Dublin" title="Dublin">Dublin</a>, <a href="/wiki/Ia%C8%99i" title="Iași">Iași</a>, <a href="/wiki/Munich" title="Munich">Munich</a> and <a href="/wiki/Tokyo" title="Tokyo">Tokyo</a>. A9 has development efforts in areas of product search, cloud search, visual search, augmented reality, advertising technology and community question answering.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Past_projects"><span class="tocnumber">2</span> <span class="toctext">Past projects</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#A9.com_search_portal"><span class="tocnumber">2.1</span> <span class="toctext">A9.com search portal</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Open_Search"><span class="tocnumber">2.2</span> <span class="toctext">Open Search</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#BlockView"><span class="tocnumber">2.3</span> <span class="toctext">BlockView</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Clickriver"><span class="tocnumber">2.4</span> <span class="toctext">Clickriver</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Community_question_answering"><span class="tocnumber">2.5</span> <span class="toctext">Community question answering</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Cloud_search"><span class="tocnumber">2.6</span> <span class="toctext">Cloud search</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Recent_projects"><span class="tocnumber">3</span> <span class="toctext">Recent projects</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Product_search"><span class="tocnumber">3.1</span> <span class="toctext">Product search</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Visual_search"><span class="tocnumber">3.2</span> <span class="toctext">Visual search</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Advertising_technology"><span class="tocnumber">3.3</span> <span class="toctext">Advertising technology</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A9.com&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A9 was created by Amazon.com in 2003 as an independent company aimed at producing technology for search and advertising. They moved into the building previously used by the <a href="/wiki/DEC_Systems_Research_Center" title="DEC Systems Research Center">DEC Systems Research Center</a> in <a href="/wiki/Palo_Alto,_California" title="Palo Alto, California">Palo Alto, California</a>. 
+One purpose of A9.com was to leverage <a href="/wiki/Algorithm" title="Algorithm">algorithms</a>, and the name was chosen as a <a href="/wiki/Numeronym" title="Numeronym">numeronym</a> to represent that word (i.e. 'A' + 9 other letters).
+The office was in <a href="/wiki/Silicon_Valley" title="Silicon Valley">Silicon Valley</a>, near <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>.<sup id="cite_ref-udi04_1-0" class="reference"><a href="#cite_note-udi04-1">&#91;1&#93;</a></sup>
+Under the direction of its first president, <a href="/wiki/Udi_Manber" title="Udi Manber">Udi Manber</a>, A9 focused on several areas, including the A9.com destination website,
+product search, and a search advertising platform.  Some early A9 services such as "search inside the book" continued, while others have been discontinued.  
+The A9 search engine powers product search for Amazon.com and several other eCommerce retailers.
+</p><p>In February 2006, Manber was replaced by <a href="/wiki/David_L._Tennenhouse" title="David L. Tennenhouse">David L. Tennenhouse</a> as president.<sup id="cite_ref-post_2-0" class="reference"><a href="#cite_note-post-2">&#91;2&#93;</a></sup> 
+In September 2006, William Stasior, one of A9's founders and a former <a href="/wiki/AltaVista" title="AltaVista">AltaVista</a> and Amazon.com executive, was named president.
+In June 2009, A9 acquired SnapTell, which developed smartphone-based visual search applications.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>Stasior left in October 2012 to join <a href="/wiki/Apple_Inc." title="Apple Inc.">Apple Inc.</a> and work on <a href="/wiki/Siri" title="Siri">Siri</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+Brian Pinkerton, who had developed <a href="/wiki/WebCrawler" title="WebCrawler">WebCrawler</a> in the 1990s,  became general manager of A9 in 2012.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Past_projects">Past projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A9.com&amp;action=edit&amp;section=2" title="Edit section: Past projects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="A9.com_search_portal">A9.com search portal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A9.com&amp;action=edit&amp;section=3" title="Edit section: A9.com search portal">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A9.com originally operated a <a href="/wiki/Web_portal" title="Web portal">search portal</a>, along with an A9 <a href="/wiki/Toolbar" title="Toolbar">toolbar</a>, which was first demonstrated on April 14, 2004.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>  The service featured some innovative design elements, allowing users to choose from over 400 sources to search and view results in separate columns grouped by source.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+In addition to web search results, users could get product search results from Amazon, encyclopedia results from <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>, movie information from <a href="/wiki/IMDb" title="IMDb">IMDb</a>, and others, starting in September 2004.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+Web search results were provided by different search engines over time.  The search portal functionality was discontinued in 2008.
+</p>
+<h3><span class="mw-headline" id="Open_Search">Open Search</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A9.com&amp;action=edit&amp;section=4" title="Edit section: Open Search">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A9 developed a protocol called <a href="/wiki/OpenSearch" title="OpenSearch">OpenSearch</a> that enabled the "plug-in" search source functionality from the A9.com portal.  The original specification, OpenSearch 1.0, was released in March 2005.  A9 made the protocol freely available through a <a href="/wiki/Creative_Commons" title="Creative Commons">Creative Commons</a> license. OpenSearch is now<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (November 2016)">when?</span></a></i>&#93;</sup> maintained by the OpenSearch.org community.
+</p>
+<h3><span class="mw-headline" id="BlockView">BlockView</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A9.com&amp;action=edit&amp;section=5" title="Edit section: BlockView">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A9 developed the first service that allowed users of maps and "<a href="/wiki/Yellow_pages" title="Yellow pages">yellow pages</a>" (a <a href="/wiki/Telephone_directory" title="Telephone directory">telephone directory</a>) to view buildings at street level.  Called BlockView, the service was announced in January 2005.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>  Within a year, the service included images for 24 US cities.  Both BlockView and maps (as well as support for the A9 tool bar) were discontinued in September 2006.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Clickriver">Clickriver</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A9.com&amp;action=edit&amp;section=6" title="Edit section: Clickriver">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In November 2006, A9 announced Clickriver, an advertising program that let third parties place advertisements on Amazon.com pages.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+Clickriver focused primarily on products and services that complemented Amazon's own offerings.  For example, if a customer viewed a television on Amazon, a Clickriver ad might offer installation services in his or her local area.  Clickriver was discontinued in 2010, replaced by other Amazon advertising programs.
+</p>
+<h3><span class="mw-headline" id="Community_question_answering">Community question answering</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A9.com&amp;action=edit&amp;section=7" title="Edit section: Community question answering">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A9 operated <a href="/wiki/Askville" title="Askville">Askville</a>, a community-based <a href="/wiki/Question-and-answer_site" class="mw-redirect" title="Question-and-answer site">question-and-answer site</a> first tested in December 2006. Service began in November 2007.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>  Compared with other question-and-answer sites, Askville focused more on social interaction, allowing users to follow other users as well as track specific topics.
+On October 25, 2013, Askville was shut down.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Cloud_search">Cloud search</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A9.com&amp;action=edit&amp;section=8" title="Edit section: Cloud search">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>CloudSearch is a managed <a href="/wiki/Amazon_Web_Services" title="Amazon Web Services">Amazon Web Services</a> service that makes client data searchable.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>  For example, a business that wanted to allow customers to search their catalog could upload the catalog entries to CloudSearch and then route search requests from their application or web site to the service.  CloudSearch instances could be brought online as data or traffic volume demanded.  Sites using CloudSearch included <a href="/wiki/SmugMug" title="SmugMug">SmugMug</a>,<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> and <a href="/wiki/Sage_Bionetworks" title="Sage Bionetworks">Sage Bionetworks</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p><p>In March 2014, Amazon moved away from using A9 for CloudSearch to technology based on <a href="/wiki/Apache_Solr" title="Apache Solr">Apache Solr</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Recent_projects">Recent projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A9.com&amp;action=edit&amp;section=9" title="Edit section: Recent projects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Product_search">Product search</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A9.com&amp;action=edit&amp;section=10" title="Edit section: Product search">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A9 continued to develop and operate the service that provides search on all nine Amazon.com sites, as well as other retail sites owned by Amazon such as <a href="/wiki/Endless.com" title="Endless.com">Endless.com</a>, Javari.de, and <a href="/wiki/Audible.com" class="mw-redirect" title="Audible.com">Audible.com</a>.  In addition, A9 search is also used by other retailers, such as <a href="/wiki/Marks_%26_Spencer" title="Marks &amp; Spencer">Marks &amp; Spencer</a>,<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> that license the Amazon retail platform for their online presence.
+</p><p>A9 provided the "search inside the book" capability for Amazon.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> Announced in 2003, this service allows customers to search through the full text of hundreds of thousands of books.  This feature is available both for searching individual books and for the entire book catalog. <sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Visual_search">Visual search</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A9.com&amp;action=edit&amp;section=11" title="Edit section: Visual search">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The visual search group at A9 created  mobile applications that recognize objects and allow users to find these products on Amazon.com.  Their first augmented reality app, Flow, provided both object and barcode recognition. It was released in 2011.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p><p>A9 visual search technology powers features to let customers search for certain products (such as shoes) by shape, and find visually similar items on Amazon.com, <a href="/wiki/Zappos.com" class="mw-redirect" title="Zappos.com">Zappos.com</a>, Endless.com, and other retail sites.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2016)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h3><span class="mw-headline" id="Advertising_technology">Advertising technology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A9.com&amp;action=edit&amp;section=12" title="Edit section: Advertising technology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A9's advertising technology group began delivering sponsored link advertisements on the Amazon.com retail Web site in 2003 and continued to manage this program for Amazon properties. A9 also invests in display advertising technology, including technology for Amazon's ad-supported e-reader, the <a href="/wiki/Amazon_Kindle" title="Amazon Kindle">Kindle</a> with special offers.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2016)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A9.com&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-udi04-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-udi04_1-0">^</a></b></span> <span class="reference-text"><cite class="citation news">John Battelle (April 15, 2004). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20040416090804/http://www.business2.com/b2/web/articles/0%2C17863%2C611251%2C00.html">"Can Amazon Unplug Google?"</a>. <i>Business 2.0</i>. Archived from <a rel="nofollow" class="external text" href="http://www.business2.com/b2/web/articles/0,17863,611251,00.html">the original</a> on April 16, 2004<span class="reference-accessdate">. Retrieved <span class="nowrap">November 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Business+2.0&amp;rft.atitle=Can+Amazon+Unplug+Google%3F&amp;rft.date=2004-04-15&amp;rft.au=John+Battelle&amp;rft_id=http%3A%2F%2Fwww.business2.com%2Fb2%2Fweb%2Farticles%2F0%2C17863%2C611251%2C00.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA9.com" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-post-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-post_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.washingtonpost.com/wp-dyn/content/article/2006/02/08/AR2006020802243.html">"Google Hires Amazon Executive"</a>. <i><a href="/wiki/The_Washington_Post" title="The Washington Post">The Washington Post</a></i>. February 9, 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">November 20,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Washington+Post&amp;rft.atitle=Google+Hires+Amazon+Executive&amp;rft.date=2006-02-09&amp;rft_id=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Fcontent%2Farticle%2F2006%2F02%2F08%2FAR2006020802243.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA9.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Leena Rao (June 16, 2009). <a rel="nofollow" class="external text" href="https://techcrunch.com/2009/06/16/image-recognition-startup-snaptell-acquired-by-amazon-subsidiary-a9com/">"Image Recognition Startup SnapTell Acquired by Amazon Subsidiary A9.com"</a>. <i>Tech Crunch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Tech+Crunch&amp;rft.atitle=Image+Recognition+Startup+SnapTell+Acquired+by+Amazon+Subsidiary+A9.com&amp;rft.date=2009-06-16&amp;rft.au=Leena+Rao&amp;rft_id=https%3A%2F%2Ftechcrunch.com%2F2009%2F06%2F16%2Fimage-recognition-startup-snaptell-acquired-by-amazon-subsidiary-a9com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA9.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news">Kara Swisher (October 15, 2012). <a rel="nofollow" class="external text" href="http://allthingsd.com/20121015/exclusive-apple-hires-amazon-a9s-stasior-to-run-siri-does-hire-signal-a-bigger-move-into-search/">"Apple Nabs Amazon A9 Exec Stasior to Run Siri — But Does Hire Signal a Bigger Move Into Search?"</a>. <i>All Things D</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=All+Things+D&amp;rft.atitle=Apple+Nabs+Amazon+A9+Exec+Stasior+to+Run+Siri+%E2%80%94+But+Does+Hire+Signal+a+Bigger+Move+Into+Search%3F&amp;rft.date=2012-10-15&amp;rft.au=Kara+Swisher&amp;rft_id=http%3A%2F%2Fallthingsd.com%2F20121015%2Fexclusive-apple-hires-amazon-a9s-stasior-to-run-siri-does-hire-signal-a-bigger-move-into-search%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA9.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20161114072240/https://www.a9.com/about-us/management/">"Leading Leaders"</a>. <i>A9 Management web page</i>. Archived from <a rel="nofollow" class="external text" href="https://www.a9.com/about-us/management/">the original</a> on November 14, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">November 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=A9+Management+web+page&amp;rft.atitle=Leading+Leaders&amp;rft_id=https%3A%2F%2Fwww.a9.com%2Fabout-us%2Fmanagement%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA9.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news">Brid-Aine Parnell (December 18, 2012). <a rel="nofollow" class="external text" href="https://www.theregister.co.uk/2012/12/18/search_engines_we_have_known/?page=3">"Search engines we have known ... before Google crushed them"</a>. <i>The Register</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 17,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Register&amp;rft.atitle=Search+engines+we+have+known+...+before+Google+crushed+them&amp;rft.date=2012-12-18&amp;rft.au=Brid-Aine+Parnell&amp;rft_id=https%3A%2F%2Fwww.theregister.co.uk%2F2012%2F12%2F18%2Fsearch_engines_we_have_known%2F%3Fpage%3D3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA9.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Gary Price (April 14, 2004). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20040416222616/http://www.resourceshelf.com/archives/2004_04_01_resourceshelf_archive.html#10819683645274014">"Amazon's Much Discussed a9 Goes Live"</a>. <i>Resource Shelf</i>. Archived from <a rel="nofollow" class="external text" href="http://www.resourceshelf.com/archives/2004_04_01_resourceshelf_archive.html#108196836452740143">the original</a> on April 16, 2004<span class="reference-accessdate">. Retrieved <span class="nowrap">November 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Resource+Shelf&amp;rft.atitle=Amazon%27s+Much+Discussed+a9+Goes+Live&amp;rft.date=2004-04-14&amp;rft.au=Gary+Price&amp;rft_id=http%3A%2F%2Fwww.resourceshelf.com%2Farchives%2F2004_04_01_resourceshelf_archive.html%23108196836452740143&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA9.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Chris Sherman (April 20, 2004). <a rel="nofollow" class="external text" href="https://searchenginewatch.com/sew/news/2065352/blending-best-google-amazon">"Blending the Best of Google and Amazon"</a>. <i>Search Engine Watch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Search+Engine+Watch&amp;rft.atitle=Blending+the+Best+of+Google+and+Amazon&amp;rft.date=2004-04-20&amp;rft.au=Chris+Sherman&amp;rft_id=https%3A%2F%2Fsearchenginewatch.com%2Fsew%2Fnews%2F2065352%2Fblending-best-google-amazon&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA9.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news"><a href="/wiki/John_Markoff" title="John Markoff">John Markoff</a> (September 15, 2004). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2004/09/15/business/technology/technology-amazon-to-take-searches-on-web-to-a-new.html">"Amazon to Take Searches On Web to a New Depth"</a>. <i>New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 17,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Amazon+to+Take+Searches+On+Web+to+a+New+Depth&amp;rft.date=2004-09-15&amp;rft.au=John+Markoff&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2004%2F09%2F15%2Fbusiness%2Ftechnology%2Ftechnology-amazon-to-take-searches-on-web-to-a-new.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA9.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">Kurt Peters (January 27, 2005). <a rel="nofollow" class="external text" href="http://www.internetretailer.com/2005/01/27/yellow-pages-go-visual-with-block-view-at-amazon-s-a9-com">"Yellow Pages Go Visual with Block View at Amazon's A9.com"</a>. <i>Internet Retailer</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 19,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Internet+Retailer&amp;rft.atitle=Yellow+Pages+Go+Visual+with+Block+View+at+Amazon%27s+A9.com&amp;rft.date=2005-01-27&amp;rft.au=Kurt+Peters&amp;rft_id=http%3A%2F%2Fwww.internetretailer.com%2F2005%2F01%2F27%2Fyellow-pages-go-visual-with-block-view-at-amazon-s-a9-com&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA9.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061005033120/http://www.resourceshelf.com/2006/10/01/search-briefs-a9-discontinues-many-features-yahoo-to-open-yahoo-mail-api/">"So Long to A9's Block Level Imagery, Yellow Pages, Tollbar and Amazon.com Discount"</a>. <i>Resource Shelf</i>. October 1, 2006. Archived from <a rel="nofollow" class="external text" href="http://www.resourceshelf.com/2006/10/01/search-briefs-a9-discontinues-many-features-yahoo-to-open-yahoo-mail-api/">the original</a> on October 5, 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">November 19,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Resource+Shelf&amp;rft.atitle=So+Long+to+A9%27s+Block+Level+Imagery%2C+Yellow+Pages%2C+Tollbar+and+Amazon.com+Discount&amp;rft.date=2006-10-01&amp;rft_id=http%3A%2F%2Fwww.resourceshelf.com%2F2006%2F10%2F01%2Fsearch-briefs-a9-discontinues-many-features-yahoo-to-open-yahoo-mail-api%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA9.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Loren Baker (November 3, 2006). <a rel="nofollow" class="external text" href="https://www.searchenginejournal.com/amazoncoms-clickriver-ppc-to-bypass-google-adwords/3972/">"Amazon.com's Clickriver Pay-Per-Click Search Advertising"</a>. <i>Search Engine Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Search+Engine+Journal&amp;rft.atitle=Amazon.com%27s+Clickriver+Pay-Per-Click+Search+Advertising&amp;rft.date=2006-11-03&amp;rft.au=Loren+Baker&amp;rft_id=https%3A%2F%2Fwww.searchenginejournal.com%2Famazoncoms-clickriver-ppc-to-bypass-google-adwords%2F3972%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA9.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news">Aarthi Sivaraman (November 29, 2007). <a rel="nofollow" class="external text" href="https://www.reuters.com/article/2007/11/29/us-amazon-askville-idUSWNAS341420071129">"Amazon Launches Askville.com"</a>. Reuters<span class="reference-accessdate">. Retrieved <span class="nowrap">November 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Amazon+Launches+Askville.com&amp;rft.date=2007-11-29&amp;rft.au=Aarthi+Sivaraman&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2F2007%2F11%2F29%2Fus-amazon-askville-idUSWNAS341420071129&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA9.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140110015731/http://www.askville.com/">"Dear Askville Community"</a>. <i>Final web site</i>. Archived from <a rel="nofollow" class="external text" href="http://www.askville.com/">the original</a> on January 10, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">November 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Final+web+site&amp;rft.atitle=Dear+Askville+Community&amp;rft_id=http%3A%2F%2Fwww.askville.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA9.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news">Timothy Prickett Morgan (April 12, 2012). <a rel="nofollow" class="external text" href="https://www.theregister.co.uk/2012/04/12/amazon_aws_cloudsearch">"Amazon Turns A9 Search Engine into a Cloud Service"</a>. <i>The Register</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 17,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Register&amp;rft.atitle=Amazon+Turns+A9+Search+Engine+into+a+Cloud+Service&amp;rft.date=2012-04-12&amp;rft.au=Timothy+Prickett+Morgan&amp;rft_id=https%3A%2F%2Fwww.theregister.co.uk%2F2012%2F04%2F12%2Famazon_aws_cloudsearch&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA9.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.smugmug.com/2012/04/12/smugmugs-sexy-new-search/">"SmugMug's Sexy New Search"</a>. <i>SmugMug Blog</i>. April 12, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">November 17,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=SmugMug+Blog&amp;rft.atitle=SmugMug%27s+Sexy+New+Search&amp;rft.date=2012-04-12&amp;rft_id=http%3A%2F%2Fnews.smugmug.com%2F2012%2F04%2F12%2Fsmugmugs-sexy-new-search%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA9.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web">Michael Kellen (April 12, 2012). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120427153704/http://sciencereengineered.com/2012/04/14/on-the-shoulders-of-giants/">"On the Shoulders of Giants"</a>. <i>Science, Reengineered blog</i>. Archived from <a rel="nofollow" class="external text" href="http://sciencereengineered.com/2012/04/14/on-the-shoulders-of-giants/">the original</a> on April 27, 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Science%2C+Reengineered+blog&amp;rft.atitle=On+the+Shoulders+of+Giants&amp;rft.date=2012-04-12&amp;rft.au=Michael+Kellen&amp;rft_id=http%3A%2F%2Fsciencereengineered.com%2F2012%2F04%2F14%2Fon-the-shoulders-of-giants%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA9.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web">Jeff Barr (March 24, 2014). <a rel="nofollow" class="external text" href="http://aws.typepad.com/aws/2014/03/amazon-cloudsearch-even-better-searching-for-less-than-100month.html">"Amazon CloudSearch - Even Better Searching for Less Than $100/Month"</a>. <i>Amazon Web Service blog</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Amazon+Web+Service+blog&amp;rft.atitle=Amazon+CloudSearch+-+Even+Better+Searching+for+Less+Than+%24100%2FMonth&amp;rft.date=2014-03-24&amp;rft.au=Jeff+Barr&amp;rft_id=http%3A%2F%2Faws.typepad.com%2Faws%2F2014%2F03%2Famazon-cloudsearch-even-better-searching-for-less-than-100month.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA9.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://lucidworks.com/blog/2014/03/25/amazons-cloudsearch-gets-solr-powered/">"Amazon's CloudSearch gets Solr Powered!"</a>. <i>Lucidworks blog</i>. March 25, 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Lucidworks+blog&amp;rft.atitle=Amazon%E2%80%99s+CloudSearch+gets+Solr+Powered%21&amp;rft.date=2014-03-25&amp;rft_id=https%3A%2F%2Flucidworks.com%2Fblog%2F2014%2F03%2F25%2Famazons-cloudsearch-gets-solr-powered%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA9.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">"Marks &amp; Spencer Launches Website in Collaboration with Amazon," <i>Computer Weekly,</i> March 23, 2007. <a rel="nofollow" class="external autonumber" href="http://www.computerweekly.com/news/2240080492/Marks-Spencer-launches-website-in-collaboration-with-Amazon">[1]</a></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Gary Price, "Amazon Debuts New Book Search Tool," <i>Search Engine Watch,</i> October 26, 2003 <a rel="nofollow" class="external autonumber" href="http://searchenginewatch.com/article/2064555/Amazon-Debuts-New-Book-Search-Tool">[2]</a></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation news">Steven Levy (November 9, 2003). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120506145828/http://www.thedailybeast.com/newsweek/2003/11/09/welcome-to-history-2-0.html">"Welcome to History 2.0"</a>. <i>Newsweek by the Daily Beast</i>. Archived from <a rel="nofollow" class="external text" href="http://www.thedailybeast.com/newsweek/2003/11/09/welcome-to-history-2-0.html">the original</a> on May 6, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">November 17,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Newsweek+by+the+Daily+Beast&amp;rft.atitle=Welcome+to+History+2.0&amp;rft.date=2003-11-09&amp;rft.au=Steven+Levy&amp;rft_id=http%3A%2F%2Fwww.thedailybeast.com%2Fnewsweek%2F2003%2F11%2F09%2Fwelcome-to-history-2-0.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA9.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web">Will Shanklin (November 3, 2011). <a rel="nofollow" class="external text" href="http://www.geek.com/articles/mobile/flow-for-iphone-is-the-product-id-app-we-have-been-waiting-for-2011113">"Flow for iPhone is the product ID App We Have Been Waiting For"</a>. <i>Geek.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 17,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Geek.com&amp;rft.atitle=Flow+for+iPhone+is+the+product+ID+App+We+Have+Been+Waiting+For&amp;rft.date=2011-11-03&amp;rft.au=Will+Shanklin&amp;rft_id=http%3A%2F%2Fwww.geek.com%2Farticles%2Fmobile%2Fflow-for-iphone-is-the-product-id-app-we-have-been-waiting-for-2011113&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA9.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/flow-powered-by-amazon/id474664425">"Flow iPhone app"</a>. <i>iTunes</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 17,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes&amp;rft.atitle=Flow+iPhone+app&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fflow-powered-by-amazon%2Fid474664425&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AA9.com" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=A9.com&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://a9.com/">Official website</a></span></span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Amazon" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Amazon" title="Template:Amazon"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Amazon" title="Template talk:Amazon"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Amazon&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Amazon" style="font-size:114%;margin:0 4em"><a href="/wiki/Amazon_(company)" title="Amazon (company)">Amazon</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Amazon.com_people" title="Category:Amazon.com people">People</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jeff_Bezos" title="Jeff Bezos">Jeff Bezos</a></li>
+<li><a href="/wiki/Doug_Gurr" title="Doug Gurr">Doug Gurr</a></li>
+<li><a href="/wiki/Tony_Hsieh" title="Tony Hsieh">Tony Hsieh</a></li>
+<li><a href="/wiki/Werner_Vogels" title="Werner Vogels">Werner Vogels</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Former</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Rick_Dalzell" title="Rick Dalzell">Rick Dalzell</a></li>
+<li><a href="/wiki/Paul_Davis_(programmer)" title="Paul Davis (programmer)">Paul Davis</a></li>
+<li><a href="/wiki/Brian_McBride_(director)" title="Brian McBride (director)">Brian McBride</a></li>
+<li><a href="/wiki/Nadia_Shouraboura" title="Nadia Shouraboura">Nadia Shouraboura</a></li>
+<li><a href="/wiki/Ram_Shriram" title="Ram Shriram">Ram Shriram</a></li>
+<li><a href="/wiki/Tom_Szkutak" title="Tom Szkutak">Tom Szkutak</a></li>
+<li><a href="/wiki/Brian_Valentine" title="Brian Valentine">Brian Valentine</a></li>
+<li><a href="/wiki/Christopher_North_(businessman)" title="Christopher North (businessman)">Christopher North</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Facilities</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Doppler_(building)" title="Doppler (building)">Doppler</a></li>
+<li><a href="/wiki/Day_1_(building)" title="Day 1 (building)">Day 1</a></li>
+<li><a href="/wiki/Amazon_Spheres" title="Amazon Spheres">Spheres</a></li>
+<li><i><a href="/wiki/Amazon_HQ2" title="Amazon HQ2">HQ2</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Products<br />and services</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Websites</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">A9.com</a></li>
+<li><a href="/wiki/AbeBooks" title="AbeBooks">AbeBooks</a></li>
+<li>Amazon.com
+<ul><li><a href="/wiki/Amazon_China" title="Amazon China">China</a></li></ul></li>
+<li><a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa Internet</a></li>
+<li><a href="/wiki/Book_Depository" title="Book Depository">Book Depository</a></li>
+<li><a href="/wiki/BookFinder.com" title="BookFinder.com">BookFinder</a></li>
+<li><a href="/wiki/Digital_Photography_Review" title="Digital Photography Review">Digital Photography Review</a></li>
+<li><a href="/wiki/AmazonFresh" title="AmazonFresh">Fresh</a></li>
+<li><a href="/wiki/Goodreads" title="Goodreads">Goodreads</a></li>
+<li><a href="/wiki/IMDb" title="IMDb">IMDb</a>
+<ul><li><a href="/wiki/Box_Office_Mojo" title="Box Office Mojo">Box Office Mojo</a></li>
+<li><a href="/wiki/Withoutabox" title="Withoutabox">Withoutabox</a></li></ul></li>
+<li><a href="/wiki/Amazon_(company)#AmazonLocal" title="Amazon (company)">Local</a></li>
+<li><a href="/wiki/Amazon_Marketplace" title="Amazon Marketplace">Marketplace</a></li>
+<li><a href="/wiki/Amazon_Pay" title="Amazon Pay">Payments</a></li>
+<li><a href="/wiki/Shopbop" title="Shopbop">Shopbop</a></li>
+<li><a href="/wiki/Twitch.tv" title="Twitch.tv">Twitch.tv</a>
+<ul><li><a href="/wiki/Curse,_Inc." class="mw-redirect" title="Curse, Inc.">Curse</a></li></ul></li>
+<li><a href="/wiki/Amazon_(company)#AmazonWireless" title="Amazon (company)">Wireless</a></li>
+<li><a href="/wiki/Woot" title="Woot">Woot.com</a></li>
+<li><a href="/wiki/Zappos" title="Zappos">Zappos</a></li>
+<li><a href="/wiki/Souq.com" title="Souq.com">Souq.com</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Amazon_Web_Services" title="Amazon Web Services">Amazon Web Services</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amazon_Machine_Image" title="Amazon Machine Image">AMI</a></li>
+<li><a href="/wiki/Amazon_Aurora" title="Amazon Aurora">Amazon Aurora</a></li>
+<li><a href="/wiki/Amazon_CloudFront" title="Amazon CloudFront">CloudFront</a></li>
+<li><a href="/wiki/Amazon_DynamoDB" title="Amazon DynamoDB">DynamoDB</a></li>
+<li><a href="/wiki/Amazon_Elastic_Block_Store" title="Amazon Elastic Block Store">EBS</a></li>
+<li><a href="/wiki/Amazon_Elastic_Compute_Cloud" title="Amazon Elastic Compute Cloud">EC2</a></li>
+<li><a href="/wiki/Amazon_Elastic_File_System" title="Amazon Elastic File System">EFS</a></li>
+<li><a href="/wiki/Amazon_ElastiCache" title="Amazon ElastiCache">ElastiCache</a></li>
+<li><a href="/wiki/Amazon_Elastic_MapReduce" class="mw-redirect" title="Amazon Elastic MapReduce">EMR</a></li>
+<li><a href="/wiki/AWS_Lambda" title="AWS Lambda">AWS Lambda</a></li>
+<li><a href="/wiki/Amazon_Mechanical_Turk" title="Amazon Mechanical Turk">MTurk</a></li>
+<li><a href="/wiki/Amazon_Neptune" title="Amazon Neptune">Neptune</a></li>
+<li><a href="/wiki/Amazon_Product_Advertising_API" title="Amazon Product Advertising API">Product Advertising API</a></li>
+<li><a href="/wiki/Amazon_Relational_Database_Service" title="Amazon Relational Database Service">RDS</a></li>
+<li><a href="/wiki/Amazon_Redshift" title="Amazon Redshift">Redshift</a></li>
+<li><a href="/wiki/Amazon_S3" title="Amazon S3">S3</a></li>
+<li><a href="/wiki/Amazon_Simple_Email_Service" class="mw-redirect" title="Amazon Simple Email Service">SES</a></li>
+<li><a href="/wiki/Amazon_Simple_Notification_Service" title="Amazon Simple Notification Service">SNS</a></li>
+<li><a href="/wiki/Amazon_SimpleDB" title="Amazon SimpleDB">SimpleDB</a></li>
+<li><a href="/wiki/Amazon_Simple_Queue_Service" title="Amazon Simple Queue Service">SQS</a></li>
+<li><a href="/wiki/Amazon_Virtual_Private_Cloud" title="Amazon Virtual Private Cloud">VPC</a></li>
+<li><a href="/wiki/Amazon_Silk" title="Amazon Silk">Silk</a></li>
+<li><a href="/wiki/Amazon_Glacier" title="Amazon Glacier">Glacier</a></li>
+<li><a href="/wiki/Amazon_Storywriter" title="Amazon Storywriter">Storywriter</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Digital</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amazon_Alexa" title="Amazon Alexa">Alexa</a></li>
+<li><a href="/wiki/Amazon_Appstore" title="Amazon Appstore">Appstore</a></li>
+<li><a href="/wiki/Audible_(store)" title="Audible (store)">Audible</a></li>
+<li><a href="/wiki/ComiXology" title="ComiXology">ComiXology</a></li>
+<li><a href="/wiki/Amazon_Drive" title="Amazon Drive">Amazon Drive</a></li>
+<li><a href="/wiki/Amazon_Video" title="Amazon Video">Video</a></li>
+<li><a href="/wiki/Amazon_Prime" title="Amazon Prime">Prime</a>
+<ul><li><a href="/wiki/Amazon_Key" class="mw-redirect" title="Amazon Key">Key</a></li>
+<li><a href="/wiki/Amazon_Prime_Music" class="mw-redirect" title="Amazon Prime Music">Prime Music</a></li>
+<li><a href="/wiki/Prime_Now" title="Prime Now">Prime Now</a></li>
+<li><a href="/wiki/Amazon_Prime_Pantry" title="Amazon Prime Pantry">Prime Pantry</a></li>
+<li><a href="/wiki/Amazon_Prime_Video" class="mw-redirect" title="Amazon Prime Video">Prime Video</a></li></ul></li>
+<li><a href="/wiki/Kindle_Store" title="Kindle Store">Kindle Store</a></li>
+<li><a href="/wiki/Amazon_Music" title="Amazon Music">Music</a></li>
+<li><a href="/wiki/Fire_OS" title="Fire OS">Fire OS</a></li>
+<li><a href="/wiki/Amazon_Digital_Game_Store" title="Amazon Digital Game Store">Amazon Digital Game Store</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Devices</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blink_Home" title="Blink Home">Blink Home</a></li>
+<li><a href="/wiki/Amazon_Key#Cloud_Cam" class="mw-redirect" title="Amazon Key">Cloud Cam</a></li>
+<li><a href="/wiki/Amazon_Dash" title="Amazon Dash">Dash buttons</a></li>
+<li><a href="/wiki/Amazon_Dash#Barcode_scanner" title="Amazon Dash">Dash wand</a></li>
+<li><a href="/wiki/Amazon_Echo" title="Amazon Echo">Echo</a>
+<ul><li><a href="/wiki/Amazon_Echo_Show" title="Amazon Echo Show">Show</a></li></ul></li>
+<li><a href="/wiki/Amazon_Kindle" title="Amazon Kindle">Kindle</a></li>
+<li><a href="/wiki/Kindle_Fire" title="Kindle Fire">Kindle Fire</a>
+<ul><li><a href="/wiki/Fire_HD" title="Fire HD">Fire HD</a></li>
+<li><a href="/wiki/Fire_HDX" title="Fire HDX">Fire HDX</a></li></ul></li>
+<li><a href="/wiki/Amazon_Fire_TV" title="Amazon Fire TV">Fire TV</a>
+<ul><li><a href="/wiki/Amazon_Fire_TV#Fire_TV_Stick" title="Amazon Fire TV">Stick</a></li></ul></li>
+<li><a href="/wiki/Fire_Phone" title="Fire Phone">Fire Phone</a></li>
+<li><a href="/wiki/Ring_(company)" title="Ring (company)">Ring</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Technology</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1-Click" title="1-Click">1-Click</a></li>
+<li><a href="/wiki/Amazon_Game_Studios" title="Amazon Game Studios">Amazon Game Studios</a></li>
+<li><a href="/wiki/Amazon_Robotics" title="Amazon Robotics">Amazon Robotics</a></li>
+<li><a href="/wiki/Carbonado_(Java)" title="Carbonado (Java)">Carbonado</a></li>
+<li><a href="/wiki/Dynamo_(storage_system)" title="Dynamo (storage system)">Dynamo</a></li>
+<li><a href="/wiki/Graphiq" title="Graphiq">Graphiq</a></li>
+<li><a href="/wiki/Amazon_Lab126" title="Amazon Lab126">Lab126</a></li>
+<li><a href="/wiki/Double_Helix_Games" title="Double Helix Games">Double Helix Games</a></li>
+<li><a href="/wiki/Obidos_(software)" title="Obidos (software)">Obidos</a></li>
+<li><a href="/wiki/Liquavista" title="Liquavista">Liquavista</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Publishing</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amazon_Publishing" title="Amazon Publishing">Amazon Publishing</a></li>
+<li><a href="/wiki/Amazon_Studios" title="Amazon Studios">Amazon Studios</a></li>
+<li><a href="/wiki/Amazon_Breakthrough_Novel_Award" title="Amazon Breakthrough Novel Award">Breakthrough Novel Award</a></li>
+<li><a href="/wiki/Amazon%27s_Best_Books_of_the_Year" title="Amazon&#39;s Best Books of the Year">Best Books of the Year</a></li>
+<li><a href="/wiki/Kindle_Direct_Publishing" title="Kindle Direct Publishing">Kindle Direct Publishing</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Retail</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amazon_Books" title="Amazon Books">Amazon Books</a></li>
+<li><a href="/wiki/Amazon_Go" title="Amazon Go">Amazon Go</a></li>
+<li><a href="/wiki/Treasure_Truck" title="Treasure Truck">Treasure Truck</a></li>
+<li><a href="/wiki/Whole_Foods_Market" title="Whole Foods Market">Whole Foods Market</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Logistics</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amazon_Air" title="Amazon Air">Amazon Air</a></li>
+<li><a href="/wiki/Amazon_Prime_Air" title="Amazon Prime Air">Amazon Prime Air</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Former</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/43_Things" title="43 Things">43 Things</a></li>
+<li><a href="/wiki/Askville" title="Askville">Askville</a></li>
+<li><a href="/wiki/Amapedia" title="Amapedia">Amapedia</a></li>
+<li><a href="/wiki/Amie_Street" title="Amie Street">Amie Street</a> (<a href="/wiki/Songza" title="Songza">Songza</a>)</li>
+<li><a href="/wiki/CDNow" title="CDNow">CDNow</a></li>
+<li><a href="/wiki/Diapers.com" title="Diapers.com">Diapers.com</a></li>
+<li><a href="/wiki/Endless.com" title="Endless.com">Endless.com</a></li>
+<li><a href="/wiki/Lexcycle" title="Lexcycle">Lexcycle</a></li>
+<li><a href="/wiki/LivingSocial" title="LivingSocial">LivingSocial</a></li>
+<li><a href="/wiki/LoveFilm" title="LoveFilm">LoveFilm</a></li>
+<li><a href="/wiki/Mobipocket" title="Mobipocket">Mobipocket</a></li>
+<li><a href="/wiki/PlanetAll" title="PlanetAll">PlanetAll</a></li>
+<li><a href="/wiki/Reflexive_Entertainment" title="Reflexive Entertainment">Reflexive Entertainment</a></li>
+<li><a href="/wiki/Sellaband" title="Sellaband">Sellaband</a></li>
+<li><a href="/wiki/Shelfari" title="Shelfari">Shelfari</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amazon_Light" title="Amazon Light">Amazon Light</a></li>
+<li><a href="/wiki/Amazon_Standard_Identification_Number" title="Amazon Standard Identification Number">ASIN</a></li>
+<li><a href="/wiki/Amazon.com_controversies" title="Amazon.com controversies">Controversies</a> (<a href="/wiki/Amazon_tax" title="Amazon tax">tax</a>)</li>
+<li><a href="/wiki/Amazon_Fishbowl" title="Amazon Fishbowl">Fishbowl</a></li>
+<li><a href="/wiki/Amazon_Locker" title="Amazon Locker">Locker</a></li>
+<li><i><a href="/wiki/Perfect_10,_Inc._v._Amazon.com,_Inc." title="Perfect 10, Inc. v. Amazon.com, Inc.">Perfect 10, Inc. v. Amazon.com, Inc.</a></i></li>
+<li><a href="/wiki/Statistically_improbable_phrase" title="Statistically improbable phrase">Statistically improbable phrase</a></li>
+<li><a href="/wiki/Amazon_Vine" title="Amazon Vine">Vine</a></li>
+<li><a href="/wiki/List_of_Amazon_brands" title="List of Amazon brands">List of Amazon brands</a></li>
+<li><a href="/wiki/List_of_Amazon_locations" title="List of Amazon locations">List of Amazon locations</a></li>
+<li><a href="/wiki/List_of_mergers_and_acquisitions_by_Amazon" title="List of mergers and acquisitions by Amazon">List of mergers and acquisitions by Amazon</a></li>
+<li><a href="/wiki/List_of_Amazon_products_and_services" title="List of Amazon products and services">List of Amazon products and services</a></li>
+<li><a href="/wiki/LibraryThing" title="LibraryThing">LibraryThing</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2165
+Cached time: 20180929134508
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 1.136 seconds
+Real time usage: 1.262 seconds
+Preprocessor visited node count: 1997/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 84284/2097152 bytes
+Template argument size: 2112/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 59449/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.531/10.000 seconds
+Lua memory usage: 4.87 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  919.816      1 -total
+ 29.69%  273.115      3 Template:Fix
+ 26.50%  243.771      1 Template:Reflist
+ 24.95%  229.494      1 Template:Infobox_company
+ 22.19%  204.145      1 Template:Infobox
+ 17.27%  158.834      1 Template:When
+ 15.11%  138.960      3 Template:Delink
+ 14.70%  135.256      2 Template:Citation_needed
+ 13.37%  122.961      6 Template:Category_handler
+ 11.56%  106.335      7 Template:Cite_news
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:596913-0!canonical and timestamp 20180929134507 and revision id 849472838
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=A9.com&amp;oldid=849472838">https://en.wikipedia.org/w/index.php?title=A9.com&amp;oldid=849472838</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li><li><a href="/wiki/Category:Amazon_(company)" title="Category:Amazon (company)">Amazon (company)</a></li><li><a href="/wiki/Category:Internet_properties_established_in_2004" title="Category:Internet properties established in 2004">Internet properties established in 2004</a></li><li><a href="/wiki/Category:Web_mapping" title="Category:Web mapping">Web mapping</a></li><li><a href="/wiki/Category:Creative_Commons-licensed_authors" title="Category:Creative Commons-licensed authors">Creative Commons-licensed authors</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_vague_or_ambiguous_time" title="Category:All articles with vague or ambiguous time">All articles with vague or ambiguous time</a></li><li><a href="/wiki/Category:Vague_or_ambiguous_time_from_November_2016" title="Category:Vague or ambiguous time from November 2016">Vague or ambiguous time from November 2016</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2016" title="Category:Articles with unsourced statements from November 2016">Articles with unsourced statements from November 2016</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=A9.com" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=A9.com" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/A9.com" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:A9.com" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/A9.com">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=A9.com&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=A9.com&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/A9.com" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/A9.com" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=A9.com&amp;oldid=849472838" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=A9.com&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q280457" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=A9.com&amp;id=849472838" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=A9.com">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=A9.com&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=A9.com&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/A9.com" title="A9.com – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/A9.com" title="A9.com – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/A9.com" title="A9.com – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/A9.com" title="A9.com – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/A9.com" title="A9.com – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/A9.com" title="A9.com – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/A9.com" title="A9.com – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A7%DB%92_9_%DA%88%D8%A7%D9%B9_%DA%A9%D8%A7%D9%85" title="اے 9 ڈاٹ کام – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q280457#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 9 July 2018, at 08:04<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=A9.com&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.136","walltime":"1.262","ppvisitednodes":{"value":1997,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":84284,"limit":2097152},"templateargumentsize":{"value":2112,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":59449,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  919.816      1 -total"," 29.69%  273.115      3 Template:Fix"," 26.50%  243.771      1 Template:Reflist"," 24.95%  229.494      1 Template:Infobox_company"," 22.19%  204.145      1 Template:Infobox"," 17.27%  158.834      1 Template:When"," 15.11%  138.960      3 Template:Delink"," 14.70%  135.256      2 Template:Citation_needed"," 13.37%  122.961      6 Template:Category_handler"," 11.56%  106.335      7 Template:Cite_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.531","limit":"10.000"},"limitreport-memusage":{"value":5110635,"limit":52428800}},"cachereport":{"origin":"mw2165","timestamp":"20180929134508","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1472,"wgHostname":"mw2165"});});</script>
+	</body>
+</html>

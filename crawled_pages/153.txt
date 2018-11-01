@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ranking - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ranking","wgTitle":"Ranking","wgCurRevisionId":858553024,"wgRevisionId":858553024,"wgArticleId":1482394,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from November 2008","All articles needing additional references","Articles needing cleanup from January 2010","All pages needing cleanup","Cleanup tagged articles without a reason field from January 2010","Wikipedia pages needing cleanup from January 2010","Articles that may contain original research from July 2008","All articles that may contain original research","Articles with multiple maintenance issues","Vague or ambiguous geographic scope from July 2016","Articles needing additional references from September 2011","Nonparametric statistics","Rankings","Comparison (mathematical)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ranking","wgRelevantArticleId":1482394,"wgRequestId":"W7ATOQrAIE4AAGVL4n0AAAAQ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Rank_order","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgInternalRedirectTargetUrl":"/wiki/Ranking","wgWikibaseItemId":"Q526719","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ranking"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ranking&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ranking&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ranking"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ranking rootpage-Ranking skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Ranking</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Rank_order&amp;redirect=no" class="mw-redirect" title="Rank order">Rank order</a>)</span></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/Standings" title="Standings">standings</a>, which are listings of entities that employ ranking.</div>
+<div role="note" class="hatnote navigation-not-searchable">"World ranking" redirects here. For various rankings among countries and regions, see <a href="/wiki/List_of_international_rankings" title="List of international rankings">List of international rankings</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Rank_(disambiguation)" class="mw-redirect mw-disambig" title="Rank (disambiguation)">Rank (disambiguation)</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Ranking&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Ranking" title="Talk:Ranking">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+      <table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Ranking&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(November 2008)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="plainlinks metadata ambox ambox-style ambox-Cleanup" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article may <b>require <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">cleanup</a></b> to meet Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a>.<span class="hide-when-compact"> No <a href="/wiki/Template:Cleanup/doc" title="Template:Cleanup/doc">cleanup reason</a> has been specified. Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Ranking&amp;action=edit">improve this article</a> if you can.</span>  <small><i>(January 2010)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="plainlinks metadata ambox ambox-content ambox-Original_research" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article  <b>possibly contains <a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research">original research</a></b>.<span class="hide-when-compact"> Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Ranking&amp;action=edit">improve it</a> by <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifying</a> the claims made and adding <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a>. Statements consisting only of original research should be removed.</span>  <small><i>(July 2008)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+    </div>
+</div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>A <b>ranking</b> is a relationship between a set of items such that, for any two items, the first is either 'ranked higher than', 'ranked lower than' or 'ranked equal to' the second.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+In <a href="/wiki/Order_theory" title="Order theory">mathematics</a>, this is known as a <a href="/wiki/Strict_weak_ordering#Total_preorders" class="mw-redirect" title="Strict weak ordering">weak order or total preorder</a> of objects. It is not necessarily a <a href="/wiki/Total_order" title="Total order">total order</a> of objects because two different objects can have the same ranking. The rankings themselves are totally ordered. For example, materials are totally preordered by <a href="/wiki/Hardness_(materials_science)" class="mw-redirect" title="Hardness (materials science)">hardness</a>, while degrees of hardness are totally ordered. If two items are the same in rank it is considered a tie.
+</p><p>By reducing detailed measures to a sequence of <a href="/wiki/Ordinal_numbers" class="mw-redirect" title="Ordinal numbers">ordinal numbers</a>, rankings make it possible to evaluate complex information according to certain criteria.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Thus, for example, an Internet search engine may rank the pages it finds according to an estimation of their <a href="/wiki/Relevance" title="Relevance">relevance</a>, making it possible for the user quickly to select the pages they are likely to want to see.
+</p><p>Analysis of data obtained by ranking commonly requires <a href="/wiki/Non-parametric_statistics" class="mw-redirect" title="Non-parametric statistics">non-parametric statistics</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Strategies_for_assigning_rankings"><span class="tocnumber">1</span> <span class="toctext">Strategies for assigning rankings</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Standard_competition_ranking_(&quot;1224&quot;_ranking)"><span class="tocnumber">1.1</span> <span class="toctext">Standard competition ranking ("1224" ranking)</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Modified_competition_ranking_(&quot;1334&quot;_ranking)"><span class="tocnumber">1.2</span> <span class="toctext">Modified competition ranking ("1334" ranking)</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Dense_ranking_(&quot;1223&quot;_ranking)"><span class="tocnumber">1.3</span> <span class="toctext">Dense ranking ("1223" ranking)</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Ordinal_ranking_(&quot;1234&quot;_ranking)"><span class="tocnumber">1.4</span> <span class="toctext">Ordinal ranking ("1234" ranking)</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Fractional_ranking_(&quot;1_2.5_2.5_4&quot;_ranking)"><span class="tocnumber">1.5</span> <span class="toctext">Fractional ranking ("1 2.5 2.5 4" ranking)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Ranking_in_statistics"><span class="tocnumber">2</span> <span class="toctext">Ranking in statistics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Rank_function_in_Excel"><span class="tocnumber">2.1</span> <span class="toctext">Rank function in Excel</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Comparison_of_rankings"><span class="tocnumber">2.2</span> <span class="toctext">Comparison of rankings</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Examples_of_ranking"><span class="tocnumber">3</span> <span class="toctext">Examples of ranking</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Strategies_for_assigning_rankings">Strategies for assigning rankings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ranking&amp;action=edit&amp;section=1" title="Edit section: Strategies for assigning rankings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It is not always possible to assign rankings uniquely. For example, in a race or competition two (or more) entrants might tie for a place in the ranking.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> When computing an <a href="/wiki/Ordinal_measurement" class="mw-redirect" title="Ordinal measurement">ordinal measurement</a>, two (or more) of the quantities being ranked might measure equal. In these cases, one of the strategies shown below for assigning the rankings may be adopted. 
+A common shorthand way to distinguish these ranking strategies is by the ranking numbers that would be produced for four items, with the first item ranked ahead of the second and third (which compare equal) which are both ranked ahead of the fourth. These names are also shown below.
+</p>
+<h3><span id="Standard_competition_ranking_.28.221224.22_ranking.29"></span><span class="mw-headline" id="Standard_competition_ranking_(&quot;1224&quot;_ranking)">Standard competition ranking ("1224" ranking)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ranking&amp;action=edit&amp;section=2" title="Edit section: Standard competition ranking (&quot;1224&quot; ranking)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In competition ranking, items that compare equal receive the same ranking number, and then a gap is left in the ranking numbers. The number of ranking numbers that are left out in this gap is one less than the number of items that compared equal. Equivalently, each item's ranking number is 1 plus the number of items ranked above it. This ranking strategy is frequently adopted for competitions, as it means that if two (or more) competitors tie for a position in the ranking, the position of all those ranked below them is unaffected (i.e., a competitor only comes second if exactly one person scores better than them, third if exactly two people score better than them, fourth if exactly three people score better than them, etc.).
+</p><p>Thus if A ranks ahead of B and C (which compare equal) which are both ranked ahead of D, then A gets ranking number 1 ("first"), B gets ranking number 2 ("joint second"), C also gets ranking number 2 ("joint second") and D gets ranking number 4 ("fourth").
+</p>
+<h3><span id="Modified_competition_ranking_.28.221334.22_ranking.29"></span><span class="mw-headline" id="Modified_competition_ranking_(&quot;1334&quot;_ranking)">Modified competition ranking ("1334" ranking)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ranking&amp;action=edit&amp;section=3" title="Edit section: Modified competition ranking (&quot;1334&quot; ranking)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sometimes, competition ranking is done by leaving the gaps in the ranking numbers <i>before</i> the sets of equal-ranking items (rather than after them as in standard competition ranking).<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Naming_conventions_(geographic_names)" title="Wikipedia:Naming conventions (geographic names)"><span title="The geographic scope near this tag is ambiguous. (July 2016)">where?</span></a></i>&#93;</sup> The number of ranking numbers that are left out in this gap remains one less than the number of items that compared equal. Equivalently, each item's ranking number is equal to the number of items ranked equal to it or above it. This ranking ensures that a competitor only comes second if they score higher than all but one of their opponents, third if they score higher than all but two of their opponents, etc.
+</p><p>Thus if A ranks ahead of B and C (which compare equal) which are both ranked head of D, then A gets ranking number 1 ("first"), B gets ranking number 3 ("joint third"), C also gets ranking number 3 ("joint third") and D gets ranking number 4 ("fourth"). In this case, nobody would get ranking number 2 ("second") and that would be left as a gap.
+</p>
+<h3><span id="Dense_ranking_.28.221223.22_ranking.29"></span><span class="mw-headline" id="Dense_ranking_(&quot;1223&quot;_ranking)">Dense ranking ("1223" ranking)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ranking&amp;action=edit&amp;section=4" title="Edit section: Dense ranking (&quot;1223&quot; ranking)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In dense ranking, items that compare equally receive the same ranking number, and the next item(s) receive the immediately following ranking number. Equivalently, each item's ranking number is 1 plus the number of items ranked above it that are distinct with respect to the ranking order.
+</p><p>Thus if A ranks ahead of B and C (which compare equal) which are both ranked ahead of D, then A gets ranking number 1 ("first"), B gets ranking number 2 ("joint second"), C also gets ranking number 2 ("joint second") and D gets ranking number 3 ("Third").
+</p>
+<h3><span id="Ordinal_ranking_.28.221234.22_ranking.29"></span><span class="mw-headline" id="Ordinal_ranking_(&quot;1234&quot;_ranking)">Ordinal ranking ("1234" ranking)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ranking&amp;action=edit&amp;section=5" title="Edit section: Ordinal ranking (&quot;1234&quot; ranking)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In ordinal ranking, all items receive distinct ordinal numbers, including items that compare equal. The assignment of distinct ordinal numbers to items that compare equal can be done at random, or arbitrarily, but it is generally preferable to use a system that is arbitrary but consistent, as this gives stable results if the ranking is done multiple times. An example of an arbitrary but consistent system would be to incorporate other attributes into the ranking order (such as alphabetical ordering of the competitor's name) to ensure that no two items exactly match.
+</p><p>With this strategy, if A ranks ahead of B and C (which compare equal) which are both ranked ahead of D, then A gets ranking number 1 ("first") and D gets ranking number 4 ("fourth"), and <b>either</b> B gets ranking number 2 ("second") and C gets ranking number 3 ("third") <b>or</b> C gets ranking number 2 ("second") and B gets ranking number 3 ("third").
+</p><p>In computer data processing, ordinal ranking is also referred to as "row numbering".
+</p>
+<h3><span id="Fractional_ranking_.28.221_2.5_2.5_4.22_ranking.29"></span><span class="mw-headline" id="Fractional_ranking_(&quot;1_2.5_2.5_4&quot;_ranking)">Fractional ranking ("1 2.5 2.5 4" ranking)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ranking&amp;action=edit&amp;section=6" title="Edit section: Fractional ranking (&quot;1 2.5 2.5 4&quot; ranking)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Items that compare equal receive the same ranking number, which is the <a href="/wiki/Mean" title="Mean">mean</a> of what they would have under ordinal rankings. Equivalently, the ranking number of 1 plus the number of items ranked above it plus half the number of items equal to it. This strategy has the property that the sum of the ranking numbers is the same as under ordinal ranking. For this reason, it is used in computing <a href="/wiki/Borda_count" title="Borda count">Borda counts</a> and in statistical tests (see below).
+</p><p>Thus if A ranks ahead of B and C (which compare equal) which are both ranked ahead of D, then A gets ranking number 1 ("first"), B and C each get ranking number 2.5 (average of "joint second/third") and D gets ranking number 4 ("fourth").
+</p><p>Here is an example: 
+Suppose you have the data set 1.0, 1.0, 2.0, 3.0, 3.0, 4.0, 5.0, 5.0, 5.0.
+</p><p>The ordinal ranks are 1, 2, 3, 4, 5, 6, 7, 8, 9.
+</p><p>For v = 1.0, the fractional rank is the average of the ordinal ranks: (1 + 2) / 2 = 1.5.
+In a similar manner, for v = 5.0, the fractional rank is (7 + 8 + 9) / 3 = 8.0.
+</p><p>Thus the fractional ranks are: 1.5, 1.5, 3.0, 4.5, 4.5, 6.0, 8.0, 8.0, 8.0
+</p>
+<h2><span class="mw-headline" id="Ranking_in_statistics">Ranking in statistics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ranking&amp;action=edit&amp;section=7" title="Edit section: Ranking in statistics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/Statistics" title="Statistics">statistics</a>, "ranking" refers to the <a href="/wiki/Data_transformation_(statistics)" title="Data transformation (statistics)">data transformation</a> in which <a href="/wiki/Number" title="Number">numerical</a> or <a href="/wiki/Ordinal_scale" class="mw-redirect" title="Ordinal scale">ordinal</a> values are replaced by their rank when the data are sorted. For example, the numerical data 3.4, 5.1, 2.6, 7.3 are observed, the ranks of these data items would be 2, 3, 1 and 4 respectively. For example, the ordinal data hot, cold, warm would be replaced by 3, 1, 2. In these examples, the ranks are assigned to values in ascending order. (In some other cases, descending ranks are used.) Ranks are related to the indexed list of <a href="/wiki/Order_statistics" class="mw-redirect" title="Order statistics">order statistics</a>, which consists of the original dataset rearranged into ascending order.
+</p><p>Some kinds of <a href="/wiki/Statistical_test" class="mw-redirect" title="Statistical test">statistical tests</a> employ calculations based on ranks. Examples include:
+</p>
+<ul><li><a href="/wiki/Friedman_test" title="Friedman test">Friedman test</a></li>
+<li><a href="/wiki/Kruskal%E2%80%93Wallis_one-way_analysis_of_variance" title="Kruskal–Wallis one-way analysis of variance">Kruskal–Wallis test</a></li>
+<li><a href="/wiki/Rank_product" title="Rank product">Rank products</a></li>
+<li><a href="/wiki/Spearman%27s_rank_correlation_coefficient" title="Spearman&#39;s rank correlation coefficient">Spearman's rank correlation coefficient</a></li>
+<li><a href="/wiki/Wilcoxon_rank-sum_test" class="mw-redirect" title="Wilcoxon rank-sum test">Wilcoxon rank-sum test</a></li>
+<li><a href="/wiki/Wilcoxon_signed-rank_test" title="Wilcoxon signed-rank test">Wilcoxon signed-rank test</a></li></ul>
+<p>The distribution of values in decreasing order of rank is often of interest when values vary widely in scale; this is the <a href="/wiki/Rank-size_distribution" title="Rank-size distribution">rank-size distribution</a> (or rank-frequency distribution), for example for city sizes or word frequencies. These often follow a <a href="/wiki/Power_law" title="Power law">power law</a>.
+</p><p>Some ranks can have non-integer values for tied data values. For example, when there is an even number of copies of the same data value, the above described <a href="#Fractional_ranking_(&quot;1_2.5_2.5_4&quot;_ranking)">fractional statistical rank</a> of the tied data ends in ½.
+</p>
+<h3><span class="mw-headline" id="Rank_function_in_Excel">Rank function in Excel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ranking&amp;action=edit&amp;section=8" title="Edit section: Rank function in Excel">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Microsoft_Excel" title="Microsoft Excel">Microsoft Excel</a> provides two ranking functions, the <b>Rank.EQ</b> function which assigns competition ranks ("1224") and the <b>Rank.AVG</b> function which assigns fractional ranks ("1 2.5 2.5 4") as described above.
+</p>
+<h3><span class="mw-headline" id="Comparison_of_rankings">Comparison of rankings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ranking&amp;action=edit&amp;section=9" title="Edit section: Comparison of rankings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A <a href="/wiki/Rank_correlation" title="Rank correlation">rank correlation</a> can be used to compare two rankings for the same set of objects. For example, <a href="/wiki/Spearman%27s_rank_correlation_coefficient" title="Spearman&#39;s rank correlation coefficient">Spearman's rank correlation coefficient</a> is useful to measure the statistical dependence between the rankings of athletes in two tournaments. Another example is the "Rank–rank hypergeometric overlap" approach<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>, which is designed to compare ranking of the genes that are at the "top" of two ordered lists of differentially expressed genes.
+</p>
+<h2><span class="mw-headline" id="Examples_of_ranking">Examples of ranking</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ranking&amp;action=edit&amp;section=10" title="Edit section: Examples of ranking">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Ranking&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span>  <small><i>(September 2011)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<ul><li>In <a href="/wiki/Politics" title="Politics">politics</a>, rankings focus on the comparison of economic, social, environmental and governance performance of countries, see <a href="/wiki/List_of_international_rankings" title="List of international rankings">List of international rankings</a>.</li>
+<li>In many <a href="/wiki/Sport" title="Sport">sports</a>, individuals or teams are given rankings, generally by the sport's <a href="/wiki/Sports_governing_body" title="Sports governing body">governing body</a>.
+<ul><li>In <a href="/wiki/Association_football" title="Association football">association football</a> (soccer), national teams are ranked in the <a href="/wiki/FIFA_World_Rankings" title="FIFA World Rankings">FIFA World Rankings</a>, the <a href="/wiki/FIFA_Women%27s_World_Rankings" title="FIFA Women&#39;s World Rankings">Women's World Rankings</a> and, unofficially, in the <a href="/wiki/World_Football_Elo_Ratings" title="World Football Elo Ratings">World Football Elo Ratings</a>.</li>
+<li>In the <a href="/wiki/Olympic_Games" title="Olympic Games">Olympic Games</a>, each member country (<a href="/wiki/National_Olympic_Committee" title="National Olympic Committee">NOC</a>) is ranked based upon gold, silver and bronze medal counts in the <a href="/wiki/Olympic_medal_table" title="Olympic medal table">Olympic medal rankings</a>.</li>
+<li>In <a href="/wiki/Basketball" title="Basketball">basketball</a>, national teams are ranked in the <a href="/wiki/FIBA_World_Rankings" title="FIBA World Rankings">FIBA World Rankings</a> and the <a href="/wiki/FIBA_Women%27s_World_Ranking" title="FIBA Women&#39;s World Ranking">Women's World Rankings</a>.</li>
+<li>In <a href="/wiki/Baseball" title="Baseball">baseball</a> and <a href="/wiki/Softball" title="Softball">softball</a>, national teams are ranked in the <a href="/wiki/WBSC_World_Rankings" title="WBSC World Rankings">WBSC World Rankings</a>.</li>
+<li>In <a href="/wiki/Ice_hockey" title="Ice hockey">ice hockey</a>, national teams are ranked in the <a href="/wiki/IIHF_World_Ranking" title="IIHF World Ranking">IIHF World Ranking</a>.</li>
+<li>In <a href="/wiki/Golf" title="Golf">golf</a>, the top male golfers are ranked using the <a href="/wiki/Official_World_Golf_Rankings" class="mw-redirect" title="Official World Golf Rankings">Official World Golf Rankings</a>, and the top female golfers are ranked using the <a href="/wiki/Women%27s_World_Golf_Rankings" title="Women&#39;s World Golf Rankings">Women's World Golf Rankings</a>.</li>
+<li>In <a href="/wiki/Snooker" title="Snooker">snooker</a>, players are ranked using the <a href="/wiki/Snooker_world_rankings" title="Snooker world rankings">Snooker world rankings</a>.</li>
+<li>In <a href="/wiki/Tennis" title="Tennis">tennis</a>, male and female players are ranked using the <a href="/wiki/ATP_Rankings" title="ATP Rankings">ATP Rankings</a> and <a href="/wiki/WTA_Rankings" title="WTA Rankings">WTA Rankings</a> respectively, whilst the <a href="/wiki/ITF_Rankings" title="ITF Rankings">ITF Rankings</a> are used for national <a href="/wiki/Davis_Cup" title="Davis Cup">Davis Cup</a> and <a href="/wiki/Fed_Cup" title="Fed Cup">Fed Cup</a> teams.</li>
+<li>In <a href="/wiki/Road_bicycle_racing" title="Road bicycle racing">road bicycle racing</a>, male cyclists have been ranked using the <a href="/wiki/UCI_World_Ranking" title="UCI World Ranking">UCI World Ranking</a> from 2016, having previously been ranked using the <a href="/wiki/UCI_Road_World_Rankings" title="UCI Road World Rankings">UCI Road World Rankings</a> from 1984 to 2004. Female cyclists have been ranked using the <a href="/wiki/UCI_Women%27s_Road_World_Rankings" title="UCI Women&#39;s Road World Rankings">UCI Women's Road World Rankings</a> since 1994.</li>
+<li>In <a href="/wiki/Track_cycling" title="Track cycling">track cycling</a> riders and nations are ranked using the <a href="/wiki/UCI_Track_Cycling_World_Ranking" title="UCI Track Cycling World Ranking">UCI Track Cycling World Ranking</a></li>
+<li>In <a href="/wiki/Chess" title="Chess">chess</a>, players are ranked using the <a href="/wiki/FIDE_World_Rankings" class="mw-redirect" title="FIDE World Rankings">FIDE World Rankings</a>.</li>
+<li>In <a href="/wiki/Sailing" title="Sailing">sailing</a>, boats are scored directly using the sum of the ranking.</li>
+<li>In <a href="/wiki/Bridge_(game)" class="mw-redirect" title="Bridge (game)">bridge</a>, matchpoint scoring uses fractional ranking to assign the score.</li></ul></li>
+<li>In relation to <a href="/wiki/Credit_(finance)" class="mw-redirect" title="Credit (finance)">credit</a> standing, the ranking of a security refers to where that particular security would stand in a <a href="/wiki/Liquidation" title="Liquidation">wind up</a> of the issuing company, i.e., its <a href="/wiki/Seniority_(finance)" class="mw-redirect" title="Seniority (finance)">seniority</a> in the company's <a href="/wiki/Capital_structure" title="Capital structure">capital structure</a>. For instance, <a href="/wiki/Capital_note" title="Capital note">capital notes</a> are subordinated securities; they would rank behind senior debt in a wind up. In other words, the holders of <a href="/wiki/Senior_debt" title="Senior debt">senior debt</a> would be paid out before <a href="/wiki/Subordinated_debt" title="Subordinated debt">subordinated debt</a> holders received any funds.</li>
+<li><a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">Search engines</a> rank web pages by their expected <a href="/wiki/Relevance" title="Relevance">relevance</a> to a user's query using a combination of query-dependent and query-independent methods. Query-independent methods attempt to measure the estimated importance of a page, independent of any consideration of how well it matches the specific query. Query-independent ranking is usually based on link analysis; examples include the <a href="/wiki/HITS_algorithm" title="HITS algorithm">HITS algorithm</a>, <a href="/wiki/PageRank" title="PageRank">PageRank</a> and <a href="/wiki/TrustRank" title="TrustRank">TrustRank</a>. Query-dependent methods attempt to measure the degree to which a page matches a specific query, independent of the importance of the page. Query-dependent ranking is usually based on <a href="/wiki/Heuristic" title="Heuristic">heuristics</a> that consider the number and locations of matches of the various query words on the page itself, in the <a href="/wiki/URL" title="URL">URL</a> or in any <a href="/wiki/Anchor_text" title="Anchor text">anchor text</a> referring to the page.</li>
+<li>In <a href="/wiki/Webometrics" title="Webometrics">Webometrics</a> it is possible to rank institutions according to their presence in the web (number of webpages) and the impact of these contents (external inlinks=site citations), such as the <a href="/wiki/Webometrics_Ranking_of_World_Universities" title="Webometrics Ranking of World Universities">Webometrics Ranking of World Universities</a></li>
+<li>In <a href="/wiki/Video_gaming" class="mw-redirect" title="Video gaming">video gaming</a>, players may be given a ranking. To "<a href="/wiki/Rank_up" title="Rank up">rank up</a>" is to achieve a higher ranking relative to other players, especially with strategies that do not depend on the player's skill.</li>
+<li>The <a href="/wiki/TrueSkill" title="TrueSkill">TrueSkill</a> ranking system is a skill based ranking system for Xbox Live developed at Microsoft Research</li>
+<li>A <a href="/wiki/Bibliogram" title="Bibliogram">bibliogram</a> ranks common noun phrases in a piece of text.</li>
+<li>In language, the status of an item (usually through what is known as "downranking" or "rank-shifting") in relation to the uppermost rank in a clause; for example, in the sentence "I want to eat the cake you made today", "eat" is on the uppermost rank, but "made" is downranked as part of the nominal group "the cake you made today"; this nominal group behaves as though it were a single noun (i.e., I want to eat <i>it</i>), and thus the verb within it ("made") is ranked differently from "eat".</li>
+<li><a href="/wiki/Academic_journal#Ranking" title="Academic journal">Academic journals</a> are sometimes ranked according to <a href="/wiki/Impact_factor" title="Impact factor">impact factor</a>; the number of later articles that cite articles in a given journal.</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ranking&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/League_table" class="mw-redirect" title="League table">League table</a></li>
+<li><a href="/wiki/Ordinal_data" title="Ordinal data">Ordinal data</a></li>
+<li><a href="/wiki/Rating_(disambiguation)" class="mw-redirect mw-disambig" title="Rating (disambiguation)">Rating (disambiguation)</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ranking&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.merriam-webster.com/dictionary/ranking">http://www.merriam-webster.com/dictionary/ranking</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Malara, Zbigniew; Miśko, Rafał; Sulich, Adam. <a rel="nofollow" class="external text" href="https://www.academia.edu/31334733/Wroclaw_University_of_Technology_graduates_career_paths">"Wroclaw University of Technology graduates&#39; career paths"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Wroclaw+University+of+Technology+graduates%26%2339%3B+career+paths&amp;rft.aulast=Malara&amp;rft.aufirst=Zbigniew&amp;rft.au=Mi%C5%9Bko%2C+Rafa%C5%82&amp;rft.au=Sulich%2C+Adam&amp;rft_id=https%3A%2F%2Fwww.academia.edu%2F31334733%2FWroclaw_University_of_Technology_graduates_career_paths&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARanking" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Sulich, Adam. <a rel="nofollow" class="external text" href="https://www.academia.edu/25508981/The_young_people_s_labour_market_and_crisis_of_integration_in_European_Union">"The young people's labour market and crisis of integration in European Union"</a>. <a rel="nofollow" class="external text" href="https://www.academia.edu/25508981/The_young_people_s_labour_market_and_crisis_of_integration_in_European_Union">Archived</a> from the original on 2017-03-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+young+people%E2%80%99s+labour+market+and+crisis+of+integration+in+European+Union&amp;rft.aulast=Sulich&amp;rft.aufirst=Adam&amp;rft_id=https%3A%2F%2Fwww.academia.edu%2F25508981%2FThe_young_people_s_labour_market_and_crisis_of_integration_in_European_Union&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARanking" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Plaisier, Seema B.; Taschereau, Richard; Wong, Justin A.; Graeber, Thomas G. (September 2010). <a rel="nofollow" class="external text" href="https://academic.oup.com/nar/article/38/17/e169/1033168/Rank-rank-hypergeometric-overlap-identification-of">"Rank–rank hypergeometric overlap: identification of statistically significant overlap between gene-expression signatures"</a>. <i>Nucleic Acids Research</i>. <b>38</b> (17): e169–e169. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1093%2Fnar%2Fgkq636">10.1093/nar/gkq636</a><span class="reference-accessdate">. Retrieved <span class="nowrap">10 August</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nucleic+Acids+Research&amp;rft.atitle=Rank%E2%80%93rank+hypergeometric+overlap%3A+identification+of+statistically+significant+overlap+between+gene-expression+signatures&amp;rft.volume=38&amp;rft.issue=17&amp;rft.pages=e169-e169&amp;rft.date=2010-09&amp;rft_id=info%3Adoi%2F10.1093%2Fnar%2Fgkq636&amp;rft.aulast=Plaisier&amp;rft.aufirst=Seema+B.&amp;rft.au=Taschereau%2C+Richard&amp;rft.au=Wong%2C+Justin+A.&amp;rft.au=Graeber%2C+Thomas+G.&amp;rft_id=https%3A%2F%2Facademic.oup.com%2Fnar%2Farticle%2F38%2F17%2Fe169%2F1033168%2FRank-rank-hypergeometric-overlap-identification-of&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARanking" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ranking&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/ranking" class="extiw" title="wiktionary:ranking">ranking</a></b></i> in Wiktionary, the free dictionary.</td></tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.mathworks.com/matlabcentral/fileexchange/loadFile.do?objectId=19496">A MATLAB Toolbox for computing rankings using five different methodologies</a></li>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/en-us/projects/trueskill/default.aspx">TrueSkill Ranking System</a></li>
+<li><a rel="nofollow" class="external text" href="https://github.com/quidproquo/ranker">Ranking Library written in Ruby</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.dataworldwide.org/websites/data_indexes.htm">List of Global Development Indexes and Rankings</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Statistics" style="padding:3px"><table class="nowraplinks hlist collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Statistics" title="Template:Statistics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Statistics" title="Template talk:Statistics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Statistics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Statistics" style="font-size:114%;margin:0 4em"><a href="/wiki/Statistics" title="Statistics">Statistics</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Outline&amp;#10;*_Index">
+<ul><li><a href="/wiki/Outline_of_statistics" title="Outline of statistics">Outline</a></li>
+<li><a href="/wiki/List_of_statistics_articles" title="List of statistics articles">Index</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Descriptive_statistics" style="font-size:114%;margin:0 4em"><a href="/wiki/Descriptive_statistics" title="Descriptive statistics">Descriptive statistics</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Continuous_probability_distribution" class="mw-redirect" title="Continuous probability distribution">Continuous data</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Central_tendency" title="Central tendency">Center</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mean" title="Mean">Mean</a>
+<ul><li><a href="/wiki/Arithmetic_mean" title="Arithmetic mean">arithmetic</a></li>
+<li><a href="/wiki/Geometric_mean" title="Geometric mean">geometric</a></li>
+<li><a href="/wiki/Harmonic_mean" title="Harmonic mean">harmonic</a></li></ul></li>
+<li><a href="/wiki/Median" title="Median">Median</a></li>
+<li><a href="/wiki/Mode_(statistics)" title="Mode (statistics)">Mode</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Statistical_dispersion" title="Statistical dispersion">Dispersion</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Variance#Sample_variance" title="Variance">Variance</a></li>
+<li><a href="/wiki/Standard_deviation" title="Standard deviation">Standard deviation</a></li>
+<li><a href="/wiki/Coefficient_of_variation" title="Coefficient of variation">Coefficient of variation</a></li>
+<li><a href="/wiki/Percentile" title="Percentile">Percentile</a></li>
+<li><a href="/wiki/Range_(statistics)" title="Range (statistics)">Range</a></li>
+<li><a href="/wiki/Interquartile_range" title="Interquartile range">Interquartile range</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Shape_of_the_distribution" class="mw-redirect" title="Shape of the distribution">Shape</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Central_limit_theorem" title="Central limit theorem">Central limit theorem</a></li>
+<li><a href="/wiki/Moment_(mathematics)" title="Moment (mathematics)">Moments</a>
+<ul><li><a href="/wiki/Skewness" title="Skewness">Skewness</a></li>
+<li><a href="/wiki/Kurtosis" title="Kurtosis">Kurtosis</a></li>
+<li><a href="/wiki/L-moment" title="L-moment">L-moments</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Count_data" title="Count data">Count data</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Index_of_dispersion" title="Index of dispersion">Index of dispersion</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em">Summary tables</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Grouped_data" title="Grouped data">Grouped data</a></li>
+<li><a href="/wiki/Frequency_distribution" title="Frequency distribution">Frequency distribution</a></li>
+<li><a href="/wiki/Contingency_table" title="Contingency table">Contingency table</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Correlation_and_dependence" title="Correlation and dependence">Dependence</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pearson_correlation_coefficient" title="Pearson correlation coefficient">Pearson product-moment correlation</a></li>
+<li><a href="/wiki/Rank_correlation" title="Rank correlation">Rank correlation</a>
+<ul><li><a href="/wiki/Spearman%27s_rank_correlation_coefficient" title="Spearman&#39;s rank correlation coefficient">Spearman's rho</a></li>
+<li><a href="/wiki/Kendall_rank_correlation_coefficient" title="Kendall rank correlation coefficient">Kendall's tau</a></li></ul></li>
+<li><a href="/wiki/Partial_correlation" title="Partial correlation">Partial correlation</a></li>
+<li><a href="/wiki/Scatter_plot" title="Scatter plot">Scatter plot</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Statistical_graphics" title="Statistical graphics">Graphics</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bar_chart" title="Bar chart">Bar chart</a></li>
+<li><a href="/wiki/Biplot" title="Biplot">Biplot</a></li>
+<li><a href="/wiki/Box_plot" title="Box plot">Box plot</a></li>
+<li><a href="/wiki/Control_chart" title="Control chart">Control chart</a></li>
+<li><a href="/wiki/Correlogram" title="Correlogram">Correlogram</a></li>
+<li><a href="/wiki/Fan_chart_(statistics)" title="Fan chart (statistics)">Fan chart</a></li>
+<li><a href="/wiki/Forest_plot" title="Forest plot">Forest plot</a></li>
+<li><a href="/wiki/Histogram" title="Histogram">Histogram</a></li>
+<li><a href="/wiki/Pie_chart" title="Pie chart">Pie chart</a></li>
+<li><a href="/wiki/Q%E2%80%93Q_plot" title="Q–Q plot">Q–Q plot</a></li>
+<li><a href="/wiki/Run_chart" title="Run chart">Run chart</a></li>
+<li><a href="/wiki/Scatter_plot" title="Scatter plot">Scatter plot</a></li>
+<li><a href="/wiki/Stem-and-leaf_display" title="Stem-and-leaf display">Stem-and-leaf display</a></li>
+<li><a href="/wiki/Radar_chart" title="Radar chart">Radar chart</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Data_collection" style="font-size:114%;margin:0 4em"><a href="/wiki/Data_collection" title="Data collection">Data collection</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:12.5em">Study design</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Population_(statistics)" class="mw-redirect" title="Population (statistics)">Population</a></li>
+<li><a href="/wiki/Statistic" title="Statistic">Statistic</a></li>
+<li><a href="/wiki/Effect_size" title="Effect size">Effect size</a></li>
+<li><a href="/wiki/Statistical_power" class="mw-redirect" title="Statistical power">Statistical power</a></li>
+<li><a href="/wiki/Sample_size_determination" title="Sample size determination">Sample size determination</a></li>
+<li><a href="/wiki/Missing_data" title="Missing data">Missing data</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Survey_methodology" title="Survey methodology">Survey methodology</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sampling_(statistics)" title="Sampling (statistics)">Sampling</a>
+<ul><li><a href="/wiki/Stratified_sampling" title="Stratified sampling">stratified</a></li>
+<li><a href="/wiki/Cluster_sampling" title="Cluster sampling">cluster</a></li></ul></li>
+<li><a href="/wiki/Standard_error" title="Standard error">Standard error</a></li>
+<li><a href="/wiki/Opinion_poll" title="Opinion poll">Opinion poll</a></li>
+<li><a href="/wiki/Questionnaire" title="Questionnaire">Questionnaire</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Experiment" title="Experiment">Controlled experiments</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Design_of_experiments" title="Design of experiments">Design</a>
+<ul><li><a href="/wiki/Scientific_control" title="Scientific control">control</a></li>
+<li><a href="/wiki/Optimal_design" title="Optimal design">optimal</a></li></ul></li>
+<li><a href="/wiki/Randomized_controlled_trial" title="Randomized controlled trial">Controlled trial</a></li>
+<li><a href="/wiki/Randomized_experiment" title="Randomized experiment">Randomized</a></li>
+<li><a href="/wiki/Random_assignment" title="Random assignment">Random assignment</a></li>
+<li><a href="/wiki/Replication_(statistics)" title="Replication (statistics)">Replication</a></li>
+<li><a href="/wiki/Blocking_(statistics)" title="Blocking (statistics)">Blocking</a></li>
+<li><a href="/wiki/Interaction_(statistics)" title="Interaction (statistics)">Interaction</a></li>
+<li><a href="/wiki/Factorial_experiment" title="Factorial experiment">Factorial experiment</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em">Uncontrolled studies</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Observational_study" title="Observational study">Observational study</a></li>
+<li><a href="/wiki/Natural_experiment" title="Natural experiment">Natural experiment</a></li>
+<li><a href="/wiki/Quasi-experiment" title="Quasi-experiment">Quasi-experiment</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Statistical_inference" style="font-size:114%;margin:0 4em"><a href="/wiki/Statistical_inference" title="Statistical inference">Statistical inference</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Statistical_theory" title="Statistical theory">Statistical theory</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Population_(statistics)" class="mw-redirect" title="Population (statistics)">Population</a></li>
+<li><a href="/wiki/Statistic" title="Statistic">Statistic</a></li>
+<li><a href="/wiki/Probability_distribution" title="Probability distribution">Probability distribution</a></li>
+<li><a href="/wiki/Sampling_distribution" title="Sampling distribution">Sampling distribution</a>
+<ul><li><a href="/wiki/Order_statistic" title="Order statistic">Order statistic</a></li></ul></li>
+<li><a href="/wiki/Empirical_distribution_function" title="Empirical distribution function">Empirical distribution</a>
+<ul><li><a href="/wiki/Density_estimation" title="Density estimation">Density estimation</a></li></ul></li>
+<li><a href="/wiki/Statistical_model" title="Statistical model">Statistical model</a>
+<ul><li><a href="/wiki/Lp_space" title="Lp space">L<sup><i>p</i></sup> space</a></li></ul></li>
+<li><a href="/wiki/Statistical_parameter" title="Statistical parameter">Parameter</a>
+<ul><li><a href="/wiki/Location_parameter" title="Location parameter">location</a></li>
+<li><a href="/wiki/Scale_parameter" title="Scale parameter">scale</a></li>
+<li><a href="/wiki/Shape_parameter" title="Shape parameter">shape</a></li></ul></li>
+<li><a href="/wiki/Parametric_statistics" title="Parametric statistics">Parametric family</a>
+<ul><li><a href="/wiki/Likelihood_function" title="Likelihood function">Likelihood</a>&#160;<a href="/wiki/Monotone_likelihood_ratio" title="Monotone likelihood ratio"><span style="font-size:85%;">(monotone)</span></a></li>
+<li><a href="/wiki/Location%E2%80%93scale_family" title="Location–scale family">Location–scale family</a></li>
+<li><a href="/wiki/Exponential_family" title="Exponential family">Exponential family</a></li></ul></li>
+<li><a href="/wiki/Completeness_(statistics)" title="Completeness (statistics)">Completeness</a></li>
+<li><a href="/wiki/Sufficient_statistic" title="Sufficient statistic">Sufficiency</a></li>
+<li><a href="/wiki/Plug-in_principle" title="Plug-in principle">Statistical functional</a>
+<ul><li><a href="/wiki/Bootstrapping_(statistics)" title="Bootstrapping (statistics)">Bootstrap</a></li>
+<li><a href="/wiki/U-statistic" title="U-statistic">U</a></li>
+<li><a href="/wiki/V-statistic" title="V-statistic">V</a></li></ul></li>
+<li><a href="/wiki/Optimal_decision" title="Optimal decision">Optimal decision</a>
+<ul><li><a href="/wiki/Loss_function" title="Loss function">loss function</a></li></ul></li>
+<li><a href="/wiki/Efficiency_(statistics)" title="Efficiency (statistics)">Efficiency</a></li>
+<li><a href="/wiki/Statistical_distance" title="Statistical distance">Statistical distance</a>
+<ul><li><a href="/wiki/Divergence_(statistics)" title="Divergence (statistics)">divergence</a></li></ul></li>
+<li><a href="/wiki/Asymptotic_theory_(statistics)" title="Asymptotic theory (statistics)">Asymptotics</a></li>
+<li><a href="/wiki/Robust_statistics" title="Robust statistics">Robustness</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Frequentist_inference" title="Frequentist inference">Frequentist inference</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Point_estimation" title="Point estimation">Point estimation</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Estimating_equations" title="Estimating equations">Estimating equations</a>
+<ul><li><a href="/wiki/Maximum_likelihood" class="mw-redirect" title="Maximum likelihood">Maximum likelihood</a></li>
+<li><a href="/wiki/Method_of_moments_(statistics)" title="Method of moments (statistics)">Method of moments</a></li>
+<li><a href="/wiki/M-estimator" title="M-estimator">M-estimator</a></li>
+<li><a href="/wiki/Minimum_distance_estimation" title="Minimum distance estimation">Minimum distance</a></li></ul></li>
+<li><a href="/wiki/Bias_of_an_estimator" title="Bias of an estimator">Unbiased estimators</a>
+<ul><li><a href="/wiki/Minimum-variance_unbiased_estimator" title="Minimum-variance unbiased estimator">Mean-unbiased minimum-variance</a>
+<ul><li><a href="/wiki/Rao%E2%80%93Blackwell_theorem" title="Rao–Blackwell theorem">Rao–Blackwellization</a></li>
+<li><a href="/wiki/Lehmann%E2%80%93Scheff%C3%A9_theorem" title="Lehmann–Scheffé theorem">Lehmann–Scheffé theorem</a></li></ul></li>
+<li><a href="/wiki/Median-unbiased_estimator" class="mw-redirect" title="Median-unbiased estimator">Median unbiased</a></li></ul></li>
+<li><a href="/wiki/Plug-in_principle" title="Plug-in principle">Plug-in</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Interval_estimation" title="Interval estimation">Interval estimation</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Confidence_interval" title="Confidence interval">Confidence interval</a></li>
+<li><a href="/wiki/Pivotal_quantity" title="Pivotal quantity">Pivot</a></li>
+<li><a href="/wiki/Likelihood_interval" class="mw-redirect" title="Likelihood interval">Likelihood interval</a></li>
+<li><a href="/wiki/Prediction_interval" title="Prediction interval">Prediction interval</a></li>
+<li><a href="/wiki/Tolerance_interval" title="Tolerance interval">Tolerance interval</a></li>
+<li><a href="/wiki/Resampling_(statistics)" title="Resampling (statistics)">Resampling</a>
+<ul><li><a href="/wiki/Bootstrapping_(statistics)" title="Bootstrapping (statistics)">Bootstrap</a></li>
+<li><a href="/wiki/Jackknife_resampling" title="Jackknife resampling">Jackknife</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Statistical_hypothesis_testing" title="Statistical hypothesis testing">Testing hypotheses</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/One-_and_two-tailed_tests" title="One- and two-tailed tests">1- &amp; 2-tails</a></li>
+<li><a href="/wiki/Power_(statistics)" title="Power (statistics)">Power</a>
+<ul><li><a href="/wiki/Uniformly_most_powerful_test" title="Uniformly most powerful test">Uniformly most powerful test</a></li></ul></li>
+<li><a href="/wiki/Permutation_test" class="mw-redirect" title="Permutation test">Permutation test</a>
+<ul><li><a href="/wiki/Randomization_test" class="mw-redirect" title="Randomization test">Randomization test</a></li></ul></li>
+<li><a href="/wiki/Multiple_comparisons" class="mw-redirect" title="Multiple comparisons">Multiple comparisons</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Parametric_statistics" title="Parametric statistics">Parametric tests</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Likelihood-ratio_test" title="Likelihood-ratio test">Likelihood-ratio</a></li>
+<li><a href="/wiki/Wald_test" title="Wald test">Wald</a></li>
+<li><a href="/wiki/Score_test" title="Score test">Score</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em">Specific tests</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Z-test" title="Z-test"><i>Z</i>-test <span style="font-size:90%;">(normal)</span></a></li>
+<li><a href="/wiki/Student%27s_t-test" title="Student&#39;s t-test">Student's <i>t</i>-test</a></li>
+<li><a href="/wiki/F-test" title="F-test"><i>F</i>-test</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Goodness_of_fit" title="Goodness of fit">Goodness of fit</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chi-squared_test" title="Chi-squared test">Chi-squared</a></li>
+<li><a href="/wiki/G-test" title="G-test"><i>G</i>-test</a></li>
+<li><a href="/wiki/Kolmogorov%E2%80%93Smirnov_test" title="Kolmogorov–Smirnov test">Kolmogorov–Smirnov</a></li>
+<li><a href="/wiki/Anderson%E2%80%93Darling_test" title="Anderson–Darling test">Anderson–Darling</a></li>
+<li><a href="/wiki/Lilliefors_test" title="Lilliefors test">Lilliefors</a></li>
+<li><a href="/wiki/Jarque%E2%80%93Bera_test" title="Jarque–Bera test">Jarque–Bera</a></li>
+<li><a href="/wiki/Shapiro%E2%80%93Wilk_test" title="Shapiro–Wilk test">Normality <span style="font-size:90%;">(Shapiro–Wilk)</span></a></li>
+<li><a href="/wiki/Likelihood-ratio_test" title="Likelihood-ratio test">Likelihood-ratio test</a></li>
+<li><a href="/wiki/Model_selection" title="Model selection">Model selection</a>
+<ul><li><a href="/wiki/Cross-validation_(statistics)" title="Cross-validation (statistics)">Cross validation</a></li>
+<li><a href="/wiki/Akaike_information_criterion" title="Akaike information criterion">AIC</a></li>
+<li><a href="/wiki/Bayesian_information_criterion" title="Bayesian information criterion">BIC</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Rank_statistics" class="mw-redirect" title="Rank statistics">Rank statistics</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sign_test" title="Sign test">Sign</a>
+<ul><li><a href="/wiki/Sample_median" class="mw-redirect" title="Sample median">Sample median</a></li></ul></li>
+<li><a href="/wiki/Wilcoxon_signed-rank_test" title="Wilcoxon signed-rank test">Signed rank <span style="font-size:90%;">(Wilcoxon)</span></a>
+<ul><li><a href="/wiki/Hodges%E2%80%93Lehmann_estimator" title="Hodges–Lehmann estimator">Hodges–Lehmann estimator</a></li></ul></li>
+<li><a href="/wiki/Mann%E2%80%93Whitney_U_test" title="Mann–Whitney U test">Rank sum <span style="font-size:90%;">(Mann–Whitney)</span></a></li>
+<li><a href="/wiki/Nonparametric_statistics" title="Nonparametric statistics">Nonparametric</a> <a href="/wiki/Analysis_of_variance" title="Analysis of variance">anova</a>
+<ul><li><a href="/wiki/Kruskal%E2%80%93Wallis_one-way_analysis_of_variance" title="Kruskal–Wallis one-way analysis of variance">1-way <span style="font-size:90%;">(Kruskal–Wallis)</span></a></li>
+<li><a href="/wiki/Friedman_test" title="Friedman test">2-way <span style="font-size:90%;">(Friedman)</span></a></li>
+<li><a href="/wiki/Jonckheere%27s_trend_test" title="Jonckheere&#39;s trend test">Ordered alternative <span style="font-size:90%;">(Jonckheere–Terpstra)</span></a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Bayesian_inference" title="Bayesian inference">Bayesian inference</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bayesian_probability" title="Bayesian probability">Bayesian probability</a>
+<ul><li><a href="/wiki/Prior_probability" title="Prior probability">prior</a></li>
+<li><a href="/wiki/Posterior_probability" title="Posterior probability">posterior</a></li></ul></li>
+<li><a href="/wiki/Credible_interval" title="Credible interval">Credible interval</a></li>
+<li><a href="/wiki/Bayes_factor" title="Bayes factor">Bayes factor</a></li>
+<li><a href="/wiki/Bayes_estimator" title="Bayes estimator">Bayesian estimator</a>
+<ul><li><a href="/wiki/Maximum_a_posteriori_estimation" title="Maximum a posteriori estimation">Maximum posterior estimator</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="CorrelationRegression_analysis" style="font-size:114%;margin:0 4em"><div class="hlist hlist-separated"><ul><li><a href="/wiki/Correlation_and_dependence" title="Correlation and dependence">Correlation</a></li><li><a href="/wiki/Regression_analysis" title="Regression analysis">Regression analysis</a></li></ul></div></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Correlation_and_dependence" title="Correlation and dependence">Correlation</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pearson_product-moment_correlation_coefficient" class="mw-redirect" title="Pearson product-moment correlation coefficient">Pearson product-moment</a></li>
+<li><a href="/wiki/Partial_correlation" title="Partial correlation">Partial correlation</a></li>
+<li><a href="/wiki/Confounding" title="Confounding">Confounding variable</a></li>
+<li><a href="/wiki/Coefficient_of_determination" title="Coefficient of determination">Coefficient of determination</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Regression_analysis" title="Regression analysis">Regression analysis</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Errors_and_residuals_in_statistics" class="mw-redirect" title="Errors and residuals in statistics">Errors and residuals</a></li>
+<li><a href="/wiki/Regression_model_validation" class="mw-redirect" title="Regression model validation">Regression model validation</a></li>
+<li><a href="/wiki/Mixed_model" title="Mixed model">Mixed effects models</a></li>
+<li><a href="/wiki/Simultaneous_equations_model" title="Simultaneous equations model">Simultaneous equations models</a></li>
+<li><a href="/wiki/Multivariate_adaptive_regression_splines" title="Multivariate adaptive regression splines">Multivariate adaptive regression splines (MARS)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Linear_regression" title="Linear regression">Linear regression</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Simple_linear_regression" title="Simple linear regression">Simple linear regression</a></li>
+<li><a href="/wiki/Ordinary_least_squares" title="Ordinary least squares">Ordinary least squares</a></li>
+<li><a href="/wiki/General_linear_model" title="General linear model">General linear model</a></li>
+<li><a href="/wiki/Bayesian_linear_regression" title="Bayesian linear regression">Bayesian regression</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em">Non-standard predictors</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nonlinear_regression" title="Nonlinear regression">Nonlinear regression</a></li>
+<li><a href="/wiki/Nonparametric_regression" title="Nonparametric regression">Nonparametric</a></li>
+<li><a href="/wiki/Semiparametric_regression" title="Semiparametric regression">Semiparametric</a></li>
+<li><a href="/wiki/Isotonic_regression" title="Isotonic regression">Isotonic</a></li>
+<li><a href="/wiki/Robust_regression" title="Robust regression">Robust</a></li>
+<li><a href="/wiki/Heteroscedasticity" title="Heteroscedasticity">Heteroscedasticity</a></li>
+<li><a href="/wiki/Homoscedasticity" title="Homoscedasticity">Homoscedasticity</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Generalized_linear_model" title="Generalized linear model">Generalized linear model</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Exponential_family" title="Exponential family">Exponential families</a></li>
+<li><a href="/wiki/Logistic_regression" title="Logistic regression">Logistic <span style="font-size:90%;">(Bernoulli)</span></a>&#160;/&#32;<a href="/wiki/Binomial_regression" title="Binomial regression">Binomial</a>&#160;/&#32;<a href="/wiki/Poisson_regression" title="Poisson regression">Poisson regressions</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Partition_of_sums_of_squares" title="Partition of sums of squares">Partition of variance</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Analysis_of_variance" title="Analysis of variance">Analysis of variance (ANOVA, anova)</a></li>
+<li><a href="/wiki/Analysis_of_covariance" title="Analysis of covariance">Analysis of covariance</a></li>
+<li><a href="/wiki/Multivariate_analysis_of_variance" title="Multivariate analysis of variance">Multivariate ANOVA</a></li>
+<li><a href="/wiki/Degrees_of_freedom_(statistics)" title="Degrees of freedom (statistics)">Degrees of freedom</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Categorical_/_Multivariate_/_Time-series_/_Survival_analysis" style="font-size:114%;margin:0 4em"><a href="/wiki/Categorical_variable" title="Categorical variable">Categorical</a>&#160;/&#32;<a href="/wiki/Multivariate_statistics" title="Multivariate statistics">Multivariate</a>&#160;/&#32;<a href="/wiki/Time_series" title="Time series">Time-series</a>&#160;/&#32;<a href="/wiki/Survival_analysis" title="Survival analysis">Survival analysis</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Categorical_variable" title="Categorical variable">Categorical</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cohen%27s_kappa" title="Cohen&#39;s kappa">Cohen's kappa</a></li>
+<li><a href="/wiki/Contingency_table" title="Contingency table">Contingency table</a></li>
+<li><a href="/wiki/Graphical_model" title="Graphical model">Graphical model</a></li>
+<li><a href="/wiki/Poisson_regression" title="Poisson regression">Log-linear model</a></li>
+<li><a href="/wiki/McNemar%27s_test" title="McNemar&#39;s test">McNemar's test</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Multivariate_statistics" title="Multivariate statistics">Multivariate</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/General_linear_model" title="General linear model">Regression</a></li>
+<li><a href="/wiki/Multivariate_analysis_of_variance" title="Multivariate analysis of variance">Manova</a></li>
+<li><a href="/wiki/Principal_component_analysis" title="Principal component analysis">Principal components</a></li>
+<li><a href="/wiki/Canonical_correlation" title="Canonical correlation">Canonical correlation</a></li>
+<li><a href="/wiki/Linear_discriminant_analysis" title="Linear discriminant analysis">Discriminant analysis</a></li>
+<li><a href="/wiki/Cluster_analysis" title="Cluster analysis">Cluster analysis</a></li>
+<li><a href="/wiki/Statistical_classification" title="Statistical classification">Classification</a></li>
+<li><a href="/wiki/Structural_equation_modeling" title="Structural equation modeling">Structural equation model</a>
+<ul><li><a href="/wiki/Factor_analysis" title="Factor analysis">Factor analysis</a></li></ul></li>
+<li><a href="/wiki/Multivariate_distribution" class="mw-redirect" title="Multivariate distribution">Multivariate distributions</a>
+<ul><li><a href="/wiki/Elliptical_distribution" title="Elliptical distribution">Elliptical distributions</a>
+<ul><li><a href="/wiki/Multivariate_normal_distribution" title="Multivariate normal distribution">Normal</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Time_series" title="Time series">Time-series</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Decomposition_of_time_series" title="Decomposition of time series">Decomposition</a></li>
+<li><a href="/wiki/Trend_estimation" class="mw-redirect" title="Trend estimation">Trend</a></li>
+<li><a href="/wiki/Stationary_process" title="Stationary process">Stationarity</a></li>
+<li><a href="/wiki/Seasonal_adjustment" title="Seasonal adjustment">Seasonal adjustment</a></li>
+<li><a href="/wiki/Exponential_smoothing" title="Exponential smoothing">Exponential smoothing</a></li>
+<li><a href="/wiki/Cointegration" title="Cointegration">Cointegration</a></li>
+<li><a href="/wiki/Structural_break" title="Structural break">Structural break</a></li>
+<li><a href="/wiki/Granger_causality" title="Granger causality">Granger causality</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Specific tests</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dickey%E2%80%93Fuller_test" title="Dickey–Fuller test">Dickey–Fuller</a></li>
+<li><a href="/wiki/Johansen_test" title="Johansen test">Johansen</a></li>
+<li><a href="/wiki/Ljung%E2%80%93Box_test" title="Ljung–Box test">Q-statistic <span style="font-size:90%;">(Ljung–Box)</span></a></li>
+<li><a href="/wiki/Durbin%E2%80%93Watson_statistic" title="Durbin–Watson statistic">Durbin–Watson</a></li>
+<li><a href="/wiki/Breusch%E2%80%93Godfrey_test" title="Breusch–Godfrey test">Breusch–Godfrey</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Time_domain" title="Time domain">Time domain</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autocorrelation" title="Autocorrelation">Autocorrelation (ACF)</a>
+<ul><li><a href="/wiki/Partial_autocorrelation_function" title="Partial autocorrelation function">partial (PACF)</a></li></ul></li>
+<li><a href="/wiki/Cross-correlation" title="Cross-correlation">Cross-correlation (XCF)</a></li>
+<li><a href="/wiki/Autoregressive%E2%80%93moving-average_model" title="Autoregressive–moving-average model">ARMA model</a></li>
+<li><a href="/wiki/Box%E2%80%93Jenkins_method" title="Box–Jenkins method">ARIMA model <span style="font-size:90%;">(Box–Jenkins)</span></a></li>
+<li><a href="/wiki/Autoregressive_conditional_heteroskedasticity" title="Autoregressive conditional heteroskedasticity">Autoregressive conditional heteroskedasticity (ARCH)</a></li>
+<li><a href="/wiki/Vector_autoregression" title="Vector autoregression">Vector autoregression (VAR)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Frequency_domain" title="Frequency domain">Frequency domain</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Spectral_density_estimation" title="Spectral density estimation">Spectral density estimation</a></li>
+<li><a href="/wiki/Fourier_analysis" title="Fourier analysis">Fourier analysis</a></li>
+<li><a href="/wiki/Wavelet" title="Wavelet">Wavelet</a></li>
+<li><a href="/wiki/Whittle_likelihood" title="Whittle likelihood">Whittle likelihood</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Survival_analysis" title="Survival analysis">Survival</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Survival_function" title="Survival function">Survival function</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kaplan%E2%80%93Meier_estimator" title="Kaplan–Meier estimator">Kaplan–Meier estimator (product limit)</a></li>
+<li><a href="/wiki/Proportional_hazards_model" title="Proportional hazards model">Proportional hazards models</a></li>
+<li><a href="/wiki/Accelerated_failure_time_model" title="Accelerated failure time model">Accelerated failure time (AFT) model</a></li>
+<li><a href="/wiki/First-hitting-time_model" title="First-hitting-time model">First hitting time</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Failure_rate" title="Failure rate">Hazard function</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nelson%E2%80%93Aalen_estimator" title="Nelson–Aalen estimator">Nelson–Aalen estimator</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Test</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Log-rank_test" class="mw-redirect" title="Log-rank test">Log-rank test</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Applications" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_fields_of_application_of_statistics" title="List of fields of application of statistics">Applications</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Biostatistics" title="Biostatistics">Biostatistics</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bioinformatics" title="Bioinformatics">Bioinformatics</a></li>
+<li><a href="/wiki/Clinical_trial" title="Clinical trial">Clinical trials</a>&#160;/&#32;<a href="/wiki/Clinical_study_design" title="Clinical study design">studies</a></li>
+<li><a href="/wiki/Epidemiology" title="Epidemiology">Epidemiology</a></li>
+<li><a href="/wiki/Medical_statistics" title="Medical statistics">Medical statistics</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Engineering_statistics" title="Engineering statistics">Engineering statistics</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chemometrics" title="Chemometrics">Chemometrics</a></li>
+<li><a href="/wiki/Methods_engineering" title="Methods engineering">Methods engineering</a></li>
+<li><a href="/wiki/Probabilistic_design" title="Probabilistic design">Probabilistic design</a></li>
+<li><a href="/wiki/Statistical_process_control" title="Statistical process control">Process</a>&#160;/&#32;<a href="/wiki/Quality_control" title="Quality control">quality control</a></li>
+<li><a href="/wiki/Reliability_engineering" title="Reliability engineering">Reliability</a></li>
+<li><a href="/wiki/System_identification" title="System identification">System identification</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Social_statistics" title="Social statistics">Social statistics</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Actuarial_science" title="Actuarial science">Actuarial science</a></li>
+<li><a href="/wiki/Census" title="Census">Census</a></li>
+<li><a href="/wiki/Crime_statistics" title="Crime statistics">Crime statistics</a></li>
+<li><a href="/wiki/Demographic_statistics" title="Demographic statistics">Demography</a></li>
+<li><a href="/wiki/Econometrics" title="Econometrics">Econometrics</a></li>
+<li><a href="/wiki/National_accounts" title="National accounts">National accounts</a></li>
+<li><a href="/wiki/Official_statistics" title="Official statistics">Official statistics</a></li>
+<li><a href="/wiki/Population_statistics" class="mw-redirect" title="Population statistics">Population statistics</a></li>
+<li><a href="/wiki/Psychometrics" title="Psychometrics">Psychometrics</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:12.5em"><a href="/wiki/Spatial_analysis" title="Spatial analysis">Spatial statistics</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cartography" title="Cartography">Cartography</a></li>
+<li><a href="/wiki/Environmental_statistics" title="Environmental statistics">Environmental statistics</a></li>
+<li><a href="/wiki/Geographic_information_system" title="Geographic information system">Geographic information system</a></li>
+<li><a href="/wiki/Geostatistics" title="Geostatistics">Geostatistics</a></li>
+<li><a href="/wiki/Kriging" title="Kriging">Kriging</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /><b><a href="/wiki/Category:Statistics" title="Category:Statistics">Category</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /><b><a href="/wiki/Portal:Statistics" title="Portal:Statistics">Portal</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /><b><a href="https://commons.wikimedia.org/wiki/Category:Statistics" class="extiw" title="commons:Category:Statistics">Commons</a></b></li>
+<li><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /> <b><a href="/wiki/Wikipedia:WikiProject_Statistics" title="Wikipedia:WikiProject Statistics">WikiProject</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2224
+Cached time: 20180929133848
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.492 seconds
+Real time usage: 0.698 seconds
+Preprocessor visited node count: 2354/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 250039/2097152 bytes
+Template argument size: 35434/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 10/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 9154/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.195/10.000 seconds
+Lua memory usage: 4.62 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  476.895      1 -total
+ 28.73%  137.003      5 Template:Ambox
+ 27.99%  133.475      1 Template:Statistics
+ 27.22%  129.794      1 Template:Reflist
+ 27.21%  129.777      1 Template:Navbox_with_collapsible_groups
+ 22.69%  108.228      1 Template:Multiple_issues
+ 22.53%  107.458      2 Template:Cite_journal
+ 14.98%   71.449     11 Template:Navbox
+  9.91%   47.239      1 Template:Cleanup
+  7.61%   36.297      2 Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1482394-0!canonical and timestamp 20180929133847 and revision id 858553024
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ranking&amp;oldid=858553024">https://en.wikipedia.org/w/index.php?title=Ranking&amp;oldid=858553024</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Nonparametric_statistics" title="Category:Nonparametric statistics">Nonparametric statistics</a></li><li><a href="/wiki/Category:Rankings" title="Category:Rankings">Rankings</a></li><li><a href="/wiki/Category:Comparison_(mathematical)" title="Category:Comparison (mathematical)">Comparison (mathematical)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_November_2008" title="Category:Articles needing additional references from November 2008">Articles needing additional references from November 2008</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_needing_cleanup_from_January_2010" title="Category:Articles needing cleanup from January 2010">Articles needing cleanup from January 2010</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Cleanup_tagged_articles_without_a_reason_field_from_January_2010" title="Category:Cleanup tagged articles without a reason field from January 2010">Cleanup tagged articles without a reason field from January 2010</a></li><li><a href="/wiki/Category:Wikipedia_pages_needing_cleanup_from_January_2010" title="Category:Wikipedia pages needing cleanup from January 2010">Wikipedia pages needing cleanup from January 2010</a></li><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_July_2008" title="Category:Articles that may contain original research from July 2008">Articles that may contain original research from July 2008</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li><li><a href="/wiki/Category:Vague_or_ambiguous_geographic_scope_from_July_2016" title="Category:Vague or ambiguous geographic scope from July 2016">Vague or ambiguous geographic scope from July 2016</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_September_2011" title="Category:Articles needing additional references from September 2011">Articles needing additional references from September 2011</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ranking" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ranking" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ranking" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Ranking" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Ranking">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Ranking&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ranking&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ranking" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ranking" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ranking&amp;oldid=858553024" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ranking&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q526719" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ranking&amp;id=858553024" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ranking">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ranking&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ranking&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Rankings" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Rangordnung" title="Rangordnung – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ranking" title="Ranking – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%88%9C%EC%9C%84" title="순위 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Pemeringkatan" title="Pemeringkatan – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0" title="ランキング – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Ranking" title="Ranking – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ranking" title="Ranking – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BD%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Ранжирование – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%B0%E0%B1%8D%E0%B0%AF%E0%B0%BE%E0%B0%82%E0%B0%95%E0%B1%81" title="ర్యాంకు – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/S%C4%B1ralama_d%C3%BCzeni" title="Sıralama düzeni – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D0%BA%D1%96%D0%BD%D0%B3" title="Ренкінг – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%90%8D%E6%AC%A1" title="名次 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%8E%92%E5%90%8D" title="排名 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q526719#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 8 September 2018, at 00:52<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ranking&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.492","walltime":"0.698","ppvisitednodes":{"value":2354,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":250039,"limit":2097152},"templateargumentsize":{"value":35434,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9154,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  476.895      1 -total"," 28.73%  137.003      5 Template:Ambox"," 27.99%  133.475      1 Template:Statistics"," 27.22%  129.794      1 Template:Reflist"," 27.21%  129.777      1 Template:Navbox_with_collapsible_groups"," 22.69%  108.228      1 Template:Multiple_issues"," 22.53%  107.458      2 Template:Cite_journal"," 14.98%   71.449     11 Template:Navbox","  9.91%   47.239      1 Template:Cleanup","  7.61%   36.297      2 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.195","limit":"10.000"},"limitreport-memusage":{"value":4843665,"limit":52428800}},"cachereport":{"origin":"mw2224","timestamp":"20180929133848","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":81,"wgHostname":"mw2190"});});</script>
+	</body>
+</html>

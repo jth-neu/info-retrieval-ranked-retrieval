@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Distributed web crawling - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Distributed_web_crawling","wgTitle":"Distributed web crawling","wgCurRevisionId":859057917,"wgRevisionId":859057917,"wgArticleId":237055,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from July 2008","All articles needing additional references","Applications of distributed computing","Internet search algorithms"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Distributed_web_crawling","wgRelevantArticleId":237055,"wgRequestId":"W7AOQArAIEYAADindi0AAABT","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5283185","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Distributed_web_crawling"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Distributed_web_crawling&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Distributed_web_crawling&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Distributed_web_crawling"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Distributed_web_crawling rootpage-Distributed_web_crawling skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Distributed web crawling</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Distributed_web_crawling&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(July 2008)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p><b>Distributed web crawling</b> is a <a href="/wiki/Distributed_computing" title="Distributed computing">distributed computing</a> technique whereby <a href="/wiki/Internet" title="Internet">Internet</a> <a href="/wiki/Search_engines" class="mw-redirect" title="Search engines">search engines</a> employ many computers to <a href="/wiki/Search_engine_indexing" title="Search engine indexing">index</a> the Internet via <a href="/wiki/Web_crawler" title="Web crawler">web crawling</a>. Such systems may allow for users to voluntarily offer their own computing and bandwidth resources towards crawling web pages. By spreading the load of these tasks across  many computers, costs that would otherwise be spent on maintaining large computing clusters are avoided.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Types"><span class="tocnumber">1</span> <span class="toctext">Types</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Dynamic_assignment"><span class="tocnumber">1.1</span> <span class="toctext">Dynamic assignment</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Static_assignment"><span class="tocnumber">1.2</span> <span class="toctext">Static assignment</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Implementations"><span class="tocnumber">2</span> <span class="toctext">Implementations</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Drawbacks"><span class="tocnumber">3</span> <span class="toctext">Drawbacks</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Sources"><span class="tocnumber">5</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Distributed_web_crawling&amp;action=edit&amp;section=1" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cho and Garcia-Molina studied two types of policies:
+</p>
+<h3><span class="mw-headline" id="Dynamic_assignment">Dynamic assignment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Distributed_web_crawling&amp;action=edit&amp;section=2" title="Edit section: Dynamic assignment">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>With this type of policy, a central server assigns new URLs to different crawlers dynamically. This allows the central server to, for instance, dynamically balance the load of each crawler.
+</p><p>With dynamic assignment, typically the systems can also add or remove downloader processes. The central server may become the bottleneck, so most of the workload must be transferred to the distributed crawling processes for large crawls.
+</p><p>There are two configurations of crawling architectures with dynamic assignments that have been described by Shkapenyuk and Suel:<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<ul><li>A small crawler configuration, in which there is a central <a href="/wiki/Domain_Name_System" title="Domain Name System">DNS</a> resolver and central queues per Web site, and distributed downloaders.</li>
+<li>A large crawler configuration, in which the DNS resolver and the queues are also distributed.</li></ul>
+<h3><span class="mw-headline" id="Static_assignment">Static assignment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Distributed_web_crawling&amp;action=edit&amp;section=3" title="Edit section: Static assignment">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>With this type of policy, there is a fixed rule stated from the beginning of the crawl that defines how to assign new URLs to the crawlers.
+</p><p>For static assignment, a hashing function can be used to transform URLs (or, even better, complete website names) into a number that corresponds to the index of the corresponding crawling process. As there are external links that will go from a Web site assigned to one crawling process to a website assigned to a different crawling process, some exchange of URLs must occur.
+</p><p>To reduce the overhead due to the exchange of URLs between crawling processes, the exchange should be done in batch, several URLs at a time, and the most cited URLs in the collection should be known by all crawling processes before the crawl (e.g.: using data from a previous crawl).<sup id="cite_ref-cho2002parallel_2-0" class="reference"><a href="#cite_note-cho2002parallel-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Implementations">Implementations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Distributed_web_crawling&amp;action=edit&amp;section=4" title="Edit section: Implementations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As of 2003 most modern commercial search engines use this technique.  <a href="/wiki/Google" title="Google">Google</a> and <a href="/wiki/Yahoo" class="mw-redirect" title="Yahoo">Yahoo</a> use thousands of individual computers to crawl the Web.
+</p><p>Newer projects are attempting to use a less structured, more <i>ad hoc</i> form of collaboration by enlisting volunteers to join the effort using, in many cases, their home or personal computers.  <a href="/wiki/LookSmart" title="LookSmart">LookSmart</a> is the largest search engine to use this technique, which powers its <a href="/wiki/Grub_(search_engine)" title="Grub (search engine)">Grub distributed web-crawling project</a>.
+</p><p>This solution uses computers that are connected to the <a href="/wiki/Internet" title="Internet">Internet</a> to crawl <a href="/wiki/URLs" class="mw-redirect" title="URLs">Internet addresses</a> in the background. Upon downloading crawled web pages, they are compressed and sent back together with a status flag (e.g. changed, new, down, redirected) to the powerful central servers. The servers, which manage a large database, send out new URLs to clients for testing.
+</p>
+<h2><span class="mw-headline" id="Drawbacks">Drawbacks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Distributed_web_crawling&amp;action=edit&amp;section=5" title="Edit section: Drawbacks">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to the <a href="/wiki/FAQ" title="FAQ">FAQ</a> about <a href="/wiki/Nutch" class="mw-redirect" title="Nutch">Nutch</a>, an open-source search engine website, the savings in bandwidth by distributed web crawling are not significant, since "A successful search engine requires more bandwidth to upload query result pages than its crawler needs to download pages...".
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Distributed_web_crawling&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Distributed_computing" title="Distributed computing">Distributed computing</a></li>
+<li><a href="/wiki/FAROO" title="FAROO">FAROO</a> - Peer-to-peer web search engine with distributed crawling</li>
+<li><a href="/wiki/Web_crawler" title="Web crawler">Web crawler</a></li>
+<li><a href="/wiki/YaCy" title="YaCy">YaCy</a> - P2P web search engine with distributed crawling</li>
+<li><a href="/wiki/Seeks" title="Seeks">Seeks</a> - Open-Source P2P Web Search</li></ul>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Distributed_web_crawling&amp;action=edit&amp;section=7" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">
+<cite class="citation conference">Shkapenyuk, Vladislav; Suel, Torsten (2002). <a rel="nofollow" class="external text" href="http://cis.poly.edu/tr/tr-cis-2001-03.htm">"Design and implementation of a high-performance distributed web crawler"</a>. <i>Data Engineering, 2002. Proceedings. 18th International Conference on</i>. IEEE. pp.&#160;357–368<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-10-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.atitle=Design+and+implementation+of+a+high-performance+distributed+web+crawler&amp;rft.btitle=Data+Engineering%2C+2002.+Proceedings.+18th+International+Conference+on&amp;rft.pages=357-368&amp;rft.pub=IEEE&amp;rft.date=2002&amp;rft.au=Shkapenyuk%2C+Vladislav&amp;rft.au=Suel%2C+Torsten&amp;rft_id=http%3A%2F%2Fcis.poly.edu%2Ftr%2Ftr-cis-2001-03.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADistributed+web+crawling" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-cho2002parallel-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-cho2002parallel_2-0">^</a></b></span> <span class="reference-text"><cite class="citation conference">Cho, Junghoo; Garcia-Molina, Hector (2002). <a rel="nofollow" class="external text" href="http://dl.acm.org/citation.cfm?id=511464">"Parallel crawlers"</a>. <i>Proceedings of the 11th international conference on World Wide Web</i>. ACM. pp.&#160;124–135. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1145%2F511446.511464">10.1145/511446.511464</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-58113-449-5" title="Special:BookSources/1-58113-449-5">1-58113-449-5</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-10-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.atitle=Parallel+crawlers&amp;rft.btitle=Proceedings+of+the+11th+international+conference+on+World+Wide+Web&amp;rft.pages=124-135&amp;rft.pub=ACM&amp;rft.date=2002&amp;rft_id=info%3Adoi%2F10.1145%2F511446.511464&amp;rft.isbn=1-58113-449-5&amp;rft.au=Cho%2C+Junghoo&amp;rft.au=Garcia-Molina%2C+Hector&amp;rft_id=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D511464&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADistributed+web+crawling" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Distributed_web_crawling&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Majestic-12 Distributed Search Engine</li>
+<li>Replaz Distributed Search Engine</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Distributed_search_engines" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Distributed_search_engines" title="Template:Distributed search engines"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/w/index.php?title=Template_talk:Distributed_search_engines&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Distributed search engines (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Distributed_search_engines&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Distributed_search_engines" style="font-size:114%;margin:0 4em"><a href="/wiki/Distributed_search_engine" title="Distributed search engine">Distributed search engines</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Distributed web search</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Blippex&amp;action=edit&amp;redlink=1" class="new" title="Blippex (page does not exist)">Blippex</a></li>
+<li><a href="/wiki/FAROO" title="FAROO">FAROO</a></li>
+<li><a href="/w/index.php?title=Sciencenet&amp;action=edit&amp;redlink=1" class="new" title="Sciencenet (page does not exist)">Sciencenet</a></li>
+<li><a href="/wiki/Seeks" title="Seeks">Seeks</a></li>
+<li><a href="/wiki/YaCy" title="YaCy">YaCy</a></li>
+<li><i><a href="/w/index.php?title=Alvis_Project&amp;action=edit&amp;redlink=1" class="new" title="Alvis Project (page does not exist)">Alvis</a></i></li>
+<li><i><a href="/w/index.php?title=InfraSearch&amp;action=edit&amp;redlink=1" class="new" title="InfraSearch (page does not exist)">InfraSearch</a></i></li>
+<li><i><a href="/w/index.php?title=Wowd&amp;action=edit&amp;redlink=1" class="new" title="Wowd (page does not exist)">Wowd</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a class="mw-selflink selflink">Distributed web crawlers</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Grub_(search_engine)" title="Grub (search engine)">Grub</a></li>
+<li><a href="/w/index.php?title=Boitho&amp;action=edit&amp;redlink=1" class="new" title="Boitho (page does not exist)">Boitho</a> Distributed Crawler</li>
+<li><a href="/w/index.php?title=Majestic-12_Distributed_Search_Engine&amp;action=edit&amp;redlink=1" class="new" title="Majestic-12 Distributed Search Engine (page does not exist)">Majestic-12</a>: DSearch</li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><i>italics</i> = defunct</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Web_crawlers" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Web_crawlers" title="Template:Web crawlers"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Web_crawlers" title="Template talk:Web crawlers"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Web_crawlers&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Web_crawlers" style="font-size:114%;margin:0 4em"><a href="/wiki/Web_crawler" title="Web crawler">Web crawlers</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="Internet_bots_designed_for_Web_crawling_and_Web_indexing"><a href="/wiki/Internet_bot" title="Internet bot">Internet bots</a> designed for <a href="/wiki/Web_crawling" class="mw-redirect" title="Web crawling">Web crawling</a> and <a href="/wiki/Web_indexing" title="Web indexing">Web indexing</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Active</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/80legs" title="80legs">80legs</a></li>
+<li><a href="/wiki/Bingbot" title="Bingbot">bingbot</a></li>
+<li><a href="/wiki/Fetcher" class="mw-redirect" title="Fetcher">Fetcher</a></li>
+<li><a href="/wiki/Googlebot" title="Googlebot">Googlebot</a></li>
+<li><a href="/wiki/Heritrix" title="Heritrix">Heritrix</a></li>
+<li><a href="/wiki/HTTrack" title="HTTrack">HTTrack</a></li>
+<li><a href="/w/index.php?title=Pandemonium_(Webcrawler)&amp;action=edit&amp;redlink=1" class="new" title="Pandemonium (Webcrawler) (page does not exist)">Pandemonium_(Webcrawler)</a></li>
+<li><a href="/wiki/PHP-Crawler" title="PHP-Crawler">PHP-Crawler</a></li>
+<li><a href="/wiki/PowerMapper" title="PowerMapper">PowerMapper</a></li>
+<li><a href="/wiki/Wget" title="Wget">Wget</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Discontinued</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/FAST_Crawler" class="mw-redirect" title="FAST Crawler">FAST Crawler</a></li>
+<li><a href="/wiki/Msnbot" title="Msnbot">msnbot</a></li>
+<li><a href="/wiki/RBSE" class="mw-redirect" title="RBSE">RBSE</a></li>
+<li><a href="/wiki/TkWWW_robot" class="mw-redirect" title="TkWWW robot">TkWWW robot</a></li>
+<li><a href="/wiki/Twiceler" class="mw-redirect" title="Twiceler">Twiceler</a></li>
+<li><a href="/w/index.php?title=Yahoo!_Slurp&amp;action=edit&amp;redlink=1" class="new" title="Yahoo! Slurp (page does not exist)">Yahoo! Slurp</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Types</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Distributed_web_crawler" class="mw-redirect" title="Distributed web crawler">Distributed web crawler</a></li>
+<li><a href="/wiki/Focused_crawler" title="Focused crawler">Focused crawler</a></li>
+<li><a href="/w/index.php?title=ICDL_crawler&amp;action=edit&amp;redlink=1" class="new" title="ICDL crawler (page does not exist)">ICDL crawler</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2184
+Cached time: 20180929200934
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.140 seconds
+Real time usage: 0.188 seconds
+Preprocessor visited node count: 425/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 22008/2097152 bytes
+Template argument size: 97/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 5983/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.080/10.000 seconds
+Lua memory usage: 2.54 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  153.775      1 -total
+ 61.00%   93.802      1 Template:Reflist
+ 50.62%   77.839      2 Template:Cite_conference
+ 28.05%   43.128      1 Template:Refimprove
+ 17.52%   26.938      1 Template:Ambox
+  7.40%   11.372      2 Template:Navbox
+  6.37%    9.796      1 Template:Distributed_search_engines
+  3.18%    4.884      1 Template:Web_crawlers
+  1.93%    2.965      1 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:237055-0!canonical and timestamp 20180929200933 and revision id 859057917
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Distributed_web_crawling&amp;oldid=859057917">https://en.wikipedia.org/w/index.php?title=Distributed_web_crawling&amp;oldid=859057917</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Applications_of_distributed_computing" title="Category:Applications of distributed computing">Applications of distributed computing</a></li><li><a href="/wiki/Category:Internet_search_algorithms" title="Category:Internet search algorithms">Internet search algorithms</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_July_2008" title="Category:Articles needing additional references from July 2008">Articles needing additional references from July 2008</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Distributed+web+crawling" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Distributed+web+crawling" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Distributed_web_crawling" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Distributed_web_crawling" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Distributed_web_crawling">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Distributed_web_crawling&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Distributed_web_crawling&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Distributed_web_crawling" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Distributed_web_crawling" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Distributed_web_crawling&amp;oldid=859057917" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Distributed_web_crawling&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5283185" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Distributed_web_crawling&amp;id=859057917" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Distributed+web+crawling">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Distributed+web+crawling&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Distributed_web_crawling&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5283185#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 11 September 2018, at 12:43<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Distributed_web_crawling&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.140","walltime":"0.188","ppvisitednodes":{"value":425,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":22008,"limit":2097152},"templateargumentsize":{"value":97,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5983,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  153.775      1 -total"," 61.00%   93.802      1 Template:Reflist"," 50.62%   77.839      2 Template:Cite_conference"," 28.05%   43.128      1 Template:Refimprove"," 17.52%   26.938      1 Template:Ambox","  7.40%   11.372      2 Template:Navbox","  6.37%    9.796      1 Template:Distributed_search_engines","  3.18%    4.884      1 Template:Web_crawlers","  1.93%    2.965      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.080","limit":"10.000"},"limitreport-memusage":{"value":2666697,"limit":52428800}},"cachereport":{"origin":"mw2184","timestamp":"20180929200934","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw2182"});});</script>
+	</body>
+</html>

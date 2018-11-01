@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Aliweb - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Aliweb","wgTitle":"Aliweb","wgCurRevisionId":860166798,"wgRevisionId":860166798,"wgArticleId":643872,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","History of the Internet","Internet search engines","Internet properties established in 1994"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Aliweb","wgRelevantArticleId":643872,"wgRequestId":"W6@epArAADoAAAh7d7QAAABQ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q3595591","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Aliweb"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Aliweb&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Aliweb&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Aliweb"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Aliweb rootpage-Aliweb skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Aliweb</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><caption class="fn org">Aliweb</caption><tbody><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Type of site</div></th><td>
+<a href="/wiki/Web_search_engine" title="Web search engine">Web search engine</a></td></tr><tr><th scope="row">Website</th><td class="url">
+<a rel="nofollow" class="external text" href="https://web.archive.org/web/19980209094726/http://www.aliweb.com">www.AliWeb.com</a> at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>&#32;(archived February 9, 1998)</td></tr><tr><th scope="row">Launched</th><td>
+May&#160;1994<span class="noprint">&#59;&#32;24&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1994-05</span>)</span></td></tr><tr><th scope="row">Current&#160;status</th><td class="category">
+Closed</td></tr></tbody></table>
+<p><b>ALIWEB</b> (<i>A</i>rchie <i>L</i>ike <i>I</i>ndexing for the <i>WEB</i>) is considered the first Web <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engine</a>, as its predecessors were either built with different purposes (<a href="/wiki/World_Wide_Web_Wanderer" title="World Wide Web Wanderer">the Wanderer</a>, <a href="/wiki/Gopher_(protocol)" title="Gopher (protocol)">Gopher</a>) or were literally just indexers (<a href="/wiki/Archie_search_engine" title="Archie search engine">Archie</a>, <a href="/wiki/Veronica_(computer)" class="mw-redirect" title="Veronica (computer)">Veronica</a> and <a href="/wiki/Jughead_(computer)" class="mw-redirect" title="Jughead (computer)">Jughead</a>).
+</p><p>First announced in November 1993<sup id="cite_ref-Announcement_html_1-0" class="reference"><a href="#cite_note-Announcement_html-1">&#91;1&#93;</a></sup>   by developer <a href="/wiki/Martijn_Koster" title="Martijn Koster">Martijn Koster</a> while working at <a href="/wiki/Nexor" title="Nexor">Nexor</a>, and presented in May 1994<sup id="cite_ref-CERN_2-0" class="reference"><a href="#cite_note-CERN-2">&#91;2&#93;</a></sup>  at the <a href="/wiki/History_of_the_World_Wide_Web#Web_organization" title="History of the World Wide Web">First International Conference</a> on the <a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a> at <a href="/wiki/CERN" title="CERN">CERN</a> in <a href="/wiki/Geneva" title="Geneva">Geneva</a>, ALIWEB preceded <a href="/wiki/WebCrawler" title="WebCrawler">WebCrawler</a> by several months.<sup id="cite_ref-Birthday_3-0" class="reference"><a href="#cite_note-Birthday-3">&#91;3&#93;</a></sup>
+</p><p>ALIWEB allowed users to submit the locations of index files on their sites<sup id="cite_ref-Birthday_3-1" class="reference"><a href="#cite_note-Birthday-3">&#91;3&#93;</a></sup><sup id="cite_ref-History_4-0" class="reference"><a href="#cite_note-History-4">&#91;4&#93;</a></sup>  which enabled the search engine to include webpages and add user-written page descriptions and keywords. This empowered webmasters to define the terms that would lead users to their pages, and also avoided setting bots (<i>e.g.</i> <a href="/wiki/World_Wide_Web_Wanderer" title="World Wide Web Wanderer">the Wanderer</a>, <a href="/wiki/JumpStation" title="JumpStation">JumpStation</a>) which used up bandwidth.  As relatively few people submitted their sites, ALIWEB was not very widely used.
+</p><p>Martijn Koster, who was also instrumental in the creation of the <a href="/wiki/Robots_Exclusion_Standard" class="mw-redirect" title="Robots Exclusion Standard">Robots Exclusion Standard</a>,<sup id="cite_ref-Exclusion_5-0" class="reference"><a href="#cite_note-Exclusion-5">&#91;5&#93;</a></sup><sup id="cite_ref-Robots_6-0" class="reference"><a href="#cite_note-Robots-6">&#91;6&#93;</a></sup>  detailed the background and objectives of ALIWEB with an overview of its functions and framework in the paper he presented at <a href="/wiki/CERN" title="CERN">CERN</a>.<sup id="cite_ref-CERN_2-1" class="reference"><a href="#cite_note-CERN-2">&#91;2&#93;</a></sup>
+</p><p>Koster is not associated with a <a href="/wiki/Link_farm" title="Link farm">commercial</a> website which uses the aliweb name.<sup id="cite_ref-Koster_7-0" class="reference"><a href="#cite_note-Koster-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aliweb&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/History_of_the_Internet" title="History of the Internet">History of the Internet</a></li>
+<li><a href="/wiki/List_of_search_engines" title="List of search engines">List of search engines</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aliweb&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Announcement_html-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Announcement_html_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Martijn Koster (30 November 1993). <a rel="nofollow" class="external text" href="https://groups.google.com/group/comp.infosystems.www/browse_frm/thread/5903be849c05362f/4b58ee36a52f21ee?hl=en#4b58ee36a52f21ee">"ANNOUNCEMENT: ALIWEB (Archie-Like Indexing for the WEB)"</a>. <i>comp.infosystems)</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=comp.infosystems%29&amp;rft.atitle=ANNOUNCEMENT%3A+ALIWEB+%28Archie-Like+Indexing+for+the+WEB%29&amp;rft.date=1993-11-30&amp;rft.au=Martijn+Koster&amp;rft_id=https%3A%2F%2Fgroups.google.com%2Fgroup%2Fcomp.infosystems.www%2Fbrowse_frm%2Fthread%2F5903be849c05362f%2F4b58ee36a52f21ee%3Fhl%3Den%234b58ee36a52f21ee&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAliweb" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-CERN-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-CERN_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CERN_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www94.web.cern.ch/WWW94/PrelimProcs.html">"List of PostScript files for the WWW94 advance proceedings"</a>. <i>First International Conference on the World-Wide Web</i>. June 1994. <q>Title: "Aliweb - Archie-Like Indexing in the Web."  Author: Martijn Koster.  Institute: NEXOR Ltd., <a href="/wiki/United_Kingdom" title="United Kingdom">UK</a>.  PostScript, Size: 213616, Printed: 10 pages</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=First+International+Conference+on+the+World-Wide+Web&amp;rft.atitle=List+of+PostScript+files+for+the+WWW94+advance+proceedings&amp;rft.date=1994-06&amp;rft_id=http%3A%2F%2Fwww94.web.cern.ch%2FWWW94%2FPrelimProcs.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAliweb" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Birthday-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Birthday_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Birthday_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Chris Sherman (3 December 2002). <a rel="nofollow" class="external text" href="http://searchenginewatch.com/showPage.html?page=2161311">"Happy Birthday, Aliweb!"</a>. <i><a href="/wiki/Search_Engine_Watch" title="Search Engine Watch">Search Engine Watch</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Search+Engine+Watch&amp;rft.atitle=Happy+Birthday%2C+Aliweb%21&amp;rft.date=2002-12-03&amp;rft.au=Chris+Sherman&amp;rft_id=http%3A%2F%2Fsearchenginewatch.com%2FshowPage.html%3Fpage%3D2161311&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAliweb" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-History-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-History_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Wes Sonnenreich (1997). <a rel="nofollow" class="external text" href="http://www.wiley.com/legacy/compbooks/sonnenreich/history.html">"A History of Search Engines"</a>. <i><a href="/wiki/John_Wiley_%26_Sons" title="John Wiley &amp; Sons">John Wiley &amp; Sons</a> website</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=John+Wiley+%26+Sons+website&amp;rft.atitle=A+History+of+Search+Engines&amp;rft.date=1997&amp;rft.au=Wes+Sonnenreich&amp;rft_id=http%3A%2F%2Fwww.wiley.com%2Flegacy%2Fcompbooks%2Fsonnenreich%2Fhistory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAliweb" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Exclusion-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Exclusion_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Martijn Koster. <a rel="nofollow" class="external text" href="http://www.robotstxt.org/wc/exclusion.html">"Robots Exclusion"</a>. <i>robotstxt.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=robotstxt.org&amp;rft.atitle=Robots+Exclusion&amp;rft.au=Martijn+Koster&amp;rft_id=http%3A%2F%2Fwww.robotstxt.org%2Fwc%2Fexclusion.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAliweb" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Robots-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Robots_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Martijn Koster. <a rel="nofollow" class="external text" href="http://www.robotstxt.org/wc/threat-or-treat.html">"Robots in the Web: threat or treat?"</a>. <i>Reprinted with permission from ConneXions, The Interoperability Report, Volume 9, No. 4, April 1995</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Reprinted+with+permission+from+ConneXions%2C+The+Interoperability+Report%2C+Volume+9%2C+No.+4%2C+April+1995.&amp;rft.atitle=Robots+in+the+Web%3A+threat+or+treat%3F&amp;rft.au=Martijn+Koster&amp;rft_id=http%3A%2F%2Fwww.robotstxt.org%2Fwc%2Fthreat-or-treat.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAliweb" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-Koster-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Koster_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Martijn Koster. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070116180455/http://www.greenhills.co.uk/mak/historical.html">"Historical Web Services: ALIWEB"</a>. <i>Martijn Koster's Historical Web Services page</i>. Archived from <a rel="nofollow" class="external text" href="http://www.greenhills.co.uk/mak/historical.html">the original</a> on 2007-01-16. <q>Note that I have nothing to do with aliweb.com. It appears some <a href="/wiki/Internet_marketing" class="mw-redirect" title="Internet marketing">marketing</a> company has taken the old aliweb code and data, and are using it as a site for advertising purposes. Their search results are worthless. Their claim to have trademarked "aliweb" I have been unable to confirm in patent searches. My recommendation is that you avoid them.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Martijn+Koster%27s+Historical+Web+Services+page&amp;rft.atitle=Historical+Web+Services%3A+ALIWEB&amp;rft.au=Martijn+Koster&amp;rft_id=http%3A%2F%2Fwww.greenhills.co.uk%2Fmak%2Fhistorical.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAliweb" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Timeline_of_web_browsers" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Timeline_of_web_browsers" title="Template:Timeline of web browsers"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Timeline_of_web_browsers" title="Template talk:Timeline of web browsers"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Timeline_of_web_browsers&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Timeline_of_web_browsers" style="font-size:114%;margin:0 4em"><a href="/wiki/Timeline_of_web_browsers" title="Timeline of web browsers">Timeline</a> of <a href="/wiki/Web_browser" title="Web browser">web browsers</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="General" style="font-size:114%;margin:0 4em">General</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Comparison_of_web_browsers" title="Comparison of web browsers">Comparison</a>
+<ul><li><a href="/wiki/Comparison_of_lightweight_web_browsers" title="Comparison of lightweight web browsers">lightweight</a></li></ul></li>
+<li><a href="/wiki/History_of_the_web_browser" title="History of the web browser">History</a></li>
+<li><a href="/wiki/List_of_web_browsers" title="List of web browsers">List</a>
+<ul><li><a href="/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems" title="List of web browsers for Unix and Unix-like operating systems">for Unix</a></li></ul></li>
+<li><a href="/wiki/Usage_share_of_web_browsers" title="Usage share of web browsers">Usage share</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="1990s" style="font-size:114%;margin:0 4em">1990s</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">1990</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/WorldWideWeb" title="WorldWideWeb">WorldWideWeb (Nexus)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1991</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Line_Mode_Browser" title="Line Mode Browser">Line Mode Browser</a>
+<ul><li><a href="/wiki/Libwww" title="Libwww">libwww</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1992</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Erwise" title="Erwise">Erwise</a></li>
+<li><a href="/wiki/MacWWW" title="MacWWW">MacWWW (Samba)</a></li>
+<li><a href="/wiki/MidasWWW" title="MidasWWW">MidasWWW</a></li>
+<li><a href="/wiki/TkWWW" title="TkWWW">tkWWW</a></li>
+<li><a href="/wiki/ViolaWWW" title="ViolaWWW">ViolaWWW</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1993</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AMosaic" title="AMosaic">AMosaic</a></li>
+<li><a href="/wiki/Arena_(web_browser)" title="Arena (web browser)">Arena</a></li>
+<li><a href="/wiki/Cello_(web_browser)" title="Cello (web browser)">Cello</a></li>
+<li><a href="/wiki/Emacs/W3" class="mw-redirect" title="Emacs/W3">Emacs/W3</a></li>
+<li><a href="/wiki/Lynx_(web_browser)" title="Lynx (web browser)">Lynx 2</a></li>
+<li><a href="/wiki/Mosaic_(web_browser)" title="Mosaic (web browser)">NCSA Mosaic</a></li>
+<li><a href="/wiki/VMS_Mosaic" class="mw-redirect" title="VMS Mosaic">VMS Mosaic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1994</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AirMosaic" title="AirMosaic">AirMosaic</a>
+<ul><li><a href="/wiki/IBox" title="IBox">Internet in a Box</a></li></ul></li>
+<li><a href="/wiki/Fresco_(web_browser)" title="Fresco (web browser)">ANT Fresco</a></li>
+<li><a href="/wiki/Argo_(web_browser)" title="Argo (web browser)">Argo</a></li>
+<li><a href="/wiki/IBM_WebExplorer" title="IBM WebExplorer">IBM WebExplorer</a></li>
+<li><a href="/wiki/SlipKnot_(web_browser)" title="SlipKnot (web browser)">SlipKnot</a></li>
+<li><a href="/wiki/Minnesota_Internet_Users_Essential_Tool" title="Minnesota Internet Users Essential Tool">Minuet</a></li>
+<li><a href="/wiki/AOLpress" title="AOLpress">Navipress</a></li>
+<li><a href="/wiki/Netscape_(web_browser)#Netscape_Navigator_.28versions_1.0.E2.80.933.0.29" title="Netscape (web browser)">Mosaic/Mosaic Netscape/Netscape Navigator</a></li>
+<li><a href="/wiki/Spyglass,_Inc." title="Spyglass, Inc.">Spyglass Mosaic</a></li>
+<li><a href="/wiki/InterCon_Systems_Corporation#TCP.2FConnect_II" title="InterCon Systems Corporation">TCP/Connect II</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1995</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agora_(web_browser)" title="Agora (web browser)">Agora</a></li>
+<li><a href="/wiki/ALynx" class="mw-redirect" title="ALynx">ALynx</a></li>
+<li><a href="/wiki/AMSD_Ariadna" title="AMSD Ariadna">AMSD Ariadna</a></li>
+<li><a href="/wiki/Cyberjack" title="Cyberjack">Cyberjack</a></li>
+<li><a href="/wiki/InterCon_Systems_Corporation#WebShark" title="InterCon Systems Corporation">eWorld Web Browser</a></li>
+<li><a href="/wiki/Grail_(web_browser)" title="Grail (web browser)">Grail</a></li>
+<li><a href="/wiki/Internet_Explorer_1" class="mw-redirect" title="Internet Explorer 1">Internet Explorer 1</a></li>
+<li><a href="/wiki/Internet_Explorer_2" title="Internet Explorer 2">Internet Explorer 2</a></li>
+<li><a href="/wiki/Netscape_(web_browser)#Netscape_Navigator_.28versions_1.0.E2.80.933.0.29" title="Netscape (web browser)">Netscape Navigator 2</a></li>
+<li><a href="/wiki/InterCon_Systems_Corporation#NetShark" title="InterCon Systems Corporation">NetShark</a></li>
+<li><a href="/wiki/OmniWeb" title="OmniWeb">OmniWeb</a></li>
+<li><a href="/wiki/HotJava" title="HotJava">HotJava</a></li>
+<li><a href="/wiki/UdiWWW" title="UdiWWW">UdiWWW</a></li>
+<li><a href="/wiki/InterCon_Systems_Corporation#WebShark" title="InterCon Systems Corporation">WebShark</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1996</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cyberdog" title="Cyberdog">Cyberdog</a></li>
+<li><a href="/wiki/Arachne_(web_browser)" title="Arachne (web browser)">Arachne</a></li>
+<li><a href="/wiki/AWeb" title="AWeb">AWeb</a></li>
+<li><a href="/wiki/IBrowse" title="IBrowse">IBrowse</a></li>
+<li><a href="/wiki/Amaya_(web_editor)" title="Amaya (web editor)">Amaya</a></li>
+<li><a href="/wiki/Internet_Explorer_3" title="Internet Explorer 3">Internet Explorer 3</a></li>
+<li><a href="/wiki/Netscape_(web_browser)#Netscape_Navigator_.28versions_1.0.E2.80.933.0.29" title="Netscape (web browser)">Netscape Navigator 3</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_2" title="History of the Opera web browser">Opera 2</a></li>
+<li><a href="/wiki/Oracle_PowerBrowser" title="Oracle PowerBrowser">Oracle PowerBrowser</a></li>
+<li><a href="/wiki/InterCon_Systems_Corporation" title="InterCon Systems Corporation">tcpCONNECT4</a></li>
+<li><a href="/wiki/Voyager_(web_browser)" title="Voyager (web browser)">Voyager</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1997</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Netscape_Communicator" title="Netscape Communicator">Netscape Communicator</a></li>
+<li><a href="/wiki/Internet_Explorer_4" title="Internet Explorer 4">Internet Explorer 4</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_2" title="History of the Opera web browser">Opera 2.1</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1998</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/NeoPlanet" title="NeoPlanet">NeoPlanet</a></li>
+<li><a href="/wiki/Mozilla_Application_Suite" title="Mozilla Application Suite">Mozilla Application Suite</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_3" title="History of the Opera web browser">Opera 3–3.21</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1999</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ICab" title="ICab">iCab</a></li>
+<li><a href="/wiki/Internet_Explorer_5" title="Internet Explorer 5">Internet Explorer 5</a></li>
+<li><a href="/wiki/Omniweb" class="mw-redirect" title="Omniweb">Omniweb 3</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_3" title="History of the Opera web browser">Opera 3.5–3.62</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="2000s" style="font-size:114%;margin:0 4em">2000s</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">2000</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Beonex_Communicator" title="Beonex Communicator">Beonex Communicator</a></li>
+<li><a href="/wiki/Galeon" title="Galeon">Galeon</a></li>
+<li><a href="/wiki/K-Meleon" title="K-Meleon">K-Meleon</a></li>
+<li><a href="/wiki/MediaBrowser" title="MediaBrowser">MediaBrowser</a></li>
+<li><a href="/wiki/Netscape_6" title="Netscape 6">Netscape 6</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_4" title="History of the Opera web browser">Opera 4–4.02</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2001</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ICab" title="ICab">iCab 2.5</a></li>
+<li><a href="/wiki/Internet_Explorer_6" title="Internet Explorer 6">Internet Explorer 6</a></li>
+<li><a href="/wiki/Omniweb" class="mw-redirect" title="Omniweb">Omniweb 4</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_5" title="History of the Opera web browser">Opera 5–5.12</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2002</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Avant_Browser" title="Avant Browser">Avant Browser 7</a></li>
+<li><a href="/wiki/Camino_(web_browser)" title="Camino (web browser)">Camino</a></li>
+<li><a href="/wiki/GNOME_Web" title="GNOME Web">Epiphany</a></li>
+<li><a href="/wiki/Netscape_7" title="Netscape 7">Netscape 7</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_6" title="History of the Opera web browser">Opera 6–6.1</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2003</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/GreenBrowser" title="GreenBrowser">GreenBrowser</a></li>
+<li><a href="/wiki/Maxthon#Browser_versions" title="Maxthon">Maxthon</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_7" title="History of the Opera web browser">Opera 7–7.3</a></li>
+<li><a href="/wiki/Safari_(web_browser)" title="Safari (web browser)">Safari</a></li>
+<li><a href="/wiki/SlimBrowser" title="SlimBrowser">SlimBrowser</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2004</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Avant_Browser" title="Avant Browser">Avant Browser 9</a></li>
+<li><a href="/wiki/History_of_Firefox" title="History of Firefox">Phoenix/Firebird/Firefox</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_7" title="History of the Opera web browser">Opera 7.5–7.55</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2005</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AOL_Explorer" title="AOL Explorer">AOL Explorer</a></li>
+<li><a href="/wiki/Deepnet_Explorer" title="Deepnet Explorer">Deepnet Explorer</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 1.5</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_8" title="History of the Opera web browser">Opera 8–8.54</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_2" title="Safari (web browser)">Safari 2</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2006</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Avant_Browser" title="Avant Browser">Avant Browser 11</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 2</a></li>
+<li><a href="/wiki/Internet_Explorer_7" title="Internet Explorer 7">Internet Explorer 7</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_9" title="History of the Opera web browser">Opera 9–9.27</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2007</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Maxthon#Browser_versions" title="Maxthon">Maxthon 2</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_9" title="History of the Opera web browser">Opera 9.5–9.64</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_3" title="Safari (web browser)">Safari 3</a></li>
+<li><a href="/wiki/SeaMonkey#Release_history" title="SeaMonkey">SeaMonkey 1.1</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2008</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 3</a></li>
+<li><a href="/wiki/Netscape_Browser" title="Netscape Browser">Netscape Browser</a></li>
+<li><a href="/wiki/Netscape_Navigator_9" title="Netscape Navigator 9">Netscape Navigator 9</a></li>
+<li><a href="/wiki/NetSurf#Release" title="NetSurf">NetSurf 1.2</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2009</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Avant_Browser" title="Avant Browser">Avant Browser 11.7</a></li>
+<li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 2–3</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 3.5</a></li>
+<li><a href="/wiki/Internet_Explorer_8" title="Internet Explorer 8">Internet Explorer 8</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_10" title="History of the Opera web browser">Opera 10–10.63</a></li>
+<li><a href="/wiki/Pale_Moon_(web_browser)" title="Pale Moon (web browser)">Pale Moon</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_4" title="Safari (web browser)">Safari 4</a></li>
+<li><a href="/wiki/SeaMonkey#Release_history" title="SeaMonkey">SeaMonkey 2.0</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="2010s" style="font-size:114%;margin:0 4em">2010s</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">2010</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 4–8</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 3.6</a></li>
+<li><a href="/wiki/Lunascape#History" title="Lunascape">Lunascape 6.0.1</a></li>
+<li><a href="/wiki/Maxthon#Browser_versions" title="Maxthon">Maxthon 3</a></li>
+<li><a href="/wiki/NetSurf#Release" title="NetSurf">NetSurf 2.5</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_11" title="History of the Opera web browser">Opera 11–11.64</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_5" title="Safari (web browser)">Safari 5</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2011</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 9–16</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 4–9</a></li>
+<li><a href="/wiki/Internet_Explorer_9" title="Internet Explorer 9">Internet Explorer 9</a></li>
+<li><a href="/wiki/Lunascape#History" title="Lunascape">Lunascape 6.5</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser#Version_12" title="History of the Opera web browser">Opera 12–12.17</a></li>
+<li><a href="/wiki/SeaMonkey#Release_history" title="SeaMonkey">SeaMonkey 2.1–2.4</a></li>
+<li><a href="/wiki/Waterfox" title="Waterfox">Waterfox</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2012</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 17–23</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 10–17</a></li>
+<li><a href="/wiki/Internet_Explorer_10" title="Internet Explorer 10">Internet Explorer 10</a></li>
+<li><a href="/wiki/Lunascape#History" title="Lunascape">Lunascape 6.7</a></li>
+<li><a href="/wiki/Maxthon#Browser_versions" title="Maxthon">Maxthon 3.4</a></li>
+<li><a href="/wiki/NetSurf#Release" title="NetSurf">NetSurf 2.9</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_6" title="Safari (web browser)">Safari 6</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2013</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 24–31</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 18–26</a></li>
+<li><a href="/wiki/Internet_Explorer_11" title="Internet Explorer 11">Internet Explorer 11</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser" title="History of the Opera web browser">Opera 15–18</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_7" title="Safari (web browser)">Safari 7</a></li>
+<li><a href="/wiki/SeaMonkey#Release_history" title="SeaMonkey">SeaMonkey 2.15–2.22</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2014</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 32–39</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 27–34</a></li>
+<li><a href="/wiki/Lunascape#History" title="Lunascape">Lunascape 6.9</a></li>
+<li><a href="/wiki/NetSurf#Release" title="NetSurf">NetSurf 3.1</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser" title="History of the Opera web browser">Opera 19–26</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_8" title="Safari (web browser)">Safari 8</a></li>
+<li><a href="/wiki/SeaMonkey#Release_history" title="SeaMonkey">SeaMonkey 2.23–2.31</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2015</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 40–47</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 35–43</a></li>
+<li><a href="/wiki/Lunascape#History" title="Lunascape">Lunascape 6.10–6.12</a></li>
+<li><a href="/wiki/Microsoft_Edge" title="Microsoft Edge">Microsoft Edge 20, 25</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser" title="History of the Opera web browser">Opera 27–34</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_9" title="Safari (web browser)">Safari 9</a></li>
+<li><a href="/wiki/SeaMonkey#Release_history" title="SeaMonkey">SeaMonkey 2.32–2.39</a></li>
+<li><a href="/wiki/Vivaldi_(web_browser)" title="Vivaldi (web browser)">Vivaldi</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2016</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 48–55</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 44–50</a></li>
+<li><a href="/wiki/Lunascape#History" title="Lunascape">Lunascape 6.13–6.15</a></li>
+<li><a href="/wiki/Microsoft_Edge" title="Microsoft Edge">Microsoft Edge 38</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser" title="History of the Opera web browser">Opera 35–42</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_10" title="Safari (web browser)">Safari 10</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2017</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Basilisk_(web_browser)" title="Basilisk (web browser)">Basilisk</a></li>
+<li><a href="/wiki/Brave_(web_browser)" title="Brave (web browser)">Brave</a></li>
+<li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 56–63</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 51–57</a></li>
+<li><a href="/wiki/Microsoft_Edge" title="Microsoft Edge">Microsoft Edge 40, 41</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser" title="History of the Opera web browser">Opera 43–49</a></li>
+<li><a href="/wiki/Safari_(web_browser)#Safari_11" title="Safari (web browser)">Safari 11</a></li>
+<li><a href="/wiki/SeaMonkey#Release_history" title="SeaMonkey">SeaMonkey 2.46–2.49</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2018</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Chrome_version_history" title="Google Chrome version history">Google Chrome 64–</a></li>
+<li><a href="/wiki/Firefox_version_history#Release_history" title="Firefox version history">Firefox 58–</a></li>
+<li><a href="/wiki/Microsoft_Edge" title="Microsoft Edge">Microsoft Edge 42-</a></li>
+<li><a href="/wiki/History_of_the_Opera_web_browser" title="History of the Opera web browser">Opera 50-</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";"><div id="Related_topics" style="font-size:114%;margin:0 4em">Related topics</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/3DMLW" title="3DMLW">3D Markup Language for Web</a></i></li>
+<li><a class="mw-selflink selflink">Aliweb</a></li>
+<li><i><a href="/wiki/ARPANET" title="ARPANET">ARPANET</a></i></li>
+<li><a href="/wiki/ASCII" title="ASCII">ASCII</a></li>
+<li><i><a href="/wiki/BITNET" title="BITNET">BITNET</a></i></li>
+<li><a href="/wiki/Browser_wars" title="Browser wars">Browser wars</a></li>
+<li><i><a href="/wiki/CompuServe" title="CompuServe">CompuServe</a></i></li>
+<li><a href="/wiki/Elm_(email_client)" title="Elm (email client)">Elm</a></li>
+<li><a href="/wiki/Email" title="Email">Email</a></li>
+<li><a href="/wiki/File_Transfer_Protocol" title="File Transfer Protocol">File Transfer Protocol</a></li>
+<li><a href="/wiki/Gopher_(protocol)" title="Gopher (protocol)">Gopher</a></li>
+<li><a href="/wiki/HTML" title="HTML">HTML</a></li>
+<li><i><a href="/wiki/HyperCard" title="HyperCard">HyperCard</a></i></li>
+<li><i><a href="/wiki/HyTelnet" title="HyTelnet">HyTelnet</a></i></li>
+<li><i><a href="/wiki/NCSA_Telnet" title="NCSA Telnet">NCSA Telnet</a></i></li>
+<li><a href="/wiki/NLS_(computer_system)" title="NLS (computer system)">NLS</a></li>
+<li><i><a href="/wiki/Prodigy_(online_service)" title="Prodigy (online service)">Prodigy</a></i></li>
+<li><a href="/wiki/Teletext" title="Teletext">Teletext</a></li>
+<li><a href="/wiki/Telnet" title="Telnet">Telnet</a></li>
+<li><a href="/wiki/Usenet" title="Usenet">Usenet</a></li>
+<li><i><a href="/wiki/UUCP" title="UUCP">UUCP</a></i></li>
+<li><i><a href="/wiki/Videotex" title="Videotex">Videotex</a></i></li>
+<li><a href="/wiki/Viewdata" title="Viewdata">Viewdata</a></li>
+<li><i><a href="/wiki/VRML" title="VRML">Virtual Reality Markup Language</a></i></li>
+<li><a href="/wiki/Web_page" title="Web page">Web page</a></li>
+<li><a href="/wiki/Whole_Internet_User%27s_Guide_and_Catalog" title="Whole Internet User&#39;s Guide and Catalog">Whole Internet User's Guide and Catalog</a></li>
+<li><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a></li>
+<li><i><a href="/wiki/X.25" title="X.25">X.25</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2232
+Cached time: 20180929154748
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.268 seconds
+Real time usage: 0.317 seconds
+Preprocessor visited node count: 2031/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 133636/2097152 bytes
+Template argument size: 16075/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 18771/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.103/10.000 seconds
+Lua memory usage: 4.53 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  234.541      1 -total
+ 41.38%   97.061      1 Template:Infobox_website
+ 36.92%   86.581      1 Template:Reflist
+ 34.23%   80.280      1 Template:Infobox
+ 31.50%   73.884      7 Template:Cite_web
+ 19.15%   44.920      1 Template:Early_web_browsers
+ 17.53%   41.118      1 Template:Navbox_with_collapsible_groups
+  7.05%   16.535      1 Template:Start_date_and_age
+  5.07%   11.889      3 Template:If_empty
+  4.29%   10.059      1 Template:Webarchive
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:643872-0!canonical and timestamp 20180929154748 and revision id 860166798
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Aliweb&amp;oldid=860166798">https://en.wikipedia.org/w/index.php?title=Aliweb&amp;oldid=860166798</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:History_of_the_Internet" title="Category:History of the Internet">History of the Internet</a></li><li><a href="/wiki/Category:Internet_search_engines" title="Category:Internet search engines">Internet search engines</a></li><li><a href="/wiki/Category:Internet_properties_established_in_1994" title="Category:Internet properties established in 1994">Internet properties established in 1994</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Aliweb" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Aliweb" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Aliweb" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Aliweb" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Aliweb">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Aliweb&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Aliweb&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Aliweb" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Aliweb" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Aliweb&amp;oldid=860166798" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Aliweb&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3595591" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Aliweb&amp;id=860166798" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Aliweb">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Aliweb&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Aliweb&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/Aliweb" title="Aliweb – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%B2%E0%A4%BF%E0%A4%B5%E0%A5%87%E0%A4%AC" title="एलिवेब – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Aliweb" title="Aliweb – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%86%E0%B4%B2%E0%B4%BF%E0%B4%B5%E0%B5%86%E0%B4%AC%E0%B5%8D" title="ആലിവെബ് – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Aliweb" title="Aliweb – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3595591#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 18 September 2018, at 19:36<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Aliweb&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.268","walltime":"0.317","ppvisitednodes":{"value":2031,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":133636,"limit":2097152},"templateargumentsize":{"value":16075,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":18771,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  234.541      1 -total"," 41.38%   97.061      1 Template:Infobox_website"," 36.92%   86.581      1 Template:Reflist"," 34.23%   80.280      1 Template:Infobox"," 31.50%   73.884      7 Template:Cite_web"," 19.15%   44.920      1 Template:Early_web_browsers"," 17.53%   41.118      1 Template:Navbox_with_collapsible_groups","  7.05%   16.535      1 Template:Start_date_and_age","  5.07%   11.889      3 Template:If_empty","  4.29%   10.059      1 Template:Webarchive"]},"scribunto":{"limitreport-timeusage":{"value":"0.103","limit":"10.000"},"limitreport-memusage":{"value":4751428,"limit":52428800}},"cachereport":{"origin":"mw2232","timestamp":"20180929154748","ttl":86400,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":423,"wgHostname":"mw2232"});});</script>
+	</body>
+</html>

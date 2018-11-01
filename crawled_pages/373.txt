@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Paid inclusion - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Paid_inclusion","wgTitle":"Paid inclusion","wgCurRevisionId":829684560,"wgRevisionId":829684560,"wgArticleId":501170,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Internet advertising methods","Search engine optimization"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Paid_inclusion","wgRelevantArticleId":501170,"wgRequestId":"W6@PugrAEDgAAHsnLQcAAABF","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q253932","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Paid_inclusion"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Paid_inclusion&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Paid_inclusion&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Paid_inclusion"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Paid_inclusion rootpage-Paid_inclusion skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Paid inclusion</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of a series on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Online_advertising" title="Online advertising">Internet marketing</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Search_engine_optimization" title="Search engine optimization">Search engine optimization</a></li>
+<li><a href="/wiki/Local_search_engine_optimisation" title="Local search engine optimisation">Local search engine optimisation</a></li>
+<li><a href="/wiki/Social_media_marketing" title="Social media marketing">Social media marketing</a></li>
+<li><a href="/wiki/Email_marketing" title="Email marketing">Email marketing</a></li>
+<li><a href="/wiki/Referral_marketing" title="Referral marketing">Referral marketing</a></li>
+<li><a href="/wiki/Content_marketing" title="Content marketing">Content marketing</a></li>
+<li><a href="/wiki/Native_advertising" title="Native advertising">Native advertising</a></li></ul></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+<a href="/wiki/Search_engine_marketing" title="Search engine marketing">Search engine marketing</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Pay-per-click" title="Pay-per-click">Pay-per-click</a></li>
+<li><a href="/wiki/Cost_per_impression" title="Cost per impression">Cost per impression</a></li>
+<li><a href="/wiki/Search_analytics" title="Search analytics">Search analytics</a></li>
+<li><a href="/wiki/Web_analytics" title="Web analytics">Web analytics</a></li></ul></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+<a href="/wiki/Display_advertising" title="Display advertising">Display advertising</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Ad_blocking" title="Ad blocking">Ad blocking</a></li>
+<li><a href="/wiki/Contextual_advertising" title="Contextual advertising">Contextual advertising</a></li>
+<li><a href="/wiki/Behavioral_targeting" class="mw-redirect" title="Behavioral targeting">Behavioral targeting</a></li></ul></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+<a href="/wiki/Affiliate_marketing" title="Affiliate marketing">Affiliate marketing</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Cost_per_action" title="Cost per action">Cost per action</a></li>
+<li><a href="/wiki/Revenue_sharing" title="Revenue sharing">Revenue sharing</a></li></ul></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+<a href="/wiki/Mobile_advertising" title="Mobile advertising">Mobile advertising</a></th></tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Internet_marketing" title="Template:Internet marketing"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Internet_marketing" title="Template talk:Internet marketing"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Internet_marketing&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Paid inclusion</b> is a <a href="/wiki/Search_engine_marketing" title="Search engine marketing">search engine marketing</a> product where the <a href="/wiki/Search_engine" class="mw-redirect" title="Search engine">search engine</a> company charges fees related to inclusion of <a href="/wiki/Website" title="Website">websites</a> in their <a href="/wiki/Search_index" class="mw-redirect" title="Search index">search index</a>. The use of paid inclusion is controversial and paid inclusion's popularity has decreased over time among search engines.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition_of_paid_inclusion"><span class="tocnumber">1</span> <span class="toctext">Definition of paid inclusion</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History_of_paid_inclusion"><span class="tocnumber">2</span> <span class="toctext">History of paid inclusion</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Google&#39;s_incorporation_of_paid_inclusion"><span class="tocnumber">2.1</span> <span class="toctext">Google's incorporation of paid inclusion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Mixed_views_on_paid_inclusion"><span class="tocnumber">3</span> <span class="toctext">Mixed views on paid inclusion</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Guidelines_for_paid_inclusion"><span class="tocnumber">4</span> <span class="toctext">Guidelines for paid inclusion</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Definition_of_paid_inclusion">Definition of paid inclusion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paid_inclusion&amp;action=edit&amp;section=1" title="Edit section: Definition of paid inclusion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Federal_Trade_Commission" title="Federal Trade Commission">FTC</a> defined paid inclusion as "Paid inclusion can take many forms. Examples of paid inclusion include programs where the only sites listed are those that have paid; where paid sites are intermingled among non-paid sites; and where companies pay to have their Web sites or URLs reviewed more quickly, or for more frequent spidering of their Web sites or URLs, or for the review or inclusion of deeper levels of their Web sites, than is the case with non-paid sites."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>Note that paid inclusion is different from <a href="/wiki/Pay_for_placement" title="Pay for placement">paid placement</a>. With paid placement, companies pay search engines to rank higher than they would have ranked if relevancy was the only ranking factor. Paid placement also gives companies guaranteed top rankings if they pay for it. With paid inclusion, top rankings are not guaranteed and only inclusion within the search engine is. Therefore, a company who paid for inclusion within a search engine will still have its rankings determined by relevancy.<sup id="cite_ref-evo_2-0" class="reference"><a href="#cite_note-evo-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="History_of_paid_inclusion">History of paid inclusion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paid_inclusion&amp;action=edit&amp;section=2" title="Edit section: History of paid inclusion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the early days of search, paid inclusion was a convenient way for search engines, such as <a href="/wiki/Inktomi" title="Inktomi">Inktomi</a>, <a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Microsoft</a>, <a href="/wiki/Ask.com" title="Ask.com">Ask</a>, <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo</a>, <a href="/wiki/Overture" title="Overture">Overture</a>, <a href="/wiki/AltaVista" title="AltaVista">AltaVista</a>, and FAST, to obtain revenue.<sup id="cite_ref-evo_2-1" class="reference"><a href="#cite_note-evo-2">&#91;2&#93;</a></sup><sup id="cite_ref-dino_3-0" class="reference"><a href="#cite_note-dino-3">&#91;3&#93;</a></sup> Unlike the other major search engines, <a href="/wiki/Google" title="Google">Google</a> decided to avoid paid inclusion and, instead, pursue higher relevancy using <a href="/wiki/AdSense" title="AdSense">AdSense</a> as its revenue source. As time went by, search engines such as <a href="/wiki/Bing_(search_engine)" title="Bing (search engine)">Microsoft</a> and <a href="/wiki/Ask.com" title="Ask.com">Ask</a> moved away from paid inclusion—both search engines ended paid inclusion programs in 2004.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span id="Google.27s_incorporation_of_paid_inclusion"></span><span class="mw-headline" id="Google's_incorporation_of_paid_inclusion">Google's incorporation of paid inclusion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paid_inclusion&amp;action=edit&amp;section=3" title="Edit section: Google&#039;s incorporation of paid inclusion">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2012, Google re-incorporated paid inclusion within its search, though in a different form. <a href="/wiki/Google_Flights" title="Google Flights">Google Flights</a>, Google Hotel Finder, and <a href="/wiki/Google_Shopping" title="Google Shopping">Google Shopping</a> all have new forms of paid inclusion programs. Some critics, such as Danny Sullivan, founder of <a href="/wiki/Search_Engine_Watch" title="Search Engine Watch">Search Engine Watch</a>, criticize this move as a step away from the Founders Letter that was a part of Google's IPO.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Aaron Wall of the popular SEO site SEOBook.com criticize Google's use of paid inclusion as a way to push almost all organic rankings <a href="/wiki/Above_the_fold" title="Above the fold">below the fold</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Mixed_views_on_paid_inclusion">Mixed views on paid inclusion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paid_inclusion&amp;action=edit&amp;section=4" title="Edit section: Mixed views on paid inclusion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Paid inclusion has its advantages and drawbacks. The advantage of a paid inclusion search engine is that spam is reduced while relevancy improves.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> However, detractors of paid inclusion allege that it causes searches to return results based more on the <a href="/wiki/Economics" title="Economics">economic</a> standing of the interests of a web site, and less on the relevancy of that site to <a href="/wiki/End-user" class="mw-redirect" title="End-user">end-users</a>.<sup id="cite_ref-dino_3-1" class="reference"><a href="#cite_note-dino-3">&#91;3&#93;</a></sup> <a href="/wiki/Ask_Jeeves" class="mw-redirect" title="Ask Jeeves">Ask Jeeves</a> reported that paid inclusion reduced relevancy and, in 2004, ended its paid inclusion program.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Guidelines_for_paid_inclusion">Guidelines for paid inclusion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paid_inclusion&amp;action=edit&amp;section=5" title="Edit section: Guidelines for paid inclusion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The FTC has advised search engines to clearly mark paid placement and paid inclusion in accordance with Section 5 of the <a href="/wiki/FTC_Act" class="mw-redirect" title="FTC Act">FTC Act</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> For this is only a guideline and not a law, companies with search algorithms such as Nextag and Google are not legally bound to follow it.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paid_inclusion&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Search_engine_optimization" title="Search engine optimization">Search engine optimization</a></li>
+<li><a href="/wiki/Search_engine_marketing" title="Search engine marketing">Search engine marketing</a></li>
+<li><a href="/wiki/Favored_placement" title="Favored placement">Favored placement</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paid_inclusion&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130723064344/http://www.ftc.gov/os/closings/staff/commercialalertletter.shtm">"UNITED STATES OF AMERICA FEDERAL TRADE COMMISSION WASHINGTON, D.C. 20580"</a>. FTC. Archived from <a rel="nofollow" class="external text" href="http://www.ftc.gov/os/closings/staff/commercialalertletter.shtm">the original</a> on 23 July 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">5 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UNITED+STATES+OF+AMERICA+FEDERAL+TRADE+COMMISSION+WASHINGTON%2C+D.C.+20580&amp;rft.pub=FTC&amp;rft_id=http%3A%2F%2Fwww.ftc.gov%2Fos%2Fclosings%2Fstaff%2Fcommercialalertletter.shtm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaid+inclusion" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-evo-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-evo_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-evo_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Sullivan, Danny. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130704223728/http://searchenginewatch.com/article/2067575/The-Evolution-Of-Paid-Inclusion">"The Evolution of Paid Inclusion"</a>. searchenginewatch. Archived from <a rel="nofollow" class="external text" href="http://searchenginewatch.com/article/2067575/The-Evolution-Of-Paid-Inclusion">the original</a> on 4 July 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">6 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Evolution+of+Paid+Inclusion&amp;rft.pub=searchenginewatch&amp;rft.aulast=Sullivan&amp;rft.aufirst=Danny&amp;rft_id=http%3A%2F%2Fsearchenginewatch.com%2Farticle%2F2067575%2FThe-Evolution-Of-Paid-Inclusion&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaid+inclusion" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-dino-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-dino_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-dino_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Sullivan, Danny. <a rel="nofollow" class="external text" href="http://searchenginewatch.com/article/2048263/The-Paid-Inclusion-Dinosaur">"The Paid Inclusion Dinosaur"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Paid+Inclusion+Dinosaur&amp;rft.aulast=Sullivan&amp;rft.aufirst=Danny&amp;rft_id=http%3A%2F%2Fsearchenginewatch.com%2Farticle%2F2048263%2FThe-Paid-Inclusion-Dinosaur&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaid+inclusion" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Ulbrich, Chris. <a rel="nofollow" class="external text" href="https://www.wired.com/techbiz/media/news/2004/07/64092">"Paid Inclusion Losing Charm?"</a>. <a href="/wiki/Wired_(magazine)" title="Wired (magazine)">Wired</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Paid+Inclusion+Losing+Charm%3F&amp;rft.pub=Wired&amp;rft.aulast=Ulbrich&amp;rft.aufirst=Chris&amp;rft_id=https%3A%2F%2Fwww.wired.com%2Ftechbiz%2Fmedia%2Fnews%2F2004%2F07%2F64092&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaid+inclusion" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Sullivan, Danny. <a rel="nofollow" class="external text" href="http://marketingland.com/once-deemed-evil-google-now-embraces-paid-inclusion-13138">"Once Deemed Evil, Google Now Embraces "Paid Inclusion<span class="cs1-kern-right">"</span>"</a>. marketingland.com<span class="reference-accessdate">. Retrieved <span class="nowrap">6 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Once+Deemed+Evil%2C+Google+Now+Embraces+%22Paid+Inclusion%22&amp;rft.pub=marketingland.com&amp;rft.aulast=Sullivan&amp;rft.aufirst=Danny&amp;rft_id=http%3A%2F%2Fmarketingland.com%2Fonce-deemed-evil-google-now-embraces-paid-inclusion-13138&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaid+inclusion" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Wall, Aaron. <a rel="nofollow" class="external text" href="http://www.seobook.com/paid-inclusion">"Google Paid Inclusion Programs: Buy a Top Ranking Today"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Google+Paid+Inclusion+Programs%3A+Buy+a+Top+Ranking+Today&amp;rft.aulast=Wall&amp;rft.aufirst=Aaron&amp;rft_id=http%3A%2F%2Fwww.seobook.com%2Fpaid-inclusion&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaid+inclusion" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Lee, Kevin. <a rel="nofollow" class="external text" href="http://www.clickz.com/clickz/column/2186337/prepare-googles-paid-inclusion-hybrid">"4 Ways to Prepare for Google's Paid Inclusion Hybrid"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=4+Ways+to+Prepare+for+Google%27s+Paid+Inclusion+Hybrid&amp;rft.aulast=Lee&amp;rft.aufirst=Kevin&amp;rft_id=http%3A%2F%2Fwww.clickz.com%2Fclickz%2Fcolumn%2F2186337%2Fprepare-googles-paid-inclusion-hybrid&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaid+inclusion" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Mara, janis. <a rel="nofollow" class="external text" href="http://www.clickz.com/clickz/news/1713365/msn-updates-search-drops-paid-inclusion">"MSN Updates Search, Drops Paid Inclusion"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MSN+Updates+Search%2C+Drops+Paid+Inclusion&amp;rft.aulast=Mara&amp;rft.aufirst=janis&amp;rft_id=http%3A%2F%2Fwww.clickz.com%2Fclickz%2Fnews%2F1713365%2Fmsn-updates-search-drops-paid-inclusion&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaid+inclusion" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.law.cornell.edu/uscode/text/15/45">15 U.S.C. § 45(a)(1)</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">Sullivan, Danny. <a rel="nofollow" class="external text" href="http://searchengineland.com/given-nextags-lack-of-transparency-its-wsj-opinion-piece-asking-for-google-transparency-isnt-wise-124045">"Given Nextag's Lack Of Transparency, Its WSJ Opinion Piece Asking For Google Transparency Isn't Wise"</a>. searchengineland<span class="reference-accessdate">. Retrieved <span class="nowrap">6 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Given+Nextag%E2%80%99s+Lack+Of+Transparency%2C+Its+WSJ+Opinion+Piece+Asking+For+Google+Transparency+Isn%E2%80%99t+Wise&amp;rft.pub=searchengineland&amp;rft.aulast=Sullivan&amp;rft.aufirst=Danny&amp;rft_id=http%3A%2F%2Fsearchengineland.com%2Fgiven-nextags-lack-of-transparency-its-wsj-opinion-piece-asking-for-google-transparency-isnt-wise-124045&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaid+inclusion" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Sullivan, Danny. <a rel="nofollow" class="external text" href="http://searchengineland.com/dear-congress-its-not-ok-not-to-know-how-search-engines-work-either-105265">"Dear Congress: It's Not OK Not To Know How Search Engines Work, Either"</a>. searchengineland<span class="reference-accessdate">. Retrieved <span class="nowrap">6 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dear+Congress%3A+It%E2%80%99s+Not+OK+Not+To+Know+How+Search+Engines+Work%2C+Either&amp;rft.pub=searchengineland&amp;rft.aulast=Sullivan&amp;rft.aufirst=Danny&amp;rft_id=http%3A%2F%2Fsearchengineland.com%2Fdear-congress-its-not-ok-not-to-know-how-search-engines-work-either-105265&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaid+inclusion" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Sullivan, Danny. <a rel="nofollow" class="external text" href="http://searchengineland.com/google-ignores-ftc-definition-of-paid-inclusion-128192">"On Google Earnings Call, Google Ignores FTC Definition Of "Paid Inclusion<span class="cs1-kern-right">"</span>"</a>. searchengineland<span class="reference-accessdate">. Retrieved <span class="nowrap">6 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=On+Google+Earnings+Call%2C+Google+Ignores+FTC+Definition+Of+%22Paid+Inclusion%22&amp;rft.pub=searchengineland&amp;rft.aulast=Sullivan&amp;rft.aufirst=Danny&amp;rft_id=http%3A%2F%2Fsearchengineland.com%2Fgoogle-ignores-ftc-definition-of-paid-inclusion-128192&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaid+inclusion" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw2257
+Cached time: 20180929144411
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.168 seconds
+Real time usage: 0.187 seconds
+Preprocessor visited node count: 515/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 22444/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 29614/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.091/10.000 seconds
+Lua memory usage: 2.91 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  150.780      1 -total
+ 65.40%   98.616     11 Template:Cite_web
+ 24.24%   36.551      1 Template:Internet_Marketing
+ 21.00%   31.669      1 Template:Sidebar
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:501170-0!canonical and timestamp 20180929144410 and revision id 829684560
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Paid_inclusion&amp;oldid=829684560">https://en.wikipedia.org/w/index.php?title=Paid_inclusion&amp;oldid=829684560</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Internet_advertising_methods" title="Category:Internet advertising methods">Internet advertising methods</a></li><li><a href="/wiki/Category:Search_engine_optimization" title="Category:Search engine optimization">Search engine optimization</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Paid+inclusion" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Paid+inclusion" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Paid_inclusion" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Paid_inclusion" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Paid_inclusion">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Paid_inclusion&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Paid_inclusion&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Paid_inclusion" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Paid_inclusion" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Paid_inclusion&amp;oldid=829684560" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Paid_inclusion&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q253932" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Paid_inclusion&amp;id=829684560" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Paid+inclusion">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Paid+inclusion&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Paid_inclusion&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A5%D8%AF%D8%B1%D8%A7%D8%AC_%D9%85%D8%AF%D9%81%D9%88%D8%B9" title="إدراج مدفوع – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D1%82%D0%B5%D0%BD%D0%BE_%D0%BF%D1%80%D0%B8%D1%81%D1%8A%D1%81%D1%82%D0%B2%D0%B8%D0%B5" title="Платено присъствие – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Paid_Inclusion" title="Paid Inclusion – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Paid_Inclusion" title="Paid Inclusion – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%BB%98%E8%B2%BB%E6%94%B6%E9%8C%84" title="付費收錄 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q253932#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 10 March 2018, at 03:53<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Paid_inclusion&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.168","walltime":"0.187","ppvisitednodes":{"value":515,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":22444,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":29614,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  150.780      1 -total"," 65.40%   98.616     11 Template:Cite_web"," 24.24%   36.551      1 Template:Internet_Marketing"," 21.00%   31.669      1 Template:Sidebar"]},"scribunto":{"limitreport-timeusage":{"value":"0.091","limit":"10.000"},"limitreport-memusage":{"value":3050967,"limit":52428800}},"cachereport":{"origin":"mw2257","timestamp":"20180929144411","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":283,"wgHostname":"mw2257"});});</script>
+	</body>
+</html>

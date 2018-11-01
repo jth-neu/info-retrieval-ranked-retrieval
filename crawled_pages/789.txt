@@ -1,0 +1,970 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Shinty - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Shinty","wgTitle":"Shinty","wgCurRevisionId":860007937,"wgRevisionId":860007937,"wgArticleId":73107,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: Julian–Gregorian uncertainty","CS1 maint: Archived copy as title","Webarchive template wayback links","All articles with dead external links","Articles with dead external links from March 2016","Articles containing Scottish Gaelic-language text","Articles with hAudio microformats","All articles with unsourced statements","Articles with unsourced statements from December 2015","Articles with unsourced statements from August 2018","Articles needing additional references from November 2016","All articles needing additional references","All articles with vague or ambiguous time","Vague or ambiguous time from December 2015","Use dmy dates from February 2018","Shinty","Sport in Highland (council area)","Sports originating in Scotland","Team sports"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Shinty","wgRelevantArticleId":73107,"wgRequestId":"W6@HzQrAIFYAADeDIZ0AAABV","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q850256","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/e5/CabersGlasgow.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Shinty"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Shinty&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Shinty&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Shinty"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Shinty rootpage-Shinty skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Shinty</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/Shinny" title="Shinny">Shinny</a> or <a href="/wiki/Iomain" title="Iomain">Iomain</a>.</div>
+<table class="infobox vcard" style="width:22em"><caption class="fn" style="padding-bottom:0.2em;">Shinty<br /><i lang="gd" title="Scottish Gaelic language text">Camanachd, Iomain</i>&#160;&#160;<span class="languageicon" style="font-size:81%;font-weight:normal;">(<a href="/wiki/Scottish_Gaelic_language" class="mw-redirect" title="Scottish Gaelic language">Scottish Gaelic</a>)</span></caption><tbody><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/File:CabersGlasgow.jpg" class="image"><img alt="CabersGlasgow.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/CabersGlasgow.jpg/300px-CabersGlasgow.jpg" width="300" height="226" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/CabersGlasgow.jpg/450px-CabersGlasgow.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/CabersGlasgow.jpg/600px-CabersGlasgow.jpg 2x" data-file-width="800" data-file-height="602" /></a><div>A shinty game in progress</div></td></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">Highest <a href="/wiki/Sports_governing_body" title="Sports governing body">governing&#160;body</a></th><td style="line-height:1.3em;">
+<a href="/wiki/Camanachd_Association" title="Camanachd Association">Camanachd Association</a></td></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">First played</th><td style="line-height:1.3em;">
+Pre-historic Scotland and Ireland</td></tr><tr><th colspan="2" style="text-align:center;background:#eee;">Characteristics</th></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">Contact</th><td style="line-height:1.3em;">
+<a href="/wiki/Contact_sports" class="mw-redirect" title="Contact sports">Full Contact</a></td></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">Team members</th><td style="line-height:1.3em;">
+12 players per side<br />substitutes are permitted</td></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;"><a href="/wiki/Mixed-sex_sports" title="Mixed-sex sports">Mixed gender</a></th><td style="line-height:1.3em;">
+No<br />(there are no rules to prevent women from playing in men's teams; this happens occasionally in the lower leagues)</td></tr><tr><th scope="row" style="padding-top:0.2em;line-height:1.2em; padding-right:1.0em;">Equipment</th><td style="line-height:1.3em;">
+<a href="/w/index.php?title=Shinty_ball&amp;action=edit&amp;redlink=1" class="new" title="Shinty ball (page does not exist)">Shinty ball</a></td></tr></tbody></table>
+<p><b>Shinty</b> (<a href="/wiki/Scottish_Gaelic_language" class="mw-redirect" title="Scottish Gaelic language">Scottish Gaelic</a>: <i lang="gd">camanachd, iomain</i>) is a <a href="/wiki/Team_sport" title="Team sport">team game</a> played with sticks and a ball. Shinty is now played mainly in the <a href="/wiki/Scottish_Highlands" title="Scottish Highlands">Scottish Highlands</a>, and amongst Highland migrants to the big cities of Scotland, but it was formerly more widespread in Scotland,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> and was even played for a considerable time in England<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> and other areas in the world where Scottish Highlanders migrated.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>While comparisons are often made with <a href="/wiki/Field_hockey" title="Field hockey">field hockey</a>, the two games have several important differences. In shinty, a player is allowed to play the ball in the air and is allowed to use both sides of the stick, called a <i>caman</i>, which is wooden and slanted on both sides. The stick may also be used to block and to tackle, although a player may not come down on an opponent's stick, a practice called hacking. Players may also tackle using the body as long as it is shoulder-to-shoulder.
+</p><p>The game was derived from the same root as the <a href="/wiki/Ireland" title="Ireland">Irish</a> game of <a href="/wiki/Hurling" title="Hurling">hurling</a> and the <a href="/wiki/Wales" title="Wales">Welsh</a> game of <a href="/wiki/Bando_(sport)" title="Bando (sport)">bando</a>, but has developed unique rules and features. These rules are governed by the <a href="/wiki/Camanachd_Association" title="Camanachd Association">Camanachd Association</a>. A <a href="/wiki/Composite_rules_shinty%E2%80%93hurling" title="Composite rules shinty–hurling">composite rules shinty–hurling</a> game has been developed, which allows Scotland and Ireland to play annual international matches.
+</p><p>Another sport with common ancestry is <a href="/wiki/Bandy" title="Bandy">bandy</a>, which is played on ice. In fact, in <a href="/wiki/Scottish_Gaelic" title="Scottish Gaelic">Scottish Gaelic</a> the name for bandy is "ice shinty" (camanachd-deighe) and once upon a time bandy and shinty (and shinney) could be used interchangeably in the English language.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Origins"><span class="tocnumber">1</span> <span class="toctext">Origins</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Game"><span class="tocnumber">2</span> <span class="toctext">Game</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Playing_area"><span class="tocnumber">2.1</span> <span class="toctext">Playing area</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Ball"><span class="tocnumber">2.2</span> <span class="toctext">Ball</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Stick"><span class="tocnumber">2.3</span> <span class="toctext">Stick</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Rules_of_play"><span class="tocnumber">3</span> <span class="toctext">Rules of play</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Scoring"><span class="tocnumber">3.1</span> <span class="toctext">Scoring</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Team_size"><span class="tocnumber">3.2</span> <span class="toctext">Team size</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Substitutions"><span class="tocnumber">3.3</span> <span class="toctext">Substitutions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Organisation"><span class="tocnumber">4</span> <span class="toctext">Organisation</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Competitions"><span class="tocnumber">5</span> <span class="toctext">Competitions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Season"><span class="tocnumber">5.1</span> <span class="toctext">Season</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Leagues"><span class="tocnumber">5.2</span> <span class="toctext">Leagues</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Cup"><span class="tocnumber">5.3</span> <span class="toctext">Cup</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Shinty_and_hurling_internationals"><span class="tocnumber">5.4</span> <span class="toctext">Shinty and hurling internationals</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Outside_Scotland"><span class="tocnumber">6</span> <span class="toctext">Outside Scotland</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Media_coverage"><span class="tocnumber">7</span> <span class="toctext">Media coverage</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#In_popular_culture"><span class="tocnumber">8</span> <span class="toctext">In popular culture</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Origins">Origins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shinty&amp;action=edit&amp;section=1" title="Edit section: Origins">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="collapsible infobox collapsed" style="width:280px; font-size:90%;">
+
+<tbody><tr>
+<th colspan="2" style="background:#efefef;">Pronunciation
+</th></tr>
+<tr style="vertical-align: top;">
+<td style="width: 40%;">
+</td>
+<th colspan="2" style="background:#efefef;">
+</th></tr>
+<tr>
+<td><a href="/wiki/Scots_Gaelic" class="mw-redirect" title="Scots Gaelic">Scots Gaelic</a>:</td>
+<td>cam
+</td></tr>
+<tr>
+<td>Pronunciation:</td>
+<td><small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Scottish_Gaelic" title="Help:IPA/Scottish Gaelic">[ˈkʰaum]</a></span><small class="nowrap">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:Cam.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/f/fd/Cam.ogg" class="internal" title="Cam.ogg">listen</a></span></span>)</small>
+</td></tr>
+<tr>
+<th colspan="2" style="background:#efefef;">
+</th></tr>
+<tr>
+<td><a href="/wiki/Scots_Gaelic" class="mw-redirect" title="Scots Gaelic">Scots Gaelic</a>:</td>
+<td>camag
+</td></tr>
+<tr>
+<td>Pronunciation:</td>
+<td><small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Scottish_Gaelic" title="Help:IPA/Scottish Gaelic">[ˈkʰamak]</a></span><small class="nowrap">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:Camag.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/5/54/Camag.ogg" class="internal" title="Camag.ogg">listen</a></span></span>)</small>
+</td></tr>
+<tr>
+<th colspan="2" style="background:#efefef;">
+</th></tr>
+<tr>
+<td><a href="/wiki/Scots_Gaelic" class="mw-redirect" title="Scots Gaelic">Scots Gaelic</a>:</td>
+<td>caman
+</td></tr>
+<tr>
+<td>Pronunciation:</td>
+<td><small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Scottish_Gaelic" title="Help:IPA/Scottish Gaelic">[ˈkʰaman]</a></span><small class="nowrap">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:Caman.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/c/c2/Caman.ogg" class="internal" title="Caman.ogg">listen</a></span></span>)</small>
+</td></tr>
+<tr>
+<th colspan="2" style="background:#efefef;">
+</th></tr>
+<tr>
+<td><a href="/wiki/Scots_Gaelic" class="mw-redirect" title="Scots Gaelic">Scots Gaelic</a>:</td>
+<td>camanachd
+</td></tr>
+<tr>
+<td>Pronunciation:</td>
+<td><small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Scottish_Gaelic" title="Help:IPA/Scottish Gaelic">[ˈkʰamanəxk]</a></span><small class="nowrap">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:Camanachd.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/b/b4/Camanachd.ogg" class="internal" title="Camanachd.ogg">listen</a></span></span>)</small>
+</td></tr>
+<tr>
+<th colspan="2" style="background:#efefef;">
+</th></tr>
+<tr>
+<td><a href="/wiki/Scots_Gaelic" class="mw-redirect" title="Scots Gaelic">Scots Gaelic</a>:</td>
+<td>cluich-bhall
+</td></tr>
+<tr>
+<td>Pronunciation:</td>
+<td><small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Scottish_Gaelic" title="Help:IPA/Scottish Gaelic">[ˈkʰlˠ̪ɯçvalˠ̪]</a></span><small class="nowrap">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:Cluichbhall.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/f/f1/Cluichbhall.ogg" class="internal" title="Cluichbhall.ogg">listen</a></span></span>)</small>
+</td></tr>
+<tr>
+<th colspan="2" style="background:#efefef;">
+</th></tr>
+<tr>
+<td><a href="/wiki/Scots_Gaelic" class="mw-redirect" title="Scots Gaelic">Scots Gaelic</a>:</td>
+<td>cnapag
+</td></tr>
+<tr>
+<td>Pronunciation:</td>
+<td><small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Scottish_Gaelic" title="Help:IPA/Scottish Gaelic">[ˈkɾãʰpak]</a></span><small class="nowrap">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:Cnapag.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/a/ab/Cnapag.ogg" class="internal" title="Cnapag.ogg">listen</a></span></span>)</small>
+</td></tr>
+<tr>
+<th colspan="2" style="background:#efefef;">
+</th></tr>
+<tr>
+<td><a href="/wiki/Scots_Gaelic" class="mw-redirect" title="Scots Gaelic">Scots Gaelic</a>:</td>
+<td>Comann na Camanachd
+</td></tr>
+<tr>
+<td>Pronunciation:</td>
+<td><small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Scottish_Gaelic" title="Help:IPA/Scottish Gaelic">[ˈkʰomən̪ˠ nə ˈkʰamanəxk]</a></span><small class="nowrap">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:Comannnacamanachd.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/3/3a/Comannnacamanachd.ogg" class="internal" title="Comannnacamanachd.ogg">listen</a></span></span>)</small>
+</td></tr>
+<tr>
+<th colspan="2" style="background:#efefef;">
+</th></tr>
+<tr>
+<td><a href="/wiki/Scots_Gaelic" class="mw-redirect" title="Scots Gaelic">Scots Gaelic</a>:</td>
+<td>iomain
+</td></tr>
+<tr>
+<td>Pronunciation:</td>
+<td><small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Scottish_Gaelic" title="Help:IPA/Scottish Gaelic">[ˈjumɛɲ]</a></span><small class="nowrap">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:Iomain.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/c/c4/Iomain.ogg" class="internal" title="Iomain.ogg">listen</a></span></span>)</small>
+</td></tr>
+<tr>
+<th colspan="2" style="background:#efefef;">
+</th></tr>
+<tr>
+<td><a href="/wiki/Scots_Gaelic" class="mw-redirect" title="Scots Gaelic">Scots Gaelic</a>:</td>
+<td>sìnteag
+</td></tr>
+<tr>
+<td>Pronunciation:</td>
+<td><small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Scottish_Gaelic" title="Help:IPA/Scottish Gaelic">[ˈʃiːɲtʲak]</a></span><small class="nowrap">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:Sinteag.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/8/85/Sinteag.ogg" class="internal" title="Sinteag.ogg">listen</a></span></span>)</small>
+</td></tr>
+<tr>
+<th colspan="2" style="background:#efefef;">
+</th></tr>
+<tr>
+<td><a href="/wiki/Scots_Gaelic" class="mw-redirect" title="Scots Gaelic">Scots Gaelic</a>:</td>
+<td>Spòrs
+</td></tr>
+<tr>
+<td>Pronunciation:</td>
+<td><small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Scottish_Gaelic" title="Help:IPA/Scottish Gaelic">[ˈs̪pɔːrˠs̪]</a></span><small class="nowrap">&#160;(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap"><a href="/wiki/File:Spors.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a>&#160;</span><a href="//upload.wikimedia.org/wikipedia/commons/6/61/Spors.ogg" class="internal" title="Spors.ogg">listen</a></span></span>)</small>
+</td></tr></tbody></table>
+<p><a href="/wiki/Hurling" title="Hurling">Hurling</a>, an Irish pastime for at least 2,000 years similar to shinty, is derived from the historic game common to both peoples. Shinty/Hurling appears prominently in the legend of <a href="/wiki/C%C3%BAchulainn" class="mw-redirect" title="Cúchulainn">Cúchulainn</a>, the <a href="/wiki/Celtic_mythology" title="Celtic mythology">Celtic mythology</a> hero.<sup id="cite_ref-uscamanachd.org_5-0" class="reference"><a href="#cite_note-uscamanachd.org-5">&#91;5&#93;</a></sup> A similar game was played on the <a href="/wiki/Isle_of_Man" title="Isle of Man">Isle of Man</a> known as <a href="/wiki/Cammag" title="Cammag">cammag</a>, a name cognate with <a href="/wiki/Camanachd" class="mw-redirect" title="Camanachd">camanachd</a>. The old form of hurling played in the northern half of Ireland, called "commons", resembled shinty more closely than the standardised form of hurling of today. Like shinty, it was commonly known as camánacht and was traditionally played in winter.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2015)">citation needed</span></a></i>&#93;</sup>
+</p><p>The origins of the name shinty are uncertain. There is a theory that the name was derived from the cries used in the game; <i>shin ye</i>, <i>shin you</i> and <i>shin t'ye</i>, other dialect names were <i>shinnins</i>, <i>shinnack</i> and <i>shinnup</i>,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> or as <a href="/wiki/Hugh_Dan_MacLennan" title="Hugh Dan MacLennan">Hugh Dan MacLennan</a> proposes from the <a href="/wiki/Scottish_Gaelic" title="Scottish Gaelic">Scottish Gaelic</a> <i>sìnteag</i>.<sup id="cite_ref-uscamanachd.org_5-1" class="reference"><a href="#cite_note-uscamanachd.org-5">&#91;5&#93;</a></sup> However, there was never one all encompassing name for the game, as it held different names from glen to glen, including cluich-bhall (<i>play-ball</i> in <a href="/wiki/English_language" title="English language">English</a>) and in the <a href="/wiki/Scottish_Lowlands" title="Scottish Lowlands">Scottish Lowlands</a>, where it was formerly referred to as <i><a href="/wiki/Hailes_(ball_game)" title="Hailes (ball game)">Hailes</a></i>, <i>common</i>/<i>cammon</i> (<i>caman</i>), <i>cammock</i> (from <a href="/wiki/Scottish_Gaelic" title="Scottish Gaelic">Scottish Gaelic</a> <i>camag</i>), <i><a href="/wiki/Knotty" title="Knotty">knotty</a></i> and various other names, as well as the terms still used to refer to it in modern Gaelic, <i>camanachd</i> or <i>iomain</i>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2018)">citation needed</span></a></i>&#93;</sup> Shinty was once a popular game in lowland Scotland, as shown by its name Shintie, a term which took that form around 1700, displacing the earlier Shinnie - of which there is a written record about 100 years earlier.  Shinnie may also derive from "shin" in English, with the affix "ie", a common termination to the name of many games in Scotland.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Game">Game</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shinty&amp;action=edit&amp;section=2" title="Edit section: Game">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Playing_area">Playing area</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shinty&amp;action=edit&amp;section=3" title="Edit section: Playing area">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The objective of the game is to play a small ball into a goal, or "hail", erected at the ends of a 140 to 170-yard-long by 70 to 80-yard-wide pitch.<sup id="cite_ref-shinty.com_8-0" class="reference"><a href="#cite_note-shinty.com-8">&#91;8&#93;</a></sup> The game is traditionally played on grass, although as of 2009 the sport may be played on artificial turf.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> The pitch also has marks indicating a 10 yard area around the goals, the penalty and centre spots (along with their associated arcs/circles of 5 yards or 5 metres radius), and corner arcs at the corners of the rectangular pitch of 2 yards or 2 metres radius.<sup id="cite_ref-shinty.com_8-1" class="reference"><a href="#cite_note-shinty.com-8">&#91;8&#93;</a></sup> The goals, at opposite ends of the field, measure 12 feet wide and 10 feet high and a net is affixed to catch the ball when a goal is scored.<sup id="cite_ref-shinty.com_8-2" class="reference"><a href="#cite_note-shinty.com-8">&#91;8&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Shinty_field_and_Standing_Stone_-_geograph.org.uk_-_1519977.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Shinty_field_and_Standing_Stone_-_geograph.org.uk_-_1519977.jpg/200px-Shinty_field_and_Standing_Stone_-_geograph.org.uk_-_1519977.jpg" width="200" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Shinty_field_and_Standing_Stone_-_geograph.org.uk_-_1519977.jpg/300px-Shinty_field_and_Standing_Stone_-_geograph.org.uk_-_1519977.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Shinty_field_and_Standing_Stone_-_geograph.org.uk_-_1519977.jpg/400px-Shinty_field_and_Standing_Stone_-_geograph.org.uk_-_1519977.jpg 2x" data-file-width="640" data-file-height="480" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Shinty_field_and_Standing_Stone_-_geograph.org.uk_-_1519977.jpg" class="internal" title="Enlarge"></a></div>Shinty field (Winterton), Inveraray</div></div></div>
+<h3><span class="mw-headline" id="Ball">Ball</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shinty&amp;action=edit&amp;section=4" title="Edit section: Ball">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The ball is a hard solid sphere of around half the diameter of a tennis ball, consisting of a <a href="/wiki/Cork_material" class="mw-redirect" title="Cork material">cork</a> core covered by two pieces of <a href="/wiki/Leather" title="Leather">leather</a> stitched together. The seam is raised. It is very similar to a hurling <a href="/wiki/Sliotar" title="Sliotar">sliotar</a> in that it resembles an American <a href="/wiki/Baseball_(object)" class="mw-redirect" title="Baseball (object)">baseball</a> with more pronounced stitching. With the permitted circumference between seven and a half and eight inches and weight between two and a half and three ounces.<sup id="cite_ref-shinty.com_8-3" class="reference"><a href="#cite_note-shinty.com-8">&#91;8&#93;</a></sup> The ball is usually white, but there is no statutory colour, black being a common colour for Kyles Athletic and fluorescent balls now being available.
+</p><p>Plastic balls or soft balls are often used in youth competitions such as the variant, "First Shinty".
+</p>
+<h3><span class="mw-headline" id="Stick">Stick</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shinty&amp;action=edit&amp;section=5" title="Edit section: Stick">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The ball is played using a <i>caman</i>, which is a stick of about <span class="frac nowrap">3<span class="visualhide">&#160;</span><sup>1</sup>&#8260;<sub>2</sub></span>&#160;ft (1.1&#160;m) long with two slanted faces and the head, which is wedge shaped (a triangular cross section),<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> must be able to pass through a ring two and a half inches in diameter.<sup id="cite_ref-shinty.com_8-4" class="reference"><a href="#cite_note-shinty.com-8">&#91;8&#93;</a></sup> Unlike the Irish <i>camán</i>, it has no blade. The <i>caman</i> is traditionally made of wood, traditionally <a href="/wiki/Fraxinus" title="Fraxinus">ash</a> but now more commonly <a href="/wiki/Hickory" title="Hickory">hickory</a>, and must not have any plate or metal attached to it. The <i>caman</i> would be made from any piece of wood with a hook in it, hence <i>caman</i>, from the Scottish and Irish Gaelic word, <i>cam</i> meaning bent or crooked. It can also be called a stick or club. The slant of the face will vary according to the position that the stick is used for. It can be made according to the player's height.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:ShintySticks1.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ShintySticks1.JPG/220px-ShintySticks1.JPG" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ShintySticks1.JPG/330px-ShintySticks1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ShintySticks1.JPG/440px-ShintySticks1.JPG 2x" data-file-width="2448" data-file-height="2448" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:ShintySticks1.JPG" class="internal" title="Enlarge"></a></div>Showing the development of shinty sticks through the years</div></div></div>
+<p>Plastic camans are common in the youth variant "First Shinty".
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:502px;"><a href="/wiki/File:Camanachdfield.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/d/de/Camanachdfield.jpg/500px-Camanachdfield.jpg" width="500" height="246" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/de/Camanachdfield.jpg/750px-Camanachdfield.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/d/de/Camanachdfield.jpg 2x" data-file-width="900" data-file-height="442" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Camanachdfield.jpg" class="internal" title="Enlarge"></a></div>The field of play</div></div></div>
+<h2><span class="mw-headline" id="Rules_of_play">Rules of play</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shinty&amp;action=edit&amp;section=6" title="Edit section: Rules of play">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Shinty&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(November 2016)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>A player can play the ball in the air and is allowed to use both sides of the stick. The stick may also be used to block and to tackle, although a player may not bring their stick down on an opponent's stick, which is defined as hacking. A player may tackle an opponent using the body as long as it is shoulder-to-shoulder as in <a href="/wiki/Association_Football" class="mw-redirect" title="Association Football">Association Football (soccer)</a>.
+</p><p>A player may only stop the ball with the stick, the chest, two feet together or one foot on the ground. Only the goalkeeper may use his hands, but only with an open palm since he is not allowed to catch it. Playing the ball with the head constitutes a foul whether intentional or not, as it is considered dangerous play. Other examples of dangerous play, which will be penalised, are a player, while grounded, playing the ball, or a player recklessly swinging the caman in the air in a way which might endanger another player.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Shinty_Style.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Shinty_Style.jpg/200px-Shinty_Style.jpg" width="200" height="216" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Shinty_Style.jpg/300px-Shinty_Style.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Shinty_Style.jpg/400px-Shinty_Style.jpg 2x" data-file-width="1252" data-file-height="1350" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Shinty_Style.jpg" class="internal" title="Enlarge"></a></div>A player doing keepy-uppy.</div></div></div><p>Fouls are penalised by a free-hit, which is indirect unless the foul is committed in the penalty area, commonly referred to as "The D". This results in a penalty hit from 20 yards. <sup id="cite_ref-auto_11-0" class="reference"><a href="#cite_note-auto-11">&#91;11&#93;</a></sup>
+</p><p>A ball played by a team over the opposing bye line results in a goal hit from the edge of the D, while a ball played by a team over their own line results in a corner. A ball hit over the sideline results in a shy: a shinty shy involves the taker tossing the ball above his head and hitting the ball with the shaft of the caman, and the ball must be directly overhead when struck.
+</p>
+<h3><span class="mw-headline" id="Scoring">Scoring</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shinty&amp;action=edit&amp;section=7" title="Edit section: Scoring">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The winner of a game is the team that scores the most goals. A team scores a goal "when the whole of the ball has passed over the goal-line and under the cross-bar". A goal can only be scored with the caman; there is no goal when the ball "has been kicked, carried or propelled by hand or arm by a player of the attacking side." A goal can not be scored directly from a free-hit.<sup id="cite_ref-auto_11-1" class="reference"><a href="#cite_note-auto-11">&#91;11&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Team_size">Team size</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shinty&amp;action=edit&amp;section=8" title="Edit section: Team size">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Teams consist of 12 players (men) or 10 players (women), including a goalkeeper. A match is played over two halves of 45 minutes. With the exception of the goalkeeper, no player is allowed to play the ball with his hands. There are also variants with smaller sides, with some adjustments in the field size and duration of play.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2015)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h3><span class="mw-headline" id="Substitutions">Substitutions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shinty&amp;action=edit&amp;section=9" title="Edit section: Substitutions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As with sports such as <a href="/wiki/Football" title="Football">football</a>, shinty originally did not have substitutes. These were introduced in the 1960s, progressively expanding to allow a maximum of three substitutions per game. As of 2011, a rule change allowed for rolling substitutions to be made at senior level.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Organisation">Organisation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shinty&amp;action=edit&amp;section=10" title="Edit section: Organisation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In common with many sports, it became formalised in the <a href="/wiki/Victorian_Era" class="mw-redirect" title="Victorian Era">Victorian Era</a> and the first organised clubs were established in cities such as Glasgow and London where there were thousands of Gaels resident.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>In 1887, a historic game was played between <a href="/wiki/Glenurquhart_Shinty_Club" title="Glenurquhart Shinty Club">Glenurquhart Shinty Club</a> and <a href="/wiki/Strathglass_Shinty_Club" title="Strathglass Shinty Club">Strathglass Shinty Club</a> in <a href="/wiki/Inverness" title="Inverness">Inverness</a>. This game was attended by thousands of people and was a major milestone in developing a set of common rules.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2015)">citation needed</span></a></i>&#93;</sup> This fixture was to be repeated on 12 January 2007 in Inverness as the opening centrepiece of the <a href="/wiki/Highland_2007" title="Highland 2007">Highland 2007</a> celebrations in Scotland, but was postponed due to a waterlogged pitch.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p><p>The modern sport is governed by the <a href="/wiki/Camanachd_Association" title="Camanachd Association">Camanachd Association</a> (<a href="/wiki/Scots_Gaelic" class="mw-redirect" title="Scots Gaelic">Scots Gaelic</a>: Comann na Camanachd). The association came into being in the late <a href="/wiki/Victorian_era" title="Victorian era">Victorian era</a> in as a means of formulating common rules to unite the various different codes and rules which differed between neighbouring glens. Its first meeting was held in <a href="/wiki/Kingussie" title="Kingussie">Kingussie</a> in 1893.
+</p><p>The Camanachd Association maintained its initial structure for much of its first century. The 'Future of Shinty' Report published in 1981 led to a compete restructuring of the way in which shinty was organised and managed. That led to the move away from a dependence on volunteers to govern the sport, to the Association's first salaried employees.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Competitions">Competitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shinty&amp;action=edit&amp;section=11" title="Edit section: Competitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:ShintyNorthSouthDistricts.GIF" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/65/ShintyNorthSouthDistricts.GIF/300px-ShintyNorthSouthDistricts.GIF" width="300" height="430" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/65/ShintyNorthSouthDistricts.GIF/450px-ShintyNorthSouthDistricts.GIF 1.5x, //upload.wikimedia.org/wikipedia/en/6/65/ShintyNorthSouthDistricts.GIF 2x" data-file-width="529" data-file-height="759" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:ShintyNorthSouthDistricts.GIF" class="internal" title="Enlarge"></a></div>Map of Scotland showing North/South divide in shinty</div></div></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Camanachd_Tactics_North.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f0/Camanachd_Tactics_North.PNG/250px-Camanachd_Tactics_North.PNG" width="250" height="472" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f0/Camanachd_Tactics_North.PNG/375px-Camanachd_Tactics_North.PNG 1.5x, //upload.wikimedia.org/wikipedia/en/f/f0/Camanachd_Tactics_North.PNG 2x" data-file-width="477" data-file-height="900" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Camanachd_Tactics_North.PNG" class="internal" title="Enlarge"></a></div>North tactics</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Camanachd_Tactics_South.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/2/29/Camanachd_Tactics_South.PNG/250px-Camanachd_Tactics_South.PNG" width="250" height="472" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/29/Camanachd_Tactics_South.PNG/375px-Camanachd_Tactics_South.PNG 1.5x, //upload.wikimedia.org/wikipedia/en/2/29/Camanachd_Tactics_South.PNG 2x" data-file-width="477" data-file-height="900" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Camanachd_Tactics_South.PNG" class="internal" title="Enlarge"></a></div>South tactics</div></div></div>
+<p>There are shinty clubs in <a href="/wiki/Aberdeen_University_Shinty_Club" title="Aberdeen University Shinty Club">Aberdeen</a>, <a href="/wiki/Aberdour_Shinty_Club" title="Aberdour Shinty Club">Aberdour</a> (<a href="/wiki/Fife" title="Fife">Fife</a>), <a href="/wiki/Forth_Camanachd" title="Forth Camanachd">Edinburgh</a>, <a href="/wiki/Glasgow_Mid_Argyll" title="Glasgow Mid Argyll">Glasgow</a>, <a href="/wiki/Tayforth_Camanachd" title="Tayforth Camanachd">Perth</a>, <a href="/wiki/Cornwall" title="Cornwall">Cornwall</a>, <a href="/wiki/Oxford" title="Oxford">Oxford</a> and even <a href="/wiki/London" title="London">London</a>. <a href="/wiki/University_Shinty" class="mw-redirect" title="University Shinty">University Shinty</a> is a popular section of the sport, with almost all Scotland's main universities possessing a team. Historically, <a href="/wiki/University_of_Glasgow" title="University of Glasgow">Glasgow University</a>, <a href="/wiki/University_of_Aberdeen" title="University of Aberdeen">Aberdeen University</a> and <a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">Edinburgh University</a> have vied for supremacy, but in recent<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (December 2015)">when?</span></a></i>&#93;</sup> years, <a href="/wiki/University_of_Strathclyde" title="University of Strathclyde">Strathclyde University</a>, <a href="/wiki/Robert_Gordon%27s_College" title="Robert Gordon&#39;s College">Robert Gordon's College</a>, <a href="/wiki/University_of_Dundee" title="University of Dundee">Dundee University</a>, and the <a href="/wiki/University_of_St._Andrews" class="mw-redirect" title="University of St. Andrews">University of St. Andrews</a> have risen to prominence. Clubs compete in various competitions, both cup and league, on a national and also North/South basis. While the top <a href="/wiki/Premier_Division_(shinty)" title="Premier Division (shinty)">Premier Division</a> has been played on a Scotland-wide basis since 1996, the lower leagues are based on geography. Many clubs run second teams that also compete in these leagues against clubs with only one senior side.
+</p>
+<h3><span class="mw-headline" id="Season">Season</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shinty&amp;action=edit&amp;section=12" title="Edit section: Season">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Shinty was traditionally played through the <a href="/wiki/Winter" title="Winter">winter</a>, based around the tradition of the "Iomain Challainn", where <a href="/wiki/New_Year" title="New Year">New Year</a> was marked by a game between neighbouring parishes. The <a href="/wiki/Summer" title="Summer">summer</a> was left free for seasonal work and friendly tournaments. The Winter season always ran over, however, and many teams would find themselves finishing the previous season only weeks before the next one would start.
+</p><p>In 2003, shinty clubs voted for a trial period of two years of a summer season from March to October, with a view to moving permanently to summer shinty if the experiment was judged to be a success. Despite opposition from the "Big Two", <a href="/wiki/Kingussie" title="Kingussie">Kingussie</a> and <a href="/wiki/Newtonmore_(Shinty)" class="mw-redirect" title="Newtonmore (Shinty)">Newtonmore</a>, and other small groups in the game, an <a href="/wiki/Extraordinary_General_Meeting" class="mw-redirect" title="Extraordinary General Meeting">EGM</a> in November 2005 voted by an overwhelming majority (well over the required two thirds) to make summer shinty the basis upon which the game would proceed.<sup id="cite_ref-timesonline.co.uk_16-0" class="reference"><a href="#cite_note-timesonline.co.uk-16">&#91;16&#93;</a></sup>
+</p><p>There have been teething problems since the move to summer shinty, with a couple of teams being culpable for the season running over into November and December. Season 2010 saw the league season finished by the first weekend in October, almost on schedule.
+</p><p>Shinty does still get played during the winter, in <a href="/wiki/University_Shinty" class="mw-redirect" title="University Shinty">University Shinty</a> which teams compete for the second most valuable trophy in Scottish sport - the Littlejohn Vase - and in New Year fixtures, the most prestigious of which is the <a href="/wiki/Lovat_Cup" title="Lovat Cup">Lovat Cup</a>, played between Beauly and Lovat.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Leagues">Leagues</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shinty&amp;action=edit&amp;section=13" title="Edit section: Leagues">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>For more information, see <a href="/wiki/Shinty_league_system" title="Shinty league system">Shinty league system</a></i>
+</p><p>League shinty was originally organised on a regional basis, with distinct competitions for the North District and at one time, two separate leagues for Argyll (the Dunn League) and the Southern League, for clubs in Glasgow and Edinburgh and the surrounding areas. Over time, there have been moves to amalgamate leagues and, since the 1980s, a push for national competition at the highest levels. In the modern era of league shinty, <a href="/wiki/Kingussie_(Shinty)" class="mw-redirect" title="Kingussie (Shinty)">Kingussie</a> have been unsurpassed in their domination of the sport; according to the <a href="/wiki/Guinness_Book_of_Records" class="mw-redirect" title="Guinness Book of Records">Guinness Book of Records</a> 2005, Kingussie is world sport's most successful sporting team of all time,<sup id="cite_ref-timesonline.co.uk_16-1" class="reference"><a href="#cite_note-timesonline.co.uk-16">&#91;16&#93;</a></sup> winning 20 consecutive league championships and going 4 years without losing a single fixture in the early 1990s. This unmatched run of dominance was ended on 2 September 2006 by rivals <a href="/wiki/Newtonmore_(Shinty)" class="mw-redirect" title="Newtonmore (Shinty)">Newtonmore</a>, who defeated <a href="/wiki/Oban_Camanachd" title="Oban Camanachd">Oban Camanachd</a> 2-0 to ensure that Kingussie could not catch the team at the top of the <a href="/wiki/Premier_Division_(shinty)" title="Premier Division (shinty)">Premier Division</a>. However, Newtonmore were unable to replace their neighbours as champions, as the first post-Kingussie champions were confirmed as <a href="/wiki/Fort_William_Shinty_Club" title="Fort William Shinty Club">Fort William</a>, who sealed the title on 30 September 2006 having won their games in hand over Newtonmore. Kingussie regained the title in 2007. Since 2010, Newtonmore has been the dominant league force.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2015)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h3><span class="mw-headline" id="Cup">Cup</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shinty&amp;action=edit&amp;section=14" title="Edit section: Cup">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Cup shinty has always been seen as being more important than league shinty and the premier national competition remains the Scottish Cup or the Camanachd Association Challenge Cup, the <a href="/wiki/Camanachd_Cup" title="Camanachd Cup">Camanachd Cup</a> for short. Until 1983 the competition was designed to ensure the final was between the North and South.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2015)">citation needed</span></a></i>&#93;</sup>
+</p><p>The <a href="/wiki/Macaulay_Cup" title="Macaulay Cup">Macaulay Cup</a> still preserves a guaranteed North/South Final. There are national equivalents for the Camanachd Cup for intermediate and junior teams. There are regional cups for both senior and junior teams; the <a href="/wiki/MacTavish_Cup" title="MacTavish Cup">MacTavish Cup</a> is the senior cup for the North and the <a href="/wiki/Glasgow_Celtic_Society_Cup" title="Glasgow Celtic Society Cup">Glasgow Celtic Society Cup</a> is the one for the South.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2015)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h3><span class="mw-headline" id="Shinty_and_hurling_internationals">Shinty and hurling internationals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shinty&amp;action=edit&amp;section=15" title="Edit section: Shinty and hurling internationals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In recognition of shinty's shared roots with hurling, an annual international between the two codes from <a href="/wiki/Scotland_national_shinty_team" title="Scotland national shinty team">Scotland</a> and Ireland is played on a home and away basis using <a href="/wiki/Composite_rules_Shinty/Hurling" class="mw-redirect" title="Composite rules Shinty/Hurling">composite rules</a>. In recent years, the Irish have had the upper hand, but the Scots won the fixture narrowly in 2005 and again in 2006, this time at <a href="/wiki/Croke_Park" title="Croke Park">Croke Park</a>, <a href="/wiki/Dublin" title="Dublin">Dublin</a>, albeit with the Irish fielding weaker players from the second tier <a href="/wiki/Christy_Ring_Cup" title="Christy Ring Cup">Christy Ring Cup</a>. Scotland made it four in a row when they won in 2008.
+</p>
+<h2><span class="mw-headline" id="Outside_Scotland">Outside Scotland</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shinty&amp;action=edit&amp;section=16" title="Edit section: Outside Scotland">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/London_Camanachd" title="London Camanachd">London Camanachd</a> is a shinty club first established in the Victorian era. They do not play league matches but sometimes compete in the Bullough Cup. They have historically been attached to the South District. They went into abeyance in 1992, but were reconstituted in 2005. They played the first officially recognised shinty match outside Scotland in 80 years on 22 July 2006 against <a href="/wiki/The_Highlanders_Shinty_Club" class="mw-redirect" title="The Highlanders Shinty Club">the Highlanders</a>.  They compete annually in the English Shinty Championships against rivals Cornwall as well as playing shinty-hurling matches and organising sporadic friendlies against visiting teams.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2015)">citation needed</span></a></i>&#93;</sup>
+</p><p>On 28 December 2010 Ireland held its first dedicated shinty match in Westmeath, with players who have played the <a href="/wiki/Compromise_rules_Shinty/Hurling" class="mw-redirect" title="Compromise rules Shinty/Hurling">Compromise rules Shinty/Hurling</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p><p>A <a href="/wiki/Cornwall_Shinty_Club" title="Cornwall Shinty Club">Cornwall Shinty Club</a> was established in 2012 playing their first game on 21 April 2012 against London; the match finished a draw. They also entered the St Andrew's Sixes tournament in 2012. Following this, in December 2012, two more Cornish clubs were created; the first being the Combined Universities of Cornwall and the second being Mabe. These two teams put forward their best players to play for the Cornwall Shinty Club.
+</p><p>There was a team in <a href="/wiki/Northallerton" title="Northallerton">Northallerton</a> in the 1970s, which competed in six-a-sides; and on 1 August 2012 a re-vamped Northallerton Shinty Club was formed. The club is hoping to draw in a few former players, but wants to focus on raising awareness of the game in Yorkshire and bringing new local players into the game.
+</p><p>Shinty was previously played widely in England in the 19th century and early 20th century, with teams such as London Scots, Bolton Caledonian and Cottonopolis; <a href="/wiki/Nottingham_Forest_F.C." title="Nottingham Forest F.C.">Nottingham Forest F.C.</a> was established by shinty players.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p><p>Since 2012 London has hosted the annual "London Shinty Festival"  which has been attended by Cornwall, London, Oxford, St Andrews university ladies team, and the Scots.  It is an open tournament held in late September after the Shinty season is finished to allow any traveling teams the opportunity to attend,
+</p><p>Since 2013, a combined English Shinty Association side has entered the Bullough cup, being beaten in 2013 by Tayforth and then in 2014 by Ballachulish.
+Shinty is played in the <a href="/wiki/British_Army" title="British Army">British Army</a>, with <a href="/wiki/The_Scots_Shinty_Club" class="mw-redirect" title="The Scots Shinty Club">The Scots Shinty Club</a> keeping alive the tradition of the game being played in the Forces.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2015)">citation needed</span></a></i>&#93;</sup>
+</p><p>Shinty is also spreading to <a href="/wiki/North_America" title="North America">North America</a>; though originally played in the 18th and 19th century by Scottish immigrants, the sport died out. However, it is enjoying a revival; teams such as <a href="/wiki/Northern_California_Camanachd_Club" class="mw-redirect" title="Northern California Camanachd Club">Northern California Camanachd Club</a> (NCCC), Central California Cammanchd (CCC)), and Oregon Shinty-Camanachd (OSC) play at <a href="/wiki/Highland_Games" class="mw-redirect" title="Highland Games">Highland Games</a> and other venues across the USA.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p><p>A small pocket of shinty has also started up in <a href="/wiki/Shinty_in_Russia" title="Shinty in Russia">Russia</a> as of 2014.
+</p>
+<h2><span class="mw-headline" id="Media_coverage">Media coverage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shinty&amp;action=edit&amp;section=17" title="Edit section: Media coverage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Local papers, such as the <a href="/wiki/West_Highland_Free_Press" title="West Highland Free Press">West Highland Free Press</a>, <a href="/wiki/The_Buteman" title="The Buteman">The Buteman</a>, the <a href="/wiki/Oban_Times" class="mw-redirect" title="Oban Times">Oban Times</a> and the <a href="/wiki/Dunoon_Observer_and_Argyllshire_Standard" title="Dunoon Observer and Argyllshire Standard">Dunoon Observer and Argyllshire Standard</a>, have in-depth shinty reports. The Inverness-based media reduce shinty coverage to one summary of the whole weekend's action as do national newspapers, such as the <a href="/wiki/Sunday_Herald" title="Sunday Herald">Sunday Herald</a> and the <a href="/wiki/Sunday_Post" class="mw-redirect" title="Sunday Post">Sunday Post</a>. The only significant national press coverage is of the <a href="/wiki/Camanachd_Cup" title="Camanachd Cup">Camanachd Cup</a> final. Regional newspaper <a href="/wiki/The_Press_and_Journal_(Scotland)" title="The Press and Journal (Scotland)">The Press and Journal</a> runs shinty coverage twice a week (Mondays and Fridays).
+</p><p>The first ever shinty match broadcast live on television was the 1964 Celtic Society Cup Final in 1964.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> Although Camanachd Cup finals and internationals have been shown over the years, 2006 marked the first ever regular TV deal for shinty with matches being shown on the BBC Sports show <b>Spòrs</b>. This was then followed by the STV show "An Caman".
+</p><p>2009 saw the Camanachd Association sign a deal with <a href="/wiki/BBC_Alba" title="BBC Alba">BBC Alba</a> to broadcast all national finals as well as the Marine Harvest Festival. The MacAulay Cup and Camanachd Cup final were also shown on <a href="/wiki/BBC_Two" title="BBC Two">BBC Two</a>. There is also an increasing amount of shinty on the internet, with various clips garnering attention on video sites such as <a href="/wiki/YouTube" title="YouTube">YouTube</a>. 2011 was a disappointing year for TV coverage outside of the usual games, but 2012 saw several games filmed live on BBC Alba.
+</p><p>The sport is featured on <a href="/wiki/BBC_Radio_nan_Gaidheal" class="mw-redirect" title="BBC Radio nan Gaidheal">BBC Radio nan Gaidheal</a> by the programme, Spòrs na Seachdain, although English-language radio interest is usually restricted to the big events in the year. Commentary on the Camanachd Cup Final is provided in both English and Gaelic.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2018)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="In_popular_culture">In popular culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shinty&amp;action=edit&amp;section=18" title="Edit section: In popular culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Billy_Connolly" title="Billy Connolly">Billy Connolly</a> suggested in September 2009 that shinty should become Scotland's national sport because the <a href="/wiki/Scotland_football_team" class="mw-redirect" title="Scotland football team">Scotland football team</a>'s performances had been so bad.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup></li>
+<li>The Scottish <a href="/wiki/Celtic_rock" title="Celtic rock">Celtic rock</a> band <a href="/wiki/Runrig" title="Runrig">Runrig</a> have referred to shinty in several songs, including "Recovery", "Pride of the Summer", and most explicitly in the song "<a href="/wiki/Clash_of_the_Ash" title="Clash of the Ash">Clash of the Ash</a>", which is specifically about the sport.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2015)">citation needed</span></a></i>&#93;</sup></li>
+<li>The accordionist <a href="/wiki/Gary_Innes" title="Gary Innes">Gary Innes</a> wrote 'The Caman Man' on his latest album ERA and has played shinty for Scotland fourteen times, captaining the side in 2010/11</li>
+<li>The TV series <i><a href="/wiki/Hamish_MacBeth" class="mw-redirect" title="Hamish MacBeth">Hamish MacBeth</a></i> featured a shinty match as an integral part of the plot of the episode "More Than a Game", with real shinty players, Dallas Young of Kingussie and Neil "Ach" MacRae of <a href="/wiki/Kinlochshiel_Shinty_Club" class="mw-redirect" title="Kinlochshiel Shinty Club">Kinlochshiel Shinty Club</a>, playing pivotal roles.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2015)">citation needed</span></a></i>&#93;</sup></li>
+<li>A shinty training session is shown in the second episode of the BBC series <i><a href="/wiki/Monty_Halls%27_Great_Escape" title="Monty Halls&#39; Great Escape">Monty Halls' Great Escape</a></i>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2015)">citation needed</span></a></i>&#93;</sup></li>
+<li>A shinty game is shown in <a href="/wiki/Outlander_(season_1)" class="mw-redirect" title="Outlander (season 1)">episode 4</a>, "The Gathering", of the <a href="/wiki/Starz" title="Starz">Starz</a> TV show <i><a href="/wiki/Outlander_(TV_series)" title="Outlander (TV series)">Outlander</a></i>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2015)">citation needed</span></a></i>&#93;</sup></li>
+<li>A "shinty ball" is mentioned by Australian <a href="/wiki/Celtic_punk" title="Celtic punk">Celtic punk</a> band <a href="/wiki/The_Rumjacks" title="The Rumjacks">The Rumjacks</a> in their 2010 song "An Irish Pub Song". The song is a tongue-in-cheek commentary on the explosive popularity of "Irish pubs" in Australia.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2015)">citation needed</span></a></i>&#93;</sup></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shinty&amp;action=edit&amp;section=19" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Women%27s_shinty" title="Women&#39;s shinty">Women's shinty</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shinty&amp;action=edit&amp;section=20" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Scottish Mining Website. <a rel="nofollow" class="external text" href="http://www.scottishmining.co.uk/502.html">"Mining Folk of Fife - Scottish Mining Website"</a>. Scottishmining.co.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">27 March</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mining+Folk+of+Fife+-+Scottish+Mining+Website&amp;rft.pub=Scottishmining.co.uk&amp;rft.au=Scottish+Mining+Website&amp;rft_id=http%3A%2F%2Fwww.scottishmining.co.uk%2F502.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShinty" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.la84foundation.org/SportsLibrary/SportsHistorian/1999/sh192e.pdf">Shinty in England, pre-1893</a>, <i>The Sports Historian</i>, 19:2(1999), 43–60</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dsl.ac.uk/entry/snd/shinty">"Dictionary of the Scots Language&#160;:: SND&#160;:: Shinty n"</a>. Dsl.ac.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dictionary+of+the+Scots+Language+%3A%3A+SND+%3A%3A+Shinty+n&amp;rft.pub=Dsl.ac.uk&amp;rft_id=http%3A%2F%2Fwww.dsl.ac.uk%2Fentry%2Fsnd%2Fshinty&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShinty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Heathcote, John Moyer; Tebbutt, C. G.; Buck, Henry A.; Kerr, John; Hake, Ormond; Witham, T. Maxwell (16 March 1892). <a rel="nofollow" class="external text" href="https://archive.org/details/skatings00heatrich">"Skating"</a>. London&#160;: Longmans, Green and Co<span class="reference-accessdate">. Retrieved <span class="nowrap">16 March</span> 2018</span>  &#8211; via Internet Archive.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Skating&amp;rft.pub=London+%3A+Longmans%2C+Green+and+Co.&amp;rft.date=1892-03-16&amp;rft.aulast=Heathcote&amp;rft.aufirst=John+Moyer&amp;rft.au=Tebbutt%2C+C.+G.&amp;rft.au=Buck%2C+Henry+A.&amp;rft.au=Kerr%2C+John&amp;rft.au=Hake%2C+Ormond&amp;rft.au=Witham%2C+T.+Maxwell&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fskatings00heatrich&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShinty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-uscamanachd.org-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-uscamanachd.org_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-uscamanachd.org_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Hugh Dan MacLennan <a rel="nofollow" class="external text" href="http://www.uscamanachd.org/documents/MacLennan_Shintysplace.pdf">SHINTY'S PLACE AND SPACE IN WORLD</a> The Sports Historian, No. 18, 1 (May 1998), pp. 1-23.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Shindy: The Oxford Dictionary of English Etymology. p.820</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="https://digital.nls.uk/an-comunn-gaidhealach/archive/124893764#?c=0&amp;m=0&amp;s=0&amp;cv=65&amp;xywh=0%2C-172%2C4739%2C3513">"An Gaidheal The Gael"</a>. <i>An Gaidheal</i>. LVIII / 58: 43. April 1963.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=An+Gaidheal&amp;rft.atitle=An+Gaidheal+The+Gael&amp;rft.volume=LVIII+%2F+58&amp;rft.pages=43&amp;rft.date=1963-04&amp;rft_id=https%3A%2F%2Fdigital.nls.uk%2Fan-comunn-gaidhealach%2Farchive%2F124893764%23%3Fc%3D0%26m%3D0%26s%3D0%26cv%3D65%26xywh%3D0%252C-172%252C4739%252C3513&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShinty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-shinty.com-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-shinty.com_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-shinty.com_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-shinty.com_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-shinty.com_8-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-shinty.com_8-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20161220073023/http://www.shinty.com/wp-content/uploads/2010/02/Byelaw-1-20141.pdf">"Archived copy"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.shinty.com/wp-content/uploads/2010/02/Byelaw-1-20141.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 20 December 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">20 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.shinty.com%2Fwp-content%2Fuploads%2F2010%2F02%2FByelaw-1-20141.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShinty" class="Z3988"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Archived copy as title (<a href="/w/index.php?title=Category:CS1_maint:_Archived_copy_as_title&amp;action=edit&amp;redlink=1" class="new" title="Category:CS1 maint: Archived copy as title (page does not exist)">link</a>) </span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/scotland/highlands_and_islands/8387122.stm">"Weather factor in shinty decision"</a>. <i>BBC News</i>. 30 November 2009.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft.atitle=Weather+factor+in+shinty+decision&amp;rft.date=2009-11-30&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fscotland%2Fhighlands_and_islands%2F8387122.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShinty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://uscamanachd.org/rules/">"AN OVERVIEW OF THE RULES OF SHINTY"</a>. <i>US Camanachd</i><span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=US+Camanachd&amp;rft.atitle=AN+OVERVIEW+OF+THE+RULES+OF+SHINTY&amp;rft_id=http%3A%2F%2Fuscamanachd.org%2Frules%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShinty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-auto-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-auto_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-auto_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.shinty.com/wp-content/uploads/2010/02/Byelaw-1-160312.pdf">Rules of Play and Playing Season</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20121111070524/http://www.shinty.com/wp-content/uploads/2010/02/Byelaw-1-160312.pdf">Archived</a> 11 November 2012 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>., Camanachd Association - Rules and Byelaws, February 2010</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/scotland/9401475.stm">"Friday's Scottish gossip"</a>. <i>BBC News</i>. 18 February 2011.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft.atitle=Friday%27s+Scottish+gossip&amp;rft.date=2011-02-18&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Fscotland%2F9401475.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShinty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.eveningtimes.co.uk/news/editor-s-picks-ignore/it-s-part-of-our-city-s-history-the-most-beautiful-cup-in-the-world-1.1017454#">"It's part of our city's history ... the most beautiful cup in the world"</a>. Evening Times. 31 March 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">20 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=It%E2%80%99s+part+of+our+city%E2%80%99s+history+...+the+most+beautiful+cup+in+the+world&amp;rft.pub=Evening+Times&amp;rft.date=2010-03-31&amp;rft_id=http%3A%2F%2Fwww.eveningtimes.co.uk%2Fnews%2Feditor-s-picks-ignore%2Fit-s-part-of-our-city-s-history-the-most-beautiful-cup-in-the-world-1.1017454%23&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShinty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Office, Chief Executives. <a rel="nofollow" class="external text" href="http://www.highland.gov.uk/news/article/1260/camanachd_association_confirms_cancellation_of_show_piece_game">"Camanachd Association confirms cancellation of Show Piece Game"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Camanachd+Association+confirms+cancellation+of+Show+Piece+Game&amp;rft.aulast=Office&amp;rft.aufirst=Chief+Executives&amp;rft_id=http%3A%2F%2Fwww.highland.gov.uk%2Fnews%2Farticle%2F1260%2Fcamanachd_association_confirms_cancellation_of_show_piece_game&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShinty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.shinty.com/index.php?page=history">"Shinty"</a>. Shinty<span class="reference-accessdate">. Retrieved <span class="nowrap">20 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Shinty&amp;rft.pub=Shinty&amp;rft_id=http%3A%2F%2Fwww.shinty.com%2Findex.php%3Fpage%3Dhistory&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShinty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-timesonline.co.uk-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-timesonline.co.uk_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-timesonline.co.uk_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.timesonline.co.uk/tol/sport/article1033244.ece">"Sport - The Times"</a>. <i>timesonline.co.uk</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=timesonline.co.uk&amp;rft.atitle=Sport+-+The+Times&amp;rft_id=http%3A%2F%2Fwww.timesonline.co.uk%2Ftol%2Fsport%2Farticle1033244.ece&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShinty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.inverness-courier.co.uk/news/fullstory.php/aid/14162/Holders_Lovat_ranked_favourites_to_retain_cup.html">[1]</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since March 2016">dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.westmeathexaminer.ie/sport/gaa/articles/2010/12/23/4002317-kilkenny-stars-to-feature-in-fundraising-shinty-game/">Kilkenny stars to feature in fundraising shinty game</a> 23 December 2010, westmeathexaminer</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation news">Herbert, Ian (8 September 2006). <a rel="nofollow" class="external text" href="https://www.independent.co.uk/news/uk/this-britain/top-football-clubs-played-host-to-scots-sport-of-shinty-415259.html">"Top football clubs played host to Scots sport of shinty"</a>. <i>The Independent</i><span class="reference-accessdate">. Retrieved <span class="nowrap">30 December</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Independent&amp;rft.atitle=Top+football+clubs+played+host+to+Scots+sport+of+shinty&amp;rft.date=2006-09-08&amp;rft.aulast=Herbert&amp;rft.aufirst=Ian&amp;rft_id=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fuk%2Fthis-britain%2Ftop-football-clubs-played-host-to-scots-sport-of-shinty-415259.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShinty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.uscamanachd.org">"US Camanachd"</a>. <i>www.uscamanachd.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.uscamanachd.org&amp;rft.atitle=US+Camanachd&amp;rft_id=http%3A%2F%2Fwww.uscamanachd.org&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShinty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.skyecamanachd.com/news/2014-AJG-Parcels-Glasgow-Celtic-Society-Cup-Final-3-Days-To-Go.htm">"2014 AJG Parcels Glasgow Celtic Society Cup Final 3 Days To Go"</a>. Skyecamanachd.com. 28 June 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">27 March</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2014+AJG+Parcels+Glasgow+Celtic+Society+Cup+Final+3+Days+To+Go&amp;rft.pub=Skyecamanachd.com&amp;rft.date=2014-06-28&amp;rft_id=http%3A%2F%2Fwww.skyecamanachd.com%2Fnews%2F2014-AJG-Parcels-Glasgow-Celtic-Society-Cup-Final-3-Days-To-Go.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShinty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web">Lyons, Beverley (8 September 2009). <a rel="nofollow" class="external text" href="http://www.dailyrecord.co.uk/entertainment/showbiz-news/2009/09/18/live-last-night-billy-connolly-usher-hall-edinburgh-86908-21682723/">"Live last night: Billy Connolly @ Usher Hall, Edinburgh"</a>. <i><a href="/wiki/Daily_Record_(Scotland)" title="Daily Record (Scotland)">Daily Record</a></i>. Edinburgh<span class="reference-accessdate">. Retrieved <span class="nowrap">20 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Daily+Record&amp;rft.atitle=Live+last+night%3A+Billy+Connolly+%40+Usher+Hall%2C+Edinburgh&amp;rft.date=2009-09-08&amp;rft.aulast=Lyons&amp;rft.aufirst=Beverley&amp;rft_id=http%3A%2F%2Fwww.dailyrecord.co.uk%2Fentertainment%2Fshowbiz-news%2F2009%2F09%2F18%2Flive-last-night-billy-connolly-usher-hall-edinburgh-86908-21682723%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShinty" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shinty&amp;action=edit&amp;section=21" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.shinty.com">The Camanachd Association</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Shinty" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background:#1E90FF;color:white;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Shinty_teams" title="Template:Shinty teams"><abbr title="View this template" style="background:#1E90FF;color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Shinty_teams" title="Template talk:Shinty teams"><abbr title="Discuss this template" style="background:#1E90FF;color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Shinty_teams&amp;action=edit"><abbr title="Edit this template" style="background:#1E90FF;color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Shinty" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink"><span style="color:white">Shinty</span></a></div></th></tr><tr><th scope="row" class="navbox-group" style="background:#1E90FF;color:white;;width:1%">Senior teams</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aberdeen_University_Shinty_Club" title="Aberdeen University Shinty Club">Aberdeen University</a></li>
+<li><a href="/wiki/Aberdour_Shinty_Club" title="Aberdour Shinty Club">Aberdour</a></li>
+<li><a href="/wiki/Ballachulish_Camanachd_Club" title="Ballachulish Camanachd Club">Ballachulish</a></li>
+<li><a href="/wiki/Beauly_Shinty_Club" title="Beauly Shinty Club">Beauly</a></li>
+<li><a href="/wiki/Boleskine_Camanachd" title="Boleskine Camanachd">Boleskine</a></li>
+<li><a href="/wiki/Bute_Shinty_Club" title="Bute Shinty Club">Bute</a></li>
+<li><a href="/wiki/Caberfeidh" title="Caberfeidh">Caberfeidh</a></li>
+<li><a href="/wiki/Col-Glen_Shinty_Club" title="Col-Glen Shinty Club">Col-Glen</a></li>
+<li><a href="/wiki/Fort_William_Shinty_Club" title="Fort William Shinty Club">Fort William</a></li>
+<li><a href="/wiki/Glasgow_Mid_Argyll" title="Glasgow Mid Argyll">Glasgow Mid Argyll</a></li>
+<li><a href="/wiki/Glengarry_Shinty_Club" title="Glengarry Shinty Club">Glengarry</a></li>
+<li><a href="/wiki/Glenorchy_Camanachd" title="Glenorchy Camanachd">Glenorchy</a></li>
+<li><a href="/wiki/Glenurquhart_Shinty_Club" title="Glenurquhart Shinty Club">Glenurquhart</a></li>
+<li><a href="/wiki/Inveraray_Shinty_Club" title="Inveraray Shinty Club">Inveraray</a></li>
+<li><a href="/wiki/Inverness_Shinty_Club" title="Inverness Shinty Club">Inverness</a></li>
+<li><a href="/wiki/Kilmallie_Shinty_Club" title="Kilmallie Shinty Club">Kilmallie</a></li>
+<li><a href="/wiki/Kilmory_Camanachd" title="Kilmory Camanachd">Kilmory</a></li>
+<li><a href="/wiki/Kingussie_Camanachd" title="Kingussie Camanachd">Kingussie</a></li>
+<li><a href="/wiki/Kinlochshiel" title="Kinlochshiel">Kinlochshiel</a></li>
+<li><a href="/wiki/Kyles_Athletic" title="Kyles Athletic">Kyles Athletic</a></li>
+<li><a href="/wiki/Lewis_Camanachd" title="Lewis Camanachd">Lewis</a></li>
+<li><a href="/wiki/Lochaber_Camanachd" title="Lochaber Camanachd">Lochaber</a></li>
+<li><a href="/wiki/Lochcarron_Camanachd" title="Lochcarron Camanachd">Lochcarron</a></li>
+<li><a href="/wiki/Oban_Camanachd" title="Oban Camanachd">Lochside Rovers</a></li>
+<li><a href="/wiki/Lovat_Shinty_Club" title="Lovat Shinty Club">Lovat</a></li>
+<li><a href="/wiki/Newtonmore_Camanachd_Club" title="Newtonmore Camanachd Club">Newtonmore</a></li>
+<li><a href="/wiki/Oban_Camanachd" title="Oban Camanachd">Oban</a></li>
+<li><a href="/wiki/Oban_Celtic" title="Oban Celtic">Oban Celtic</a></li>
+<li><a href="/wiki/Skye_Camanachd" title="Skye Camanachd">Skye</a></li>
+<li><a href="/wiki/Strachur_and_District_Shinty_Club" title="Strachur and District Shinty Club">Strachur &amp; District</a></li>
+<li><a href="/wiki/Strathglass_Shinty_Club" title="Strathglass Shinty Club">Strathglass</a></li>
+<li><a href="/wiki/Strathspey_Camanachd" title="Strathspey Camanachd">Strathspey</a></li>
+<li><a href="/wiki/Tayforth_Camanachd" title="Tayforth Camanachd">Tayforth</a></li>
+<li><a href="/wiki/Taynuilt_Shinty_Club" title="Taynuilt Shinty Club">Taynuilt</a></li></ul>
+</div></td><td class="navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Shinty_Bute.jpg" class="image"><img alt="Shinty Bute.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Shinty_Bute.jpg/154px-Shinty_Bute.jpg" width="154" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Shinty_Bute.jpg/231px-Shinty_Bute.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Shinty_Bute.jpg/308px-Shinty_Bute.jpg 2x" data-file-width="1768" data-file-height="1720" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="background:#1E90FF;color:white;;width:1%">Former teams</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Edinburgh_East_Lothian" title="Edinburgh East Lothian">Edinburgh East Lothian</a></li>
+<li><a href="/wiki/Forth_Camanachd" title="Forth Camanachd">Forth</a></li>
+<li><a href="/wiki/Kilmory_Camanachd" title="Kilmory Camanachd">Furnace</a></li>
+<li><a href="/wiki/Glasgow_Cowal" title="Glasgow Cowal">Glasgow Cowal</a></li>
+<li><a href="/wiki/Oban_Lorn_Shinty_Club" title="Oban Lorn Shinty Club">Oban Lorn</a></li>
+<li><a href="/wiki/Nairnshire_Camanachd" title="Nairnshire Camanachd">Nairnshire</a></li>
+<li><a href="/wiki/Naver_Athletic_Camanachd_Club" title="Naver Athletic Camanachd Club">Naver Athletic</a></li>
+<li><a href="/wiki/Strathclyde_Police_Shinty_Club" title="Strathclyde Police Shinty Club">Strathclyde Police</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#1E90FF;color:white;;width:1%">Non-league and university teams</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ardnamurchan_Camanachd" title="Ardnamurchan Camanachd">Ardnamurchan</a></li>
+<li><a href="/wiki/Caithness_Shinty_Club" title="Caithness Shinty Club">Caithness</a></li>
+<li><a href="/wiki/Cornwall_Shinty_Club" title="Cornwall Shinty Club">Cornwall</a></li>
+<li><a href="/wiki/University_Shinty" class="mw-redirect" title="University Shinty">Dundee University</a></li>
+<li><a href="/wiki/Dunoon_Camanachd" title="Dunoon Camanachd">Dunoon</a></li>
+<li><a href="/wiki/Edinburgh_University_Shinty_Club" title="Edinburgh University Shinty Club">Edinburgh University</a></li>
+<li><a href="/wiki/Glasgow_University_Shinty_Club" title="Glasgow University Shinty Club">Glasgow University</a></li>
+<li><a href="/wiki/Kincraig_Shinty_Club" class="mw-redirect" title="Kincraig Shinty Club">Kincraig</a></li>
+<li><a href="/wiki/Kinlochbervie_Camanachd_Club" title="Kinlochbervie Camanachd Club">Kinlochbervie</a></li>
+<li><a href="/wiki/Kintyre_Camanachd" title="Kintyre Camanachd">Kintyre</a></li>
+<li><a href="/wiki/Lochbroom_Camanachd" title="Lochbroom Camanachd">Lochbroom</a></li>
+<li><a href="/wiki/London_Camanachd" title="London Camanachd">London</a></li>
+<li><a href="/wiki/Glasgow_Mid_Argyll" title="Glasgow Mid Argyll">Milngavie &amp; Bearsden</a></li>
+<li><a href="/wiki/University_Shinty" class="mw-redirect" title="University Shinty">Robert Gordon University</a></li>
+<li><a href="/wiki/The_Scots_Shinty_Club" class="mw-redirect" title="The Scots Shinty Club">Scots</a></li>
+<li><a href="/wiki/St._Andrew%27s_University_Shinty_Club" class="mw-redirect" title="St. Andrew&#39;s University Shinty Club">St Andrews University</a></li>
+<li><a href="/wiki/Uist_Camanachd" title="Uist Camanachd">Uist</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#1E90FF;color:white;;width:1%"><a href="/wiki/Women%27s_shinty" title="Women&#39;s shinty"><span style="color:white">Women's shinty</span></a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aberdour_Shinty_Club" title="Aberdour Shinty Club">Aberdour</a></li>
+<li><a href="/wiki/Ardnamurchan_Camanachd" title="Ardnamurchan Camanachd">Ardnamurchan</a></li>
+<li><a href="/wiki/Badenoch_%26_Strathspey_Ladies_Shinty_Club" title="Badenoch &amp; Strathspey Ladies Shinty Club">Badenoch &amp; Strathspey</a></li>
+<li><a href="/wiki/Cowal_and_Bute_(shinty)" title="Cowal and Bute (shinty)">Cowal and Bute</a></li>
+<li><a href="/wiki/Inverness_Shinty_Club" title="Inverness Shinty Club">Inverness</a></li>
+<li><a href="/wiki/Kilmory_Camanachd" title="Kilmory Camanachd">Dunadd</a></li>
+<li><a href="/wiki/Glasgow_Mid_Argyll" title="Glasgow Mid Argyll">Glasgow Mid Argyll</a></li>
+<li><a href="/wiki/Glengarry_Shinty_Club" title="Glengarry Shinty Club">Glengarry</a></li>
+<li><a href="/wiki/Glenurquhart_Shinty_Club" title="Glenurquhart Shinty Club">Glenurquhart</a></li>
+<li><a href="/wiki/Lochaber_Camanachd" title="Lochaber Camanachd">Lochaber</a></li>
+<li><a href="/wiki/Lovat_Shinty_Club" title="Lovat Shinty Club">Lovat</a></li>
+<li><a href="/wiki/Oban_Lorn_Ladies_Shinty_Club" title="Oban Lorn Ladies Shinty Club">Oban Lorn</a></li>
+<li><a href="/wiki/Strathglass_Shinty_Club" title="Strathglass Shinty Club">Strathglass</a></li>
+<li><a href="/wiki/Strathspey_Camanachd" title="Strathspey Camanachd">Strathspey</a></li>
+<li><a href="/wiki/Skye_Camanachd" title="Skye Camanachd">Skye</a></li>
+<li><a href="/wiki/T%C3%ADr_Conaill_Harps" title="Tír Conaill Harps">Tir Conaill Harps</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#1E90FF;color:white;;width:1%">Competitions</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Camanachd_Cup" title="Camanachd Cup">Camanachd Cup</a></li>
+<li><a href="/wiki/Premier_Division_(shinty)" title="Premier Division (shinty)">Premier Division</a></li>
+<li><a href="/wiki/Shinty_league_system" title="Shinty league system">League System</a></li>
+<li><a href="/wiki/Grand_Slam_(shinty)" title="Grand Slam (shinty)">Grand Slam</a></li>
+<li><a href="/wiki/Macaulay_Cup" title="Macaulay Cup">Macaulay Cup</a></li>
+<li><a href="/wiki/Sir_William_Sutherland_Cup" title="Sir William Sutherland Cup">Sutherland Cup</a></li>
+<li><a href="/wiki/Balliemore_Cup" title="Balliemore Cup">Balliemore Cup</a></li>
+<li><a href="/wiki/MacTavish_Cup" title="MacTavish Cup">MacTavish Cup</a></li>
+<li><a href="/wiki/Glasgow_Celtic_Society_Cup" title="Glasgow Celtic Society Cup">Glasgow Celtic Society Cup</a></li>
+<li><a href="/wiki/Strathdearn_Cup" title="Strathdearn Cup">Strathdearn Cup</a></li>
+<li><a href="/wiki/Bullough_Cup" title="Bullough Cup">Bullough Cup</a></li>
+<li><a href="/wiki/Mod_Cup" title="Mod Cup">Mod Cup</a></li>
+<li><a href="/wiki/Valerie_Fraser_Trophy" title="Valerie Fraser Trophy">Valerie Fraser Trophy</a></li>
+<li><a href="/wiki/WCA_National_Division_One" title="WCA National Division One">Women's League System</a></li>
+<li><a href="/wiki/Lovat_Cup" title="Lovat Cup">Lovat Cup</a></li>
+<li><a href="/wiki/London_Shield" title="London Shield">London Shield</a></li>
+<li><a href="/wiki/Littlejohn_Vase" title="Littlejohn Vase">Littlejohn Vase</a></li>
+<li><a href="/wiki/Fingal_Memorial_Shield" title="Fingal Memorial Shield">Fingal Memorial Shield</a></li>
+<li><a href="/wiki/Albert_Smith_Medal" title="Albert Smith Medal">Albert Smith Medal</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#1E90FF;color:white;;width:1%">See also</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Camanachd_Association" title="Camanachd Association">Camanachd Association</a></li>
+<li><a href="/wiki/Composite_rules_shinty%E2%80%93hurling" title="Composite rules shinty–hurling">Composite rules shinty–hurling</a></li>
+<li><a href="/wiki/Shinty/Hurling_International_Series" title="Shinty/Hurling International Series">Shinty/Hurling International Series</a></li>
+<li><a href="/wiki/Shinty_in_the_United_States" title="Shinty in the United States">Shinty in the United States</a></li>
+<li><a href="/wiki/English_Shinty_Association" title="English Shinty Association">English Shinty Association</a></li>
+<li><a href="/wiki/Shinty_in_Russia" title="Shinty in Russia">Shinty in Russia</a></li>
+<li><a href="/wiki/Scotland_national_shinty_team" title="Scotland national shinty team">Scotland national shinty team</a></li>
+<li><a href="/wiki/English_Shinty_Team" title="English Shinty Team">English Shinty Team</a></li>
+<li><a href="/wiki/Alba_(shinty_club)" class="mw-redirect" title="Alba (shinty club)">Alba</a></li>
+<li><a href="/wiki/Schools_Camanachd_Association" title="Schools Camanachd Association">Schools Camanachd Association</a></li>
+<li><a href="/wiki/Women%27s_shinty" title="Women&#39;s shinty">Women's shinty</a></li>
+<li><a href="/wiki/Clash_of_the_Ash" title="Clash of the Ash">Clash of the Ash</a></li>
+<li><a href="/wiki/Iomain" title="Iomain">Iomain</a></li>
+<li><a href="/wiki/WAGs#Shinty" title="WAGs">SWAGs</a></li>
+<li><a href="/wiki/University_shinty" title="University shinty">University shinty</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Team_sports" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Team_sports" title="Template:Team sports"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Team_sports" title="Template talk:Team sports"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Team_sports&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Team_sports" style="font-size:114%;margin:0 4em"><a href="/wiki/Team_sport" title="Team sport">Team sports</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Sport&amp;#10;*_Governing_bodies&amp;#10;*_Sportspeople&amp;#10;*_National_sport">
+<ul><li><a href="/wiki/Sport" title="Sport">Sport</a></li>
+<li><a href="/wiki/Sports_governing_body" title="Sports governing body">Governing bodies</a></li>
+<li><a href="/wiki/Lists_of_sportspeople" title="Lists of sportspeople">Sportspeople</a></li>
+<li><a href="/wiki/National_sport" title="National sport">National sport</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Basket sports</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Basketball" title="Basketball">Basketball</a>
+<ul><li><a href="/wiki/Beach_basketball" title="Beach basketball">beach</a></li>
+<li><a href="/wiki/Deaf_basketball" title="Deaf basketball">deaf</a></li>
+<li><a href="/wiki/3x3_basketball" title="3x3 basketball">3x3</a></li>
+<li><a href="/wiki/Water_basketball" title="Water basketball">water</a></li>
+<li><a href="/wiki/Wheelchair_basketball" title="Wheelchair basketball">wheelchair</a></li></ul></li>
+<li><a href="/wiki/Cestoball" title="Cestoball">Cestoball</a></li>
+<li><a href="/wiki/Korfball" title="Korfball">Korfball</a></li>
+<li><a href="/wiki/Netball" title="Netball">Netball</a>
+<ul><li><a href="/wiki/Fast5" title="Fast5">Fast5</a></li>
+<li><a href="/wiki/Indoor_netball" title="Indoor netball">indoor</a></li>
+<li><a href="/wiki/Wheelchair_netball" title="Wheelchair netball">wheelchair</a></li></ul></li>
+<li><a href="/wiki/Rezball" title="Rezball">Rezball</a></li>
+<li><a href="/wiki/Ringball" title="Ringball">Ringball</a></li>
+<li><a href="/wiki/Slamball" title="Slamball">Slamball</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Football" title="Football">Football</a> codes</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Association_football" title="Association football">Association football</a>
+<ul><li><a href="/wiki/Amputee_football" title="Amputee football">amputee</a></li>
+<li><a href="/wiki/Beach_soccer" title="Beach soccer">beach</a></li>
+<li><a href="/wiki/Freestyle_football" title="Freestyle football">freestyle</a></li>
+<li><a href="/wiki/Futsal" title="Futsal">Futsal</a></li>
+<li><a href="/wiki/Indoor_soccer" title="Indoor soccer">indoor</a></li>
+<li><a href="/wiki/Jorkyball" title="Jorkyball">Jorkyball</a></li>
+<li><a href="/wiki/Paralympic_association_football" title="Paralympic association football">paralympic</a></li>
+<li><a href="/wiki/Powerchair_Football" title="Powerchair Football">powerchair</a></li>
+<li><a href="/wiki/Roller_soccer" title="Roller soccer">roller</a></li>
+<li><a href="/wiki/Street_football" title="Street football">street</a></li>
+<li><a href="/wiki/Walking_football" title="Walking football">walking</a></li></ul></li>
+<li><a href="/wiki/Australian_rules_football" title="Australian rules football">Australian rules football</a>
+<ul><li><a href="/wiki/AFLX" title="AFLX">AFLX</a></li>
+<li><a href="/wiki/Lightning_football" title="Lightning football">Lightning football</a></li>
+<li><a href="/wiki/Metro_footy" title="Metro footy">Metro footy</a></li>
+<li><a href="/wiki/Nine-a-side_footy" title="Nine-a-side footy">Nine-a-side</a></li>
+<li><a href="/wiki/Rec_footy" title="Rec footy">Rec footy</a></li></ul></li>
+<li><a href="/wiki/Gaelic_football" title="Gaelic football">Gaelic football</a>
+<ul><li><a href="/wiki/Ladies%27_Gaelic_football" title="Ladies&#39; Gaelic football">Ladies'</a></li></ul></li>
+<li><a href="/wiki/Circle_rules_football" title="Circle rules football">Circle rules football</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Gridiron_football" title="Gridiron football">Gridiron</a> codes</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/American_football" title="American football">American football</a>
+<ul><li><a href="/wiki/Eight-man_football" title="Eight-man football">eight-man</a></li>
+<li><a href="/wiki/Flag_football" title="Flag football">flag</a></li>
+<li><a href="/wiki/Nine-man_football" title="Nine-man football">nine-man</a></li>
+<li><a href="/wiki/Six-man_football" title="Six-man football">six-man</a></li>
+<li><a href="/wiki/Sprint_football" title="Sprint football">sprint</a></li>
+<li><a href="/wiki/Touch_football_(American)" title="Touch football (American)">touch</a></li>
+<li><a href="/wiki/Wheelchair_Football_(American)" title="Wheelchair Football (American)">wheelchair</a></li></ul></li>
+<li><a href="/wiki/Canadian_football" title="Canadian football">Canadian football</a></li>
+<li><a href="/wiki/Indoor_American_football" title="Indoor American football">Indoor American football</a>
+<ul><li><a href="/wiki/Arena_football" title="Arena football">Arena football</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hybrid_sport" title="Hybrid sport">Hybrid</a> codes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Austus" title="Austus">Austus</a></li>
+<li><a href="/wiki/Eton_wall_game" title="Eton wall game">Eton wall game</a></li>
+<li><a href="/wiki/International_rules_football" title="International rules football">International rules football</a></li>
+<li><a href="/wiki/Samoa_rules" title="Samoa rules">Samoa rules</a></li>
+<li><a href="/wiki/Speedball_(American_ball_game)" title="Speedball (American ball game)">Speedball</a></li>
+<li><a href="/wiki/Swedish_football_(code)" title="Swedish football (code)">Swedish football</a></li>
+<li><a href="/wiki/Universal_football" title="Universal football">Universal football</a></li>
+<li><a href="/wiki/Volata" title="Volata">Volata</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Medieval_football" title="Medieval football">Medieval football</a> codes</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ba_game" title="Ba game">Ba game</a></li>
+<li><a href="/wiki/Caid_(sport)" title="Caid (sport)">Caid</a></li>
+<li><a href="/wiki/Calcio_Fiorentino" title="Calcio Fiorentino">Calcio fiorentino</a></li>
+<li><a href="/wiki/Camping_(game)" title="Camping (game)">Camping</a></li>
+<li><a href="/wiki/Cnapan" title="Cnapan">Cnapan</a></li>
+<li><a href="/wiki/Cornish_hurling" title="Cornish hurling">Cornish hurling</a></li>
+<li><a href="/wiki/Cuju" title="Cuju">Cuju</a></li>
+<li><a href="/wiki/Harpastum" title="Harpastum">Harpastum</a></li>
+<li><a href="/wiki/Kemari" title="Kemari">Kemari</a></li>
+<li><a href="/wiki/Ki-o-rahi" class="mw-redirect" title="Ki-o-rahi">Ki-o-rahi</a></li>
+<li><a href="/wiki/Jegichagi" title="Jegichagi">Jegichagi</a></li>
+<li><a href="/wiki/La_soule" title="La soule">La soule</a></li>
+<li><a href="/wiki/Lelo_burti" title="Lelo burti">Lelo burti</a></li>
+<li><a href="/wiki/Marn_Grook" title="Marn Grook">Marn grook</a></li>
+<li><a href="/wiki/Pasuckuakohowog" title="Pasuckuakohowog">Pasuckuakohowog</a></li>
+<li><a href="/wiki/Royal_Shrovetide_Football" title="Royal Shrovetide Football">Royal Shrovetide</a></li>
+<li><a href="/wiki/Uppies_and_Downies" title="Uppies and Downies">Uppies and downies</a></li>
+<li><a href="/wiki/Yubi_lakpi" title="Yubi lakpi">Yubi lakpi</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Rugby_football" title="Rugby football">Rugby</a> codes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Beach_rugby" title="Beach rugby">Beach</a></li>
+<li><a href="/wiki/Rugby_league" title="Rugby league">Rugby league</a>
+<ul><li><a href="/wiki/Masters_Rugby_League" title="Masters Rugby League">masters</a></li>
+<li><a href="/wiki/Mod_league" title="Mod league">mod</a></li>
+<li><a href="/wiki/Rugby_league_nines" title="Rugby league nines">nines</a></li>
+<li><a href="/wiki/Rugby_league_sevens" title="Rugby league sevens">sevens</a></li>
+<li><a href="/wiki/Tag_rugby" title="Tag rugby">tag</a></li>
+<li><a href="/wiki/Wheelchair_rugby_league" title="Wheelchair rugby league">wheelchair</a></li></ul></li>
+<li><a href="/wiki/Rugby_union" title="Rugby union">Rugby union</a>
+<ul><li><a href="/wiki/American_flag_rugby" title="American flag rugby">American flag</a></li>
+<li><a href="/wiki/Mini_rugby" title="Mini rugby">mini</a></li>
+<li><a href="/wiki/Rugby_sevens" title="Rugby sevens">sevens</a></li>
+<li><a href="/wiki/Snow_rugby" title="Snow rugby">snow</a></li>
+<li><a href="/wiki/Tag_rugby" title="Tag rugby">tag</a></li>
+<li><a href="/wiki/Touch_rugby" title="Touch rugby">touch</a></li>
+<li><a href="/wiki/Rugby_tens" title="Rugby tens">tens</a></li></ul></li>
+<li><a href="/wiki/Touch_(sport)" title="Touch (sport)">Touch</a></li>
+<li><a href="/wiki/Wheelchair_rugby" title="Wheelchair rugby">Wheelchair</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Bat-and-ball_games" title="Bat-and-ball games">Bat-and-ball games</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baseball" title="Baseball">Baseball</a></li>
+<li><a href="/wiki/Br%C3%A4nnboll" title="Brännboll">Brännboll</a></li>
+<li><a href="/wiki/Corkball" title="Corkball">Corkball</a></li>
+<li><a href="/wiki/Cricket" title="Cricket">Cricket</a>
+<ul><li><a href="/wiki/One_Day_International" title="One Day International">One Day</a></li>
+<li><a href="/wiki/Test_cricket" title="Test cricket">Test</a></li>
+<li><a href="/wiki/Twenty20_International" title="Twenty20 International">Twenty20</a></li></ul></li>
+<li><a href="/wiki/Danish_longball" title="Danish longball">Danish longball</a></li>
+<li><a href="/wiki/Indoor_cricket" title="Indoor cricket">Indoor cricket</a></li>
+<li><a href="/wiki/Kickball" title="Kickball">Kickball</a></li>
+<li><a href="/wiki/Lapta_(game)" title="Lapta (game)">Lapta</a></li>
+<li><a href="/wiki/Matball" title="Matball">Matball</a></li>
+<li><a href="/wiki/Oin%C4%83" title="Oină">Oină</a></li>
+<li><a href="/wiki/Over-the-line" title="Over-the-line">Over-the-line</a></li>
+<li><a href="/wiki/Pes%C3%A4pallo" title="Pesäpallo">Pesäpallo</a></li>
+<li><a href="/wiki/Rounders" title="Rounders">Rounders</a></li>
+<li><a href="/wiki/Softball" title="Softball">Softball</a>
+<ul><li><a href="/wiki/Fastpitch_softball" title="Fastpitch softball">Fastpitch</a></li></ul></li>
+<li><a href="/wiki/Stickball" title="Stickball">Stickball</a></li>
+<li><a href="/wiki/Stoolball" title="Stoolball">Stoolball</a></li>
+<li><a href="/wiki/Town_ball" title="Town ball">Town ball</a></li>
+<li><a href="/wiki/Vigoro" title="Vigoro">Vigoro</a></li>
+<li><a href="/wiki/Vitilla" title="Vitilla">Vitilla</a></li>
+<li><a href="/wiki/British_baseball" title="British baseball">Welsh/British baseball</a></li>
+<li><a href="/wiki/Wiffle_ball" title="Wiffle ball">Wiffle ball</a></li>
+<li><a href="/wiki/Wireball" title="Wireball">Wireball</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Stick and ball sports</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bando_(sport)" title="Bando (sport)">Bando</a></li>
+<li><a href="/wiki/Cammag" title="Cammag">Cammag</a></li>
+<li><a href="/wiki/Hurling" title="Hurling">Hurling</a>
+<ul><li><a href="/wiki/Camogie" title="Camogie">Camogie</a></li>
+<li>Super11s</li>
+<li><a href="/wiki/Composite_rules_shinty-hurling" class="mw-redirect" title="Composite rules shinty-hurling">Shinty–Hurling</a></li></ul></li>
+<li><a href="/wiki/Indigenous_North_American_stickball" title="Indigenous North American stickball">Indigenous North American stickball</a></li>
+<li><a href="/wiki/Iomain" title="Iomain">Iomain</a></li>
+<li><a href="/wiki/Knattleikr" title="Knattleikr">Knattleikr</a></li>
+<li><a href="/wiki/Knotty" title="Knotty">Knotty</a></li>
+<li><a href="/wiki/Lacrosse" title="Lacrosse">Lacrosse</a>
+<ul><li><a href="/wiki/Box_lacrosse" title="Box lacrosse">box/indoor</a></li>
+<li><a href="/wiki/Field_lacrosse" title="Field lacrosse">field</a></li>
+<li><a href="/wiki/Intercrosse" title="Intercrosse">intercrosse</a></li>
+<li><a href="/wiki/Women%27s_lacrosse" title="Women&#39;s lacrosse">women's</a></li></ul></li>
+<li><a href="/wiki/Ritinis" title="Ritinis">Ritinis</a></li>
+<li><a class="mw-selflink selflink">Shinty</a>
+<ul><li><a href="/wiki/Composite_rules_shinty-hurling" class="mw-redirect" title="Composite rules shinty-hurling">Shinty–Hurling</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hockey" title="Hockey">Hockey</a> sports</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ball_hockey" title="Ball hockey">Ball hockey</a></li>
+<li><a href="/wiki/Bandy" title="Bandy">Bandy</a>
+<ul><li><a href="/wiki/Rink_bandy" title="Rink bandy">rink</a></li></ul></li>
+<li><a href="/wiki/Broomball" title="Broomball">Broomball</a>
+<ul><li><a href="/wiki/Moscow_broomball" title="Moscow broomball">Moscow</a></li></ul></li>
+<li><a href="/wiki/Field_hockey" title="Field hockey">Field hockey</a>
+<ul><li><a href="/wiki/Indoor_field_hockey" title="Indoor field hockey">indoor</a></li></ul></li>
+<li><a href="/wiki/Floor_hockey" title="Floor hockey">Floor hockey</a></li>
+<li><a href="/wiki/Floorball" title="Floorball">Floorball</a></li>
+<li><a href="/wiki/Ice_hockey" title="Ice hockey">Ice hockey</a>
+<ul><li><a href="/wiki/Pond_hockey" title="Pond hockey">pond</a></li>
+<li><a href="/wiki/Power_hockey" title="Power hockey">power</a></li>
+<li><a href="/wiki/Ice_sledge_hockey" class="mw-redirect" title="Ice sledge hockey">ice sledge</a></li>
+<li><a href="/wiki/Underwater_ice_hockey" title="Underwater ice hockey">underwater</a></li></ul></li>
+<li><a href="/wiki/Ringette" title="Ringette">Ringette</a></li>
+<li><a href="/wiki/Rinkball" class="mw-redirect" title="Rinkball">Rinkball</a></li>
+<li><a href="/wiki/Roller_hockey" title="Roller hockey">Roller hockey</a>
+<ul><li><a href="/wiki/Roller_in-line_hockey" title="Roller in-line hockey">in-line</a></li>
+<li><a href="/wiki/Roller_hockey_(quad)" title="Roller hockey (quad)">quad</a></li></ul></li>
+<li><a href="/wiki/Rossall_Hockey" title="Rossall Hockey">Rossall hockey</a></li>
+<li><a href="/wiki/Shinny" title="Shinny">Shinny</a></li>
+<li><a href="/wiki/Street_hockey" title="Street hockey">Street hockey</a></li>
+<li><a href="/wiki/Underwater_hockey" title="Underwater hockey">Underwater hockey</a></li>
+<li><a href="/wiki/Unicycle_hockey" title="Unicycle hockey">Unicycle hockey</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Polo" title="Polo">Polo</a> sports</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Auto_polo" title="Auto polo">Auto polo</a></li>
+<li><a href="/wiki/Cowboy_polo" title="Cowboy polo">Cowboy polo</a></li>
+<li><a href="/wiki/Cycle_polo" title="Cycle polo">Cycle polo</a></li>
+<li><a href="/wiki/Elephant_polo" title="Elephant polo">Elephant polo</a></li>
+<li><a href="/wiki/Horseball" title="Horseball">Horseball</a></li>
+<li><a href="/wiki/Motoball" title="Motoball">Motoball</a></li>
+<li><a href="/wiki/Pato" title="Pato">Pato</a></li>
+<li><a href="/wiki/Polo" title="Polo">Polo</a>
+<ul><li><a href="/wiki/Arena_polo" title="Arena polo">Arena polo</a></li>
+<li><a href="/wiki/Chovgan" title="Chovgan">chovgan</a></li>
+<li>snow polo</li></ul></li>
+<li><a href="/wiki/Polocrosse" title="Polocrosse">Polocrosse</a></li>
+<li><a href="/wiki/Segway_polo" title="Segway polo">Segway polo</a></li>
+<li><a href="/wiki/Yak_polo" title="Yak polo">Yak polo</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Net_sport" title="Net sport">Net sports</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ball_badminton" title="Ball badminton">Ball badminton</a></li>
+<li><a href="/wiki/Beach_tennis" title="Beach tennis">Beach tennis</a></li>
+<li><a href="/wiki/Biribol" title="Biribol">Biribol</a></li>
+<li><a href="/wiki/Bossaball" title="Bossaball">Bossaball</a></li>
+<li><a href="/wiki/Fistball" title="Fistball">Fistball</a></li>
+<li><a href="/wiki/Footbag_net" title="Footbag net">Footbag net</a></li>
+<li><a href="/wiki/Football_tennis" title="Football tennis">Football tennis</a></li>
+<li><a href="/wiki/Footvolley" title="Footvolley">Footvolley</a></li>
+<li><a href="/wiki/Jianzi" title="Jianzi">Jianzi</a></li>
+<li><a href="/wiki/Jokgu" title="Jokgu">Jokgu</a></li>
+<li><a href="/wiki/Newcomb_ball" title="Newcomb ball">Newcomb ball</a></li>
+<li><a href="/wiki/Peteca" title="Peteca">Peteca</a></li>
+<li><a href="/wiki/Sepak_takraw" title="Sepak takraw">Sepak takraw</a></li>
+<li><a href="/wiki/Throwball" title="Throwball">Throwball</a></li>
+<li><a href="/wiki/Volleyball" title="Volleyball">Volleyball</a>
+<ul><li><a href="/wiki/Beach_volleyball" title="Beach volleyball">beach</a></li>
+<li><a href="/wiki/Sitting_volleyball" title="Sitting volleyball">paralympic</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other sports</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Airsoft" title="Airsoft">Airsoft</a></li>
+<li><a href="/wiki/Angleball" title="Angleball">Angleball</a></li>
+<li><a href="/wiki/Balle_%C3%A0_la_main" title="Balle à la main">Balle à la main</a></li>
+<li><a href="/wiki/Ballon_au_poing" title="Ballon au poing">Ballon au poing</a></li>
+<li><a href="/wiki/Basque_pelota" title="Basque pelota">Basque pelota</a>
+<ul><li><a href="/wiki/Frontenis" title="Frontenis">frontenis</a></li>
+<li><a href="/wiki/Jai_alai" title="Jai alai">jai alai</a></li>
+<li><a href="/wiki/Xare" title="Xare">xare</a></li></ul></li>
+<li><a href="/wiki/Bo-taoshi" title="Bo-taoshi">Bo-taoshi</a></li>
+<li><a href="/wiki/Boules" title="Boules">Boules</a>
+<ul><li><a href="/wiki/Bocce" title="Bocce">Bocce</a></li>
+<li><a href="/wiki/Bocce_volo" title="Bocce volo">Bocce volo</a></li>
+<li><a href="/wiki/Boccia" title="Boccia">Boccia</a></li>
+<li><a href="/wiki/Bowls" title="Bowls">Bowls</a></li>
+<li><a href="/wiki/Jeu_proven%C3%A7al" title="Jeu provençal">Jeu provençal</a></li>
+<li><a href="/wiki/P%C3%A9tanque" title="Pétanque">Pétanque</a></li>
+<li><a href="/wiki/Raffa" title="Raffa">Raffa</a></li></ul></li>
+<li><a href="/wiki/Buzkashi" title="Buzkashi">Buzkashi</a></li>
+<li><a href="/wiki/Combat_(juggling)" title="Combat (juggling)">Combat (juggling)</a></li>
+<li><a href="/wiki/Curling" title="Curling">Curling</a>
+<ul><li><a href="/wiki/Wheelchair_curling" title="Wheelchair curling">wheelchair</a></li></ul></li>
+<li><a href="/wiki/Cycle_ball" title="Cycle ball">Cycle ball</a></li>
+<li><a href="/wiki/Digor_(sports)" title="Digor (sports)">Digor</a></li>
+<li><a href="/wiki/Dodgeball" title="Dodgeball">Dodgeball</a></li>
+<li><a href="/wiki/Flickerball" title="Flickerball">Flickerball</a></li>
+<li><a href="/wiki/Gateball" title="Gateball">Gateball</a></li>
+<li><a href="/wiki/Goalball" title="Goalball">Goalball</a></li>
+<li><a href="/wiki/Guts_(game)" title="Guts (game)">Guts</a></li>
+<li><a href="/wiki/Handball" title="Handball">Handball</a>
+<ul><li><a href="/wiki/Beach_handball" title="Beach handball">beach</a></li>
+<li><a href="/wiki/Czech_handball" title="Czech handball">Czech</a></li>
+<li><a href="/wiki/Field_handball" title="Field handball">field</a></li></ul></li>
+<li><a href="/wiki/Hornussen" title="Hornussen">Hornussen</a></li>
+<li><a href="/wiki/Ice_stock_sport" title="Ice stock sport">Ice stock sport</a></li>
+<li><a href="/wiki/Jereed" title="Jereed">Jereed</a></li>
+<li><a href="/wiki/Kabaddi" title="Kabaddi">Kabaddi</a>
+<ul><li><a href="/wiki/Indoor" title="Indoor">indoor</a></li>
+<li><a href="/wiki/Beach" title="Beach">beach</a></li></ul></li>
+<li><a href="/wiki/Kho_kho" title="Kho kho">Kho kho</a></li>
+<li><a href="/wiki/Kin-Ball" title="Kin-Ball">Kin-Ball</a></li>
+<li><a href="/wiki/Lagori" title="Lagori">Lagori</a></li>
+<li><a href="/wiki/Longue_paume" title="Longue paume">Longue paume</a></li>
+<li><a href="/wiki/Makura-Nage" title="Makura-Nage">Makura-Nage</a></li>
+<li><a href="/wiki/Mesoamerican_ballgame" title="Mesoamerican ballgame">Mesoamerican ballgame</a></li>
+<li><a href="/wiki/Paintball" title="Paintball">Paintball</a></li>
+<li><a href="/wiki/Pelota_mixteca" title="Pelota mixteca">Pelota mixteca</a></li>
+<li><a href="/wiki/Prisonball" title="Prisonball">Prisonball</a></li>
+<li><a href="/wiki/Pushball" title="Pushball">Pushball</a></li>
+<li><a href="/wiki/Quidditch_(sport)" title="Quidditch (sport)">Quidditch</a></li>
+<li><a href="/wiki/Rollball" class="mw-redirect" title="Rollball">Rollball</a></li>
+<li><a href="/wiki/Roller_derby" title="Roller derby">Roller derby</a></li>
+<li><a href="/wiki/Slahal" title="Slahal">Slahal</a></li>
+<li><a href="/wiki/Snow_snake" title="Snow snake">Snow snake</a></li>
+<li><a href="/wiki/Synchronized_skating" title="Synchronized skating">Synchronized skating</a></li>
+<li><a href="/wiki/Synchronized_swimming" class="mw-redirect" title="Synchronized swimming">Synchronized swimming</a></li>
+<li><a href="/wiki/Tamburello" title="Tamburello">Tamburello</a></li>
+<li><a href="/wiki/Tchoukball" title="Tchoukball">Tchoukball</a>
+<ul><li><a href="/wiki/Beach" title="Beach">beach</a></li></ul></li>
+<li><a href="/wiki/Tejo_(sport)" title="Tejo (sport)">Tejo</a></li>
+<li><a href="/wiki/Tug_of_war" title="Tug of war">Tug of war</a></li>
+<li><a href="/wiki/Ulama_(game)" title="Ulama (game)">Ulama</a></li>
+<li><a href="/wiki/Ultimate_(sport)" title="Ultimate (sport)">Ultimate</a></li>
+<li><a href="/wiki/Underwater_football" title="Underwater football">Underwater football</a></li>
+<li><a href="/wiki/Underwater_rugby" title="Underwater rugby">Underwater rugby</a></li>
+<li><a href="/wiki/Valencian_pilota" title="Valencian pilota">Valencian pilota</a>
+<ul><li><a href="/wiki/Llargues" title="Llargues">Llargues</a></li></ul></li>
+<li><a href="/wiki/Water_polo" title="Water polo">Water polo</a>
+<ul><li><a href="/wiki/Canoe_polo" title="Canoe polo">canoe</a></li>
+<li><a href="/wiki/Inner_tube_water_polo" title="Inner tube water polo">inner tube</a></li>
+<li><a href="/wiki/Beach" title="Beach">beach</a></li></ul></li>
+<li><a href="/wiki/Waboba" title="Waboba">Waboba</a></li>
+<li><a href="/wiki/Whirlyball" title="Whirlyball">Whirlyball</a></li>
+<li><a href="/wiki/Woodball" title="Woodball">Woodball</a></li>
+<li><a href="/wiki/Yukigassen" title="Yukigassen">Yukigassen</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Hybrid_sports" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Hybrid_sport" title="Template:Hybrid sport"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Hybrid_sport" title="Template talk:Hybrid sport"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hybrid_sport&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Hybrid_sports" style="font-size:114%;margin:0 4em"><a href="/wiki/Hybrid_sport" title="Hybrid sport">Hybrid sports</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Austus" title="Austus">Austus</a></li>
+<li><a href="/wiki/Bossaball" title="Bossaball">Bossaball</a></li>
+<li><a href="/wiki/Chess_boxing" title="Chess boxing">Chess boxing</a></li>
+<li><a href="/wiki/Composite_rules_shinty%E2%80%93hurling" title="Composite rules shinty–hurling">Composite rules shinty–hurling</a></li>
+<li><a href="/wiki/Disc_golf" title="Disc golf">Disc golf</a></li>
+<li><a href="/wiki/Football_tennis" title="Football tennis">Football tennis</a></li>
+<li><a href="/wiki/Footgolf" title="Footgolf">Footgolf</a></li>
+<li><a href="/wiki/Footvolley" title="Footvolley">Footvolley</a></li>
+<li><a href="/wiki/International_rules_football" title="International rules football">International rules football</a></li>
+<li><a href="/wiki/Iomain" title="Iomain">Iomain</a></li>
+<li><a href="/wiki/Korfball" title="Korfball">Korfball</a></li>
+<li><a href="/wiki/Padbol" title="Padbol">Padbol</a></li>
+<li><a href="/wiki/Parahawking" title="Parahawking">Parahawking</a></li>
+<li><a href="/wiki/Polocrosse" title="Polocrosse">Polocrosse</a></li>
+<li><a href="/wiki/Samoa_rules" title="Samoa rules">Samoa rules</a></li>
+<li><a href="/wiki/Sepak_takraw" title="Sepak takraw">Sepak takraw</a></li>
+<li><a href="/wiki/Slamball" title="Slamball">Slamball</a></li>
+<li><a href="/wiki/Tennis_polo" title="Tennis polo">Tennis polo</a></li>
+<li><a href="/wiki/Universal_football" title="Universal football">Universal football</a></li>
+<li><a href="/wiki/Volata" title="Volata">Volata</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Sport_in_Scotland" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#007FFF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Sport_in_Scotland" title="Template:Sport in Scotland"><abbr title="View this template" style=";background:#007FFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sport_in_Scotland" title="Template talk:Sport in Scotland"><abbr title="Discuss this template" style=";background:#007FFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sport_in_Scotland&amp;action=edit"><abbr title="Edit this template" style=";background:#007FFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Sport_in_Scotland" style="font-size:114%;margin:0 4em"><a href="/wiki/Sport_in_Scotland" title="Sport in Scotland"><span style="color:white">Sport in Scotland</span></a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#FFFFFF;">By Sport</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=American_football_in_Scotland&amp;action=edit&amp;redlink=1" class="new" title="American football in Scotland (page does not exist)">American Football</a></li>
+<li><a href="/wiki/Football_in_Scotland" title="Football in Scotland">Association Football</a></li>
+<li><a href="/wiki/Australian_rules_football_in_Scotland" title="Australian rules football in Scotland">Australian rules football</a></li>
+<li><a href="/wiki/Baseball_in_Scotland" class="mw-redirect" title="Baseball in Scotland">Baseball</a></li>
+<li><a href="/w/index.php?title=Basketball_in_Scotland&amp;action=edit&amp;redlink=1" class="new" title="Basketball in Scotland (page does not exist)">Basketball</a></li>
+<li><a href="/wiki/Cricket_in_Scotland" title="Cricket in Scotland">Cricket</a></li>
+<li><a href="/wiki/Curling" title="Curling">Curling</a></li>
+<li><a href="/wiki/Historical_fencing_in_Scotland" title="Historical fencing in Scotland">Historical fencing</a></li>
+<li><a href="/wiki/Futsal_in_Scotland" title="Futsal in Scotland">Futsal</a></li>
+<li><a href="/wiki/Scotland_GAA" title="Scotland GAA">Gaelic Games</a></li>
+<li><a href="/wiki/Golf_in_Scotland" title="Golf in Scotland">Golf</a></li>
+<li><a href="/wiki/Highland_games" title="Highland games">Highland Games</a></li>
+<li><a href="/wiki/Horse_racing_in_Scotland" title="Horse racing in Scotland">Horse racing</a></li>
+<li><a href="/wiki/Ice_hockey_in_Scotland" title="Ice hockey in Scotland">Ice hockey</a></li>
+<li><a href="/wiki/Lacrosse_in_Scotland" title="Lacrosse in Scotland">Lacrosse</a></li>
+<li><a href="/wiki/Netball_in_Scotland" title="Netball in Scotland">Netball</a></li>
+<li><a href="/wiki/Rugby_union_in_Scotland" title="Rugby union in Scotland">Rugby union</a> (<a href="/wiki/Rugby_sevens" title="Rugby sevens">Rugby sevens</a>)</li>
+<li><a href="/wiki/Rugby_league_in_Scotland" title="Rugby league in Scotland">Rugby league</a></li>
+<li><a class="mw-selflink selflink">Shinty</a></li>
+<li><a href="/wiki/Tennis_in_Scotland" title="Tennis in Scotland">Tennis</a></li>
+<li><a href="/w/index.php?title=Governing_bodies&amp;action=edit&amp;redlink=1" class="new" title="Governing bodies (page does not exist)">Governing bodies</a></li>
+<li><a href="/w/index.php?title=National_teams&amp;action=edit&amp;redlink=1" class="new" title="National teams (page does not exist)">National teams</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#FFFFFF;">International sporting competitions</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Scotland_at_the_Commonwealth_Games" title="Scotland at the Commonwealth Games">Commonwealth Games</a></li>
+<li><a href="/wiki/Scotland_at_the_FIFA_World_Cup" title="Scotland at the FIFA World Cup">FIFA World Cup</a></li>
+<li>Olympics
+<ul><li><a href="/wiki/Campaign_for_a_Scottish_Olympic_Team" title="Campaign for a Scottish Olympic Team">Campaign for a Scottish Olympic Team</a></li>
+<li><a href="/wiki/Scottish_Olympic_medallists" title="Scottish Olympic medallists">Scottish Olympic medallists</a></li></ul></li>
+<li><a href="/wiki/Scotland_at_the_Rugby_World_Cup" title="Scotland at the Rugby World Cup">Rugby World Cup</a></li>
+<li><a href="/wiki/Scotland_national_cricket_team#Tournament_history" title="Scotland national cricket team">Cricket World Cup</a></li>
+<li><a href="/wiki/Island_Games" title="Island Games">Island Games</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p class="mw-empty-elt">
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw2229
+Cached time: 20180929134031
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.844 seconds
+Real time usage: 1.020 seconds
+Preprocessor visited node count: 4590/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 165641/2097152 bytes
+Template argument size: 11505/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 17/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 45071/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.435/10.000 seconds
+Lua memory usage: 18.73 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  767.665      1 -total
+ 26.52%  203.611      1 Template:Reflist
+ 22.89%  175.748     15 Template:Cn
+ 22.82%  175.154      1 Template:Infobox_sport
+ 22.25%  170.827      1 Template:Infobox
+ 21.63%  166.043     17 Template:Fix
+ 19.29%  148.104      1 Template:Native_name
+ 18.46%  141.693      1 Template:Lang
+ 13.97%  107.206     11 Template:Cite_web
+ 10.42%   80.015     16 Template:Delink
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:73107-0!canonical and timestamp 20180929134030 and revision id 860007937
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Shinty&amp;oldid=860007937">https://en.wikipedia.org/w/index.php?title=Shinty&amp;oldid=860007937</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Shinty" title="Category:Shinty">Shinty</a></li><li><a href="/wiki/Category:Sport_in_Highland_(council_area)" title="Category:Sport in Highland (council area)">Sport in Highland (council area)</a></li><li><a href="/wiki/Category:Sports_originating_in_Scotland" title="Category:Sports originating in Scotland">Sports originating in Scotland</a></li><li><a href="/wiki/Category:Team_sports" title="Category:Team sports">Team sports</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1:_Julian%E2%80%93Gregorian_uncertainty" title="Category:CS1: Julian–Gregorian uncertainty">CS1: Julian–Gregorian uncertainty</a></li><li><a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">CS1 maint: Archived copy as title</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_March_2016" title="Category:Articles with dead external links from March 2016">Articles with dead external links from March 2016</a></li><li><a href="/wiki/Category:Articles_containing_Scottish_Gaelic-language_text" title="Category:Articles containing Scottish Gaelic-language text">Articles containing Scottish Gaelic-language text</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2015" title="Category:Articles with unsourced statements from December 2015">Articles with unsourced statements from December 2015</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2018" title="Category:Articles with unsourced statements from August 2018">Articles with unsourced statements from August 2018</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_November_2016" title="Category:Articles needing additional references from November 2016">Articles needing additional references from November 2016</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_vague_or_ambiguous_time" title="Category:All articles with vague or ambiguous time">All articles with vague or ambiguous time</a></li><li><a href="/wiki/Category:Vague_or_ambiguous_time_from_December_2015" title="Category:Vague or ambiguous time from December 2015">Vague or ambiguous time from December 2015</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_February_2018" title="Category:Use dmy dates from February 2018">Use dmy dates from February 2018</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Shinty" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Shinty" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Shinty" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Shinty" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Shinty">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Shinty&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Shinty&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Shinty" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Shinty" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Shinty&amp;oldid=860007937" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Shinty&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q850256" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Shinty&amp;id=860007937" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Shinty">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Shinty&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Shinty&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Shinty" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B4%D9%8A%D9%86%D8%AA%D9%8A" title="شينتي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Camanachd" title="Camanachd – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Shinty" title="Shinty – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Camanachd" title="Camanachd – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Shinty" title="Shinty – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A3%CE%AF%CE%BD%CF%84%CE%B9_(%CE%AC%CE%B8%CE%BB%CE%B7%CE%BC%CE%B1)" title="Σίντι (άθλημα) – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Shinty" title="Shinty – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Shinty" title="Shinty – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D9%86%D8%AA%DB%8C" title="شینتی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Shinty" title="Shinty – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Camanachd" title="Camanachd – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Cammag_Albinagh" title="Cammag Albinagh – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Camanachd" title="Camanachd – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Shinty" title="Shinty – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Shinty" title="Shinty – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A9%D7%99%D7%A0%D7%98%D7%99" title="שינטי – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%B6%E0%A5%80%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A5%80" title="शीन्टी – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Shinty_(sport)" title="Shinty (sport) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Shinty" title="Shinty – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D0%BD%D1%82%D0%B8" title="Шинти – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Shinty" title="Shinty – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Shinty" title="Shinty – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Shinty" title="Shinty – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Shinty" title="Shinty – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Shinty" title="Shinty – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A8%D0%B8%D0%BD%D1%82%D1%96" title="Шинті – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Shinty" title="Shinty – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q850256#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 17 September 2018, at 18:50<span class="anonymous-show"> (UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Shinty&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.844","walltime":"1.020","ppvisitednodes":{"value":4590,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":165641,"limit":2097152},"templateargumentsize":{"value":11505,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":45071,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  767.665      1 -total"," 26.52%  203.611      1 Template:Reflist"," 22.89%  175.748     15 Template:Cn"," 22.82%  175.154      1 Template:Infobox_sport"," 22.25%  170.827      1 Template:Infobox"," 21.63%  166.043     17 Template:Fix"," 19.29%  148.104      1 Template:Native_name"," 18.46%  141.693      1 Template:Lang"," 13.97%  107.206     11 Template:Cite_web"," 10.42%   80.015     16 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.435","limit":"10.000"},"limitreport-memusage":{"value":19643664,"limit":52428800}},"cachereport":{"origin":"mw2229","timestamp":"20180929134031","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw2198"});});</script>
+	</body>
+</html>
