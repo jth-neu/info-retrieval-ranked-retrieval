@@ -154,11 +154,14 @@ def get_doc_snippet(docName, folder):
 
 
 def main(query_file, K, content_folder):
-    raw_queries = read_queries(query_file)
-    token_queries = transform_query(raw_queries)
-    for i in range(0, len(token_queries)):
-        results, contributions = top_k_results(token_queries[i], K)
-        write_output(raw_queries[i], token_queries[i], results, contributions, content_folder)
+    try:
+        raw_queries = read_queries(query_file)
+        token_queries = transform_query(raw_queries)
+        for i in range(0, len(token_queries)):
+            results, contributions = top_k_results(token_queries[i], K)
+            write_output(raw_queries[i], token_queries[i], results, contributions, content_folder)
+    except:
+        print('Unable to process. Please check your input.')
 
 main(args.QueryFileName, args.K, args.ContentFolderName)
 
